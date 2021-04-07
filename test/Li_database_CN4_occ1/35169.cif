@@ -1,0 +1,75 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35169-ICSD
+_database_code_ICSD 35169
+_audit_creation_date 1982-12-31
+_audit_update_record 2007-08-01
+_chemical_name_common 'Tetralithium silicate'
+_chemical_formula_structural 'Li4 (Si O4)'
+_chemical_formula_sum 'Li4 O4 Si1'
+_chemical_name_structure_type Li15(SiO4)3PO4
+_exptl_crystal_density_diffrn 2.4
+_citation_title
+
+;
+The crystal structure of Li3.75 Si.75 P.25 O4 and ionic conductivity in
+tetrahedral structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1982 44 50 59 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Baur, W.H.'
+primary 'Ohta, T.'
+_cell_length_a 5.147(1)
+_cell_length_b 6.094(1)
+_cell_length_c 5.293(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.33(2)
+_cell_angle_gamma 90.
+_cell_volume 166.02
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21/m 1'
+_space_group_IT_number 11
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Si1 Si4+ 2 e 0.66515(8) 0.25 0.32600(7) . 1.
+O1 O2- 4 f 0.7745(2) 0.0302(1) 0.1841(1) . 1.
+O2 O2- 2 e 0.3479(2) 0.25 0.3149(2) . 1.
+O3 O2- 2 e 0.7672(2) 0.25 0.6204(2) . 1.
+Li1 Li1+ 4 f 0.1651(7) 0.0047(6) 0.1721(6) 1.00(6) 0.567(6)
+Li2 Li1+ 2 e 0.3930(16) 0.25 0.6999(14) 2.08(10) 0.53(1)
+Li3 Li1+ 2 e 0.1680(14) 0.25 0.6363(13) 1.14(10) 0.414(10)
+Li4 Li1+ 4 f 0.4010(11) 0.9650(9) 0.1502(9) 1.60(6) 0.472(6)
+Li5 Li1+ 4 f 0.0666(18) 0.0372(17) 0.4601(16) 1.49(6) 0.247(6)
+Li6 Li1+ 2 e 0.0183(23) 0.25 0.9553(21) 3.35(12) 0.484(12)
+#End of TTdata_35169-ICSD

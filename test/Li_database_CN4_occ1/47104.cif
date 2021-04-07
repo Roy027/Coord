@@ -1,0 +1,92 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_47104-ICSD
+_database_code_ICSD 47104
+_audit_creation_date 1985-02-12
+_audit_update_record 1999-11-30
+_chemical_name_common 'Octalithium hexaoxoplumbate'
+_chemical_formula_structural 'Li8 (Pb O6)'
+_chemical_formula_sum 'Li8 O6 Pb1'
+_chemical_name_structure_type Li8IrO6
+_exptl_crystal_density_diffrn 4.28
+_citation_title 'Zur Kristallstruktur von Li8 Pb O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+515 81 86 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Barzel, B.'
+primary 'Hoppe, R.'
+_cell_length_a 5.5509(4)
+_cell_length_b 5.5509(4)
+_cell_length_c 15.6413(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 417.38
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R -3 H'
+_space_group_IT_number 148
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Pb1 Pb4+ 3 a 0 0 0 . 1.
+Li1 Li1+ 18 f 0.3707(26) 0.3551(28) 0.1215(7) . 1.
+Li2 Li1+ 6 c 0 0 0.3455(17) . 1.
+O1 O2- 18 f 0.011(1) 0.3218(9) 0.0828(3) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb4+ 0.0036(2) 0.0036(2) 0.0038(3) 0.0018 0 0
+Li1 Li1+ 0.010(5) 0.0163(54) 0.0098(41) 0.0047(44) -.0018(38) -.0054(43)
+Li2 Li1+ 0.0132(57) 0.0132(57) 0.0243(99) 0.0066(29) 0 0
+O1 O2- 0.0082(17) 0.0052(16) 0.0082(14) 0.0037(15) 0.0014(14) -.0001(14)
+#End of TTdata_47104-ICSD

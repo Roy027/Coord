@@ -1,0 +1,78 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_7-ICSD
+_database_code_ICSD 7
+_audit_creation_date 1980-01-01
+_audit_update_record 2014-08-01
+_chemical_name_common 'Lithium dihydrogenphosphate(III)'
+_chemical_formula_structural 'Li (H2 P O3)'
+_chemical_formula_sum 'H2 Li1 O3 P1'
+_chemical_name_structure_type LiH2PO3
+_exptl_crystal_density_diffrn 2.03
+_citation_title
+
+;
+A neutron diffraction refinement of the crystal structure of lithium hydrogen
+phosphite, Li H2 P O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1976 32 412 414 ACBCAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Johansson, G.B.'
+primary 'Lindqvist, O.'
+_cell_length_a 5.169(2)
+_cell_length_b 11.024(2)
+_cell_length_c 5.060(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 288.33
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 21 n b'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, z+1/2'
+3 'x+1/2, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P3+ 3
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+P1 P3+ 4 a 0.245 0.1535(1) 0.1802(3) . 1.
+O1 O2- 4 a 0.2044(5) 0.2868(1) 0.2303(38) . 1.
+O2 O2- 4 a 0.5443(4) 0.1226(1) 0.1661(38) . 1.
+O3 O2- 4 a 0.1234(4) 0.0696(1) 0.3722(3) . 1.
+Li1 Li1+ 4 a 0.2617(9) 0.4203(4) -.0126(9) . 1.
+H1 H1+ 4 a 0.6577(8) 0.3712(3) 0.4246(7) . 1.
+H2 H1+ 4 a 0.1236(6) 0.3405(3) 0.5003(6) . 1.
+#End of TTdata_7-ICSD

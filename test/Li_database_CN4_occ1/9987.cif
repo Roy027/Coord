@@ -1,0 +1,71 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_9987-ICSD
+_database_code_ICSD 9987
+_audit_creation_date 1980-01-01
+_audit_update_record 2000-07-15
+_chemical_name_common 'Hexalithium digallium borate'
+_chemical_formula_structural 'Li6 Ga2 (B O3)4'
+_chemical_formula_sum 'B4 Ga2 Li6 O12'
+_chemical_name_structure_type Li3AlB2O6
+_exptl_crystal_density_diffrn 3.05
+_citation_title 'Crystal structure of lithium gallium borate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii' 1972 13 943 946 ZSTKAI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Abdullaev, G.K.'
+primary 'Mamedov, Kh.S.'
+_cell_length_a 6.23(3)
+_cell_length_b 4.90(2)
+_cell_length_c 8.42(5)
+_cell_angle_alpha 90.0(5)
+_cell_angle_beta 118.0(5)
+_cell_angle_gamma 90.0(5)
+_cell_volume 226.95
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ga3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 2 i 0.14 0.308 0.557 0.4(5) 1.
+Li2 Li1+ 2 i 0.125 0.847 0.72 0.4(5) 1.
+Li3 Li1+ 2 i 0.494 0.972 0.684 0.4(5) 1.
+Ga1 Ga3+ 2 i 0.185 0.363 0.235 0.4(5) 1.
+B1 B3+ 2 i 0.278 0.817 0.433 0.4(5) 1.
+B2 B3+ 2 i 0.301 0.353 0.95 0.4(5) 1.
+O1 O2- 2 i 0.308 0.196 0.092 0.4(5) 1.
+O2 O2- 2 i 0.225 0.096 0.405 0.4(5) 1.
+O3 O2- 2 i 0.206 0.694 0.538 0.4(5) 1.
+O4 O2- 2 i 0.321 0.221 0.818 0.4(5) 1.
+O5 O2- 2 i 0.193 0.605 0.913 0.4(5) 1.
+O6 O2- 2 i 0.358 0.687 0.33 0.4(5) 1.
+#End of TTdata_9987-ICSD

@@ -1,0 +1,88 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_63181-ICSD
+_database_code_ICSD 63181
+_audit_creation_date 1989-12-04
+_audit_update_record 2003-04-01
+_chemical_name_common 'Lithium cesium sulfate(VI) - LT'
+_chemical_formula_structural 'Li Cs (S O4)'
+_chemical_formula_sum 'Cs1 Li1 O4 S1'
+_chemical_name_structure_type CsLiBeF4
+_exptl_crystal_density_diffrn 3.49
+_diffrn_ambient_temperature 202.
+_citation_title
+
+;
+X-ray study of Li Cs S O4 in connection with its ferroelastic phase transition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Physical Society of Japan' 1988 57 4184 4190 JUPSAU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Asahi, T.'
+primary 'Hasebe, K.'
+_cell_length_a 5.433(1)
+_cell_length_b 9.421(2)
+_cell_length_c 8.780(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.14(2)
+_cell_volume 449.4
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 1 21/n'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 '-x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+S6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 4 e 0.7544(1) 0.2173(1) 0.4986(1) . 1.
+S1 S6+ 4 e 0.2484(8) 0.0823(1) 0.2047(1) . 1.
+O1 O2- 4 e 0.2436(28) 0.0830(8) 0.0399(5) . 1.
+O2 O2- 4 e 0.2066(15) 0.2252(7) 0.2618(10) . 1.
+O3 O2- 4 e 0.0528(13) -.0114(9) 0.2586(9) . 1.
+O4 O2- 4 e 0.4825(13) 0.0271(9) 0.2639(8) . 1.
+Li1 Li1+ 4 e 0.2261(42) 0.4154(18) 0.3329(18) 0.0216(31) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0136(1) 0.0141(1) 0.0121(1) -0.0011(3) 0.0006(5) 0.0003(1)
+S1 S6+ 0.0062(3) 0.0071(4) 0.0071(4) 0.0002(14) 0.0010(14) -0.0014(3)
+O1 O2- 0.0182(23) 0.0424(31) 0.0057(13) 0.0053(66) -0.0037(42) 0.0046
+O2 O2- 0.0342(54) 0.0124(23) 0.0398(40) 0.0060(24) 0.0020(31) -0.008
+O3 O2- 0.0184(26) 0.0287(34) 0.0212(29) -0.0086(27) -0.0118(22) 0.007
+O4 O2- 0.0139(23) 0.0297(34) 0.0178(27) 0.0119(23) -0.0101(20) -0.0012
+#End of TTdata_63181-ICSD

@@ -1,0 +1,101 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66097-ICSD
+_database_code_ICSD 66097
+_audit_creation_date 1992-01-20
+_chemical_name_common 'Lithium chromium nitride (15/2/9)'
+_chemical_formula_structural 'Li15 Cr2 N9'
+_chemical_formula_sum 'Cr2 Li15 N9'
+_exptl_crystal_density_diffrn 2.26
+_citation_title 'Ternaere Nitride des Lithiums mit den Elementen Cr, Mo und W'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+1990 45 111 120 ZNBSEN
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Gudat, A.'
+primary 'Haag, S.'
+primary 'Kniep, R.'
+primary 'Rabenau, A.'
+_cell_length_a 10.233(5)
+_cell_length_b 10.233(5)
+_cell_length_c 9.389(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 983.16
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 4/n c c Z'
+_space_group_IT_number 130
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, -z+1/2'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z+1/2'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z+1/2'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z+1/2'
+15 '-x+1/2, y, z+1/2'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr6+ 6
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cr1 Cr6+ 8 f 0.4195(2) 0.5805(2) 0.25 . 1.
+N1 N3- 16 g 0.0617(8) 0.4156(10) 0.1447(7) . 1.
+N2 N3- 16 g 0.0855(9) -.2170(7) 0.1326(9) . 1.
+N3 N3- 4 c 0.25 0.25 0.3911(17) . 1.
+Li1 Li1+ 16 g -.0850(18) -.2699(20) 0.2349(34) . 1.
+Li2 Li1+ 16 g 0.215(2) 0.4123(19) 0.0066(28) . 1.
+Li3 Li1+ 16 g 0.4000(17) 0.5655(23) -.0221(17) . 1.
+Li4 Li1+ 4 a 0.75 0.25 0.25 . 1.
+Li5 Li1+ 4 b 0.75 0.25 0 . 1.
+Li6 Li1+ 8 f -.0969(40) 0.0969(40) 0.25 0.0126(89) 0.5
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr6+ 0.0072(4) 0.0072(4) 0.0160(6) -.0009(17) 0.0025(16) 0.0026(16)
+N1 N3- 0.0130(47) 0.0158(31) 0.0138(28) 0.0000(54) 0.0009(28) 0.0015(40)
+N2 N3- 0.0105(37) 0.0124(45) 0.0219(41) -.0016(48) -.0022(48) 0.0022(31)
+N3 N3- 0.0197(55) 0.0197(55) 0.0148(79) 0 0 0
+Li1 Li1+ 0.0445(85) 0.0132(92) 0.052(14) -0.011(11) -0.038(13) 0.006(10)
+Li2 Li1+ 0.024(10) 0.024(10) 0.011(13) 0 0 0
+Li3 Li1+ 0.047(14) 0.0228(93) 0.038(11) 0.0015(94) 0.007(12) -0.004(11)
+Li4 Li1+ 0.0136(88) 0.0150(98) 0.0480(74) 0 0 0
+Li5 Li1+ 0.038(12) 0.038(12) 0.006(12) 0 0 0
+#End of TTdata_66097-ICSD

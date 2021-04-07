@@ -1,0 +1,97 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36531-ICSD
+_database_code_ICSD 36531
+_audit_creation_date 1992-08-20
+_chemical_name_common 'Tricesium sodium dilithium bis(borate)'
+_chemical_formula_structural 'Cs3 Na (Li2 (B O3)2)'
+_chemical_formula_sum 'B2 Cs3 Li2 Na1 O6'
+_exptl_crystal_density_diffrn 3.87
+_citation_title
+'Das erste quinquinaere Orthoborat der Alkalimetalle: Cs3Na(Li2(BO3)2)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1991
+605 25 34 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Schlaeger, M.'
+primary 'Hoppe, R.'
+_cell_length_a 10.267(7)
+_cell_length_b 7.334(4)
+_cell_length_c 6.733(5)
+_cell_angle_alpha 103.92(5)
+_cell_angle_beta 101.41(6)
+_cell_angle_gamma 96.68(5)
+_cell_volume 475.16
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Na1+ 1
+Li1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 2 i 0.1284(1) 0.2258(1) 0.2140(1) . 1.
+Cs2 Cs1+ 2 i 0.0753(1) 0.7311(1) 0.3529(1) . 1.
+Cs3 Cs1+ 2 i 0.4823(1) 0.3030(1) 0.1823(1) . 1.
+Na1 Na1+ 2 i 0.4164(4) 0.8269(5) 0.3271(6) . 1.
+Li1 Li1+ 2 i 0.7588(15) 0.5995(21) 0.2280(26) . 1.
+Li2 Li1+ 2 i 0.7636(18) 0.0886(20) 0.2036(24) . 1.
+B1 B3+ 2 i 0.7801(9) 0.3120(13) 0.0314(15) . 1.
+B2 B3+ 2 i 0.3136(9) 0.1306(13) 0.6492(15) . 1.
+O1 O2- 2 i 0.1623(7) 0.6303(9) 0.751(1) . 1.
+O2 O2- 2 i 0.1854(6) 0.1252(9) 0.6949(11) . 1.
+O3 O2- 2 i 0.3747(6) 0.9751(8) 0.6531(10) . 1.
+O4 O2- 2 i 0.2604(7) 0.5539(9) 0.070(1) . 1.
+O5 O2- 2 i 0.2371(7) 0.8769(9) 0.071(1) . 1.
+O6 O2- 2 i 0.6259(7) 0.7025(9) 0.3770(11) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0266(3) 0.0225(3) 0.0358(3) 0.0071(2) 0.0116(3) 0.0117(2)
+Cs2 Cs1+ 0.0187(3) 0.0212(3) 0.0217(3) 0.0012(2) 0.0076(2) 0.0063(2)
+Cs3 Cs1+ 0.0212(3) 0.0223(3) 0.0370(3) 0.0030(2) 0.0053(2) 0.0121(2)
+Na1 Na1+ 0.0223(18) 0.0201(17) 0.0230(17) 0.0020(14) 0.0079(15) 0.0046(14)
+Li1 Li1+ 0.0137(66) 0.0153(66) 0.0301(81) 0.0015(54) 0.0052(61) 0.0054(60)
+Li2 Li1+ 0.0363(90) 0.0119(65) 0.0178(69) 0.0065(62) 0.0105(66) 0.0037(55)
+B1 B3+ 0.0133(38) 0.0161(39) 0.0197(41) 0.0003(31) 0.0059(33) 0.0040(33)
+B2 B3+ 0.0133(38) 0.0149(39) 0.0202(42) 0.0021(32) 0.0047(33) 0.0028(33)
+O1 O2- 0.0259(33) 0.0189(30) 0.0256(33) 0.0000(25) -.0022(27) 0.0121(26)
+O2 O2- 0.0176(29) 0.0158(28) 0.0390(38) 0.0018(23) 0.0110(28) 0.0109(27)
+O3 O2- 0.0236(31) 0.0146(26) 0.0258(31) 0.0054(24) 0.0124(26) 0.0078(24)
+O4 O2- 0.0320(36) 0.0189(30) 0.0232(31) 0.0079(27) 0.0075(28) 0.0090(25)
+O5 O2- 0.0389(39) 0.0156(29) 0.0227(31) 0.0048(27) 0.0124(29) 0.0048(24)
+O6 O2- 0.0231(32) 0.0170(29) 0.0372(37) 0.0025(25) 0.0122(29) 0.0124(27)
+#End of TTdata_36531-ICSD

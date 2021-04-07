@@ -1,0 +1,80 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14045-ICSD
+_database_code_ICSD 14045
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_common 'Rubidium dilithium tris(iodate(V))'
+_chemical_formula_structural 'Rb Li2 (I O3)3'
+_chemical_formula_sum 'I3 Li2 O9 Rb1'
+_chemical_name_structure_type RbLi2(IO3)3
+_exptl_crystal_density_diffrn 4.25
+_citation_title 'Crystal structure of Rb I O3 (Li I O3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Koordinatsionnaya Khimiya' 1978 4 444 447 KOKHDC
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kalinin, V.P.'
+primary 'Karataeva, I.M.'
+primary 'Vinogradov, E.E.'
+primary 'Vavilin, V.I.'
+primary 'Plyukhin, V.V.'
+primary 'Pakhomov, V.I.'
+_cell_length_a 8.46(2)
+_cell_length_b 11.22(2)
+_cell_length_c 11.09(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 112.0(1)
+_cell_volume 976.02
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 1 21/b'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 '-x, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I5+ 5
+Rb1+ 1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+I1 I5+ 4 e 0.219(1) 0.174(1) 0.053(1) 0.554(1) 1.
+I2 I5+ 4 e 0.412(1) 0.046(1) 0.320(1) 0.490(1) 1.
+I3 I5+ 4 e 0.915(1) 0.064(1) 0.369(1) 0.441(1) 1.
+Rb1 Rb1+ 4 e 0.708(1) 0.162(2) 0.044(2) 0.891(1) 1.
+O1 O2- 4 e 0.964(3) 0.334(4) 0.453(6) 2.30(1) 1.
+O2 O2- 4 e 0.661(6) 0.391(6) 0.460(5) 0.98(1) 1.
+O3 O2- 4 e 0.656(4) 0.158(4) 0.536(3) 1.36(1) 1.
+O4 O2- 4 e 0.256(3) 0.443(5) 0.285(4) 0.91(1) 1.
+O5 O2- 4 e 0.456(4) 0.191(4) 0.237(4) 1.64(1) 1.
+O6 O2- 4 e 0.599(4) 0.011(5) 0.280(4) 0.71(1) 1.
+O7 O2- 4 e 0.976(6) 0.172(4) 0.242(4) 1.28(1) 1.
+O8 O2- 4 e 0.139(5) 0.086(4) 0.702(3) 1.11(1) 1.
+O9 O2- 4 e 0.128(4) 0.085(3) 0.423(5) 2.11(1) 1.
+Li1 Li1+ 4 e 0.009(22) 0.335(17) 0.278(15) 0.91(1) 1.
+Li2 Li1+ 4 e 0.619(20) 0.375(15) 0.284(14) 0.71(1) 1.
+#End of TTdata_14045-ICSD

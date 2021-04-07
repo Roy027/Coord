@@ -1,0 +1,84 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69560-ICSD
+_database_code_ICSD 69560
+_audit_creation_date 1992-08-20
+_audit_update_record 2012-08-01
+_chemical_name_common 'Tetrasilver dilithium cyclo-hexaphosphate dihydrate'
+_chemical_formula_structural 'Ag4 Li2 (P6 O18) (H2 O)2'
+_chemical_formula_sum 'H4 Ag4 Li2 O20 P6'
+_chemical_name_structure_type BiH(PO3)4
+_exptl_crystal_density_diffrn 3.68
+_citation_title
+
+;
+Crystal chemistry of cyclo-hexaphosphates. XIII.Structure of silver lithium
+cyclo-hexaphosphate dihydrate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1991 47 1150 1152 ACSCEE
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Averbuch-Pouchot, M.T.'
+primary 'Durif, A.'
+_cell_length_a 8.408(2)
+_cell_length_b 7.602(2)
+_cell_length_c 7.566(2)
+_cell_angle_alpha 107.47(3)
+_cell_angle_beta 106.09(3)
+_cell_angle_gamma 72.64(3)
+_cell_volume 430.84
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+Li1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ag1 Ag1+ 2 i 0.59886(3) 0.43519(4) 0.33443(4) . 1.
+Ag2 Ag1+ 2 i 0.01486(4) 0.69332(4) 0.41424(5) . 1.
+Li1 Li1+ 2 i 0.6644(7) 0.7130(9) 0.0867(9) . 1.
+P1 P5+ 2 i 0.73148(9) 0.7614(1) 0.7368(1) . 1.
+P2 P5+ 2 i 0.90706(9) 0.2881(1) 0.0999(1) . 1.
+P3 P5+ 2 i 0.67323(9) 0.1752(1) 0.7404(1) . 1.
+O1 O2- 2 i 0.6047(3) 0.7386(4) 0.8246(4) . 1.
+O2 O2- 2 i 0.7840(3) 0.6154(4) 0.5682(4) . 1.
+O3 O2- 2 i 0.6706(4) 0.9572(3) 0.6772(4) . 1.
+O4 O2- 2 i 0.8943(3) 0.7851(3) 0.9016(3) . 1.
+O5 O2- 2 i 0.6933(4) 0.2200(4) 0.5714(4) . 1.
+O6 O2- 2 i 0.5288(3) 0.2910(4) 0.8304(4) . 1.
+O7 O2- 2 i 0.8483(3) 0.1725(3) 0.8900(4) . 1.
+O8 O2- 2 i 0.8672(3) 0.2125(3) 0.2382(4) . 1.
+O9 O2- 2 i 0.8513(3) 0.4952(3) 0.1152(4) . 1.
+O10 O2- 2 i 0.2201(3) 0.0899(3) 0.7261(3) . 1.
+H1 H1+ 2 i 0.196(8) 0.020(9) 0.77(1) 2.(1) 1.
+H2 H1+ 2 i 0.710(8) 0.982(9) 0.31(1) 2.(1) 1.
+#End of TTdata_69560-ICSD

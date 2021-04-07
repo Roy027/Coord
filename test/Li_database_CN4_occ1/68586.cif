@@ -1,0 +1,97 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68586-ICSD
+_database_code_ICSD 68586
+_audit_creation_date 1991-07-10
+_audit_update_record 2012-02-01
+_chemical_name_common 'Lithium tecto-alumosilicate hydrate *'
+_chemical_formula_structural 'Li1.86 (Al2 Si3.89 O12) (H2 O)2'
+_chemical_formula_sum 'H4 Al2 Li1.86 O14 Si3.89'
+_chemical_name_structure_type Bikitaite-1A-frame#Li2Al2Si4O12(H2O)2
+_chemical_name_mineral ''Bikitaite 1A''
+_exptl_crystal_density_diffrn 2.28
+_diffrn_ambient_temperature 295.
+_citation_title
+
+;
+One-dimensional water chain in the zeolite bikitaite: neutron diffraction
+study at 13 and 295K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Zeolites 1989 9 303 311 ZEOLD3
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Stahl, K.'
+primary 'Kvick, A.'
+primary 'Ghose, S.'
+_cell_length_a 8.6071(9)
+_cell_length_b 4.9540(5)
+_cell_length_c 7.5972(7)
+_cell_angle_alpha 89.900(7)
+_cell_angle_beta 114.437(8)
+_cell_angle_gamma 89.988(8)
+_cell_volume 294.92
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P 1'
+_space_group_IT_number 1
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+Si4+ 4
+O2- -2
+Li1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Si1 Si4+ 1 a 0.1057(3) 0.8645(5) 0.0975(3) . 0.957(12)
+Si2 Si4+ 1 a 0.1038 0.8006 0.5049 . 0.981(13)
+Al1 Al3+ 1 a 0.3803(3) 0.8749(5) 0.9374(3) . 1.
+Al2 Al3+ 1 a 0.8985(3) 0.3639(5) 0.9065(3) . 1.
+Si3 Si4+ 1 a 0.8920(2) 0.2984(5) 0.4877(3) . 0.981(13)
+Si4 Si4+ 1 a 0.6187(3) 0.3748(5) 0.0630(3) . 0.975(12)
+O1 O2- 1 a 0.2641(2) 0.7404(4) 0.0569(3) . 1.
+O2 O2- 1 a 0.0830(2) 0.1853(4) 0.0413(3) . 1.
+O3 O2- 1 a 0.1584(3) 0.8281(5) 0.3279(3) . 1.
+O4 O2- 1 a 0.0557(3) 0.4868(5) 0.5173(3) . 1.
+O5 O2- 1 a 0.2612(3) 0.8920(5) 0.6947(3) . 1.
+O6 O2- 1 a 0.4496(2) 0.1940(4) 0.0282(3) . 1.
+O7 O2- 1 a 0.7311(2) 0.2433(4) 0.9552(3) . 1.
+O8 O2- 1 a 0.9283(2) 0.7021(4) 0.9708(3) . 1.
+O9 O2- 1 a 0.8414(3) 0.3281(5) 0.6655(3) . 1.
+O10 O2- 1 a 0.9378(3) 0.9872(5) 0.4657(3) . 1.
+O11 O2- 1 a 0.7318(3) 0.3929(5) 0.2966(3) . 1.
+O12 O2- 1 a 0.5593(2) 0.6797(4) 0.9807(3) . 1.
+Li1 Li1+ 1 a 0.3095(5) 0.3657(9) 0.1469(7) . 0.910(28)
+Li2 Li1+ 1 a 0.6995(6) 0.8665(10) 0.8722(7) . 0.947(29)
+O13 O2- 1 a 0.4083(3) 0.3224(6) 0.4347(4) . 1.
+H1 H1+ 1 a 0.3230(9) 0.2849(17) 0.4786(10) . 1.
+H2 H1+ 1 a 0.4870(8) 0.1784(12) 0.4863(8) . 1.
+O14 O2- 1 a 0.5991(3) 0.8225(6) 0.5871(4) . 1.
+H3 H1+ 1 a 0.6853(8) 0.7872(19) 0.542(1) . 1.
+H4 H1+ 1 a 0.5214(8) 0.6763(12) 0.5343(8) . 1.
+#End of TTdata_68586-ICSD

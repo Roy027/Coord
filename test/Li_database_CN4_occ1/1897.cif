@@ -1,0 +1,76 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1897-ICSD
+_database_code_ICSD 1897
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_common 'Dilithium closo-ditungstate'
+_chemical_formula_structural 'Li2 (W2 O7)'
+_chemical_formula_sum 'Li2 O7 W2'
+_chemical_name_structure_type Li2W2O7
+_exptl_crystal_density_diffrn 6.08
+_citation_title 'The crystal structure of Li2 W2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 1451 1454 ACBCAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Morikawa, H.'
+primary 'Okada, K.'
+primary 'Marumo, F.'
+primary 'Iwai, S.I.'
+_cell_length_a 8.283(3)
+_cell_length_b 7.050(1)
+_cell_length_c 5.037(1)
+_cell_angle_alpha 85.40(2)
+_cell_angle_beta 102.13(3)
+_cell_angle_gamma 110.29(1)
+_cell_volume 269.72
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+W1 W6+ 2 i 0.17852(7) 0.24834(9) 0.30834(12) . 1.
+W2 W6+ 2 i 0.66509(7) 0.45137(8) 0.18348(12) . 1.
+Li1 Li1+ 2 i 0.2793(57) 0.0085(65) 0.8540(87) 2.7 1.
+Li2 Li1+ 2 i 0.9032(57) 0.2645(65) 0.7089(88) 1.9 1.
+O1 O2- 2 i 0.8689(16) 0.6019(18) 0.0450(25) 1. 1.
+O2 O2- 2 i 0.7005(15) 0.7497(18) 0.3511(25) 1. 1.
+O3 O2- 2 i 0.8181(17) 0.9763(20) 0.8232(27) 1.2 1.
+O4 O2- 2 i 0.5757(16) 0.5820(18) 0.8222(25) 1. 1.
+O5 O2- 2 i 0.6268(19) 0.2109(22) 0.0685(29) 1.5 1.
+O6 O2- 2 i 0.9628(18) 0.1894(20) 0.3517(27) 1.2 1.
+O7 O2- 2 i 0.7635(17) 0.4348(19) 0.5313(26) 1.1 1.
+#End of TTdata_1897-ICSD

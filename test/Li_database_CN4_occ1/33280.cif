@@ -1,0 +1,87 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_33280-ICSD
+_database_code_ICSD 33280
+_audit_creation_date 1985-12-31
+_chemical_name_common 'Dipotassium lithium tetraoxoferrate(III)'
+_chemical_formula_structural 'K2 Li3 (Fe O4)'
+_chemical_formula_sum 'Fe1 K2 Li3 O4'
+_chemical_name_structure_type K2Li3GaO4
+_exptl_crystal_density_diffrn 2.89
+_citation_title 'Neue Oxoferrate(III) Na2 Li3 (Fe O4) und K2 Li3 (Fe O4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1985
+520 39 50 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Luge, R.'
+primary 'Hoppe, R.'
+_cell_length_a 5.577(1)
+_cell_length_b 8.806(1)
+_cell_length_c 11.018(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.51(2)
+_cell_angle_gamma 90.
+_cell_volume 503.42
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 21/c 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+K1+ 1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Fe1 Fe3+ 4 e 0.8993(2) 0.7883(1) 0.5629(1) . 1.
+K1 K1+ 4 e 0.7191(3) 0.2742(2) 0.6084(1) . 1.
+K2 K1+ 4 e 0.7021(3) 0.4934(2) 0.3605(1) . 1.
+O1 O2- 4 e 0.2555(8) 0.6784(5) 0.1433(4) . 1.
+O2 O2- 4 e 0.7668(8) 0.8101(5) 0.3801(4) . 1.
+O3 O2- 4 e 0.7824(8) 0.8922(5) 0.1148(4) . 1.
+O4 O2- 4 e 0.7449(8) 0.9482(5) 0.6231(4) . 1.
+Li1 Li1+ 4 e 0.6221(21) 0.7381(12) 0.2001(10) 0.0117(22) 1.
+Li2 Li1+ 4 e 0.9091(23) 0.9651(13) 0.2949(11) 0.0169(24) 1.
+Li3 Li1+ 4 e 0.3722(20) 0.5104(12) 0.0714(10) 0.0107(21) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0042(4) 0.0072(4) 0.0069(4) 0.0002(4) 0.0028(3) 0.0007(4)
+K1 K1+ 0.0149(7) 0.0161(7) 0.0161(7) -.0016(6) 0.0092(6) -.0026(6)
+K2 K1+ 0.0162(7) 0.0108(6) 0.0165(7) 0.0004(6) 0.0078(6) 0.0010(6)
+O1 O2- 0.0022(19) 0.0133(22) 0.0133(20) 0.0007(16) 0.0013(17) -.0055(17)
+O2 O2- 0.0117(21) 0.0062(20) 0.0125(19) -.0007(17) 0.0049(17) 0.0010(17)
+O3 O2- 0.0125(22) 0.0117(20) 0.0107(20) 0.0014(18) 0.0090(18) -.0013(17)
+O4 O2- 0.0085(21) 0.0109(20) 0.0094(19) 0.0008(17) 0.0053(17) -.0018(16)
+#End of TTdata_33280-ICSD

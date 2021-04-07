@@ -1,0 +1,86 @@
+
+#(C) 2020 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59936-ICSD
+_database_code_ICSD 59936
+_audit_creation_date 2005-10-01
+_chemical_name_common 'Lithium chlorate(III)'
+_chemical_formula_structural 'Li Cl O2'
+_chemical_formula_sum 'Cl1 Li1 O2'
+_exptl_crystal_density_diffrn 2.15
+_citation_title 'Two alkali metal chlorites, Li Cl O2 and K Cl O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2005 61 i17 i19 ACSCEE
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Smolentsev, A.I.'
+primary 'Naumov, D.Yu.'
+_cell_length_a 4.7223(11)
+_cell_length_b 4.7223(11)
+_cell_length_c 10.298(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 229.65
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 42/n c m Z'
+_space_group_IT_number 138
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, -z'
+2 'y+1/2, -x, -z+1/2'
+3 '-y, x+1/2, -z+1/2'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 '-y+1/2, x, z+1/2'
+11 'y, -x+1/2, z+1/2'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z+1/2'
+15 '-x+1/2, y, z+1/2'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cl3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 b 0.25 0.75 0.25 0.028(3) 1
+Cl1 Cl3+ 4 e 0.75 0.75 0.06960(18) 0.0256(6) 1
+O1 O2- 8 i 0.5565(6) 0.5565(6) 0.1575(4) 0.0248(11) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.028(4) 0.028(4) 0.028(6) 0. 0. 0.
+Cl1 Cl3+ 0.0256(8) 0.0256(8) 0.0256(10) 0.0001(18) 0. 0.
+O1 O2- 0.0196(15) 0.0196(15) 0.035(2) 0.0022(18) 0.0049(15) 0.0049(15)
+#End of TTdata_59936-ICSD
