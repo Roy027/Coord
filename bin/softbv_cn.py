@@ -2,6 +2,7 @@ import subprocess
 import os
 import glob
 import numpy as np
+import json
 from datetime import datetime
 
 save_address = "../test/cifDic_20210407.npy"
@@ -60,7 +61,7 @@ def calAngleToSiteDic(SiteDic):
         for i in range(1,l-1):
             for j in range(i+1,l):
                 SiteDic[site][2].append(calAngleDeg(SiteDic[site][1][0][1], SiteDic[site][1][i][1], SiteDic[site][1][j][1]))
-        SiteDic[site][2]=np.sort(SiteDic[site][2])[::-1]
+        SiteDic[site][2].sort(reverse=True)
     return SiteDic
 
 def calAngleCos(V0,V1,V2):
@@ -70,7 +71,9 @@ def calAngleCos(V0,V1,V2):
     Va = V1 - V0   
     Vb = V2 - V0
     cos = np.dot(Va/np.linalg.norm(Va), Vb/np.linalg.norm(Vb))
-    return round(cos, 4)
+    cos = round(cos, 4)
+    cos = cos.tolist()
+    return cos
 # Calculate the angle radians
 def calAngle(V0,V1,V2):
     V0 = np.asarray(V0)
@@ -80,6 +83,8 @@ def calAngle(V0,V1,V2):
     Vb = V2 - V0
     dot_product = round(np.dot(Va/np.linalg.norm(Va), Vb/np.linalg.norm(Vb)),4)
     angle = np.arccos(dot_product)
+    angle = np.around(angle, 3)
+    angle = angle.tolist()
     return angle
 
 def calAngleDeg(V0,V1,V2):
@@ -89,6 +94,8 @@ def calAngleDeg(V0,V1,V2):
     dot_product = round(np.dot(Va/np.linalg.norm(Va), Vb/np.linalg.norm(Vb)),4)
     angle = np.arccos(dot_product)
     deg = np.rad2deg(angle)
+    deg = np.around(deg,3)  
+    deg = deg.tolist()
     return deg
 
 # Main Process
@@ -104,4 +111,5 @@ for cif in all_files:
     SiteDic = calAngleToSiteDic(SiteDic)
     cifDic[cif_name].append(SiteDic)
 
-np.save(save_address, cifDic)
+with open('../test/cifDic.json', 'w') as fp:
+    json.dump(cifDic,fp)
