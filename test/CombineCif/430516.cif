@@ -1,0 +1,99 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430516-ICSD
+_database_code_ICSD 430516
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Lithium scandium hexaoxodigermanate'
+_chemical_formula_structural 'Li Sc Ge2 O6'
+_chemical_formula_sum 'Ge2 Li1 O6 Sc1'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_exptl_crystal_density_diffrn 4.15
+_cell_measurement_temperature 293.
+_cell_measurement_pressure 100.
+_publ_section_title
+
+;
+High-pressure crystallography and compression behavior of the
+alkali-scandium-germanate end-members LiScGe2O6 and NaScGe2O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 229 188 196 JSSCBI
+loop_
+_publ_author_name
+'Hofer, Gregor'
+'Kuzel, Johann'
+'Scheidl, Katharina S.'
+'Redhammer, Guenther'
+'Miletich, Ronald'
+_cell_length_a 9.9981(6)
+_cell_length_b 9.1044(6)
+_cell_length_c 5.4616(3)
+_cell_angle_alpha 90
+_cell_angle_beta 109.241(5)
+_cell_angle_gamma 90
+_cell_volume 469.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0215
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Sc3+ 3
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 4 e 0.94985(2) 0.16091(2) 0.20386(2) 0.00514(3) 1 0
+Ge2 Ge4+ 4 e 0.55445(2) 0.16320(2) 0.24412(2) 0.00503(3) 1 0
+Sc1 Sc3+ 4 e 0.25101(2) 0.35186(2) 0.21971(4) 0.00507(4) 1 0
+Li1 Li1+ 4 e 0.7451(4) 0.0096(4) -0.2224(7) 0.0201(6) 1 0
+O1 O2- 4 e 0.88205(12) -0.01238(11) 0.1908(2) 0.01086(16) 1 0
+O2 O2- 4 e 1.13493(10) 0.17099(10) 0.32225(18) 0.00640(13) 1 0
+O3 O2- 4 e 0.87997(11) 0.28419(12) 0.37771(18) 0.00961(15) 1 0
+O4 O2- 4 e 0.63221(11) 0.00443(11) 0.39189(19) 0.00863(15) 1 0
+O5 O2- 4 e 0.36836(10) 0.16845(10) 0.12085(17) 0.00642(13) 1 0
+O6 O2- 4 e 0.60936(11) 0.19186(11) -0.02956(18) 0.00856(15) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.00415(6) 0.00657(6) 0.00504(5) -0.00111(4) 0.00198(4) -0.00013(3)
+Ge2 Ge4+ 0.00416(6) 0.00619(6) 0.00486(5) 0.00100(4) 0.00166(4) 0.00021(3)
+Sc1 Sc3+ 0.00454(8) 0.00577(8) 0.00520(7) 0.00010(6) 0.00204(6) -0.00007(6)
+O1 O2- 0.0108(4) 0.0081(4) 0.0154(4) -0.0040(3) 0.0065(3) -0.0005(3)
+O2 O2- 0.0045(3) 0.0084(3) 0.0062(3) -0.0004(3) 0.0017(2) 0.0005(3)
+O3 O2- 0.0076(4) 0.0150(4) 0.0060(3) 0.0019(3) 0.0020(3) -0.0025(3)
+O4 O2- 0.0096(4) 0.0081(3) 0.0091(3) 0.0042(3) 0.0042(3) 0.0024(3)
+O5 O2- 0.0041(3) 0.0084(3) 0.0065(3) 0.0009(3) 0.0014(2) -0.0002(2)
+O6 O2- 0.0087(4) 0.0112(4) 0.0071(3) 0.0013(3) 0.0044(3) 0.0027(3)
+#End of TTdata_430516-ICSD

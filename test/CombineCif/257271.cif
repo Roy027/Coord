@@ -1,0 +1,78 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257271-ICSD
+_database_code_ICSD 257271
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Lithium zinc cobalt borate - alpha phase'
+_chemical_formula_structural 'Li Zn0.75 Co0.25 B O3'
+_chemical_formula_sum 'B1 Co0.25 Li1 O3 Zn0.75'
+_exptl_crystal_density_diffrn 3.6
+_publ_section_title
+
+;
+Developing intense blue and magenta colors in alpha-LiZnBO3: The role of
+3d-metal substitution and coordination
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - an Asian Journal' 2016 11 3234 3240 CAAJBI
+loop_
+_publ_author_name
+'Tamilarasan, S.'
+'Reddy, M.L.P.'
+'Natarajan, S.'
+'Gopalakrishnan, J.'
+_cell_length_a 8.778(1)
+_cell_length_b 5.100(1)
+_cell_length_c 6.105(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 119.18(2)
+_cell_angle_gamma 90.
+_cell_volume 238.62
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Zn2+ 2
+Co2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 f 0.350(2) 0.543(4) 0.829(2) 0.036(1) 0.5 0
+Zn1 Zn2+ 8 f 0.316(4) 0.569(1) 0.706(1) 0.018(2) 0.37(1) 0
+Co1 Co2+ 8 f 0.316(4) 0.569(1) 0.706(1) 0.018(2) 0.13(1) 0
+B1 B3+ 4 e 0. 0.393(2) 0.25 0.018(2) 1. 0
+O1 O2- 8 f 0.153(2) 0.554(1) 0.311(4) 0.008(1) 1. 0
+O2 O2- 4 e 0. 0.151(3) 0.25 0.026(2) 1. 0
+#End of TTdata_257271-ICSD

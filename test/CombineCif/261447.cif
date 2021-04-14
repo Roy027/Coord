@@ -1,0 +1,115 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_261447-ICSD
+_database_code_ICSD 261447
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Lithium copper iron phosphate (4.59/2.1/1.15/4)'
+_chemical_formula_structural 'Li4.59 Cu2.10 Fe1.15 (P O4)4'
+_chemical_formula_sum 'Cu2.1 Fe1.15 Li4.59 O16 P4'
+_exptl_crystal_density_diffrn 3.48
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+A novel lithium copper iron phosphate with idealized formula Li5 Cu2(2+)
+Fe(3+) (P O4)4: crystal structure and distribution of defects
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2011 67
+i29 i29 ACSEBH
+loop_
+_publ_author_name
+'Upreti, S.'
+'Yakubovich, O.V.'
+'Chernova, N.A.'
+'Whittingham, M.S.'
+_cell_length_a 4.8950(14)
+_cell_length_b 7.847(2)
+_cell_length_c 8.388(2)
+_cell_angle_alpha 69.472(5)
+_cell_angle_beta 89.764(6)
+_cell_angle_gamma 75.501(5)
+_cell_volume 290.88
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Fe3+ 3
+Cu2+ 2
+Li1+ 1
+P5+ 5
+Li1+ 1
+Fe3+ 3
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 1 d -0.5 1. 1. 0.00809(14) 1 0
+Fe1 Fe3+ 1 b 0. 1. 0.5 0.00691(15) 1 0
+Cu2 Cu2+ 2 i -0.09925(13) 1.25406(8) 0.71583(7) 0.0080(2) 0.551(2) 0
+Li1 Li1+ 2 i -0.09925(13) 1.25406(8) 0.71583(7) 0.0080(2) 0.449(2) 0
+P1 P5+ 2 i -0.37011(14) 1.70119(10) 0.53149(9) 0.00622(16) 1 0
+P2 P5+ 2 i 0.08696(15) 0.80671(10) 0.91211(8) 0.00607(16) 1 0
+Li2 Li1+ 2 i 0.3243(15) 0.3973(10) 1.1070(9) 0.023(2) 0.92(3) 0
+Fe2 Fe3+ 2 i 0.3834(13) 0.4186(9) 0.8189(9) 0.014(2) 0.076(3) 0
+Li3 Li1+ 2 i 0.262(2) 1.5161(15) 0.7187(13) 0.040(2) 0.924(3) 0
+O1 O2- 2 i 0.2556(4) 1.1578(3) 0.4209(3) 0.0106(4) 1 0
+O2 O2- 2 i 0.3006(4) 0.7643(3) 0.5056(3) 0.0090(4) 1 0
+O3 O2- 2 i 0.2355(5) 0.6208(3) 0.8948(3) 0.0132(4) 1 0
+O4 O2- 2 i -0.2135(4) 0.7997(3) 0.9644(3) 0.0111(4) 1 0
+O5 O2- 2 i 0.0858(5) 0.9747(3) 0.7461(3) 0.0104(4) 1 0
+O6 O2- 2 i -0.2511(4) 1.1666(3) 0.9440(2) 0.0076(4) 1 0
+O7 O2- 2 i 0.2528(4) 1.3249(3) 0.6291(3) 0.0108(4) 1 0
+O8 O2- 2 i -0.2947(5) 1.5157(3) 0.6891(3) 0.0133(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0056(2) 0.0073(2) 0.0128(2) -0.00214(17) 0.00253(17) -0.00512(18)
+Fe1 Fe3+ 0.0061(3) 0.0056(3) 0.0090(3) -0.00124(19) 0.00114(19) -0.0029(2)
+Cu2 Cu2+ 0.0102(3) 0.0052(3) 0.0078(3) -0.0007(2) 0.0029(2) -0.0023(2)
+Li1 Li1+ 0.0102(3) 0.0052(3) 0.0078(3) -0.0007(2) 0.0029(2) -0.0023(2)
+P1 P5+ 0.0052(3) 0.0056(3) 0.0076(3) -0.0011(2) 0.0007(2) -0.0023(2)
+P2 P5+ 0.0054(3) 0.0060(3) 0.0067(3) -0.0009(2) 0.0008(2) -0.0026(2)
+Li2 Li1+ 0.026(4) 0.019(4) 0.025(4) -0.002(3) -0.001(3) -0.011(3)
+Fe2 Fe3+ 0.014(3) 0.012(3) 0.018(4) -0.004(2) 0.006(2) -0.008(3)
+Li3 Li1+ 0.058(6) 0.050(6) 0.036(5) -0.024(5) 0.013(5) -0.037(5)
+O1 O2- 0.0101(9) 0.0133(10) 0.0120(9) -0.0062(8) 0.0023(7) -0.0069(8)
+O2 O2- 0.0052(9) 0.0095(9) 0.0134(9) -0.0009(7) -0.0001(7) -0.0063(8)
+O3 O2- 0.0153(10) 0.0115(10) 0.0134(9) 0.0000(8) 0.0017(8) -0.0079(8)
+O4 O2- 0.0066(9) 0.0084(9) 0.0186(10) -0.0015(7) 0.0033(8) -0.0055(8)
+O5 O2- 0.0160(10) 0.0091(9) 0.0069(8) -0.0058(8) -0.0003(7) -0.0023(7)
+O6 O2- 0.0075(9) 0.0101(9) 0.0080(8) -0.0053(7) 0.0013(7) -0.0044(7)
+O7 O2- 0.0105(9) 0.0128(10) 0.0127(9) -0.0055(8) 0.0056(7) -0.0075(8)
+O8 O2- 0.0139(10) 0.0088(10) 0.0117(9) 0.0013(8) 0.0017(8) -0.0003(8)
+#End of TTdata_261447-ICSD

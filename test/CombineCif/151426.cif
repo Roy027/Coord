@@ -1,0 +1,120 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_151426-ICSD
+_database_code_ICSD 151426
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Dilanthanum distrontium lithium ruthenium(V) oxide'
+_chemical_formula_structural 'La2 Sr2 Li Ru O8'
+_chemical_formula_sum 'La2 Li1 O8 Ru1 Sr2'
+_exptl_crystal_density_diffrn 6.01
+_cell_measurement_temperature 290.
+_publ_section_title
+'Cation and spin ordering in the n=1 Ruddlesden-Popper phase La2 Sr2 Li Ru O8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2004 16 4257 4266 CMATEX
+loop_
+_publ_author_name
+'Rodgers, J.A.'
+'Battle, P.D.'
+'Dupre, N.'
+'Grey, C.P.'
+'Sloan, J.'
+_cell_length_a 5.46001(1)
+_cell_length_b 5.45803(1)
+_cell_length_c 25.5410(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 761.14
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0143
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Sr2+ 2
+La3+ 3
+Sr2+ 2
+Li1+ 1
+Ru5+ 5
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 a 0 0 0.57079 0.0050(2) 0.902(9) 0
+La2 La3+ 2 a 0 0 0.4315(3) 0.0050(2) 0.902(9) 0
+La3 La3+ 2 b 0 0.5 0.8200(3) 0.0050(2) 0.902(9) 0
+La4 La3+ 2 b 0 0.5 0.1805(4) 0.0050(2) 0.902(9) 0
+Sr1 Sr2+ 2 a 0 0 0.57079 0.0050(2) 0.098(9) 0
+Sr2 Sr2+ 2 a 0 0 0.4315(3) 0.0050(2) 0.098(9) 0
+Sr3 Sr2+ 2 b 0 0.5 0.8200(3) 0.0050(2) 0.098(9) 0
+Sr4 Sr2+ 2 b 0 0.5 0.1805(4) 0.0050(2) 0.098(9) 0
+La5 La3+ 2 a 0 0 0.0710(5) 0.0080(2) 0.098(9) 0
+La6 La3+ 2 a 0 0 0.9301(4) 0.0080(2) 0.098(9) 0
+La7 La3+ 2 b 0 0.5 0.6802(3) 0.0080(2) 0.098(9) 0
+La8 La3+ 2 b 0 0.5 0.3211(4) 0.0080(2) 0.098(9) 0
+Sr5 Sr2+ 2 a 0 0 0.0710(5) 0.0080(2) 0.902(9) 0
+Sr6 Sr2+ 2 a 0 0 0.9301(4) 0.0080(2) 0.902(9) 0
+Sr7 Sr2+ 2 b 0 0.5 0.6802(3) 0.0080(2) 0.902(9) 0
+Sr8 Sr2+ 2 b 0 0.5 0.3211(4) 0.0080(2) 0.902(9) 0
+Li1 Li1+ 2 a 0 0 0.2532(8) 0. 0.926(2) 0
+Li2 Li1+ 2 b 0 0.5 -0.0106(4) 0. 0.926(2) 0
+Ru1 Ru5+ 2 a 0 0 0.2532(8) 0. 0.074(2) 0
+Ru2 Ru5+ 2 b 0 0.5 -0.0106(4) 0. 0.074(2) 0
+Ru3 Ru5+ 2 b 0 0.5 0.4992(3) 0. 0.926(2) 0
+Ru4 Ru5+ 2 a 0 0 0.7493(3) 0. 0.926(2) 0
+Li3 Li1+ 2 b 0 0.5 0.4992(3) 0. 0.074(2) 0
+Li4 Li1+ 2 a 0 0 0.7493(3) 0. 0.074(2) 0
+O1 O2- 8 e 0.2485(8) 0.256(1) 0.5010(3) 0.00622(8) 1. 0
+O2 O2- 8 e 0.2546(9) 0.748(1) 0.2525(3) 0.00622(8) 1. 0
+O3 O2- 2 a 0 0 0.6700(4) 0.0122(7) 1. 0
+O4 O2- 2 a 0 0 0.8320(5) 0.0122(7) 1. 0
+O5 O2- 2 b 0 0.5 0.4215(4) 0.0033(3) 1. 0
+O6 O2- 2 b 0 0.5 0.5801(3) 0.0033(3) 1. 0
+O7 O2- 2 b 0 0.5 0.0955(5) . 1. 0
+O8 O2- 2 b 0 0.5 0.9117(5) . 1. 0
+O9 O2- 2 a 0 0 0.3379(5) . 1. 0
+O10 O2- 2 a 0 0 0.1584(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O7 O2- 0.038(3) 0.049(3) 0.0057(6) 0. 0. 0.
+O8 O2- 0.038(3) 0.049(3) 0.0057(6) 0. 0. 0.
+O9 O2- 0.038(3) 0.049(3) 0.0057(6) 0. 0. 0.
+O10 O2- 0.038(3) 0.049(3) 0.0057(6) 0. 0. 0.
+#End of TTdata_151426-ICSD

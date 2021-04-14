@@ -1,0 +1,91 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35231-ICSD
+_database_code_ICSD 35231
+_audit_creation_date 1982-12-31
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Lithium manganese iron(III) fluoride - alpha'
+_chemical_formula_structural 'Li Mn Fe F6'
+_chemical_formula_sum 'F6 Fe1 Li1 Mn1'
+_chemical_name_structure_type Na2SiF6
+_exptl_crystal_density_diffrn 3.8
+_publ_section_title
+
+;
+The dimorphism of Li Mn Fe F6: A new kind of cationic order in the structural
+type Na2 Si F6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1982 45 127 134 JSSCBI
+loop_
+_publ_author_name
+'Courbion, G.'
+'Jacoboni, C.'
+'de Pape, R.'
+_cell_length_a 8.684(2)
+_cell_length_b 8.684(2)
+_cell_length_c 4.657(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 304.14
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 3 2 1'
+_symmetry_Int_Tables_number 150
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Mn2+ 2
+Fe3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 1 a 0 0 0 1.22 1. 0
+Li2 Li1+ 2 d 0.3333 0.6667 0.5055(8) 1.22 1. 0
+Mn1 Mn2+ 3 e 0.3545 0 0 . 1. 0
+Fe1 Fe3+ 3 f 0.6875 0 0.5 . 1. 0
+F1 F1- 6 g 0.5311(1) 0.4235(1) 0.2709(1) . 1. 0
+F2 F1- 6 g 0.2214(1) 0.4374(1) 0.2769(1) . 1. 0
+F3 F1- 6 g 0.2215(1) 0.1130(1) 0.2435(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 Mn2+ 0.0074(1) 0.0083(1) 0.0068(1) 0.0041(1) 0.0002 0.0004(1)
+Fe1 Fe3+ 0.0061(1) 0.0056(1) 0.0067(1) 0.0028 0.0001 0.0002(1)
+F1 F1- 0.0093(3) 0.0115(3) 0.0110(2) 0.0050(3) 0.0035(2) 0.0041(2)
+F2 F1- 0.0115(3) 0.0098(3) 0.0112(2) 0.0060(3) -.0039(2) -.0005(2)
+F3 F1- 0.0111(3) 0.0100(3) 0.0106(2) 0.0055(3) -.0013(2) -.0041(2)
+#End of TTdata_35231-ICSD

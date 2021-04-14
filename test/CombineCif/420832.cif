@@ -1,0 +1,118 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420832-ICSD
+_database_code_ICSD 420832
+_audit_creation_date 2010-08-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Lithium zinc niobium oxide (0.667/0.667/2.667/7.672)'
+_chemical_formula_structural 'Li0.667 Zn0.667 Nb2.667 O7.672'
+_chemical_formula_sum 'Li0.667 Nb2.667 O7.672 Zn0.667'
+_exptl_crystal_density_diffrn 5.1
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Li0.667 Zn0.667 Nb2.667 O7.672: A novel oxygen deficient compound in the
+Nb-rich part of Li2 O - Zn O - Nb2 O5 system as a member of the a-Pb O2-Z
+(3+1)D structure type
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2010 183 408 418 JSSCBI
+loop_
+_publ_author_name
+'Morozov, V.A.'
+'Arakcheeva, A.V.'
+'Konovalova, V.V.'
+'Pattison, P.'
+'Chapuis, G.'
+'Lebedev, O.I.'
+'Fomichev, V.V.'
+'van Tendeloo, G.'
+_cell_length_a 17.8243(2)
+_cell_length_b 15.2853(3)
+_cell_length_c 5.03377(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 96.6139(16)
+_cell_volume 1362.32
+_cell_formula_units_Z 10
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 '-x, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+O2- -2
+Nb5+ 5
+Li1+ 1
+Nb5+ 5
+Li1+ 1
+Nb5+ 5
+Li1+ 1
+Nb5+ 5
+Li1+ 1
+Nb5+ 5
+Zn2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 4 e 0.59738(19) 0.4718(3) 0.7493(15) 0.0144(10) 0.3333 0
+Zn2 Zn2+ 4 e 0.9936(2) 0.6652(2) 0.7654(15) 0.0136(11) 0.3333 0
+O1 O2- 4 e 0.8389(12) 0.1203(11) 0.092(3) 0.001 1 0
+O2 O2- 4 e 0.9367(12) 0.4225(13) 0.080(4) 0.001 1 0
+O3 O2- 4 e 0.0444(12) 0.7312(13) 0.091(3) 0.001 1 0
+O4 O2- 4 e 0.1438(11) 0.0322(13) 0.067(4) 0.001 1 0
+O5 O2- 4 e 0.2451(11) 0.3351(13) 0.079(4) 0.001 1 0
+O6 O2- 4 e 0.3424(11) 0.6302(12) 0.068(4) 0.001 1 0
+O7 O2- 4 e 0.4417(14) 0.9332(13) 0.094(3) 0.001 1 0
+O8 O2- 4 e 0.5423(12) 0.2363(13) 0.079(4) 0.001 1 0
+O9 O2- 4 e 0.6358(11) 0.5280(12) 0.093(4) 0.001 1 0
+O10 O2- 4 e 0.7320(11) 0.8296(11) 0.093(4) 0.001 1 0
+O11 O2- 4 e 0.7871(12) 0.9809(14) 0.425(4) 0.001 0.8842 0
+O12 O2- 4 e 0.8888(12) 0.2857(15) 0.379(4) 0.001 0.8617 0
+O13 O2- 4 e 0.9961(12) 0.5869(11) 0.400(4) 0.001 1 0
+O14 O2- 4 e 0.0935(15) 0.8964(15) 0.406(4) 0.001 0.861 0
+O15 O2- 4 e 0.1928(13) 0.1941(13) 0.421(4) 0.001 0.9471 0
+O16 O2- 4 e 0.2775(11) 0.4828(12) 0.454(4) 0.001 0.909 0
+O17 O2- 4 e 0.3940(15) 0.7918(15) 0.417(3) 0.001 0.9158 0
+O18 O2- 4 e 0.4896(13) 0.1003(14) 0.449(4) 0.001 0.9575 0
+O19 O2- 4 e 0.5947(14) 0.4056(15) 0.432(3) 0.001 0.8436 0
+O20 O2- 4 e 0.6931(11) 0.7010(13) 0.445(3) 0.001 1 0
+Nb1 Nb5+ 4 e 0.59738(19) 0.4718(3) 0.7493(15) 0.0144(10) 0.6667 0
+Nb2 Nb5+ 4 e 0.9936(2) 0.6652(2) 0.7654(15) 0.0136(11) 0.6667 0
+Li1 Li1+ 4 e 0.69454(18) 0.7595(2) 0.7589(15) 0.0019 0.1897 0
+Nb3 Nb5+ 4 e 0.69454(18) 0.7595(2) 0.7589(15) 0.0019 0.8103 0
+Li2 Li1+ 4 e 0.3966(5) 0.8698(6) 0.748(4) 0.0016 0.6516 0
+Nb4 Nb5+ 4 e 0.3966(5) 0.8698(6) 0.748(4) 0.0016 0.3484 0
+Li3 Li1+ 4 e 0.0999(2) 0.9716(3) 0.7524(19) 0.0019 0.315 0
+Nb5 Nb5+ 4 e 0.0999(2) 0.9716(3) 0.7524(19) 0.0019 0.685 0
+Li4 Li1+ 4 e 0.7976(3) 0.0630(4) 0.752(3) 0.0019 0.5 0
+Nb6 Nb5+ 4 e 0.7976(3) 0.0630(4) 0.752(3) 0.0019 0.5 0
+Nb7 Nb5+ 4 e 0.19717(16) 0.2750(2) 0.7458(14) 0.0016(10) 1 0
+Nb8 Nb5+ 4 e 0.49548(18) 0.1675(2) 0.7472(16) 0.0047(9) 1 0
+Nb9 Nb5+ 4 e 0.29524(16) 0.5659(2) 0.7516(14) 0.0032(8) 1 0
+Zn3 Zn2+ 4 e 0.8988(3) 0.3737(3) 0.7537(16) 0.0012 1 0
+#End of TTdata_420832-ICSD

@@ -1,0 +1,103 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_161763-ICSD
+_database_code_ICSD 161763
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Dilithium digallium germanium sulfide'
+_chemical_formula_structural 'Li2 Ga2 Ge S6'
+_chemical_formula_sum 'Ga2 Ge1 Li2 S6'
+_exptl_crystal_density_diffrn 3.03
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Characterization of a new infrared nonlinear optical material with high laser
+damage threshold, Li2 Ga2 Ge S6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2008 20 6048 6052 CMATEX
+loop_
+_publ_author_name
+'Kim Youngsik'
+'Seo In-Seok'
+'Martin, S.W.'
+'Baek Jaewook'
+'Halasyamani, P.S.'
+'Arumugam, N.'
+'Steinfink, H.'
+_cell_length_a 11.943(5)
+_cell_length_b 22.590(8)
+_cell_length_c 6.805(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1835.94
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.0459
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Ge4+ 4
+S2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 16 b 0.12732(8) 0.36272(4) 0.94079(15) 0.0098(3) 1 0
+Ge1 Ge4+ 8 a 0. 0.5 0.9149(2) 0.0132(3) 1 0
+S1 S2- 16 b 0.04926(19) 0.42368(10) 0.7218(4) 0.0156(5) 1 0
+S2 S2- 16 b 0.0577(2) 0.36982(11) 1.2436(4) 0.0156(5) 1 0
+S3 S2- 16 b 0.0946(2) 0.27059(10) 0.8413(4) 0.0167(5) 1 0
+Li1 Li1+ 16 b 0.170(4) 0.453(2) 0.402(7) 0.097(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0073(4) 0.0084(4) 0.0137(5) 0.0001(3) 0.0013(4) -0.0013(3)
+Ge1 Ge4+ 0.0125(6) 0.0097(6) 0.0175(7) 0.0002(5) 0. 0.
+S1 S2- 0.0159(11) 0.0148(10) 0.0162(11) 0.0017(9) -0.0024(10) -0.0031(9)
+S2 S2- 0.0099(11) 0.0210(11) 0.0159(12) 0.0002(9) -0.0011(10) 0.0005(8)
+S3 S2- 0.0132(11) 0.0104(11) 0.0264(13) -0.0009(9) 0.0047(10) -0.0045(9)
+#End of TTdata_161763-ICSD

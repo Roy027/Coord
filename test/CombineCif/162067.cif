@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_162067-ICSD
+_database_code_ICSD 162067
+_audit_creation_date 2009-02-01
+_chemical_name_systematic
+'Lithium iron zirconium phosphate(V) (0.97/0.99/0.01/1)'
+_chemical_formula_structural '(Li0.966 Zr0.009) (Li0.007 Fe0.993) (P O4)'
+_chemical_formula_sum 'Fe0.993 Li0.973 O4 P1 Zr0.009'
+_chemical_name_structure_type Olivine-Mg2SiO4
+_exptl_crystal_density_diffrn 3.61
+_publ_section_title 'Proof of supervalent doping in olivine Li Fe P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2008 20 6313 6315 CMATEX
+loop_
+_publ_author_name
+'Wagemaker, M.'
+'Ellis, B.L.'
+'Luetzenkirchen-Hecht, D.'
+'Mulder, F.M.'
+'Nazar, L.F.'
+_cell_length_a 10.31181(16)
+_cell_length_b 5.99753(10)
+_cell_length_c 4.69673(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 290.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Zr4+ 4
+Fe2+ 2
+Li1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 a 0. 0. 0. 0.01647 0.9661(8) 0
+Zr1 Zr4+ 4 a 0. 0. 0. 0.005 0.0089(8) 0
+Fe1 Fe2+ 4 c 0.28192(6) 0.25 0.97513(6) 0.0062 0.9930(8) 0
+Li2 Li1+ 4 c 0.28192(6) 0.25 0.97513(6) 0.016 0.0069(11) 0
+P1 P5+ 4 c 0.09554(12) 0.25 0.41765(23) 0.00525 1. 0
+O1 O2- 4 c 0.09713(13) 0.25 0.74158(25) 0.00842 1. 0
+O2 O2- 4 c 0.45647(10) 0.25 0.20305(28) 0.00745 1. 0
+O3 O2- 8 d 0.16581(9) 0.04734(12) 0.28502(17) 0.0071 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.01949 0.01074 0.0192 -0.005 -0.00005 0.00036
+Fe1 Fe2+ 0.00614(32) 0.00499(30) 0.00746(31) 0. -0.00014(28) 0.
+P1 P5+ 0.0079(6) 0.0061(5) 0.0017(5) 0. 0.0012(5) 0.
+O1 O2- 0.0110(5) 0.0112(6) 0.0031(5) 0. -0.0011(5) 0.
+O2 O2- 0.0035(5) 0.0122(5) 0.0066(6) 0. 0.0009(4) 0.
+O3 O2- 0.0094(4) 0.00461(31) 0.0073(4) 0.00367(31) 0.00188(30) 0.00157(26)
+#End of TTdata_162067-ICSD

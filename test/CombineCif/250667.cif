@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250667-ICSD
+_database_code_ICSD 250667
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Lithium gallohydroxoborate hydrate'
+_chemical_formula_structural 'Li Ga (O H) (B O3) (H2 O)'
+_chemical_formula_sum 'H3 B1 Ga1 Li1 O5'
+_exptl_crystal_density_diffrn 2.33
+_cell_measurement_temperature 296.
+_publ_section_title
+'Exploratory investigation of new SHG materials based on galloborates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 8810 8817 INOCAJ
+loop_
+_publ_author_name
+'Hu, Ting'
+'Hu, Chun-Li'
+'Kong, Fang'
+'Mao, Jiang-Gao'
+'Mak, Thomas C. W.'
+_cell_length_a 4.8318(2)
+_cell_length_b 4.8318(2)
+_cell_length_c 12.0335(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 243.29
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.0298
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ga3+ 3
+B3+ 3
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0. 0. 0.3478(10) 0.0153(18) 1 0
+Ga1 Ga3+ 2 b 0.3333 0.6667 0.232610(14) 0.0121(2) 1 0
+B1 B3+ 2 b 0.6667 0.3333 0.2830(7) 0.0129(14) 1 0
+O1 O2- 2 b 0.3333 0.6667 0.0809(4) 0.0274(14) 1 0
+H1 H1+ 6 c 0.241 0.759 0.0582 0.041 0.33 0
+O2 O2- 2 a 0. 0. 0.5084(3) 0.0301(12) 1 0
+O3 O2- 6 c 0.3885(8) 0.0475(8) 0.2844(3) 0.0181(7) 1 0
+H2 H1+ 6 c 0.1915 0.0957 0.532 0.027 0.67 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.014(3) 0.014(3) 0.018(4) 0.0069(15) 0. 0.
+Ga1 Ga3+ 0.0069(2) 0.0069(2) 0.0225(3) 0.00343(12) 0. 0.
+B1 B3+ 0.010(2) 0.010(2) 0.019(3) 0.0050(12) 0. 0.
+O1 O2- 0.030(2) 0.030(2) 0.022(2) 0.0151(12) 0. 0.
+O2 O2- 0.0344(18) 0.0344(18) 0.022(3) 0.0172(9) 0. 0.
+O3 O2- 0.0077(13) 0.0068(16) 0.0376(15) 0.0021(13) 0.0011(11) -0.0017(11)
+#End of TTdata_250667-ICSD

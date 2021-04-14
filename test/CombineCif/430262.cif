@@ -1,0 +1,101 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430262-ICSD
+_database_code_ICSD 430262
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Lithium tetraiodobismuthate pentahydrate'
+_chemical_formula_structural 'Li Bi I4 (H2 O)5'
+_chemical_formula_sum 'H10 Bi1 I4 Li1 O5'
+_exptl_crystal_density_diffrn 3.69
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Iodobismuthates containing one-dimensional Bi I4- anions as prospective
+light-harvesting materials: synthesis, crystal and electronic structure, and
+optical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 4132 4140 INOCAJ
+loop_
+_publ_author_name
+'Yelovik, Natalie A.'
+'Mironov, Andrei V.'
+'Bykov, Mikhail A.'
+'Kuznetsov, Alexey N.'
+'Grigorieva, Anastasia V.'
+'Wei, Zheng'
+'Dikarev, Evgeny V.'
+'Shevelkov, Andrei V.'
+_cell_length_a 12.535(2)
+_cell_length_b 16.0294(18)
+_cell_length_c 7.6214(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.189(11)
+_cell_angle_gamma 90.
+_cell_volume 1462.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+I1- -1
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 e 0.5 0.0817(0) 0.25 0.03153(10) 1. 0
+I1 I1- 8 f 0.6429(0) 0.072(0) 0.6556(1) 0.03869(15) 1. 0
+I2 I1- 8 f 0.6634(0) 0.2036(0) 0.1945(1) 0.04751(17) 1. 0
+O1 O2- 8 f 0.3863(5) 0.5599(5) 0.0963(11) 0.072(3) 1. 0
+O2 O2- 8 f 0.4288(8) 0.3852(6) 0.0627(12) 0.098(5) 1. 0
+O3 O2- 4 e 0. 0.2239(6) 0.25 0.074(4) 1. 0
+Li1 Li1+ 8 f 0.0234(18) 0.1170(18) 0.168(3) 0.044(7) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.03451(16) 0.03046(16) 0.03076(16) 0. 0.01143(11) 0.
+I1 I1- 0.0383(2) 0.0430(3) 0.0330(2) -0.00832(15) 0.00781(16) 0.00114(16)
+I2 I1- 0.0466(2) 0.0436(3) 0.0545(3) -0.00927(18) 0.0182(2) 0.0057(2)
+O1 O2- 0.050(3) 0.068(4) 0.096(5) -0.011(3) 0.017(3) -0.004(4)
+O2 O2- 0.134(7) 0.065(5) 0.127(8) 0.007(5) 0.089(7) 0.016(5)
+O3 O2- 0.086(6) 0.044(5) 0.075(6) 0. -0.002(5) 0.
+Li1 Li1+ 0.040(11) 0.056(14) 0.032(10) -0.004(10) 0.006(8) 0.008(10)
+#End of TTdata_430262-ICSD

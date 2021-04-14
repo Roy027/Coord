@@ -1,0 +1,95 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_241135-ICSD
+_database_code_ICSD 241135
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Lithium gallium dimolybdate(VI)'
+_chemical_formula_structural 'Li Ga (Mo O4)2'
+_chemical_formula_sum 'Ga1 Li1 Mo2 O8'
+_chemical_name_structure_type CuLa(WO4)2
+_exptl_crystal_density_diffrn 4.24
+_cell_measurement_temperature 293.
+_publ_section_title 'Li Fe (Mo O4)2, Li Ga (Mo  O4)2 and Li3 Ga (Mo O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2008 64 i1 i4 ACSCEE
+loop_
+_publ_author_name
+'van der Lee, A.'
+'Beaurain, M.'
+'Armand, P.'
+_cell_length_a 6.7232(3)
+_cell_length_b 7.0982(3)
+_cell_length_c 7.2580(4)
+_cell_angle_alpha 90.915(4)
+_cell_angle_beta 110.648(4)
+_cell_angle_gamma 105.253(4)
+_cell_volume 310.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0419
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Ga3+ 3
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 i 0.33063(7) 0.57523(6) 0.29138(6) 0.0066 1. 0
+Mo2 Mo6+ 2 i 0.82150(6) -0.03507(6) 0.21800(6) 0.0055 1. 0
+Ga1 Ga3+ 2 i 0.40267(9) 0.09926(8) 0.31997(8) 0.005 1. 0
+Li1 Li1+ 2 i 0.771(2) 0.448(2) 0.2679(18) 0.0223 1. 0
+O1 O2- 2 i 0.4190(6) 0.8422(5) 0.3865(6) 0.0072 1. 0
+O2 O2- 2 i 0.2492(8) 0.5715(7) 0.0399(6) 0.0168 1. 0
+O3 O2- 2 i 0.0929(7) 0.4831(7) 0.3369(7) 0.0157 1. 0
+O4 O2- 2 i 0.4794(7) 0.3815(5) 0.3496(6) 0.0098 1. 0
+O5 O2- 2 i 0.6875(6) 0.1321(6) 0.2738(6) 0.0091 1. 0
+O6 O2- 2 i 0.7610(7) -0.0413(7) -0.0394(6) 0.015 1. 0
+O7 O2- 2 i 0.7163(7) -0.2742(6) 0.2614(7) 0.0137 1. 0
+O8 O2- 2 i 1.1128(6) 0.0500(6) 0.3484(6) 0.01 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0064(2) 0.0035(2) 0.0082(2) 0.00214(14) 0.00038(15) 0.00054(14)
+Mo2 Mo6+ 0.00429(19) 0.0061(2) 0.0059(2) 0.00210(14) 0.00137(14) 0.00033(14)
+Ga1 Ga3+ 0.0059(2) 0.0038(2) 0.0055(2) 0.00177(18) 0.00191(19) 0.00095(17)
+Li1 Li1+ 0.017(5) 0.030(6) 0.016(5) 0.004(5) 0.003(4) 0.004(4)
+O1 O2- 0.0106(16) 0.0039(14) 0.0078(15) 0.0030(12) 0.0035(12) 0.0015(12)
+O2 O2- 0.0196(19) 0.021(2) 0.0069(17) 0.0063(16) 0.0009(14) 0.0009(15)
+O3 O2- 0.0101(17) 0.0141(18) 0.022(2) 0.0042(15) 0.0038(15) 0.0062(16)
+O4 O2- 0.0101(16) 0.0045(15) 0.0142(17) 0.0033(12) 0.0028(13) 0.0015(13)
+O5 O2- 0.0074(15) 0.0079(15) 0.0147(17) 0.0029(12) 0.0067(13) 0.0033(13)
+O6 O2- 0.0104(16) 0.026(2) 0.0046(16) 0.0029(15) 0.0004(13) -0.0004(15)
+O7 O2- 0.0156(18) 0.0082(16) 0.0182(19) 0.0025(14) 0.0078(15) 0.0016(14)
+O8 O2- 0.0043(14) 0.0136(17) 0.0113(17) 0.0020(13) 0.0024(12) 0.0009(13)
+#End of TTdata_241135-ICSD

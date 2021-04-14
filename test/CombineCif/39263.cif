@@ -1,0 +1,81 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39263-ICSD
+_database_code_ICSD 39263
+_audit_creation_date 1990-12-27
+_chemical_name_systematic 'Lithium sodium molybdate dihydrate'
+_chemical_formula_structural 'Li Na Mo O4 (H2 O)2'
+_chemical_formula_sum 'H4 Li1 Mo1 Na1 O6'
+_chemical_name_structure_type Na2MoO4(H2O)2
+_exptl_crystal_density_diffrn 2.65
+_publ_section_title
+'Crystal structure of dihydrate lithium-sodium molybdate LiNaMoO4*2H2O'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Koordinatsionnaya Khimiya' 1990 16 616 618 KOKHDC
+loop_
+_publ_author_name
+'Makitova, D.D.'
+'Tkachev, V.V.'
+'Atovmyan, L.O.'
+_cell_length_a 8.219(1)
+_cell_length_b 10.372(2)
+_cell_length_c 13.277(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1131.83
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+O2- -2
+Na1+ 1
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 8 c 0.4888 0.1919 0.4748 0.927 1. 0
+O1 O2- 8 c 0.6367(1) 0.1517(1) 0.3828(1) 1.37 1. 0
+O2 O2- 8 c 0.4347(1) 0.3554(1) 0.4568(1) 1.14 1. 0
+O3 O2- 8 c 0.5665(1) 0.1728(1) 0.5988(1) 1.33 1. 0
+O4 O2- 8 c 0.3178(1) 0.0923(1) 0.4614(1) 1.58 1. 0
+O5 O2- 8 c 0.5664(2) 0.4213(1) 0.6890(1) 1.81 1. 0
+O6 O2- 8 c 0.7815(2) 0.3605(1) 0.2808(1) 1.84 1. 0
+Na1 Na1+ 8 c 0.8473(1) 0.0015(1) 0.4084(1) 1.41 1. 0
+Li1 Li1+ 8 c 0.7668(4) 0.4385(3) 0.1380(3) 1.42 1. 0
+H1 H1+ 8 c 0.929 0.596 0.248 . 1. 0
+H2 H1+ 8 c 0.929 0.68 0.151 . 1. 0
+H3 H1+ 8 c 0.739 0.288 0.298 . 1. 0
+H4 H1+ 8 c 0.833 0.405 0.322 . 1. 0
+#End of TTdata_39263-ICSD

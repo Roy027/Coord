@@ -1,0 +1,89 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74299-ICSD
+_database_code_ICSD 74299
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Lithium iron(III) bis(diselenate(IV))'
+_chemical_formula_structural 'Li Fe (Se2 O5)2'
+_chemical_formula_sum 'Fe1 Li1 O10 Se4'
+_exptl_crystal_density_diffrn 4.29
+_publ_section_title
+'LiFe(3+)(Se2O5)2 and its structure relationships to Me(2+)(Se2O5) compounds'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 1993 124 1107 1113 MOCMB7
+loop_
+_publ_author_name
+'Giester, G.'
+_cell_length_a 5.987(2)
+_cell_length_b 6.760(2)
+_cell_length_c 10.295(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 416.66
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P n c 2'
+_symmetry_Int_Tables_number 30
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, y+1/2, z+1/2'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe3+ 3
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 b 0.5 0 0.7776(15) . 1. 0
+Fe1 Fe3+ 2 a 0 0 0.8997(1) . 1. 0
+Se1 Se4+ 4 c 0.72086(9) 0.12914(7) 0.5 . 1. 0
+Se2 Se4+ 4 c 0.22250(8) 0.36529(7) 0.68961(4) . 1. 0
+O1 O2- 4 c 0.5884(6) 0.2037(5) 0.6305(4) . 1. 0
+O2 O2- 4 c 0.7237(6) 0.3341(6) 0.4064(4) . 1. 0
+O3 O2- 2 b 0.5 0 0.4121(5) . 1. 0
+O4 O2- 4 c 0.1048(6) 0.3158(5) 0.5459(3) . 1. 0
+O5 O2- 4 c 0.1852(7) 0.1509(6) 0.7693(4) . 1. 0
+O6 O2- 2 a 0 0.5 0.7705(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0329(72) 0.0172(54) 0.0155(56) 0.0083(52) 0 0
+Fe1 Fe3+ 0.0102(3) 0.0114(3) 0.0075(3) 0.0011(3) 0 0
+Se1 Se4+ 0.0115(2) 0.0105(2) 0.0095(2) -.0008(1) 0.0000(2) 0.0003(1)
+Se2 Se4+ 0.0119(2) 0.0103(2) 0.0084(2) 0.0002(1) -.0010(2) 0.0004(1)
+O1 O2- 0.0181(16) 0.0192(16) 0.0110(14) 0.001(1) 0.0007(9) 0.0001(8)
+O2 O2- 0.0181(15) 0.0129(12) 0.0158(15) -.0029(8) -.003(1) 0.0040(8)
+O3 O2- 0.0195(20) 0.0205(19) 0.010(2) -.0093(19) 0 0
+O4 O2- 0.0222(17) 0.0140(13) 0.0072(12) 0.0011(9) -.0025(9) -.0001(7)
+O5 O2- 0.0197(17) 0.0123(13) 0.0163(17) 0.0025(9) 0.0037(10) 0.0035(8)
+O6 O2- 0.0196(22) 0.0203(21) 0.0097(20) 0.0060(19) 0 0
+#End of TTdata_74299-ICSD

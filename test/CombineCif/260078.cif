@@ -1,0 +1,98 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260078-ICSD
+_database_code_ICSD 260078
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Lithium chromium digermanate'
+_chemical_formula_structural 'Li Cr (Ge2 O6)'
+_chemical_formula_sum 'Cr1 Ge2 Li1 O6'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_exptl_crystal_density_diffrn 4.62
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Chromium-based clinopyroxene-type germanates Na Cr Ge2 O6 and Li Cr Ge2 O6 at
+298 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2008 64 i97 i102 ACSCEE
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Roth, G.'
+'Amthauer, G.'
+_cell_length_a 9.7989(7)
+_cell_length_b 8.7190(7)
+_cell_length_c 5.3410(4)
+_cell_angle_alpha 90
+_cell_angle_beta 108.905(4)
+_cell_angle_gamma 90
+_cell_volume 431.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0261
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cr3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.2571(6) 0.4859(8) 0.7210(12) 0.0173(14) 1 0
+Cr1 Cr3+ 4 e 0.25128(5) 0.65992(6) 0.21270(11) 0.00447(17) 1 0
+Ge1 Ge4+ 4 e 0.04680(3) 0.34443(4) 0.27339(7) 0.00566(15) 1 0
+Ge2 Ge4+ 4 e 0.55421(3) 0.84164(4) 0.22963(7) 0.00545(15) 1 0
+O1 O2- 4 e -0.1427(2) 0.3325(2) 0.1732(5) 0.0060(5) 1 0
+O2 O2- 4 e 0.1142(3) 0.5259(3) 0.2830(5) 0.0124(5) 1 0
+O3 O2- 4 e 0.1176(2) 0.2906(3) 0.6079(4) 0.0091(4) 1 0
+O4 O2- 4 e 0.3641(3) 0.8321(2) 0.1050(5) 0.0071(5) 1 0
+O5 O2- 4 e 0.6308(3) 1.0072(2) 0.3861(4) 0.0087(5) 1 0
+O6 O2- 4 e 0.6129(2) 0.6891(3) 0.4552(4) 0.0081(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.017(3) 0.014(3) 0.020(3) 0.001(2) 0.004(3) 0.000(2)
+Cr1 Cr3+ 0.0052(3) 0.0043(3) 0.0040(3) -0.00009(15) 0.0017(2) 0.00018(15)
+Ge1 Ge4+ 0.0060(2) 0.0059(2) 0.0051(2) -0.00082(10) 0.00172(15) -0.00021(10)
+Ge2 Ge4+ 0.0061(2) 0.0056(2) 0.0044(2) -0.00078(10) 0.00129(14) -0.00029(10)
+O1 O2- 0.0040(10) 0.0076(10) 0.0056(12) -0.0015(7) 0.0005(9) -0.0001(7)
+O2 O2- 0.0139(12) 0.0090(11) 0.0166(13) -0.0042(9) 0.0081(10) -0.0021(9)
+O3 O2- 0.0107(10) 0.0115(11) 0.0048(10) -0.0015(8) 0.0020(8) 0.0025(9)
+O4 O2- 0.0068(10) 0.0079(10) 0.0059(12) -0.0021(8) 0.0011(9) 0.0006(8)
+O5 O2- 0.0109(10) 0.0086(10) 0.0068(11) -0.0041(8) 0.0033(9) -0.0017(8)
+O6 O2- 0.0097(10) 0.0087(10) 0.0066(11) 0.0027(8) 0.0037(9) 0.0037(8)
+#End of TTdata_260078-ICSD

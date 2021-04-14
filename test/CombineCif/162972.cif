@@ -1,0 +1,97 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_162972-ICSD
+_database_code_ICSD 162972
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Bismuth lithium rhodium oxide (0.78/2/6/12)'
+_chemical_formula_structural 'Bi0.78 Li2 Rh6 O12'
+_chemical_formula_sum 'Bi0.78 Li2 O12 Rh6'
+_chemical_name_structure_type BaCa2In6O12
+_exptl_crystal_density_diffrn 7.51
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+A A'2 Rh6 O12: a new family of rhodium oxides exhibiting high thermopower
+coupled with high electrical conductivity
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2009 21 994 999 CMATEX
+loop_
+_publ_author_name
+'Mizoguchi, H.'
+'Zakharov, L.N.'
+'Marshall, W.J.'
+'Sleight, A.W.'
+'Subramanian, M.A.'
+_cell_length_a 9.1263(2)
+_cell_length_b 9.1263(2)
+_cell_length_c 2.98990(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 215.66
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0153
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh3+ 3.28
+Bi3+ 3
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh3+ 6 h 0.02185(3) 0.36300(3) 0.25 0.00520(8) 1 0
+Bi1 Bi3+ 4 e 0. 0. 0.309(10) 0.0120(5) 0.106(13) 0
+Bi2 Bi3+ 4 e 0. 0. -0.074(9) 0.0104(6) 0.089(13) 0
+O1 O2- 6 h 0.1926(3) 0.2842(3) 0.25 0.0083(4) 1 0
+O2 O2- 6 h -0.1324(3) 0.4644(3) 0.25 0.0067(4) 1 0
+Li1 Li1+ 2 c -0.3333 0.3333 -0.25 0.034(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rh1 Rh3+ 0.00529(12) 0.00527(12) 0.00507(11) 0.00266(9) 0. 0.
+O1 O2- 0.0069(9) 0.0127(10) 0.0074(9) 0.0066(8) 0. 0.
+O2 O2- 0.0067(9) 0.0065(9) 0.0071(9) 0.0035(8) 0. 0.
+Li1 Li1+ 0.014(3) 0.014(3) 0.074(12) 0.0071(17) 0. 0.
+#End of TTdata_162972-ICSD

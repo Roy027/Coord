@@ -1,0 +1,79 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20693-ICSD
+_database_code_ICSD 20693
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Lithium dichromate dihydrate'
+_chemical_formula_structural 'Li2 Cr2 O7 (H2 O)2'
+_chemical_formula_sum 'H4 Cr2 Li2 O9'
+_exptl_crystal_density_diffrn 2.37
+_publ_section_title
+
+;
+The neutron-diffraction investigation of the structure of lithium bichromate
+dihydrate Li2 Cr2 O7 (H2 O)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1983 28 1033 1034 KRISAJ
+loop_
+_publ_author_name
+'Fykin, L.E.'
+'Nozik, Yu.Z.'
+_cell_length_a 12.76(2)
+_cell_length_b 7.581(5)
+_cell_length_c 7.760(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 96.63(6)
+_cell_volume 745.63
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A 1 1 2/a'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 '-x, -y, -z'
+3 'x+1/2, y, -z'
+4 'x, y, z'
+5 '-x+1/2, -y+1/2, z+1/2'
+6 '-x, -y+1/2, -z+1/2'
+7 'x+1/2, y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr6+ 6
+Li1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr6+ 8 f 0.3601(3) 0.1243(4) 0.1347(5) 1.16(1) 1. 0
+Li1 Li1+ 4 c 0 0.25 0.25 2.12(2) 1. 0
+Li2 Li1+ 4 e 0.25 0.5 0.2795(7) 2.61(3) 1. 0
+O1 O2- 4 e 0.25 0 0.0305(5) 1.78(1) 1. 0
+O2 O2- 8 f 0.3188(2) 0.2380(3) 0.2923(3) 2.11(1) 1. 0
+O3 O2- 8 f 0.4163(2) 0.2574(3) -.0090(3) 1.97(1) 1. 0
+O4 O2- 8 f 0.0616(2) 0.0102(4) 0.2032(4) 2.41(1) 1. 0
+O5 O2- 8 f 0.1309(2) 0.4003(3) 0.1227(4) 1.88(1) 1. 0
+H1 H1+ 8 f 0.1032(5) 0.5007(8) 0.0737(9) 3.56(3) 1. 0
+H2 H1+ 8 f 0.1500(5) 0.3358(8) 0.0243(8) 3.78(3) 1. 0
+#End of TTdata_20693-ICSD

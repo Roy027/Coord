@@ -1,0 +1,143 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414142-ICSD
+_database_code_ICSD 414142
+_audit_creation_date 2015-02-01
+_chemical_name_systematic
+Bis(tetraamminelithium)dodecahydro-closo-dodecaborate-Ammonia(1/2)
+_chemical_formula_structural '(Li (N H3)4)2 (B12 H12) (N H3)2'
+_chemical_formula_sum 'H42 B12 Li2 N10'
+_exptl_crystal_density_diffrn 0.95
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+closo-hydroborates from liquid ammonia: Synthesis and crystal structures of
+[Li (N H3)4]2 [B12 H12] * 2 N H3, Rb2 [B12 H12] * 8 N H3, Cs2 [B12 H12] * 6 N
+H3 and Rb2 [B10 H10] * 5 N H3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 4692 4699 INOCAJ
+loop_
+_publ_author_name
+'Kraus, Florian'
+'Panda, Monalisa'
+'Mueller, Thomas'
+'Albert, Barbara'
+_cell_length_a 9.183(2)
+_cell_length_b 8.1330(10)
+_cell_length_c 16.357(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.540(10)
+_cell_angle_gamma 90.
+_cell_volume 1143.96
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0422
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+B1- -1.17
+H1+ 1
+B1- -1.17
+H1+ 1
+B1- -1.17
+H1+ 1
+B1- -1.17
+H1+ 1
+B1- -1.17
+H1+ 1
+B1- -1.17
+H1+ 1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N3- 4 e 0.57353(19) 0.33682(18) 0.09767(11) 0.0334(4) 1 0
+H1 H1+ 4 e 0.628(2) 0.401(2) 0.1429(12) 0.076(7) 1 0
+H2 H1+ 4 e 0.481(2) 0.3846(19) 0.0757(10) 0.060(6) 1 0
+H3 H1+ 4 e 0.6169(18) 0.3474(18) 0.0593(10) 0.055(6) 1 0
+N2 N3- 4 e 0.34983(18) 0.0127(2) 0.05451(12) 0.0348(4) 1 0
+H4 H1+ 4 e 0.279(2) 0.087(2) 0.0416(11) 0.070(7) 1 0
+H5 H1+ 4 e 0.355(2) -0.020(3) 0.0062(15) 0.118(11) 1 0
+H6 H1+ 4 e 0.301(2) -0.070(2) 0.0666(12) 0.094(9) 1 0
+N3 N3- 4 e 0.74588(19) -0.0432(2) 0.17155(12) 0.0416(4) 1 0
+H7 H1+ 4 e 0.818(2) 0.005(2) 0.1572(12) 0.089(9) 1 0
+H8 H1+ 4 e 0.737(2) -0.139(3) 0.1485(12) 0.093(9) 1 0
+H9 H1+ 4 e 0.784(2) -0.050(2) 0.2271(13) 0.072(7) 1 0
+N4 N3- 4 e 0.5124(2) 0.1521(2) 0.25906(10) 0.0368(4) 1 0
+H10 H1+ 4 e 0.4189(19) 0.1184(18) 0.2565(9) 0.050(6) 1 0
+H11 H1+ 4 e 0.5803(19) 0.116(2) 0.3060(11) 0.067(7) 1 0
+H12 H1+ 4 e 0.5116(18) 0.255(2) 0.2660(10) 0.060(7) 1 0
+N5 N3- 4 e 0.83475(17) 0.5296(2) 0.27517(13) 0.0413(4) 1 0
+H13 H1+ 4 e 0.866(2) 0.441(2) 0.3045(11) 0.071(8) 1 0
+H14 H1+ 4 e 0.8746(19) 0.608(2) 0.3110(11) 0.063(7) 1 0
+H15 H1+ 4 e 0.882(2) 0.539(2) 0.2372(12) 0.079(8) 1 0
+B1 B1- 4 e 0.95748(18) 0.4054(2) 0.08085(10) 0.0226(4) 1 0
+H16 H1+ 4 e 0.9289(12) 0.3405(13) 0.1342(7) 0.017(3) 1 0
+B2 B1- 4 e 1.06319(18) 0.5928(2) 0.09857(10) 0.0233(4) 1 0
+H17 H1+ 4 e 1.1020(12) 0.6567(13) 0.1627(7) 0.017(3) 1 0
+B3 B1- 4 e 0.86374(18) 0.5910(2) 0.03208(10) 0.0217(4) 1 0
+H18 H1+ 4 e 0.7726(12) 0.6472(13) 0.0526(7) 0.018(3) 1 0
+B4 B1- 4 e 0.82683(18) 0.4061(2) -0.02868(10) 0.0223(4) 1 0
+H19 H1+ 4 e 0.7112(12) 0.3469(12) -0.0491(6) 0.012(3) 1 0
+B5 B1- 4 e 1.00221(18) 0.2915(2) -0.00021(10) 0.0225(4) 1 0
+H20 H1+ 4 e 1.0047(12) 0.1554(14) 0.0011(7) 0.016(3) 1 0
+B6 B1- 4 e 1.14892(18) 0.4085(2) 0.07870(10) 0.0218(4) 1 0
+H21 H1+ 4 e 1.2446(13) 0.3505(13) 0.1290(7) 0.019(3) 1 0
+Li1 Li1+ 4 e 0.5495(3) 0.1073(3) 0.14504(15) 0.0324(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N1 N3- 0.0289(9) 0.0367(9) 0.0380(10) -0.0025(8) 0.0163(8) 0.0009(8)
+N2 N3- 0.0280(8) 0.0279(10) 0.0441(10) 0.0019(8) 0.0072(7) -0.0007(8)
+N3 N3- 0.0343(10) 0.0515(12) 0.0338(10) 0.0071(8) 0.0053(8) -0.0074(9)
+N4 N3- 0.0291(9) 0.0479(12) 0.0302(9) 0.0032(8) 0.0064(8) 0.0069(8)
+N5 N3- 0.0347(9) 0.0388(12) 0.0502(11) -0.0011(8) 0.0146(9) -0.0117(10)
+B1 B1- 0.0206(9) 0.0235(10) 0.0241(10) 0.0018(8) 0.0082(8) 0.0027(8)
+B2 B1- 0.0243(9) 0.0222(10) 0.0220(10) 0.0012(8) 0.0063(8) -0.0030(8)
+B3 B1- 0.0199(9) 0.0217(10) 0.0230(10) 0.0025(8) 0.0067(8) -0.0011(8)
+B4 B1- 0.0197(9) 0.0198(9) 0.0254(9) -0.0016(8) 0.0053(8) -0.0003(8)
+B5 B1- 0.0217(9) 0.0162(10) 0.0277(10) 0.0014(7) 0.0064(8) 0.0002(8)
+B6 B1- 0.0200(9) 0.0210(10) 0.0220(10) 0.0024(8) 0.0045(8) 0.0026(8)
+Li1 Li1+ 0.0278(14) 0.0342(16) 0.0334(15) -0.0011(12) 0.0086(12) -0.0002(13)
+#End of TTdata_414142-ICSD

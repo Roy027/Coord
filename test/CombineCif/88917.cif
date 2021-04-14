@@ -1,0 +1,101 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_88917-ICSD
+_database_code_ICSD 88917
+_audit_creation_date 2001-07-16
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Dilithium tecto-dialumotetrasilicate dihydrate'
+_chemical_formula_structural 'Li2 (Al2 Si4 O12) (H2 O)2'
+_chemical_formula_sum 'H4 Al2 Li2 O14 Si4'
+_chemical_name_structure_type Bikitaite-1A-frame
+_chemical_name_mineral 'Bikitaite 1A'
+_exptl_crystal_density_diffrn 2.29
+_publ_section_title
+
+;
+One-dimensional ice in bikitaite: single-crystal X-ray diffraction,infra-red
+spectroscopy and ab-initio molecular dynamics studies
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous and Mesoporous Materials' 1999 30 77 87 MIMMFJ
+loop_
+_publ_author_name
+'Quartieri, S.'
+'Sani, A.'
+'Vezzalini, G.'
+'Galli, E.'
+'Fois, E.'
+'Gamba, A.'
+'Tabacchi, G.'
+_cell_length_a 8.6146(6)
+_cell_length_b 4.9570(5)
+_cell_length_c 7.6032(6)
+_cell_angle_alpha 89.899(8)
+_cell_angle_beta 114.394(5)
+_cell_angle_gamma 89.934(7)
+_cell_volume 295.69
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+Si4+ 4
+O2- -2
+Li1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 1 a 0.10713(6) 0.86455(9) 0.09943(6) 0.46(7) 1. 0
+Si2 Si4+ 1 a 0.1038 0.8006 0.5049 0.53(7) 1. 0
+Al1 Al3+ 1 a 0.38055(6) 0.87428(9) 0.93922(7) 0.53(7) 1. 0
+Al2 Al3+ 1 a 0.90048(6) 0.36469(9) 0.90873(7) 0.57(7) 1. 0
+Si3 Si4+ 1 a 0.89220(5) 0.29931(8) 0.48793(6) 0.53(7) 1. 0
+Si4 Si4+ 1 a 0.61975(6) 0.37490(9) 0.06501(6) 0.42(7) 1. 0
+O1 O2- 1 a 0.2639(1) 0.7395(2) 0.0610(2) 0.74(7) 1. 0
+O2 O2- 1 a 0.0863(1) 0.1822(2) 0.0454(1) 0.80(7) 1. 0
+O3 O2- 1 a 0.1590(2) 0.8283(3) 0.3272(1) 1.39(7) 1. 0
+O4 O2- 1 a 0.0543(1) 0.4865(2) 0.5139(2) 1.30(7) 1. 0
+O5 O2- 1 a 0.2602(1) 0.8927(2) 0.6937(1) 1.25(7) 1. 0
+O6 O2- 1 a 0.4524(1) 0.1970(2) 0.0306(1) 0.77(7) 1. 0
+O7 O2- 1 a 0.7313(1) 0.2435(2) 0.9593(1) 0.74(7) 1. 0
+O8 O2- 1 a 0.9317(1) 0.7052(2) 0.9754(1) 0.81(7) 1. 0
+O9 O2- 1 a 0.8420(2) 0.3286(3) 0.6652(2) 1.45(7) 1. 0
+O10 O2- 1 a 0.9376(1) 0.9877(2) 0.4633(2) 1.24(7) 1. 0
+O11 O2- 1 a 0.7317(1) 0.3940(2) 0.2959(1) 1.18(7) 1. 0
+O12 O2- 1 a 0.5619(1) 0.6771(2) 0.9841(1) 0.75(7) 1. 0
+Li1 Li1+ 1 a 0.3115(4) 0.3640(6) 0.1506(5) 1.28(7) 1. 0
+Li2 Li1+ 1 a 0.7018(4) 0.8678(5) 0.8796(5) 1.22(7) 1. 0
+O13 O2- 1 a 0.4101(2) 0.3225 0.4393(2) 2.18(7) 1. 0
+H1 H1+ 1 a 0.337(4) 0.301(8) 0.439(5) 5.91(7) 1. 0
+H2 H1+ 1 a 0.471(6) 0.184(9) 0.450(8) 5.76(7) 1. 0
+O14 O2- 1 a 0.6002(2) 0.8213(3) 0.5927(2) 2.23(7) 1. 0
+H3 H1+ 1 a 0.661(6) 0.804(9) 0.537(6) 9.91(7) 1. 0
+H4 H1+ 1 a 0.503(4) 0.705(7) 0.552(5) 7.55(7) 1. 0
+#End of TTdata_88917-ICSD

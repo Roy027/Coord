@@ -1,0 +1,80 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_236390-ICSD
+_database_code_ICSD 236390
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Dilithium vanadium hexaoxophosphate'
+_chemical_formula_structural 'Li2 (V P O6)'
+_chemical_formula_sum 'Li2 O6 P1 V1'
+_chemical_name_structure_type AlFeO3
+_exptl_crystal_density_diffrn 3.11
+_publ_section_title
+
+;
+Large scale synthesis, second-harmonic generation, and piezoelectric
+properties of a noncentrosymmetric vanadium phosphate, Li2VPO6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2013 202 22 26 JSSCBI
+loop_
+_publ_author_name
+'Lee, Eun Pyo'
+'Lee, Dong Woo'
+'Cho, Yoon-Ho'
+'Tran, T.Thao'
+'Shiv Halasyamani, P.'
+'Ok, Kang Min'
+_cell_length_a 10.32581(7)
+_cell_length_b 4.63728(3)
+_cell_length_c 8.56606(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 410.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.0187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+P5+ 5
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 4 a 0.6109(14) 0.016(4) 0 0.01609 1. 0
+P1 P5+ 4 a 0.21849(14) 0.0854(3) 0.8072(2) 0.00545 1. 0
+Li1 Li1+ 4 a 0.4103(5) 0.5146(9) 0.8270(7) 0.01852 1. 0
+Li2 Li1+ 4 a 0.3629(5) 0.0340(9) 0.1231(5) 0.01364 1. 0
+O1 O2- 4 a 0.28109(13) 0.1921(3) 0.65342(15) 0.00885 1. 0
+O2 O2- 4 a 0.08284(10) 0.2313(3) 0.8151(2) 0.00711 1. 0
+O3 O2- 4 a 0.71547(12) 0.7403(3) 0.81639(16) 0.00946 1. 0
+O4 O2- 4 a 0.28564(13) 0.2376(3) 0.94548(15) 0.0083 1. 0
+O5 O2- 4 a 0.48868(12) 0.7958(3) 0.97605(17) 0.01028 1. 0
+O6 O2- 4 a 0.54845(11) 0.2425(3) 0.1309(2) 0.01035 1. 0
+#End of TTdata_236390-ICSD

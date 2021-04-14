@@ -1,0 +1,102 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_400416-ICSD
+_database_code_ICSD 400416
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Lithium trieuropium(II) silicate trichloride'
+_chemical_formula_structural 'Li Eu3 (Si O4) Cl3'
+_chemical_formula_sum 'Cl3 Eu3 Li1 O4 Si1'
+_exptl_crystal_density_diffrn 4.85
+_publ_section_title
+
+;
+Zwei neue Silicat-Chloride mit zweiwertigem Europium: LiEu3(SiO4)Cl3 und
+Li7Eu8(SiO4)4Cl7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 1351 1356 ZAACAB
+loop_
+_publ_author_name
+'Jacobsen, H.'
+'Meyer, G.'
+_cell_length_a 9.4695(13)
+_cell_length_b 6.9952(8)
+_cell_length_c 13.680(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 906.18
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m n a'
+_symmetry_Int_Tables_number 53
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x+1/2, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Eu2+ 2
+Si4+ 4
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 d 0 0.5 0 . 1. 0
+Li2 Li1+ 2 c 0 0.5 0.5 . 1. 0
+Eu1 Eu2+ 4 h 0 0.2220(1) 0.1894(1) . 1. 0
+Eu2 Eu2+ 4 e 0.2406(1) 0 0.5 . 1. 0
+Eu3 Eu2+ 4 g 0.25 0.6701(1) 0.25 . 1. 0
+Si1 Si4+ 4 h 0 0.7918(4) 0.1115(2) . 1. 0
+O1 O2- 4 h 0 0.5774(9) 0.1605(5) . 1. 0
+O2 O2- 8 i 0.6395(5) 0.0885(6) 0.6485(3) . 1. 0
+O3 O2- 4 h 0 0.2276(9) 0.0082(5) . 1. 0
+Cl1 Cl1- 4 h 0 0.1985(3) 0.6071(2) . 1. 0
+Cl2 Cl1- 8 i 0.1834(2) 0.3348(2) 0.3736(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.161(54) 0.015(13) 0.013(13) -.008(10) 0 0
+Li2 Li1+ 0.086(35) 0.020(14) 0.043(20) 0.014(14) 0 0
+Eu1 Eu2+ 0.0144(2) 0.0088(2) 0.0131(2) -.0014(2) 0 0
+Eu2 Eu2+ 0.0138(2) 0.0148(2) 0.0114(2) -.00062(14) 0 0
+Eu3 Eu2+ 0.0136(2) 0.0091(2) 0.0151(2) 0 -.0043(2) 0
+Si1 Si4+ 0.0085(12) 0.0081(9) 0.0103(10) -.0001(8) 0 0
+O1 O2- 0.019(4) 0.009(3) 0.012(3) -.002(2) 0 0
+O2 O2- 0.012(2) 0.009(2) 0.016(2) -.0001(15) -.002(2) 0.002(2)
+O3 O2- 0.029(4) 0.012(3) 0.009(3) -.003(2) 0 0
+Cl1 Cl1- 0.0153(12) 0.0210(11) 0.0206(10) -.0055(8) 0 0
+Cl2 Cl1- 0.0181(9) 0.0199(7) 0.0256(7) 0.0087(6) 0.0007(7) 0.0024(7)
+#End of TTdata_400416-ICSD

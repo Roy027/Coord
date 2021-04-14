@@ -1,0 +1,75 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167334-ICSD
+_database_code_ICSD 167334
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Dilithium strontium silicate'
+_chemical_formula_structural 'Li2 Sr (Si O4)'
+_chemical_formula_sum 'Li2 O4 Si1 Sr1'
+_chemical_name_structure_type Cu2SnSrS4
+_exptl_crystal_density_diffrn 3.54
+_publ_section_title
+
+;
+Electron density distribution and crystal structure of lithium strontium
+silicate, Li2 Sr (Si O4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Powder Diffraction' 2010 25 4 8 PODIE2
+loop_
+_publ_author_name
+'Hirano, Y.'
+'Iwata, T.'
+'Momma, K.'
+'Fukuda, K.'
+_cell_length_a 5.02281(4)
+_cell_length_b 5.02281(4)
+_cell_length_c 12.45520(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 272.13
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+_refine_ls_R_factor_all 0.015
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+2/3'
+2 '-x, -x+y, -z+1/3'
+3 'y, x, -z'
+4 '-x+y, -x, z+2/3'
+5 '-y, x-y, z+1/3'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sr2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 6 c 0.070(2) 0.405(2) 0.4223(6) 1.4(1) 1. 0
+Sr1 Sr2+ 3 a 0.4182(1) 0 0.3333 0.76(6) 1. 0
+Si1 Si4+ 3 b 0.2772(3) 0 0.8333 0.60(6) 1. 0
+O1 O2- 6 c 0.0361(9) 0.4843(5) 0.0607(2) 0.80(7) 1. 0
+O2 O2- 6 c 0.3048(6) 0.2386(6) 0.1694(5) 0.75(8) 1. 0
+#End of TTdata_167334-ICSD

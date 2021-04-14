@@ -1,0 +1,101 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94489-ICSD
+_database_code_ICSD 94489
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Dilithium molybdate'
+_chemical_formula_structural 'Li2 (Mo O4)'
+_chemical_formula_sum 'Li2 Mo1 O4'
+_chemical_name_structure_type Be2SiO4
+_exptl_crystal_density_diffrn 3.05
+_publ_section_title
+
+;
+The crystal structures of phenacite-type Li2 (Mo O4), and scheelite-type Li Y
+(Mo O4)2 and Li Nd (Mo O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2001 216 449 454 ZEKRDZ
+loop_
+_publ_author_name
+'Kolitsch, U.'
+_cell_length_a 14.330(2)
+_cell_length_b 14.330(2)
+_cell_length_c 9.584(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1704.39
+_cell_formula_units_Z 18
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0162
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 18 f 0.1411(3) 0.4550(3) 0.2532(5) 0.0166(8) 1. 0
+Li2 Li1+ 18 f 0.3090(3) 0.8562(3) 0.5823(5) 0.0174(8) 1. 0
+Mo1 Mo6+ 18 f 0.118341(11) 0.647300(11) 0.416106(15) 0.01032(9) 1. 0
+O1 O2- 18 f 0.00523(11) 0.66467(11) 0.41520(15) 0.0157(3) 1. 0
+O2 O2- 18 f 0.23365(11) 0.77686(11) 0.41607(14) 0.0176(3) 1. 0
+O3 O2- 18 f 0.11925(11) 0.57890(11) 0.26342(14) 0.0164(3) 1. 0
+O4 O2- 18 f 0.11907(12) 0.57810(11) 0.56859(14) 0.0162(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0162(162) 0.0200(17) 0.0150(19) 0.0099(12) -0.0002(11) -0.0003(12)
+Li2 Li1+ 0.0166(16) 0.0151(15) 0.016(2) 0.0041(12) 0.0010(11) -0.0015(11)
+Mo1 Mo6+ 0.01214(11) 0.01042(11) 0.00879(12) 0.00593(7) -0.00023(4) -0.00009(4)
+O1 O2- 0.0145(6) 0.0149(6) 0.0194(6) 0.0085(5) -0.0004(5) 0.0007(5)
+O2 O2- 0.0160(6) 0.0157(6) 0.0156(6) 0.0037(5) -0.0002(5) 0.0001(5)
+O3 O2- 0.0249(7) 0.0163(6) 0.0117(6) 0.0132(6) -0.0002(5) -0.0013(5)
+O4 O2- 0.0239(7) 0.0168(6) 0.0113(6) 0.0127(6) -0.0003(5) 0.0011(5)
+#End of TTdata_94489-ICSD

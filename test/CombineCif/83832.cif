@@ -1,0 +1,83 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83832-ICSD
+_database_code_ICSD 83832
+_audit_creation_date 1999-01-19
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Lithium ditin(IV) tris(phosphate(V)) - LT'
+_chemical_formula_structural 'Li Sn2 (P O4)3'
+_chemical_formula_sum 'Li1 O12 P3 Sn2'
+_exptl_crystal_density_diffrn 3.83
+_cell_measurement_temperature 250.
+_publ_section_title 'Phase transition and crystal structures of Li Sn2 (P O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1997 34 947
+958 EJSCE5
+loop_
+_publ_author_name
+'Morin, E.'
+'Angenault, J.'
+'Couturier, J.C.'
+'Quarton, M.'
+'He, H.'
+'Klinowski, J.'
+_cell_length_a 8.4029(1)
+_cell_length_b 8.4408(2)
+_cell_length_c 8.8897(1)
+_cell_angle_alpha 118.16(1)
+_cell_angle_beta 90.180(1)
+_cell_angle_gamma 119.681(1)
+_cell_volume 459.29
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sn4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 i 0.764(3) 0.254(4) 0.402(3) 4.23(5) 1. 0
+Sn1 Sn4+ 2 i 0.8650(8) 0.2097(9) 0.0701(9) 0.44(5) 1. 0
+Sn2 Sn4+ 2 i 0.6459(9) 0.7949(9) 0.4421(7) 0.44(5) 1. 0
+P1 P5+ 2 i -.0417(9) -.010(1) 0.245(3) 0.90(6) 1. 0
+P2 P5+ 2 i 0.256(2) 0.716(1) 0.2617(9) 0.90(6) 1. 0
+P3 P5+ 2 i 0.5388(9) 0.278(1) 0.2473(9) 0.90(6) 1. 0
+O1 O2- 2 i 0.8265(9) 0.8426(9) 0.3019(9) 1.01(3) 1. 0
+O2 O2- 2 i -.037(1) 0.863(1) 0.0591(8) 1.01(3) 1. 0
+O3 O2- 2 i 0.1593(7) 0.1499(9) 0.3729(8) 1.01(3) 1. 0
+O4 O2- 2 i 0.8817(9) 0.1276(9) 0.2486(8) 1.01(3) 1. 0
+O5 O2- 2 i 0.4539(9) 0.753(1) 0.2637(8) 1.01(3) 1. 0
+O6 O2- 2 i 0.1137(9) 0.504(1) 0.2516(9) 1.01(3) 1. 0
+O7 O2- 2 i 0.2529(9) 0.889(1) 0.4324(8) 1.01(3) 1. 0
+O8 O2- 2 i 0.1868(9) 0.7013(9) 0.0888(7) 1.01(3) 1. 0
+O9 O2- 2 i 0.7330(9) 0.336(1) 0.2274(8) 1.01(3) 1. 0
+O10 O2- 2 i 0.3794(8) 0.0807(9) 0.0753(8) 1.01(3) 1. 0
+O11 O2- 2 i 0.5292(9) 0.232(1) 0.3975(8) 1.01(3) 1. 0
+O12 O2- 2 i 0.5216(9) 0.4735(9) 0.3086(9) 1.01(3) 1. 0
+#End of TTdata_83832-ICSD

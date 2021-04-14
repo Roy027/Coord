@@ -1,0 +1,92 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419060-ICSD
+_database_code_ICSD 419060
+_audit_creation_date 2009-02-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Lithium sodium catena-dithioarsenate(III)'
+_chemical_formula_structural '(Li0.60 Na0.40) As S2'
+_chemical_formula_sum 'As1 Li0.6 Na0.4 S2'
+_chemical_name_structure_type LiAsS2
+_exptl_crystal_density_diffrn 3.06
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Soluble Direct-Band-Gap semiconductors Li As S2 and Na As2 S2: Large
+electronic structure effects from weak As...S interactions and strong
+nonlinear optical response
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2008 47 7828 7832 ACIEF5
+loop_
+_publ_author_name
+'Bera, T.K.'
+'Song Jungh Wan'
+'Freeman, A.J.'
+'Jang, J.-I.'
+'Ketterson, J.B.'
+'Kanatzidis, M.G.'
+_cell_length_a 12.104(3)
+_cell_length_b 5.4839(9)
+_cell_length_c 5.4176(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.188(19)
+_cell_angle_gamma 90.
+_cell_volume 330.56
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0236
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As3+ 3
+Na1+ 1
+Li1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As3+ 4 a 0.3044 0.78098(6) 0.3452 0.00952(12) 1 0
+Na1 Na1+ 4 a 0.0242(4) 0.2407(7) 0.0258(8) 0.0177(8) 0.4 0
+Li1 Li1+ 4 a 0.0242(4) 0.2407(7) 0.0258(8) 0.0177(8) 0.6 0
+S1 S2- 4 a 0.00001(12) 0.7387(2) 0.0001(3) 0.0168(2) 1 0
+S2 S2- 4 a 0.26681(13) 0.18984(19) 0.2340(3) 0.0123(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As3+ 0.01252(19) 0.00923(17) 0.00714(17) 0.0004(3) 0.00422(14) -0.0004(3)
+Na1 Na1+ 0.016(2) 0.0190(17) 0.017(2) 0.0001(17) 0.0057(15) 0.0009(15)
+Li1 Li1+ 0.016(2) 0.0190(17) 0.017(2) 0.0001(17) 0.0057(15) 0.0009(15)
+S1 S2- 0.0145(6) 0.0206(5) 0.0150(6) -0.0039(5) 0.0055(5) -0.0015(4)
+S2 S2- 0.0193(6) 0.0105(4) 0.0092(4) 0.0007(4) 0.0078(4) 0.0003(4)
+#End of TTdata_419060-ICSD

@@ -1,0 +1,84 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238523-ICSD
+_database_code_ICSD 238523
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Dilithium iron orthosilicate'
+_chemical_formula_structural 'Li2 Fe Si O4'
+_chemical_formula_sum 'Fe1 Li2 O4 Si1'
+_chemical_name_structure_type Enargite-Cu3AsS4
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title
+
+;
+Crystal structural changes and charge compensation mechanism during two
+lithium extraction/insertion between Li2 Fe Si O4 and Fe Si O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry C' 2015 119 10206 10211 JPCCCK
+loop_
+_publ_author_name
+'Masese, Titus'
+'Tassel, Cedric'
+'Orikasa, Yuki'
+'Koyama, Yukinori'
+'Arai, Hajime'
+'Hayashi, Naoaki'
+'Kim, Jungeun'
+'Mori, Takuya'
+'Yamamoto, Kentaro'
+'Kobayashi, Yoji'
+'Kageyama, Hiroshi'
+'Ogumi, Zempachi'
+'Uchimoto, Yoshiharu'
+_cell_length_a 6.2961(19)
+_cell_length_b 5.3348(15)
+_cell_length_c 5.0077(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 168.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0 0.147 0.0412 0.0089 1. 0
+Li2 Li1+ 4 b 0.2672(10) 0.3322(18) 0.4407(6) 0.0051 0.4915 0
+Fe1 Fe2+ 4 b 0.2672(10) 0.3322(18) 0.4407(6) 0.0051 0.5085 0
+Si1 Si4+ 2 a 0.5 0.1719(34) 0 0.0051 1. 0
+O1 O2- 4 b 0.3072(22) 0.3419(33) 0.9292(39) 0.0215 1. 0
+O2 O2- 2 a 0 0.1537(44) 0.4534(43) 0.0013 1. 0
+O3 O2- 2 a 0.5 0.1469(60) 0.3365(39) 0.0013 1. 0
+#End of TTdata_238523-ICSD

@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61091-ICSD
+_database_code_ICSD 61091
+_audit_creation_date 1986-12-03
+_chemical_name_systematic 'Sodium lithium sulphide'
+_chemical_formula_structural 'Na Li S'
+_chemical_formula_sum 'Li1 Na1 S1'
+_chemical_name_structure_type PbClF
+_exptl_crystal_density_diffrn 1.96
+_publ_section_title 'Na Li S: Ein weiteres Interalkalimetallsulfid'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (33,1978-41,1986)
+; 1985 40 1759 1760 ZNBAD2
+loop_
+_publ_author_name
+'Sabrowsky, H.'
+'Thimm, A.'
+'Vogt-Mertens, P.'
+_cell_length_a 4.026(1)
+_cell_length_b 4.026(1)
+_cell_length_c 6.495(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 105.28
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m S'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.0243
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y+1/2, x+1/2, z'
+3 '-y, -x, -z'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z'
+6 '-y+1/2, x+1/2, z'
+7 'y, -x, -z'
+8 '-y, x, -z'
+9 'x+1/2, -y+1/2, -z'
+10 '-x+1/2, y+1/2, -z'
+11 'x, -y, z'
+12 '-x, y, z'
+13 '-x+1/2, -y+1/2, -z'
+14 'x+1/2, y+1/2, -z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 2 c 0 0.5 0.6479(1) . 1. 0
+S1 S2- 2 c 0 0.5 0.2165(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0154(9) 0.0154(9) 0.0183(14) 0 0 0
+Na1 Na1+ 0.0202(2) 0.0202(2) 0.0117(3) 0 0 0
+S1 S2- 0.0096(1) 0.0096(1) 0.0109(2) 0 0 0
+#End of TTdata_61091-ICSD

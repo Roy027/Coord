@@ -1,0 +1,97 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78878-ICSD
+_database_code_ICSD 78878
+_audit_creation_date 1997-11-10
+_chemical_name_systematic 'Rubidium lithium selenide'
+_chemical_formula_structural 'Rb Li Se'
+_chemical_formula_sum 'Li1 Rb1 Se1'
+_chemical_name_structure_type PbClF
+_exptl_crystal_density_diffrn 3.57
+_publ_section_title
+
+;
+Darstellung und Charakterisierung von Rb Li Se im Rahmen einer
+Struktursystematik fuer ternaere Interalkalimetallchalkogenide vom Formeltyp A
+B X
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 1311 1313 ZAACAB
+loop_
+_publ_author_name
+'Winter, V.'
+'Feldbaum-Moeller, E.'
+'Fischer, K.'
+'Vogt, P.'
+'Sabrowsky, H.'
+_cell_length_a 4.616(1)
+_cell_length_b 4.616(1)
+_cell_length_c 7.482(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 159.42
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m S'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.0344
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y+1/2, x+1/2, z'
+3 '-y, -x, -z'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z'
+6 '-y+1/2, x+1/2, z'
+7 'y, -x, -z'
+8 '-y, x, -z'
+9 'x+1/2, -y+1/2, -z'
+10 '-x+1/2, y+1/2, -z'
+11 'x, -y, z'
+12 '-x, y, z'
+13 '-x+1/2, -y+1/2, -z'
+14 'x+1/2, y+1/2, -z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Li1+ 1
+Se2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 c 0 0.5 0.659(12) . 1. 0
+Li1 Li1+ 2 a 0 0 0 . 1. 0
+Se1 Se2- 2 c 0 0.5 0.182(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0174(7) 0.0174(7) 0.0197(9) 0 0 0
+Li1 Li1+ 0.020(12) 0.020(11) 0.008(19) 0 0 0
+Se1 Se2- 0.0093(7) 0.0093(7) 0.0093(9) 0 0 0
+#End of TTdata_78878-ICSD

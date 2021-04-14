@@ -1,0 +1,120 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_49513-ICSD
+_database_code_ICSD 49513
+_audit_creation_date 1984-12-31
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Lithium octaoxotritantalate - H'
+_chemical_formula_structural 'Li Ta3 O8'
+_chemical_formula_sum 'Li1 O8 Ta3'
+_exptl_crystal_density_diffrn 7.84
+_publ_section_title
+
+;
+Neutron Diffraction Structure Determination ot the High-temperature Form of
+Lithium Tritanatalte, H-Li Ta3 O8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1984 51 275 292 JSSCBI
+loop_
+_publ_author_name
+'Hodeau, J.L.'
+'Marezio, M.'
+'Santoro, A.'
+'Roth, R.S.'
+_cell_length_a 16.718(2)
+_cell_length_b 7.696(1)
+_cell_length_c 8.931(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1149.08
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 4 e 0.25 0.0012(3) 0.6878(2) . 1. 0
+Ta2 Ta5+ 8 g 0.13256(7) -.0011(2) 0.3930(2) . 1. 0
+Ta3 Ta5+ 8 g 0.06024(7) -.0004(2) 0.8114(2) . 1. 0
+Ta4 Ta5+ 4 e 0.25 0.0025(4) 0.0539(2) . 1. 0
+O1 O2- 4 e 0.25 -.0249(3) 0.4530(3) . 1. 0
+O2 O2- 8 g 0.13163(8) 0.0013(2) 0.6202(2) . 1. 0
+O3 O2- 8 g 0.17483(9) 0.0259(2) 0.8779(2) . 1. 0
+O4 O2- 2 a 0.25 0.25 0.6716(6) . 1. 0
+O5 O2- 2 b 0.25 0.75 0.7041(6) . 1. 0
+O6 O2- 8 g 0.16236(10) -.0404(2) 0.1883(2) . 1. 0
+O7 O2- 8 g 0.02035(9) 0.0393(2) 0.3404(2) . 1. 0
+O8 O2- 4 f 0.1416(2) 0.25 0.3959(4) . 1. 0
+O9 O2- 4 f 0.1048(2) 0.75 0.4151(4) . 1. 0
+O10 O2- 4 c 0 0 0 . 1. 0
+O11 O2- 4 f 0.0417(2) 0.25 0.8038(4) . 1. 0
+O12 O2- 4 f 0.0731(1) 0.75 0.8425(4) . 1. 0
+O13 O2- 2 a 0.25 0.25 0.0932(6) . 1. 0
+O14 O2- 2 b 0.25 0.75 0.0161(7) . 1. 0
+Li1 Li1+ 4 f 0.9163(12) 0.25 0.9083(21) . 1. 0
+Li2 Li1+ 4 f -.0063(10) 0.25 0.462(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.0054(8) 0.0061(9) 0.0010(10) 0 0 -.0005(9)
+Ta2 Ta5+ 0.0057(5) 0.0071(6) 0.0010(7) 0.0015(5) -.0002(5) -.0001(6)
+Ta3 Ta5+ 0.0041(5) 0.0038(6) 0.0028(7) 0.0005(5) 0.0004(5) 0.0003(8)
+Ta4 Ta5+ 0.0055(8) 0.0451(4) 0.0010(10) 0 0 0.0048(14)
+O1 O2- 0.0039(9) 0.0079(11) 0.0010(12) 0 0 0.0008(10)
+O2 O2- 0.0052(6) 0.0098(7) 0.0010(8) -.0007(6) 0.0011(7) -.0005(8)
+O3 O2- 0.0046(6) 0.0077(8) 0.0025(9) 0.0001(5) 0.0002(7) -.0007(8)
+O4 O2- 0.0104(16) 0.0018(14) 0.0071(24) 0 0 0
+O5 O2- 0.0101(16) 0.0011(14) 0.0080(25) 0 0 0
+O6 O2- 0.0091(8) 0.0156(9) 0.0051(10) -.0004(6) 0.0036(7) 0.0018(8)
+O7 O2- 0.0043(7) 0.0087(7) 0.0076(10) 0.0007(6) -.0035(7) -.0012(7)
+O8 O2- 0.0170(12) 0.0031(10) 0.0157(18) 0 -.0083(14) 0
+O9 O2- 0.0109 0.0014(10) 0.0092(18) 0 -.0029(12) 0
+O10 O2- 0.0169(11) 0.0106(10) 0.0049(13) -.0021(10) 0.0082(10) -.0031(13)
+O11 O2- 0.0153(13) 0.0015(10) 0.0109(17) 0 0.0002(12) 0
+O12 O2- 0.0093(11) 0.0010(9) 0.0264(22) 0 0.0026(12) 0
+O13 O2- 0.0167(18) 0.0098(16) 0.0123(27) 0 0 0
+O14 O2- 0.0266(21) 0.0132(19) 0.0159(30) 0 0 0
+Li1 Li1+ 0.117(12) 0.032(6) 0.065(13) 0 0.040(11) 0
+Li2 Li1+ 0.076(9) 0.038(6) 0.114(20) 0 0.052(11) 0
+#End of TTdata_49513-ICSD

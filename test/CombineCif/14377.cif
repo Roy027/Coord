@@ -1,0 +1,77 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14377-ICSD
+_database_code_ICSD 14377
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Lithium iodate(V)'
+_chemical_formula_structural 'Li (I O3)'
+_chemical_formula_sum 'I1 Li1 O3'
+_chemical_name_structure_type LiIO3
+_exptl_crystal_density_diffrn 4.49
+_publ_section_title 'A reinvestigation of the crystal structure of Li I O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica' 1966 20 758 761 ACCRA9
+loop_
+_publ_author_name
+'Rosenzweig, A.'
+'Morosin, B.'
+_cell_length_a 5.4815(3)
+_cell_length_b 5.4815(3)
+_cell_length_c 5.1709(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 134.55
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+I5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0 0 0.891(12) 2. 1. 0
+I1 I5+ 2 b 0.3333 0.6667 0 . 1. 0
+O1 O2- 6 c 0.0936(21) 0.3440(21) 0.1698(20) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+I1 I5+ 0.833(50) 0.833(50) 0.853(30) 0.416(25) 0 0
+O1 O2- 1.19(31) 0.98(30) 1.16(27) 0.18(26) 0.54(29) 0.42(26)
+#End of TTdata_14377-ICSD

@@ -1,0 +1,81 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_246133-ICSD
+_database_code_ICSD 246133
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Dilithium vanadyl diphosphate'
+_chemical_formula_structural 'Li2 (V O) (P2 O7)'
+_chemical_formula_sum 'Li2 O8 P2 V1'
+_exptl_crystal_density_diffrn 2.96
+_publ_section_title
+
+;
+A new lithium vanadyl diphosphate Li2 V O P2 O7: Synthesis and electrochemical
+study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2008 10 1285 1291 SSSCFJ
+loop_
+_publ_author_name
+'Kishore, M.S.'
+'Pralong, V.'
+'Caignaert, V.'
+'Varadaraju, U.V.'
+'Raveau, B.'
+_cell_length_a 7.4674(8)
+_cell_length_b 12.442(2)
+_cell_length_c 6.2105(7)
+_cell_angle_alpha 90
+_cell_angle_beta 97.79(1)
+_cell_angle_gamma 90
+_cell_volume 571.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0206
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+P5+ 5
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 e 0.2267(4) 0.42085(17) 0.2500(5) 0.012(1) 1. 0
+P1 P5+ 4 e 0.3645(5) 0.6431(3) 0.5350(6) 0.009(1) 1. 0
+P2 P5+ 4 e 0.1775(5) 0.4716(3) 0.7480(7) 0.007(1) 1. 0
+Li1 Li1+ 4 e 0.114(3) 0.7064(16) 0.197(4) 0.012(7) 1. 0
+Li2 Li1+ 4 e 0.5163(14) 0.3973(15) 0.937(3) 0.012(7) 1. 0
+O1 O2- 4 e 0.3826(8) 0.5804(5) 0.3340(9) 0.008(3) 1. 0
+O2 O2- 4 e 0.4733(10) 0.3639(5) 0.2844(11) 0.012(3) 1. 0
+O3 O2- 4 e 0.0852(8) 0.3211(5) 0.1523(11) 0.008(3) 1. 0
+O4 O2- 4 e 0.2243(9) 0.4092(5) 0.5677(12) 0.006(3) 1. 0
+O5 O2- 4 e 0.0234(11) 0.5288(6) 0.2280(11) 0.014(3) 1. 0
+O6 O2- 4 e 0.2920(4) 0.4635(5) -0.0325(12) 0.011(3) 1. 0
+O7 O2- 4 e 0.1973(8) 0.5933(5) 0.6600(9) 0.009(3) 1. 0
+O8 O2- 4 e 0.2825(10) 0.7523(6) 0.4799(12) 0.020(3) 1. 0
+#End of TTdata_246133-ICSD

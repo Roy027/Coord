@@ -1,0 +1,109 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_25105-ICSD
+_database_code_ICSD 25105
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Barium titanium lithium oxide (2/9.3/3/22)'
+_chemical_formula_structural 'Ba2 Ti9.25 Li3 O22'
+_chemical_formula_sum 'Ba2 Li3 O22 Ti9.25'
+_exptl_crystal_density_diffrn 4.48
+_publ_section_title
+'Die Kristallstruktur eines Bariumtitanlithiumoxids, Ba2 Ti9.25 Li3 O22'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1976 144 16 31 ZEKGAX
+loop_
+_publ_author_name
+'Tillmanns, E.'
+'Wendt, I.'
+_cell_length_a 5.8081(5)
+_cell_length_b 9.931(1)
+_cell_length_c 14.025(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 808.97
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m c n'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x+1/2, y, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x+1/2, -y, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ti4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.25 0.09695(2) 0.40780(2) . 1. 0
+Ti1 Ti4+ 4 c 0.25 0.73516(6) 0.00222(5) . 1. 0
+Ti2 Ti4+ 8 d 0.00006(10) 0.16670(5) 0.17094(4) . 0.86 0
+Ti3 Ti4+ 4 c 0.25 0.42921(8) 0.16411(6) . 0.88 0
+Ti4 Ti4+ 4 c 0.25 0.89567(7) 0.17197(5) . 1. 0
+Li1 Li1+ 4 c 0.25 0.404(2) 0.349(2) 2.5 0.5 0
+Li2 Li1+ 4 c 0.25 0.428(2) 0.460(1) 2.5 0.5 0
+Li3 Li1+ 4 a 0 0 0 2.5 0.5 0
+O1 O2- 8 d -.0013(3) -.0025(2) 0.2503(1) . 1. 0
+O2 O2- 4 c 0.25 0.2555(2) 0.2381(2) . 1. 0
+O3 O2- 4 c 0.25 0.0721(2) 0.1022(2) . 1. 0
+O4 O2- 8 d 0.0027(3) 0.3283(2) 0.0846(1) . 1. 0
+O5 O2- 8 d -.0310(3) 0.3239(2) 0.4154(1) . 1. 0
+O6 O2- 4 c 0.75 0.4317(3) 0.9288(2) . 1. 0
+O7 O2- 4 c 0.25 0.6042(2) 0.4135(2) . 1. 0
+O8 O2- 4 c 0.75 0.2449(3) 0.2462(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Ba1 Ba2+ 0.85(1) 0.93(1) 0.81(1) 0 0 0.07(1)
+Ti1 Ti4+ 0.82(3) 0.51(2) 0.68(2) 0 0 0.07(2)
+Ti2 Ti4+ 0.89(1) 0.74(1) 0.61(1) 0.02(2) -.15(2) -.13(2)
+Ti3 Ti4+ 0.99(3) 0.62(2) 0.93(3) 0 0 0.34(2)
+Ti4 Ti4+ 0.89(2) 0.51(2) 0.66(2) 0 0 0.20(2)
+O1 O2- 0.74(8) 0.69(7) 0.78(8) 0.09(5) -.01(4) -.15(5)
+O2 O2- 0.73(8) 0.49(8) 0.59(8) 0 0 0.08(8)
+O3 O2- 0.84(9) 0.42(8) 0.50(9) 0 0 0.01(9)
+O4 O2- 0.82(8) 1.00(8) 0.63(7) -.11(6) 0.03(5) -.04(5)
+O5 O2- 0.62(2) 0.65(6) 0.53(5) 0.01(7) 0.00(6) 0.00(6)
+O6 O2- 0.91(9) 0.59(8) 0.86(9) 0 0 -.04(7)
+O7 O2- 0.81(8) 0.43(8) 0.54(8) 0 0 -.02(8)
+O8 O2- 0.89(9) 0.60(9) 0.61(8) 0 0 -.13(7)
+#End of TTdata_25105-ICSD

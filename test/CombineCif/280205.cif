@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280205-ICSD
+_database_code_ICSD 280205
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Rubidium dilithium digallium tris(borate)'
+_chemical_formula_structural 'Rb Li2 Ga2 (B O3)3'
+_chemical_formula_sum 'B3 Ga2 Li2 O9 Rb1'
+_chemical_name_structure_type KZn4(BO3)3
+_exptl_crystal_density_diffrn 3.47
+_cell_measurement_temperature 296.
+_publ_section_title 'Rb Li2 Ga2 (B O3)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2000 56 631 632 ACSCEE
+loop_
+_publ_author_name
+'Kissick, J.L.'
+'Keszler, D.A.'
+_cell_length_a 6.297(4)
+_cell_length_b 4.951(3)
+_cell_length_c 12.751(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.65(6)
+_cell_angle_gamma 90.
+_cell_volume 397.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0414
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Ga3+ 3
+O2- -2
+B3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 e 0 0.20812(7) 0.75 . 1. 0
+Ga1 Ga3+ 4 g 0.23456(3) 0.68384(4) 0.564180(17) . 1. 0
+O1 O2- 2 f 0.5 0.3967(5) 0.75 . 1. 0
+O2 O2- 4 g 0.2421(2) 0.9123(3) 0.44989(11) . 1. 0
+O3 O2- 4 g 0.4015(3) 0.8202(3) 0.67083(12) . 1. 0
+O4 O2- 4 g -.0423(2) 0.7005(3) 0.60593(13) . 1. 0
+O5 O2- 4 g 0.3014(3) 0.3327(3) 0.53427(13) . 1. 0
+B1 B3+ 4 g 0.1945(3) 1.1837(4) 0.45842(17) . 1. 0
+B2 B3+ 2 f 0.5 0.6664(6) 0.75 . 1. 0
+Li1 Li1+ 4 g -.4959(6) 0.1719(8) 0.6347(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.02288(15) 0.02040(16) 0.01442(14) 0 -.00201(11) 0
+Ga1 Ga3+ 0.01016(10) 0.00669(10) 0.00929(10) 0.00051(7) -.00255(7) -.00016(7)
+O1 O2- 0.0314(12) 0.0072(8) 0.0125(9) 0 -.0032(8) 0
+O2 O2- 0.0146(6) 0.0071(6) 0.0101(6) 0.0008(5) 0.0006(5) -.0001(5)
+O3 O2- 0.0176(7) 0.0096(6) 0.0111(6) -.0024(5) -.0073(5) 0.0022(5)
+O4 O2- 0.0111(6) 0.0152(7) 0.0119(6) 0.0032(5) -.0019(5) 0.0027(5)
+O5 O2- 0.0166(7) 0.0085(6) 0.0159(7) 0.0021(5) -.0065(6) -.0029(5)
+B1 B3+ 0.0101(8) 0.0086(8) 0.0081(8) 0.0004(7) 0.0007(6) 0.0004(6)
+B2 B3+ 0.0114(11) 0.0085(11) 0.0094(11) 0 -.0003(9) 0
+Li1 Li1+ 0.0129(16) 0.0144(17) 0.0144(17) -.0001(14) -.0008(13) -.0016(14)
+#End of TTdata_280205-ICSD

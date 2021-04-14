@@ -1,0 +1,71 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79805-ICSD
+_database_code_ICSD 79805
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Distrontium lithium silicate fluoride'
+_chemical_formula_structural 'Sr2 Li (Si O4) F'
+_chemical_formula_sum 'F1 Li1 O4 Si1 Sr2'
+_exptl_crystal_density_diffrn 4.27
+_cell_measurement_temperature 298.
+_publ_section_title
+'Sr2 Li Si O4 F: synthesis, structure, and Eu(2+) luminescence'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1995 7 1299 1302 CMATEX
+loop_
+_publ_author_name
+'Akella, A.'
+'Keszler, D.A.'
+_cell_length_a 6.5825(9)
+_cell_length_b 5.4158(8)
+_cell_length_c 6.9266(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.525(8)
+_cell_angle_gamma 90.
+_cell_volume 228.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Si4+ 4
+F1- -1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 2 e 0.1597(2) 0.25 0.3722(1) 0.50(3) 1. 0
+Sr2 Sr2+ 2 e 0.6342(2) 0.25 0.8985(1) 0.57(3) 1. 0
+Si1 Si4+ 2 e 0.6547(5) 0.25 0.3351(4) 0.29(8) 1. 0
+F1 F1- 2 a 0 0 0 1.0(2) 1. 0
+O1 O2- 2 e 0.405(1) 0.25 0.158(1) 0.7(2) 1. 0
+O2 O2- 4 f 0.2252(8) -.009(1) 0.7117(8) 0.9(2) 1. 0
+O3 O2- 2 e 0.665(1) 0.25 0.572(1) 1.2(3) 1. 0
+Li1 Li1+ 2 e 0.141(3) 0.25 0.875(3) 1.1(7) 1. 0
+#End of TTdata_79805-ICSD

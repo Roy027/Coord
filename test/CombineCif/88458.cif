@@ -1,0 +1,83 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_88458-ICSD
+_database_code_ICSD 88458
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Dilithium divanadium(II) tris(sulfate(VI))'
+_chemical_formula_structural 'Li2 V2 (S O4)3'
+_chemical_formula_sum 'Li2 O12 S3 V2'
+_exptl_crystal_density_diffrn 3.01
+_publ_section_title
+
+;
+Crystal structure of the end product of electrochemical lithium intercalation
+in V2 (S O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 1999 9 2809 2812 JMACEP
+loop_
+_publ_author_name
+'Vaughan, G.M.B.'
+'Gaubicher, J.'
+'le Mercier, T.'
+'Angenault, J.'
+'Quarton, M.'
+'Chabre, Y.'
+_cell_length_a 13.0582(5)
+_cell_length_b 8.6526(4)
+_cell_length_c 8.7247(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.443(2)
+_cell_angle_gamma 90.
+_cell_volume 890.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V2+ 2
+S6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V2+ 8 f 0.1232(2) 0.2500(4) 0.0145(3) 0.0036(6) 1. 0
+S1 S6+ 8 f 0.3536(4) 0.1043(4) 0.3185(6) 0.0114(8) 1. 0
+S2 S6+ 4 e 0 0.0592(5) 0.25 0.0114(8) 1. 0
+O1 O2- 8 f 0.1768(6) 0.4308(11) 0.1946(9) 0.0119(11) 1. 0
+O2 O2- 8 f 0.4717(7) 0.1341(8) 0.3809(9) 0.0119(11) 1. 0
+O3 O2- 8 f 0.3097(7) 0.1800(7) 0.4341(10) 0.0119(11) 1. 0
+O4 O2- 8 f 0.3008(7) 0.1648(8) 0.1530(9) 0.0119(11) 1. 0
+O5 O2- 8 f 0.4088(6) 0.4692(8) 0.1085(10) 0.0119(11) 1. 0
+O6 O2- 8 f 0.0583(7) 0.1529(8) 0.1719(9) 0.0119(11) 1. 0
+Li1 Li1+ 8 f 0.744(2) 0.412(3) 0.068(3) 0.03(11) 1. 0
+#End of TTdata_88458-ICSD

@@ -1,0 +1,104 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_415328-ICSD
+_database_code_ICSD 415328
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Dilithium tetraborate'
+_chemical_formula_structural 'Li2 (B4 O7)'
+_chemical_formula_sum 'B4 Li2 O7'
+_chemical_name_structure_type Li2B4O7
+_exptl_crystal_density_diffrn 2.39
+_cell_measurement_temperature 773.
+_publ_section_title
+
+;
+Li2 B4 O7 crystal structure in anharmonic approximation at 20, 200, 400 and
+500 C
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2007 428 290 296 JALCEU
+loop_
+_publ_author_name
+'Sennova, N.'
+'Bubnova, R.'
+'Shepelev, Yu.'
+'Filatov, S.'
+'Yakovleva, O.'
+_cell_length_a 9.555(3)
+_cell_length_b 9.555(3)
+_cell_length_c 10.295(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 939.91
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41 c d'
+_symmetry_Int_Tables_number 110
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x+1/2, z+3/4'
+2 '-y, x+1/2, z+1/4'
+3 'x, -y, z+1/2'
+4 '-x, -y, z'
+5 'y, x+1/2, z+3/4'
+6 'y, -x+1/2, z+1/4'
+7 '-x, y, z+1/2'
+8 'x, y, z'
+9 '-y+1/2, -x, z+1/4'
+10 '-y+1/2, x, z+3/4'
+11 'x+1/2, -y+1/2, z'
+12 '-x+1/2, -y+1/2, z+1/2'
+13 'y+1/2, x, z+1/4'
+14 'y+1/2, -x, z+3/4'
+15 '-x+1/2, y+1/2, z'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 16 b .3532(5) .3390(6) .35722(0) 5.3(1) 1. 0
+B1 B3+ 16 b .0831(9) .3319(1) .4504(5) 1.18(1) 1. 0
+B2 B3+ 16 b .0517(9) .11272(9) .5825(5) 1.18(1) 1. 0
+O1 O2- 16 b .1324(7) .21910(7) .5149(5) 1.67(1) 1. 0
+O2 O2- 16 b .1752(7) .43056(8) .4058(5) 1.76(1) 1. 0
+O3 O2- 16 b -.0583(7) .34513(8) .4306(5) 1.62(1) 1. 0
+O4 O2- 8 a .0(0) .0(0) .5003(5) 1.44(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ .01152(41) .01520(58) .01437(55) .01475(80) .00810(84) .01559(99)
+B1 B3+ .00262(6) .00329(6) .00329(5) -.00058(10) .00010(9) .00201(10)
+B2 B3+ .00297(6) .00314(6) .00310(5) -.00016(10) -.00012(9) .00171(9)
+O1 O2- .00289(4) .00442(6) .00550(6) .00039(9) .00093(8) .00557(10)
+O2 O2- .00304(5) .00435(6) .00607(6) -.00100(8) .00017(9) .00482(10)
+O3 O2- .00269(4) .00548(6) .00439(5) -.00113(9) -.00144(8) .00454(9)
+O4 O2- .00370(6) .00509(7) .00260(4) -.00154(13) .0(0) .0(0)
+#End of TTdata_415328-ICSD

@@ -1,0 +1,100 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_391258-ICSD
+_database_code_ICSD 391258
+_audit_creation_date 2008-08-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Pentasodium trilithium dititanium(IV) octasulfide'
+_chemical_formula_structural 'Na5 Li3 Ti2 S8'
+_chemical_formula_sum 'Li3 Na5 S8 Ti2'
+_exptl_crystal_density_diffrn 2.18
+_cell_measurement_temperature 153.
+_publ_section_title
+'Synthesis, structure, and ionic conductivity of Na5 Li3 Ti2 S8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2008 181 837 841 JSSCBI
+loop_
+_publ_author_name
+'Huang Fu qiang'
+'Yao Ji Yong'
+'Liu Zhan Qiang'
+'Yang Jiang Hua'
+'Ibers, J.A.'
+_cell_length_a 17.5783(10)
+_cell_length_b 9.6404(5)
+_cell_length_c 12.0796(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 133.4047(7)
+_cell_angle_gamma 90.
+_cell_volume 1487.21
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0259
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Li1+ 1
+Ti4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0.35382(6) 0.25427(7) 0.22311(9) 0.01830(19) 1 0
+Na2 Na1+ 8 f 0.40023(5) 0.01352(7) 0.53504(8) 0.01509(18) 1 0
+Na3 Na1+ 4 e 0. 0.00782(11) 0.25 0.0210(2) 1 0
+Li1 Li1+ 8 f 0.1927(3) 0.0015(3) 0.6272(4) 0.0171(6) 1 0
+Li2 Li1+ 4 d 0.25 0.25 0.5 0.0248(11) 1 0
+Ti1 Ti4+ 8 f 0.08371(2) 0.23504(3) 0.13513(3) 0.00689(12) 1 0
+S1 S2- 8 f 0.08599(3) 0.20365(4) 0.49471(5) 0.01073(13) 1 0
+S2 S2- 8 f 0.12862(3) 0.44648(4) 0.24944(5) 0.01061(13) 1 0
+S3 S2- 8 f 0.17827(3) 0.06233(4) 0.30814(4) 0.01058(13) 1 0
+S4 S2- 8 f 0.38601(3) 0.28030(4) 0.02010(5) 0.01155(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0262(4) 0.0150(4) 0.0176(4) -0.0003(3) 0.0165(4) -0.0002(3)
+Na2 Na1+ 0.0141(4) 0.0108(4) 0.0184(4) 0.0002(3) 0.0104(3) 0.0008(3)
+Na3 Na1+ 0.0187(5) 0.0236(6) 0.0225(6) 0. 0.0149(5) 0.
+Li1 Li1+ 0.0155(14) 0.0139(15) 0.0201(16) -0.0005(12) 0.0115(14) -0.0006(12)
+Li2 Li1+ 0.026(3) 0.023(2) 0.018(2) 0.001(2) 0.012(2) -0.0079(19)
+Ti1 Ti4+ 0.00677(19) 0.00641(18) 0.00703(18) -0.00004(10) 0.00457(15)
+0.00006(10)
+S1 S2- 0.0083(2) 0.0098(2) 0.0111(2) 0.00067(14) 0.00555(19) 0.00030(14)
+S2 S2- 0.0102(2) 0.0091(2) 0.0122(2) -0.00157(14) 0.0076(2) -0.00258(14)
+S3 S2- 0.0106(2) 0.0094(2) 0.0097(2) 0.00138(14) 0.00622(19) 0.00108(14)
+S4 S2- 0.0159(2) 0.0100(2) 0.0123(2) 0.00043(14) 0.0110(2) 0.00009(14)
+#End of TTdata_391258-ICSD

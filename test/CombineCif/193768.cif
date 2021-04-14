@@ -1,0 +1,98 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193768-ICSD
+_database_code_ICSD 193768
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Tetralithium tetraselenostannate'
+_chemical_formula_structural 'Li4 (Sn Se4)'
+_chemical_formula_sum 'Li4 Se4 Sn1'
+_exptl_crystal_density_diffrn 3.79
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Lithium chalcogenidotetrelates: Li Ch T - Synthesis and characterization of
+new Li(+) ion conducting Li/Sn/Se compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2013 25 2961 2969 CMATEX
+loop_
+_publ_author_name
+'Kaib, Thomas'
+'Bron, Philipp'
+'Haddadpour, Sima'
+'Mayrhofer Leonhard'
+'Pastewka, Lars'
+'Jaervi, Tommi T.'
+'Moseler, Michael'
+'Roling Bernhard'
+'Dehnen, Stefanie'
+_cell_length_a 14.931(3)
+_cell_length_b 8.2217(16)
+_cell_length_c 6.5989(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 810.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+Se2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 4 c 0.40789(6) 0.25 0.35748(12) 0.0127(4) 1 0
+Se1 Se2- 4 c 0.56803(10) 0.25 0.2283(2) 0.0135(4) 1 0
+Se2 Se2- 8 d 0.33872(8) -0.00248(9) 0.21572(16) 0.0143(4) 1 0
+Se3 Se2- 4 c 0.41778(10) 0.25 0.73633(19) 0.0133(4) 1 0
+Li1 Li1+ 4 b 0.5 0 0 0.017(5) 1 0
+Li2 Li1+ 8 d 0.6780(13) -0.0050(16) 0.180(4) 0.023(4) 1 0
+Li3 Li1+ 4 c 0.588(2) 0.25 0.606(5) 0.034(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn4+ 0.0102(6) 0.0175(6) 0.0104(6) 0 0.0004(4) 0
+Se1 Se2- 0.0091(7) 0.0193(7) 0.0122(7) 0 0.0013(5) 0
+Se2 Se2- 0.0117(6) 0.0183(7) 0.0131(8) -0.0009(3) 0.0006(4) -0.0004(3)
+Se3 Se2- 0.0126(7) 0.0176(7) 0.0095(7) 0 -0.0005(5) 0
+Li2 Li1+ 0.015(9) 0.019(8) 0.035(11) -0.004(5) 0.000(9) 0.000(6)
+Li3 Li1+ 0.06(2) 0.027(13) 0.021(12) 0 0.025(15) 0
+#End of TTdata_193768-ICSD

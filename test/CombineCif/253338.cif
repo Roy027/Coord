@@ -1,0 +1,121 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253338-ICSD
+_database_code_ICSD 253338
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Lithium cadmium borate'
+_chemical_formula_structural 'Li Cd B O3'
+_chemical_formula_sum 'B1 Cd1 Li1 O3'
+_exptl_crystal_density_diffrn 4.7
+_cell_measurement_temperature 290.
+_publ_section_title
+
+;
+Syntheses and characterization of two alkaline and transition metal
+orthoborates, LiMBO3 (M=Zn, Cd)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2016 52 132 140 SSSCFJ
+loop_
+_publ_author_name
+'Chen, Xuean'
+'Wang, Kun'
+'Chang, Xinan'
+'Xiao, Weiqiang'
+_cell_length_a 10.4159(14)
+_cell_length_b 9.005(2)
+_cell_length_c 10.756(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.521(13)
+_cell_angle_gamma 90.
+_cell_volume 1007.88
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0382
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cd2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e -0.2959(8) 0.2420(9) 0.5875(8) 0.0134(15) 1 0
+Li2 Li1+ 4 e 0.0490(8) 0.2550(10) 0.4153(8) 0.0144(16) 1 0
+Li3 Li1+ 4 e 0.2068(7) 0.2659(9) 0.6642(7) 0.0099(14) 1 0
+Li4 Li1+ 4 e 0.4575(8) -0.2317(9) 0.6639(8) 0.0124(15) 1 0
+Cd1 Cd2+ 4 e -0.29672(4) 0.58638(5) 0.62096(3) 0.01200(14) 1 0
+Cd2 Cd2+ 4 e -0.03614(4) 0.08689(4) 0.63382(4) 0.01099(14) 1 0
+Cd3 Cd2+ 4 e 0.45086(4) 0.09398(4) 0.61500(4) 0.01121(14) 1 0
+Cd4 Cd2+ 4 e 0.21055(4) 0.59382(4) 0.62720(3) 0.00951(14) 1 0
+B1 B3+ 4 e -0.0416(5) 0.4223(7) 0.6182(5) 0.0078(11) 1 0
+B2 B3+ 4 e 0.2075(5) -0.0761(7) 0.6162(5) 0.0071(10) 1 0
+B3 B3+ 4 e 0.7079(5) -0.0767(7) 0.6340(5) 0.0065(10) 1 0
+B4 B3+ 4 e 0.4589(5) 0.4244(7) 0.6306(5) 0.0066(10) 1 0
+O1 O2- 4 e -0.1713(4) 0.4040(4) 0.5907(4) 0.0104(8) 1 0
+O2 O2- 4 e 0.0382(3) 0.3044(4) 0.6028(3) 0.0135(7) 1 0
+O3 O2- 4 e 0.0071(4) 0.5570(4) 0.6552(3) 0.0092(7) 1 0
+O4 O2- 4 e 0.0788(4) -0.0989(4) 0.5920(4) 0.0110(8) 1 0
+O5 O2- 4 e 0.2923(3) -0.1918(4) 0.5984(3) 0.0122(7) 1 0
+O6 O2- 4 e 0.2538(4) 0.0602(5) 0.6543(3) 0.0132(8) 1 0
+O7 O2- 4 e 0.5804(4) -0.0910(4) 0.5954(3) 0.0093(8) 1 0
+O8 O2- 4 e 0.7849(3) -0.1998(4) 0.6480(3) 0.0118(7) 1 0
+O9 O2- 4 e 0.7599(4) 0.0612(5) 0.6606(3) 0.0126(8) 1 0
+O10 O2- 4 e 0.3314(4) 0.4007(4) 0.5939(4) 0.0095(8) 1 0
+O11 O2- 4 e 0.5387(3) 0.3035(4) 0.6469(3) 0.0111(7) 1 0
+O12 O2- 4 e 0.5045(4) 0.5628(5) 0.6551(3) 0.0115(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd2+ 0.0093(2) 0.0124(2) 0.0143(2) -0.00010(12) 0.00172(14) -0.00220(12)
+Cd2 Cd2+ 0.0088(2) 0.0120(2) 0.0123(2) 0.00031(12) 0.00200(13) -0.00024(12)
+Cd3 Cd2+ 0.0089(2) 0.0120(2) 0.0128(2) -0.00028(12) 0.00132(14) -0.00192(12)
+Cd4 Cd2+ 0.0079(2) 0.0107(2) 0.0100(2) -0.00011(11) 0.00142(14) 0.00037(11)
+B1 B3+ 0.007(3) 0.009(3) 0.007(2) -0.0022(18) -0.0033(19) 0.0033(17)
+B2 B3+ 0.006(2) 0.008(2) 0.007(2) -0.0003(18) -0.0016(18) 0.0001(17)
+B3 B3+ 0.005(2) 0.007(3) 0.007(2) -0.0002(18) 0.0032(18) 0.0003(17)
+B4 B3+ 0.005(2) 0.006(2) 0.009(2) -0.0022(18) 0.0001(18) 0.0005(17)
+O1 O2- 0.0047(16) 0.017(2) 0.0095(15) -0.0024(14) 0.0021(13) 0.0015(13)
+O2 O2- 0.0114(16) 0.0139(17) 0.0148(16) 0.0074(13) -0.0031(13) -0.0028(13)
+O3 O2- 0.0075(16) 0.0090(17) 0.0112(16) -0.0016(14) 0.0012(13) -0.0006(13)
+O4 O2- 0.0044(17) 0.016(2) 0.0120(16) -0.0016(14) -0.0013(14) 0.0008(14)
+O5 O2- 0.0125(15) 0.0121(16) 0.0115(15) 0.0027(13) -0.0056(13) -0.0019(12)
+O6 O2- 0.0189(19) 0.0106(17) 0.0097(15) -0.0046(17) -0.0020(14) -0.0019(14)
+O7 O2- 0.0056(17) 0.0137(19) 0.0087(15) -0.0007(14) -0.0002(13) 0.0035(13)
+O8 O2- 0.0117(15) 0.0117(17) 0.0122(15) 0.0034(12) 0.0034(13) 0.0014(12)
+O9 O2- 0.0124(18) 0.0135(18) 0.0116(16) -0.0057(16) -0.0036(14) 0.0002(14)
+O10 O2- 0.0039(16) 0.0144(19) 0.0104(16) -0.0022(14) 0.0021(13) 0.0006(13)
+O11 O2- 0.0108(15) 0.0124(16) 0.0103(15) 0.0065(13) 0.0012(12) 0.0008(12)
+O12 O2- 0.0125(17) 0.0084(16) 0.0136(17) -0.0007(15) -0.0008(14) -0.0011(14)
+#End of TTdata_253338-ICSD

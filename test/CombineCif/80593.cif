@@ -1,0 +1,86 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80593-ICSD
+_database_code_ICSD 80593
+_audit_creation_date 1997-05-13
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Lithium aluminium silicate (2.5/0.5/1) - alpha'
+_chemical_formula_structural 'Li2.5 Al0.5 (Si O4)'
+_chemical_formula_sum 'Al0.5 Li2.5 O4 Si1'
+_chemical_name_structure_type Li2BeSiO4(oS32)
+_exptl_crystal_density_diffrn 2.52
+_publ_section_title 'Crystal structure of alpha-Li2.5 Al0.5 Si O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 93 436 442 JSSCBI
+loop_
+_publ_author_name
+'Smith, R.I.'
+'West, A.R.'
+_cell_length_a 7.1930(1)
+_cell_length_b 7.2319(1)
+_cell_length_c 6.2328(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 324.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Li1+ 1
+Al3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 c 0.3078(3) -.0071(9) 0.2155(3) . 1. 0
+O2 O2- 8 c 0.0392(3) 0.1798(3) 0.0008(12) . 1. 0
+Si1 Si4+ 4 a 0.1760(5) 0 0 . 1. 0
+Li1 Li1+ 4 b 0 0.733(6) 0.25 2.11(12) 0.5 0
+Al1 Al3+ 4 b 0 0.733(6) 0.25 2.11(12) 0.5 0
+Li2 Li1+ 4 b 0 0.298(2) 0.25 2.11(12) 1. 0
+Li3 Li1+ 4 a 0.805(1) 0 0 2.11(12) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+O1 O2- 0.59(7) 2.48(11) 0.27(7) -.29(10) -.20(6) 0.27(8)
+O2 O2- 1.47(9) 1.10(8) 0.47(7) 0.66(7) -.12(10) -.13(9)
+Si1 Si4+ 0.53(13) 0.80(12) 0.92(13) 0 0 0.54(14)
+#End of TTdata_80593-ICSD

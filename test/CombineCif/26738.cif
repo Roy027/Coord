@@ -1,0 +1,75 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_26738-ICSD
+_database_code_ICSD 26738
+_audit_creation_date 1980-01-01
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Lithium iodide trihydrate'
+_chemical_formula_structural 'Li I (H2 O)3'
+_chemical_formula_sum 'H6 I1 Li1 O3'
+_exptl_crystal_density_diffrn 2.37
+_publ_section_title 'Crystal structures of some hydrated compounds.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Kristallographie, Kristallgeometrie, Kristallphysik,
+Kristallchemie (-144,1977)
+; 1934 88 198 204 ZEKGAX
+loop_
+_publ_author_name
+'West, C.D.'
+_cell_length_a 7.465
+_cell_length_b 7.465
+_cell_length_c 5.46
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 263.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+I1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0 0 0.25 . 1. 0
+I1 I1- 2 b 0.3333 0.6667 0 . 1. 0
+O1 O2- 6 c 0.142 -.142 0.5 . 1. 0
+#End of TTdata_26738-ICSD

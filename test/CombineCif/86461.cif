@@ -1,0 +1,85 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_86461-ICSD
+_database_code_ICSD 86461
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Trilithium dichromium tris(phosphate(V))'
+_chemical_formula_structural 'Li3 Cr2 (P O4)3'
+_chemical_formula_sum 'Cr2 Li3 O12 P3'
+_chemical_name_structure_type Li3Fe2(PO4)3
+_exptl_crystal_density_diffrn 2.94
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+X-ray structural investigation of the orthorhombic modification of Li3 Cr2 (P
+O4)3 at 293, 473, and 573 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1991 36 637 641 KRISAJ
+loop_
+_publ_author_name
+'Genkina, E.A.'
+'Maksimov, B.A.'
+'Sigarev, S.E.'
+'Verin, I.A.'
+_cell_length_a 8.722(1)
+_cell_length_b 12.198(1)
+_cell_length_c 8.698(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 925.39
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c a n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x+1/2, -y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x+1/2, y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr3+ 8 d 0.2491 0.1109 0.4621 0.75(1) 1. 0
+P1 P5+ 8 d 0.1059 0.1488 0.1031 0.74(1) 1. 0
+P2 P5+ 4 c 0.0420(1) 0.5 0.25 0.75(1) 1. 0
+O1 O2- 8 d 0.4309(2) 0.3380(2) 0.0979(2) 1.53(1) 1. 0
+O2 O2- 8 d 0.3250(3) 0.2741(1) 0.4806(2) 1.69(1) 1. 0
+O3 O2- 8 d 0.1554(2) 0.0336(1) 0.0690(2) 1.60(1) 1. 0
+O4 O2- 8 d 0.4460(2) 0.0743(2) 0.3524(2) 1.75(1) 1. 0
+O5 O2- 8 d 0.1461(3) 0.4219(2) 0.1605(2) 1.85(1) 1. 0
+O6 O2- 8 d 0.1580(2) 0.1838(1) 0.2655(2) 1.19(1) 1. 0
+Li1 Li1+ 8 d 0.290(2) 0.325(1) 0.276(2) 2.53(1) 0.76 0
+Li2 Li1+ 8 d 0.100(4) 0.313(4) 0.379(4) 4.18(1) 0.39 0
+Li3 Li1+ 8 d 0.436(4) 0.210(2) 0.285(4) 2.42(1) 0.34 0
+#End of TTdata_86461-ICSD

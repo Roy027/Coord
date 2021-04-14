@@ -1,0 +1,92 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71059-ICSD
+_database_code_ICSD 71059
+_audit_creation_date 1993-01-06
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Distrontium lithium trinitridodiferrate(II)'
+_chemical_formula_structural 'Sr2 Li (Fe2 N3)'
+_chemical_formula_sum 'Fe2 Li1 N3 Sr2'
+_chemical_name_structure_type Sr2LiFe2N3
+_exptl_crystal_density_diffrn 4.53
+_publ_section_title
+
+;
+Sr2 Li (Fe2 N3) und Ba2 Li (Fe2 N3): Isotype nitridoferrate (II) mit ((Fe
+N3/2)2(5-))-Anionen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie' 1991 103 874 875 ANCEAD
+loop_
+_publ_author_name
+'Hoehn, P.'
+'Haag, S.'
+'Milius, W.'
+'Kniep, R.'
+_cell_length_a 6.559(1)
+_cell_length_b 11.414(2)
+_cell_length_c 6.593(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.28(5)
+_cell_angle_gamma 90.
+_cell_volume 492.77
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Fe2+ 2
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 8 f 0.2460(1) 0.0668(1) 0.4004(1) . 1. 0
+Fe1 Fe2+ 8 f 0.1313(1) 0.2957(1) 0.1081(1) . 1. 0
+N1 N3- 8 f 0.1356(5) 0.1380(3) 0.0164(6) . 1. 0
+N2 N3- 4 e 0 0.4130(4) 0.25 . 1. 0
+Li1 Li1+ 4 e 0.5 0.3171(10) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0082(2) 0.0082(2) 0.0080(2) -.0001(1) -.0001(1) 0.0003(2)
+Fe1 Fe2+ 0.0073(3) 0.0071(3) 0.0077(3) 0.0002(2) 0.0009(2) -.0005(3)
+N1 N3- 0.0054(16) 0.0079(15) 0.0157(20) -.0015(12) 0.0009(14) 0.0006(16)
+N2 N3- 0.0081(24) 0.0079(23) 0.0125(29) 0 0.0027(21) 0
+Li1 Li1+ 0.0140(56) 0.0190(58) 0.0165(68) 0 -.0005(48) 0
+#End of TTdata_71059-ICSD

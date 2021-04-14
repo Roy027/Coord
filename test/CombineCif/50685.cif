@@ -1,0 +1,121 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50685-ICSD
+_database_code_ICSD 50685
+_audit_creation_date 2000-07-15
+_audit_update_record 2004-10-01
+_chemical_name_systematic 'Lithium hexagadolinium pentaoxide tris(borate)'
+_chemical_formula_structural 'Li Gd6 O5 (B O3)3'
+_chemical_formula_sum 'B3 Gd6 Li1 O14'
+_exptl_crystal_density_diffrn 6.71
+_publ_section_title
+
+;
+A new family of lithium rare-earth oxyborates, Li Ln6 O5 (B O3)3 (Ln= Pr-Tm):
+crystal structure of the gadolinium phase Li Gd6 O5 (B O3)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1999 146 189 196 JSSCBI
+loop_
+_publ_author_name
+'Chaminade, J.P.'
+'Gravereau, P.'
+'Jubera, V.'
+'Fouassier, C.'
+_cell_length_a 8.489(4)
+_cell_length_b 15.706(3)
+_cell_length_c 12.117(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 132.27(2)
+_cell_angle_gamma 90.
+_cell_volume 1195.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Gd3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.880(3) 0.1036(12) 0.560(2) 0.023(3) 1. 0
+Gd1 Gd3+ 4 e 0.23742(5) 0.00436(2) 0.93759(4) . 1. 0
+Gd2 Gd3+ 4 e 0.66450(5) 0.01372(2) 0.71676(4) . 1. 0
+Gd3 Gd3+ 4 e 0.15169(5) 0.14376(2) 0.42384(4) . 1. 0
+Gd4 Gd3+ 4 e 0.41069(5) 0.16556(2) 0.83286(4) . 1. 0
+Gd5 Gd3+ 4 e 0.01204(6) 0.17531(2) 0.05306(4) . 1. 0
+Gd6 Gd3+ 4 e 0.55262(5) 0.17795(2) 0.19408(4) . 1. 0
+B1 B3+ 4 e 0.7920(12) 0.0005(5) 0.3552(9) 0.007(1) 1. 0
+B2 B3+ 4 e 0.5449(13) 0.1735(5) 0.4733(9) 0.009(1) 1. 0
+B3 B3+ 4 e 0.9585(13) 0.1926(5) 0.7792(9) 0.007(1) 1. 0
+O1 O2- 4 e 0.8527(9) 0.0846(3) 0.3824(6) . 1. 0
+O2 O2- 4 e 0.3039(10) 0.0323(4) 0.5954(7) . 1. 0
+O3 O2- 4 e 0.1764(9) 0.0504(3) 0.7192(6) . 1. 0
+O4 O2- 4 e 0.4476(10) 0.2311(3) 0.4962(6) . 1. 0
+O5 O2- 4 e 0.5249(14) 0.0890(4) 0.4901(8) . 1. 0
+O6 O2- 4 e 0.6412(9) 0.2039(4) 0.4254(6) . 1. 0
+O7 O2- 4 e 0.9480(11) 0.1081(4) 0.7992(9) . 1. 0
+O8 O2- 4 e 0.0544(11) 0.2250(4) 0.7297(8) . 1. 0
+O9 O2- 4 e 0.8821(9) 0.2494(3) 0.3214(6) . 1. 0
+O10 O2- 4 e 0.5274(9) 0.0896(3) 0.0356(6) . 1. 0
+O11 O2- 4 e 0.0656(9) 0.0791(3) 0.2207(6) . 1. 0
+O12 O2- 4 e 0.7020(9) 0.0982(3) 0.8941(6) . 1. 0
+O13 O2- 4 e 0.2868(10) 0.0855(3) 0.1241(6) . 1. 0
+O14 O2- 4 e 0.2771(8) 0.2315(3) 0.6223(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Gd1 Gd3+ 0.0041(1) 0.0054(1) 0.0054(1) -.0006(1) 0.0030(1) -.0005
+Gd2 Gd3+ 0.0049(1) 0.0063(1) 0.0048(1) 0.0000(1) 0.0029(1) -.0002
+Gd3 Gd3+ 0.0054(1) 0.0081(1) 0.0047(1) -.0009(1) 0.0030(1) -.0014
+Gd4 Gd3+ 0.0055(1) 0.0082(1) 0.0057(1) 0.0015(1) 0.0036(1) 0.0025
+Gd5 Gd3+ 0.0064(1) 0.0093(1) 0.0052(1) -.0033(1) 0.0025(1) 0
+Gd6 Gd3+ 0.0041(1) 0.0057(1) 0.0039(1) -.0004(1) 0.0022(1) -.0006
+O1 O2- 0.006(2) 0.007(2) 0.006(2) -.001(2) 0.003(2) -.001(2)
+O2 O2- 0.008(2) 0.021(3) 0.016(3) 0.005(2) 0.007(2) 0.012(2)
+O3 O2- 0.010(2) 0.011(2) 0.005(2) 0.001(2) 0.003(2) 0.000(2)
+O4 O2- 0.014(2) 0.012(2) 0.011(2) -.002(2) 0.010(2) 0.000(2)
+O5 O2- 0.041(4) 0.011(2) 0.013(3) 0.000(2) 0.014(3) -.001
+O6 O2- 0.010(2) 0.020(3) 0.011(2) 0.005(2) 0.008(2) 0.003(2)
+O7 O2- 0.016(3) 0.006(2) 0.040(4) 0.000(2) 0.021(3) 0.001(2)
+O8 O2- 0.016(3) 0.019(3) 0.020(3) 0.006(2) 0.016(3) 0.006(2)
+O9 O2- 0.007(2) 0.010(2) 0.009(2) -.002(2) 0.005(2) 0.001(2)
+O10 O2- 0.007(2) 0.006(2) 0.005(2) -.001(2) 0.003(2) -.001
+O11 O2- 0.007(2) 0.010(2) 0.007(2) -.001(2) 0.004(2) 0.000(2)
+O12 O2- 0.008(2) 0.009(2) 0.009(2) 0.000(2) 0.006(2) -.001
+O13 O2- 0.016(3) 0.007(2) 0.013(2) 0.000(2) 0.012(2) -.001
+O14 O2- 0.005(2) 0.008(2) 0.007(2) -.001(2) 0.004(2) -.001
+#End of TTdata_50685-ICSD

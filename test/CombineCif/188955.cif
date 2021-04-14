@@ -1,0 +1,102 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_188955-ICSD
+_database_code_ICSD 188955
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Lithium vanadium phosphate (2.22/2/3)'
+_chemical_formula_structural 'Li2.22 V2 (P O4)3'
+_chemical_formula_sum 'Li2.22 O12 P3 V2'
+_exptl_crystal_density_diffrn 3.02
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Crystal structures and 3d electron configurations for the Lix V2 (P O4)3
+insertion electrode system with a semi-double-electron reaction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Physical Society of Japan' 2012 81 094801-1 094801-9
+JUPSAU
+loop_
+_publ_author_name
+'Onoda, Masashige'
+'Hirose, Hajime'
+_cell_length_a 8.551(1)
+_cell_length_b 8.619(2)
+_cell_length_c 11.984(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 883.23
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n a'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, z'
+2 'x+1/2, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x, -y+1/2, -z'
+6 '-x+1/2, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3.39
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 8 d 0.25021(8) 0.46534(6) 0.11220(4) 0.706(8) 1. 0
+P1 P5+ 8 d 0.10560(10) 0.10661(9) 0.14724(7) 0.61(1) 1. 0
+P2 P5+ 4 c 0.03828(16) 0.25 0.5 1.08(2) 1. 0
+O1 O2- 8 d 0.1589(3) 0.2702(3) 0.1799(2) 1.21(5) 1. 0
+O2 O2- 8 d 0.1446(3) 0.1593(3) 0.4202(2) 1.63(6) 1. 0
+O3 O2- 8 d 0.4277(3) 0.1023(3) 0.3429(2) 1.50(5) 1. 0
+O4 O2- 8 d 0.1572(3) 0.0632(3) 0.0309(2) 1.43(6) 1. 0
+O5 O2- 8 d 0.4401(3) 0.3540(3) 0.0742(2) 1.87(6) 1. 0
+O6 O2- 8 d 0.3265(3) 0.4863(3) 0.2702(2) 1.78(6) 1. 0
+Li1 Li1+ 8 d 0.2881(12) 0.2824(11) 0.3198(8) 3.0(3) 0.84(3) 0
+Li2 Li1+ 8 d 0.062(4) 0.411(3) 0.310(3) 3.7(9) 0.27(3) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V3+ 0.01071(18) 0.00614(16) 0.00996(19) 0.0006(3) -0.0027(2) -0.0013(2)
+P1 P5+ 0.0090(3) 0.0075(3) 0.0065(3) -0.0009(3) 0.0001(3) 0.0014(3)
+P2 P5+ 0.0120(5) 0.0050(4) 0.0241(7) 0. 0. -0.0015(5)
+O1 O2- 0.0255(13) 0.0084(10) 0.0121(12) -0.0017(10) -0.0026(10) -0.0008(9)
+O2 O2- 0.0216(13) 0.0134(10) 0.0270(13) 0.0047(11) 0.0053(11) -0.0071(11)
+O3 O2- 0.0091(10) 0.0231(12) 0.0248(14) -0.0007(10) -0.0038(10) 0.0108(12)
+O4 O2- 0.0210(13) 0.0184(12) 0.0147(12) -0.0030(10) 0.0085(10) -0.0059(10)
+O5 O2- 0.0190(14) 0.0210(12) 0.0310(15) 0.0029(11) -0.0036(12) -0.0130(12)
+O6 O2- 0.0457(18) 0.0070(10) 0.0151(13) 0.0024(11) -0.0190(12) -0.0058(9)
+Li1 Li1+ 0.046(6) 0.037(6) 0.031(6) -0.012(5) -0.001(4) 0.014(5)
+Li2 Li1+ 0.06(2) 0.033(17) 0.04(2) 0.042(16) -0.044(16) -0.023(14)
+#End of TTdata_188955-ICSD

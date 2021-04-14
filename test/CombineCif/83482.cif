@@ -1,0 +1,91 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83482-ICSD
+_database_code_ICSD 83482
+_audit_creation_date 1998-06-26
+_audit_update_record 2014-08-01
+_chemical_name_systematic
+'Potassium lithium oxotitanium phosphate(V) (0.57/0.34/1/1)'
+_chemical_formula_structural 'K0.565 Li0.34 (Ti O) (P O4)'
+_chemical_formula_sum 'K0.565 Li0.34 O5 P1 Ti1'
+_chemical_name_structure_type (K,Li)TiOPO4
+_exptl_crystal_density_diffrn 2.85
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Single-crystal structures and optical properties of the nonlinear optical K Ti
+O P O4 - type materials K0.55 Li0.45 Ti O P O4 and K0.54 Li0.46 Ti O As O4
+prepared by molten salt ion-exchange
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1997 9 1138 1144 CMATEX
+loop_
+_publ_author_name
+'Harrison, W.T.A.'
+'Phillips, M.L.F.'
+'Stucky, G.D.'
+_cell_length_a 12.741(2)
+_cell_length_b 6.357(1)
+_cell_length_c 10.535(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 853.28
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Li1+ 1
+Ti4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 a 0.0980(5) 0.327(1) 0.9470(5) 0.018(2) 0.275(8) 0
+K2 K1+ 4 a 0.1018(6) 0.300(1) 0.8237(7) 0.048(3) 0.265(7) 0
+K3 K1+ 4 a 0.0965(3) 0.6723(7) 0.0877(6) 0.0388(3) 0.59(1) 0
+Li1 Li1+ 4 a 0.238(4) 0.759(7) 0.267(5) 0.03(1) 0.28(4) 0
+Li2 Li1+ 4 a 0.605(1) 0.469(4) -.002(3) 0.013(7) 0.40(4) 0
+Ti1 Ti4+ 4 a 0.37058(5) 0.5010(3) 0.0064(2) 0.0096(7) 1. 0
+Ti2 Ti4+ 4 a 0.2503(2) 0.2625(2) 0.2573(2) 0.0108(7) 1. 0
+P1 P5+ 4 a 0.4995(2) 0.3393(1) 0.2617(3) 0.0089(7) 1. 0
+P2 P5+ 4 a 0.18333(7) 0.5017(4) 0.5134(3) 0.0081(7) 1. 0
+O1 O2- 4 a 0.4912(5) 0.481(1) 0.1453(5) 0.0099(7) 1. 0
+O2 O2- 4 a 0.5096(5) 0.473(1) 0.3828(4) 0.0108(7) 1. 0
+O3 O2- 4 a 0.4017(4) 0.1987(9) 0.2802(5) 0.0082(7) 1. 0
+O4 O2- 4 a 0.5962(4) 0.198(1) 0.2486(6) 0.0105(7) 1. 0
+O5 O2- 4 a 0.1150(4) 0.3117(9) 0.5375(5) 0.0130(7) 1. 0
+O6 O2- 4 a 0.1148(4) 0.6937(9) 0.4863(5) 0.0094(7) 1. 0
+O7 O2- 4 a 0.2584(6) 0.543(1) 0.6278(4) 0.0085(7) 1. 0
+O8 O2- 4 a 0.2573(6) 0.469(1) 0.4011(4) 0.0090(7) 1. 0
+O9 O2- 4 a 0.2746(6) 0.463(1) 0.1432(4) 0.0082(7) 1. 0
+O10 O2- 4 a 0.2243(6) 0.032(1) 0.3864(4) 0.0145(7) 1. 0
+#End of TTdata_83482-ICSD

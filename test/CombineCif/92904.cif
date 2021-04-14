@@ -1,0 +1,102 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92904-ICSD
+_database_code_ICSD 92904
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Dilithium molybdate'
+_chemical_formula_structural 'Li2 (Mo O4)'
+_chemical_formula_sum 'Li2 Mo1 O4'
+_exptl_crystal_density_diffrn 3.03
+_publ_section_title 'Crystal structure of Li2 Mo O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk' 2001 376 343 346 DAKNEQ
+loop_
+_publ_author_name
+'Barinova, A.V.'
+'Rastsvetaeva, R.K.'
+'Nekrasov, Yu.V.'
+'Pushcharovskii, D.Yu.'
+_cell_length_a 14.362(3)
+_cell_length_b 14.362(3)
+_cell_length_c 9.604(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1715.59
+_cell_formula_units_Z 18
+_symmetry_space_group_name_H-M 'P 32'
+_symmetry_Int_Tables_number 145
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, z+1/3'
+2 '-y, x-y, z+2/3'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 3 a 0.1969(1) 0.6456(1) 0.0993(1) 1.17(1) 1. 0
+Mo2 Mo6+ 3 a 0.0198(1) 0.8811(1) 0.0983(1) 1.01(1) 1. 0
+Mo3 Mo6+ 3 a 0.7884(1) 0.4726(1) 0.0989(1) 0.98(1) 1. 0
+Mo4 Mo6+ 3 a 0.5472(1) 0.5252(1) 0.2668(1) 0.91(1) 1. 0
+Mo5 Mo6+ 3 a 0.3175(1) 0.1203(1) 0.2669(1) 1.02(1) 1. 0
+Mo6 Mo6+ 3 a 0.1334(1) 0.3524(1) 0.2659(1) 0.99(1) 1. 0
+O1 O2- 3 a 0.6724(5) 0.3375(5) 0.0952(5) 1.3(2) 1. 0
+O2 O2- 3 a 0.3266(6) 0.6655(5) 0.1032(7) 1.0(2) 1. 0
+O3 O2- 3 a 0.0048(6) 0.9975(5) 0.0983(8) 1.3(2) 1. 0
+O4 O2- 3 a 0.1143(6) 0.2178(5) 0.2660(7) 1.1(2) 1. 0
+O5 O2- 3 a 0.4255(5) 0.5356(6) 0.2690(6) 1.0(2) 1. 0
+O6 O2- 3 a 0.7544(5) 0.2140(6) 0.2805(5) 0.8(2) 1. 0
+O7 O2- 3 a 0.4406(5) 0.2393(5) 0.2670(6) 0.8(2) 1. 0
+O8 O2- 3 a 0.7903(5) 0.9163(5) 0.2827(7) 1.1(2) 1. 0
+O9 O2- 3 a 0.4533(6) 0.8737(6) 0.2761(6) 1.2(2) 1. 0
+O10 O2- 3 a 0.1244(6) 0.5765(7) 0.2524(8) 2.0(2) 1. 0
+O11 O2- 3 a 0.7964(5) 0.5472(5) 0.2478(6) 1.0(1) 1. 0
+O12 O2- 3 a 0.0923(5) 0.8851(5) 0.2534(6) 0.9(1) 1. 0
+O13 O2- 3 a 0.0063(6) 0.3378(6) 0.2699(7) 1.2(2) 1. 0
+O14 O2- 3 a 0.3269(6) 0.0021(6) 0.2698(7) 1.2(2) 1. 0
+O15 O2- 3 a 0.6540(6) 0.6562(6) 0.2643(7) 1.2(2) 1. 0
+O16 O2- 3 a 0.8869(6) 0.7708(6) 0.1001(8) 1.7(2) 1. 0
+O17 O2- 3 a 0.2100(6) 0.7738(6) 0.1011(7) 1.4(2) 1. 0
+O18 O2- 3 a 0.2421(5) 0.1168(6) 0.1165(6) 1.0(2) 1. 0
+O19 O2- 3 a 0.8974(5) 0.4547(5) 0.0975(6) 1.1(2) 1. 0
+O20 O2- 3 a 0.2038(5) 0.4190(5) 0.1131(6) 0.9(1) 1. 0
+O21 O2- 3 a 0.5769(5) 0.7814(5) 0.0837(6) 1.0(2) 1. 0
+O22 O2- 3 a 0.5491(6) 0.4624(6) 0.1110(8) 1.5(2) 1. 0
+O23 O2- 3 a 0.5400(6) 0.0858(6) 0.0834(8) 1.5(2) 1. 0
+O24 O2- 3 a 0.8836(6) 0.1247(7) 0.0879(8) 1.8(2) 1. 0
+Li1 Li1+ 3 a 0.3608(10) 0.5480(11) 0.1031(14) 0.3(3) 1. 0
+Li2 Li1+ 3 a 0.4529(9) 0.8085(8) 0.0993(11) 0.4(3) 1. 0
+Li3 Li1+ 3 a 0.1157(13) 0.1464(13) 0.0945(17) 0.9(4) 1. 0
+Li4 Li1+ 3 a 0.5244(8) 0.3147(8) 0.1057(13) 0.3(3) 1. 0
+Li5 Li1+ 3 a 0.8523(13) 0.9714(15) 0.0961(21) 1.2(3) 1. 0
+Li6 Li1+ 3 a 0.6794(10) 0.2148(11) 0.0973(15) 0.3(3) 1. 0
+Li7 Li1+ 3 a 0.6422(19) 0.8025(16) 0.2852(26) 2.2(4) 1. 0
+Li8 Li1+ 3 a 0.2212(22) 0.8531(22) 0.2902(30) 3.2(4) 1. 0
+Li9 Li1+ 3 a 0.4725(19) 0.0220(20) 0.2739(28) 2.8(5) 1. 0
+Li10 Li1+ 3 a 0.9730(20) 0.4479(18) 0.2623(23) 2.3(4) 1. 0
+Li11 Li1+ 3 a 0.8201(20) 0.6793(20) 0.2629(25) 2.3(4) 1. 0
+Li12 Li1+ 3 a 0.8730(16) 0.1916(16) 0.2670(24) 1.6(4) 1. 0
+#End of TTdata_92904-ICSD

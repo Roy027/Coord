@@ -1,0 +1,89 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423635-ICSD
+_database_code_ICSD 423635
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Cesium dilithium trichloride'
+_chemical_formula_structural 'Cs Li2 Cl3'
+_chemical_formula_sum 'Cl3 Cs1 Li2'
+_exptl_crystal_density_diffrn 2.69
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Theoretical and experimental exploration of the energy landscape of the
+quasi-binary cesium chloride/lithium chloride system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2012 18 3559 3565 CEUJED
+loop_
+_publ_author_name
+'Pentin, I.V.'
+'Saltykov, V.'
+'Nuss, J.'
+'Schoen, J.C.'
+'Jansen, M.'
+_cell_length_a 12.4325(9)
+_cell_length_b 7.3735(5)
+_cell_length_c 6.8076(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 624.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.0195
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Cl1- -1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 c 0.5 0.69185(3) 0.25 0.03980(12) 1 0
+Cl1 Cl1- 8 d 0.74677(6) 0.40003(11) 0.05831(11) 0.03467(16) 1 0
+Cl2 Cl1- 4 c 0.5 0.18480(11) 0.25 0.0364(2) 1 0
+Li1 Li1+ 8 d 0.6857(4) 0.1495(7) 0.239(18) 0.032(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.04304(17) 0.04294(14) 0.03343(16) 0. 0.0038(12) 0.
+Cl1 Cl1- 0.0472(4) 0.0304(3) 0.0264(3) -0.0083(2) 0.0053(2) -0.0017(2)
+Cl2 Cl1- 0.0221(3) 0.0499(4) 0.0372(5) 0. 0.0074(10) 0.
+Li1 Li1+ 0.0290(16) 0.0344(19) 0.032(14) -0.0005(14) 0.000(7) 0.005(15)
+#End of TTdata_423635-ICSD

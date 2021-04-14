@@ -1,0 +1,89 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_192494-ICSD
+_database_code_ICSD 192494
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Lithium deuterium strontium ditantalate'
+_chemical_formula_structural 'Li D Sr (Ta2 O7)'
+_chemical_formula_sum 'D1 Li1 O7 Sr1 Ta2'
+_exptl_crystal_density_diffrn 6.55
+_cell_measurement_temperature 433.
+_publ_section_title
+
+;
+Thermal structural characterization of the acentric layered perovskite Li H Sr
+Ta2 O7: X-ray and neutron diffraction, SHG and Raman experiments
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2014 43 14841 14850 DTARAF
+loop_
+_publ_author_name
+'Galven, Cyrille'
+'Mounier, Denis'
+'Pagnier, Thierry'
+'Suard, Emmanuelle'
+'Le Berre, Francoise'
+'Crosnier-Lopez, Marie-Pierre'
+_cell_length_a 5.5560(1)
+_cell_length_b 5.5373(1)
+_cell_length_c 18.8027(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 578.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A m a 2'
+_symmetry_Int_Tables_number 40
+_refine_ls_R_factor_all 0.0185
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Sr2+ 2
+O2- -2
+Li1+ 1
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 4 b 0.25 0.745(1) 0.113 0.78(7) 1. 0
+Ta2 Ta5+ 4 b 0.25 0.751(1) 0.8869(2) 1.11(8) 1. 0
+Sr1 Sr2+ 4 b 0.25 0.255(1) -0.0018(3) 1.40(5) 1. 0
+O1 O2- 4 b 0.25 0.729(1) 0.0104(4) 1.65(8) 1. 0
+O2 O2- 4 b 0.25 0.752(2) 0.2203(4) 1.5(1) 1. 0
+O3 O2- 4 b 0.25 0.780(1) 0.7940(4) 2.2(1) 1. 0
+O4 O2- 4 a 0 0 0.6197(4) 1.1(1) 1. 0
+O5 O2- 4 a 0 0 0.4036(4) 0.9(1) 1. 0
+O6 O2- 4 a 0 0 0.1027(4) 1.7(2) 1. 0
+O7 O2- 4 a 0 0 0.9073(4) 1.7(2) 1. 0
+Li1 Li1+ 4 a 0 0 0.260(2) 2.4(3) 0.66(6) 0
+Li2 Li1+ 4 a 0 0 0.745(4) 2.4(3) 0.34(6) 0
+D1 D1+ 4 b 0.25 0.421(4) 0.257(2) 6.3(3) 0.48(2) 0
+D2 D1+ 4 b 0.25 0.386(4) 0.744(1) 6.3(3) 0.52(2) 0
+#End of TTdata_192494-ICSD

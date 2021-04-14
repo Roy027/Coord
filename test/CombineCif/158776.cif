@@ -1,0 +1,119 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_158776-ICSD
+_database_code_ICSD 158776
+_audit_creation_date 2008-08-01
+_chemical_name_systematic
+'Potassium lithium cobalt tetraoxomolybdate (3.3/0.7/4/6)'
+_chemical_formula_structural 'K3.3 Li0.7 Co4 (Mo O4)6'
+_chemical_formula_sum 'Co4 K3.3 Li0.7 Mo6 O24'
+_chemical_name_structure_type (K,Li)4Mn4(MoO4)6
+_exptl_crystal_density_diffrn 3.69
+_publ_section_title
+
+;
+New families of lithium-containing triple molybdates and the stabilizing role
+of lithium in their structure formulation
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk' 2007 416 60 65 DAKNEQ
+loop_
+_publ_author_name
+'Solodovnikov, S.F.'
+'Khaikina, E.G.'
+'Solodovnikova, Z.A.'
+'Kadyrova, Yu. M.'
+'Khal'baeva, K.M. (Khalbaeva, K.M.)'
+'Zolotova, E.S.'
+_cell_length_a 14.4391(3)
+_cell_length_b 14.4391(3)
+_cell_length_c 19.8910(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 3591.43
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.0317
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+K1+ 1
+Li1+ 1
+K1+ 1
+Co2+ 2
+Li1+ 1
+Co2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 36 f 0.52100(2) 0.67379(2) 0.02094(1) 0.0190(1) 1. 0
+K1 K1+ 36 f 0.7598(1) 0.7412(2) -0.0575(1) 0.0537(6) 0.5 0
+Li1 Li1+ 6 b 0 0 0.5 0.0505(13) 0.473(9) 0
+K2 K1+ 6 b 0 0 0.5 0.0505(13) 0.300(11) 0
+Co1 Co2+ 6 b 0 0 0.5 0.0505(13) 0.227(3) 0
+Co2 Co2+ 6 a 0 0 0.25 0.0138(2) 0.773(3) 0
+Li2 Li1+ 6 a 0 0 0.25 0.0138(2) 0.227(3) 0
+Co3 Co2+ 18 e 0.78647(4) 0 0.25 0.0176(1) 1. 0
+O1 O2- 36 f 0.3990(2) 0.5938(2) -0.0248(1) 0.0184(5) 1. 0
+O2 O2- 36 f 0.5998(2) 0.7987(2) -0.0182(1) 0.0270(5) 1. 0
+O3 O2- 36 f 0.5978(2) 0.6103(3) 0.0225(2) 0.0293(6) 1. 0
+O4 O2- 36 f 0.4921(2) 0.6937(2) 0.1018(1) 0.0442(7) 1. 0
+#End of TTdata_158776-ICSD

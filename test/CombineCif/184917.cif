@@ -1,0 +1,78 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_184917-ICSD
+_database_code_ICSD 184917
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Lithium lanthanum tetraphosphate'
+_chemical_formula_structural 'Li La (P O3)4'
+_chemical_formula_sum 'La1 Li1 O12 P4'
+_chemical_name_structure_type LiYb(PO3)4
+_exptl_crystal_density_diffrn 3.24
+_cell_measurement_temperature 298.
+_publ_section_title 'Modeling Li-ion conductivity in Li La (P O3)4 powder'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica B, Condensed Matter' 2012 407 2593 2600 PHYBE3
+loop_
+_publ_author_name
+'Mounir, F.'
+'Karima, H.-N.'
+'Khaled, B.S.'
+'Mokhtar, F.'
+_cell_length_a 16.635(6)
+_cell_length_b 7.130(3)
+_cell_length_c 9.913(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 126.37(4)
+_cell_angle_gamma 90.
+_cell_volume 946.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0194
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Li1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e 0 0.1969(4) 0.25 0.0069(7) 1. 0
+Li1 Li1+ 4 e 0 0.3006(1) 0.75 0.0136(1) 1. 0
+P1 P5+ 8 f 0.1504(3) 0.1632(3) 0.0968(1) 0.0075(9) 1. 0
+P2 P5+ 8 f 0.3606(2) 0.0597(3) 0.3337(3) 0.0071(4) 1. 0
+O1 O2- 8 f 0.1315(8) 0.1149(3) 0.2217(3) 0.0138(5) 1. 0
+O2 O2- 8 f 0.2568(9) 0.0912(3) 0.1537(3) 0.0110(4) 1. 0
+O3 O2- 8 f 0.0766(4) 0.1060(3) -0.0819(3) 0.0128(5) 1. 0
+O4 O2- 8 f 0.3375(6) -0.1139(3) 0.4074(3) 0.0120(5) 1. 0
+O5 O2- 8 f 0.3846(5) 0.2210(3) 0.4474(3) 0.0133(5) 1. 0
+O6 O2- 8 f 0.43378(1) 0.0069(3) 0.2979(3) 0.0107(5) 1. 0
+#End of TTdata_184917-ICSD

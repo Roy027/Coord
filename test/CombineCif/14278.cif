@@ -1,0 +1,101 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14278-ICSD
+_database_code_ICSD 14278
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-02-17
+_chemical_name_systematic 'Lithium hydroxylammonium sulfate'
+_chemical_formula_structural 'Li N H3 O H S O4'
+_chemical_formula_sum 'H4 Li1 N1 O5 S1'
+_exptl_crystal_density_diffrn 2.02
+_publ_section_title 'The Crystal Structure of Lithium Hydroxylammonium Sulphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1973 29 2628 2630 ACBCAR
+loop_
+_publ_author_name
+'Vilminot, S.'
+'Anderson, M.R.'
+'Brown, I.D.'
+_cell_length_a 18.460(8)
+_cell_length_b 7.280(5)
+_cell_length_c 6.712(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 902.02
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+S6+ 6
+O2- -2
+N1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 c 0.2612(2) 0.2535(8) 0.4122(8) . 1. 0
+S1 S6+ 8 c 0.1559(1) 0.0520(1) 0.1577(1) . 1. 0
+O1 O2- 8 c 0.3348(1) 0.4390(3) 0.3394(3) . 1. 0
+O2 O2- 8 c 0.3289(1) 0.0586(3) 0.4777(3) . 1. 0
+O3 O2- 8 c 0.2076(1) 0.2075(2) 0.1649(3) . 1. 0
+O4 O2- 8 c 0.0810(1) 0.1213(3) 0.1458(4) . 1. 0
+O5 O2- 8 c 0.4468(1) 0.1444(3) 0.0716(3) . 1. 0
+N1 N1- 8 c 0.4446(1) 0.0037(4) 0.2142(4) . 1. 0
+H1 H1+ 8 c 0.404(2) 0.017(5) 0.326(6) 0.011(9) 1. 0
+H2 H1+ 8 c 0.429(2) -.109(5) 0.146(5) 0.012(9) 1. 0
+H3 H1+ 8 c 0.493(2) 0.005(7) 0.263(7) 0.025(11) 1. 0
+H4 H1+ 8 c 0.400(3) 0.085(9) 0.001(10) 0.087(20) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.024(2) 0.021(2) 0.020(2) -.002(3) 0.000(2) 0.004(2)
+S1 S6+ 0.0127(2) 0.0128(2) 0.0138(2) 0.0000(3) 0.0003(3) 0.0005(3)
+O1 O2- 0.022(1) 0.025(1) 0.021(1) -.004(1) -.002(1) 0.011(1)
+O2 O2- 0.025(1) 0.024(1) 0.018(1) 0.005(1) 0.001(1) 0.007(1)
+O3 O2- 0.024(1) 0.020(1) 0.020(1) -.009(1) -.002(1) 0.002(1)
+O4 O2- 0.015(1) 0.021(1) 0.029(1) 0.005(1) 0.002(1) 0.002(1)
+O5 O2- 0.034(1) 0.034(1) 0.036(1) -.001(1) 0.001(1) 0.009(1)
+N1 N1- 0.031(1) 0.028(1) 0.028(1) -.003(1) 0.006(1) 0.000(1)
+#End of TTdata_14278-ICSD

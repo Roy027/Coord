@@ -1,0 +1,89 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82352-ICSD
+_database_code_ICSD 82352
+_audit_creation_date 1997-11-10
+_chemical_name_systematic 'Lithium barium trithioborate'
+_chemical_formula_structural 'Li Ba (B S3)'
+_chemical_formula_sum 'B1 Ba1 Li1 S3'
+_chemical_name_structure_type LiSrBO3
+_exptl_crystal_density_diffrn 3.24
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Li Ba B S3 und Li Ba B3 S6: zwei neue quaternaere thioborate mit
+trigonal-planar koordiniertem Bor
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1995
+621 424 430 ZAACAB
+loop_
+_publ_author_name
+'Hiltmann, F.'
+'Krebs, B.'
+_cell_length_a 7.577(2)
+_cell_length_b 8.713(2)
+_cell_length_c 8.687(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.22(2)
+_cell_angle_gamma 90.
+_cell_volume 514.49
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+S2- -2
+B3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 e 0.31313(5) 0.36800(4) 0.18733(4) . 1. 0
+S1 S2- 4 e 0.28632(20) 0.48327(15) 0.54656(18) . 1. 0
+S2 S2- 4 e 0.01416(21) 0.65688(16) 0.21075(20) . 1. 0
+S3 S2- 4 e 0.38451(20) 0.82848(15) 0.49249(19) . 1. 0
+B1 B3+ 4 e 0.2290(8) 0.6591(6) 0.4205(7) . 1. 0
+Li1 Li1+ 4 e 0.8885(16) 0.4260(12) 0.2958(16) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0210(2) 0.0205(2) 0.0229(2) 0.0003(1) 0.0076(1) -.0003(1)
+S1 S2- 0.0233(6) 0.0167(6) 0.0257(7) -.0004(5) 0.0091(5) 0.0020(5)
+S2 S2- 0.0231(6) 0.0239(7) 0.0249(7) -.0023(5) 0.0033(6) 0.0032(5)
+S3 S2- 0.0232(6) 0.0170(6) 0.0263(7) -.0016(5) 0.0088(6) -.0005(5)
+B1 B3+ 0.020(3) 0.020(3) 0.014(3) -.001(2) 0.008(2) -.002(2)
+Li1 Li1+ 0.039(6) 0.024(5) 0.056(7) 0.005(4) 0.030(6) 0.004(5)
+#End of TTdata_82352-ICSD

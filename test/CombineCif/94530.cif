@@ -1,0 +1,114 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94530-ICSD
+_database_code_ICSD 94530
+_audit_creation_date 2003-10-01
+_chemical_name_systematic
+'Lithium iron(III) lead catena-hexaborate (5.5/1.5/1/2)'
+_chemical_formula_structural '(Li5.5 Fe0.5) Fe Pb (B6 O12)2'
+_chemical_formula_sum 'B12 Fe1.5 Li5.5 O24 Pb1'
+_chemical_name_structure_type (Li,Fe)6FeBaB12O24
+_exptl_crystal_density_diffrn 3.42
+_publ_section_title
+
+;
+Synthesis and crystal structure of the new lithium-enriched hexaborate (Li5.5
+Fe0.5) Fe Pb (B6 O12)2 with the original helical chain (B3(box) B3(Delta)
+O12)6-(infin)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 2001 46 25 32 ZNOKAQ
+loop_
+_publ_author_name
+'Belokoneva, E.L.'
+'Ruchkina, E.A.'
+'Dimitrova, O.V.'
+_cell_length_a 14.71(2)
+_cell_length_b 14.71(2)
+_cell_length_c 6.554(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1228.18
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0319
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Fe3+ 3
+O2- -2
+B3+ 3
+Li1+ 1
+Fe3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 3 b 0 0 0.5 2.07(1) 1. 0
+Fe1 Fe3+ 3 a 0 0 0 0.79(2) 1. 0
+O1 O2- 18 f 0.1255(2) 0.0861(2) 0.8238(3) 0.95(6) 1. 0
+O2 O2- 18 f 0.6663(2) 0.0376(2) 0.9620(3) 0.86(6) 1. 0
+O3 O2- 18 f 0.4771(2) 0.0493(2) 0.2792(3) 1.13(6) 1. 0
+O4 O2- 18 f 0.4652(2) 0.1444(2) 0.9905(3) 1.01(6) 1. 0
+B1 B3+ 18 f 0.5241(3) 0.1316(3) 0.1437(4) 0.81(9) 1. 0
+B2 B3+ 18 f 0.3629(2) 0.0563(2) 0.9183(4) 0.85(9) 1. 0
+Li1 Li1+ 18 f 0.5052(2) 0.0971(3) 0.5866(5) 1.8(1) 0.917 0
+Fe2 Fe3+ 18 f 0.5052(2) 0.0971(3) 0.5866(5) 1.8(1) 0.083 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Pb1 Pb2+ 2.49(1) 2.49(1) 1.23(1) 1.245(5) 0. 0.
+Fe1 Fe3+ 0.86(2) 0.86(2) 0.67(3) 0.43(1) 0. 0.
+O1 O2- 0.93(8) 0.91(8) 1.03(7) 0.48(7) 0.22(6) 0.22(6)
+O2 O2- 1.17(8) 0.84(8) 0.42(6) 0.40(6) 0.02(5) 0.03(5)
+O3 O2- 1.27(8) 0.95(8) 0.89(7) 0.34(7) -0.20(6) 0.16(6)
+O4 O2- 0.92(8) 0.82(8) 1.00(7) 0.20(6) -0.18(6) 0.12(6)
+B1 B3+ 0.94(11) 0.8(1) 0.71(9) 0.40(9) 0.03(8) -0.14(8)
+B2 B3+ 1.0(1) 1.0(1) 0.38(8) 0.33(9) -0.08(7) -0.10(8)
+Li1 Li1+ 1.2(1) 2.2(1) 1.8(1) 0.6(1) 0.25(9) -0.2(1)
+Fe2 Fe3+ 1.2(1) 2.2(1) 1.8(1) 0.6(1) 0.25(9) -0.2(1)
+#End of TTdata_94530-ICSD

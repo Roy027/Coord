@@ -1,0 +1,96 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_9537-ICSD
+_database_code_ICSD 9537
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Lithium tantalate'
+_chemical_formula_structural 'Li (Ta O3)'
+_chemical_formula_sum 'Li1 O3 Ta1'
+_chemical_name_structure_type LiNbO3
+_exptl_crystal_density_diffrn 7.41
+_cell_measurement_temperature 297.
+_publ_section_title
+
+;
+Ferroelectric lithium tantalate - 1. Single crystal X-ray diffraction study at
+24 C
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics and Chemistry of Solids' 1967 28 1685 1692 JPCSAW
+loop_
+_publ_author_name
+'Abrahams, S.C.'
+'Bernstein, J.L.'
+_cell_length_a 5.15428(1)
+_cell_length_b 5.15428(1)
+_cell_length_c 13.7835
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 317.12
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R 3 c H'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.0383
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z+1/2'
+2 'x, x-y, z+1/2'
+3 '-y, -x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+5/6'
+8 'x+2/3, x-y+1/3, z+5/6'
+9 '-y+2/3, -x+1/3, z+5/6'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+1/6'
+14 'x+1/3, x-y+2/3, z+1/6'
+15 '-y+1/3, -x+2/3, z+1/6'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ta5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 6 a 0 0 0.2821(29) . 1. 0
+Ta1 Ta5+ 6 a 0 0 0 . 1. 0
+O1 O2- 18 b 0.0534(28) 0.3396(31) 0.0695(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ 0.0018(85) 0.0018(85) 0.0010(13) -.0009(43) 0 0
+Ta1 Ta5+ 0.0052(2) 0.0052(2) 0.00038(2) 0.0026(1) 0 0
+O1 O2- 0.0129(34) 0.0128(36) 0.0009(3) 0.0120(32) -.0023(9) -.0032(12)
+#End of TTdata_9537-ICSD

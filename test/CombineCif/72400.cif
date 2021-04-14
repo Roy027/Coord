@@ -1,0 +1,85 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72400-ICSD
+_database_code_ICSD 72400
+_audit_creation_date 1994-01-19
+_chemical_name_systematic
+'Lithium tetrabarium heptanitridodimolybdate - barium chloride (1/1)'
+_chemical_formula_structural '(Li Ba4 (Mo2 N7)) (Ba Cl2)'
+_chemical_formula_sum 'Ba5 Cl2 Li1 Mo2 N7'
+_exptl_crystal_density_diffrn 4.65
+_publ_section_title
+
+;
+LiBa4(Mo2N7)*BaCl2: dimere Anionen (Mo2N7)(9-) durch Kondensationsreaktion von
+Ba3(MoN4) in LiCl-Schmelzen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 1992 47 1363
+1366 ZNBSEN
+loop_
+_publ_author_name
+'Gudat, A.'
+'Kniep, R.'
+'Maier, J.'
+_cell_length_a 11.135(3)
+_cell_length_b 6.058(2)
+_cell_length_c 11.227(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.65(2)
+_cell_angle_gamma 90.
+_cell_volume 753.65
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+N3- -3
+Li1+ 1
+Ba2+ 2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 e 0.1744(1) 0.25 0.4152(1) 0.0124(2) 1. 0
+Mo2 Mo6+ 2 e 0.4733(1) 0.25 0.2743(1) 0.0117(2) 1. 0
+N1 N3- 2 e 0.4374(8) 0.25 0.1088(7) 0.0240(23) 1. 0
+N2 N3- 2 e 0.3184(7) 0.25 0.3366(7) 0.0268(24) 1. 0
+N3 N3- 2 e 0.0487(7) 0.25 0.2954(6) 0.0225(22) 1. 0
+N4 N3- 4 f 0.1682(4) 0.0072(9) 0.5110(4) 0.0207(14) 1. 0
+N5 N3- 4 f 0.5593(4) 0.0043(9) 0.3257(5) 0.0217(15) 1. 0
+Li1 Li1+ 2 e 0.327(1) 0.25 0.624(1) 0.0232(45) 1. 0
+Ba1 Ba2+ 2 e 0.7960(1) 0.25 0.2941(1) 0.0158(1) 1. 0
+Ba2 Ba2+ 2 e 0.6252(1) 0.25 0.5609(1) 0.0181(1) 1. 0
+Ba3 Ba2+ 2 e 0.9832(1) 0.25 0.6333(1) 0.0162(1) 1. 0
+Ba4 Ba2+ 2 e 0.4970(1) 0.25 0.8799(1) 0.0168(1) 1. 0
+Ba5 Ba2+ 2 e 0.1912(1) 0.25 0.1134(1) 0.0177(1) 1. 0
+Cl1 Cl1- 2 e 0.2058(2) 0.25 0.8329(2) 0.0260(6) 1. 0
+Cl2 Cl1- 2 e 0.7892(4) 0.25 0.8578(4) 0.0498(13) 0.802(8) 0
+Cl3 Cl1- 2 e 0.8054(4) 0.25 0.9514(4) 0.0498(13) 0.198(8) 0
+#End of TTdata_72400-ICSD

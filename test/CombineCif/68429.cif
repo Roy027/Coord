@@ -1,0 +1,81 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68429-ICSD
+_database_code_ICSD 68429
+_audit_creation_date 1991-07-10
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Distrontium scandium lithium tetraborate'
+_chemical_formula_structural 'Sr2 Sc Li (B4 O10)'
+_chemical_formula_sum 'B4 Li1 O10 Sc1 Sr2'
+_chemical_name_structure_type Sr2ScLiB4O10
+_exptl_crystal_density_diffrn 3.58
+_publ_section_title 'The pyroborate Sr2 Sc Li B4 O10, a new structural type'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 1989 32 521 527 SSIOD3
+loop_
+_publ_author_name
+'Thompson, P.D.'
+'Keszler, D.A.'
+_cell_length_a 12.543(1)
+_cell_length_b 5.2201(6)
+_cell_length_c 13.635(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.69(1)
+_cell_angle_gamma 90.
+_cell_volume 797.64
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Sc3+ 3
+Li1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 e 0.68261(4) 0.3808(1) 0.35128(4) 0.65(1) 1. 0
+Sr2 Sr2+ 4 e 0.65190(4) 0.43554(9) 0.62253(4) 0.56(1) 1. 0
+Sc1 Sc3+ 4 e 0.63442(8) 0.4293(2) 0.88182(7) 0.40(2) 1. 0
+Li1 Li1+ 4 e 0.1204(9) 0.106(2) 0.6002(8) 1.1(3) 1. 0
+B1 B3+ 4 e 0.9147(5) 0.440(1) 0.7721(4) 0.5(1) 1. 0
+B2 B3+ 4 e 0.6020(5) 0.859(1) 0.2078(4) 0.7(1) 1. 0
+B3 B3+ 4 e 0.5922(5) -.108(1) 0.4498(4) 0.6(1) 1. 0
+B4 B3+ 4 e 0.9237(5) 0.419(1) 0.5519(4) 0.6(1) 1. 0
+O1 O2- 4 e 0.6440(3) 0.1618(6) 0.7697(3) 0.6(1) 1. 0
+O2 O2- 4 e 0.8850(3) 0.1829(6) 0.5064(3) 0.6(1) 1. 0
+O3 O2- 4 e 0.6815(3) -.0004(8) 0.5397(3) 1.1(1) 1. 0
+O4 O2- 4 e 0.5487(3) 0.6264(7) 0.1860(3) 0.6(1) 1. 0
+O5 O2- 4 e 0.5677(3) 0.6410(7) 0.4381(3) 0.7(1) 1. 0
+O6 O2- 4 e 0.8525(3) 0.6285(7) 0.5135(3) 0.7(1) 1. 0
+O7 O2- 4 e 0.5227(3) 0.0741(7) 0.3687(3) 0.8(1) 1. 0
+O8 O2- 4 e 0.5388(3) 0.0727(6) 0.1411(3) 0.7(1) 1. 0
+O9 O2- 4 e 0.8667(3) 0.2120(7) 0.7261(3) 0.7(1) 1. 0
+O10 O2- 4 e 0.7124(3) -.0937(7) 0.2870(3) 0.9(1) 1. 0
+#End of TTdata_68429-ICSD

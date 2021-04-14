@@ -1,0 +1,92 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50422-ICSD
+_database_code_ICSD 50422
+_audit_creation_date 1999-11-30
+_chemical_name_systematic
+'Lithium scandium titanium phosphate(V) (2.64/1.8/0.2/3)'
+_chemical_formula_structural 'Li2.64 (Sc0.9 Ti0.1)2 (P O4)3'
+_chemical_formula_sum 'Li2.64 O12 P3 Sc1.8 Ti0.2'
+_chemical_name_structure_type Li2TiFe(PO4)3
+_exptl_crystal_density_diffrn 2.74
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Structure refinement of lithium ion conductors Li3 Sc2 (P O4)3 and Li(3-2x)
+(Sc(1-x) M(x))2 (P O4)3 (M = Ti, Zr) with x = 0.10 by neutron diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 1998 113 89 96 SSIOD3
+loop_
+_publ_author_name
+'Suzuki, T.'
+'Yoshida, K.'
+'Uematsu, K.'
+'Kodama, T.'
+'Toda, K.'
+'Ye, Z.-G.'
+'Ohashi, M.'
+'Sato, M.'
+_cell_length_a 12.3332(4)
+_cell_length_b 8.7829(3)
+_cell_length_c 8.8067(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 953.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.009
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sc3+ 3
+Ti4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 d 0.3286(7) 0.300(1) 0.272(1) 1.3(2) 0.83(2) 0
+Li2 Li1+ 8 d 0.292(2) 0.063(3) 0.398(3) 1.3(2) 0.31(1) 0
+Li3 Li1+ 8 d 0.220(4) 0.415(5) 0.271(4) 1.3(2) 0.18(2) 0
+Sc1 Sc3+ 8 d 0.1091(9) 0.2489(3) 0.4609(1) 2.27(3) 0.9 0
+Ti1 Ti4+ 8 d 0.1091(9) 0.2489(3) 0.4609(1) 2.27(3) 0.1 0
+P1 P5+ 8 d 0.1487(2) 0.1059(3) 0.1043(3) 1.70(6) 1. 0
+P2 P5+ 4 c 0.5 0.0460(5) 0.25 2.07(8) 1. 0
+O1 O2- 8 d 0.3390(2) 0.4309(3) 0.0993(3) 2.13(6) 1. 0
+O2 O2- 8 d 0.2735(2) 0.3260(3) 0.4800(3) 2.41(6) 1. 0
+O3 O2- 8 d 0.0351(2) 0.1513(4) 0.0726(3) 2.78(7) 1. 0
+O4 O2- 8 d 0.0714(2) 0.4493(4) 0.3547(4) 2.94(6) 1. 0
+O5 O2- 8 d 0.4209(2) 0.1456(3) 0.1661(3) 2.22(6) 1. 0
+O6 O2- 8 d 0.1845(2) 0.1626(4) 0.2615(3) 2.03(7) 1. 0
+#End of TTdata_50422-ICSD

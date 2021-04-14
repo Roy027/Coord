@@ -1,0 +1,97 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_32534-ICSD
+_database_code_ICSD 32534
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Lithium chlorate(VII) trihydrate'
+_chemical_formula_structural 'Li Cl O4 (H2 O)3'
+_chemical_formula_sum 'H6 Cl1 Li1 O7'
+_chemical_name_structure_type LiClO4(H2O)3
+_exptl_crystal_density_diffrn 1.89
+_publ_section_title
+'Neutron Diffraction Refinement of Pyroelectric Lithium Perchlorate Trihydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 15 20 ACBCAR
+loop_
+_publ_author_name
+'Lundgren, J.O.'
+'Liminga, R.'
+'Tellgren, R.'
+_cell_length_a 7.7192(4)
+_cell_length_b 7.7192(4)
+_cell_length_c 5.4531(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 281.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cl7+ 7
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0 0 0.27671(60) . 1. 0
+Cl1 Cl7+ 2 b 0.6667 0.3333 0 . 1. 0
+O1 O2- 2 b 0.6667 0.3333 -.26190(19) . 1. 0
+O2 O2- 6 c 0.56534(4) 0.43466(4) 0.08902(16) . 1. 0
+O3 O2- 6 c -.12232(4) 0.12232(4) 0.52787(14) . 1. 0
+H1 H1+ 12 d -.06662(14) 0.26326(12) 0.53382(23) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0329(6) 0.0329(6) 0.0245(9) 0.0165(3) 0 0
+Cl1 Cl7+ 0.0180(1) 0.0180(1) 0.0307(3) 0.0090(1) 0 0
+O1 O2- 0.0431(3) 0.0431(3) 0.0311(5) 0.0216(2) 0 0
+O2 O2- 0.0308(2) 0.0308(2) 0.0553(4) 0.0200(2) 0.0043(1) -.0043(1)
+O3 O2- 0.0271(2) 0.0271(2) 0.0312(2) 0.0167(2) 0.0005(1) -.0005(1)
+H1 H1+ 0.0707(5) 0.0342(4) 0.0662(4) 0.0290(3) 0.0034(5) 0.0005(3)
+#End of TTdata_32534-ICSD

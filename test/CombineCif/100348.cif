@@ -1,0 +1,97 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100348-ICSD
+_database_code_ICSD 100348
+_audit_creation_date 1980-12-31
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Lithium tecto-alumotetrasilicate'
+_chemical_formula_structural 'Li (Al Si4 O10)'
+_chemical_formula_sum 'Al1 Li1 O10 Si4'
+_chemical_name_structure_type LiAlSi4O10
+_chemical_name_mineral 'Petalite 1M'
+_exptl_crystal_density_diffrn 2.4
+_publ_section_title
+
+;
+Petalit, Li Al Si4 O10: Verfeinerung der Kristallstruktur, Diskussion der
+Raumgruppe und Infrarot-Messung
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'TMPM. Tschermaks Mineralogische und Petrographische Mitteilungen (1979-)' 1980 27 129 142 TTMMDZ
+loop_
+_publ_author_name
+'Effenberger, H.'
+_cell_length_a 11.7540(11)
+_cell_length_b 5.1395(5)
+_cell_length_c 7.6296(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.04(1)
+_cell_angle_gamma 90.
+_cell_volume 424.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/a 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 e 0.25 0.25820(91) 0 . 1. 0
+Al1 Al3+ 2 e 0.25 0.75664(13) 0 . 1. 0
+Si1 Si4+ 4 g 0.99816(3) 0.51279(8) 0.28984(5) . 1. 0
+Si2 Si4+ 4 g 0.14775(3) 0.00993(8) 0.28962(5) . 1. 0
+O1 O2- 2 b 0 0.5 0.5 . 1. 0
+O2 O2- 2 f 0.25 0.96385(42) 0.5 . 1. 0
+O3 O2- 4 g 0.09392(11) 0.30163(23) 0.26980(18) . 1. 0
+O4 O2- 4 g 0.36166(9) 0.53587(23) 0.13425(15) . 1. 0
+O5 O2- 4 g 0.03788(10) 0.80112(23) 0.25177(17) . 1. 0
+O6 O2- 4 g 0.20741(10) 0.97774(23) 0.13486(15) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ 0.00452(36) 0.0058(12) 0.00964(81) 0 0.00278(45) 0
+Al1 Al3+ 0.00107(3) 0.00519(18) 0.00258(8) 0 0.00069(4) 0
+Si1 Si4+ 0.00105(2) 0.00583(12) 0.00260(5) -.00024(4) 0.00064(3) -.00047(6)
+Si2 Si4+ 0.00105(2) 0.00575(12) 0.00266(5) 0.00010(4) 0.00064(3) -.00040(6)
+O1 O2- 0.00456(13) 0.02629(79) 0.00398(22) -.00061(30) 0.00257(14) -.00012(39)
+O2 O2- 0.00301(11) 0.02174(71) 0.00313(21) 0 -.00062(12) 0
+O3 O2- 0.00265(7) 0.00699(34) 0.00978(21) 0.00109(12) 0.00304(10) -.00039(12)
+O4 O2- 0.00152(6) 0.00917(34) 0.00548(16) 0.00099(11) -.00013(8) 0.00040(19)
+O5 O2- 0.00193(6) 0.00741(35) 0.00838(19) -.00101(12) 0.00104(9) 0.00045(20)
+O6 O2- 0.00297(7) 0.00899(34) 0.00541(16) 0.00078(13) 0.00276(9) -.00018(19)
+#End of TTdata_100348-ICSD
