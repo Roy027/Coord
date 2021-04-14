@@ -5,6 +5,7 @@ import glob
 import numpy as np
 import pandas as pd
 import json
+import time
 from datetime import datetime
 
 #save_address = "../test/cifDic_20210407.npy"
@@ -13,13 +14,12 @@ print("Start time:", datetime.now())
 
 cwd = os.getcwd()
 cwd_exe =os.path.join(cwd,'softBV0405.exe')
-cwd_uni = os.path.join(cwd,'database_unitary.dat')
-all_files = glob.glob(os.path.join(cwd[:-4],'test/Combine/151063.cif'))
+all_files = glob.glob(os.path.join(cwd[:-4],'test/Combine/*.cif'))
 
 # Fuction to return database_unitary dataframe
 def UnitaryDF():
     skipRow =[x for x in range(0,12)]+[13,14]+[x for x in range(206,217)]
-    uni_df = pd.read_fwf(cwd_uni,skiprows=skipRow)
+    uni_df = pd.read_fwf("database_unitary.dat",skiprows=skipRow)
     return uni_df
 
 # Fill unitary information to SiteDic
@@ -40,7 +40,7 @@ def fillUniInfo(SiteDic, uni_df):
 def fillSitesFromStdout(stdout):    
     stdout_lines = stdout.split("\r\n")
     Sites = {}
-    name = ""
+    name = " "
     for line in stdout_lines:
         line = line.replace(" ",";").replace("=",";").split(";")
         line = ' '.join(line).split()
@@ -62,7 +62,7 @@ def fillSiteDic(Sites,cwd_exe,cif):
     for site in Sites.keys():
         Coor = [[]]
         center = ""
-        CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=r'd:\Study\softBV_mix\GitHub\projects\Coord\bin', capture_output=True)
+        CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, capture_output=True)
         stdout = str(CalCNproc.stdout, "utf-8")
         stdout_lines = stdout.split("\r\n")
         for line in stdout_lines:
@@ -90,7 +90,7 @@ def fillSiteDic(Sites,cwd_exe,cif):
             SiteDic[center]['Element'] = Sites[site]['type']
             SiteDic[center]['OS'] = Sites[site]['os']
         else: 
-            print("Problematic cif:",cif,site,"\n")
+            print("Problematic cif:",cif,site)
     return SiteDic
 
 def calAngleToSiteDic(SiteDic):
@@ -144,10 +144,10 @@ uni_df = UnitaryDF()
 # Main process to fill cifDic
 cifDic = {}
 for cif in all_files:
-    cif_name = cif[68:]
+    cif_name =cif.split("\\")[-1]
     print("Currently proccessing:", cif_name, ";  Current Time:", datetime.now())
     cifDic[cif_name] = {}
-    process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=r'd:\Study\softBV_mix\GitHub\projects\Coord\bin', capture_output=True)
+    process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd, capture_output=True)
     stdout = str(process.stdout, "utf-8")
     Sites, name = fillSitesFromStdout(stdout)
     SiteDic = fillSiteDic(Sites,cwd_exe,cif)
@@ -155,6 +155,10 @@ for cif in all_files:
     SiteDic = fillUniInfo(SiteDic, uni_df)
     cifDic[cif_name]['Sites'] = SiteDic
     cifDic[cif_name]['Name'] = name
+print("Processing Done!")
 
 with open('../test/cifDic_0412.json', 'w') as fp:
     json.dump(cifDic,fp)
+
+print("Saved to file")
+    
