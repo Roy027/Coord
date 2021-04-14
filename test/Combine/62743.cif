@@ -1,0 +1,124 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62743-ICSD
+_database_code_ICSD 62743
+_audit_creation_date 1988-07-15
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Lithium vanadium oxide (1.5/12/29) - beta'
+_chemical_formula_structural 'Li1.5 V12 O29'
+_chemical_formula_sum 'Li1.5 O29 V12'
+_chemical_name_structure_type Li1.5V12O29
+_exptl_crystal_density_diffrn 3.58
+_publ_section_title
+
+;
+Die Strukturen der Lithium-Vanadiumbronzen beta Li1.5 V12 O29 (I) und beta'
+Li2.1 V12 O29 (II).
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 1447 1451 ACSCEE
+loop_
+_publ_author_name
+'Kato, K.'
+'Takayama Muromachi, E.'
+_cell_length_a 28.2196(4)
+_cell_length_b 3.6105(2)
+_cell_length_c 10.1200(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.088(2)
+_cell_angle_gamma 90.
+_cell_volume 1008.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.7
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 i 0.062100(17) 0 0.08702(4) . 1. 0
+V2 V4+ 4 i 0.178540(15) 0 0.02421(4) . 1. 0
+V3 V4+ 4 i 0.305120(16) 0 0.21526(4) . 1. 0
+V4 V4+ 4 i 0.414860(15) 0 0.14202(4) . 1. 0
+V5 V4+ 4 i 0.148090(16) 0 0.34132(4) . 1. 0
+V6 V4+ 4 i 0.392530(16) 0 0.46777(4) . 1. 0
+O1 O2- 2 a 0 0 0 . 1. 0
+O2 O2- 4 i 0.05803(7) 0 0.24321(18) . 1. 0
+O3 O2- 4 i 0.13978(7) 0 0.16103(17) . 1. 0
+O4 O2- 4 i 0.09862(8) 0 0.89976(19) . 1. 0
+O5 O2- 4 i 0.23337(6) 0 0.11870(17) . 1. 0
+O6 O2- 4 i 0.19391(7) 0 0.83861(17) . 1. 0
+O7 O2- 4 i 0.33388(7) 0 0.02009(18) . 1. 0
+O8 O2- 4 i 0.29679(7) 0 0.36591(19) . 1. 0
+O9 O2- 4 i 0.37707(6) 0 0.28205(16) . 1. 0
+O10 O2- 4 i 0.46690(8) 0 0.23719(21) . 1. 0
+O11 O2- 4 i 0.42933(7) 0 0.95839(17) . 1. 0
+O12 O2- 4 i 0.12412(8) 0 0.51506(18) . 1. 0
+O13 O2- 4 i 0.20516(8) 0 0.38902(20) . 1. 0
+O14 O2- 4 i 0.36894(7) 0 0.63791(18) . 1. 0
+O15 O2- 4 i 0.44979(8) 0 0.50496(21) . 1. 0
+Li1 Li1+ 4 i 0.0090(6) 0 0.3535(15) 3.0(3) 0.5 0
+Li2 Li1+ 4 i 0.2588(11) 0 0.533(3) 2.7(5) 0.25 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+V1 V4+ 0.000298(5) 0.00804(27) 0.001694(33) 0 0.000261(10) 0
+V2 V4+ 0.000141(4) 0.00748(26) 0.001152(31) 0 0.000033(9) 0
+V3 V4+ 0.000235(4) 0.00798(26) 0.001105(30) 0 0.000089(9) 0
+V4 V4+ 0.000184(4) 0.00882(26) 0.001223(31) 0 0.000107(9) 0
+V5 V4+ 0.000244(5) 0.01047(27) 0.001179(31) 0 0.000177(10) 0
+V6 V4+ 0.000226(4) 0.01099(27) 0.001108(30) 0 0.000156(9) 0
+O1 O2- 0.000210(28) 0.0126(18) 0.00379(26) 0 -.000076(68) 0
+O2 O2- 0.000392(23) 0.0217(14) 0.00149(14) 0 0.000196(46) 0
+O3 O2- 0.000232(19) 0.0135(12) 0.00131(13) 0 0.000089(41) 0
+O4 O2- 0.000663(28) 0.0097(13) 0.00212(16) 0 0.000539(54) 0
+O5 O2- 0.000185(19) 0.0175(13) 0.00207(15) 0 -.000039(44) 0
+O6 O2- 0.000234(19) 0.0114(12) 0.00149(14) 0 0.000144(41) 0
+O7 O2- 0.000259(20) 0.0120(12) 0.00215(15) 0 0.000111(44) 0
+O8 O2- 0.000295(22) 0.0373(18) 0.00173(15) 0 0.000241(46) 0
+O9 O2- 0.000198(18) 0.0124(12) 0.00109(13) 0 0.000076(39) 0
+O10 O2- 0.000233(23) 0.1226(37) 0.00217(18) 0 -.000012(52) 0
+O11 O2- 0.000263(20) 0.0100(12) 0.00149(14) 0 0.000206(42) 0
+O12 O2- 0.000571(25) 0.0103(12) 0.00150(14) 0 0.000415(49) 0
+O13 O2- 0.000303(23) 0.0481(21) 0.00293(18) 0 0.000071(52) 0
+O14 O2- 0.000450(23) 0.0091(12) 0.00139(14) 0 0.000335(46) 0
+O15 O2- 0.000253(23) 0.0775(27) 0.00290(19) 0 0.000129(52) 0
+#End of TTdata_62743-ICSD

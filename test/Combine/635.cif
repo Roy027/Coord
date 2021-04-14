@@ -1,0 +1,119 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_635-ICSD
+_database_code_ICSD 635
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Dilithium mercury tetrakis(catena-phosphate(V))'
+_chemical_formula_structural 'Li2 Hg (P O3)4'
+_chemical_formula_sum 'Hg1 Li2 O12 P4'
+_exptl_crystal_density_diffrn 3.92
+_publ_section_title
+
+;
+Structures cristallines des polyphosphates de cadmium-lithium et de
+mercure-lithium Cd Li2 (P O3)4 et Hg Li2 (P O3)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1976 32 2953 2956 ACBCAR
+loop_
+_publ_author_name
+'Averbuch-Pouchot, M.T.'
+'Tordjman, I.'
+'Guitel, J.C.'
+_cell_length_a 9.525(2)
+_cell_length_b 9.989(3)
+_cell_length_c 9.461(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.01
+_cell_angle_gamma 90.
+_cell_volume 899.62
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hg2+ 2
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hg1 Hg2+ 4 e 0.51198(3) 0.30962(4) 0.25329(5) . 1. 0
+P1 P5+ 4 e 0.2275(2) 0.4653(2) 0.2366(3) . 1. 0
+P2 P5+ 4 e 0.2996(2) 0.1012(2) 0.4940(3) . 1. 0
+P3 P5+ 4 e 0.3027(2) 0.9024(2) 0.2674(3) . 1. 0
+P4 P5+ 4 e 0.2944(2) 0.1068(2) 0.0359(3) . 1. 0
+O1 O2- 4 e 0.1818(7) 0.3270(7) 0.2636(9) . 1. 0
+O2 O2- 4 e 0.3828(7) 0.4860(7) 0.2415(9) . 1. 0
+O3 O2- 4 e 0.1580(7) 0.5636(7) 0.3439(8) . 1. 0
+O4 O2- 4 e 0.1588(7) 0.5144(9) 0.0930(9) . 1. 0
+O5 O2- 4 e 0.1454(7) 0.1146(7) 0.4778(8) . 1. 0
+O6 O2- 4 e 0.3947(7) 0.2137(7) 0.4612(8) . 1. 0
+O7 O2- 4 e 0.8490(7) 0.5320(8) 0.4178(8) . 1. 0
+O8 O2- 4 e 0.1485(6) 0.8861(7) 0.2567(8) . 1. 0
+O9 O2- 4 e 0.3947(7) 0.7843(7) 0.2469(9) . 1. 0
+O10 O2- 4 e 0.8518(7) 0.4781(8) 0.1683(8) . 1. 0
+O11 O2- 4 e 0.1391(7) 0.1167(8) 0.0375(8) . 1. 0
+O12 O2- 4 e 0.3822(8) 0.2290(7) 0.0342(8) . 1. 0
+Li1 Li1+ 4 e 0.004(2) 0.832(2) 0.390(2) . 1. 0
+Li2 Li1+ 4 e 0.005(2) 0.827(2) 0.104(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Hg1 Hg2+ 0.00268(2) 0.00293(3) 0.00336(4) 0.00116(3) 0.00017(2) 0.00011(4)
+P1 P5+ 0.00201(20) 0.00182(20) 0.00192(28) 0.00003(15) 0.00037(16) 0.00021(17)
+P2 P5+ 0.00224(19) 0.00192(20) 0.00240(29) 0.00022(16) 0.00041(16) 0.00015(18)
+P3 P5+ 0.00195(19) 0.00170(18) 0.00254(28) 0.00007(15) 0.00042(17) 0.00014(18)
+P4 P5+ 0.00266(20) 0.00207(20) 0.00200(28) 0.00005(16) 0.00010(17) 0.00001(18)
+O1 O2- 0.00455(64) 0.00162(66) 0.00530(94) -.00128(49) 0.00063(56) 0.00104(56)
+O2 O2- 0.00262(59) 0.00235(59) 0.00606(98) 0.00039(48) 0.00068(55) 0.00016(61)
+O3 O2- 0.00409(65) 0.00267(62) 0.00205(85) 0.00047(50) -.00006(52) -.00058(55)
+O4 O2- 0.00274(60) 0.00310(65) 0.00460(99) 0.00065(49) -.00007(54) -.00017(60)
+O5 O2- 0.00402(64) 0.00337(75) 0.00397(94) -.00199(51) 0.00015(55) 0.00047(58)
+O6 O2- 0.00433(68) 0.00294(67) 0.00289(95) -.00061(53) -.00077(56) 0.00044(61)
+O7 O2- 0.00208(56) 0.00261(61) 0.00440(92) -.00063(47) 0.00068(52) -.00022(58)
+O8 O2- 0.00390(63) 0.00216(64) 0.00449(94) 0.00096(47) 0.00001(56) -.00053(55)
+O9 O2- 0.00376(65) 0.00490(75) 0.00162(84) -.00024(54) 0.00059(51) -.00170(63)
+O10 O2- 0.00310(63) 0.00423(73) 0.00354(95) 0.00064(53) 0.00101(56) -.00041(63)
+O11 O2- 0.00540(73) 0.00250(59) 0.00306(96) -.00081(53) -.00012(60) 0.00081(58)
+O12 O2- 0.00303(65) 0.0076(10) 0.00190(92) -.00006(61) 0.00036(53) 0.00098(75)
+Li1 Li1+ 0.0034(15) 0.0047(21) 0.0040(23) 0.0007(14) 0.0026(13) -0.0007(19)
+Li2 Li1+ 0.0048(19) 0.0073(27) 0.0081(29) 0.0006(19) -0.0015(18) -0.0032(27)
+#End of TTdata_635-ICSD

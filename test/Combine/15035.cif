@@ -1,0 +1,80 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15035-ICSD
+_database_code_ICSD 15035
+_audit_creation_date 1980-01-01
+_audit_update_record 1991-04-17
+_chemical_name_systematic 'Lithium tecto-dioxoarsenatomolybdate'
+_chemical_formula_structural 'Li (Mo O4 As O2)'
+_chemical_formula_sum 'As1 Li1 Mo1 O6'
+_exptl_crystal_density_diffrn 4.44
+_publ_section_title 'The crystal structure of Li Mo O2 As O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica ' 1970 24 3711 3722 ACSAA4
+loop_
+_publ_author_name
+'Linnros, B.'
+_cell_length_a 9.3792(5)
+_cell_length_b 8.9114(4)
+_cell_length_c 4.9043(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 409.91
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n 21 a'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.0395
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+As5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 a 0.1606(1) 0 0.1107(2) . 1. 0
+As1 As5+ 4 a 0.0513(2) 0.6802(3) 0.4005(3) . 1. 0
+O1 O2- 4 a 0.0144(11) 0.8445(11) 0.2439(21) 1.08 1. 0
+O2 O2- 4 a 0.4968(10) 0.5359(11) 0.2944(16) 0.77 1. 0
+O3 O2- 4 a 0.2329(11) 0.6745(14) 0.4474(22) 1.3 1. 0
+O4 O2- 4 a 0.2482(14) 0.8687(13) 0.9204(23) 1.34 1. 0
+O5 O2- 4 a 0.4761(9) 0.6717(14) 0.7873(21) 1.06 1. 0
+O6 O2- 4 a 0.2458(12) 0.4963(16) 0.9035(18) 1.56 1. 0
+Li1 Li1+ 4 a 0.387(6) 0.848(7) 0.592(8) 4.65 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Mo1 Mo6+ 0.0010(2) 0.0028(2) 0.0052(6) 0.0002(3) 0.0001(3) 0.0002(6)
+As1 As5+ 0.0013(2) 0.0025(3) 0.0058(7) 0.0001(3) 0.0003(4) -.0003(9)
+#End of TTdata_15035-ICSD

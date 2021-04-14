@@ -1,0 +1,109 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427777-ICSD
+_database_code_ICSD 427777
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Tetrabarium dilithium tricadmium hexaarsenide'
+_chemical_formula_structural 'Ba4 Li2 Cd3 P6'
+_chemical_formula_sum 'Ba4 Cd3 Li2 P6'
+_exptl_crystal_density_diffrn 4.84
+_cell_measurement_temperature 200.
+_publ_section_title
+
+;
+New lithium-containing pnictides with 1-d infinite chains of supertetrahedral
+clusters: synthesis, crystal and electronic structure of Ba4 Li2 Cd3 Pn6 (Pn =
+P, As and Sb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2014 2014 5113 5124 EJICFO
+loop_
+_publ_author_name
+'Makongo, Julien P.A.'
+'You, Tae-Soo'
+'He, Hua'
+'Suen, Nian-Tzu'
+'Bobev, Svilen'
+_cell_length_a 4.4814(8)
+_cell_length_b 19.856(4)
+_cell_length_c 16.764(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1491.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0273
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Cd2+ 2
+P2- -2.67
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 8 f 0. 0.01592(3) 0.12225(3) 0.01453(15) 1 0
+Ba2 Ba2+ 8 f 0. 0.17141(2) 0.56801(3) 0.01316(15) 1 0
+Cd1 Cd2+ 8 f 0. 0.65051(3) 0.12531(4) 0.01652(17) 1 0
+Cd2 Cd2+ 4 c 0. 0.29544(5) 0.25 0.0204(2) 1 0
+P1 P2- 8 f 0. 0.21937(11) 0.11817(12) 0.0125(4) 1 0
+P2 P2- 8 f 0. 0.44360(11) 0.01143(13) 0.0142(4) 1 0
+P3 P2- 4 c 0. 0.56964(16) 0.25 0.0122(6) 1 0
+P4 P2- 4 c 0. 0.87910(16) 0.25 0.0142(6) 1 0
+Li1 Li1+ 4 c 0. 0.1515(11) 0.25 0.017(4) 1 0
+Li2 Li1+ 4 c 0. 0.4375(11) 0.25 0.015 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0149(3) 0.0156(3) 0.0131(2) 0. 0. -0.00213(18)
+Ba2 Ba2+ 0.0150(3) 0.0115(3) 0.0130(2) 0. 0. 0.00019(18)
+Cd1 Cd2+ 0.0141(3) 0.0158(3) 0.0196(3) 0. 0. 0.0046(2)
+Cd2 Cd2+ 0.0279(5) 0.0190(5) 0.0142(4) 0. 0. 0.
+P1 P2- 0.0133(10) 0.0128(10) 0.0114(9) 0. 0. -0.0003(8)
+P2 P2- 0.0141(10) 0.0118(11) 0.0167(10) 0. 0. 0.0018(8)
+P3 P2- 0.0132(14) 0.0116(14) 0.0117(13) 0. 0. 0.
+P4 P2- 0.0178(15) 0.0117(15) 0.0131(14) 0. 0. 0.
+#End of TTdata_427777-ICSD

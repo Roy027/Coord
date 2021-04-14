@@ -1,0 +1,101 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248315-ICSD
+_database_code_ICSD 248315
+_audit_creation_date 2014-08-01
+_chemical_name_systematic
+'Lithium-0.37 sodium-0.63 iron(III) bis[orthomolybdate(VI)]'
+_chemical_formula_structural '(Li0.37 Na0.63) Fe (Mo O4)2'
+_chemical_formula_sum 'Fe1 Li0.37 Mo2 Na0.63 O8'
+_chemical_name_structure_type CuLa(WO4)2
+_exptl_crystal_density_diffrn 3.97
+_cell_measurement_temperature 298.
+_publ_section_title 'Beta - Li0.37 Na0.63 Fe (Mo O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2014 70 i9
+i10 ACSEBH
+loop_
+_publ_author_name
+'A. Souilem'
+'M.F. Zid'
+'A. Driss'
+_cell_length_a 6.8860(8)
+_cell_length_b 7.2560(9)
+_cell_length_c 7.3786(9)
+_cell_angle_alpha 91.060(6)
+_cell_angle_beta 110.933(9)
+_cell_angle_gamma 105.661(9)
+_cell_volume 328.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0195
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Fe3+ 3
+Na1+ 1
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 i 0.18308(4) 0.03418(4) 0.28342(4) 0.00999(11) 1 0
+Mo2 Mo6+ 2 i 0.66625(5) 0.42440(4) 0.20010(5) 0.01552(11) 1 0
+Fe1 Fe3+ 2 i 0.39452(8) 0.09553(7) 0.81999(7) 0.00988(13) 1 0
+Na1 Na1+ 2 i 0.7648(4) 0.4490(3) 0.7567(4) 0.0221(8) 0.631(9) 0
+Li1 Li1+ 2 i 0.7648(4) 0.4490(3) 0.7567(4) 0.0221(8) 0.369(9) 0
+O1 O2- 2 i 0.3163(4) 0.8758(3) 0.2278(4) 0.0137(5) 1 0
+O2 O2- 2 i 0.8946(4) 0.9550(4) 0.1547(4) 0.0145(5) 1 0
+O3 O2- 2 i 0.5285(4) 0.6200(3) 0.1475(4) 0.0171(5) 1 0
+O4 O2- 2 i 0.7530(5) 0.4334(4) 0.4476(4) 0.0267(6) 1 0
+O5 O2- 2 i 0.2937(4) 0.2661(4) 0.2401(4) 0.0203(6) 1 0
+O6 O2- 2 i 0.2403(4) 0.0424(4) 0.5373(4) 0.0205(6) 1 0
+O7 O2- 2 i 0.8963(5) 0.5147(4) 0.1521(5) 0.0284(7) 1 0
+O8 O2- 2 i 0.5823(4) 0.1597(3) 0.1114(3) 0.0118(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.00649(16) 0.01197(16) 0.01053(16) 0.00259(11) 0.00226(11)
+-0.00055(10)
+Mo2 Mo6+ 0.01547(17) 0.00794(16) 0.01610(17) 0.00378(12) -0.00234(12)
+-0.00076(11)
+Fe1 Fe3+ 0.0090(2) 0.0088(2) 0.0107(2) 0.00255(17) 0.00243(18) 0.00021(17)
+Na1 Na1+ 0.0196(12) 0.0174(12) 0.0338(14) 0.0070(9) 0.0138(10) 0.0076(9)
+Li1 Li1+ 0.0196(12) 0.0174(12) 0.0338(14) 0.0070(9) 0.0138(10) 0.0076(9)
+O1 O2- 0.0108(11) 0.0136(12) 0.0192(13) 0.0043(9) 0.0079(10) 0.0032(10)
+O2 O2- 0.0079(11) 0.0197(13) 0.0160(12) 0.0042(9) 0.0046(9) -0.0008(10)
+O3 O2- 0.0194(13) 0.0091(11) 0.0184(13) 0.0053(10) 0.0015(10) -0.0009(9)
+O4 O2- 0.0291(15) 0.0247(15) 0.0164(14) 0.0096(12) -0.0039(11) -0.0030(11)
+O5 O2- 0.0191(13) 0.0144(12) 0.0253(14) 0.0021(10) 0.0080(11) -0.0002(11)
+O6 O2- 0.0158(13) 0.0329(15) 0.0112(12) 0.0074(11) 0.0034(10) -0.0008(11)
+O7 O2- 0.0238(15) 0.0207(14) 0.0334(17) 0.0006(12) 0.0069(13) 0.0042(12)
+O8 O2- 0.0124(11) 0.0097(11) 0.0119(11) 0.0034(9) 0.0028(9) 0.0014(9)
+#End of TTdata_248315-ICSD

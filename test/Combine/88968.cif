@@ -1,0 +1,115 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_88968-ICSD
+_database_code_ICSD 88968
+_audit_creation_date 2001-07-16
+_audit_update_record 2003-04-01
+_chemical_name_systematic
+'Lithium lanthanum niobium titanium oxide (2/2.25/1.25/2.75/13)'
+_chemical_formula_structural 'Li2 La2.25 (Nb1.25 Ti2.75) O13'
+_chemical_formula_sum 'La2.25 Li2 Nb1.25 O13 Ti2.75'
+_exptl_crystal_density_diffrn 5.1
+_publ_section_title
+
+;
+Synthesis and crystal structure of new layered perovskite compounds: Li2
+La0.833 (Nb1.5 Ti0.5) O7 and Li2 La2.25 (Nb1.25 Ti2.75) O13
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1999 34 179 191 MRBUAC
+loop_
+_publ_author_name
+'Crosnier-Lopez, M.P.'
+'Duroy, H.'
+'Fourquet, J.L.'
+_cell_length_a 5.4915(6)
+_cell_length_b 5.4915(6)
+_cell_length_c 33.812(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1019.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Ti4+ 4
+Nb5+ 5
+Ti4+ 4
+La3+ 3
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 8 j 0.7476(4) 0.7476(4) 0.17884(1) . 0.475 0
+Ti1 Ti4+ 8 j 0.7476(4) 0.7476(4) 0.17884(1) . 0.525 0
+Nb2 Nb5+ 8 j 0.7504(6) 0.7504(6) 0.0551(5) . 0.15 0
+Ti2 Ti4+ 8 j 0.7504(6) 0.7504(6) 0.0551(5) . 0.85 0
+La1 La3+ 8 j 0.7467(2) 0.7467(2) 0.6164(1) . 1. 0
+La2 La3+ 4 g 0.2418(11) 0.2418(11) 0.5 . 0.25 0
+O1 O2- 8 j 0.7289(18) 0.7289(18) 0.2320(3) 0.0081(20) 1. 0
+O2 O2- 4 e 0 0 0.1770(7) 0.0052(34) 1. 0
+O3 O2- 4 e 0 0 0.3383(6) 0.0006(27) 1. 0
+O4 O2- 8 h 0 0.5 0.1696(5) 0.0084(28) 1. 0
+O5 O2- 8 j 0.7817(14) 0.7817(14) 0.1142(3) 0.0096(21) 1. 0
+O6 O2- 4 e 0 0 0.0529(10) 0.0174(56) 1. 0
+O7 O2- 4 e 0 0 0.4332(10) 0.0098(49) 1. 0
+O8 O2- 8 h 0 0.5 0.0615(6) 0.0189(53) 1. 0
+O9 O2- 4 f 0.7177(23) 0.7177(23) 0 0.0110(36) 1. 0
+Li1 Li1+ 4 e 0.5 0.5 0.2618(16) 0.0061(52) 1. 0
+Li2 Li1+ 4 d 0.5 0 0.25 0.0061(52) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0052(2) 0.0052(2) 0.0052(3) -0.0019(30) 0.0009(7) 0.0009(7)
+Ti1 Ti4+ 0.0052(2) 0.0052(2) 0.0052(3) -0.0019(30) 0.0009(7) 0.0009(7)
+Nb2 Nb5+ 0.0052(2) 0.0052(2) 0.0052(3) -0.0019(30) 0.0009(7) 0.0009(7)
+Ti2 Ti4+ 0.0052(2) 0.0052(2) 0.0052(3) -0.0019(30) 0.0009(7) 0.0009(7)
+La1 La3+ 0.0070(2) 0.0070(2) 0.0079(2) 0.0045(9) -0.0004(5) -0.0004(5)
+La2 La3+ 0.0079(10) 0.0079(10) 0.0037(10) -0.0030(58) 0 0
+#End of TTdata_88968-ICSD

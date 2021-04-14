@@ -1,0 +1,106 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_242228-ICSD
+_database_code_ICSD 242228
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Lithium dirubidium lanthanum diborate'
+_chemical_formula_structural 'Li Rb2 La B2 O6'
+_chemical_formula_sum 'B2 La1 Li1 O6 Rb2'
+_exptl_crystal_density_diffrn 4.
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+LiRb2LaB2O6: a new rare-earth borate with a MOF-5-like topological structure
+and a short UV cut-off edge
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2017 46 193 199 DTARAF
+loop_
+_publ_author_name
+'Xu, Dongdong'
+'Zhang, Fangfang'
+'Sun, Yanzhou'
+'Yang, Zhihua'
+'Lei, Binghua'
+'Liu, Lili'
+'Pan, Shilie'
+_cell_length_a 7.2366(16)
+_cell_length_b 9.775(2)
+_cell_length_c 10.199(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.643(2)
+_cell_angle_gamma 90.
+_cell_volume 721.4
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0265
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Rb1+ 1
+La3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 1.0561(12) 0.3443(9) 0.7549(8) 0.0117(17) 1 0
+Rb1 Rb1+ 4 e 0.25120(9) 0.08875(6) 0.95589(6) 0.02112(16) 1 0
+Rb2 Rb1+ 4 e 0.18449(9) 0.07805(6) 0.57804(6) 0.02400(16) 1 0
+La1 La3+ 4 e 0.64263(4) 0.23425(3) 0.74098(3) 0.00934(11) 1 0
+B1 B3+ 4 e 0.8230(9) 0.2308(6) 0.9965(6) 0.0134(12) 1 0
+B2 B3+ 4 e 0.6554(9) -0.0657(7) 0.7323(6) 0.0146(12) 1 0
+O1 O2- 4 e 0.9108(5) 0.3168(4) 0.6059(3) 0.0149(8) 1 0
+O2 O2- 4 e 0.9107(5) 0.2858(4) 0.8905(4) 0.0162(8) 1 0
+O3 O2- 4 e 0.6298(5) 0.2230(4) 0.9913(4) 0.0184(9) 1 0
+O4 O2- 4 e 0.4819(5) -0.0088(4) 0.7434(4) 0.0170(8) 1 0
+O5 O2- 4 e 0.3181(5) 0.2963(4) 0.7477(4) 0.0164(8) 1 0
+O6 O2- 4 e 0.8052(5) 0.0171(4) 0.7078(4) 0.0206(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.013(4) 0.012(4) 0.011(4) -0.002(3) 0.001(3) 0.000(3)
+Rb1 Rb1+ 0.0256(3) 0.0169(3) 0.0211(3) -0.0003(2) 0.0076(2) -0.0013(2)
+Rb2 Rb1+ 0.0283(3) 0.0163(3) 0.0271(3) 0.0009(2) -0.0118(2) -0.0006(2)
+La1 La3+ 0.00786(16) 0.00913(17) 0.01102(16) -0.00014(11) 0.00031(10)
+0.00034(11)
+B1 B3+ 0.014(3) 0.016(3) 0.011(3) -0.001(2) 0.001(2) -0.004(2)
+B2 B3+ 0.017(3) 0.015(3) 0.012(3) 0.002(2) -0.001(2) 0.000(2)
+O1 O2- 0.0145(19) 0.019(2) 0.0114(18) -0.0025(16) -0.0025(14) -0.0015(15)
+O2 O2- 0.017(2) 0.018(2) 0.0137(18) -0.0060(16) 0.0016(15) 0.0027(15)
+O3 O2- 0.015(2) 0.028(2) 0.0116(18) -0.0041(17) -0.0013(15) 0.0003(16)
+O4 O2- 0.015(2) 0.0125(19) 0.024(2) 0.0019(16) 0.0016(16) 0.0005(16)
+O5 O2- 0.0098(18) 0.0114(19) 0.028(2) 0.0018(15) 0.0004(16) 0.0008(16)
+O6 O2- 0.0104(19) 0.015(2) 0.037(2) -0.0029(16) 0.0053(17) 0.0042(18)
+#End of TTdata_242228-ICSD

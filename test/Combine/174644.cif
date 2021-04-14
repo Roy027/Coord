@@ -1,0 +1,130 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_174644-ICSD
+_database_code_ICSD 174644
+_audit_creation_date 2012-02-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic
+'Neodymium lithium cobalt titanium oxide (18/8/3/1/38.06)'
+_chemical_formula_structural 'Nd18 Li8 Co3 Ti O38.06'
+_chemical_formula_sum 'Co3 Li8 Nd18 O38.06 Ti1'
+_exptl_crystal_density_diffrn 6.92
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Structural and magnetic properties of Nd18 Li8 Co(4-x) Fe(x) O(39-y) and Nd18
+Li8 Co(4-x) Ti(x) O(39-y)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2011 184 2580 2587 JSSCBI
+loop_
+_publ_author_name
+'Battle, P.D.'
+'Dutton, S.E.'
+'Grandjean F.'
+'Long, G.J.'
+'Thammajak, N.'
+'Wisetsuwannaphum, S.'
+_cell_length_a 11.86892(9)
+_cell_length_b 11.86892(9)
+_cell_length_c 11.86892(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1671.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m -3 n'
+_symmetry_Int_Tables_number 223
+_refine_ls_R_factor_all 0.0325
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z+1/2, -y+1/2, x+1/2'
+2 'y+1/2, -x+1/2, z+1/2'
+3 'x+1/2, -z+1/2, y+1/2'
+4 '-z+1/2, y+1/2, -x+1/2'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 '-x+1/2, z+1/2, -y+1/2'
+7 'z+1/2, y+1/2, -x+1/2'
+8 'y+1/2, x+1/2, -z+1/2'
+9 'x+1/2, z+1/2, -y+1/2'
+10 '-z+1/2, -y+1/2, x+1/2'
+11 '-y+1/2, -x+1/2, z+1/2'
+12 '-x+1/2, -z+1/2, y+1/2'
+13 '-z+1/2, y+1/2, x+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, z+1/2, y+1/2'
+16 'z+1/2, -y+1/2, -x+1/2'
+17 'y+1/2, -x+1/2, -z+1/2'
+18 'x+1/2, -z+1/2, -y+1/2'
+19 '-z+1/2, -y+1/2, -x+1/2'
+20 '-y+1/2, -x+1/2, -z+1/2'
+21 '-x+1/2, -z+1/2, -y+1/2'
+22 'z+1/2, y+1/2, x+1/2'
+23 'y+1/2, x+1/2, z+1/2'
+24 'x+1/2, z+1/2, y+1/2'
+25 'z, x, -y'
+26 'y, z, -x'
+27 'x, y, -z'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 'z, -x, y'
+32 'y, -z, x'
+33 'x, -y, z'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 '-z, x, y'
+38 '-y, z, x'
+39 '-x, y, z'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 '-z, -x, -y'
+44 '-y, -z, -x'
+45 '-x, -y, -z'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Co3+ 3.373
+Ti4+ 4
+Co3+ 3.373
+Ti4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 24 k 0 0.3058(3) 0.3030(3) 0.42(4) 1. 0
+Nd2 Nd3+ 12 f 0.3492(3) 0 0 0.22(5) 1. 0
+Co1 Co3+ 2 a 0 0 0 0.1 0.64(2) 0
+Ti1 Ti4+ 2 a 0 0 0 0.1 0.36(2) 0
+Co2 Co3+ 8 e 0.25 0.25 0.25 0.1 0.590(5) 0
+Ti2 Ti4+ 8 e 0.25 0.25 0.25 0.1 0.160(5) 0
+Li1 Li1+ 16 i 0.3634(8) 0.3634(8) 0.3634(8) 1.8(3) 1. 0
+O1 O2- 48 l 0.8640(3) 0.8591(3) 0.6953(2) 0.80(4) 1. 0
+O2 O2- 6 d 0.25 0.5 0 1.0(2) 1. 0
+O3 O2- 12 g 0.6323(5) 0 0.5 0.8(1) 1. 0
+O4 O2- 24 k 0 0.028(1) 0.152(1) 2.6(4) 0.422(6) 0
+#End of TTdata_174644-ICSD

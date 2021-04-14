@@ -1,0 +1,87 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_403078-ICSD
+_database_code_ICSD 403078
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Lithium hydrogenselenate(IV)'
+_chemical_formula_structural 'Li (H Se O3)'
+_chemical_formula_sum 'H1 Li1 O3 Se1'
+_chemical_name_structure_type LiHSeO3
+_exptl_crystal_density_diffrn 3.04
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Lithium Hydrogenselenite, LiHSeO3: Structure refinement using
+multiple-wavelength synchrotron radiation data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1997 212 724 731 ZEKRDZ
+loop_
+_publ_author_name
+'Eichhorn, K.D.'
+'Kek, S.'
+_cell_length_a 5.0551(2)
+_cell_length_b 11.1874(6)
+_cell_length_c 5.2202(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 295.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.0275
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 4 a 0.13208(3) 0.14721(1) 0.26677(4) . 1. 0
+O1 O2- 4 a 0.0142(2) 0.28306(5) 0.2089(2) . 1. 0
+O2 O2- 4 a -.1053(2) 0.05687(8) 0.1629(2) . 1. 0
+O3 O2- 4 a 0.0702(3) 0.13405(8) 0.6016(2) . 1. 0
+Li1 Li1+ 4 a 0.2565(4) 0.4174(2) 0.1852(6) . 1. 0
+H1 H1+ 4 a 0.1892(48) 0.1589(13) 0.6756(49) 0.043(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.0144(2) 0.0115(2) 0.0134(2) -.0006(1) 0.0015(1) 0.0004(1)
+O1 O2- 0.0187(5) 0.0104(3) 0.0238(5) 0.0004(3) 0.0019(4) 0.0014(4)
+O2 O2- 0.0310(5) 0.0156(4) 0.0140(6) -.0074(3) -.0053(5) 0.0019(4)
+O3 O2- 0.0194(4) 0.0326(4) 0.0121(6) -.0080(4) -.0028(5) 0.0014(4)
+Li1 Li1+ 0.0196(10) 0.0141(8) 0.0191(15) 0.0008(7) 0.0034(13) 0.0047(9)
+#End of TTdata_403078-ICSD

@@ -1,0 +1,89 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280481-ICSD
+_database_code_ICSD 280481
+_audit_creation_date 2002-04-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Dilithium disilicate'
+_chemical_formula_structural 'Li2 (Si2 O5)'
+_chemical_formula_sum 'Li2 O5 Si2'
+_exptl_crystal_density_diffrn 2.47
+_publ_section_title
+'Mixed alkali systems: Structure and 29Si MASNMR of Li2 Si2 O5 and K2 Si2 O5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1998 54 568 577
+ASBSDK
+loop_
+_publ_author_name
+'de Jong, B.'
+'Super, H.'
+'Spek, A.'
+'Veldman, N.'
+'Nachtegaal, G.'
+'Fischer, J.'
+_cell_length_a 5.807(2)
+_cell_length_b 14.582(7)
+_cell_length_c 4.773(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 404.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C c c 2'
+_symmetry_Int_Tables_number 37
+_refine_ls_R_factor_all 0.0464
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, y, z+1/2'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 d 0.34480(18) 0.85156(7) 0.50757(16) . 1. 0
+O1 O2- 8 d 0.1703(6) 0.9278(2) 0.5978(11) . 1. 0
+O2 O2- 8 d 0.5924(7) 0.8623(2) 0.6716(9) . 1. 0
+O3 O2- 4 c 0.25 0.75 0.5639(12) . 1. 0
+Li1 Li1+ 8 d 0.8484(13) 0.9418(5) 0.510(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0058(7) 0.0092(7) 0.0064(7) 0.0002(3) 0.0007(5) 0.0002(6)
+O1 O2- 0.0097(15) 0.0127(15) 0.0090(17) 0.0026(11) 0.0009(11) -.0013(12)
+O2 O2- 0.0064(15) 0.0172(16) 0.0080(18) -.0005(12) -.0012(16) 0.0006(13)
+O3 O2- 0.016(2) 0.0088(18) 0.016(3) -.0031(18) 0 0
+Li1 Li1+ 0.012(3) 0.014(3) 0.019(4) -.005(3) -.001(4) 0.002(5)
+#End of TTdata_280481-ICSD

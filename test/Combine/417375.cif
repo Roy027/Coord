@@ -1,0 +1,112 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417375-ICSD
+_database_code_ICSD 417375
+_audit_creation_date 2009-02-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Lithium dinickel trihydrogen bis(diphosphate)'
+_chemical_formula_structural 'Li Ni2 H3 (P2 O7)2'
+_chemical_formula_sum 'H3 Li1 Ni2 O14 P4'
+_exptl_crystal_density_diffrn 3.04
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Two isotypic diphosphates Li M2 H3 (P2 O7)2 (M = Ni, Co) containing
+ferromagnetic zigzag M O6 chains
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2008 181 1347 1353 JSSCBI
+loop_
+_publ_author_name
+'Yang Tao'
+'Yang Sihai'
+'Liao Fuhui'
+'Lin Jian Hua'
+_cell_length_a 10.925(2)
+_cell_length_b 12.774(3)
+_cell_length_c 8.8833(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 123.20(3)
+_cell_angle_gamma 90.
+_cell_volume 1037.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0281
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+P5+ 5
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 e 0. 0.40618(5) 0.25 0.0077(2) 1 0
+Ni2 Ni2+ 4 d 0.25 0.25 0.5 0.0076(2) 1 0
+P1 P5+ 8 f 0.22294(10) 0.45644(7) 0.68463(13) 0.0079(2) 1 0
+P2 P5+ 8 f 0.07087(10) 0.21426(8) 0.07035(13) 0.0073(2) 1 0
+O1 O2- 8 f 0.1820(3) 0.3951(2) 0.5171(4) 0.0109(6) 1 0
+O2 O2- 8 f 0.3012(3) 0.5574(2) 0.6880(4) 0.0161(6) 1 0
+H1 H1+ 8 f 0.3231 0.5916 0.7774 0.024 1 0
+O3 O2- 8 f 0.1159(3) 0.2834(2) 0.2320(4) 0.0091(5) 1 0
+O4 O2- 8 f -0.0968(3) 0.5268(2) 0.2955(4) 0.0128(6) 1 0
+O5 O2- 8 f 0.0899(3) 0.1881(2) 0.5368(4) 0.0130(6) 1 0
+O6 O2- 8 f 0.1188(3) 0.2599(2) -0.0490(4) 0.0136(6) 1 0
+H2 H1+ 8 f 0.2041 0.244 -0.0079 0.02 0.5 0
+O7 O2- 8 f 0.3416(3) 0.3928(2) 0.8565(4) 0.0181(7) 1 0
+Li1 Li1+ 4 e 0. 0.3583(9) -0.25 0.023(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0062(3) 0.0055(4) 0.0092(4) 0. 0.0028(3) 0.
+Ni2 Ni2+ 0.0067(4) 0.0059(4) 0.0077(4) 0.0014(3) 0.0023(3) 0.0002(3)
+P1 P5+ 0.0078(5) 0.0051(5) 0.0082(5) 0.0006(4) 0.0029(4) -0.0006(4)
+P2 P5+ 0.0052(5) 0.0060(5) 0.0076(5) 0.0012(4) 0.0015(4) 0.0001(4)
+O1 O2- 0.0093(13) 0.0093(13) 0.0105(13) 0.0018(11) 0.0032(12) -0.0011(11)
+O2 O2- 0.0193(15) 0.0113(14) 0.0182(15) -0.0078(12) 0.0106(13) -0.0047(12)
+O3 O2- 0.0067(12) 0.0078(12) 0.0094(13) -0.0001(10) 0.0023(11) -0.0015(11)
+O4 O2- 0.0133(14) 0.0074(14) 0.0178(15) 0.0001(11) 0.0085(12) -0.0021(12)
+O5 O2- 0.0065(13) 0.0144(14) 0.0131(14) 0.0021(11) 0.0023(11) 0.0065(12)
+O6 O2- 0.0120(14) 0.0154(14) 0.0117(14) 0.0005(12) 0.0053(12) 0.0009(12)
+O7 O2- 0.0209(16) 0.0125(15) 0.0096(14) 0.0106(12) 0.0012(12) 0.0011(12)
+Li1 Li1+ 0.024(5) 0.018(5) 0.035(6) 0. 0.021(5) 0.
+#End of TTdata_417375-ICSD

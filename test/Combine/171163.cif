@@ -1,0 +1,120 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171163-ICSD
+_database_code_ICSD 171163
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Lithium calcium antimonide (1.38/10.62/9)'
+_chemical_formula_structural 'Li1.38 Ca10.62 Sb9'
+_chemical_formula_sum 'Ca10.62 Li1.38 Sb9'
+_chemical_name_structure_type LiMgCa10Sb9
+_exptl_crystal_density_diffrn 4.18
+_publ_section_title
+
+;
+New tetragonal structure type for A2 Ca10 Sb9 (A = Li, Mg). Electronic
+variability around a Zintl phase
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 196 200 INOCAJ
+loop_
+_publ_author_name
+'Ganguli, A.K.'
+'Gupta, S.'
+'Corbett, J.D.'
+_cell_length_a 11.9053(7)
+_cell_length_b 11.9053(7)
+_cell_length_c 17.152(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2431.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.0421
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Sb2- -2
+Sb3- -3
+Ca2+ 2
+Sb3- -3
+Li1+ 1
+Ca2+ 2
+Li1+ 1
+Sb3- -3
+Ca2+ 2
+Sb3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 16 k 0.0145(1) 0.2495(2) 0.1866(1) .007(1) 1. 0
+Ca2 Ca2+ 16 k 0.0175(2) 0.3415(2) 0.3960(1) .015(3) 1. 0
+Sb1 Sb2- 8 j 0.22295(5) 0.22295(5) 0.31951(6) .015(2) 1. 0
+Sb2 Sb2- 8 j 0.31325(6) 0.31325(6) 0.17449(6) .019(2) 1. 0
+Sb3 Sb3- 8 i 0.02945(8) 0.33386(8) 0 .018(2) 1. 0
+Ca3 Ca2+ 4 g 0.1739(3) 0.8261(3) 0 .023(1) 1. 0
+Sb4 Sb3- 4 g 0.3753(1) 0.6247(1) 0 .027(1) 1. 0
+Li1 Li1+ 4 f 0.096(2) 0.096(6) 0 .012(6) 1. 0
+Ca4 Ca2+ 4 f 0.2949(5) 0.2949(5) 0 .023(2) .62(2) 0
+Li2 Li1+ 4 f 0.2949(5) 0.2949(5) 0 .023(2) .38 0
+Sb5 Sb3- 4 e 0 0 0.13322(8) .015(1) 1. 0
+Ca5 Ca2+ 4 e 0 0 0.3416(3) .027(1) 1. 0
+Sb6 Sb3- 4 d 0 .5 .25 .010(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.023(1) 0.012(1) 0.017(1) 0.001(1) 0.002(1) 0.000(1)
+Ca2 Ca2+ 0.016(9) 0.015(9) 0.040(3) 0.001(1) 0.000(1) 0.000(1)
+Sb1 Sb2- 0.012(3) 0.012(3) 0.020(5) 0.004(3) 0.000(0) 0.000(0)
+Sb2 Sb2- 0.015(1) 0.015(1) 0.026(1) 0.003(3) 0.005(0) 0.005(0)
+Sb3 Sb3- 0.022(1) 0.018(1) 0.014(1) 0.010(4) 0 0
+Ca3 Ca2+ 0.021(1) 0.021(1) 0.025(2) 0.009(2) 0 0
+Sb4 Sb3- 0.030(1) 0.030(1) 0.020(1) 0.002(6) 0 0
+Ca4 Ca2+ 0.027(3) 0.027(3) 0.013(3) 0.016(3) 0 0
+Li2 Li1+ 0.027(3) 0.027(3) 0.013(3) 0.016(3) 0 0
+Sb5 Sb3- 0.012(4) 0.012(7) 0.019(7) 0.001(1) 0 0
+Ca5 Ca2+ 0.020(1) 0.020(1) 0.040(3) 0.004(2) 0 0
+Sb6 Sb3- 0.009(3) 0.009(3) 0.011(6) 0 0 0
+#End of TTdata_171163-ICSD

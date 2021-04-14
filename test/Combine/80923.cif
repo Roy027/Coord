@@ -1,0 +1,77 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80923-ICSD
+_database_code_ICSD 80923
+_audit_creation_date 1997-05-13
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Lithium gallium catena-disilicate'
+_chemical_formula_structural 'Li Ga (Si2 O6)'
+_chemical_formula_sum 'Ga1 Li1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Li,Ga-Pyroxene
+_exptl_crystal_density_diffrn 3.75
+_cell_measurement_temperature 296.
+_publ_section_title
+'Structures and solid-state Gallium-69 NMR spectra of Li Ga Si2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Ganko 1995 90 327 332 GANKEV
+loop_
+_publ_author_name
+'Ohashi, H.'
+'Osawa, T.'
+'Sato, A.'
+'Onoda, Y.'
+_cell_length_a 9.5609(5)
+_cell_length_b 8.5676(2)
+_cell_length_c 5.2671(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.243(3)
+_cell_angle_gamma 90.
+_cell_volume 404.8
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+Ga3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 f 0.29678(6) 0.09102(5) 0.2610(1) 0.0045(1) 1. 0
+O1 O2- 8 f 0.1137(2) 0.0835(1) 0.1444(3) 0.0052(3) 1. 0
+O2 O2- 8 f 0.3658(2) 0.2617(2) 0.3237(3) 0.0084(1) 1. 0
+O3 O2- 8 f 0.3568(1) -.0001(2) 0.0490(3) 0.0095(3) 1. 0
+Ga1 Ga3+ 4 e 0 0.90153(3) 0.25 0.00472(6) 1. 0
+Li1 Li1+ 4 e 0 0.2638(7) 0.25 0.018(1) 1. 0
+#End of TTdata_80923-ICSD

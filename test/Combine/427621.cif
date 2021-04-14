@@ -1,0 +1,116 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427621-ICSD
+_database_code_ICSD 427621
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Lithium titanium phosphate'
+_chemical_formula_structural 'Li1.2 (Al0.2 Ti1.8) (P O4)3'
+_chemical_formula_sum 'Al0.2 Li1.2 O12 P3 Ti1.8'
+_chemical_name_structure_type NaZr2(PO4)3
+_exptl_crystal_density_diffrn 2.95
+_publ_section_title
+'Neutron diffraction analysis of NASICON-type Li 1+x AlxTi 2-x P3O 12'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 3070 3073 ZAACAB
+loop_
+_publ_author_name
+'Dashjav, Enkhtsetseg'
+'Tietz, Frank'
+_cell_length_a 8.51165(3)
+_cell_length_b 8.51165(3)
+_cell_length_c 20.73836(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1301.15
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.0431
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+O2- -2
+Li1+ 1
+Ti4+ 4
+Al3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 18 e 0.29082(11) 0. 0.25 0.0053(4) 1. 0
+O1 O2- 36 f 0.18654(9) 0.99770(11) 0.18974(3) 0.0076(3) 1. 0
+O2 O2- 36 f 0.18746(9) 0.16400(8) 0.08026(3) 0.0060(3) 1. 0
+Li1 Li1+ 6 b 0. 0. 0. 0.0219(12) 1.00002 0
+Ti1 Ti4+ 12 c 0. 0. 0.14147(9) 0.0017917(11) 0.90042 0
+Al1 Al3+ 12 c 0. 0. 0.14147(9) 0.0017917(11) 0.09957 0
+Li2 Li1+ 6 a 0. 0. 0.25 0.0219(12) 0.19914 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0041(4) 0.0048(4) 0.0071(4) 0.0024(4) 0.00035 0.0006(3)
+O1 O2- 0.0069(3) 0.0081(3) 0.0077(3) 0.0039(3) -0.00153(18) 0.00080(20)
+O2 O2- 0.0045(3) 0.0059(3) 0.0076(3) 0.00104(19) 0.00063(20) 0.00109(18)
+#End of TTdata_427621-ICSD

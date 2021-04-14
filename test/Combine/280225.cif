@@ -1,0 +1,82 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280225-ICSD
+_database_code_ICSD 280225
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Aluminium lithium selenide'
+_chemical_formula_structural 'Al Li Se2'
+_chemical_formula_sum 'Al1 Li1 Se2'
+_chemical_name_structure_type NaFeO2(beta)
+_exptl_crystal_density_diffrn 3.46
+_publ_section_title
+
+;
+Synthesis and structures of new ternary aluminium chalcogenides: Li Al Se2,
+alpha-Li Al Te2, and betaLi Al Te2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2000 39 3092 3097 INOCAJ
+loop_
+_publ_author_name
+'Kim, J.'
+'Hughbanks, T.'
+_cell_length_a 6.8228(9)
+_cell_length_b 8.2658(11)
+_cell_length_c 6.5236(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 367.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.0477
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se2- -2
+Al3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se2- 4 a 0.0637(2) 0.1152(2) -.3663(7) . 1. 0
+Se2 Se2- 4 a 0.4060(2) 0.1371(2) 0.1131(7) . 1. 0
+Al1 Al3+ 4 a 0.0735(5) 0.1256(7) 0 . 1. 0
+Li1 Li1+ 4 a 0.0849(35) 0.6188(47) 0.0030(53) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se2- 0.0141(6) 0.0074(6) 0.0091(9) -.0016(4) 0.0002(9) -.0019(8)
+Se2 Se2- 0.0078(5) 0.0092(6) 0.0118(9) -.0018(5) -.0007(7) 0.0026(9)
+Al1 Al3+ 0.008(2) 0.005(2) 0.014(2) 0.000(2) 0.0015(14) -.002(2)
+Li1 Li1+ 0.024(12) 0.024(13) 0.030(16) 0.023(13) 0.010(12) -.005(16)
+#End of TTdata_280225-ICSD

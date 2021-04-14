@@ -1,0 +1,85 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_159316-ICSD
+_database_code_ICSD 159316
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Lithium sodium trititanate (1.9/0.1/1)'
+_chemical_formula_structural '(Li1.9 Na0.1) (Ti3 O7)'
+_chemical_formula_sum 'Li1.9 Na0.1 O7 Ti3'
+_chemical_name_structure_type Li2Ti3O7
+_exptl_crystal_density_diffrn 3.45
+_publ_section_title
+
+;
+Synthesis, structure and electrochemical Li-ion intercalation properties of
+Li2 Ti3 O7 with (Na2Ti3O7)-type layered structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2008 178 1725 1730 SSIOD3
+loop_
+_publ_author_name
+'Chiba, K.'
+'Kijima, N.'
+'Takahashi, Y.'
+'Idemoto, Y.'
+'Akimoto, J.'
+_cell_length_a 9.3119(4)
+_cell_length_b 3.7508(1)
+_cell_length_c 7.5434(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.613(3)
+_cell_angle_gamma 90.
+_cell_volume 261.15
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+Li1+ 1
+Na1+ 1
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 e 0.820(2) 0.25 0.602(2) 2.0(3) 0.95 0
+Na1 Na1+ 2 e 0.820(2) 0.25 0.602(2) 2.0(3) 0.05 0
+Li2 Li1+ 2 e 0.412(2) 0.25 0.435(2) 2.0(3) 0.95 0
+Na2 Na1+ 2 e 0.412(2) 0.25 0.435(2) 2.0(3) 0.05 0
+Ti1 Ti4+ 2 e 0.9680(3) 0.25 0.1647(3) 0.47(2) 1. 0
+Ti2 Ti4+ 2 e 0.6610(2) 0.25 0.2674(3) 0.47(2) 1. 0
+Ti3 Ti4+ 2 e 0.2796(2) 0.25 0.0474(3) 0.47(2) 1. 0
+O1 O2- 2 e 0.1671(7) 0.25 0.2592(9) 0.49(6) 1. 0
+O2 O2- 2 e 0.4481(7) 0.25 0.1784(8) 0.49(6) 1. 0
+O3 O2- 2 e 0.6241(6) 0.25 0.4846(8) 0.49(6) 1. 0
+O4 O2- 2 e 0.8738(6) 0.25 0.3542(8) 0.49(6) 1. 0
+O5 O2- 2 e 0.7550(6) 0.25 0.0109(7) 0.49(6) 1. 0
+O6 O2- 2 e 0.3349(6) 0.25 0.7932(8) 0.49(6) 1. 0
+O7 O2- 2 e 0.0443(7) 0.25 0.9041(9) 0.49(6) 1. 0
+#End of TTdata_159316-ICSD

@@ -1,0 +1,116 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431369-ICSD
+_database_code_ICSD 431369
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Octalithium tetraphosphidosilicate'
+_chemical_formula_structural 'Li8 Si P4'
+_chemical_formula_sum 'Li8 P4 Si1'
+_exptl_crystal_density_diffrn 1.73
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+Lithium ion mobility in lithium phosphidosilicates: Crystal structure, 7Li,
+29Si, and 31P MAS NMR spectroscopy, and impedance spectroscopy of Li8SiP4 and
+Li2SiP2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2016 22 17635 17645 CEUJED
+loop_
+_publ_author_name
+'Toffoletti, Lorenzo'
+'Kirchhain, Holger'
+'Landesfeind, Johannes'
+'Klein, Wilhelm'
+'Wuellen, Leo van'
+'Gasteiger, Hubert A.'
+'Faessler, Thomas F.'
+_cell_length_a 11.67840(10)
+_cell_length_b 11.67840(10)
+_cell_length_c 11.67840(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1592.75
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P a -3'
+_symmetry_Int_Tables_number 205
+_refine_ls_R_factor_all 0.0213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, x+1/2, y'
+2 'z+1/2, x, -y+1/2'
+3 'z, -x+1/2, y+1/2'
+4 '-z, -x, -y'
+5 'y, -z+1/2, x+1/2'
+6 '-y+1/2, z+1/2, x'
+7 'y+1/2, z, -x+1/2'
+8 '-y, -z, -x'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x, -y, -z'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Si4+ 4
+P3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 c 0.37175(7) 0.37175(7) 0.37175(7) 0.0147(2) 1 0
+Li2 Li1+ 24 d 0.38574(8) 0.12786(8) 0.12398(8) 0.01418(14) 1 0
+Li3 Li1+ 24 d 0.36645(8) 0.36755(7) 0.12155(8) 0.01443(15) 1 0
+Li4 Li1+ 4 a 0. 0. 0. 0.0129(3) 1 0
+Li5 Li1+ 24 d 0.2532(5) 0.2543(5) -0.0049(5) 0.0145(9) 0.1667 0
+Si1 Si4+ 8 c 0.12965(2) 0.12965(2) 0.12965(2) 0.00514(3) 1 0
+P1 P3- 8 c 0.24049(2) 0.24049(2) 0.24049(2) 0.00590(2) 1 0
+P2 P3- 24 d 0.00981(2) 0.23859(2) 0.01790(2) 0.00663(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0147(2) 0.0147(2) 0.0147(2) -0.0009(3) -0.0009(3) -0.0009(3)
+Li2 Li1+ 0.0130(3) 0.0143(3) 0.0152(3) 0.0017(3) 0.0005(3) -0.0004(3)
+Li3 Li1+ 0.0140(3) 0.0124(3) 0.0169(4) -0.0014(3) 0.0034(3) 0.0038(3)
+Li4 Li1+ 0.0129(3) 0.0129(3) 0.0129(3) -0.0007(4) -0.0007(4) -0.0007(4)
+Li5 Li1+ 0.0125(17) 0.0149(19) 0.016(2) -0.0001(16) -0.0019(16) 0.0053(17)
+Si1 Si4+ 0.00514(3) 0.00514(3) 0.00514(3) -0.00061(2) -0.00061(2) -0.00061(2)
+P1 P3- 0.00590(2) 0.00590(2) 0.00590(2) -0.00075(2) -0.00075(2) -0.00075(2)
+P2 P3- 0.00742(3) 0.00538(3) 0.00708(3) 0.00056(2) -0.00077(2) 0.00047(2)
+#End of TTdata_431369-ICSD

@@ -1,0 +1,100 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_30521-ICSD
+_database_code_ICSD 30521
+_audit_creation_date 1980-12-31
+_audit_update_record 1999-01-19
+_chemical_name_systematic 'Lithium aluminium catena-disilicate'
+_chemical_formula_structural 'Li Al (Si2 O6)'
+_chemical_formula_sum 'Al1 Li1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Spodumene
+_exptl_crystal_density_diffrn 3.18
+_publ_section_title
+
+;
+On the estimation of atomic Charges by the x-ray method for some oxides and
+silicates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section A: Crystal Physics, Diffraction, Theoretical
+and General Crystallography
+; 1980 36 904 915 ACACBN
+loop_
+_publ_author_name
+'Sasaki, S.'
+'Fujino, K.'
+'Takeuchi, Y.'
+'Sadanaga, R.'
+_cell_length_a 9.461(2)
+_cell_length_b 8.395(1)
+_cell_length_c 5.217(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.09(3)
+_cell_angle_gamma 90.
+_cell_volume 389.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Li1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 e 0 0.90655(2) 0.25 . 1. 0
+Li1 Li1+ 4 e 0 0.27609(16) 0.25 . 1. 0
+Si1 Si4+ 8 f 0.29413(1) 0.09342(1) 0.25594(2) . 1. 0
+O1 O2- 8 f 0.10978(2) 0.08230(2) 0.14061(4) . 1. 0
+O2 O2- 8 f 0.36475(3) 0.26695(3) 0.30080(5) . 1. 0
+O3 O2- 8 f 0.35662(2) 0.98701(3) 0.05799(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Al1 Al3+ 0.0090(1) 0.0109(1) 0.0335(3) 0 0.0057(1) 0
+Li1 Li1+ 0.0375(12) 0.0405(14) 0.1233(41) 0 0.0220(17) 0
+Si1 Si4+ 0.0079(1) 0.0114(1) 0.0286(2) -.0016(1) 0.0051(1) -.0009(1)
+O1 O2- 0.0091(1) 0.0163(1) 0.0413(4) -.0010(1) 0.0048(2) 0.0007(2)
+O2 O2- 0.0203(2) 0.0160(2) 0.0843(6) -.0078(1) 0.0182(2) -.0052(2)
+O3 O2- 0.0142(1) 0.0320(2) 0.0445(4) 0.0016(1) 0.0070(2) -.0155(2)
+#End of TTdata_30521-ICSD

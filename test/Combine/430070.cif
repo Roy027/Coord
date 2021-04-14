@@ -1,0 +1,90 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430070-ICSD
+_database_code_ICSD 430070
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Lithium platinum sulfide (2/3/4)'
+_chemical_formula_structural 'Li2 Pt3 S4'
+_chemical_formula_sum 'Li2 Pt3 S4'
+_chemical_name_structure_type Li2Pt3S4
+_exptl_crystal_density_diffrn 8.41
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+High-pressure/high-temperature synthesis and characterization of the first
+palladium or platinum containing lithium transition-metal sulfides Li2M3S4
+(M=Pd, Pt)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 242 87 95 JSSCBI
+loop_
+_publ_author_name
+'Heymann, Gunter'
+'Niehaus, Oliver'
+'Krueger, Hannes'
+'Selter, Philipp'
+'Brunklaus, Gunther'
+'Poettgen, Rainer'
+_cell_length_a 4.9819(10)
+_cell_length_b 10.055(2)
+_cell_length_c 6.1298(12)
+_cell_angle_alpha 90
+_cell_angle_beta 110.76(3)
+_cell_angle_gamma 90
+_cell_volume 287.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0201
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt2+ 2
+S2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt2+ 4 e 0.26897(4) 0.37227(2) 0.02876(3) 0.00602(8) 1 0
+Pt2 Pt2+ 2 a 0. 0. 0. 0.00601(8) 1 0
+S1 S2- 4 e 0.0409(3) 0.30937(13) 0.2909(2) 0.0070(2) 1 0
+S2 S2- 4 e 0.4669(3) 0.05218(13) 0.2586(2) 0.0070(2) 1 0
+Li1 Li1+ 4 e 0.633(3) 0.3023(13) 0.489(2) 0.023(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt2+ 0.00564(10) 0.00709(11) 0.00520(10) -0.00051(6) 0.00176(7) 0.00007(5)
+Pt2 Pt2+ 0.00536(12) 0.00696(13) 0.00558(11) -0.00015(8) 0.00178(9) 0.00015(8)
+S1 S2- 0.0069(5) 0.0077(5) 0.0062(4) 0.0007(4) 0.0023(4) 0.0000(4)
+S2 S2- 0.0063(5) 0.0080(5) 0.0065(4) 0.0001(4) 0.0021(4) 0.0000(4)
+Li1 Li1+ 0.032(7) 0.018(5) 0.020(5) 0.001(5) 0.011(5) 0.001(4)
+#End of TTdata_430070-ICSD

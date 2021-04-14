@@ -1,0 +1,76 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_246025-ICSD
+_database_code_ICSD 246025
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Lithium iridate(IV)'
+_chemical_formula_structural 'Li2 (Ir O3)'
+_chemical_formula_sum 'Ir1 Li2 O3'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 7.62
+_publ_section_title
+'Structure and properties of ordered Li2 Ir O3 and Li2 Pt O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2008 181 1803 1809 JSSCBI
+loop_
+_publ_author_name
+'O'Malley, M.J.'
+'Verweij, H.'
+'Woodward, P.M.'
+_cell_length_a 5.1633(2)
+_cell_length_b 8.9294(3)
+_cell_length_c 5.1219(2)
+_cell_angle_alpha 90
+_cell_angle_beta 109.759(3)
+_cell_angle_gamma 90
+_cell_volume 222.24
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0382
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir4+ 4
+Li1+ 1
+Ir4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir4+ 4 g 0 0.3332(2) 0 0.39(4) 0.902(2) 0
+Li1 Li1+ 4 g 0 0.3332(2) 0 0.39(4) 0.098(2) 0
+Li2 Li1+ 2 a 0 0 0 0.39(4) 0.804(3) 0
+Ir2 Ir4+ 2 a 0 0 0 0.39(4) 0.196(3) 0
+Li3 Li1+ 4 h 0 0.809(6) 0.5 0.39(4) 1. 0
+Li4 Li1+ 2 d 0 0.5 0.5 0.39(4) 1. 0
+O1 O2- 8 j 0.252(4) 0.316(1) 0.759(2) 0.3 1. 0
+O2 O2- 4 i 0.256(5) 0 0.788(3) 0.3 1. 0
+#End of TTdata_246025-ICSD

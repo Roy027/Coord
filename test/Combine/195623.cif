@@ -1,0 +1,119 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195623-ICSD
+_database_code_ICSD 195623
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium lithium zirconium 15-oxohexasilicate'
+_chemical_formula_structural 'Na Li Zr (Si6 O15)'
+_chemical_formula_sum 'Li1 Na1 O15 Si6 Zr1'
+_chemical_name_mineral Zektzerite
+_exptl_crystal_density_diffrn 2.76
+_cell_measurement_temperature 973.
+_publ_section_title
+
+;
+A first-order phase transition in zektzerite, Na Li Zr Si6 O15:
+high-temperature single-crystal X-ray diffraction study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2015 42 747 759 PCMIDU
+loop_
+_publ_author_name
+'Shaikh, A.M.'
+'Ghose, Subrata'
+_cell_length_a 14.401(3)
+_cell_length_b 17.418(4)
+_cell_length_c 10.149(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2545.74
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Li1+ 1
+Zr4+ 4
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 e 0.25 0.21825(23) 0.25 . 0.94 0
+Na2 Na1+ 8 f 0 0.4099 0.2568 . 0.06 0
+Li1 Li1+ 8 d 0.2471(11) 0 0 . 1. 0
+Zr1 Zr4+ 8 e 0.25 -0.08681(3) 0.25 . 1. 0
+Si1 Si4+ 16 g 0.39186(7) 0.13050(6) 0.01706(10) . 1. 0
+Si2 Si4+ 16 g 0.39128(7) 0.07275(6) 0.31062(10) . 1. 0
+Si3 Si4+ 16 g 0.39151(8) 0.19190(6) 0.54218(10) . 1. 0
+O1 O2- 16 g 0.36886(31) 0.22115(18) -0.00213(40) . 1. 0
+O2 O2- 16 g 0.32892(22) 0.08092(18) -0.07910(29) . 1. 0
+O3 O2- 16 g 0.36558(30) 0.11158(23) 0.16970(32) . 1. 0
+O4 O2- 16 g 0.32934(22) -0.00050(19) 0.33919(31) . 1. 0
+O5 O2- 16 g 0.36425(28) 0.13978(20) 0.41509(36) . 1. 0
+O6 O2- 16 g 0.33075(25) 0.17147(19) 0.66763(31) . 1. 0
+O7 O2- 8 f 0.5 0.11530(36) -0.00879(61) . 1. 0
+O8 O2- 8 f 0.5 0.05506(35) 0.31872(62) . 1. 0
+O9 O2- 8 f 0.5 0.18392(38) 0.57226(62) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00856(30) 0.00228(12) 0.02225(81) 0. 0.00707(49) 0.
+Li1 Li1+ 0.0058(8) 0.0029(4) 0.0063(12) 0. 0. 0.0018(6)
+Zr1 Zr4+ 0.00150(2) 0.00099(1) 0.00246(4) 0. 0.00002(2) 0.
+Si1 Si4+ 0.00149(4) 0.00121(3) 0.00300(8) -0.00012(3) -0.00032(5) -0.00014(4)
+Si2 Si4+ 0.00151(4) 0.00124(3) 0.00291(8) -0.00026(3) -0.00004(5) -0.00015(4)
+Si3 Si4+ 0.00165(4) 0.00105(3) 0.00338(8) -0.00015(3) 0.00035(5) -0.00028(4)
+O1 O2- 0.00511(22) 0.00115(9) 0.00864(40) 0.00016(12) -0.00113(25) -0.00029(15)
+O2 O2- 0.00268(14) 0.00173(9) 0.00437(25) -0.00045(10) -0.00161(16) -0.00032(13)
+O3 O2- 0.00438(20) 0.00319(14) 0.00348(26) -0.00018(14) -0.00015(19) 0.00099(16)
+O4 O2- 0.00258(14) 0.00172(8) 0.00501(27) -0.00076(10) -0.00002(17) -0.00011(13)
+O5 O2- 0.00379(18) 0.00201(11) 0.00689(34) 0.00000(12) -0.00026(21) -0.00191(26)
+O6 O2- 0.00319(16) 0.00203(10) 0.00506(28) -0.00075(11) 0.00165(18) 0.00014(14)
+O7 O2- 0.00203(21) 0.00368(23) 0.00893(60) 0. 0. -0.00084(30)
+O8 O2- 0.00161(19) 0.00333(22) 0.01089(67) 0. 0. 0.00006(32)
+O9 O2- 0.00165(20) 0.00400(24) 0.00943(62) 0. 0. 0.00012(32)
+#End of TTdata_195623-ICSD

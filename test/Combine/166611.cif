@@ -1,0 +1,94 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_166611-ICSD
+_database_code_ICSD 166611
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Lithium iron(III) diphosphate(V)'
+_chemical_formula_structural 'Li Fe (P2 O7)'
+_chemical_formula_sum 'Fe1 Li1 O7 P2'
+_chemical_name_structure_type LiInP2O7
+_exptl_crystal_density_diffrn 3.08
+_publ_section_title
+'Synthesis and atomic structure of the new double pyrophosphate Li Fe P2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1985 284 864 867 DANKAS
+loop_
+_publ_author_name
+'Genkina, E.A.'
+'Maximov, B.A.'
+'Timofeeva, V.A.'
+'Bykov, A.B.'
+'Mel'nikov, O.K. (Melnikov, O.K.)'
+_cell_length_a 4.825(1)
+_cell_length_b 6.938(2)
+_cell_length_c 8.079(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 109.38(2)
+_cell_volume 255.13
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 1 21'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0.804(4) 0.337(2) 0.365(2) 1.92 1. 0
+Fe1 Fe3+ 2 a 0.7805(1) 0.2660(1) 0 0.33 1. 0
+P1 P5+ 2 a 0.6003(2) 0.4797(2) 0.6837(2) 0.34 1. 0
+P2 P5+ 2 a 0.2061(2) 0.0826(2) 0.7845(2) 0.38 1. 0
+O1 O2- 2 a 0.8661(8) 0.1198(5) 0.1953(5) 0.76 1. 0
+O2 O2- 2 a 0.5976(8) 0.3912(5) 0.1838(5) 0.77 1. 0
+O3 O2- 2 a 0.7519(7) 0.4886(5) 0.8506(4) 0.62 1. 0
+O4 O2- 2 a 0.3917(8) 0.0800(6) 0.9365(5) 0.82 1. 0
+O5 O2- 2 a 0.9377(8) 0.1405(6) 0.8255(5) 0.85 1. 0
+O6 O2- 2 a 0.1860(7) 0.4815(5) 0.0398(4) 0.65 1. 0
+O7 O2- 2 a 0.3972(8) 0.2465(5) 0.6549(4) 0.69 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ 0.0426 0.0127 0.0064 0.0198 -0.0149 -0.0013
+Fe1 Fe3+ 0.0037 0.0024 0.0014 0.0029 -0.0005 0.
+P1 P5+ 0.0044 0.0024 0.0013 0.0032 0. 0.0001
+P2 P5+ 0.004 0.0022 0.0018 0.0027 0.0007 -0.0004
+O1 O2- 0.0094 0.0037 0.0028 0.0017 -0.0011 0.0014
+O2 O2- 0.0116 0.0051 0.0031 0.011 -0.0012 -0.0008
+O3 O2- 0.0066 0.0053 0.0022 0.0045 -0.0017 0.0003
+O4 O2- 0.008 0.0068 0.0034 0.0033 -0.0031 0.0021
+O5 O2- 0.0068 0.0072 0.0039 0.0089 -0.0015 -0.0047
+O6 O2- 0.0082 0.0054 0.0019 0.0044 -0.0025 -0.0008
+O7 O2- 0.0112 0.0029 0.0022 -0.0016 -0.0008 0.0008
+#End of TTdata_166611-ICSD

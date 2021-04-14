@@ -1,0 +1,87 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83502-ICSD
+_database_code_ICSD 83502
+_audit_creation_date 1998-06-26
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Lithium hafnium phosphate(V) (0.86/2/3) - LT'
+_chemical_formula_structural 'Li0.86 Hf2 (P O4)3'
+_chemical_formula_sum 'Hf2 Li0.86 O12 P3'
+_exptl_crystal_density_diffrn 4.3
+_cell_measurement_temperature 175.
+_publ_section_title
+
+;
+Reversible triclinic-rhombohedral phase transition in Li Hf2 (P O4)3 : crystal
+structures from neutron powder diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1997 9 1678 1685 CMATEX
+loop_
+_publ_author_name
+'Losilla, E.R.'
+'Aranda, M.A.G.'
+'Martinez-Lara, M.'
+'Bruque, S.'
+_cell_length_a 15.2680(4)
+_cell_length_b 8.6946(3)
+_cell_length_c 9.0722(2)
+_cell_angle_alpha 89.323(2)
+_cell_angle_beta 123.740(2)
+_cell_angle_gamma 90.667(2)
+_cell_volume 1001.39
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf4+ 4
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf4+ 4 i 0.1042(6) 0.2427(9) 0.0632(7) 0.009(4) 1. 0
+Hf2 Hf4+ 4 i 0.8912(5) 0.2521(8) 0.4263(8) 0.009(4) 1. 0
+P1 P5+ 4 i -.0018(7) 0.0390(8) 0.2498(12) 0.009(4) 1. 0
+P2 P5+ 4 i 0.3567(6) 0.1096(8) 0.2580(11) 0.009(4) 1. 0
+P3 P5+ 4 i 0.6403(7) 0.1041(9) 0.2579(13) 0.009(4) 1. 0
+O1 O2- 4 i 0.1497(5) 0.4346(8) 0.2238(10) 0.009(4) 1. 0
+O2 O2- 4 i 0.8612(6) 0.4361(9) 0.2661(10) 0.009(4) 1. 0
+O3 O2- 4 i 0.4317(6) 0.4625(8) 0.0585(10) 0.009(4) 1. 0
+O4 O2- 4 i 0.5629(5) 0.4153(8) 0.385(1) 0.009(4) 1. 0
+O5 O2- 4 i 0.2544(6) 0.1646(8) 0.2368(12) 0.009(4) 1. 0
+O6 O2- 4 i 0.7363(5) 0.1960(9) 0.3100(9) 0.009(4) 1. 0
+O7 O2- 4 i 0.3622(6) 0.1705(8) 0.1086(10) 0.009(4) 1. 0
+O8 O2- 4 i 0.6184(5) 0.0953(7) 0.4027(10) 0.009(4) 1. 0
+O9 O2- 4 i 0.4481(6) 0.1751(9) 0.4401(11) 0.009(4) 1. 0
+O10 O2- 4 i 0.5470(6) 0.1803(8) 0.0922(11) 0.009(4) 1. 0
+O11 O2- 4 i 0.0713(6) 0.1665(8) 0.2536(10) 0.009(4) 1. 0
+O12 O2- 4 i -.0797(5) 0.1082(5) 0.2832(10) 0.009(4) 1. 0
+Li1 Li1+ 4 i 0.110(2) 0.347(3) 0.419(4) 0.018(6) 0.86 0
+#End of TTdata_83502-ICSD

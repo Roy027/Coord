@@ -1,0 +1,101 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_151232-ICSD
+_database_code_ICSD 151232
+_audit_creation_date 2006-10-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic 'Lithium formate hydrate'
+_chemical_formula_structural 'Li (H C O O) (H2 O)'
+_chemical_formula_sum 'C1 H3 Li1 O3'
+_chemical_name_structure_type LiHCOOH2O
+_exptl_crystal_density_diffrn 1.48
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Hydrogen bond studies. XCVI. X-N maps and ab initio MO-LCAO-SCF calculations
+of the difference electron density in non-centrosymmetric lithium formate
+monohydrate, Li H C O O * (H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 1946 1955 ACBCAR
+loop_
+_publ_author_name
+'Thomas, J.O.'
+'Tellgren, R.'
+'Almloef, J.'
+_cell_length_a 9.98436(2)
+_cell_length_b 6.49058(4)
+_cell_length_c 4.85227(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 314.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+H1- -1
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 a 0.0493(2) 0.1160(3) -0.2290(5) . 1. 0
+H1 H1- 4 a 0.2734(21) 0.1603(28) 0.3521(61) . 1. 0
+C1 C4+ 4 a 0.1954(1) 0.1123(2) 0.2540(3) . 1. 0
+O1 O2- 4 a 0.2080(1) 0.0999(2) 0 . 1. 0
+O2 O2- 4 a 0.0901(1) 0.0781(1) 0.3863(3) . 1. 0
+O3 O2- 4 a 0.4661(1) 0.1104(1) -0.1781(3) . 1. 0
+H2 H1+ 4 a 0.3948(23) 0.1048(27) -0.1489(68) . 1. 0
+H3 H1+ 4 a 0.4734(20) 0.0436(26) -0.3089(53) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ 0.0050(1) 0.0161(3) 0.0174(7) -0.0006(2) 0.0009(2) -0.0009(4)
+H1 H1- 0.0062(21) 0.0371(67) 0.0159(99) -0.0052(32) 0.0003(38) -0.0037(86)
+C1 C4+ 0.0045(1) 0.0173(2) 0.0196(3) -0.0008(1) -0.0009(1) -0.0008(2)
+O1 O2- 0.0047(1) 0.0277(3) 0.0190(3) 0.0001(1) 0.0011(1) -0.0002(2)
+O2 O2- 0.0059(1) 0.0188(2) 0.0188(3) -0.0020(1) 0.0020(1) -0.0025(2)
+O3 O2- 0.0052(1) 0.0161(1) 0.0255(3) -0.0002(1) 0.0016(1) -0.0006(2)
+H2 H1+ 0.0152(39) 0.0303(77) 0.1131(287) 0.0163(39) -0.0135(97) -0.0355(137)
+H3 H1+ 0.0057(23) 0.0279(69) 0.0320(148) 0.0000(28) 0.0066(43) -0.0105(78)
+#End of TTdata_151232-ICSD

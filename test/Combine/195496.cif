@@ -1,0 +1,79 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195496-ICSD
+_database_code_ICSD 195496
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Lithium-4.46 iron-0.54 hexaoxotellurate'
+_chemical_formula_structural 'Li4.46 Fe0.54 (Te O6)'
+_chemical_formula_sum 'Fe0.54 Li4.46 O6 Te1'
+_chemical_name_structure_type Na5ReO6
+_exptl_crystal_density_diffrn 4.24
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Interesting cationic (Li(+)/Fe(3+)/Te(6+)) variations in new rocksalt ordered
+structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Sciences (Berlin, Germany)' 2015 127 225 233 JCSBB5
+loop_
+_publ_author_name
+'Gupta, Akanksha'
+'Kumar, Vinod'
+'Uma, S.'
+_cell_length_a 5.1834(1)
+_cell_length_b 8.8858(2)
+_cell_length_c 5.16840(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.660(1)
+_cell_angle_gamma 90.
+_cell_volume 222.74
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te6+ 6
+Li1+ 1
+Fe3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te6+ 2 a 0 0 0 0.0204(5) 1. 0
+Li1 Li1+ 4 h 0 0.1945(16) 0.5 0.032(5) 1. 0
+Li2 Li1+ 2 d 0.5 0 0.5 0.025(7) 1. 0
+Li3 Li1+ 4 g 0 0.3284(4) 0 0.021(1) 0.731(1) 0
+Fe1 Fe3+ 4 g 0 0.3284(4) 0 0.021(1) 0.269(1) 0
+O1 O2- 4 i 0.2467(9) 0 0.7789(9) 0.016(1) 1. 0
+O2 O2- 8 j 0.2232(6) 0.1530(2) 0.2380(7) 0.025(1) 1. 0
+#End of TTdata_195496-ICSD

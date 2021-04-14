@@ -1,0 +1,86 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_405777-ICSD
+_database_code_ICSD 405777
+_audit_creation_date 1997-11-10
+_chemical_name_systematic 'Dilithium hexafluorotrioxoditantalate'
+_chemical_formula_structural 'Li2 (Ta2 O3 F6)'
+_chemical_formula_sum 'F6 Li2 O3 Ta2'
+_exptl_crystal_density_diffrn 4.74
+_publ_section_title 'Synthese und Struktur von Li2 Ta2 O3 F6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1997
+623 456 460 ZAACAB
+loop_
+_publ_author_name
+'Straehle, J.'
+'Kaskel, S.'
+_cell_length_a 5.5811(3)
+_cell_length_b 5.5811(3)
+_cell_length_c 20.9610(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 565.43
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+_refine_ls_R_factor_all 0.0206
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+2/3'
+2 '-x, -x+y, -z+1/3'
+3 'y, x, -z'
+4 '-x+y, -x, z+2/3'
+5 '-y, x-y, z+1/3'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+F1- -1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 6 c 0.21954(5) 0.33180(5) 0.287590(8) . 1. 0
+F1 F1- 6 c 0.3667(11) 0.1973(11) 0.21694(15) . 1. 0
+F2 F1- 6 c 0.3431(11) 0.6381(8) 0.2251(2) . 1. 0
+F3 F1- 6 c 0.1220(7) 0.2791(12) 0.0953(2) . 1. 0
+O1 O2- 6 c 0.0769(17) 0.4946(17) 0.3422(2) . 1. 0
+O2 O2- 3 a 0.1003(13) 0 0.3333 . 1. 0
+Li1 Li1+ 6 c 0.5485(29) 0.0073(32) 0.1917(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.00782(11) 0.00888(11) 0.00548(11) 0.00400(8) 0.00035(7) 0.00029(8)
+F1 F1- 0.027(2) 0.023(2) 0.013(2) 0.0190(15) 0.007(2) 0.003(2)
+F2 F1- 0.021(3) 0.018(2) 0.019(2) 0.007(2) 0.000(2) 0.0105(13)
+F3 F1- 0.016(2) 0.031(2) 0.022(2) 0.011(2) -.0083(14) -.005(2)
+O1 O2- 0.018(3) 0.016(2) 0.017(2) 0.013(2) 0.001(2) -.002(2)
+O2 O2- 0.017(3) 0.013(3) 0.021(3) 0.0064(15) 0.0030(12) 0.006(2)
+Li1 Li1+ 0.030(7) 0.034(7) 0.038(7) 0.020(6) 0.002(6) -.002(6)
+#End of TTdata_405777-ICSD

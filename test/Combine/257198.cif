@@ -1,0 +1,87 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257198-ICSD
+_database_code_ICSD 257198
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Lithium yttrium silicate oxide'
+_chemical_formula_structural 'Li Y9 (Si O4)6 O2'
+_chemical_formula_sum 'Li1 O26 Si6 Y9'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 4.57
+_publ_section_title
+
+;
+Site occupancies, luminescence, and thermometric properties of
+LiY9(SiO4)6O2:Ce3+ phosphors
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 10415 10424 INOCAJ
+loop_
+_publ_author_name
+'Zhou, Weijie'
+'Pan, Fengjuan'
+'Zhou, Lei'
+'Hou, Dejian'
+'Huang, Yan'
+'Tao, Ye'
+'Liang, Hongbin'
+_cell_length_a 9.3287(1)
+_cell_length_b 9.3287(1)
+_cell_length_c 6.7134(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 505.96
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0382
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Li1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 6 h 0.2322(2) 0.2381(2) 0.25 1.09(2) 1. 0
+Y2 Y3+ 4 f 0.3333 0.6667 0.4951(6) 1.54(4) 0.75 0
+Li1 Li1+ 4 f 0.3333 0.6667 0.4951(6) 1.54(4) 0.25 0
+Si1 Si4+ 6 h 0.4003(3) 0.0293(3) 0.25 1.09(6) 1. 0
+O1 O2- 2 a 0 0 0.25 2.00(3) 1. 0
+O2 O2- 6 h 0.5959(9) 0.1252(8) 0.25 1.09(6) 1. 0
+O3 O2- 6 h 0.3195(7) -0.1748(8) 0.25 1.09(6) 1. 0
+O4 O2- 12 i 0.3418(4) 0.0871(4) 0.0625(6) 2.00(14) 1. 0
+#End of TTdata_257198-ICSD

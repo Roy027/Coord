@@ -1,0 +1,99 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82382-ICSD
+_database_code_ICSD 82382
+_audit_creation_date 1997-11-10
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Lithium dicobalt triphosphate(V)'
+_chemical_formula_structural 'Li Co2 (P3 O10)'
+_chemical_formula_sum 'Co2 Li1 O10 P3'
+_chemical_name_structure_type LiCo2P3O10
+_exptl_crystal_density_diffrn 3.49
+_cell_measurement_temperature 298.
+_publ_section_title
+'Lithium dicobalt tripolyphosphate and lithium dinickel tripolyphosphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1996 52 1867 1869 ACSCEE
+loop_
+_publ_author_name
+'Erragh, F.'
+'Boukhari, A.'
+'Holt, E.M.'
+_cell_length_a 4.655(2)
+_cell_length_b 8.565(3)
+_cell_length_c 9.103(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.80(1)
+_cell_angle_gamma 90.
+_cell_volume 359.58
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 f 0.0379(1) 0.0671(1) 0.3346(1) . 1. 0
+P1 P5+ 2 e 0.4616(3) 0.25 0.1433(2) . 1. 0
+P2 P5+ 2 e 0.3325(3) 0.25 0.8227(2) . 1. 0
+P3 P5+ 2 e 0.6030(3) 0.25 0.5361(3) . 1. 0
+O1 O2- 4 f 0.2861(6) 0.1012(4) 0.1564(3) . 1. 0
+O2 O2- 2 e 0.7615(9) 0.25 0.2385(4) . 1. 0
+O3 O2- 2 e 0.5657(9) 0.25 0.7111(4) . 1. 0
+O4 O2- 2 e 0.5567(9) 0.25 0.9743(4) . 1. 0
+O5 O2- 4 f 0.1596(7) 0.1006(4) 0.8140(3) . 1. 0
+O6 O2- 4 f 0.7733(6) 0.1002(4) 0.5151(1) . 1. 0
+O7 O2- 2 e 0.3001(9) 0.25 0.4465(4) . 1. 0
+Li1 Li1+ 2 a 0 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.024(1) 0.025(1) 0.022(1) 0.000(1) 0.003(1) 0.000(1)
+P1 P5+ 0.021(1) 0.025(1) 0.020(1) 0 0.002(1) 0
+P2 P5+ 0.023(1) 0.025(1) 0.021(1) 0 0.002(1) 0
+P3 P5+ 0.022(1) 0.025(1) 0.021(1) 0 0.003(1) 0
+O1 O2- 0.026(2) 0.031(2) 0.025(1) -.002(1) 0.004(1) -.002(1)
+O2 O2- 0.024(2) 0.026(3) 0.026(2) 0 0.001(1) 0
+O3 O2- 0.028(2) 0.037(3) 0.018(2) 0 0.002(2) 0
+O4 O2- 0.021(2) 0.032(3) 0.020(2) 0 0.003(2) 0
+O5 O2- 0.027(2) 0.031(2) 0.029(2) -.003(1) 0.004(1) -.002(1)
+O6 O2- 0.024(1) 0.027(2) 0.024(1) 0.002(1) 0.002(1) 0.002(1)
+O7 O2- 0.022(2) 0.024(2) 0.027(2) 0 0.002(2) 0
+Li1 Li1+ 0.059(8) 0.047(9) 0.036(6) -.013(8) 0.013(6) -.007(6)
+#End of TTdata_82382-ICSD

@@ -1,0 +1,138 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410709-ICSD
+_database_code_ICSD 410709
+_audit_creation_date 1999-11-30
+_audit_update_record 2013-02-01
+_chemical_name_systematic
+'Barium cobalt lithium sodium fluoride (1.24/.76/1.24/.76/6)'
+_chemical_formula_structural 'Ba1.24 Co0.76 Li1.24 Na0.76 F6'
+_chemical_formula_sum 'Ba1.24 Co0.76 F6 Li1.24 Na0.76'
+_exptl_crystal_density_diffrn 4.58
+_publ_section_title
+
+;
+Kristallstrukturuntersuchungen an Alkali- und Barium-Ubeergangsmetallfluoriden
+Rb K2 Mn2 F7, Ba Ni F4 und einer 5:3-Phase im System Ba Li F3 / Na Co F3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1999
+625 1255 1260 ZAACAB
+loop_
+_publ_author_name
+'Welsch, M.'
+'Kummer-Doerner, S.'
+'Peschel, B.'
+'Babel, D.'
+_cell_length_a 8.018(1)
+_cell_length_b 8.018(1)
+_cell_length_c 8.018(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 515.46
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I m -3'
+_symmetry_Int_Tables_number 204
+_refine_ls_R_factor_all 0.0343
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, x, y'
+2 'z, x, -y'
+3 'z, -x, y'
+4 '-z, -x, -y'
+5 'y, -z, x'
+6 '-y, z, x'
+7 'y, z, -x'
+8 '-y, -z, -x'
+9 'x, y, -z'
+10 'x, -y, z'
+11 '-x, y, z'
+12 '-x, -y, -z'
+13 'z, -x, -y'
+14 '-z, -x, y'
+15 '-z, x, -y'
+16 'z, x, y'
+17 '-y, z, -x'
+18 'y, -z, -x'
+19 '-y, -z, x'
+20 'y, z, x'
+21 '-x, -y, z'
+22 '-x, y, -z'
+23 'x, -y, -z'
+24 'x, y, z'
+25 '-z+1/2, x+1/2, y+1/2'
+26 'z+1/2, x+1/2, -y+1/2'
+27 'z+1/2, -x+1/2, y+1/2'
+28 '-z+1/2, -x+1/2, -y+1/2'
+29 'y+1/2, -z+1/2, x+1/2'
+30 '-y+1/2, z+1/2, x+1/2'
+31 'y+1/2, z+1/2, -x+1/2'
+32 '-y+1/2, -z+1/2, -x+1/2'
+33 'x+1/2, y+1/2, -z+1/2'
+34 'x+1/2, -y+1/2, z+1/2'
+35 '-x+1/2, y+1/2, z+1/2'
+36 '-x+1/2, -y+1/2, -z+1/2'
+37 'z+1/2, -x+1/2, -y+1/2'
+38 '-z+1/2, -x+1/2, y+1/2'
+39 '-z+1/2, x+1/2, -y+1/2'
+40 'z+1/2, x+1/2, y+1/2'
+41 '-y+1/2, z+1/2, -x+1/2'
+42 'y+1/2, -z+1/2, -x+1/2'
+43 '-y+1/2, -z+1/2, x+1/2'
+44 'y+1/2, z+1/2, x+1/2'
+45 '-x+1/2, -y+1/2, z+1/2'
+46 '-x+1/2, y+1/2, -z+1/2'
+47 'x+1/2, -y+1/2, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Na1+ 1
+Li1+ 1
+Co2+ 2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0 0 0 0.0145(4) 1. 0
+Ba2 Ba2+ 6 b 0 0.5 0.5 . 0.49 0
+Na1 Na1+ 6 b 0 0.5 0.5 . 0.25 0
+Na2 Na1+ 12 e 0 0.573(5) 0.5 0.027(8) 0.13 0
+Li1 Li1+ 8 c 0.25 0.25 0.25 . 0.62 0
+Co1 Co2+ 8 c 0.25 0.25 0.25 . 0.38 0
+F1 F1- 24 g 0 0.1947(8) 0.2900(8) . 0.5 0
+F2 F1- 24 g 0 0.25 0.25 . 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba2 Ba2+ 0.0173(6) 0.0215(13) 0.0172(11) 0 0 0
+Na1 Na1+ 0.0173(6) 0.0215(13) 0.0172(11) 0 0 0
+Li1 Li1+ 0.0306(13) 0.0306(13) 0.0306(13) -.0015(4) -.0015(4) -.0015(4)
+Co1 Co2+ 0.0306(13) 0.0306(13) 0.0306(13) -.0015(4) -.0015(4) -.0015(4)
+F1 F1- 0.016(3) 0.024(3) 0.0185(19) 0 0 -.004(3)
+F2 F1- 0.023 0.045 0.001 0 0 0.001
+#End of TTdata_410709-ICSD

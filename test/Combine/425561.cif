@@ -1,0 +1,120 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_425561-ICSD
+_database_code_ICSD 425561
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Lithium europium borate (6/0.966/3)'
+_chemical_formula_structural 'Li6 Eu0.966 (B O3)3'
+_chemical_formula_sum 'B3 Eu0.966 Li6 O9'
+_chemical_name_structure_type Li6HoB3O9
+_exptl_crystal_density_diffrn 3.08
+_cell_measurement_temperature 673.
+_publ_section_title
+
+;
+Growth and spectroscopic properties of (6)Li- and (10)B-enriched crystals for
+heat-scintillation cryogenic bolometers used in the rare events searches
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary CrystEngComm 2013 15 3785 3792 CRECF4
+loop_
+_publ_author_name
+'Rekia Belhoucif'
+'Matias Velazquez'
+'Yannick Petit'
+'Olivier Perez'
+'BenoÅ’t Glorieux'
+'Oudomsack Viraphong'
+'Pierre de Marcillac'
+'Noâ€°l Coron'
+'Lidia Torres'
+'Emmanuel Veron'
+'AbdelHamid Kellou'
+'Philippe Veber'
+'Rodolphe Decourt'
+'Hassan El Hafid'
+_cell_length_a 7.2669(2)
+_cell_length_b 16.6535(4)
+_cell_length_c 6.7450(2)
+_cell_angle_alpha 90
+_cell_angle_beta 105.5337(7)
+_cell_angle_gamma 90
+_cell_volume 786.46
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0168
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+O2- -2
+B3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 4 e 0.57891(2) 0.310313(11) 0.15454(3) 0.01239(8) 0.9657 0
+O1 O2- 4 e 0.7776(4) 0.43200(18) 0.2343(4) 0.0227(9) 1 0
+O2 O2- 4 e 0.9235(4) 0.30490(18) 0.2790(6) 0.0259(11) 1 0
+O3 O2- 4 e 0.2366(4) 0.29970(18) 0.0504(5) 0.0230(10) 1 0
+O4 O2- 4 e 0.3741(4) 0.42741(19) 0.0441(5) 0.0281(10) 1 0
+O5 O2- 4 e 0.6498(4) 0.31722(17) -0.1664(4) 0.0203(9) 1 0
+O6 O2- 4 e 0.5046(4) 0.32540(18) 0.4762(4) 0.0219(10) 1 0
+O7 O2- 4 e 0.0354(4) 0.4124(2) -0.0899(5) 0.0272(11) 1 0
+O8 O2- 4 e 1.1049(4) 0.4227(2) 0.4222(5) 0.0265(10) 1 0
+O9 O2- 4 e 0.5827(4) 0.4460(2) -0.3267(4) 0.0264(11) 1 0
+B1 B3+ 4 e 0.9393(6) 0.3863(3) 0.3154(7) 0.0169(14) 1 0
+B2 B3+ 4 e 0.2108(6) 0.3805(3) -0.0032(7) 0.0184(14) 1 0
+B3 B3+ 4 e 0.5813(6) 0.3651(3) -0.3393(6) 0.0154(13) 1 0
+Li1 Li1+ 4 e 0.0426(13) 0.4692(6) -0.3297(14) 0.042(2) 1 0
+Li2 Li1+ 4 e -0.1925(13) 0.4621(6) -0.0577(14) 0.041(2) 1 0
+Li3 Li1+ 4 e 0.9401(13) 0.2048(6) 0.4484(14) 0.037(2) 1 0
+Li4 Li1+ 4 e 1.3599(13) 0.4509(6) 0.4126(14) 0.041(2) 1 0
+Li5 Li1+ 4 e 0.5731(11) 0.5034(6) 0.1761(12) 0.0332(18) 1 0
+Li6 Li1+ 4 e 0.2124(13) 0.2044(6) -0.1261(15) 0.037(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu3+ 0.01313(11) 0.01151(14) 0.01255(12) 0.00016(7) 0.00345(8) 0.00033(7)
+O1 O2- 0.0173(12) 0.0156(16) 0.0335(16) 0.0015(11) 0.0036(12) 0.0008(12)
+O2 O2- 0.0202(14) 0.0179(19) 0.0374(18) -0.0001(12) 0.0036(13) 0.0022(13)
+O3 O2- 0.0157(13) 0.0159(17) 0.0346(18) -0.0010(11) 0.0019(12) -0.0013(12)
+O4 O2- 0.0198(13) 0.0175(17) 0.0442(19) -0.0029(12) 0.0035(13) 0.0032(14)
+O5 O2- 0.0241(14) 0.0193(17) 0.0158(14) 0.0023(11) 0.0026(11) 0.0036(11)
+O6 O2- 0.0255(14) 0.0247(18) 0.0146(14) -0.0009(12) 0.0036(12) -0.0018(11)
+O7 O2- 0.0176(13) 0.032(2) 0.0310(17) 0.0061(12) 0.0056(12) 0.0090(13)
+O8 O2- 0.0178(13) 0.0301(19) 0.0289(16) -0.0042(12) 0.0018(12) -0.0051(13)
+O9 O2- 0.0357(17) 0.0140(18) 0.0286(17) 0.0001(12) 0.0073(14) 0.0009(11)
+B1 B3+ 0.0162(19) 0.014(3) 0.020(2) 0.0004(15) 0.0040(17) 0.0010(15)
+B2 B3+ 0.019(2) 0.017(3) 0.020(2) 0.0012(16) 0.0061(17) -0.0015(16)
+B3 B3+ 0.0162(18) 0.015(3) 0.015(2) 0.0006(16) 0.0042(16) 0.0022(15)
+#End of TTdata_425561-ICSD

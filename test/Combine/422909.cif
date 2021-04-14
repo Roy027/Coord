@@ -1,0 +1,95 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_422909-ICSD
+_database_code_ICSD 422909
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Lithium gold bis(disulfate)'
+_chemical_formula_structural 'Li (Au (S2 O7)2)'
+_chemical_formula_sum 'Au1 Li1 O14 S4'
+_exptl_crystal_density_diffrn 3.45
+_cell_measurement_temperature 153.
+_publ_section_title
+
+;
+The unique bis-(disulfato)-aurate anion [Au (S2 O7)2]-: synthesis and
+characterization of Li [Au (S2 O7)2] and Na [Au (S2 O7)2]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2011 50 11111 11116 INOCAJ
+loop_
+_publ_author_name
+'Logemann, C.'
+'Wickleder, M.S.'
+_cell_length_a 5.3220(3)
+_cell_length_b 6.4969(4)
+_cell_length_c 8.3672(5)
+_cell_angle_alpha 107.982(2)
+_cell_angle_beta 90.171(2)
+_cell_angle_gamma 102.583(2)
+_cell_volume 267.8
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0202
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+S6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 1 h 0.5 0.5 0.5 0.00901(3) 1 0
+S1 S6+ 2 i 0.05438(8) 0.25971(8) 0.23401(6) 0.00986(6) 1 0
+S2 S6+ 2 i 0.33800(10) 0.69340(8) 0.24196(6) 0.01190(7) 1 0
+O1 O2- 2 i 0.1413(3) 0.3397(3) 0.42037(19) 0.0134(2) 1 0
+O2 O2- 2 i 0.5441(3) 0.5931(3) 0.2959(2) 0.0135(2) 1 0
+O3 O2- 2 i -0.2164(3) 0.1724(3) 0.2174(2) 0.0141(2) 1 0
+O4 O2- 2 i 0.2162(3) 0.1339(3) 0.1348(2) 0.0175(3) 1 0
+O5 O2- 2 i 0.4050(4) 0.7331(3) 0.0883(2) 0.0158(2) 1 0
+O6 O2- 2 i 0.0848(3) 0.4848(3) 0.1864(3) 0.0200(3) 1 0
+O7 O2- 2 i 0.2649(4) 0.8576(4) 0.3762(2) 0.0223(3) 1 0
+Li1 Li1+ 1 d 0.5 1. 0. 0.0168(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au3+ 0.00873(4) 0.01041(5) 0.00838(4) 0.00198(3) 0.00065(2) 0.00381(2)
+S1 S6+ 0.00838(14) 0.01093(16) 0.01056(14) 0.00146(12) 0.00047(12) 0.00433(12)
+S2 S6+ 0.01332(16) 0.01139(17) 0.01233(16) 0.00185(14) 0.00136(13) 0.00632(12)
+O1 O2- 0.0105(5) 0.0180(6) 0.0103(5) 0.0004(4) 0.0000(4) 0.0043(4)
+O2 O2- 0.0114(5) 0.0181(6) 0.0132(5) 0.0022(5) 0.0009(4) 0.0090(4)
+O3 O2- 0.0094(5) 0.0169(6) 0.0157(5) 0.0008(4) 0.0000(4) 0.0064(4)
+O4 O2- 0.0142(6) 0.0188(7) 0.0166(6) 0.0052(5) 0.0041(5) 0.0005(5)
+O5 O2- 0.0198(6) 0.0163(6) 0.0138(5) 0.0025(5) 0.0021(5) 0.0092(5)
+O6 O2- 0.0142(6) 0.0177(7) 0.0318(9) -0.0025(5) -0.0066(6) 0.0174(6)
+O7 O2- 0.0300(9) 0.0210(8) 0.0184(7) 0.0112(7) 0.0068(6) 0.0063(6)
+Li1 Li1+ 0.018(2) 0.018(3) 0.017(2) 0.006(2) 0.004(2) 0.009(2)
+#End of TTdata_422909-ICSD

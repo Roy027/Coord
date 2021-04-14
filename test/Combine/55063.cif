@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_55063-ICSD
+_database_code_ICSD 55063
+_audit_creation_date 2003-04-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Amminelithium bromide'
+_chemical_formula_structural '(Li (N H3)) Br'
+_chemical_formula_sum 'H3 Br1 Li1 N1'
+_exptl_crystal_density_diffrn 2.04
+_publ_section_title
+
+;
+Synthese und Kristallstruktur der Monoammoniakate von Lithiumhalogeniden: Li
+Br * (N H3) und Li I * (N H3)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2004
+630 167 170 ZAACAB
+loop_
+_publ_author_name
+'Jacobs, H.'
+'Friedriszik, M.W.'
+_cell_length_a 7.077(2)
+_cell_length_b 7.026(2)
+_cell_length_c 7.490(2)
+_cell_angle_alpha 90
+_cell_angle_beta 114.84(3)
+_cell_angle_gamma 90
+_cell_volume 337.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.076
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Br1- -1
+N3- -3
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Br1 Br1- 4 e 0.2614(4) 0.1485(3) 0.5986(4) 2.83(4) 1. 0
+N1 N3- 4 e 0.755(3) 0.356(3) 0.594(3) 3.6(4) 1. 0
+Li1 Li1+ 4 e 0.873(6) 0.188(5) 0.438(7) 4.(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Br1 Br1- .0389(8) .0168(6) .0401(8) -.003(1) .0049(7) -.002(1)
+N1 N3- .060(9) .017(7) .062(9) .000(5) .028(7) .000(1)
+Li1 Li1+ .040(20) .002(10) .080(30) .000(10) .020(20) .000(10)
+#End of TTdata_55063-ICSD

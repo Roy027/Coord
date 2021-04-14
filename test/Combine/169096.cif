@@ -1,0 +1,80 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_169096-ICSD
+_database_code_ICSD 169096
+_audit_creation_date 2011-02-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Dilithium bis(molybdenum dioxide) pyrophosphate'
+_chemical_formula_structural 'Li2 (Mo O2)2 (P2 O7)'
+_chemical_formula_sum 'Li2 Mo2 O11 P2'
+_exptl_crystal_density_diffrn 3.55
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Structural and mechanistic studies of the dehydration of Mo O2 P O3 O H * (H2
+O) and the in situ identification of two new molybdenum phosphates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2010 22 5279 5289 CMATEX
+loop_
+_publ_author_name
+'Lister, S.E.'
+'Rixom, V.J.'
+'Evans, J.S.O'
+_cell_length_a 17.3171(38)
+_cell_length_b 3.73005(78)
+_cell_length_c 6.4173(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 414.52
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.0183
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo5+ 5
+O2- -2
+P5+ 5
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo5+ 4 a 0.37177(21) 0 0 0.05(18) 1 0
+O1 O2- 4 a 0.3820(11) 0.5 0 0.05(18) 1 0
+O2 O2- 4 a 0.49516(43) 0 0 0.05(18) 1 0
+O3 O2- 8 c 0.37480(47) 0.0497(38) 0.32153(74) 0.05(18) 1 0
+O4 O2- 4 a 0.27280(56) 0 0 0.05(18) 1 0
+O5 O2- 4 a 0.5977(19) 0.5 0 0.05(18) 0.5 0
+P1 P5+ 8 c 0.58009(31) 0.1054(18) -0.0050(50) 0.05(18) 0.5 0
+Li1 Li1+ 8 c 0.75 0 0.157 0.05(18) 0.5 0
+#End of TTdata_169096-ICSD

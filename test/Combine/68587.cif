@@ -1,0 +1,133 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68587-ICSD
+_database_code_ICSD 68587
+_audit_creation_date 1991-07-10
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Lithium aluminium tecto-silicate hydrate *'
+_chemical_formula_structural 'Li1.86 Al2 (Si3.95 O12) (H2 O)2'
+_chemical_formula_sum 'H4 Al2 Li1.86 O14 Si3.95'
+_chemical_name_structure_type Bikitaite-1A-frame
+_chemical_name_mineral 'Bikitaite 1A'
+_exptl_crystal_density_diffrn 2.29
+_cell_measurement_temperature 13.
+_publ_section_title
+
+;
+Onedimensional water chain in the zeolite bikitaite: neutron diffraction study
+at 13 and 295 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Zeolites 1989 9 303 311 ZEOLD3
+loop_
+_publ_author_name
+'Stahl, K.'
+'Kvick, A.'
+'Ghose, S.'
+_cell_length_a 8.5971(9)
+_cell_length_b 4.9395(4)
+_cell_length_c 7.6121(7)
+_cell_angle_alpha 89.850(7)
+_cell_angle_beta 114.520(7)
+_cell_angle_gamma 90.004(7)
+_cell_volume 294.1
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+Si4+ 4
+O2- -2
+Li1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 1 a 0.1062(3) 0.8651(4) 0.0979(3) . 0.974(14) 0
+Si2 Si4+ 1 a 0.1038 0.8006 0.5049 . 1. 0
+Al1 Al3+ 1 a 0.3801(3) 0.8778(5) 0.9377(3) . 1. 0
+Al2 Al3+ 1 a 0.8991(3) 0.3650(5) 0.9073(3) . 1. 0
+Si3 Si4+ 1 a 0.8917(2) 0.2991(4) 0.4878(3) . 0.983(13) 0
+Si4 Si4+ 1 a 0.6195(3) 0.3773(4) 0.0637(3) . 0.985(13) 0
+O1 O2- 1 a 0.2646(2) 0.7397(4) 0.0569(3) . 1. 0
+O2 O2- 1 a 0.0847(2) 0.1883(4) 0.0441(3) . 1. 0
+O3 O2- 1 a 0.1591(2) 0.8250(4) 0.3277(3) . 1. 0
+O4 O2- 1 a 0.0591(2) 0.4842(4) 0.5208(3) . 1. 0
+O5 O2- 1 a 0.2594(2) 0.9007(4) 0.6946(3) . 1. 0
+O6 O2- 1 a 0.4508(2) 0.1960(4) 0.0324(3) . 1. 0
+O7 O2- 1 a 0.7314(2) 0.2426(4) 0.9562(3) . 1. 0
+O8 O2- 1 a 0.9275(2) 0.7050(4) 0.9695(3) . 1. 0
+O9 O2- 1 a 0.8410(2) 0.3246(4) 0.6658(3) . 1. 0
+O10 O2- 1 a 0.9344(2) 0.9843(4) 0.4618(3) . 1. 0
+O11 O2- 1 a 0.7339(2) 0.4016(4) 0.2970(3) . 1. 0
+O12 O2- 1 a 0.5589(2) 0.6823(4) 0.9778(3) . 1. 0
+Li1 Li1+ 1 a 0.3117(5) 0.3667(8) 0.1506(6) . 0.932(29) 0
+Li2 Li1+ 1 a 0.6977(5) 0.8692(9) 0.8691(6) . 0.926(29) 0
+O13 O2- 1 a 0.4084(3) 0.3260(4) 0.4392(3) . 1. 0
+H1 H1+ 1 a 0.3194(5) 0.2991(9) 0.4825(6) . 1. 0
+H2 H1+ 1 a 0.4837(5) 0.1717(7) 0.4895(5) . 1. 0
+O14 O2- 1 a 0.5988(2) 0.8253(4) 0.5830(3) . 1. 0
+H3 H1+ 1 a 0.6881(5) 0.8004(9) 0.5397(6) . 1. 0
+H4 H1+ 1 a 0.5252(5) 0.6691(72) 0.5330(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Si1 Si4+ 0.0006(2) 0.0009(6) 0.0003(3) -.0004(2) 0.0001(2) 0.0004(2)
+Si2 Si4+ 0.0008(2) 0.0012(6) 0.0006(3) -.0005(2) 0.0002(2) -.0006(3)
+Al1 Al3+ 0.0006(3) 0.0014(6) 0.0008(3) -.0005(3) 0.0001(2) -.0002(3)
+Al2 Al3+ 0.0006(2) 0.0006(6) 0.0013(3) 0.0(30) 0.0006(2) 0.0(30)
+Si3 Si4+ 0.0006(2) 0.0004(6) 0.0010(3) -.0004(2) 0.0003(2) -.0003(2)
+Si4 Si4+ 0.0009(2) 0.0014(6) 0.0004(3) -.0001(2) 0.0005(2) 0.0003(3)
+O1 O2- 0.0012(1) 0.0021(3) 0.0022(2) 0.0(20) 0.0004(1) -.0001(2)
+O2 O2- 0.0015(1) 0.0034(4) 0.0023(2) -.0012(2) 0.0009(1) -.0006(2)
+O3 O2- 0.0019(1) 0.0046(6) 0.0016(2) -.0005(2) 0.0008(1) -.0001(2)
+O4 O2- 0.0017(1) 0.0014(4) 0.0049(2) -.0004(2) 0.0016(1) 0.0001(2)
+O5 O2- 0.0019(1) 0.0035(4) 0.0014(2) -.0002(2) 0.0005(1) 0.0002(2)
+O6 O2- 0.0015(1) 0.0031(4) 0.0020(2) 0.0001(2) 0.0010(1) 0.0002(2)
+O7 O2- 0.0014(1) 0.0017(3) 0.0024(2) -.0003(2) 0.0006(1) -.0002(2)
+O8 O2- 0.0015(1) 0.0031(4) 0.0023(2) 0.0005(2) 0.0008(1) 0.0003(2)
+O9 O2- 0.0017(1) 0.0053(4) 0.0014(2) -.0002(2) 0.0006(1) -.0001(2)
+O10 O2- 0.0016(1) 0.0015(4) 0.0048(2) -.0001(2) 0.0014(1) -.0003(2)
+O11 O2- 0.0017(1) 0.0034(4) 0.0012(2) -.0001(2) 0.0002(1) 0.0001(2)
+O12 O2- 0.0015(1) 0.0025(4) 0.0023(2) -.0008(2) 0.0011(1) -.0006(2)
+Li1 Li1+ 0.0032(6) 0.0025(14) 0.0057(8) -.0015(6) 0.0032(5) -.0010(7)
+Li2 Li1+ 0.0018(6) 0.0040(14) 0.0044(8) -.0008(6) 0.0012(5) 0.0005(7)
+O13 O2- 0.0028(2) 0.0048(4) 0.0041(2) -.0006(2) 0.0013(1) 0.0(20)
+H1 H1+ 0.0084(4) 0.0318(15) 0.0145(6) -.0027(6) 0.0078(5) 0.0012(8)
+H2 H1+ 0.0091(50) 0.0171(11) 0.0112(5) 0.0064(6) 0.0021(4) 0.0042(6)
+O14 O2- 0.0024(2) 0.0050(4) 0.0044(2) -.0003(2) 0.0013(2) 0.0(20)
+H3 H1+ 0.0071(4) 0.0374(17) 0.0151(7) 0.0008(6) 0.0070(5) -.0023(8)
+H4 H1+ 0.0093(5) 0.0178(11) 0.0118(6) -.0062(6) 0.0035(4) -.0032(6)
+#End of TTdata_68587-ICSD

@@ -1,0 +1,85 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156989-ICSD
+_database_code_ICSD 156989
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Lithium yttrium ditungstate'
+_chemical_formula_structural 'Li Y (W2 O8)'
+_chemical_formula_sum 'Li1 O8 W2 Y1'
+_exptl_crystal_density_diffrn 6.81
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structures and low temperature cofiring ceramic property of (1-x)((Li,
+RE) W2 O8) - x(Ba W O4) ceramics (RE = Y, Yb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Japanese Journal of Applied Physics, Part 1: Regular Papers, Brief
+Communications & Review Papers
+; 2006 45 7397 7400 JAPNDE
+loop_
+_publ_author_name
+'Kim Jeong Seog'
+'Lee Jong Cheol'
+'Cheon Chae Il'
+'Kang Hyun-Ju'
+_cell_length_a 9.9815(5)
+_cell_length_b 5.7913(3)
+_cell_length_c 5.0058(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.2158(2)
+_cell_angle_gamma 90.
+_cell_volume 288.58
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2 1'
+_symmetry_Int_Tables_number 3
+_refine_ls_R_factor_all 0.0363
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Y3+ 3
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 1 a 0 0.3754(0) 0 0.3 1.22(10) 0
+Li2 Li1+ 1 d 0.5 0.8667(12) 0.5 0.3 0.74(10) 0
+Y1 Y3+ 1 b 0 0.7898(62) 0.5 0.01(22) 1. 0
+Y2 Y3+ 1 c 0.5 0.3929(59) 0 0.95(27) 1. 0
+W1 W6+ 2 e 0.2406(12) 0.2737(67) 0.4938(25) -0.21(10) 1. 0
+W2 W6+ 2 e 0.7262(12) 0.9098(65) -0.0044(21) -0.21(10) 1. 0
+O1 O2- 2 e 0.1416(8) 0.1457(67) 0.7930(20) 0.34(4) 1. 0
+O2 O2- 2 e 0.1533(10) 0.9552(64) 0.3040(20) 0.34(4) 1. 0
+O3 O2- 2 e 0.8891(10) 0.4448(59) 0.6516(24) 0.34(4) 1. 0
+O4 O2- 2 e 0.1366(1) 0.7055(65) 0.8581(30) 0.34(4) 1. 0
+O5 O2- 2 e 0.6534(11) 0.1766(62) 0.7939(24) 0.34(4) 1. 0
+O6 O2- 2 e 0.6267(8) 0.9895(64) 0.2646(19) 0.34(4) 1. 0
+O7 O2- 2 e 0.6504(10) 0.4617(65) 0.3563(2) 0.34(4) 1. 0
+O8 O2- 2 e 0.6161(13) 0.7036(59) 0.8330(2) 0.34(4) 1. 0
+#End of TTdata_156989-ICSD

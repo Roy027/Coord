@@ -1,0 +1,90 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201147-ICSD
+_database_code_ICSD 201147
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Trilithium sodium amide'
+_chemical_formula_structural 'Li3 Na (N H2)4'
+_chemical_formula_sum 'H8 Li3 N4 Na1'
+_chemical_name_structure_type LiNH2
+_exptl_crystal_density_diffrn 1.21
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Ueber ein Trilithiumnatriumamid, Li3 Na (N H2)4, eine Verbindung mit
+lithiumamidverwandter Struktur
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1982 85 87 95 JCOMAH
+loop_
+_publ_author_name
+'Jacobs, H.'
+'Harbrecht, B.'
+_cell_length_a 5.072(4)
+_cell_length_b 5.072(4)
+_cell_length_c 11.478(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 295.27
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Li1+ 1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 c 0 0.5 0.25 . 1. 0
+Li1 Li1+ 2 a 0 0 0 . 1. 0
+Li2 Li1+ 4 f 0 0.5 0.0087(5) . 1. 0
+N1 N3- 8 g 0.2396(4) 0.2380(4) 0.1007(2) . 1. 0
+H1 H1+ 8 g 0.365(5) 0.290(5) 0.110(2) 2.0(6) 1. 0
+H2 H1+ 8 g 0.233(7) 0.139(6) 0.168(3) 4.9(8) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.032(1) 0.032(1) 0.0405(8) 0 0 0
+Li1 Li1+ 0.015(3) 0.015(3) 0.047(4) 0 0 0
+Li2 Li1+ 0.048(3) 0.011(2) 0.047(3) 0.009(3) 0 0
+N1 N3- 0.0212(6) 0.0235(6) 0.0421(8) 0.0012(8) -.0044(8) 0.0007(9)
+#End of TTdata_201147-ICSD

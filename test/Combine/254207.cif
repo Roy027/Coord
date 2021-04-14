@@ -1,0 +1,115 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_254207-ICSD
+_database_code_ICSD 254207
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Tridecalithium manganese(III) octakis(selenate(IV))'
+_chemical_formula_structural 'Li13 Mn (Se O3)8'
+_chemical_formula_sum 'Li13 Mn1 O24 Se8'
+_exptl_crystal_density_diffrn 3.3
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Li13Mn(SeO3)8: Lithium-rich transition metal selenite containing Jahn-Teller
+distortive cations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 9369 9375 INOCAJ
+loop_
+_publ_author_name
+'Jo, Hongil'
+'Song, Seung Yoon'
+'Cho, Eunjeong'
+'So, Jongho'
+'Lee, Suheon'
+'Choi, Kwang Yong'
+'Ok, Kang Min'
+_cell_length_a 9.6037(3)
+_cell_length_b 9.6037(3)
+_cell_length_c 21.9175(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1750.64
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0202
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+Mn3+ 3
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 18 f 0.61964(4) 0.82463(4) 0.05228(2) 0.01634(11) 1 0
+Se2 Se4+ 6 c 1 1 0.22427(2) 0.01350(14) 1 0
+Mn1 Mn3+ 3 a 1 1 0 0.0116(2) 1 0
+O1 O2- 18 f 0.8124(3) 0.8519(3) 0.05319(10) 0.0205(5) 1 0
+O2 O2- 18 f 0.5501(3) 0.7195(3) 0.11776(10) 0.0215(5) 1 0
+O3 O2- 18 f 0.6515(3) 1.0048(3) 0.07418(10) 0.0181(5) 1 0
+O4 O2- 18 f 1.1718(2) 1.1421(2) 0.19016(9) 0.0162(5) 1 0
+Li1 Li1+ 3 b 0.3333 0.6667 0.1667 0.026(3) 1 0
+Li2 Li1+ 18 f 0.4935(6) 0.5032(7) 0.1365(3) 0.0203(12) 1 0
+Li3 Li1+ 18 f 0.8634(7) 1.1349(7) 0.1106(3) 0.0209(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.01744(18) 0.01813(18) 0.01631(19) 0.01104(15) -0.00277(13)
+-0.00274(13)
+Se2 Se4+ 0.01341(18) 0.01341(18) 0.0137(3) 0.00670(9) 0 0
+Mn1 Mn3+ 0.0116(3) 0.0116(3) 0.0115(6) 0.00579(17) 0 0
+O1 O2- 0.0224(13) 0.0269(13) 0.0195(13) 0.0179(11) 0.0023(10) 0.0038(10)
+O2 O2- 0.0264(13) 0.0158(12) 0.0226(13) 0.0106(11) 0.0022(10) 0.0028(10)
+O3 O2- 0.0180(12) 0.0148(11) 0.0234(14) 0.0098(10) 0.0011(10) 0.0000(10)
+O4 O2- 0.0137(11) 0.0143(11) 0.0190(12) 0.0058(9) 0.0027(9) 0.0010(9)
+Li1 Li1+ 0.025(5) 0.025(5) 0.028(9) 0.013(2) 0 0
+Li2 Li1+ 0.017(3) 0.016(3) 0.027(3) 0.008(2) -0.001(2) -0.002(2)
+Li3 Li1+ 0.018(3) 0.022(3) 0.020(3) 0.008(2) 0.002(2) 0.006(2)
+#End of TTdata_254207-ICSD

@@ -1,0 +1,109 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170262-ICSD
+_database_code_ICSD 170262
+_audit_creation_date 2006-04-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Lithium tetraeuropium tris(carbodiimide) triiodide'
+_chemical_formula_structural 'Li Eu4 (N C N)3 I3'
+_chemical_formula_sum 'C3 Eu4 I3 Li1 N6'
+_exptl_crystal_density_diffrn 5.52
+_publ_section_title
+
+;
+Formation of complex three- and one-dimensional interpenetrating networks
+within carboimide chemistry: N C N(2-)-coordinated rare-earth-metal tetrahedra
+and condensed alkali-metal iodide octahedra in two novel lithium europium
+carbodiimide iodides, Li Eu2 (N C N) I3 and Li Eu4 (N C N)3 I3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2004 43 5884 5890 INOCAJ
+loop_
+_publ_author_name
+'Liao Wuping'
+'Hu Chunhua'
+'Kremer, R.K.'
+'Dronskowski, R.'
+_cell_length_a 10.6575(11)
+_cell_length_b 10.6575(11)
+_cell_length_c 6.8232(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 671.17
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0252
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu2+ 2
+I1- -1
+C4+ 4
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu2+ 2 c 0.3333 0.6667 0.25 0.0150(3) 1 0
+Eu2 Eu2+ 6 h 0.79138(3) 1.58276(7) 0.25 0.0160(2) 1 0
+I1 I1- 6 h 0.13314(5) 0.26628(10) 0.25 0.0192(2) 1 0
+C1 C4+ 6 g 0.5 0. 0. 0.0145(12) 1 0
+N1 N3- 12 k 0.5650(4) 1.1300(8) 0.0266(11) 0.0145(12) 1 0
+Li1 Li1+ 2 a 0. 0. 0. 0.053(15) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu2+ 0.0145(3) 0.0145(3) 0.0160(5) 0.00723(17) 0. 0.
+Eu2 Eu2+ 0.0131(3) 0.0142(3) 0.0210(4) 0.00712(17) 0. 0.
+I1 I1- 0.0158(3) 0.0199(4) 0.0233(5) 0.0099(2) 0. 0.
+#End of TTdata_170262-ICSD

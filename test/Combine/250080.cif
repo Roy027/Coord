@@ -1,0 +1,103 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250080-ICSD
+_database_code_ICSD 250080
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Rubidium lithium hafnium molybdate (5/0.33/1.67/6)'
+_chemical_formula_structural 'Rb5 (Li0.333 Hf1.667) (Mo O4)6'
+_chemical_formula_sum 'Hf1.667 Li0.333 Mo6 O24 Rb5'
+_chemical_name_structure_type K5(Mg,Zr)2(MoO4)6
+_exptl_crystal_density_diffrn 4.47
+_publ_section_title
+
+;
+Phase formation in the Rb2 Mo O4 - Li2 Mo O4 - Hf (Mo O4)2 system and the
+crystal structure of Rb5 (Li1/3 Hf5/3) (Mo O4)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 2003 48 1197 1201 ZNOKAQ
+loop_
+_publ_author_name
+'Solodovnikov, S.F.'
+'Balsanova, N.V.'
+'Bazarov, B.G.'
+'Zolotova, E.S.'
+'Bazarova, Zh.G.'
+_cell_length_a 10.659(2)
+_cell_length_b 10.659(2)
+_cell_length_c 38.241(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 3762.64
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R 3 c H'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z+1/2'
+2 'x, x-y, z+1/2'
+3 '-y, -x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+5/6'
+8 'x+2/3, x-y+1/3, z+5/6'
+9 '-y+2/3, -x+1/3, z+5/6'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+1/6'
+14 'x+1/3, x-y+2/3, z+1/6'
+15 '-y+1/3, -x+2/3, z+1/6'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Hf4+ 4
+Li1+ 1
+Hf4+ 4
+Li1+ 1
+Rb1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 18 b 0.3740(2) 0.3900(2) 0.1161(1) 0.0121(4) 1. 0
+Mo2 Mo6+ 18 b 0.2947(2) 0.3508(2) 0.2163(1) 0.0126(4) 1. 0
+Hf1 Hf4+ 6 a 0 0 0 0.0067(1) 0.790(3) 0
+Li1 Li1+ 6 a 0 0 0 0.0067(1) 0.210(3) 0
+Hf2 Hf4+ 6 a 0 0 0.7499(1) 0.0082(1) 0.877(3) 0
+Li2 Li1+ 6 a 0 0 0.7499(1) 0.0082(1) 0.123(3) 0
+Rb1 Rb1+ 6 a 0 0 0.1032(2) 0.054(1) 1. 0
+Rb2 Rb1+ 6 a 0 0 0.3978(1) 0.0166(5) 1. 0
+Rb3 Rb1+ 18 b 0.3294(2) 0.0496(3) 0.1674(1) 0.0379(3) 1. 0
+O1 O2- 18 b 0.330(2) 0.391(2) 0.0723(3) 0.017(3) 1. 0
+O2 O2- 18 b 0.527(2) 0.361(2) 0.1160(3) 0.030(4) 1. 0
+O3 O2- 18 b 0.418(1) 0.562(2) 0.1349(3) 0.020(3) 1. 0
+O4 O2- 18 b 0.232(2) 0.244(2) 0.1384(4) 0.016(3) 1. 0
+O5 O2- 18 b 0.345(2) 0.396(2) 0.2569(5) 0.053(5) 1. 0
+O6 O2- 18 b 0.257(2) 0.486(1) 0.1980(3) 0.021(3) 1. 0
+O7 O2- 18 b 0.439(2) 0.362(2) 0.1962(4) 0.026(3) 1. 0
+O8 O2- 18 b 0.136(1) 0.171(1) 0.2166(3) 0.020(3) 1. 0
+#End of TTdata_250080-ICSD

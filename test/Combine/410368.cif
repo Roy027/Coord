@@ -1,0 +1,108 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410368-ICSD
+_database_code_ICSD 410368
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Lithium tridecachlorohexamolybdate(II)'
+_chemical_formula_structural 'Li Mo6 Cl13'
+_chemical_formula_sum 'Cl13 Li1 Mo6'
+_chemical_name_structure_type NaMo6Cl13
+_exptl_crystal_density_diffrn 3.75
+_publ_section_title 'Ueber das Lithiumchloromolybdat Li (Mo6 Cl13)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2000
+626 2432 2434 ZAACAB
+loop_
+_publ_author_name
+'Stroebele, M.'
+'Meyer, H.J.'
+_cell_length_a 8.6978(12)
+_cell_length_b 8.8819(12)
+_cell_length_c 13.6930(18)
+_cell_angle_alpha 95.499(16)
+_cell_angle_beta 102.745(16)
+_cell_angle_gamma 113.847(15)
+_cell_volume 923.16
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0508
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo2+ 2
+Cl1- -1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo2+ 2 i 0.56289(6) -.00359(7) 0.37975(3) . 1. 0
+Mo2 Mo2+ 2 i 0.39235(7) -.23185(7) 0.47089(4) . 1. 0
+Mo3 Mo2+ 2 i 0.64572(7) -.54587(7) 0.10017(4) . 1. 0
+Mo4 Mo2+ 2 i 0.54855(7) -.30520(7) 0.08788(4) . 1. 0
+Mo5 Mo2+ 2 i 0.29414(6) 0.00211(7) 0.43116(4) . 1. 0
+Mo6 Mo2+ 2 i 0.31307(7) -.61786(7) 0.04758(4) . 1. 0
+Cl1 Cl1- 2 i 0.4681(2) 0.2177(2) 0.34819(10) . 1. 0
+Cl2 Cl1- 2 i 0.65661(19) -.21822(19) 0.42684(10) . 1. 0
+Cl3 Cl1- 2 i 0.4153(2) -.8394(2) 0.05608(11) . 1. 0
+Cl4 Cl1- 2 i 0.85556(19) 0.2168(2) 0.47903(11) . 1. 0
+Cl5 Cl1- 2 i 0.7679(2) -.6188(2) -.03367(11) . 1. 0
+Cl6 Cl1- 2 i 0.26116(19) -.2199(2) 0.29382(10) . 1. 0
+Cl7 Cl1- 2 i 0.5021(2) -.4724(2) 0.22072(10) . 1. 0
+Cl8 Cl1- 2 i 0.8589(2) -.2491(2) 0.12974(11) . 1. 0
+Cl9 Cl1- 2 i 0.0269(2) 0.0159(2) 0.34439(12) . 1. 0
+Cl10 Cl1- 2 i 0.6239(2) -.0321(2) 0.20625(10) . 1. 0
+Cl11 Cl1- 2 i 0.2521(2) -.5371(2) 0.42507(13) . 1. 0
+Cl12 Cl1- 2 i 0.8397(2) -.5878(2) 0.24214(12) . 1. 0
+Cl13 Cl1- 2 i 0.0644(2) -.7821(3) 0.10825(14) . 1. 0
+Li1 Li1+ 2 i 0.0291(18) -.7344(18) 0.2744(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo2+ 0.0088(2) 0.0081(3) 0.0071(2) 0.0043(2) 0.00276(18) 0.00097(18)
+Mo2 Mo2+ 0.0089(2) 0.0062(3) 0.0088(2) 0.0030(2) 0.00228(18) 0.00059(18)
+Mo3 Mo2+ 0.0124(3) 0.0111(3) 0.0080(2) 0.0071(2) 0.00038(19) 0.00084(19)
+Mo4 Mo2+ 0.0121(3) 0.0096(3) 0.0076(2) 0.0061(2) 0.00172(19) -.00039(18)
+Mo5 Mo2+ 0.0069(2) 0.0083(3) 0.0076(2) 0.00391(19) 0.00138(17) 0.00032(17)
+Mo6 Mo2+ 0.0111(3) 0.0112(3) 0.0087(2) 0.0050(2) 0.00276(19) 0.00043(19)
+Cl1 Cl1- 0.0182(7) 0.0134(8) 0.0121(6) 0.0089(6) 0.0045(5) 0.0065(5)
+Cl2 Cl1- 0.0137(7) 0.0132(8) 0.0112(6) 0.0084(6) 0.0031(5) -.0001(5)
+Cl3 Cl1- 0.0242(8) 0.0130(8) 0.0140(7) 0.0092(6) 0.0050(6) 0.0041(6)
+Cl4 Cl1- 0.0099(7) 0.0132(8) 0.0182(7) 0.0029(6) 0.0075(5) 0.0033(5)
+Cl5 Cl1- 0.0168(8) 0.0222(9) 0.0175(7) 0.0132(7) 0.0045(6) 0.0006(6)
+Cl6 Cl1- 0.0143(7) 0.0143(8) 0.0110(6) 0.0065(6) 0.0010(5) -.0015(5)
+Cl7 Cl1- 0.0248(8) 0.0153(8) 0.0086(6) 0.0089(7) 0.0045(6) 0.0014(5)
+Cl8 Cl1- 0.0135(7) 0.0154(8) 0.0140(7) 0.0041(6) -.0003(6) -.0023(6)
+Cl9 Cl1- 0.0110(7) 0.0203(9) 0.0196(7) 0.0091(6) -.0018(6) -.0002(6)
+Cl10 Cl1- 0.0197(7) 0.0124(8) 0.0113(6) 0.0079(6) 0.0062(5) 0.0015(5)
+Cl11 Cl1- 0.0210(8) 0.0080(8) 0.0278(8) 0.0037(6) -.0001(7) 0.0015(6)
+Cl12 Cl1- 0.0229(9) 0.0274(11) 0.0214(8) 0.0147(8) -.0022(7) 0.0067(7)
+Cl13 Cl1- 0.0253(9) 0.0303(11) 0.0299(9) 0.0047(8) 0.0175(7) 0.0058(7)
+Li1 Li1+ 0.032(7) 0.034(8) 0.020(6) 0.021(6) 0.005(5) 0.004(5)
+#End of TTdata_410368-ICSD

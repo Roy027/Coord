@@ -1,0 +1,111 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_254406-ICSD
+_database_code_ICSD 254406
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Lithium gallium germanium sulfide (1/1/2/6)'
+_chemical_formula_structural 'Li Ga Ge2 S6'
+_chemical_formula_sum 'Ga1 Ge2 Li1 S6'
+_exptl_crystal_density_diffrn 2.98
+_cell_measurement_temperature 133.15
+_publ_section_title
+
+;
+LiGaGe2S6: A chalcogenide with good infrared nonlinear optical performance and
+low melting point
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 13267 13273 INOCAJ
+loop_
+_publ_author_name
+'Mei, Dajiang'
+'Zhang, Shiyan'
+'Liang, Fei'
+'Zhao, Sangen'
+'Jiang, Jianqiao'
+'Zhong, Junbo'
+'Lin, Zheshuai'
+'Wu, Yuandong'
+_cell_length_a 11.925(2)
+_cell_length_b 22.647(5)
+_cell_length_c 6.8308(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1844.76
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.0262
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ge4+ 4
+Ga3+ 3
+S2- -2
+Ga3+ 3
+Ge4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 16 b 0.1681(15) 0.0473(8) 0.518 0.034(6) 0.5 0
+Ge1 Ge4+ 16 b 0.37618(4) 0.112726(19) 0.229(3) 0.01065(12) 0.6666 0
+Ga1 Ga3+ 8 a 0 0 0.003(3) 0.01176(18) 0.3333 0
+S1 S2- 16 b 0.04850(9) 0.07615(5) 0.196(3) 0.0147(3) 1 0
+S2 S2- 16 b 0.55751(9) 0.12962(5) 0.176(3) 0.0139(3) 1 0
+S3 S2- 16 b 0.09421(9) 0.22961(5) 0.078(3) 0.0159(3) 1 0
+Ga2 Ga3+ 16 b 0.37618(4) 0.112726(19) 0.229(3) 0.01065(12) 0.3333 0
+Ge2 Ge4+ 8 a 0 0 0.003(3) 0.01176(18) 0.6667 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.027(9) 0.040(11) 0.037(12) 0.004(8) 0.006(9) 0.011(9)
+Ge1 Ge4+ 0.0085(2) 0.0103(2) 0.0131(2) 0.00021(16) -0.00167(17) 0.00132(18)
+Ga1 Ga3+ 0.0104(3) 0.0089(3) 0.0160(3) 0.0003(2) 0 0
+S1 S2- 0.0155(5) 0.0156(5) 0.0132(6) -0.0012(4) 0.0032(4) -0.0026(4)
+S2 S2- 0.0092(5) 0.0196(6) 0.0128(5) -0.0013(4) -0.0004(4) 0.0003(4)
+S3 S2- 0.0131(5) 0.0109(6) 0.0237(6) 0.0016(4) -0.0042(4) -0.0044(5)
+Ga2 Ga3+ 0.0085(2) 0.0103(2) 0.0131(2) 0.00021(16) -0.00167(17) 0.00132(18)
+Ge2 Ge4+ 0.0104(3) 0.0089(3) 0.0160(3) 0.0003(2) 0 0
+#End of TTdata_254406-ICSD

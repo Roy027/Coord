@@ -1,0 +1,104 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431338-ICSD
+_database_code_ICSD 431338
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Lithium rubidium molybdenum oxide (1/1/3/10)'
+_chemical_formula_structural 'Li Rb Mo3 O10'
+_chemical_formula_sum 'Li1 Mo3 O10 Rb1'
+_exptl_crystal_density_diffrn 4.04
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+The enhancement of birefringence resulted from anionic dimensionality changes
+through adjusting cationic density
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2017 717 317 325 JALCEU
+loop_
+_publ_author_name
+'Liu, Lili'
+'Yang, Yun'
+'Yang, Zhihua'
+'Pan, Shilie'
+_cell_length_a 8.563(11)
+_cell_length_b 7.595(10)
+_cell_length_c 13.646(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 887.48
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0247
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Rb1+ 1
+Mo6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 c 0.17734(6) 0.25 0.40462(4) 0.00938(16) 1 0
+Rb1 Rb1+ 4 c 0.39459(9) -0.25 0.40248(6) 0.0265(2) 1 0
+Mo2 Mo6+ 8 d -0.13070(4) -0.00110(5) 0.39722(3) 0.00920(14) 1 0
+O1 O2- 8 d 0.1178(3) 0.0125(4) 0.4364(3) 0.0099(6) 1 0
+O2 O2- 4 c -0.0801(5) 0.25 0.4114(3) 0.0112(10) 1 0
+O3 O2- 4 c -0.1294(5) -0.25 0.4325(4) 0.0124(10) 1 0
+O4 O2- 4 c 0.1621(5) 0.25 0.2791(4) 0.0152(10) 1 0
+O5 O2- 4 c 0.3763(5) 0.25 0.4280(4) 0.0163(11) 1 0
+O6 O2- 8 d -0.3284(4) 0.0400(4) 0.4044(2) 0.0164(7) 1 0
+O7 O2- 8 d -0.0937(4) -0.0298(4) 0.2755(3) 0.0191(8) 1 0
+Li1 Li1+ 4 c 0.0513(14) 0.25 0.1582(11) 0.033(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0067(3) 0.0102(3) 0.0113(3) 0. 0.0011(2) 0.
+Rb1 Rb1+ 0.0326(4) 0.0280(4) 0.0189(5) 0. 0.0012(3) 0.
+Mo2 Mo6+ 0.0088(2) 0.0074(2) 0.0114(2) -0.00060(13) -0.00169(14) 0.00041(15)
+O1 O2- 0.0116(15) 0.0072(16) 0.0110(18) -0.0007(11) 0.0017(12) 0.0000(12)
+O2 O2- 0.005(2) 0.009(2) 0.019(3) 0. -0.0032(18) 0.
+O3 O2- 0.015(2) 0.005(2) 0.018(3) 0. 0.0009(18) 0.
+O4 O2- 0.020(2) 0.011(2) 0.015(3) 0. 0.002(2) 0.
+O5 O2- 0.008(2) 0.019(3) 0.022(3) 0. 0.0017(19) 0.
+O6 O2- 0.0113(15) 0.0158(17) 0.022(2) 0.0043(13) -0.0007(14) 0.0012(13)
+O7 O2- 0.0236(17) 0.0170(18) 0.017(2) 0.0016(13) -0.0010(15) -0.0030(14)
+Li1 Li1+ 0.016(6) 0.057(9) 0.026(9) 0. -0.004(6) 0.
+#End of TTdata_431338-ICSD

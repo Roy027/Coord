@@ -1,0 +1,94 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260011-ICSD
+_database_code_ICSD 260011
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Lithium barium hexafluoroaluminate'
+_chemical_formula_structural 'Li Ba (Al F6)'
+_chemical_formula_sum 'Al1 Ba1 F6 Li1'
+_chemical_name_structure_type LiBaCrF6
+_exptl_crystal_density_diffrn 4.1
+_cell_measurement_temperature 296.
+_publ_section_title
+'Li Ba Al F6 and the crystal chemistry of Li A(II) B(III) F6 phases'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2008 64 i66 i68 ACSCEE
+loop_
+_publ_author_name
+'Merkulov, A.A.'
+'Isaenko, L.I.'
+'Lobanov, S.I.'
+'Naumov, D.Yu.'
+'Kuratieva, N.V.'
+_cell_length_a 5.3372(10)
+_cell_length_b 10.150(2)
+_cell_length_c 8.535(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.34(3)
+_cell_angle_gamma 90.
+_cell_volume 462.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0141
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+F1- -1
+Li1+ 1
+Ba2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 e 0.76102(9) 0.08866(4) 0.23055(5) 0.00874(9) 1 0
+F1 F1- 4 e 0.61125(19) 0.24917(9) 0.25861(11) 0.01352(18) 1 0
+F2 F1- 4 e 0.6713(2) 0.10245(11) 0.03123(12) 0.0192(2) 1 0
+F3 F1- 4 e 0.89025(19) -0.07589(10) 0.20663(13) 0.0180(2) 1 0
+F4 F1- 4 e 0.8278(2) 0.08905(11) 0.43998(12) 0.01721(19) 1 0
+F5 F1- 4 e 1.0623(2) 0.15799(12) 0.19808(14) 0.0207(2) 1 0
+F6 F1- 4 e 0.47012(17) 0.00991(10) 0.28925(12) 0.01348(18) 1 0
+Li1 Li1+ 4 e 0.7606(6) 0.4150(3) 0.3261(4) 0.0161(6) 1 0
+Ba1 Ba2+ 4 e 0.297669(16) 0.312656(9) 0.004198(10) 0.01139(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al3+ 0.00820(19) 0.00833(19) 0.00971(19) 0.00031(15) 0.00053(15) 0.00109(15)
+F1 F1- 0.0162(4) 0.0093(4) 0.0151(4) 0.0019(3) 0.0000(3) -0.0005(3)
+F2 F1- 0.0258(5) 0.0219(5) 0.0098(4) 0.0025(4) -0.0009(4) -0.0007(4)
+F3 F1- 0.0149(4) 0.0135(5) 0.0256(5) 0.0042(4) 0.0050(4) 0.0016(4)
+F4 F1- 0.0176(5) 0.0211(5) 0.0129(4) -0.0021(4) -0.0041(3) 0.0026(4)
+F5 F1- 0.0123(5) 0.0241(5) 0.0258(5) -0.0052(4) 0.0022(4) 0.0074(4)
+F6 F1- 0.0103(4) 0.0125(4) 0.0176(4) -0.0031(3) 0.0023(3) -0.0026(3)
+Li1 Li1+ 0.0144(13) 0.0195(15) 0.0143(13) 0.0021(11) -0.0002(10) 0.0036(10)
+Ba1 Ba2+ 0.01137(7) 0.01273(6) 0.01006(6) 0.00040(3) 0.00115(4) 0.00215(3)
+#End of TTdata_260011-ICSD

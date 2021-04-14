@@ -1,0 +1,71 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_247734-ICSD
+_database_code_ICSD 247734
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Lithium niobate(V)'
+_chemical_formula_structural 'Li Nb O3'
+_chemical_formula_sum 'Li1 Nb1 O3'
+_chemical_name_structure_type LiNbO3
+_exptl_crystal_density_diffrn 4.63
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Correlated thermal motion in ferroelectric Li Nb O3 studied using neutron
+total scattering and a Rietveld analysis
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Korean Physical Society' 2011 59 2756 2759 JKPSDV
+loop_
+_publ_author_name
+'Jeong, I.K.'
+'Park, S.'
+_cell_length_a 5.49340(4)
+_cell_length_b 5.49340(4)
+_cell_length_c 5.49340(4)
+_cell_angle_alpha 55.915
+_cell_angle_beta 55.915
+_cell_angle_gamma 55.915
+_cell_volume 106.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'R 3 c R'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.0146
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z+1/2, y+1/2, x+1/2'
+2 'z, x, y'
+3 'x+1/2, z+1/2, y+1/2'
+4 'y, z, x'
+5 'y+1/2, x+1/2, z+1/2'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0.0507(2) 0.0507(2) 0.0507(2) 0.0156(4) 1. 0
+Nb1 Nb5+ 2 a 0.2712(1) 0.2712(1) 0.2712(1) 0.0031(1) 1. 0
+O1 O2- 6 b 0.6299(1) 0.3719(1) 0.9922(1) 0.0057(1) 1. 0
+#End of TTdata_247734-ICSD

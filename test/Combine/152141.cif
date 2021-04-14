@@ -1,0 +1,99 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_152141-ICSD
+_database_code_ICSD 152141
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Lithium tetrakis(methylamino)aluminate'
+_chemical_formula_structural 'Li (Al (N H C H3)4)'
+_chemical_formula_sum 'C4 H16 Al1 Li1 N4'
+_exptl_crystal_density_diffrn 1.13
+_publ_section_title
+
+;
+Darstellung und Strukturanalyse von Lithium - (tetrakis-(methylamino-)
+aluminat)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2000 55 730 734
+ZNBSEN
+loop_
+_publ_author_name
+'Rings, S.'
+'Ischenko, V.'
+'Jansen, M.'
+_cell_length_a 14.000(4)
+_cell_length_b 14.000(4)
+_cell_length_c 9.275(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1817.9
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41'
+_symmetry_Int_Tables_number 80
+_refine_ls_R_factor_all 0.0372
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'y+1/2, -x, z+3/4'
+6 '-y+1/2, x, z+3/4'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+N3- -3
+Li1+ 1
+C4+ 4
+H1+ 1
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 8 b 0.0118(1) 0.1682(1) 0.2052(3) 0.0018(5) 1. 0
+N1 N3- 8 b 0.9279(3) 0.1964(0) 0.3574(2) 0.0038(8) 1. 0
+N2 N3- 8 b 0.0954(6) 0.0761(3) 0.2666(4) 0.0038(8) 1. 0
+N3 N3- 8 b 0.9495(3) 0.1133(8) 0.0441(9) 0.0038(8) 1. 0
+N4 N3- 8 b 0.0724(6) 0.2855(4) 0.1736(3) 0.0038(8) 1. 0
+Li1 Li1+ 8 b 0.9951(4) 0.3385(8) 0.3399(6) 0.0124(0) 1. 0
+C1 C4+ 8 b 0.9207(8) 0.1485(6) 0.4890(4) 0.0117(4) 1. 0
+C2 C4+ 8 b 0.1837(0) 0.1051(3) 0.3418(5) 0.0117(4) 1. 0
+C3 C4+ 8 b 0.8883(0) 0.1740(1) 0.9202(1) 0.0117(4) 1. 0
+C4 C4+ 8 b 0.0949(1) 0.3290(4) 0.0236(8) 0.0117(4) 1. 0
+H1 H1+ 8 b 0.9306(1) 0.1495(1) 0.4129(6) 0.0633(3) 1. 0
+H2 H1+ 8 b 0.0999(2) 0.0345(6) 0.2023(9) 0.0633(3) 1. 0
+H3 H1+ 8 b 0.9175(6) 0.0678(0) 0.0765(5) 0.0633(3) 1. 0
+H4 H1+ 8 b 0.1048(4) 0.2765(0) 0.0992(2) 0.0633(3) 1. 0
+H5 H1- 8 b 0.8969(0) 0.0835(4) 0.4655(4) 0.0633(3) 1. 0
+H6 H1- 8 b 0.9863(5) 0.1481(4) 0.5301(3) 0.0633(3) 1. 0
+H7 H1- 8 b 0.8749(3) 0.1862(3) 0.5478(9) 0.0633(3) 1. 0
+H8 H1- 8 b 0.1953(2) 0.1725(4) 0.3131(5) 0.0633(3) 1. 0
+H9 H1- 8 b 0.1700(0) 0.0979(4) 0.4464(6) 0.0633(3) 1. 0
+H10 H1- 8 b 0.2342(4) 0.0608(5) 0.3072(6) 0.0633(3) 1. 0
+H11 H1- 8 b 0.8723(8) 0.1270(3) 0.8435(4) 0.0633(3) 1. 0
+H12 H1- 8 b 0.8309(0) 0.1991(3) 0.9706(0) 0.0633(3) 1. 0
+H13 H1- 8 b 0.9318(4) 0.2253(6) 0.8862(0) 0.0633(3) 1. 0
+H14 H1- 8 b 0.1171(4) 0.2749(1) 0.9629(9) 0.0633(3) 1. 0
+H15 H1- 8 b 0.0339(3) 0.3572(6) 0.9890(5) 0.0633(3) 1. 0
+H16 H1- 8 b 0.1453(8) 0.3776(9) 0.0405(9) 0.0633(3) 1. 0
+#End of TTdata_152141-ICSD

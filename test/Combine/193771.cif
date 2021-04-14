@@ -1,0 +1,125 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193771-ICSD
+_database_code_ICSD 193771
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Tetralithium hexaselenodistannate 14-hydrate'
+_chemical_formula_structural 'Li4 (Sn2 Se6) (H2 O)14'
+_chemical_formula_sum 'H28 Li4 O14 Se6 Sn2'
+_chemical_name_structure_type Na4Ge2S6(H2O)14
+_exptl_crystal_density_diffrn 2.5
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Lithium chalcogenidotetrelates: Li Ch T - Synthesis and characterization of
+new Li(+) ion conducting Li/Sn/Se compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2013 25 2961 2969 CMATEX
+loop_
+_publ_author_name
+'Kaib, Thomas'
+'Bron, Philipp'
+'Haddadpour, Sima'
+'Mayrhofer Leonhard'
+'Pastewka, Lars'
+'Jaervi, Tommi T.'
+'Moseler, Michael'
+'Roling Bernhard'
+'Dehnen, Stefanie'
+_cell_length_a 7.2602(15)
+_cell_length_b 9.5887(19)
+_cell_length_c 10.496(2)
+_cell_angle_alpha 77.46(3)
+_cell_angle_beta 71.10(3)
+_cell_angle_gamma 74.00(3)
+_cell_volume 657.91
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+H1+ 1
+Sn4+ 4
+Se2- -2
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+H1 H1+ 2 i 0.216(6) 0.768(5) 0.672(5) 0.023(11) 1 0
+H2 H1+ 2 i -0.203(8) 0.573(5) 0.801(5) 0.029(13) 1 0
+H3 H1+ 2 i 0.617(7) 0.966(6) 0.604(5) 0.029(12) 1 0
+H4 H1+ 2 i 0.108(6) 1.167(5) 0.831(4) 0.024(11) 1 0
+H5 H1+ 2 i 0.307(7) 0.933(5) 0.006(5) 0.029(12) 1 0
+H6 H1+ 2 i -0.215(6) 0.967(5) 0.787(5) 0.016(10) 1 0
+H7 H1+ 2 i 1.001(8) 0.607(6) 0.084(5) 0.040(13) 1 0
+H8 H1+ 2 i 0.383(6) 0.787(5) 0.000(4) 0.018(9) 1 0
+H9 H1+ 2 i 0.603(7) 0.833(5) 0.585(5) 0.029(11) 1 0
+H10 H1+ 2 i 0.270(7) 0.693(5) 0.764(4) 0.015(11) 1 0
+H11 H1+ 2 i 0.811(7) 0.657(5) 0.092(4) 0.019(10) 1 0
+H12 H1+ 2 i -0.036(7) 0.569(5) 0.715(5) 0.024(10) 1 0
+H13 H1+ 2 i -0.346(8) 0.911(5) 0.869(5) 0.026(13) 1 0
+H14 H1+ 2 i 0.083(8) 1.131(6) 0.726(6) 0.038(14) 1 0
+Sn1 Sn4+ 2 i 0.40177(3) 0.62181(2) 0.378089(18) 0.00942(9) 1 0
+Se1 Se2- 2 i 0.28388(4) 0.40259(3) 0.54588(3) 0.01101(9) 1 0
+Se2 Se2- 2 i 0.50284(4) 0.55620(3) 0.14568(3) 0.01186(9) 1 0
+Se3 Se2- 2 i 0.15414(4) 0.84778(3) 0.43899(3) 0.01232(10) 1 0
+O1 O2- 2 i 0.2058(3) 0.7574(3) 0.7524(2) 0.0139(4) 1 0
+O2 O2- 2 i 0.3634(3) 0.8738(3) -0.0465(2) 0.0161(4) 1 0
+O3 O2- 2 i 0.5539(4) 0.9018(3) 0.6364(2) 0.0209(5) 1 0
+O4 O2- 2 i 0.1171(4) 1.0997(3) 0.7852(3) 0.0206(5) 1 0
+O5 O2- 2 i -0.1072(4) 0.5851(3) 0.7945(2) 0.0177(5) 1 0
+O6 O2- 2 i 0.9183(4) 0.6755(3) 0.0606(2) 0.0165(4) 1 0
+O7 O2- 2 i -0.2488(4) 0.9276(3) 0.8594(3) 0.0158(5) 1 0
+Li1 Li1+ 2 i 0.3052(8) 0.9187(6) 0.7785(5) 0.0161(10) 1 0
+Li2 Li1+ 2 i -0.0593(8) 0.7393(6) 0.8681(5) 0.0176(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn4+ 0.01134(12) 0.00851(12) 0.00857(12) -0.00070(8) -0.00428(8) -0.00119(7)
+Se1 Se2- 0.01189(15) 0.01091(16) 0.01122(15) -0.00333(11) -0.00451(11)
+-0.00064(11)
+Se2 Se2- 0.01470(16) 0.01254(16) 0.00906(15) -0.00237(11) -0.00462(11)
+-0.00189(11)
+Se3 Se2- 0.01332(16) 0.01005(16) 0.01315(15) 0.00116(11) -0.00572(11)
+-0.00249(11)
+O1 O2- 0.0156(11) 0.0131(12) 0.0122(12) -0.0006(10) -0.0051(9) -0.0015(9)
+O2 O2- 0.0194(11) 0.0132(12) 0.0143(11) -0.0006(9) -0.0067(9) -0.0003(9)
+O3 O2- 0.0228(12) 0.0224(13) 0.0194(12) -0.0101(10) -0.0030(9) -0.0049(10)
+O4 O2- 0.0276(13) 0.0161(12) 0.0216(12) 0.0004(10) -0.0157(10) -0.0031(10)
+O5 O2- 0.0142(12) 0.0222(13) 0.0183(12) -0.0057(10) -0.0030(10) -0.0062(9)
+O6 O2- 0.0167(12) 0.0169(12) 0.0157(11) -0.0040(10) -0.0054(9) -0.0002(9)
+O7 O2- 0.0160(12) 0.0175(12) 0.0141(12) -0.0049(9) -0.0054(9) 0.0008(9)
+Li1 Li1+ 0.018(2) 0.015(3) 0.016(2) -0.004(2) -0.0064(19) -0.001(2)
+Li2 Li1+ 0.016(2) 0.017(3) 0.019(3) -0.004(2) -0.006(2) 0.001(2)
+#End of TTdata_193771-ICSD

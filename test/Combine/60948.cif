@@ -1,0 +1,110 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60948-ICSD
+_database_code_ICSD 60948
+_audit_creation_date 1988-02-22
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Trilithium diindium triphosphate(V)'
+_chemical_formula_structural 'Li3 In2 (P3 O12)'
+_chemical_formula_sum 'In2 Li3 O12 P3'
+_chemical_name_structure_type Li3Fe2(PO4)3(P21/n)
+_exptl_crystal_density_diffrn 3.78
+_publ_section_title 'Structure de Li3 In2 P3 O12'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 397 399 ACSCEE
+loop_
+_publ_author_name
+'Duc Tran Qui'
+'Hamdoune, S.'
+_cell_length_a 8.592(2)
+_cell_length_b 8.908(2)
+_cell_length_c 12.290(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.0(2)
+_cell_angle_gamma 90.
+_cell_volume 940.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 e 0.26237(4) 0.52997(4) 0.39832(3) . 1. 0
+In2 In3+ 4 e 0.24124(3) 0.46358(4) 0.89644(3) . 1. 0
+P1 P5+ 4 e 0.38452(14) 0.60990(14) 0.65378(10) . 1. 0
+P2 P5+ 4 e 0.11001(13) 0.37919(14) 0.15694(10) . 1. 0
+P3 P5+ 4 e 0.04660(13) 0.25203(14) 0.50844(10) . 1. 0
+O1 O2- 4 e 0.1281(4) 0.4023(4) 0.0362(3) . 1. 0
+O2 O2- 4 e 0.0910(4) 0.3632(4) 0.4175(3) . 1. 0
+O3 O2- 4 e 0.4551(4) 0.3824(4) 0.3982(3) . 1. 0
+O4 O2- 4 e 0.3057(3) 0.6882(4) 0.9398(3) . 1. 0
+O5 O2- 4 e 0.2278(4) 0.4708(4) 0.2225(3) . 1. 0
+O6 O2- 4 e 0.2637(4) 0.5451(4) 0.5720(3) . 1. 0
+O7 O2- 4 e 0.1755(4) 0.2637(4) 0.8075(3) . 1. 0
+O8 O2- 4 e 0.3840(4) 0.4967(3) 0.7502(3) . 1. 0
+O9 O2- 4 e 0.4568(4) 0.3714(4) 0.9482(3) . 1. 0
+O10 O2- 4 e 0.0513(4) 0.6700(4) 0.4027(3) . 1. 0
+O11 O2- 4 e 0.0588(4) 0.5780(4) 0.8069(3) . 1. 0
+O12 O2- 4 e 0.3813(4) 0.7085(4) 0.3194(3) . 1. 0
+Li1 Li1+ 4 e 0.4122(10) 0.5875(10) 0.1840(7) 0.0181(20) 1. 0
+Li2 Li1+ 4 e 0.0662(9) 0.5106(10) 0.6525(7) 0.0161(19) 1. 0
+Li3 Li1+ 4 e 0.3224(10) 0.2866(11) 0.6778(8) 0.0211(21) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.00871(17) 0.01043(20) 0.01049(20) -0.00064(14) 0.00125(13)
+0.00019(15)
+In2 In3+ 0.00863(17) 0.00860(19) 0.00896(20) 0.00027(14) 0.00049(13) 0.00046(15)
+P1 P5+ 0.0059(6) 0.0049(6) 0.0061(6) 0.0007(5) 0.0013(5) 0.0008(5)
+P2 P5+ 0.0049(6) 0.0055(6) 0.0052(6) 0.0001(5) 0.0007(4) 0.0002(5)
+P3 P5+ 0.0050(6) 0.0044(6) 0.0074(7) -0.0002(5) 0.0005(5) 0.0005(5)
+O1 O2- 0.0140(18) 0.0205(20) 0.0073(18) -0.0028(15) 0.0031(14) 0.0024(15)
+O2 O2- 0.0074(16) 0.0132(19) 0.0084(18) -0.0018(14) -0.0015(13) 0.0041(14)
+O3 O2- 0.0063(17) 0.0103(18) 0.0146(19) 0.0019(13) 0.0036(13) 0.0044(15)
+O4 O2- 0.0068(16) 0.0050(17) 0.0124(19) 0.0002(13) -0.0025(13) -0.0013(14)
+O5 O2- 0.0091(16) 0.0147(18) 0.0095(18) -0.0038(15) 0.0010(13) -0.0010(15)
+O6 O2- 0.0097(17) 0.0191(20) 0.0078(18) -0.0022(15) 0.0009(13) -0.0030(15)
+O7 O2- 0.0126(17) 0.0068(18) 0.0093(18) -0.0020(14) 0.0015(14) -0.0021(14)
+O8 O2- 0.0092(16) 0.0094(18) 0.0075(18) 0.0018(13) 0.0028(13) 0.0038(14)
+O9 O2- 0.0075(16) 0.0091(18) 0.0131(19) 0.0009(14) -0.0013(13) 0.0029(14)
+O10 O2- 0.0105(17) 0.0113(19) 0.0084(19) 0.0035(14) 0.0001(13) -0.0020(15)
+O11 O2- 0.0060(16) 0.0082(18) 0.0087(18) 0.0035(13) 0.0002(13) 0.0030(14)
+O12 O2- 0.0127(17) 0.0038(17) 0.0132(19) -0.0017(13) 0.0051(14) -0.0003(14)
+#End of TTdata_60948-ICSD

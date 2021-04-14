@@ -1,0 +1,88 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72485-ICSD
+_database_code_ICSD 72485
+_audit_creation_date 1994-01-19
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dilithium copper diphosphate'
+_chemical_formula_structural 'Li2 Cu (P2 O7)'
+_chemical_formula_sum 'Cu1 Li2 O7 P2'
+_exptl_crystal_density_diffrn 2.87
+_cell_measurement_temperature 295.
+_publ_section_title 'Structure of lithium copper pyrophosphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1993 49 209 211 ACSCEE
+loop_
+_publ_author_name
+'Spirlet, M.R.'
+'Rebizant, J.'
+'Liegeois-Duyckaerts, M.'
+_cell_length_a 14.068(2)
+_cell_length_b 4.8600(8)
+_cell_length_c 8.604(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.97(1)
+_cell_angle_gamma 90.
+_cell_volume 581.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Li1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 c 0.25 0.75 0.25 . 1. 0
+Li1 Li1+ 8 f 0.060(1) 0.884(3) 0.616(2) . 1. 0
+P1 P5+ 8 f 0.1486(2) 0.1172(5) -.0367(2) . 1. 0
+O1 O2- 4 e 0.25 0.280(2) 0 . 1. 0
+O2 O2- 8 f 0.1479(4) -.022(1) 0.8038(7) 1.0(1) 1. 0
+O3 O2- 8 f 0.1517(4) -.095(1) 0.0942(7) 1.1(1) 1. 0
+O4 O2- 8 f 0.0708(4) 0.324(1) -.0400(7) 0.9(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu2+ 0.00147(7) 0.0050(6) 0.0028(2) -.0005(2) -.0002(1) 0.0025(3)
+Li1 Li1+ 0.0009(7) 0.008(6) 0.005(2) 0.000(2) -.001(1) 0.001(3)
+P1 P5+ 0.0013(1) 0.0009(8) 0.0026(3) -.0002(3) 0.0003(2) 0.0001(5)
+O1 O2- 0.0016(4) 0.004(3) 0.0023(9) 0 0.0000(6) 0
+#End of TTdata_72485-ICSD

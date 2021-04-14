@@ -1,0 +1,81 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95891-ICSD
+_database_code_ICSD 95891
+_audit_creation_date 2004-04-01
+_chemical_name_systematic
+'Sodium lithium iron(III) catena-disilicate (0.1/0.9/1/1)'
+_chemical_formula_structural '(Na0.101 Li0.899) Fe (Si2 O6)'
+_chemical_formula_sum 'Fe1 Li0.899 Na0.101 O6 Si2'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_chemical_name_mineral 'Aegirine-(Li) solution'
+_exptl_crystal_density_diffrn 3.45
+_cell_measurement_temperature 90.
+_publ_section_title
+
+;
+Structural variations in the aegirine solid-solution series (Na, Li) Fe Si2 O6
+at 298 K and 80 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2002 217 63 72 ZEKRDZ
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Roth, G.'
+_cell_length_a 9.625(3)
+_cell_length_b 8.709(2)
+_cell_length_c 5.285(2)
+_cell_angle_alpha 90
+_cell_angle_beta 109.77(4)
+_cell_angle_gamma 90
+_cell_volume 416.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0213
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+Li1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 e 0.2501(1) 0.6483(1) 0.2400(1) 0.0007(1) 1. 0
+Na1 Na1+ 4 e 0.2524(5) 0.0188(3) 0.2407(4) 0.0144(9) 0.101 0
+Li1 Li1+ 4 e 0.2524(5) 0.0188(3) 0.2407(4) 0.0144(9) 0.899 0
+Si1 Si4+ 4 e 0.0468(1) 0.3392(1) 0.2712(1) 0.0008(2) 1. 0
+Si2 Si4+ 4 e 0.5473(1) 0.8391(1) 0.2543(1) 0.0009(1) 1. 0
+O1 O2- 4 e 0.8664(2) 0.3333(2) 0.1576(3) 0.0022(3) 1. 0
+O2 O2- 4 e 0.3663(2) 0.8344(2) 0.1384(3) 0.0020(3) 1. 0
+O3 O2- 4 e 0.1150(2) 0.5089(2) 0.3144(3) 0.0034(4) 1. 0
+O4 O2- 4 e 0.6187(2) 0.0056(2) 0.3422(4) 0.0039(4) 1. 0
+O5 O2- 4 e 0.1075(2) 0.2609(2) 0.5698(3) 0.0027(4) 1. 0
+O6 O2- 4 e 0.6055(2) 0.7314(3) 0.5224(3) 0.0030(4) 1. 0
+#End of TTdata_95891-ICSD

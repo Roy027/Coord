@@ -1,0 +1,103 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_241935-ICSD
+_database_code_ICSD 241935
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Potassium lithium molybdate monohydrate'
+_chemical_formula_structural 'K Li Mo O4 (H2 O)'
+_chemical_formula_sum 'H2 K1 Li1 Mo1 O5'
+_chemical_name_structure_type Ca2SiO3(OH)2
+_exptl_crystal_density_diffrn 2.82
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Redetermination of the crystal structure of potassium lithium molybdate
+monohydrate, K Li Mo O4.H2O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2016 231
+1221 1222 ZKNSFT
+loop_
+_publ_author_name
+'Park, Garam'
+'Oh, In-Hwan'
+'Yu, Su Kyeong'
+'Park, Hyun-Min'
+'Kim, Ho-Sung'
+_cell_length_a 10.606(1)
+_cell_length_b 7.742(1)
+_cell_length_c 12.845(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1054.72
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.0333
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+K1+ 1
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 8 c 0.13095(2) 0.06221(2) 0.12578(2) 0.01339(2) 1 0
+K1 K1+ 8 c 0.19692(3) -0.19224(3) 0.36849(2) 0.02385(4) 1 0
+O1 O2- 8 c 0.01902(9) -0.06670(11) 0.19304(6) 0.02349(13) 1 0
+O2 O2- 8 c 0.04946(10) 0.13568(11) 0.39687(7) 0.02421(13) 1 0
+O3 O2- 8 c 0.06711(9) 0.27078(10) 0.10354(7) 0.02185(11) 1 0
+O4 O2- 8 c 0.26615(8) 0.07740(13) 0.20569(7) 0.02495(14) 1 0
+O5 O2- 8 c 0.17033(10) -0.03009(12) 0.00666(6) 0.02499(14) 1 0
+Li1 Li1+ 8 c 0.4297(2) -0.0155(3) 0.17781(16) 0.0194(3) 1 0
+H1 H1+ 8 c 0.022(3) 0.231(4) 0.3760(16) 0.035(7) 1 0
+H2 H1+ 8 c 0.124(4) 0.063(6) 0.377(3) 0.10(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.01474(3) 0.01432(2) 0.01110(2) 0.00150(1) 0.00111(1) -0.00194(1)
+K1 K1+ 0.02482(9) 0.02456(8) 0.02217(7) 0.00283(7) -0.00139(6) -0.00018(6)
+O1 O2- 0.0290(3) 0.0229(3) 0.0185(2) -0.0061(2) 0.0068(2) -0.00198(19)
+O2 O2- 0.0308(4) 0.0191(2) 0.0227(3) 0.0016(2) -0.0059(3) -0.0030(2)
+O3 O2- 0.0275(3) 0.01553(19) 0.0226(2) 0.0037(2) -0.0019(2) -0.00196(18)
+O4 O2- 0.0170(2) 0.0342(4) 0.0236(3) 0.0055(3) -0.0039(2) -0.0076(3)
+O5 O2- 0.0315(4) 0.0271(3) 0.0164(2) 0.0019(3) 0.0059(2) -0.0073(2)
+Li1 Li1+ 0.0195(8) 0.0191(7) 0.0195(7) 0.0009(6) 0.0010(6) -0.0014(6)
+#End of TTdata_241935-ICSD

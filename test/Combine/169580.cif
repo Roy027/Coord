@@ -1,0 +1,109 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_169580-ICSD
+_database_code_ICSD 169580
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Lithium nickel cobalt oxide (1.04/0.77/0.2/1.72)'
+_chemical_formula_structural '(Li0.928 Ni0.072) (Li0.108 Ni0.695 Co0.197) O1.72'
+_chemical_formula_sum 'Co0.197 Li1.036 Ni0.767 O1.72'
+_chemical_name_structure_type Delafossite-NaCrS2
+_exptl_crystal_density_diffrn 4.5
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Dependence of property, crystal structure and electrode characteristics on
+heat treatment condition of Li1.041 Ni0.8 Co0.2 Oy as a cathode active
+material for Li secondary battery
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Electrochemistry (Tokyo, Japan)' 2009 77 945 950 EECTFA
+loop_
+_publ_author_name
+'Idemoto, Y.'
+'Takanashi, Y.'
+'Kitamura, N.'
+_cell_length_a 2.871(5)
+_cell_length_b 2.871(5)
+_cell_length_c 14.18(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 101.22
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.0451
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ni2+ 2.49
+Li1+ 1
+Ni2+ 2.49
+Co2+ 2.49
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 3 a 0 0 0 1.0(3) 0.928(5) 0
+Ni1 Ni2+ 3 a 0 0 0 1.0(3) 0.072(5) 0
+Li2 Li1+ 3 b 0 0 0.5 0.40(4) 0.108 0
+Ni2 Ni2+ 3 b 0 0 0.5 0.40(4) 0.695 0
+Co1 Co2+ 3 b 0 0 0.5 0.40(4) 0.197 0
+O1 O2- 6 c 0 0 0.2415(1) 0.58(6) 0.86(1) 0
+#End of TTdata_169580-ICSD

@@ -1,0 +1,82 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_32731-ICSD
+_database_code_ICSD 32731
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Lithium cadmium cobalt(III) fluoride'
+_chemical_formula_structural 'Li Cd Co F6'
+_chemical_formula_sum 'Cd1 Co1 F6 Li1'
+_chemical_name_structure_type CaLiAlF6
+_exptl_crystal_density_diffrn 4.55
+_publ_section_title
+
+;
+Zur Rutilverwandschaft: Ueber neue Fluoride des Typs Li M(II) m(III) F6 mit
+M(III) = Co,Ni und M(II) = Mg,Ca,Sr,Ba,Ni,Cu,Zn,Cd
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (33,1978-41,1986)
+; 1982 37 988 994 ZNBAD2
+loop_
+_publ_author_name
+'Fleischer, T.'
+'Hoppe, R.'
+_cell_length_a 5.0860(2)
+_cell_length_b 5.0860(2)
+_cell_length_c 9.5181(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 213.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, -z+1/2'
+2 'x, x-y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, -y, z+1/2'
+8 '-x, -x+y, z+1/2'
+9 'y, x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cd2+ 2
+Co3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 c 0.3333 0.6667 0.25 . 1. 0
+Cd1 Cd2+ 2 b 0 0 0 . 1. 0
+Co1 Co3+ 2 d 0.6667 0.3333 0.25 . 1. 0
+F1 F1- 12 i 0.3667 0.0229 0.1406 . 1. 0
+#End of TTdata_32731-ICSD

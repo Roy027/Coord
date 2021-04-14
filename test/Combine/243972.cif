@@ -1,0 +1,91 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243972-ICSD
+_database_code_ICSD 243972
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Lithium cesium carbonate'
+_chemical_formula_structural 'Li Cs C O3'
+_chemical_formula_sum 'C1 Cs1 Li1 O3'
+_exptl_crystal_density_diffrn 3.61
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+LiMCO3 (M = K, Rb, Cs): a series of mixed alkali carbonates with large
+birefringence
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2017 46 6894 6899 DTARAF
+loop_
+_publ_author_name
+'Liu, Qiong'
+'Li, Zhi'
+'Wang, Ying'
+'Su, Xin'
+'Yang, Zhihua'
+'Pan, Shilie'
+_cell_length_a 7.257(8)
+_cell_length_b 7.173(8)
+_cell_length_c 7.866(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.983(10)
+_cell_angle_gamma 90.
+_cell_volume 368.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0175
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cs1+ 1
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.1021(8) 0.4247(8) 1.1857(7) 0.0207(10) 1 0
+Cs1 Cs1+ 4 e 0.16088(3) 0.13362(2) 0.82465(2) 0.02042(9) 1 0
+C1 C4+ 4 e -0.2208(5) -0.1676(4) 0.5999(4) 0.0151(5) 1 0
+O1 O2- 4 e 0.1928(3) 0.5352(3) 0.9812(3) 0.0203(4) 1 0
+O2 O2- 4 e 0.2350(4) 0.1652(3) 1.2424(3) 0.0226(5) 1 0
+O3 O2- 4 e 0.3783(4) -0.2018(3) 1.0676(3) 0.0240(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.015(3) 0.019(2) 0.025(3) 0.000(2) 0.006(2) 0.002(2)
+Cs1 Cs1+ 0.02044(14) 0.02096(13) 0.02057(13) 0.00022(7) 0.00963(9) -0.00034(6)
+C1 C4+ 0.0129(14) 0.0125(12) 0.0190(14) -0.0033(10) 0.0060(11) -0.0004(11)
+O1 O2- 0.0212(12) 0.0192(11) 0.0193(11) -0.0028(8) 0.0078(9) -0.0036(8)
+O2 O2- 0.0285(13) 0.0221(10) 0.0183(11) 0.0053(9) 0.0113(10) 0.0025(8)
+O3 O2- 0.0271(13) 0.0211(11) 0.0258(12) -0.0081(9) 0.0134(10) -0.0029(9)
+#End of TTdata_243972-ICSD

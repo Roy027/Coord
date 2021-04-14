@@ -1,0 +1,119 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_151063-ICSD
+_database_code_ICSD 151063
+_audit_creation_date 2006-04-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Bis(1,2-dimethoxyethane) lithium chloride'
+_chemical_formula_structural '(C2 H4 (C H3 O)2)2 Li Cl'
+_chemical_formula_sum 'C8 H20 Cl1 Li1 O4'
+_chemical_name_structure_type (C2H4(CH3O)2)2LiCl
+_exptl_crystal_density_diffrn 1.2
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Metallderivate von Molekuelverbindungen. IX.
+Bis(1,2-dimethoxyethan-O,O')lithium-phosphanid, -arsanid und -chlorid - drei
+neue Vertreter des Bis(1,2-dimethoxyethan-O,O')lithium-bromid-Typs
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1998
+624 469 482 ZAACAB
+loop_
+_publ_author_name
+'Becker, G.'
+'Eschbach, B.'
+'Mundt, O.'
+'Reti, M.'
+'Niecke, E.'
+'Issberner, K.'
+'Nieger, M.'
+'Thelen, V.'
+'Noeth, H.'
+'Waldhoer, R.'
+'Schmidt, M.'
+_cell_length_a 13.084(2)
+_cell_length_b 7.882(1)
+_cell_length_c 11.956(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.35(1)
+_cell_angle_gamma 90.
+_cell_volume 1227.63
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.058
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cl1- -1
+O0+ 0
+C0+ 0
+H0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0 0.0554(9) 0.25 0.030(1) 1. 0
+Cl1 Cl1- 4 e 0 -0.2473(1) 0.25 0.0338(3) 1. 0
+O1 O0+ 8 f -0.0154(2) 0.1852(3) 0.0985(2) 0.0314(5) 1. 0
+O2 O0+ 8 f 0.1549(1) 0.0967(2) 0.2256(2) 0.0296(5) 1. 0
+C1 C0+ 8 f 0.0819(2) 0.2214(4) 0.0587(2) 0.0366(7) 1. 0
+C2 C0+ 8 f -0.0875(3) 0.3174(4) 0.0680(3) 0.0411(7) 1. 0
+C3 C0+ 8 f 0.1562(2) 0.0909(4) 0.1072(2) 0.0361(7) 1. 0
+C4 C0+ 8 f 0.2320(2) -0.0085(4) 0.2827(3) 0.0408(7) 1. 0
+H1 H0+ 8 f 0.077 0.217 -0.023 0.044 1. 0
+H2 H0+ 8 f 0.105 0.334 0.082 0.044 1. 0
+H3 H0+ 8 f -0.152 0.29 0.095 0.062 1. 0
+H4 H0+ 8 f -0.062 0.423 0.1 0.062 1. 0
+H5 H0+ 8 f -0.096 0.328 -0.012 0.062 1. 0
+H6 H0+ 8 f 0.225 0.115 0.086 0.043 1. 0
+H7 H0+ 8 f 0.136 -0.021 0.079 0.043 1. 0
+H8 H0+ 8 f 0.228 0 0.362 0.061 1. 0
+H9 H0+ 8 f 0.221 -0.124 0.259 0.061 1. 0
+H10 H0+ 8 f 0.299 0.028 0.265 0.061 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.029(3) 0.034(3) 0.025(3) 0. -0.001(2) 0.
+Cl1 Cl1- 0.0415(6) 0.0289(5) 0.0297(5) 0. -0.0037(4) 0.
+O1 O0+ 0.031(1) 0.032(1) 0.031(1) 0.000(1) -0.002(1) 0.004(1)
+O2 O0+ 0.027(1) 0.032(1) 0.028(1) 0.005(1) -0.002(1) 0.001(1)
+C1 C0+ 0.036(1) 0.046(2) 0.027(1) -0.006(1) -0.001(1) 0.005(1)
+C2 C0+ 0.044(2) 0.036(2) 0.042(2) 0.006(1) -0.004(1) 0.010(1)
+C3 C0+ 0.034(1) 0.044(2) 0.030(1) -0.002(1) 0.004(1) -0.006(1)
+C4 C0+ 0.031(1) 0.043(2) 0.048(2) 0.010(1) -0.003(1) 0.007(1)
+#End of TTdata_151063-ICSD

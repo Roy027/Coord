@@ -1,0 +1,99 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426618-ICSD
+_database_code_ICSD 426618
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Dilithium indium trimolybdate (III,IV)'
+_chemical_formula_structural 'Li2 In Mo3 O8'
+_chemical_formula_sum 'In1 Li2 Mo3 O8'
+_exptl_crystal_density_diffrn 5.94
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, crystal structure and magnetic properties of Li2 In Mo3 O8: A novel
+reduced molybdenum oxide containing magnetic Mo3 clusters
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2013 208 99 102 JSSCBI
+loop_
+_publ_author_name
+'Gall, Philippe'
+'Rahal Al Orabi, Rabih Al'
+'Guizouarn, Thierry'
+'Gougeon, Patrick'
+_cell_length_a 5.7931(2)
+_cell_length_b 5.7931(2)
+_cell_length_c 10.4681(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 304.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.0158
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+In3+ 3
+Mo3+ 3.6667
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0. 0. -0.5858(11) 0.0085(15) 1 0
+Li2 Li1+ 2 b -0.3333 0.3333 -0.5005(11) 0.0076(18) 1 0
+In1 In3+ 2 b -0.3333 0.3333 -0.09331(3) 0.00610(6) 1 0
+Mo1 Mo3+ 6 c -0.37374(4) -0.18687(2) -0.30914(4) 0.00430(5) 1 0
+O1 O2- 6 c -0.4870(2) 0.4870(2) -0.9378(2) 0.0062(3) 1 0
+O2 O2- 6 c -0.1580(2) 0.1580(2) -0.2033(3) 0.0065(3) 1 0
+O3 O2- 2 a 0. 0. -0.4045(3) 0.0057(5) 1 0
+O4 O2- 2 b -0.3333 0.3333 -0.6739(4) 0.0079(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.00646(8) 0.00646(8) 0.00538(11) 0.00323(4) 0. 0.
+Mo1 Mo3+ 0.00387(7) 0.00421(6) 0.00470(8) 0.00193(4) -0.00009(7) -0.00004(4)
+O1 O2- 0.0056(5) 0.0056(5) 0.0073(8) 0.0029(6) -0.0002(3) 0.0002(3)
+O2 O2- 0.0052(5) 0.0052(5) 0.0077(8) 0.0016(6) 0.0006(3) -0.0006(3)
+O3 O2- 0.0069(8) 0.0069(8) 0.0032(12) 0.0034(4) 0. 0.
+O4 O2- 0.0078(9) 0.0078(9) 0.0082(15) 0.0039(4) 0. 0.
+#End of TTdata_426618-ICSD

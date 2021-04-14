@@ -1,0 +1,83 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167608-ICSD
+_database_code_ICSD 167608
+_audit_creation_date 2011-02-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Lithium iron phosphate hydroxide'
+_chemical_formula_structural 'Li Fe (P O4) (O H)'
+_chemical_formula_sum 'H1 Fe1 Li1 O5 P1'
+_chemical_name_structure_type LiAlPO4(OH/F)
+_chemical_name_mineral Tavorite
+_exptl_crystal_density_diffrn 3.32
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+The structure of tavorite Li Fe (P O4) (O H) from diffraction and GGA+U
+studies and its preliminary electrochemical characterization
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2010 39 5041 5188 DTARAF
+loop_
+_publ_author_name
+'Marx, N.'
+'Croguennec, L.'
+'Carlier, D.'
+'Wattiaux, A.'
+'le Cras, F.'
+'Suard, E.'
+'Delmas, C.'
+_cell_length_a 5.3528(6)
+_cell_length_b 7.2896(7)
+_cell_length_c 5.1187(5)
+_cell_angle_alpha 109.359(4)
+_cell_angle_beta 97.733(5)
+_cell_angle_gamma 106.359(5)
+_cell_volume 174.98
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P5+ 5
+O2- -2
+H1+ 1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 1 c 0 0.5 0 0.5(1) 1. 0
+Fe2 Fe3+ 1 a 0 0 0 1.0(2) 1. 0
+P1 P5+ 2 i 0.638(2) 0.769(2) 0.326(2) 0.5(2) 1. 0
+O1 O2- 2 i 0.660(2) 0.879(2) 0.112(2) 0.7(1) 1. 0
+O2 O2- 2 i 0.338(2) 0.664(2) 0.313(2) 1.0(2) 1. 0
+O3 O2- 2 i 0.950(2) 0.278(2) 0.163(2) 0.7(1) 1. 0
+O4 O2- 2 i 0.789(2) 0.614(2) 0.268(2) 1.0(2) 1. 0
+O5 O2- 2 i 0.241(2) 0.066(2) 0.367(2) 0.9(2) 1. 0
+H1 H1+ 2 i 0.069(4) 0.342(3) 0.355(4) 3.0(4) 1. 0
+Li1 Li1+ 2 i 0.610(8) 0.187(6) 0.255(7) 2.9(7) 1. 0
+#End of TTdata_167608-ICSD

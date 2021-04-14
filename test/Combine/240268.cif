@@ -1,0 +1,86 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240268-ICSD
+_database_code_ICSD 240268
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Lithium divanadium triphosphate'
+_chemical_formula_structural 'Li2.5 V2 (P O4)3'
+_chemical_formula_sum 'Li2.5 O12 P3 V2'
+_exptl_crystal_density_diffrn 3.04
+_publ_section_title
+
+;
+Li2.5V2(PO4)3: A Room-Temperature Analogue to the Fast-Ion Conducting
+High-Temperature -Phase of Li3V2(PO4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2004 16 1456 1465 CMATEX
+loop_
+_publ_author_name
+'Yin, S.-C.'
+'Strobel, P.S.'
+'Grondey, H.'
+'Nazar, L.F.'
+_cell_length_a 8.5539(4)
+_cell_length_b 8.6099(4)
+_cell_length_c 11.9825(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.002(7)
+_cell_angle_gamma 90.
+_cell_volume 882.49
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3.25
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 4 e 0.25054 0.4606 0.12595 0.006 1. 0
+V2 V3+ 4 e 0.74918 0.46844 0.39561 0.006 1. 0
+P1 P5+ 4 e 0.1069(17) 0.1023(18) 0.1462(14) 0.0149(16) 1. 0
+P2 P5+ 4 e 0.6014(17) 0.1108(18) 0.3517(13) 0.0149(16) 1. 0
+P3 P5+ 4 e 0.0390(13) 0.2537(23) 0.4955(13) 0.0149(16) 1. 0
+O1 O2- 4 e 0.9295(16) 0.1103(20) 0.1481(15) 0.0169(6) 1. 0
+O2 O2- 4 e 0.1594(20) 0.9873(20) 0.2334(15) 0.0169(6) 1. 0
+O3 O2- 4 e 0.1702(21) 0.0565(21) 0.0349(14) 0.0169(6) 1. 0
+O4 O2- 4 e 0.1614(19) 0.2682(20) 0.1733(14) 0.0169(6) 1. 0
+O5 O2- 4 e 0.4246(17) 0.0968(19) 0.3323(14) 0.0169(6) 1. 0
+O6 O2- 4 e 0.6880(19) 0.9908(21) 0.2796(14) 0.0169(6) 1. 0
+O7 O2- 4 e 0.6470(20) 0.0669(21) 0.4692(13) 0.0169(6) 1. 0
+O8 O2- 4 e 0.6505(21) 0.2753(20) 0.3146(14) 0.0169(6) 1. 0
+O9 O2- 4 e 0.9424(19) 0.1407(18) 0.5648(12) 0.0169(6) 1. 0
+O10 O2- 4 e 0.9297(19) 0.3354(17) 0.4123(13) 0.0169(6) 1. 0
+O11 O2- 4 e 0.1604(17) 0.1644(20) 0.4235(14) 0.0169(6) 1. 0
+O12 O2- 4 e 0.1254(16) 0.3465(21) 0.5828(13) 0.0169(6) 1. 0
+Li1 Li1+ 4 e 0.299(6) 0.270(5) 0.323(4) 0.026(7) 1. 0
+Li2 Li1+ 4 e 0.562(10) 0.394(10) 0.187(6) 0.026(7) 0.54(6) 0
+Li3 Li1+ 4 e 0.905(6) 0.300(6) 0.203(4) 0.026(7) 0.96(6) 0
+#End of TTdata_240268-ICSD

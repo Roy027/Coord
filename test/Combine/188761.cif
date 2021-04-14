@@ -1,0 +1,109 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_188761-ICSD
+_database_code_ICSD 188761
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Lithium aluminium magnesium molybdate (0.5/0.5/2/3)'
+_chemical_formula_structural '(Li0.5 Al0.5) Mg2 (Mo O4)3'
+_chemical_formula_sum 'Al0.5 Li0.5 Mg2 Mo3 O12'
+_exptl_crystal_density_diffrn 3.61
+_cell_measurement_temperature 298.
+_publ_section_title 'Li0.5 Al0.5 Mg2 (Mo O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2013 69
+i54 i55 ACSEBH
+loop_
+_publ_author_name
+'Ines Ennajeh'
+'Mohamed Faouzi Zid'
+'Ahmed Driss'
+_cell_length_a 6.8555(7)
+_cell_length_b 8.2910(9)
+_cell_length_c 9.5760(9)
+_cell_angle_alpha 96.032(7)
+_cell_angle_beta 106.743(8)
+_cell_angle_gamma 101.824(9)
+_cell_volume 502.28
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0208
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Mg2+ 2
+Li1+ 1
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 i 0.30272(5) 0.89586(4) 0.66046(3) 0.00921(10) 1 0
+Mo2 Mo6+ 2 i 0.98153(5) 0.19503(4) 0.87863(4) 0.01148(10) 1 0
+Mo3 Mo6+ 2 i 0.49457(5) 0.50622(4) 0.74760(3) 0.00964(10) 1 0
+Mg1 Mg2+ 2 i 0.53871(19) 0.19031(15) 0.99366(13) 0.0071(2) 1 0
+Mg2 Mg2+ 2 i 0.2478(2) 0.20149(16) 0.40750(14) 0.0096(2) 1 0
+Li1 Li1+ 2 i 0.0379(4) 0.6097(3) 0.7889(3) 0.0200(5) 0.5 0
+Al1 Al3+ 2 i 0.0379(4) 0.6097(3) 0.7889(3) 0.0200(5) 0.5 0
+O1 O2- 2 i 0.0505(4) 0.7660(3) 0.6386(3) 0.0131(5) 1 0
+O2 O2- 2 i 0.4454(4) 0.9765(4) 0.8546(3) 0.0147(6) 1 0
+O3 O2- 2 i 0.9874(5) 0.3666(4) 0.7886(4) 0.0252(7) 1 0
+O4 O2- 2 i 0.5435(5) 0.3564(4) 0.8579(3) 0.0212(6) 1 0
+O5 O2- 2 i 0.2586(5) 0.0618(4) 0.5726(3) 0.0197(6) 1 0
+O6 O2- 2 i 0.8558(5) 0.0118(4) 0.7493(3) 0.0212(6) 1 0
+O7 O2- 2 i 0.7368(4) 0.6232(4) 0.7376(3) 0.0138(5) 1 0
+O8 O2- 2 i 0.3563(4) 0.6386(4) 0.8234(3) 0.0151(6) 1 0
+O9 O2- 2 i 0.3363(5) 0.4040(4) 0.5737(3) 0.0165(6) 1 0
+O10 O2- 2 i 0.8481(5) 0.2198(4) 0.0140(3) 0.0180(6) 1 0
+O11 O2- 2 i 0.2432(5) 0.1911(4) 0.9700(4) 0.0226(7) 1 0
+O12 O2- 2 i 0.4468(5) 0.7896(4) 0.5776(3) 0.0177(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.00817(16) 0.01051(16) 0.00822(16) 0.00090(12) 0.00288(12) 0.00056(11)
+Mo2 Mo6+ 0.01273(17) 0.01071(17) 0.01133(17) 0.00244(12) 0.00502(12) 0.00086(12)
+Mo3 Mo6+ 0.00894(16) 0.01052(16) 0.00917(16) 0.00232(12) 0.00293(12) 0.00046(11)
+Mg1 Mg2+ 0.0077(6) 0.0069(6) 0.0065(5) 0.0020(4) 0.0020(4) 0.0006(4)
+Mg2 Mg2+ 0.0088(6) 0.0097(6) 0.0094(6) 0.0014(5) 0.0027(5) 0.0008(5)
+Li1 Li1+ 0.0172(10) 0.0215(11) 0.0203(11) 0.0038(9) 0.0046(9) 0.0060(9)
+Al1 Al3+ 0.0172(10) 0.0215(11) 0.0203(11) 0.0038(9) 0.0046(9) 0.0060(9)
+O1 O2- 0.0111(13) 0.0137(13) 0.0147(13) 0.0028(10) 0.0041(11) 0.0044(11)
+O2 O2- 0.0121(13) 0.0172(14) 0.0128(13) 0.0036(11) 0.0025(11) -0.0018(11)
+O3 O2- 0.0305(18) 0.0179(15) 0.0298(17) 0.0038(13) 0.0127(15) 0.0103(13)
+O4 O2- 0.0207(15) 0.0250(16) 0.0204(15) 0.0089(13) 0.0064(13) 0.0084(13)
+O5 O2- 0.0244(16) 0.0160(14) 0.0180(15) 0.0025(12) 0.0064(12) 0.0054(12)
+O6 O2- 0.0240(16) 0.0198(15) 0.0170(15) 0.0020(13) 0.0071(13) -0.0033(12)
+O7 O2- 0.0124(13) 0.0158(13) 0.0140(13) 0.0050(11) 0.0047(11) 0.0024(11)
+O8 O2- 0.0136(13) 0.0153(14) 0.0175(14) 0.0030(11) 0.0081(11) -0.0004(11)
+O9 O2- 0.0187(14) 0.0140(14) 0.0126(13) 0.0001(11) 0.0028(11) -0.0011(11)
+O10 O2- 0.0222(15) 0.0206(15) 0.0150(14) 0.0092(12) 0.0084(12) 0.0040(12)
+O11 O2- 0.0200(15) 0.0275(17) 0.0219(16) 0.0080(13) 0.0079(13) 0.0031(13)
+O12 O2- 0.0147(14) 0.0219(15) 0.0157(14) 0.0038(12) 0.0056(11) -0.0016(12)
+#End of TTdata_188761-ICSD

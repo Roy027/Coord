@@ -1,0 +1,84 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37060-ICSD
+_database_code_ICSD 37060
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Lithium catena-borate'
+_chemical_formula_structural 'Li B O2'
+_chemical_formula_sum 'B1 Li1 O2'
+_chemical_name_structure_type LiBO2
+_exptl_crystal_density_diffrn 2.22
+_publ_section_title
+
+;
+The Chemical Bonding in Lithium Metaborate, Li B O2. Charge Densities and
+Electrostatic Properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1983 39 175 185
+ASBSDK
+loop_
+_publ_author_name
+'Kirfel, A.'
+'Will, G.'
+'Stewart, R.F.'
+_cell_length_a 5.845(1)
+_cell_length_b 4.353(1)
+_cell_length_c 6.454(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.09(1)
+_cell_angle_gamma 90.
+_cell_volume 148.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0296
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.43293(19) 0.21439(28) 0.34451(19) . 1. 0
+B1 B3+ 4 e 0.12443(11) 0.67555(14) 0.27252(11) . 1. 0
+O1 O2- 4 e 0.08446(7) 0.35542(9) 0.25919(8) . 1. 0
+O2 O2- 4 e 0.35455(7) 0.77446(9) 0.31708(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.01100(41) 0.01489(48) 0.01909(53) 0.00065(37) 0.00714(39) -.00011(42)
+B1 B3+ 0.00897(22) 0.00588(17) 0.01366(24) 0.00003(15) 0.00523(19) 0.00002(16)
+O1 O2- 0.00852(14) 0.00528(12) 0.02600(23) -.00039(12) 0.00803(15) 0.00002(14)
+O2 O2- 0.00776(14) 0.00908(13) 0.01491(17) -.00145(12) 0.00536(13) -.00083(14)
+#End of TTdata_37060-ICSD

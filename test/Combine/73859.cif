@@ -1,0 +1,88 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73859-ICSD
+_database_code_ICSD 73859
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Lithium hydrogen iodate (0.7/0.3/1)'
+_chemical_formula_structural 'Li0.66 H0.34 (I O3)'
+_chemical_formula_sum 'H0.34 I1 Li0.66 O3'
+_chemical_name_structure_type LiIO3
+_exptl_crystal_density_diffrn 4.57
+_cell_measurement_temperature 110.
+_publ_section_title
+
+;
+Temperature dependence of the structure of Li1-xHxIO3 studied by high
+resolution neutron powder diffraction between 10 and 380K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1993 105 336 345 JSSCBI
+loop_
+_publ_author_name
+'Crettez, J.M.'
+'Coquet, E.'
+'Bouillot, J.'
+'le Roy, J.'
+'Pannetier, J.'
+_cell_length_a 5.54647(4)
+_cell_length_b 5.54647(4)
+_cell_length_c 4.90795(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 130.76
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+I5+ 5
+H1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0 0 -.049(3) . 0.66 0
+I1 I5+ 2 b 0.6667 0.3333 0 . 1. 0
+H1 H1+ 6 c 0.290(3) 0.051(3) 0.468(2) 1.54(18) 0.1133 0
+O1 O2- 6 c 0.3530(2) 0.2650(2) 0.1766(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ 0.008(1) 0.008(1) 0.052(2) 0.004(1) 0 0
+I1 I5+ 0.0085(5) 0.0085(5) 0.0199(3) 0.0043(3) 0 0
+O1 O2- 0.0086(2) 0.0149(3) 0.0298(2) 0.0056(3) 0.0044(6) -.0020(5)
+#End of TTdata_73859-ICSD

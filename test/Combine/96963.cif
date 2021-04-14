@@ -1,0 +1,91 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_96963-ICSD
+_database_code_ICSD 96963
+_audit_creation_date 2004-10-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic
+'Dilithium vanadium(III) vanadium(IV) tris(phosphate(V)) - D'
+_chemical_formula_structural 'Li2 V2 (P O4)3'
+_chemical_formula_sum 'Li2 O12 P3 V2'
+_chemical_name_structure_type Li2V2(PO4)3
+_exptl_crystal_density_diffrn 3.07
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Electrochemical property: structure relationships in monoclinic Li3-y V2 (P
+O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2003 125 10402 10411 JACSAT
+loop_
+_publ_author_name
+'Yin, S.-C.'
+'Grondey, H.'
+'Strobel, P.'
+'Anne, M.'
+'Nazar, L.F.'
+_cell_length_a 8.4567(2)
+_cell_length_b 8.6208(2)
+_cell_length_c 11.8958(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.236(2)
+_cell_angle_gamma 90
+_cell_volume 867.24
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0483
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3.5
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 4 e 0.253345 0.452058 0.116535 0.006 1. 0
+V2 V3+ 4 e 0.751568 0.471235 0.385596 0.006 1. 0
+P1 P5+ 4 e 0.1028(11) 0.1060(10) 0.1485(8) 0.0079(8) 1. 0
+P2 P5+ 4 e 0.6007(10) 0.1056(10) 0.3557(7) 0.0079(8) 1. 0
+P3 P5+ 4 e 0.0388(8) 0.2497(13) 0.4975(8) 0.0079(8) 1. 0
+O1 O2- 4 e 0.9272(8) 0.1150(9) 0.1482(7) 0.0105(4) 1. 0
+O2 O2- 4 e 0.1617(9) 0.9858(10) 0.2372(7) 0.0105(4) 1. 0
+O3 O2- 4 e 0.1694(9) 0.0492(9) 0.0360(7) 0.0105(4) 1. 0
+O4 O2- 4 e 0.1743(9) 0.2674(11) 0.1802(7) 0.0105(4) 1. 0
+O5 O2- 4 e 0.4224(9) 0.0908(8) 0.3403(7) 0.0105(4) 1. 0
+O6 O2- 4 e 0.6841(9) 0.9905(10) 0.2791(6) 0.0105(4) 1. 0
+O7 O2- 4 e 0.6445(9) 0.0739(9) 0.4784(6) 0.0105(4) 1. 0
+O8 O2- 4 e 0.6477(9) 0.2748(10) 0.3248(7) 0.0105(4) 1. 0
+O9 O2- 4 e 0.9347(9) 0.1240(9) 0.5613(6) 0.0105(4) 1. 0
+O10 O2- 4 e 0.9410(9) 0.3482(9) 0.4188(6) 0.0105(4) 1. 0
+O11 O2- 4 e 0.1631(8) 0.1624(10) 0.4263(6) 0.0105(4) 1. 0
+O12 O2- 4 e 0.1255(9) 0.3387(10) 0.5898(6) 0.0105(4) 1. 0
+Li1 Li1+ 4 e 0.2101(30) 0.7923(32) 0.1792(20) 0.0136(31) 1. 0
+Li2 Li1+ 4 e 0.7852(31) 0.2794(32) 0.1796(21) 0.0136(31) 1. 0
+#End of TTdata_96963-ICSD

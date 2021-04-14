@@ -1,0 +1,80 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237127-ICSD
+_database_code_ICSD 237127
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Iron lithium silicon oxide (1.05/1.95/1/4)'
+_chemical_formula_structural 'Fe1.05 Li1.95 Si O4'
+_chemical_formula_sum 'Fe1.05 Li1.95 O4 Si1'
+_chemical_name_structure_type Li2(Fe,Mn)SiO4
+_exptl_crystal_density_diffrn 3.25
+_publ_section_title
+
+;
+Structural study of monoclinic Li2 Fe Si O4 by X - ray diffraction and
+Mossbauer spectroscopy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Power Sources' 2014 265 75 80 JPSODZ
+loop_
+_publ_author_name
+'Jugovic, Dragana'
+'Milovic, Milos'
+'Ivanovski, Valentin N.'
+'Avdeev, Max'
+'Dominko, Robert'
+'Jokic, Bojan'
+'Uskokovic, Dragan'
+_cell_length_a 8.2329(14)
+_cell_length_b 5.0196(2)
+_cell_length_c 8.2347(14)
+_cell_angle_alpha 90
+_cell_angle_beta 99.107(3)
+_cell_angle_gamma 90
+_cell_volume 336.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0129
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.6499(4) 0.8974(10) 0.7071(6) 0.43(7) 1. 0
+Li2 Li1+ 4 e 0.5876(5) 0.2359(5) 0.0699(7) 0.43(7) 0.95 0
+Fe1 Fe2+ 4 e 0.5876(5) 0.2359(5) 0.0699(7) 0.43(7) 0.05 0
+Fe2 Fe2+ 4 e 0.2931(7) 0.8013(7) 0.5412(7) . 1. 0
+Si1 Si4+ 4 e 0.0416(1) 0.8124(2) 0.7958(1) . 1. 0
+O1 O2- 4 e 0.8658(11) 0.7174(10) 0.8174(2) . 1. 0
+O2 O2- 4 e 0.4139(2) 0.2077(3) 0.8828(2) . 1. 0
+O3 O2- 4 e 0.6878(2) 0.7698(2) 0.4352(5) . 1. 0
+O4 O2- 4 e 0.9704(2) 0.8674(2) 0.2142(2) . 1. 0
+#End of TTdata_237127-ICSD

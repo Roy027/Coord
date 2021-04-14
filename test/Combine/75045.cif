@@ -1,0 +1,89 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75045-ICSD
+_database_code_ICSD 75045
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Tripotassium lithium iridium(IV) oxide'
+_chemical_formula_structural 'K3 Li Ir O4'
+_chemical_formula_sum 'Ir1 K3 Li1 O4'
+_exptl_crystal_density_diffrn 4.3
+_publ_section_title
+
+;
+Tailormade: K3(Li(IrO4))= K6(1)(((O2)(LiO2IrO2)2)2), the first lithooxoiridate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1994 206 271 276 JALCEU
+loop_
+_publ_author_name
+'Mader, K.'
+'Hoppe, R.'
+_cell_length_a 10.6729(9)
+_cell_length_b 9.6836(8)
+_cell_length_c 5.8770(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.938(8)
+_cell_angle_gamma 90.
+_cell_volume 589.52
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir4+ 4
+K1+ 1
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir4+ 4 c 0.25 0.25 0 . 1. 0
+K1 K1+ 8 f 0.6542(1) 0.5893(1) 0.4746(2) . 1. 0
+K2 K1+ 4 e 0 0.4054(2) 0.25 . 1. 0
+Li1 Li1+ 4 e 0 0.7343(15) 0.25 . 1. 0
+O1 O2- 8 f 0.4110(3) 0.6762(4) 0.4709(6) . 1. 0
+O2 O2- 8 f 0.6584(4) 0.1372(4) 0.2459(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir4+ 0.0140(2) 0.0112(2) 0.0133(2) -.0006(1) 0.0052(1) -.0002(1)
+K1 K1+ 0.0244(5) 0.0188(5) 0.0202(5) -.0001(4) 0.0093(4) -.0005(4)
+K2 K1+ 0.0326(9) 0.0208(7) 0.0350(9) 0 0.0136(7) 0
+Li1 Li1+ 0.0193(86) 0.0186(59) 0.0200(84) 0 0.0060(65) 0
+O1 O2- 0.0158(16) 0.0230(16) 0.0228(17) 0.0040(14) 0.0078(13) -.0041(14)
+O2 O2- 0.0189(17) 0.0203(17) 0.0269(19) -.0018(13) 0.0030(14) -.0096(14)
+#End of TTdata_75045-ICSD

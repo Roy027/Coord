@@ -1,0 +1,87 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85439-ICSD
+_database_code_ICSD 85439
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Tetralithium pentamolybdate'
+_chemical_formula_structural 'Li4 (Mo5 O17)'
+_chemical_formula_sum 'Li4 Mo5 O17'
+_chemical_name_structure_type Cu4Mo5O17
+_exptl_crystal_density_diffrn 4.18
+_cell_measurement_temperature 300.
+_publ_section_title 'The crystal structure of lithiumpentamolybdate Li4 Mo5 O17'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 1997 212 795 800 ZEKRDZ
+loop_
+_publ_author_name
+'Wiesmann, M.'
+'Weitzel, H.'
+'Svoboda, I.'
+'Fuess, H.'
+_cell_length_a 6.7775(1)
+_cell_length_b 9.461(1)
+_cell_length_c 10.802(2)
+_cell_angle_alpha 73.16(2)
+_cell_angle_beta 88.98(1)
+_cell_angle_gamma 69.760(2)
+_cell_volume 619.38
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 i 0.3619(1) 0.8775(1) 0.0262(1) 0.008(1) 1. 0
+Mo2 Mo6+ 2 i 0.7431(1) 0.5419(1) 0.1487(1) 0.009(1) 1. 0
+Mo3 Mo6+ 2 i 0.5219(1) 0.7104(1) 0.7960(1) 0.010(1) 1. 0
+Mo4 Mo6+ 2 i 0.6150(1) 0.6937(1) 0.3907(1) 0.009(1) 1. 0
+Mo5 Mo6+ 2 i 0.1489(1) 0.0579(1) 0.6656(1) 0.013(1) 1. 0
+Li1 Li1+ 2 i 0.2623(7) 0.0482(5) 0.3647(5) 0.020(1) 1. 0
+Li2 Li1+ 2 i 0.8035(8) 0.2853(1) 0.4336(5) 0.023(1) 1. 0
+Li3 Li1+ 2 i 0.1796(9) 0.5985(8) 0.2991(8) 0.041(1) 1. 0
+Li4 Li1+ 2 i 0.9607(10) 0.7925(7) 0.9205(7) 0.039(1) 1. 0
+O1 O2- 2 i 0.3092(3) 0.0685(2) 0.0361(2) 0.013(1) 1. 0
+O2 O2- 2 i 0.3433(3) 0.8280(2) 0.6489(2) 0.012(1) 1. 0
+O3 O2- 2 i 0.3405(3) 0.9175(2) 0.8424(2) 0.011(1) 1. 0
+O4 O2- 2 i 0.1387(3) 0.8371(2) 0.0632(2) 0.017(1) 1. 0
+O5 O2- 2 i 0.7912(3) 0.3514(2) 0.1363(2) 0.013(1) 1. 0
+O6 O2- 2 i 0.9595(3) 0.5866(2) 0.0987(2) 0.017(1) 1. 0
+O7 O2- 2 i 0.5531(2) 0.6637(2) 0.9889(2) 0.011(1) 1. 0
+O8 O2- 2 i 0.7567(3) 0.5994(2) 0.5397(2) 0.017(1) 1. 0
+O9 O2- 2 i 0.9483(3) 0.9944(2) 0.7312(2) 0.015(1) 1. 0
+O10 O2- 2 i 0.7485(3) 0.7518(2) 0.7648(2) 0.016(1) 1. 0
+O11 O2- 2 i 0.5843(3) 0.5156(2) 0.7929(2) 0.013(1) 1. 0
+O12 O2- 2 i 0.0850(3) 0.1176(2) 0.4976(2) 0.014(1) 1. 0
+O13 O2- 2 i 0.5457(3) 0.7529(2) 0.1788(2) 0.012(1) 1. 0
+O14 O2- 2 i 0.5494(3) 0.9026(2) 0.3735(2) 0.012(1) 1. 0
+O15 O2- 2 i 0.7712(3) 0.5006(3) 0.3279(2) 0.012(1) 1. 0
+O16 O2- 2 i 0.0951(3) 0.2439(2) 0.6946(2) 0.013(1) 1. 0
+O17 O2- 2 i 0.3700(3) 0.6744(2) 0.4154(2) 0.016(1) 1. 0
+#End of TTdata_85439-ICSD

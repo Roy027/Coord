@@ -1,0 +1,111 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_241133-ICSD
+_database_code_ICSD 241133
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Tribarium dilithium divanadate tetrachloride'
+_chemical_formula_structural 'Ba3 Li2 V2 O7 Cl4'
+_chemical_formula_sum 'Ba3 Cl4 Li2 O7 V2'
+_exptl_crystal_density_diffrn 3.89
+_cell_measurement_temperature 293.
+_publ_section_title 'Ba3 Li2 V2 O7 Cl4, a new vanadate with a channel structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2008 64 i38 i40 ACSCEE
+loop_
+_publ_author_name
+'Reeswinkel, T.'
+'Sparta, K.M.'
+'Roth, G.'
+_cell_length_a 16.1215(14)
+_cell_length_b 5.7630(3)
+_cell_length_c 14.3795(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90.592(7)
+_cell_angle_gamma 90
+_cell_volume 1335.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+V5+ 5
+Cl1- -1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 i 0.133937(10) 0 0.279261(13) 0.01316(4) 1 0
+Ba2 Ba2+ 4 i 0.136184(10) 0 0.726277(13) 0.01414(4) 1 0
+Ba3 Ba2+ 2 b 0.5 0 0 0.01659(6) 1 0
+Ba4 Ba2+ 2 d 0.5 0 0.5 0.01711(6) 1 0
+V1 V5+ 4 i 0.31140(3) 0 0.87285(3) 0.00853(8) 1 0
+V2 V5+ 4 i 0.49634(3) 0 0.25169(3) 0.00830(8) 1 0
+Cl1 Cl1- 4 i 0.31137(4) 0 0.37832(5) 0.01569(13) 1 0
+Cl2 Cl1- 4 i 0.00143(6) 0 0.11521(6) 0.02670(18) 1 0
+Cl3 Cl1- 4 i 0.31537(4) 0 0.62089(5) 0.01562(13) 1 0
+Cl4 Cl1- 4 i 0.11507(5) 0 0.50133(5) 0.01677(13) 1 0
+O1 O2- 4 i 0.32993(14) 0 0.98736(15) 0.0177(5) 1 0
+O2 O2- 4 i 0.41184(13) 0 0.18266(16) 0.0185(5) 1 0
+O3 O2- 8 j 0.49752(9) 0.2336(3) 0.32264(11) 0.0132(3) 1 0
+O4 O2- 8 j 0.25850(9) 0.2358(3) 0.83436(11) 0.0153(3) 1 0
+O5 O2- 4 i 0.41276(13) 0 0.82120(17) 0.0178(5) 1 0
+Li1 Li1+ 4 i 0.3017(3) 0 0.1166(4) 0.0130(10) 1 0
+Li2 Li1+ 4 f 0.25 0.25 0.5 0.0280(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.01104(7) 0.01398(8) 0.01448(9) 0 0.00141(5) 0
+Ba2 Ba2+ 0.00985(7) 0.01665(9) 0.01588(9) 0 -0.00218(5) 0
+Ba3 Ba2+ 0.01104(9) 0.02688(14) 0.01181(11) 0 -0.00209(7) 0
+Ba4 Ba2+ 0.01941(11) 0.02040(13) 0.01153(11) 0 0.00064(8) 0
+V1 V5+ 0.00700(16) 0.01017(19) 0.0084(2) 0 0.00044(13) 0
+V2 V5+ 0.00686(16) 0.00952(19) 0.00852(17) 0 0.00053(13) 0
+Cl1 Cl1- 0.0145(3) 0.0158(3) 0.0168(3) 0 0.0017(2) 0
+Cl2 Cl1- 0.0419(5) 0.0238(4) 0.0144(3) 0 -0.0009(3) 0
+Cl3 Cl1- 0.0156(3) 0.0157(3) 0.0155(3) 0 -0.0013(2) 0
+Cl4 Cl1- 0.0174(3) 0.0185(3) 0.0144(3) 0 0.0003(2) 0
+O1 O2- 0.0163(9) 0.0288(13) 0.0080(9) 0 -0.0002(7) 0
+O2 O2- 0.0098(8) 0.0297(13) 0.0159(10) 0 -0.0028(7) 0
+O3 O2- 0.0128(6) 0.0131(7) 0.0137(7) -0.0004(5) 0.0010(5) -0.0021(6)
+O4 O2- 0.0138(6) 0.0140(7) 0.0181(7) 0.0049(6) 0.0002(5) -0.0006(6)
+O5 O2- 0.0094(8) 0.0275(13) 0.0166(10) 0 0.0037(7) 0
+Li1 Li1+ 0.014(2) 0.013(2) 0.012(2) 0 0.0034(17) 0
+Li2 Li1+ 0.037(4) 0.022(3) 0.025(3) 0.003(3) 0.000(2) 0.003(3)
+#End of TTdata_241133-ICSD

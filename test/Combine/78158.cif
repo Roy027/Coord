@@ -1,0 +1,88 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78158-ICSD
+_database_code_ICSD 78158
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Trilithium arsenate - gamma'
+_chemical_formula_structural 'Li3 (As O4)'
+_chemical_formula_sum 'As1 Li3 O4'
+_exptl_crystal_density_diffrn 2.95
+_cell_measurement_temperature 1123.
+_publ_section_title
+'Structure of gamma-Li3AsO4 by high temperature powder neutron diffraction'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1994 110 243 249 JSSCBI
+loop_
+_publ_author_name
+'Abrahams, I.'
+'Bruce, P.G.'
+'David, W.I.F.'
+'West, A.R.'
+_cell_length_a 10.9267(1)
+_cell_length_b 6.38247(7)
+_cell_length_c 5.16243(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 360.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0292
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 4 c 0.4125(1) 0.25 0.3147(3) . 1. 0
+O1 O2- 8 d 0.3392(1) 0.0331(2) 0.2125(3) . 1. 0
+O2 O2- 4 c 0.0562(2) 0.25 0.2928(5) . 1. 0
+O3 O2- 4 c 0.0889(2) 0.75 0.1424(4) . 1. 0
+Li1 Li1+ 4 c 0.429(1) 0.75 0.162(6) 2.3(1) 0.53(5) 0
+Li2 Li1+ 4 c 0.417(2) 0.75 0.254(7) 2.3(1) 0.47(5) 0
+Li3 Li1+ 8 d 0.1649(5) 0.5094(7) 0.303(1) 2.8(1) 0.818(9) 0
+Li4 Li1+ 8 d 0.172(2) 0.457(3) 0.172(5) 2.8(1) 0.182(9) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+As1 As5+ 1.48(6) 1.67(7) 1.8(1) 0 0.26(7) 0
+O1 O2- 2.46(5) 2.63(7) 4.53(8) -.37(5) -.43(7) -.66(6)
+O2 O2- 1.54(8) 3.16(8) 3.6(1) 0 -1.77(8) 0
+O3 O2- 2.77(9) 3.73(9) 2.0(1) 0 0.14(8) 0
+#End of TTdata_78158-ICSD

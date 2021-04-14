@@ -1,0 +1,115 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_187059-ICSD
+_database_code_ICSD 187059
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Trilithium dibarium trilanthanum octatungstate'
+_chemical_formula_structural 'Li3 Ba2 La3 (W O4)8'
+_chemical_formula_sum 'Ba2 La3 Li3 O32 W8'
+_chemical_name_structure_type Li3Ba2Tm3(MoO4)8
+_exptl_crystal_density_diffrn 6.59
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Structure, spectral properties and laser performance of Tm3+ - doped  Li3 Ba2
+La3 (W O4)8  crystal
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary CrystEngComm 2012 14 3930 3935 CRECF4
+loop_
+_publ_author_name
+'Pan, Yu.'
+'Chen, Yujin'
+'Lin, Yanfu'
+'Gong, Xinghong'
+'Huang, Jianhua'
+'Luo, Zundu'
+'Huang, Yidong'
+_cell_length_a 5.323(6)
+_cell_length_b 13.091(15)
+_cell_length_c 19.48(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.18(3)
+_cell_angle_gamma 90.
+_cell_volume 1357.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0358
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Ba2+ 2
+La3+ 3
+Li1+ 1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 f 0.00675(9) 0.43939(4) 0.09708(3) 0.0112(2) 1 0
+W2 W6+ 8 f 0.49222(10) 0.24059(4) 0.15539(3) 0.0106(2) 1 0
+Ba1 Ba2+ 4 e 0. 0.03003(8) 0.25 0.0117(3) 1 0
+La1 La3+ 8 f -0.00258(17) 0.14622(6) 0.03365(5) 0.0077(3) 0.75 0
+Li1 Li1+ 8 f -0.00258(17) 0.14622(6) 0.03365(5) 0.0077(3) 0.25 0
+O1 O2- 8 f 0.6414(19) 0.2575(6) 0.0759(5) 0.018(2) 1 0
+O2 O2- 8 f -0.1356(16) 0.4142(7) 0.1759(5) 0.014(2) 1 0
+O3 O2- 8 f 0.3475(16) 0.3552(6) 0.1819(5) 0.0128(19) 1 0
+O4 O2- 8 f -0.2438(17) 0.4829(6) 0.0411(5) 0.0142(19) 1 0
+O5 O2- 8 f 0.2321(16) 0.5388(6) 0.1098(5) 0.014(2) 1 0
+O6 O2- 8 f 0.2540(17) 0.1458(6) 0.1427(5) 0.015(2) 1 0
+O7 O2- 8 f 0.7283(18) 0.2026(7) 0.2155(5) 0.018(2) 1 0
+O8 O2- 8 f 0.1395(17) 0.3329(7) 0.0519(5) 0.017(2) 1 0
+Li2 Li1+ 4 e 0. 0.315(3) 0.25 0.028(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0107(4) 0.0133(4) 0.0096(4) -0.0021(2) 0.0020(3) -0.00220(19)
+W2 W6+ 0.0102(4) 0.0108(3) 0.0108(4) 0.00046(18) 0.0005(3) -0.00055(18)
+Ba1 Ba2+ 0.0137(6) 0.0092(6) 0.0124(6) 0. 0.0006(5) 0.
+La1 La3+ 0.0099(6) 0.0075(5) 0.0057(5) -0.0014(4) 0.0015(4) 0.0007(3)
+Li1 Li1+ 0.0099(6) 0.0075(5) 0.0057(5) -0.0014(4) 0.0015(4) 0.0007(3)
+O1 O2- 0.017(5) 0.013(5) 0.024(6) 0.004(4) 0.005(5) 0.000(4)
+O2 O2- 0.010(5) 0.018(5) 0.014(5) 0.007(4) -0.002(4) -0.006(4)
+O3 O2- 0.008(5) 0.020(5) 0.010(5) 0.001(3) -0.002(4) -0.001(4)
+O4 O2- 0.014(5) 0.012(4) 0.016(5) 0.001(4) -0.005(4) -0.001(4)
+O5 O2- 0.008(5) 0.012(4) 0.021(5) -0.004(3) -0.002(4) 0.000(4)
+O6 O2- 0.010(5) 0.010(5) 0.024(6) 0.000(3) 0.001(4) 0.001(4)
+O7 O2- 0.020(5) 0.012(5) 0.022(6) -0.001(4) 0.000(4) 0.002(4)
+O8 O2- 0.010(5) 0.022(5) 0.020(6) 0.005(4) 0.002(4) 0.002(4)
+Li2 Li1+ 0.06(3) 0.016(17) 0.005(16) 0. 0.000(17) 0.
+#End of TTdata_187059-ICSD

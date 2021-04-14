@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280109-ICSD
+_database_code_ICSD 280109
+_audit_creation_date 2000-07-15
+_chemical_name_systematic 'Lithium aluminium catena-disilicate - alpha'
+_chemical_formula_structural 'Li Al (Si2 O6)'
+_chemical_formula_sum 'Al1 Li1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Spodumene
+_exptl_crystal_density_diffrn 3.18
+_publ_section_title
+
+;
+Electron density distribution and madelung potential in alpha-spodumene Li Al
+(Si O3)2 from two wavelengths high resolution x-ray diffraction data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1999 55 273 284
+ASBSDK
+loop_
+_publ_author_name
+'Kuntzinger, S.'
+'Ghermani, N.E.'
+_cell_length_a 9.462(1)
+_cell_length_b 8.392(1)
+_cell_length_c 5.221(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.18(1)
+_cell_angle_gamma 90.
+_cell_volume 389.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 f 0.29410(1) 0.09347(1) 0.25592(1) . 1. 0
+Al1 Al3+ 4 e 0 0.90667(1) 0.25 . 1. 0
+O1 O2- 8 f 0.10971(2) 0.08232(2) 0.14056(4) . 1. 0
+O2 O2- 8 f 0.36470(2) 0.26713(2) 0.30048(4) . 1. 0
+O3 O2- 8 f 0.35663(2) 0.98674(3) 0.05827(4) . 1. 0
+Li1 Li1+ 4 e 0 0.27467(13) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.00360(2) 0.00432(2) 0.00332(2) -.00061(2) 0.00109(2) -.00019(2)
+Al1 Al3+ 0.00407(3) 0.00419(3) 0.00393(3) 0 0.00126(3) 0
+O1 O2- 0.00368(4) 0.00563(5) 0.00463(5) -.00036(4) 0.00090(4) 0.00013(4)
+O2 O2- 0.00799(6) 0.00560(5) 0.00983(6) -.00293(4) 0.00393(5) -.00098(5)
+O3 O2- 0.00572(5) 0.01129(6) 0.00508(5) 0.00067(5) 0.00139(4) -.00337(5)
+Li1 Li1+ 0.0146(4) 0.0139(4) 0.0159(4) 0 0.0058(3) 0
+#End of TTdata_280109-ICSD

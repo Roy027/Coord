@@ -1,0 +1,83 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248811-ICSD
+_database_code_ICSD 248811
+_audit_creation_date 2015-02-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic
+'Lithium copper aluminium orthophosphate (4.78/2.16/0.94/4)'
+_chemical_formula_structural 'Li4.78 Cu2.16 Al0.94 (P O4)4'
+_chemical_formula_sum 'Al0.94 Cu2.16 Li4.78 O16 P4'
+_exptl_crystal_density_diffrn 3.36
+_publ_section_title
+'Synthesis and crystal structure of novel complex phosphate Li5 Cu2 Al (P O4)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystallography Reports' 2014 59 166 173 CYSTE3
+loop_
+_publ_author_name
+'Shvanskaya, L.V.'
+'Yakubovich, O.V.'
+_cell_length_a 4.860(5)
+_cell_length_b 7.788(5)
+_cell_length_c 8.324(5)
+_cell_angle_alpha 69.542(5)
+_cell_angle_beta 90.016(5)
+_cell_angle_gamma 75.318(5)
+_cell_volume 284.17
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0274
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Cu2+ 2
+Li1+ 1
+Cu2+ 2
+Li1+ 1
+Cu2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 1 f 0.5 0 0.5 0.0057(2) 0.939(3) 0
+Cu1 Cu2+ 1 f 0.5 0 0.5 0.0057(2) 0.061(3) 0
+Cu2 Cu2+ 1 a 0 0 0 0.00833(9) 1. 0
+Li1 Li1+ 2 i 0.8279(10) 0.3977(6) 0.1056(6) 0.0166(13) 0.943(17) 0
+Cu3 Cu2+ 2 i 0.40190(10) 0.25415(7) 0.71626(6) 0.00811(14) 0.526(1) 0
+Li2 Li1+ 2 i 0.40190(10) 0.25415(7) 0.71626(6) 0.00811(14) 0.474(1) 0
+Li3 Li1+ 2 i 0.2493(12) 0.4815(7) 0.2869(7) 0.0243(11) 0.982(1) 0
+Cu4 Cu2+ 2 i 0.152(5) 0.554(3) 0.213(3) 0.0243(11) 0.018(1) 0
+P1 P5+ 2 i -0.13050(12) 0.29130(8) 0.47095(7) 0.00621(11) 1. 0
+P2 P5+ 2 i 0.41595(12) 0.19214(8) 0.09329(7) 0.00601(11) 1. 0
+O1 O2- 2 i 0.2555(3) 0.1639(2) -0.0526(2) 0.0078(3) 1. 0
+O2 O2- 2 i -0.2100(4) 0.4793(2) 0.3127(2) 0.0135(4) 1. 0
+O3 O2- 2 i 0.2631(3) 0.3813(2) 0.1076(2) 0.0112(3) 1. 0
+O4 O2- 2 i 0.4157(3) 0.0258(2) 0.2623(2) 0.0097(3) 1. 0
+O5 O2- 2 i -0.2381(3) 0.3206(2) 0.6339(2) 0.0110(3) 1. 0
+O6 O2- 2 i 0.2017(3) 0.2258(2) 0.4921(2) 0.0093(3) 1. 0
+O7 O2- 2 i 0.7193(3) 0.1990(2) 0.0439(2) 0.0104(3) 1. 0
+O8 O2- 2 i -0.2564(3) 0.1520(2) 0.4270(2) 0.0094(3) 1. 0
+#End of TTdata_248811-ICSD

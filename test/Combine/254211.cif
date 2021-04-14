@@ -1,0 +1,95 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_254211-ICSD
+_database_code_ICSD 254211
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Tridecalithium chromium(III) octakis(selenate(IV))'
+_chemical_formula_structural 'Li13 Cr (Se O3)8'
+_chemical_formula_sum 'Cr1 Li13 O24 Se8'
+_exptl_crystal_density_diffrn 3.33
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Li13Mn(SeO3)8: Lithium-rich transition metal selenite containing Jahn-Teller
+distortive cations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 9369 9375 INOCAJ
+loop_
+_publ_author_name
+'Jo, Hongil'
+'Song, Seung Yoon'
+'Cho, Eunjeong'
+'So, Jongho'
+'Lee, Suheon'
+'Choi, Kwang Yong'
+'Ok, Kang Min'
+_cell_length_a 9.57663(6)
+_cell_length_b 9.57663(6)
+_cell_length_c 21.79040(17)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1730.69
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0441
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+O2- -2
+Cr3+ 3
+Se4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 18 f 0.856(4) 1.121(4) 0.1068(8) 0.4(3) 1. 0
+Li2 Li1+ 18 f 0.480(4) 0.497(4) 0.1328(8) 0.4(3) 1. 0
+Li3 Li1+ 3 b 0.3333 0.6667 0.1667 0.4(3) 1. 0
+O1 O2- 18 f 0.8148(8) 0.8535(10) 0.0558(3) 0.6(2) 1. 0
+O2 O2- 18 f 0.6508(10) 1.0085(11) 0.0737(3) 0.5(2) 1. 0
+O3 O2- 18 f 0.5485(8) 0.7169(8) 0.1171(3) 0.3(2) 1. 0
+O4 O2- 18 f 0.4934(8) 0.1905(11) 0.1419(3) 0.7(2) 1. 0
+Cr1 Cr3+ 3 a 1 1 0 0.27(12) 1. 0
+Se1 Se4+ 18 f 0.62103(15) 0.8270(2) 0.05182(6) 0.20(4) 1. 0
+Se2 Se4+ 6 c 0.6667 0.3333 0.10878(11) 0.30(6) 1. 0
+#End of TTdata_254211-ICSD

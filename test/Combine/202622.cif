@@ -1,0 +1,112 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202622-ICSD
+_database_code_ICSD 202622
+_audit_creation_date 1989-06-19
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Potassium ditin trilithium silicate - SAMPLE I'
+_chemical_formula_structural 'K Sn2 Li3 Si12 O30'
+_chemical_formula_sum 'K1 Li3 O30 Si12 Sn2'
+_chemical_name_structure_type KMg2Al3(Al2Si10O30)
+_chemical_name_mineral Brannockite
+_exptl_crystal_density_diffrn 2.99
+_publ_section_title
+
+;
+Crystal chemistry of double-ring silicates: Structures of sugulite and
+brannockite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1988 73 595 600 AMMIAY
+loop_
+_publ_author_name
+'Armbruster, T.'
+'Oberhaensli, R.'
+_cell_length_a 10.002(2)
+_cell_length_b 10.002(2)
+_cell_length_c 14.263(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1235.71
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 6/m c c'
+_symmetry_Int_Tables_number 192
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x, x-y, -z+1/2'
+5 '-x+y, y, -z+1/2'
+6 '-y, -x, -z+1/2'
+7 'x-y, x, z'
+8 'y, -x+y, z'
+9 '-x, -y, z'
+10 'x-y, x, -z'
+11 'y, -x+y, -z'
+12 '-x, -y, -z'
+13 '-x, -x+y, -z+1/2'
+14 'x-y, -y, -z+1/2'
+15 'y, x, -z+1/2'
+16 '-x, -x+y, z+1/2'
+17 'x-y, -y, z+1/2'
+18 'y, x, z+1/2'
+19 '-x+y, -x, -z'
+20 '-y, x-y, -z'
+21 'x, y, -z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Sn4+ 4
+Li1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 a 0 0 0.25 . 1. 0
+Sn1 Sn4+ 4 c 0.3333 0.6667 0.25 . 1. 0
+Li1 Li1+ 6 f 0.5 0.5 0.25 . 1. 0
+Si1 Si4+ 24 m 0.23866(7) 0.35649(7) 0.39057(5) . 1. 0
+O1 O2- 12 l 0.1318(3) 0.3977(4) 0 . 1. 0
+O2 O2- 24 m 0.2237(2) 0.2807(2) 0.1342(2) . 1. 0
+O3 O2- 24 m 0.1598(2) 0.5038(2) 0.1726(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0157(5) 0.0157(5) 0.00174(8) 0.0079(3) 0 0
+Sn1 Sn4+ 0.0046(1) 0.0046(1) 0.0045(1) 0.0023(1) 0 0
+Li1 Li1+ 0.019(4) 0.019(4) 0.008(3) 0.015(4) 0 0
+Si1 Si4+ 0.0038(2) 0.0041(2) 0.0029(2) 0.0022(2) 0.0006(2) 0.0011(2)
+O1 O2- 0.019(1) 0.016(1) 0.003(1) 0.008(1) 0 0
+O2 O2- 0.0087(7) 0.0128(8) 0.0134(8) 0.0081(7) 0.0006(6) 0.0004(6)
+O3 O2- 0.0077(6) 0.0050(6) 0.0072(6) 0.0033(5) -.0013(5) -.0036(5)
+#End of TTdata_202622-ICSD

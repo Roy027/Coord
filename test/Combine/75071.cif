@@ -1,0 +1,99 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75071-ICSD
+_database_code_ICSD 75071
+_audit_creation_date 1995-10-17
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Diindium(I) dilithium dodeca-mue-chloro-octahedro-hexakis(chloroniobate)'
+_chemical_formula_structural 'In2 Li2 ((Nb Cl)6 Cl12)'
+_chemical_formula_sum 'Cl18 In2 Li2 Nb6'
+_chemical_name_structure_type Li2In2Nb6Cl18
+_exptl_crystal_density_diffrn 3.73
+_publ_section_title
+'Synthesis, crystal structure and electronic structure of In2 Li2 Nb6 Cl18'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1994 110 15 19 JSSCBI
+loop_
+_publ_author_name
+'Lachgar, A.'
+'Meyer, H.J.'
+_cell_length_a 9.236(2)
+_cell_length_b 9.291(2)
+_cell_length_c 9.282(2)
+_cell_angle_alpha 119.50(3)
+_cell_angle_beta 96.50(3)
+_cell_angle_gamma 105.17(3)
+_cell_volume 640.7
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.33
+In1+ 1
+Li1+ 1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 2 i 0.14154(5) 0.25132(6) 0.57245(6) . 1. 0
+Nb2 Nb2+ 2 i 0.14379(5) 0.02202(6) 0.70378(6) . 1. 0
+Nb3 Nb2+ 2 i 0.13471(5) 0.89153(6) 0.34317(6) . 1. 0
+In1 In1+ 2 i 0.66173(8) 0.51710(9) 0.73243(9) . 1. 0
+Li1 Li1+ 2 i 0.6201(10) 0.1897(11) 0.0498(10) . 1. 0
+Cl1 Cl1- 2 i 0.3261(2) 0.9005(2) 0.5561(2) . 1. 0
+Cl2 Cl1- 2 i 0.9896(2) 0.8485(2) 0.0770(2) . 1. 0
+Cl3 Cl1- 2 i 0.3247(2) 0.1693(2) 0.4010(2) . 1. 0
+Cl4 Cl1- 2 i 0.9921(2) 0.5785(2) 0.2333(2) . 1. 0
+Cl5 Cl1- 2 i 0.9972(2) 0.2697(2) 0.3463(2) . 1. 0
+Cl6 Cl1- 2 i 0.6655(2) 0.6763(2) 0.1725(2) . 1. 0
+Cl7 Cl1- 2 i 0.3032(2) 0.7512(2) 0.1525(2) . 1. 0
+Cl8 Cl1- 2 i 0.3307(2) 0.0584(2) 0.9664(2) . 1. 0
+Cl9 Cl1- 2 i 0.6713(2) 0.4344(2) 0.3383(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb2+ 0.0106(2) 0.0112(2) 0.0124(2) 0.0034(2) 0.0028(2) 0.0066(2)
+Nb2 Nb2+ 0.0104(2) 0.0123(2) 0.0112(2) 0.0037(2) 0.0022(2) 0.0066(2)
+Nb3 Nb2+ 0.0106(2) 0.0121(2) 0.0117(2) 0.0044(2) 0.0032(2) 0.0063(2)
+In1 In1+ 0.0358(3) 0.0464(3) 0.0437(3) 0.0119(3) 0.0095(2) 0.0230(3)
+Li1 Li1+ 0.0433(14) 0.0394(13) 0.0197(13) 0.0200(13) 0.0138(13) 0.0197(13)
+Cl1 Cl1- 0.0157(5) 0.0245(6) 0.0171(5) 0.0108(4) 0.0046(4) 0.0110(5)
+Cl2 Cl1- 0.0189(5) 0.0238(6) 0.0133(5) 0.0103(4) 0.0051(4) 0.0100(4)
+Cl3 Cl1- 0.0157(5) 0.0164(5) 0.0224(6) 0.0049(4) 0.0092(4) 0.0103(4)
+Cl4 Cl1- 0.0184(5) 0.0138(5) 0.0217(5) 0.0061(4) 0.0079(4) 0.0075(4)
+Cl5 Cl1- 0.0195(5) 0.0172(5) 0.0203(5) 0.0043(4) 0.0022(4) 0.0127(4)
+Cl6 Cl1- 0.0155(5) 0.0166(5) 0.0177(5) 0.0017(4) -.0006(4) 0.0091(4)
+Cl7 Cl1- 0.0216(6) 0.0242(6) 0.0219(6) 0.0121(5) 0.0113(5) 0.0127(5)
+Cl8 Cl1- 0.0190(5) 0.0252(6) 0.0188(5) 0.0086(5) 0.0019(4) 0.0135(5)
+Cl9 Cl1- 0.0214(6) 0.0149(5) 0.0227(6) 0.0029(4) 0.0047(5) 0.0096(5)
+#End of TTdata_75071-ICSD

@@ -1,0 +1,96 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195634-ICSD
+_database_code_ICSD 195634
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Tristrontium lithium diarsenide hydride'
+_chemical_formula_structural 'Sr3 Li As2 H'
+_chemical_formula_sum 'H1 As2 Li1 Sr3'
+_exptl_crystal_density_diffrn 4.13
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Zintl-phase Sr3 Li As2 H: crystal structure and chemical bonding analysis by
+the electron localizability approach
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2015 21 14471 14477 CEUJED
+loop_
+_publ_author_name
+'Feng, Xian-Juan'
+'Prots, Yurii'
+'Bobnar, Matej'
+'Schmidt, Marcus Peter'
+'Schnelle, Walter'
+'Zhao, Jing-Tai'
+'Grin, Yuri'
+_cell_length_a 12.0340(7)
+_cell_length_b 4.4698(2)
+_cell_length_c 12.5907(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 677.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+As3- -3
+Li1+ 1
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 c 0.0608(1) 0.25 0.3781(1) 1.10(3) 1. 0
+Sr2 Sr2+ 4 c 0.2060(1) 0.25 0.70193(6) 1.14(3) 1. 0
+Sr3 Sr2+ 4 c 0.3686(1) 0.25 0.44002(5) 1.03(3) 1. 0
+As1 As3- 4 c 0.3132(1) 0.25 0.01464(6) 1.01(3) 1. 0
+As2 As3- 4 c 0.4761(1) 0.25 0.67595(6) 0.97(3) 1. 0
+Li1 Li1+ 4 c 0.136(3) 0.25 0.1395(10) 2.0(9) 1. 0
+H1 H1- 4 c 0.24(2) 0.25 0.27(2) 2.0(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Sr1 Sr2+ 0.86(4) 1.28(4) 1.17(4) 0. 0.00(3) 0.
+Sr2 Sr2+ 0.81(4) 1.10(4) 1.50(4) 0. 0.12(3) 0.
+Sr3 Sr2+ 0.92(4) 1.18(4) 0.99(4) 0. -0.01(3) 0.
+As1 As3- 0.80(4) 0.95(5) 1.28(5) 0. 0.07(4) 0.
+As2 As3- 0.79(4) 0.99(4) 1.13(4) 0. -0.08(4) 0.
+#End of TTdata_195634-ICSD
