@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150469-ICSD
+_database_code_ICSD 150469
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Trisodium dysprosium hexasilicate'
+_chemical_formula_structural 'Na3 Dy (Si6 O15)'
+_chemical_formula_sum 'Dy1 Na3 O15 Si6'
+_chemical_name_structure_type Tuhualite
+_exptl_crystal_density_diffrn 3.11
+_publ_section_title
+
+;
+Structure determination of Na3 Dy Si6 O15 and crystal chemistry of zektzerite
+related compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 4777 4784 JSSCBI
+loop_
+_publ_author_name
+'Ziadi, A.'
+'Hillebrecht, H.'
+'Thiele, G.'
+'Elouadi, B.'
+_cell_length_a 14.591(7)
+_cell_length_b 17.813(4)
+_cell_length_c 10.519(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2733.99
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.0297
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Dy3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0 0.4262(3) 0.2481(3) 0.049(3) 1. 0
+Na2 Na1+ 8 e 0.25 0.2236(2) 0.25 0.032(2) 1. 0
+Na3 Na1+ 8 d 0.2381(2) 0 0 0.021(1) 1. 0
+Dy1 Dy3+ 8 e 0.25 -0.08940(2) 0.25 0.0061(2) 1. 0
+Si1 Si4+ 16 g 0.39260(7) 0.13500(6) 0.0210(1) 0.0068(5) 1. 0
+Si2 Si4+ 16 g 0.39004(7) 0.08259(5) 0.3002(1) 0.0057(5) 1. 0
+Si3 Si4+ 16 g 0.39285(7) 0.19092(6) 0.53324(9) 0.0063(5) 1. 0
+O1 O2- 16 g 0.3827(2) 0.2230(2) -0.0134(3) 0.017(2) 1. 0
+O2 O2- 16 g 0.3370(2) 0.0855(1) -0.0750(3) 0.012(2) 1. 0
+O3 O2- 16 g 0.3584(2) 0.1242(2) 0.1687(3) 0.012(1) 1. 0
+O4 O2- 16 g 0.1534(2) 0.0024(2) 0.1801(3) 0.014(1) 1. 0
+O5 O2- 16 g 0.3585(2) 0.1403(2) 0.4125(3) 0.012(1) 1. 0
+O6 O2- 16 g 0.3362(2) 0.1760(2) 0.6579(3) 0.014(2) 1. 0
+O7 O2- 8 f 0.5 0.1120(3) 0.0112(4) 0.016(2) 1. 0
+O8 O2- 8 f 0.5 0.0747(4) 0.2982(4) 0.015(2) 1. 0
+O9 O2- 8 f 0.5 0.1699(2) 0.5590(4) 0.016(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.058(3) 0.035(2) 0.052(3) 0. 0. -0.006(1)
+Na2 Na1+ 0.033(1) 0.017(2) 0.046(1) 0. 0.024(1) 0.
+Na3 Na1+ 0.017(1) 0.034(2) 0.012(1) 0. 0. 0.013(1)
+Dy1 Dy3+ 0.0062(2) 0.0092(2) 0.0029(2) 0. 0.00010(7) 0.
+Si1 Si4+ 0.0066(5) 0.0105(5) 0.0032(5) -0.0005(4) -0.0009(4) -0.0008(5)
+Si2 Si4+ 0.0047(5) 0.0092(5) 0.0033(6) -0.0012(3) -0.0001(4) -0.0012(4)
+Si3 Si4+ 0.0067(5) 0.0090(5) 0.0032(5) -0.0010(4) 0.0015(3) -0.0009(4)
+O1 O2- 0.030(2) 0.009(1) 0.011(1) -0.001(1) 0.001(1) -0.002(1)
+O2 O2- 0.015(2) 0.015(1) 0.007(1) -0.003(1) -0.007(1) 0.001(1)
+O3 O2- 0.010(1) 0.019(1) 0.006(1) 0.004(1) -0.001(1) 0.002(1)
+O4 O2- 0.016(1) 0.014(1) 0.011(1) 0.004(1) 0.000(1) 0.001(1)
+O5 O2- 0.011(1) 0.017(1) 0.008(1) 0.001(1) -0.001(1) -0.005(1)
+O6 O2- 0.016(2) 0.017(1) 0.008(1) -0.005(1) 0.005(1) -0.000(1)
+O7 O2- 0.008(2) 0.027(2) 0.012(2) 0. 0. 0.000(2)
+O8 O2- 0.006(2) 0.026(2) 0.012(2) 0. 0. -0.001(2)
+O9 O2- 0.010(2) 0.022(2) 0.016(2) 0. 0. -0.003(2)
+#End of TTdata_150469-ICSD

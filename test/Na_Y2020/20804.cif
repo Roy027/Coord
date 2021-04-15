@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20804-ICSD
+_database_code_ICSD 20804
+_audit_creation_date 1984-11-20
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Sodium tin(IV) catena-silicate'
+_chemical_formula_structural 'Na8 (Sn (Si6 O18))'
+_chemical_formula_sum 'Na8 O18 Si6 Sn1'
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title
+'About the crystal structure of Sn-silicate Na8 (Sn (Si6 O18))'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1980 255 1114 1116 DANKAS
+loop_
+_publ_author_name
+'Safronov, A.N.'
+'Nevskii, N.N.'
+'Ilyukhin, V.V.'
+'Belov, N.V.'
+_cell_length_a 7.344(1)
+_cell_length_b 7.344(1)
+_cell_length_c 7.344(1)
+_cell_angle_alpha 87.85(1)
+_cell_angle_beta 87.85(1)
+_cell_angle_gamma 87.85(1)
+_cell_volume 395.28
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'R -3 m R'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -y, -x'
+2 '-z, -x, -y'
+3 '-x, -z, -y'
+4 '-y, -z, -x'
+5 '-y, -x, -z'
+6 '-x, -y, -z'
+7 'z, y, x'
+8 'z, x, y'
+9 'x, z, y'
+10 'y, z, x'
+11 'y, x, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 1 a 0 0 0 0.39(3) 1. 0
+Si1 Si4+ 6 h 0.279(6) 0.279(6) 0.735(1) 0.41(3) 1. 0
+Na1 Na1+ 2 c 0.245(25) 0.245(25) 0.245(25) 0.98(8) 1. 0
+Na2 Na1+ 3 d 0 0 0.5 1.25(7) 1. 0
+Na3 Na1+ 3 e 0.5 0.5 0 1.32(7) 1. 0
+O1 O2- 6 h 0.212(19) 0.212(19) 0.550(1) 1.82(10) 1. 0
+O2 O2- 6 h 0.188(17) 0.188(17) 0.919(1) 0.82(7) 1. 0
+O3 O2- 6 g 0.243(21) 0.757(21) 0.5 1.97(9) 1. 0
+#End of TTdata_20804-ICSD

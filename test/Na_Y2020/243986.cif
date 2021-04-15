@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243986-ICSD
+_database_code_ICSD 243986
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Dirubidium sodium tris(nitrate)'
+_chemical_formula_structural 'Rb2 Na (N O3)3'
+_chemical_formula_sum 'N3 Na1 O9 Rb2'
+_exptl_crystal_density_diffrn 2.7
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Rb2Na(NO3)3: a congruently melting UV-NLO crystal with a very strong
+second-harmonic generation response
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Crystals 2016 6 42-1 42-14 CRYSBC
+loop_
+_publ_author_name
+'Zou, Guohong'
+'Lin, Chensheng'
+'Gu Kim, Hyung'
+'Jo, Hongil'
+'Ok, Kang Min'
+_cell_length_a 5.313(2)
+_cell_length_b 9.077(4)
+_cell_length_c 9.700(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 467.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m c 21'
+_symmetry_Int_Tables_number 26
+_refine_ls_R_factor_all 0.0285
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Na1+ 1
+N5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 b 0.5 0.08284(7) 0.53258(6) 0.0278(2) 1 0
+Rb2 Rb1+ 2 b 0.5 -0.37843(7) 0.70652(6) 0.0290(2) 1 0
+Na1 Na1+ 2 a 1. 0.2987(3) 0.7520(3) 0.0312(6) 1 0
+N1 N5+ 2 a 1. -0.0531(6) 0.7396(6) 0.0238(11) 1 0
+N2 N5+ 2 b 0.5 -0.2517(6) 0.3837(6) 0.0249(11) 1 0
+N3 N5+ 2 a 1. 0.4120(6) 0.4519(6) 0.0234(12) 1 0
+O1 O2- 2 a 1. 0.0592(6) 0.6636(6) 0.0365(12) 1 0
+O2 O2- 4 c 0.7910(10) -0.1055(5) 0.7734(6) 0.0557(12) 1 0
+O3 O2- 4 c 0.2975(7) -0.2289(4) 0.4447(4) 0.0394(9) 1 0
+O4 O2- 2 b 0.5 -0.2987(6) 0.2620(5) 0.0343(11) 1 0
+O5 O2- 2 a 1. 0.5419(6) 0.8311(6) 0.0340(11) 1 0
+O6 O2- 4 c 0.7977(10) 0.3903(5) 0.5120(6) 0.0573(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0275(3) 0.0336(3) 0.0222(3) 0. 0. -0.0044(3)
+Rb2 Rb1+ 0.0302(4) 0.0258(3) 0.0309(4) 0. 0. 0.0044(3)
+Na1 Na1+ 0.0314(14) 0.0246(13) 0.0375(15) 0. 0. -0.0049(11)
+#End of TTdata_243986-ICSD

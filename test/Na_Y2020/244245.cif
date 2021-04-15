@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_244245-ICSD
+_database_code_ICSD 244245
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Magnesium disodium bis(selenate(VI)) decahydrate'
+_chemical_formula_structural 'Na2 Mg (Se O4)2 (H2 O)10'
+_chemical_formula_sum 'H20 Mg1 Na2 O18 Se2'
+_exptl_crystal_density_diffrn 2.16
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Crystal structures of sodium magnesium selenate decahydrate,
+Na2Mg(SeO4)2.10H2O, a new selenate salt, and sodium magnesium selenate
+dihydrate, Na2Mg(SeO4)2.2H2O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Structural Chemistry' 2017 73 582
+587 ACSCGG
+loop_
+_publ_author_name
+'Kamburov, Stoyan'
+'Schmidt, Horst'
+'Voigt, Wolfgang'
+'Balarew, Christo'
+_cell_length_a 12.671(2)
+_cell_length_b 6.610(1)
+_cell_length_c 10.2706(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.64(1)
+_cell_angle_gamma 90.
+_cell_volume 824.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0199
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Na1+ 1
+Se6+ 6
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 2 c 1. 0.5 1. 0.01252(16) 1 0
+Na1 Na1+ 4 e 0.51950(6) 0.25556(11) 0.59730(8) 0.01698(15) 1 0
+Se1 Se6+ 4 e 0.72146(2) 0.01411(2) 0.83122(2) 0.01166(6) 1 0
+O1 O2- 4 e 0.78600(11) -0.0030(2) 0.99550(13) 0.0166(3) 1 0
+O2 O2- 4 e 0.79807(11) -0.0827(2) 0.74047(13) 0.0165(3) 1 0
+O3 O2- 4 e 0.69661(11) 0.25347(19) 0.78934(13) 0.0175(3) 1 0
+O4 O2- 4 e 0.60491(12) -0.1082(2) 0.79357(14) 0.0208(3) 1 0
+O5 O2- 4 e 0.38548(12) -0.0320(2) 0.52315(15) 0.0197(3) 1 0
+H1 H1+ 4 e 0.333(3) 0.020(5) 0.470(3) 0.041(9) 1 0
+H2 H1+ 4 e 0.366(3) -0.090(5) 0.585(3) 0.040(8) 1 0
+O6 O2- 4 e 0.40053(13) 0.4096(2) 0.39924(14) 0.0176(3) 1 0
+H3 H1+ 4 e 0.394(3) 0.327(5) 0.338(3) 0.043(9) 1 0
+H4 H1+ 4 e 0.343(3) 0.419(5) 0.413(3) 0.032(8) 1 0
+O7 O2- 4 e 0.86250(12) 0.5371(2) 0.83744(14) 0.0188(3) 1 0
+H5 H1+ 4 e 0.838(2) 0.649(5) 0.794(3) 0.033(7) 1 0
+H6 H1+ 4 e 0.812(3) 0.454(5) 0.812(3) 0.039(8) 1 0
+O8 O2- 4 e 1.08770(12) 0.6626(2) 0.88585(14) 0.0163(3) 1 0
+H7 H1+ 4 e 1.120(2) 0.758(5) 0.918(3) 0.031(8) 1 0
+H8 H1+ 4 e 1.128(3) 0.591(6) 0.853(3) 0.048(9) 1 0
+O9 O2- 4 e 1.02763(12) 0.2364(2) 0.90905(14) 0.0175(3) 1 0
+H9 H1+ 4 e 1.083(2) 0.174(5) 0.936(3) 0.030(7) 1 0
+H10 H1+ 4 e 1.003(3) 0.218(5) 0.827(3) 0.045(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.0149(4) 0.0103(4) 0.0122(4) 0.0009(3) 0.0037(3) 0.0006(3)
+Na1 Na1+ 0.0178(4) 0.0160(3) 0.0169(3) 0.0014(3) 0.0047(3) -0.0006(3)
+Se1 Se6+ 0.01403(8) 0.00992(8) 0.01125(8) 0.00030(6) 0.00395(6) -0.00004(6)
+O1 O2- 0.0191(6) 0.0159(6) 0.0136(5) 0.0013(5) 0.0028(5) 0.0009(5)
+O2 O2- 0.0205(6) 0.0135(6) 0.0182(6) 0.0019(5) 0.0098(5) 0.0010(5)
+O3 O2- 0.0214(7) 0.0114(6) 0.0186(6) 0.0034(5) 0.0039(5) 0.0014(5)
+O4 O2- 0.0206(7) 0.0245(7) 0.0187(6) -0.0069(6) 0.0077(5) -0.0054(5)
+O5 O2- 0.0221(7) 0.0197(7) 0.0181(6) -0.0015(6) 0.0072(6) 0.0027(5)
+O6 O2- 0.0190(7) 0.0171(6) 0.0161(6) -0.0013(5) 0.0041(5) -0.0020(5)
+O7 O2- 0.0183(6) 0.0132(6) 0.0206(6) 0.0005(5) -0.0011(5) 0.0035(5)
+O8 O2- 0.0191(7) 0.0130(6) 0.0180(6) -0.0019(5) 0.0073(5) -0.0023(5)
+O9 O2- 0.0200(7) 0.0155(6) 0.0154(6) 0.0050(5) 0.0023(5) -0.0029(5)
+#End of TTdata_244245-ICSD

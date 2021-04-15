@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66529-ICSD
+_database_code_ICSD 66529
+_audit_creation_date 1994-01-19
+_audit_update_record 2015-08-01
+_chemical_name_systematic
+'Sodium tetrahydroxopentaoxotetraborate hydrate (2/1/2.7)'
+_chemical_formula_structural 'Na2 (B4 O5 (O H)4) (H2 O)2.668'
+_chemical_formula_sum 'H9.336 B4 Na2 O11.668'
+_chemical_name_mineral Tincalconite
+_exptl_crystal_density_diffrn 1.89
+_cell_measurement_temperature 108.
+_publ_section_title 'Refinement of the structure of tincalconite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1991 47 2279 2282 ACSCEE
+loop_
+_publ_author_name
+'Powell, D.R.'
+'Gaines, D.F.'
+'Zerella, P.J.'
+'Smith, R.A.'
+_cell_length_a 11.097(2)
+_cell_length_b 11.097(2)
+_cell_length_c 21.114(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2251.71
+_cell_formula_units_Z 9
+_symmetry_space_group_name_H-M 'R 3 2 H'
+_symmetry_Int_Tables_number 155
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+2/3, -x+y+1/3, -z+1/3'
+8 'x-y+2/3, -y+1/3, -z+1/3'
+9 'y+2/3, x+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+1/3, -x+y+2/3, -z+2/3'
+14 'x-y+1/3, -y+2/3, -z+2/3'
+15 'y+1/3, x+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 9 e 0 0.3301(1) 0.5 . 1. 0
+Na2 Na1+ 3 b 0 0 0.5 . 1. 0
+Na3 Na1+ 6 c 0 0 0.0924(1) . 1. 0
+B1 B3+ 18 f 0.9084(3) 0.7331(13) 0.6181(1) . 1. 0
+B2 B3+ 18 f 0.9095(4) 0.5133(3) 0.6207(2) . 1. 0
+O1 O2- 9 d 0.8012(2) 0.6667 0.6667 . 1. 0
+O2 O2- 18 f 0.9258(2) 0.6238(2) 0.5848(1) . 1. 0
+O3 O2- 18 f 0.8808(2) 0.5036(2) 0.6837(1) . 1. 0
+O4 O2- 18 f 0.8720(2) 0.8052(2) 0.5719(1) . 1. 0
+O5 O2- 18 f 0.9281(3) 0.4142(2) 0.5911(1) . 1. 0
+O6 O2- 18 f -.2234(2) -.0901(2) 0.1344(1) . 1. 0
+O7 O2- 18 f 0.1550(6) 0.0451(6) -.0038(4) . 0.334(5) 0
+H1 H1+ 18 f 0.858(4) 0.857(4) 0.592(2) 0.03 1. 0
+H2 H1+ 18 f 0.927(4) 0.350(5) 0.614(2) 0.08 1. 0
+H3 H1+ 18 f -.239(3) -.046(4) 0.182(2) 0.05 1. 0
+H4 H1+ 18 f -.284(4) -.068(4) 0.117(2) 0.05 1. 0
+H5 H1+ 18 f 0.245 0.138 -.033 0.07 0.334(5) 0
+H6 H1+ 18 f 0.213 0.01 0.017 0.07 0.334(5) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0286(9) 0.0215(6) 0.0171(8) 0.0143(5) 0.0025(6) 0.0013(3)
+Na2 Na1+ 0.0158(8) 0.0158(8) 0.0130(11) 0.0079(4) 0 0
+Na3 Na1+ 0.0272(7) 0.0272(7) 0.0285(10) 0.0136(3) 0 0
+B1 B3+ 0.0179(16) 0.0144(16) 0.0157(14) 0.0083(12) 0.0011(11) -.0006(12)
+B2 B3+ 0.0273(16) 0.0169(16) 0.0365(20) 0.0118(15) 0.0182(15) 0.0104(15)
+O1 O2- 0.0147(10) 0.0150(13) 0.0089(11) 0.0075(6) 0.0000(5) 0.000(1)
+O2 O2- 0.0328(12) 0.0142(9) 0.0229(10) 0.0122(9) 0.0152(8) 0.0042(8)
+O3 O2- 0.0224(10) 0.0159(9) 0.0226(10) 0.0117(8) 0.0066(8) 0.0047(8)
+O4 O2- 0.0209(10) 0.0148(9) 0.0121(7) 0.0090(8) -.0001(7) -.0025(7)
+O5 O2- 0.0980(22) 0.0267(13) 0.0476(14) 0.0439(15) 0.0503(15) 0.0229(11)
+O6 O2- 0.0257(11) 0.0443(13) 0.0314(10) 0.0231(10) 0.0074(9) 0.0199(11)
+O7 O2- 0.0268(37) 0.0583(64) 0.0205(30) 0.0141(34) -.0031(29) -.0093(47)
+#End of TTdata_66529-ICSD

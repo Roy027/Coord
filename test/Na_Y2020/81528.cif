@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81528-ICSD
+_database_code_ICSD 81528
+_audit_creation_date 1997-05-13
+_audit_update_record 1997-11-10
+_chemical_name_systematic 'Disodium potassium trinitridotungstate'
+_chemical_formula_structural 'Na2 K (W N3)'
+_chemical_formula_sum 'K1 N3 Na2 W1'
+_exptl_crystal_density_diffrn 4.41
+_publ_section_title
+
+;
+Na2 K (W N3) and Na11 Rb ((W N3)4), two new alkali metal nitrido
+tungstates(VI) with closely related structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1996 233 61 68 JALCEU
+loop_
+_publ_author_name
+'Niewa, R.'
+'Jacobs, H.'
+_cell_length_a 6.3948(9)
+_cell_length_b 12.292(3)
+_cell_length_c 11.924(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 937.28
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c m'
+_symmetry_Int_Tables_number 57
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, y+1/2, z'
+3 'x, y, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+K1+ 1
+Na1+ 1
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 d 0.02855(6) 0.38159(3) 0.25 . 1. 0
+W2 W6+ 4 c 0.27958(8) 0.25 0 . 1. 0
+K1 K1+ 8 e 0.071(1) 0.5180(4) 0.0048(4) . 0.499(5) 0
+K2 K1+ 4 d 0.6261(7) 0.2001(3) 0.25 . 1. 0
+Na1 Na1+ 8 e 0.4722(6) 0.4625(3) 0.1256(3) . 1. 0
+Na2 Na1+ 4 d 0.1653(8) 0.1246(3) 0.25 . 1. 0
+Na3 Na1+ 4 c 0.7731(9) 0.25 0 . 1. 0
+N1 N3- 8 e 0.101(2) 0.2993(6) 0.1187(6) . 1. 0
+N2 N3- 8 e 0.445(2) 0.1412(26) 0.0538(7) . 1. 0
+N3 N3- 4 d 0.166(2) 0.5101(8) 0.25 . 1. 0
+N4 N3- 4 d 0.754(2) 0.405(2) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0129(1) 0.0249(1) 0.0072(1) -.0029(1) 0 0
+W2 W6+ 0.0445(2) 0.0091(1) 0.0138(1) 0 0 0.0003(1)
+K1 K1+ 0.108(4) 0.035(2) 0.024(1) 0.039(2) 0.012(2) 0.0313(1)
+K2 K1+ 0.059(2) 0.044(2) 0.054(2) 0.002(2) 0 0
+Na1 Na1+ 0.037(2) 0.022(1) 0.026(1) -.002(1) 0.006(1) -.003(1)
+Na2 Na1+ 0.032(2) 0.013(2) 0.033(2) -.002(2) 0 0
+Na3 Na1+ 0.014(2) 0.123(6) 0.090(5) 0 0 -.058(4)
+N1 N3- 0.070(5) 0.029(3) 0.019(3) -.003(4) 0.012(3) -.006(2)
+N2 N3- 0.073(5) 0.023(3) 0.039(4) 0.012(3) -.023(4) -.003(3)
+N3 N3- 0.027(4) 0.021(3) 0.032(4) 0.003(3) 0 0
+N4 N3- 0.013(4) 0.11(1) 0.067(9) -.001(7) 0 0
+#End of TTdata_81528-ICSD

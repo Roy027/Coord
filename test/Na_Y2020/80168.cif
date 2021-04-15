@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80168-ICSD
+_database_code_ICSD 80168
+_audit_creation_date 1996-10-14
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Zinc tetrasodium cyclo-hexaphosphate hexahydrate'
+_chemical_formula_structural 'Zn Na4 P6 O18 (H2 O)6'
+_chemical_formula_sum 'H12 Na4 O24 P6 Zn1'
+_chemical_name_structure_type Na4Zn(P3O9)2(H2O)6
+_exptl_crystal_density_diffrn 2.3
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Synthesis and structural investigation of a new cyclohexaphosphate : Zn Na4 P6
+O18 . 6(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1995 32 927
+935 EJSCE5
+loop_
+_publ_author_name
+'Abid, S.'
+'Rzaigui, M.'
+_cell_length_a 9.284(5)
+_cell_length_b 9.127(5)
+_cell_length_c 7.418(3)
+_cell_angle_alpha 72.13(1)
+_cell_angle_beta 105.43(1)
+_cell_angle_gamma 115.67(1)
+_cell_volume 532.66
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 1 e 0.5 0.5 0 1.149(5) 1. 0
+Na1 Na1+ 2 i 0.0924(1) 0.3413(1) 0.8545(1) 1.72(2) 1. 0
+Na2 Na1+ 2 i -.0274(1) 0.7165(1) 0.6313(2) 1.95(2) 1. 0
+P1 P5+ 2 i 0.71336(5) 0.3729(5) 0.85537(7) 0.890(7) 1. 0
+P2 P5+ 2 i 0.37183(5) 0.25689(5) 0.69098(7) 0.890(7) 1. 0
+P3 P5+ 2 i 0.24199(5) 0.93325(5) 0.95741(7) 1.029(1) 1. 0
+O1 O2- 2 i 0.5623(1) 0.3218(2) 0.6899(2) 1.17(2) 1. 0
+O2 O2- 2 i 0.6834(2) 0.2037(2) 0.0163(2) 1.37(2) 1. 0
+O3 O2- 2 i 0.8616(1) 0.4224(2) 0.7729(2) 1.31(2) 1. 0
+O4 O2- 2 i 0.7031(2) 0.4937(2) 0.9431(2) 1.19(2) 1. 0
+O5 O2- 2 i 0.3317(2) 0.0630(2) 0.7837(2) 1.49(3) 1. 0
+O6 O2- 2 i 0.3436(2) 0.3339(2) 0.8225(2) 1.24(2) 1. 0
+O7 O2- 2 i 0.2925(2) 0.2756(2) 0.4891(2) 1.49(3) 1. 0
+O8 O2- 2 i 0.0649(2) 0.8598(2) 0.8850(2) 1.65(3) 1. 0
+O9 O2- 2 i 0.7049(2) 0.0000(2) 0.8676(2) 1.82(3) 1. 0
+O10 O2- 2 i -.0404(2) 0.1227(2) 0.6685(3) 2.07(3) 1. 0
+O11 O2- 2 i 0.4798(2) 0.2933(2) 0.2357(2) 1.46(3) 1. 0
+O12 O2- 2 i 0.1753(2) 0.6118(2) 0.6115(3) 2.26(4) 1. 0
+H1 H1+ 2 i 0.037(5) 0.947(5) 0.297(7) 4.(1) 1. 0
+H2 H1+ 2 i 0.138(5) 0.909(5) 0.315(7) 4.(1) 1. 0
+H3 H1+ 2 i 0.428(5) 0.303(5) 0.305(7) 4.(1) 1. 0
+H4 H1+ 2 i 0.569(6) 0.287(6) 0.310(8) 4.(1) 1. 0
+H5 H1+ 2 i 0.744(5) 0.353(5) 0.349(7) 4.(1) 1. 0
+H6 H1+ 2 i 0.174(5) 0.606(5) 0.518(7) 4.(1) 1. 0
+#End of TTdata_80168-ICSD

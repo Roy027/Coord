@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428571-ICSD
+_database_code_ICSD 428571
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium hydrogentrisulfate(VI)'
+_chemical_formula_structural 'Na (H S3 O10)'
+_chemical_formula_sum 'H1 Na1 O10 S3'
+_exptl_crystal_density_diffrn 2.26
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Towards polysulfuric acids: the hydrogentrisulfate anion [H S3 O10]- in A [H
+S3 O10] (A =Na, K, Rb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2016 22 13865 13870 CEUJED
+loop_
+_publ_author_name
+'Schindler, Lisa Verena'
+'Kluener, Thorsten'
+'Wickleder, Mathias S.'
+_cell_length_a 7.0736(2)
+_cell_length_b 13.7856(4)
+_cell_length_c 8.4810(3)
+_cell_angle_alpha 90
+_cell_angle_beta 94.8167(14)
+_cell_angle_gamma 90
+_cell_volume 824.09
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0153
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S6+ 6
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S6+ 4 e 0.14071(2) 0.21361(2) 0.61448(2) 0.00885(3) 1 0
+S2 S6+ 4 e -0.25610(2) -0.01784(2) 0.80742(2) 0.00896(3) 1 0
+S3 S6+ 4 e -0.24211(2) 0.14913(2) 0.60903(2) 0.00955(3) 1 0
+O1 O2- 4 e 0.14783(7) 0.21428(3) 0.43720(5) 0.01347(7) 1 0
+O2 O2- 4 e -0.24683(8) -0.01832(4) 0.97555(5) 0.01703(8) 1 0
+O3 O2- 4 e 0.22346(7) 0.29979(3) 0.67788(6) 0.01444(7) 1 0
+O4 O2- 4 e -0.09845(6) -0.06630(3) 0.74063(5) 0.01167(6) 1 0
+O5 O2- 4 e -0.21004(7) 0.10146(3) 0.77687(5) 0.01190(6) 1 0
+O6 O2- 4 e -0.08622(6) 0.23299(3) 0.63403(5) 0.01168(6) 1 0
+O7 O2- 4 e 0.18717(6) 0.12230(3) 0.68333(6) 0.01313(7) 1 0
+O8 O2- 4 e -0.43595(6) -0.03467(3) 0.72247(6) 0.01419(7) 1 0
+O9 O2- 4 e -0.18663(6) 0.08346(3) 0.49222(5) 0.01176(6) 1 0
+O10 O2- 4 e -0.41683(7) 0.19835(4) 0.59228(7) 0.01810(8) 1 0
+Na1 Na1+ 4 e -0.24287(3) 0.03521(2) 1.22905(3) 0.00944(4) 1 0
+H1 H1+ 4 e 0.136(3) 0.1577(17) 0.399(3) 0.083(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S6+ 0.00952(5) 0.00580(4) 0.01134(5) -0.00066(3) 0.00165(3) -0.00084(3)
+S2 S6+ 0.00892(5) 0.01049(5) 0.00780(5) -0.00084(3) 0.00269(3) -0.00126(3)
+S3 S6+ 0.00831(5) 0.00981(5) 0.01068(5) 0.00008(3) 0.00175(3) -0.00083(3)
+O1 O2- 0.01822(18) 0.01141(15) 0.01135(15) -0.00290(13) 0.00456(13) -0.00031(12)
+O2 O2- 0.0254(2) 0.01854(19) 0.00778(14) -0.00063(16) 0.00512(14) -0.00040(13)
+O3 O2- 0.01447(16) 0.00887(14) 0.02006(18) -0.00314(12) 0.00199(14) -0.00509(13)
+O4 O2- 0.00946(14) 0.01328(15) 0.01252(15) 0.00108(11) 0.00241(11) -0.00313(12)
+O5 O2- 0.01685(16) 0.01037(14) 0.00884(14) -0.00296(12) 0.00317(12) -0.00192(11)
+O6 O2- 0.00979(14) 0.00771(13) 0.01795(17) 0.00019(11) 0.00347(12) -0.00135(12)
+O7 O2- 0.01362(16) 0.00846(14) 0.01716(17) 0.00155(12) 0.00042(13) 0.00254(12)
+O8 O2- 0.00806(14) 0.01615(17) 0.01836(18) -0.00239(12) 0.00107(12) -0.00164(14)
+O9 O2- 0.01428(15) 0.01269(15) 0.00845(13) -0.00119(12) 0.00185(11) -0.00210(11)
+O10 O2- 0.00945(15) 0.01979(19) 0.0251(2) 0.00372(14) 0.00174(14) 0.00001(16)
+Na1 Na1+ 0.01015(9) 0.00908(9) 0.00907(9) 0.00063(7) 0.00075(7) -0.00012(7)
+#End of TTdata_428571-ICSD

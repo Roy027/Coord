@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200377-ICSD
+_database_code_ICSD 200377
+_audit_creation_date 1980-01-01
+_audit_update_record 1984-11-02
+_chemical_name_systematic 'Sodium bis(nitrato(III))argentate'
+_chemical_formula_structural 'Na Ag (N O2)2'
+_chemical_formula_sum 'Ag1 N2 Na1 O4'
+_exptl_crystal_density_diffrn 3.21
+_publ_section_title 'Crystal structure of sodium O,O-nitritonitroargentate(I)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Australian Journal of Chemistry' 1979 32 297 300 AJCHAS
+loop_
+_publ_author_name
+'Skelton, B.W.'
+'White, A.H.'
+_cell_length_a 7.913(2)
+_cell_length_b 10.721(2)
+_cell_length_c 10.857(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 921.06
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d 2 d'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, y+1/4, -z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, y, -z'
+4 'x, y, z'
+5 'x+1/4, y+3/4, -z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, y+1/4, -z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, y, -z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, y+3/4, -z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ag1+ 1
+N3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 a 0.5 0.004(3) 0 . 1. 0
+Ag1 Ag1+ 8 a 0 0 0 . 1. 0
+N1 N3+ 8 a 0 -.210(2) 0 . 1. 0
+N2 N3+ 8 a 0 0.2701(7) 0 . 1. 0
+O1 O2- 16 b 0.044(1) -.264(1) 0.0931(9) . 1. 0
+O2 O2- 16 b -.041(1) 0.2044(7) 0.0900(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.037(2) 0.043(4) 0.021(1) 0 -.003(5) 0
+Ag1 Ag1+ 0.0585(7) 0.0195(3) 0.0411(5) 0 -.003(1) 0
+N1 N3+ 0.029(5) 0.046(7) 0.025(4) 0 0.004(4) 0
+N2 N3+ 0.039(5) 0.010(3) 0.026(4) 0 -.010(4) 0
+O1 O2- 0.070(6) 0.049(6) 0.038(4) 0.003(4) -.018(4) 0.002(4)
+O2 O2- 0.053(4) 0.021(2) 0.027(3) 0.004(2) 0.017(3) 0.004(2)
+#End of TTdata_200377-ICSD

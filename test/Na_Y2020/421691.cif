@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421691-ICSD
+_database_code_ICSD 421691
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Disodium dinickel tris(selenate(IV))'
+_chemical_formula_structural 'Na2 Ni2 (Se O3)3'
+_chemical_formula_sum 'Na2 Ni2 O9 Se3'
+_chemical_name_structure_type Na2Co2Se3O9
+_exptl_crystal_density_diffrn 4.3
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Syntheses, crystal structures and properties of three new metal selenites Na2
+Co2 (Se O3)3, Na2 Co1.67 Ni0.33 (Se O3)3, and Na2 Co2 (Se O3)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2010 183 1955 1961 JSSCBI
+loop_
+_publ_author_name
+'Yuan Xiaoqing'
+'Feng Mei Ling'
+'Li Jian Rong'
+'Huang Xiao Ying'
+_cell_length_a 7.464(4)
+_cell_length_b 11.055(5)
+_cell_length_c 10.180(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 840.
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+Ni2+ 2
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 8 f 0. 0.23670(5) 0.53053(6) 0.0111(2) 1 0
+Se2 Se4+ 8 f 0.5 -0.01522(11) 0.80239(12) 0.0106(3) 0.5 0
+Ni1 Ni2+ 8 g 0.18977(11) 0.24258(7) 0.25 0.0088(3) 1 0
+O1 O2- 8 f 0. 0.1637(4) 0.3814(4) 0.0096(9) 1 0
+O2 O2- 16 h 0.1732(4) 0.1674(3) 0.6067(3) 0.0150(7) 1 0
+O3 O2- 8 f 0.5 0.1194(7) 0.7227(9) 0.008(3) 0.5 0
+O4 O2- 16 h 0.6766(7) -0.0811(5) 0.7242(8) 0.014(3) 0.5 0
+Na1 Na1+ 4 c 0. -0.0214(3) 0.25 0.0238(9) 1 0
+Na2 Na1+ 8 e 0.2702(8) 0. 0.5 0.0274(14) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.0149(4) 0.0100(4) 0.0085(4) 0. 0. -0.0012(2)
+Se2 Se4+ 0.0113(6) 0.0082(6) 0.0123(6) 0. 0. 0.0011(4)
+Ni1 Ni2+ 0.0068(4) 0.0089(4) 0.0106(5) 0.0003(3) 0. 0.
+O1 O2- 0.011(2) 0.011(2) 0.006(2) 0. 0. -0.0041(16)
+O2 O2- 0.0140(15) 0.0139(16) 0.0170(19) 0.0004(12) -0.0041(13) -0.0015(13)
+O3 O2- 0.005(3) 0.011(3) 0.008(9) 0. 0. 0.003(3)
+O4 O2- 0.012(2) 0.016(3) 0.013(8) 0.006(2) 0.003(2) 0.001(2)
+Na1 Na1+ 0.025(2) 0.0112(18) 0.035(3) 0. 0. 0.
+Na2 Na1+ 0.035(3) 0.020(3) 0.027(4) 0. 0. -0.007(2)
+#End of TTdata_421691-ICSD

@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_405939-ICSD
+_database_code_ICSD 405939
+_audit_creation_date 1997-11-10
+_audit_update_record 2017-08-01
+_chemical_name_systematic 'Barium calcium sodium nitride (7/0.5/11/3)'
+_chemical_formula_structural 'Na22 Ba14 Ca N6'
+_chemical_formula_sum 'Ba14 Ca1 N6 Na22'
+_chemical_name_structure_type Na22Ba14CaN6
+_exptl_crystal_density_diffrn 2.48
+_cell_measurement_temperature 128.
+_publ_section_title
+
+;
+Structural frustration in a rod packing - An analogy to the disordered
+triangular Ising net
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1997 212 428 438 ZEKRDZ
+loop_
+_publ_author_name
+'Steinbrenner, U.'
+'Simon, A.'
+_cell_length_a 12.550(3)
+_cell_length_b 12.550(3)
+_cell_length_c 12.520(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1707.74
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0382
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Ca0+ 0
+N0+ 0
+Na0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 4 e 0 0 0.2362(2) . 0.5 0
+Ba2 Ba0+ 12 k 0.14121(3) 0.28242(7) 0.41243(7) . 0.5 0
+Ba3 Ba0+ 12 k 0.19085(2) 0.38170(5) 0.73226(5) . 0.5 0
+Ca1 Ca0+ 2 a 0 0 0.5 . 0.5 0
+N1 N0+ 12 k 0.0964(3) 0.1928(7) 0.6189(6) . 0.5 0
+Na1 Na0+ 4 f 0.3333 0.6667 0.5044(3) . 1. 0
+Na2 Na0+ 6 h 0.4323(2) 0.8646(3) 0.25 . 1. 0
+Na3 Na0+ 6 g 0.5 0 0 0.042(12) 0.33 0
+Na4 Na0+ 12 i 0.5206(13) 0.5206(13) 0 . 0.33 0
+Na5 Na0+ 12 k 0.1601(3) 0.3202(7) 0.0656(5) . 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba0+ 0.0148(2) 0.0148(2) 0.009(2) 0.00741(10) 0 0
+Ba2 Ba0+ 0.0136(2) 0.0110(3) 0.0142(3) 0.0055(2) 0.00069(12) 0.0014(2)
+Ba3 Ba0+ 0.0184(2) 0.0140(2) 0.0162(6) 0.0070(1) -.00180(9) -.0036(2)
+Ca1 Ca0+ 0.0099(10) 0.0099(10) 0.011(2) 0.0049(5) 0 0
+N1 N0+ 0.014(2) 0.015(3) 0.014(3) 0.007(2) 0.0002(13) 0.000(3)
+Na1 Na0+ 0.0276(11) 0.0276(11) 0.033(2) 0.0138(6) 0 0
+Na2 Na0+ 0.0305(11) 0.038(2) 0.032(2) 0.0189(9) 0 0
+Na4 Na0+ 0.035(2) 0.036(4) 0.023(3) 0.018(2) 0.0019(13) 0.004(3)
+Na5 Na0+ 0.014(2) 0.015(3) 0.014(3) 0.0075(15) 0.000(1) 0.000(2)
+#End of TTdata_405939-ICSD

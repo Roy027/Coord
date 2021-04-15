@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61050-ICSD
+_database_code_ICSD 61050
+_audit_creation_date 1986-12-03
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Disodium trimanganese heptaoxide'
+_chemical_formula_structural 'Na2 Mn3 O7'
+_chemical_formula_sum 'Mn3 Na2 O7'
+_chemical_name_structure_type Na2Mn3O7
+_exptl_crystal_density_diffrn 3.88
+_publ_section_title 'Darstellung und Kristallstruktur von Na2 Mn3 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1985
+531 177 182 ZAACAB
+loop_
+_publ_author_name
+'Chang, F.M.'
+'Jansen, M.'
+_cell_length_a 6.636(6)
+_cell_length_b 6.854(6)
+_cell_length_c 7.548(6)
+_cell_angle_alpha 105.76(6)
+_cell_angle_beta 106.86(6)
+_cell_angle_gamma 111.60(6)
+_cell_volume 276.48
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.079
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.2520(11) 0.6909(10) 0.4912(10) . 1. 0
+Na2 Na1+ 2 i 0.3328(13) 0.8237(11) 0.0738(11) . 1. 0
+Mn1 Mn4+ 2 i 0.0765(5) 0.0823(4) 0.2220(4) . 1. 0
+Mn2 Mn4+ 2 i 0.3585(5) 0.3601(4) 0.0826(3) . 1. 0
+Mn3 Mn4+ 2 i 0.2215(5) 0.2196(4) 0.6413(4) . 1. 0
+O1 O2- 2 i 0.3853(20) 0.1983(19) 0.2379(18) . 1. 0
+O2 O2- 2 i -.2640(19) -.0840(18) 0.1619(15) . 1. 0
+O3 O2- 2 i 0.0324(19) 0.2115(18) 0.0280(16) . 1. 0
+O4 O2- 2 i 0.1257(19) 0.3208(16) 0.4432(15) . 1. 0
+O5 O2- 2 i 0.6894(19) 0.5098(17) 0.1254(16) . 1. 0
+O6 O2- 2 i 0.1218(19) -.0563(18) 0.4057(15) . 1. 0
+O7 O2- 2 i 0.452(2) 0.6432(17) 0.2867(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0134(30) 0.0103(27) 0.0142(30) 0.0041(22) -.0024(24) -.0008(22)
+Na2 Na1+ 0.0122(29) 0.0123(31) 0.0241(35) 0.0048(23) -.0028(25) -.0052(23)
+Mn1 Mn4+ 0.0057(11) 0.0055(10) 0.0034(8) -.0003(8) -.0027(8) -.001
+Mn2 Mn4+ 0.0066(11) 0.0068(10) 0.0026(9) -.0002(8) -.0019(8) -.001
+Mn3 Mn4+ 0.0077(12) 0.0059(9) 0.0042(9) 0.0006(8) -.0020(8) -.001
+O1 O2- 0.0109(50) 0.0181(52) 0.0226(56) 0.0039(36) 0.0044(39) 0.0132(38)
+O2 O2- 0.0057(45) 0.0073(45) 0.0039(45) 0.0007(32) -.0022(34) -.0017(32)
+O3 O2- 0.0095(48) 0.0069(43) 0.0132(48) 0.0027(32) 0.0025(35) 0.0063(33)
+O4 O2- 0.0077(46) 0.0019(41) 0.0093(45) -.0002(31) -.0005(35) 0.0005(32)
+O5 O2- 0.0113(48) 0.0088(43) 0.0039(41) 0.0040(32) 0.0015(33) -.0005
+O6 O2- 0.0054(46) 0.0085(46) 0.0096(48) -.0029(32) 0.0006(34) 0.0008(34)
+O7 O2- 0.0088(44) 0.0106(45) 0.0026(42) -.0030(32) 0.0023(33) -.0025(33)
+#End of TTdata_61050-ICSD

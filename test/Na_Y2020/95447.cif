@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95447-ICSD
+_database_code_ICSD 95447
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Disodium dibarium dihydroxoheptadecaoxodecaborate'
+_chemical_formula_structural 'Na2 Ba2 (B10 O17 (O H)2)'
+_chemical_formula_sum 'H2 B10 Ba2 Na2 O19'
+_exptl_crystal_density_diffrn 3.42
+_publ_section_title
+'Crystal structure of new decaborate Na2 Ba2 (B10 O17 (O H)2)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 2002 47 30 34 KRISAJ
+loop_
+_publ_author_name
+'Vinogradova, S.A.'
+'Pushcharovskii, D.Yu.'
+'Arakcheeva, A.V.'
+'Dimitrova, O.V.'
+_cell_length_a 11.455(7)
+_cell_length_b 6.675(4)
+_cell_length_c 9.360(7)
+_cell_angle_alpha 90
+_cell_angle_beta 93.68(5)
+_cell_angle_gamma 90
+_cell_volume 714.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.0271
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Na1+ 1
+B3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0.6689(0) 0 0.8932(0) 0.61(4) 1. 0
+Na1 Na1+ 2 b 0 0.3084(6) 0.5 1.22(4) 1. 0
+Na2 Na1+ 2 b 0.5 0.2877(8) 0.5 1.90(6) 1. 0
+B1 B3+ 4 c 0.7489(4) 0.0553(9) 0.4695(5) 0.67(6) 1. 0
+B2 B3+ 4 c 0.6645(3) 0.017(1) 0.2221(4) 0.61(6) 1. 0
+B3 B3+ 4 c 0.8824(4) 0.0602(9) 0.2677(5) 0.58(5) 1. 0
+B4 B3+ 4 c 0.5328(4) 0.3272(7) 0.1722(5) 0.46(5) 1. 0
+B5 B3+ 4 c 0.0531(4) 0.1943(8) 0.1359(5) 0.64(5) 1. 0
+O1 O2- 4 c 0.4299(3) 0.3559(6) 0.2379(4) 0.79(4) 1. 0
+O2 O2- 4 c 0.9047(3) -0.016(1) 0.8766(3) 0.77(4) 1. 0
+O3 O2- 4 c 0.8591(3) 0.0575(6) 0.4260(4) 0.78(4) 1. 0
+O4 O2- 4 c 0.7739(3) 0.1069(6) 0.1850(3) 0.63(3) 1. 0
+O5 O2- 4 c 0.6504(3) 0.0318(5) 0.3821(3) 0.77(4) 1. 0
+O6 O2- 4 c 0.2707(4) 0.0823(8) 0.3876(5) 1.46(6) 1. 0
+O7 O2- 4 c 0.9707(3) 0.2115(5) 0.2503(3) 0.60(4) 1. 0
+O8 O2- 4 c 0.1589(3) 0.3105(5) 0.1732(3) 0.66(4) 1. 0
+O9 O2- 4 c 0.5653(2) 0.1317(5) 0.1508(3) 0.63(4) 1. 0
+O10 O2- 2 a 0 0.2650(8) 0 0.67(6) 1. 0
+H1 H1+ 4 c 0.211(6) 0.146(4) 0.343(6) 2.16(2) 1. 0
+#End of TTdata_95447-ICSD

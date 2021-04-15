@@ -1,0 +1,130 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_433748-ICSD
+_database_code_ICSD 433748
+_audit_creation_date 2019-08-01
+_chemical_name_systematic 'Sodium aluminium germanium sulfide (1/1/10/4/10)'
+_chemical_formula_structural 'Na (Al S2) (Ge S2)4'
+_chemical_formula_sum 'Al1 Ge4 Na1 S10'
+_exptl_crystal_density_diffrn 2.78
+_cell_measurement_temperature 200.
+_publ_section_title
+
+;
+Thioaluminogermanate M(AlS2)(GeS2)4 (M = Na, Ag, Cu). Synthesis, crystal
+structures, characterization, ion-exchange and solid-state 27Al and 23Na NMR
+spectroscopy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 3713 3719 INOCAJ
+loop_
+_publ_author_name
+'Alahmari, Fatimah'
+'Davaasuren, Bambar'
+'Emwas, Abdul-Hamid'
+'Rothenberger, Alexander'
+_cell_length_a 6.8036(3)
+_cell_length_b 38.2074(19)
+_cell_length_c 6.9474(4)
+_cell_angle_alpha 90
+_cell_angle_beta 119.171(3)
+_cell_angle_gamma 90
+_cell_volume 1576.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0566
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 4 e 0.28247(16) 0.39191(3) 0.72987(17) 0.0270(3) 0.9 0
+Al1 Al3+ 4 e 0.28247(16) 0.39191(3) 0.72987(17) 0.0270(3) 0.1 0
+Ge2 Ge4+ 4 e 1.02848(16) 0.32329(3) 0.85502(17) 0.0277(3) 0.9 0
+Al2 Al3+ 4 e 1.02848(16) 0.32329(3) 0.85502(17) 0.0277(3) 0.1 0
+Ge3 Ge4+ 4 e 1.28725(17) 0.24348(3) 0.97812(18) 0.0271(3) 0.8 0
+Al3 Al3+ 4 e 1.28725(17) 0.24348(3) 0.97812(18) 0.0271(3) 0.2 0
+Ge4 Ge4+ 4 e 0.59012(19) 0.46571(3) 0.9923(2) 0.0323(3) 0.8 0
+Al4 Al3+ 4 e 0.59012(19) 0.46571(3) 0.9923(2) 0.0323(3) 0.2 0
+Ge5 Ge4+ 4 e 0.8041(2) 0.40840(3) 0.7657(2) 0.0278(3) 0.6 0
+Al5 Al3+ 4 e 0.8041(2) 0.40840(3) 0.7657(2) 0.0278(3) 0.4 0
+S1 S2- 4 e 1.1544(4) 0.24716(6) 0.6163(4) 0.0301(5) 1 0
+S2 S2- 4 e 0.9576(4) 0.36690(6) 1.0207(4) 0.0319(5) 1 0
+S3 S2- 4 e 0.4373(4) 0.40454(7) 0.5265(4) 0.0336(5) 1 0
+S4 S2- 4 e -0.0680(4) 0.40851(7) 0.5255(4) 0.0333(5) 1 0
+S5 S2- 4 e 0.4496(4) 0.41727(7) 1.0549(4) 0.0347(5) 1 0
+S6 S2- 4 e 0.7077(4) 0.30935(7) 0.5581(4) 0.0374(6) 1 0
+S7 S2- 4 e 1.1378(4) 0.28201(7) 1.1102(4) 0.0355(5) 1 0
+S8 S2- 4 e 0.8897(4) 0.45782(7) 0.9556(5) 0.0403(6) 1 0
+S9 S2- 4 e 0.3069(4) 0.33459(6) 0.7814(5) 0.0376(6) 1 0
+S10 S2- 4 e 0.6756(5) 0.50166(7) 1.2736(4) 0.0405(6) 1 0
+Na1 Na1+ 4 e 0.6958(14) 0.3463(3) 0.2163(14) 0.062(2) 0.6 0
+Na2 Na1+ 4 e 1.286(3) 0.4759(5) 1.329(3) 0.080(4) 0.4 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0225(5) 0.0296(5) 0.0312(5) -0.0016(4) 0.0148(4) -0.0001(4)
+Al1 Al3+ 0.0225(5) 0.0296(5) 0.0312(5) -0.0016(4) 0.0148(4) -0.0001(4)
+Ge2 Ge4+ 0.0267(5) 0.0249(5) 0.0336(5) -0.0009(4) 0.0164(4) -0.0009(4)
+Al2 Al3+ 0.0267(5) 0.0249(5) 0.0336(5) -0.0009(4) 0.0164(4) -0.0009(4)
+Ge3 Ge4+ 0.0215(5) 0.0262(6) 0.0305(6) -0.0001(4) 0.0103(4) 0.0026(4)
+Al3 Al3+ 0.0215(5) 0.0262(6) 0.0305(6) -0.0001(4) 0.0103(4) 0.0026(4)
+Ge4 Ge4+ 0.0295(6) 0.0293(6) 0.0373(6) 0.0016(4) 0.0157(5) -0.0057(5)
+Al4 Al3+ 0.0295(6) 0.0293(6) 0.0373(6) 0.0016(4) 0.0157(5) -0.0057(5)
+Ge5 Ge4+ 0.0231(6) 0.0292(7) 0.0340(7) -0.0005(5) 0.0163(5) -0.0012(5)
+Al5 Al3+ 0.0231(6) 0.0292(7) 0.0340(7) -0.0005(5) 0.0163(5) -0.0012(5)
+S1 S2- 0.0232(10) 0.0346(12) 0.0319(11) 0.0001(8) 0.0129(9) 0.0001(9)
+S2 S2- 0.0358(12) 0.0276(11) 0.0328(11) 0.0025(9) 0.0172(10) -0.0009(9)
+S3 S2- 0.0247(10) 0.0488(14) 0.0292(11) -0.0011(9) 0.0147(9) 0.0036(10)
+S4 S2- 0.0235(10) 0.0471(14) 0.0309(11) 0.0029(9) 0.0145(9) 0.0033(10)
+S5 S2- 0.0347(12) 0.0399(13) 0.0283(11) -0.0060(10) 0.0144(10) -0.0022(9)
+S6 S2- 0.0257(10) 0.0304(12) 0.0455(14) 0.0017(9) 0.0091(11) -0.0103(10)
+S7 S2- 0.0372(12) 0.0391(13) 0.0389(13) 0.0043(10) 0.0253(11) 0.0083(10)
+S8 S2- 0.0374(12) 0.0280(12) 0.0664(18) -0.0087(10) 0.0338(13) -0.0122(11)
+S9 S2- 0.0386(12) 0.0276(11) 0.0601(16) 0.0005(9) 0.0347(12) 0.0019(11)
+S10 S2- 0.0401(13) 0.0372(13) 0.0329(12) 0.0082(10) 0.0091(11) -0.0058(10)
+Na1 Na1+ 0.050(5) 0.084(6) 0.050(5) -0.001(4) 0.022(4) 0.021(4)
+Na2 Na1+ 0.088(11) 0.090(11) 0.070(9) 0.006(9) 0.044(9) 0.014(8)
+#End of TTdata_433748-ICSD

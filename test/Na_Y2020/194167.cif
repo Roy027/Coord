@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194167-ICSD
+_database_code_ICSD 194167
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Trisodium calcium dibarium triphosphate'
+_chemical_formula_structural 'Na2 (Na0.5 Ca0.5)2 Ba2 (P O4)3'
+_chemical_formula_sum 'Ba2 Ca1 Na3 O12 P3'
+_exptl_crystal_density_diffrn 3.73
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structures and luminescence properties of Eu(2+)-activated new Na
+Ba0.5 Ca0.5 P O4 and Na3 Ba2 Ca (P O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2015 44 1900 1904 DTARAF
+loop_
+_publ_author_name
+'Kim, Minsung'
+'Kobayashi, Makoto'
+'Kato, Hideki'
+'Yamane, Hisanori'
+'Sato, Yasushi'
+'Kakihana, Masato'
+_cell_length_a 5.4515(2)
+_cell_length_b 5.4515(2)
+_cell_length_c 23.1283(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 595.25
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.0286
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Ba2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0.3333 0.6667 0.1222(6) 0.012(2) 0.5 0
+Na2 Na1+ 2 b 0.3333 0.6667 0.0882(7) 0.012(2) 0.5 0
+Na3 Na1+ 2 b 0.3333 0.6667 0.4042(4) 0.0195(10) 0.5 0
+Ca1 Ca2+ 2 b 0.3333 0.6667 0.4042(4) 0.0195(10) 0.5 0
+Na4 Na1+ 2 b 0.3333 0.6667 0.7102(3) 0.029(3) 1 0
+Na5 Na1+ 2 a 0. 0. 0.1591(7) 0.0104(5) 0.5 0
+Ca2 Ca2+ 2 a 0. 0. 0.1591(7) 0.0104(5) 0.5 0
+Ba1 Ba2+ 2 a 0. 0. -0.00003(4) 0.0222(6) 1 0
+Ba2 Ba2+ 2 a 0. 0. 0.31793(2) 0.0200(5) 1 0
+P1 P5+ 2 b 0.3333 0.6667 0.2441(4) 0.0208(15) 1 0
+P2 P5+ 2 b 0.3333 0.6667 0.5719(4) 0.0105(12) 1 0
+P3 P5+ 2 b 0.3333 0.6667 0.88873(19) 0.0158(9) 1 0
+O1 O2- 6 c 0.370(2) 0.110(2) 0.0968(4) 0.018(2) 1 0
+O2 O2- 6 c 0.255(3) 0.377(3) 0.2227(5) 0.037(3) 1 0
+O3 O2- 6 c 0.3629(11) 0.1412(15) 0.4088(6) 0.0225(14) 1 0
+O4 O2- 2 b 0.3333 0.6667 0.3096(9) 0.055(3) 1 0
+O5 O2- 2 b 0.3333 0.6667 0.5060(10) 0.055(3) 1 0
+O6 O2- 2 b 0.3333 0.6667 0.8218(6) 0.020(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.010(3) 0.010(3) 0.017(5) 0.0048(15) 0. 0.
+Na2 Na1+ 0.010(3) 0.010(3) 0.017(5) 0.0048(15) 0. 0.
+Na3 Na1+ 0.0251(12) 0.0251(12) 0.008(2) 0.0125(6) 0. 0.
+Ca1 Ca2+ 0.0251(12) 0.0251(12) 0.008(2) 0.0125(6) 0. 0.
+Na4 Na1+ 0.034(4) 0.034(4) 0.020(6) 0.0170(19) 0. 0.
+Na5 Na1+ 0.0100(7) 0.0100(7) 0.0113(13) 0.0050(3) 0. 0.
+Ca2 Ca2+ 0.0100(7) 0.0100(7) 0.0113(13) 0.0050(3) 0. 0.
+Ba1 Ba2+ 0.0265(6) 0.0265(6) 0.0137(15) 0.0132(3) 0. 0.
+Ba2 Ba2+ 0.0264(6) 0.0264(6) 0.0072(12) 0.0132(3) 0. 0.
+P1 P5+ 0.029(2) 0.029(2) 0.004(2) 0.0145(12) 0. 0.
+P2 P5+ 0.0070(13) 0.0070(13) 0.017(3) 0.0035(7) 0. 0.
+P3 P5+ 0.0146(12) 0.0146(12) 0.018(2) 0.0073(6) 0. 0.
+O4 O2- 0.071(4) 0.071(4) 0.022(4) 0.036(2) 0. 0.
+O5 O2- 0.071(4) 0.071(4) 0.022(4) 0.036(2) 0. 0.
+O6 O2- 0.024(4) 0.024(4) 0.014(5) 0.012(2) 0. 0.
+#End of TTdata_194167-ICSD

@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195526-ICSD
+_database_code_ICSD 195526
+_audit_creation_date 2016-02-01
+_chemical_name_systematic
+'Sodium-1.67 zinc-1.67 iron(III)-1.33 tris(orthophosphate)'
+_chemical_formula_structural 'Na1.67 (Fe1.33 Zn1.67) (P O4)3'
+_chemical_formula_sum 'Fe1.33 Na1.67 O12 P3 Zn1.67'
+_exptl_crystal_density_diffrn 3.9
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Crystal structure of a sodium, zinc and iron(III)-based non-stoichiometric
+phosphate with an alluaudite-like structure: Na1.67 Zn1.67 Fe1.33 (P O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2015 71 690 692 ACSECI
+loop_
+_publ_author_name
+'Khmiyas, Jamal'
+'Assani, Abderrazzak'
+'Saadi, Mohamed'
+'El Ammari, Lahcen'
+_cell_length_a 11.7545(4)
+_cell_length_b 12.5080(4)
+_cell_length_c 6.4014(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.5070(10)
+_cell_angle_gamma 90.
+_cell_volume 863.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0168
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Zn2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 8 f 0.71738(2) 0.84648(2) 0.12925(3) 0.00552(5) 0.668(3) 0
+Zn1 Zn2+ 8 f 0.71738(2) 0.84648(2) 0.12925(3) 0.00552(5) 0.332(3) 0
+Zn2 Zn2+ 4 e 0.5 0.73133(2) 0.25 0.00966(5) 1 0
+P1 P5+ 8 f 0.76212(3) 0.60983(2) 0.37448(5) 0.00388(6) 1 0
+P2 P5+ 4 e 0.5 0.28835(3) 0.25 0.00330(7) 1 0
+Na1 Na1+ 4 e 1. 0.49141(19) 0.75 0.0356(7) 0.664(6) 0
+Na2 Na1+ 4 a 0.5 0.5 0. 0.01511(18) 1 0
+O1 O2- 8 f 0.83510(9) 0.66524(7) 0.60760(15) 0.00695(15) 1 0
+O2 O2- 8 f 0.77771(9) 0.67779(8) 0.18481(15) 0.00760(15) 1 0
+O3 O2- 8 f 0.45837(8) 0.21761(8) 0.03327(15) 0.00622(15) 1 0
+O4 O2- 8 f 0.62448(9) 0.60224(8) 0.32496(16) 0.00806(16) 1 0
+O5 O2- 8 f 0.39712(9) 0.36396(8) 0.24820(16) 0.00747(16) 1 0
+O6 O2- 8 f 0.82109(10) 0.49950(8) 0.38406(18) 0.01105(17) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.00523(7) 0.00632(7) 0.00583(7) -0.00082(5) 0.00307(5) -0.00067(5)
+Zn1 Zn2+ 0.00523(7) 0.00632(7) 0.00583(7) -0.00082(5) 0.00307(5) -0.00067(5)
+Zn2 Zn2+ 0.01124(10) 0.00917(10) 0.01083(10) 0. 0.00679(8) 0.
+P1 P5+ 0.00555(12) 0.00355(11) 0.00280(11) -0.00051(9) 0.00192(9) -0.00023(8)
+P2 P5+ 0.00319(15) 0.00365(15) 0.00256(15) 0. 0.00063(12) 0.
+Na1 Na1+ 0.0167(8) 0.0452(13) 0.0345(11) 0. -0.0008(7) 0.
+Na2 Na1+ 0.0221(4) 0.0079(3) 0.0091(3) 0.0024(3) -0.0004(3) 0.0006(3)
+O1 O2- 0.0098(4) 0.0072(4) 0.0035(3) -0.0020(3) 0.0022(3) -0.0015(3)
+O2 O2- 0.0090(4) 0.0101(4) 0.0043(3) -0.0022(3) 0.0032(3) 0.0013(3)
+O3 O2- 0.0057(3) 0.0081(4) 0.0044(3) -0.0004(3) 0.0015(3) -0.0024(3)
+O4 O2- 0.0068(4) 0.0083(4) 0.0101(4) -0.0015(3) 0.0044(3) -0.0006(3)
+O5 O2- 0.0055(3) 0.0064(3) 0.0092(4) 0.0012(3) 0.0016(3) -0.0029(3)
+O6 O2- 0.0147(4) 0.0062(4) 0.0125(4) 0.0026(3) 0.0057(3) -0.0019(3)
+#End of TTdata_195526-ICSD

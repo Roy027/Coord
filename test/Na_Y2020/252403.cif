@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252403-ICSD
+_database_code_ICSD 252403
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium-2.75 iron(II)-1.75 trisulfate'
+_chemical_formula_structural 'Na2.5 Fe1.75 (S O4)3'
+_chemical_formula_sum 'Fe1.75 Na2.5 O12 S3'
+_exptl_crystal_density_diffrn 3.1
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+High-temperature neutron and X-ray diffraction study of fast sodium transport
+in alluaudite-type sodium iron sulfate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2016 28 2393 2399 CMATEX
+loop_
+_publ_author_name
+'Nishimura, Shin-ichi'
+'Suzuki, Yuya'
+'Lu, Jiechen'
+'Torii, Shuki'
+'Kamiyama, Takashi'
+'Yamada, Atsuo'
+_cell_length_a 12.65027(15)
+_cell_length_b 12.76546(14)
+_cell_length_c 6.51011(7)
+_cell_angle_alpha 90
+_cell_angle_beta 115.5394(4)
+_cell_angle_gamma 90
+_cell_volume 948.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0216
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Na1+ 1
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 8 f 0.73054(7) 0.15769(6) 0.14654(14) 1.05(3) 0.875 0
+Na1 Na1+ 8 f 0.73054(7) 0.15769(6) 0.14654(14) 1.05(3) 0.125 0
+S1 S6+ 4 e 0.5 0.27626(14) 0.75 0.93(5) 1. 0
+O1 O2- 8 f 0.0849(2) 0.8465(2) 0.7191(4) 1.39(8) 1. 0
+O2 O2- 8 f 0.4465(2) 0.2083(2) 0.5457(5) 0.89(8) 1. 0
+S2 S6+ 8 f 0.76141(13) 0.60266(10) 0.8690(3) 1.12(4) 1. 0
+O3 O2- 8 f 0.7664(2) 0.67078(19) 0.6858(4) 0.48(7) 1. 0
+O4 O2- 8 f 0.3211(2) -0.0033(2) 0.3776(4) 1.70(8) 1. 0
+O5 O2- 8 f 0.3266(2) 0.1582(2) 0.0873(5) 1.25(7) 1. 0
+O6 O2- 8 f 0.1395(3) 0.0869(2) 0.8280(4) 1.89(8) 1. 0
+Na2 Na1+ 4 e 0 0.2341(2) 0.75 1.57(7) 1. 0
+Na3 Na1+ 8 f 0.0161(6) -0.0003(5) -0.0361(10) 1.57(13) 0.35 0
+Na4 Na1+ 8 f -0.0049(14) 0.4852(4) 0.279(2) 3.3(2) 0.275 0
+#End of TTdata_252403-ICSD

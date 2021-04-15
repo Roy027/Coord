@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426451-ICSD
+_database_code_ICSD 426451
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Potassium disodium tetraoxodiniccolate(II,III)'
+_chemical_formula_structural 'K Na2 (Ni2 O4)'
+_chemical_formula_sum 'K1 Na2 Ni2 O4'
+_exptl_crystal_density_diffrn 3.49
+_cell_measurement_temperature 298.
+_publ_section_title
+'K4 Ni3 O6 and K Na2 Ni2 O4, New Quasi One-Dimensional -Oxonickelates(II, III)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2013
+639 2755 2760 ZAACAB
+loop_
+_publ_author_name
+'Duris, Katarina'
+'Nuss, Juergen'
+'Jansen, Martin'
+_cell_length_a 5.7370(2)
+_cell_length_b 10.7289(3)
+_cell_length_c 8.4493(2)
+_cell_angle_alpha 90
+_cell_angle_beta 102.916(2)
+_cell_angle_gamma 90
+_cell_volume 506.91
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0378
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2.5
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 e 0.26006(10) 0.41741(5) 0.80072(7) 0.0124(2) 1 0
+Ni2 Ni2+ 4 e 0.24608(9) 0.66661(5) 0.73984(7) 0.0121(2) 1 0
+K1 K1+ 4 e 0.28182(19) 0.38958(10) 0.45418(13) 0.0217(3) 1 0
+Na1 Na1+ 4 e -0.2193(3) 0.42086(16) 0.8947(2) 0.0171(4) 1 0
+Na2 Na1+ 4 e 0.2373(3) 0.29612(18) 0.1226(2) 0.0200(4) 1 0
+O1 O2- 4 e 0.0655(6) 0.2844(3) 0.8394(4) 0.0161(7) 1 0
+O2 O2- 4 e 0.4574(6) 0.5422(3) 0.7523(4) 0.0189(7) 1 0
+O3 O2- 4 e 0.0335(6) 0.7906(3) 0.7295(4) 0.0187(7) 1 0
+O4 O2- 4 e 0.0583(6) 0.5510(3) 0.8204(4) 0.0165(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0131(3) 0.0052(3) 0.0201(4) -0.00005(19) 0.0062(2) -0.0002(2)
+Ni2 Ni2+ 0.0122(3) 0.0052(3) 0.0200(4) 0.00053(19) 0.0057(2) 0.0012(2)
+K1 K1+ 0.0229(5) 0.0203(5) 0.0222(6) -0.0014(4) 0.0054(4) -0.0009(4)
+Na1 Na1+ 0.0162(9) 0.0109(9) 0.0246(10) -0.0004(7) 0.0053(7) 0.0002(7)
+Na2 Na1+ 0.0202(9) 0.0163(10) 0.0239(10) -0.0019(7) 0.0060(8) -0.0001(7)
+O1 O2- 0.0156(15) 0.0093(15) 0.0252(18) 0.0013(12) 0.0084(13) -0.0011(13)
+O2 O2- 0.0182(16) 0.0089(15) 0.0318(19) 0.0033(12) 0.0101(14) 0.0029(14)
+O3 O2- 0.0160(16) 0.0098(15) 0.031(2) 0.0003(12) 0.0077(14) 0.0029(13)
+O4 O2- 0.0160(15) 0.0092(15) 0.0256(17) 0.0017(12) 0.0078(13) 0.0021(13)
+#End of TTdata_426451-ICSD

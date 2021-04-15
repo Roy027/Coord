@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74868-ICSD
+_database_code_ICSD 74868
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Sodium hydroxide heptahydrate'
+_chemical_formula_structural 'Na (O H) (H2 O)7'
+_chemical_formula_sum 'H15 Na1 O8'
+_exptl_crystal_density_diffrn 1.33
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+Die Kristallstruktur von Na O H * 3.5(H2 O) und Na O H * 7(H2 O). Eine
+Praezisierung.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 1509 1513 ZAACAB
+loop_
+_publ_author_name
+'Mootz, D.'
+'Ruetter, H.'
+'Wiskemann, R.'
+_cell_length_a 7.344(2)
+_cell_length_b 16.3560(50)
+_cell_length_c 6.897(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.91(2)
+_cell_angle_gamma 90.
+_cell_volume 827.39
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.54018(4) 0.24244(2) 0.52116(4) . 1. 0
+O1 O2- 4 e 0.18141(8) 0.07021(3) 0.10768(8) . 1. 0
+O2 O2- 4 e 0.76145(8) 0.23976(3) 0.28689(8) . 1. 0
+O3 O2- 4 e 0.31490(8) 0.22820(4) 0.25797(9) . 1. 0
+O4 O2- 4 e 0.52473(8) 0.38939(3) 0.49659(8) . 1. 0
+O5 O2- 4 e 0.55417(8) 0.10277(3) 0.60917(8) . 1. 0
+O6 O2- 4 e 0.22316(8) 0.03772(4) 0.48758(8) . 1. 0
+O7 O2- 4 e 0.15760(8) 0.92452(4) 0.78248(9) . 1. 0
+O8 O2- 4 e 0.05779(8) 0.14796(4) 0.77899(8) . 1. 0
+H1 H1+ 4 e 0.183(2) 0.0290(9) 0.053(2) 0.043(4) 1. 0
+H2 H1+ 4 e 0.844(2) 0.2705(9) 0.283(2) 0.032(3) 1. 0
+H3 H1+ 4 e 0.806(2) 0.196(1) 0.274(2) 0.041(4) 1. 0
+H4 H1+ 4 e 0.272(2) 0.189(1) 0.226(3) 0.055(5) 1. 0
+H5 H1+ 4 e 0.231(2) 0.2632(8) 0.268(2) 0.029(3) 1. 0
+H6 H1+ 4 e 0.425(2) 0.4084(8) 0.537(2) 0.028(3) 1. 0
+H7 H1+ 4 e 0.607(2) 0.4064(9) 0.569(2) 0.034(3) 1. 0
+H8 H1+ 4 e 0.633(2) 0.0731(9) 0.577(2) 0.036(4) 1. 0
+H9 H1+ 4 e 0.551(2) 0.1054(9) 0.730(2) 0.043(4) 1. 0
+H10 H1+ 4 e 0.324(2) 0.0604(8) 0.515(2) 0.032(3) 1. 0
+H11 H1+ 4 e 0.214(2) 0.0467(9) 0.359(2) 0.037(4) 1. 0
+H12 H1+ 4 e 0.046(2) -.0757(9) 0.822(2) 0.041(4) 1. 0
+H13 H1+ 4 e 0.163(2) -.0481(9) 0.693(2) 0.031(3) 1. 0
+H14 H1+ 4 e 0.085(2) 0.123(1) 0.689(2) 0.036(3) 1. 0
+H15 H1+ 4 e 0.097(2) 0.1241(8) 0.889(2) 0.030(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0151(2) 0.0131(1) 0.0132(2) 0.0004(1) 0.0002(1) 0.0003(1)
+O1 O2- 0.0160(3) 0.0152(2) 0.0169(3) -.0009(2) 0.0008(2) -.0016(2)
+O2 O2- 0.0145(3) 0.0160(2) 0.0190(3) -.0001(2) 0.0007(2) -.0003(2)
+O3 O2- 0.0157(2) 0.0156(3) 0.0192(3) -.0014(2) -.0002(2) -.0024(2)
+O4 O2- 0.0157(3) 0.0169(2) 0.0174(3) -.0001(2) -.0001(2) -.0007(2)
+O5 O2- 0.0202(3) 0.0151(2) 0.0164(3) 0.0019(2) -.0011(2) -.0008(2)
+O6 O2- 0.0175(3) 0.0220(3) 0.0164(2) -.0031(2) -.0018(2) 0.0039(2)
+O7 O2- 0.0143(2) 0.0199(3) 0.0218(3) 0.0023(2) 0.0012(2) 0.0066(2)
+O8 O2- 0.0203(3) 0.0180(3) 0.0207(3) 0.0031(2) 0.0004(2) 0.0016(2)
+#End of TTdata_74868-ICSD

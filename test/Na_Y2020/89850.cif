@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89850-ICSD
+_database_code_ICSD 89850
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium cerium titanoniobate *'
+_chemical_formula_structural '(Na0.682 Ce0.318) ((Ti0.834 Nb0.166) O3)'
+_chemical_formula_sum 'Ce0.318 Na0.682 Nb0.166 O3 Ti0.834'
+_chemical_name_structure_type Perovskite-GdFeO3
+_chemical_name_mineral Loparite-(Ce)
+_exptl_crystal_density_diffrn 4.59
+_publ_section_title 'The crystal structures of loparite-(Ce)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2000 38 145 152 CAMIA6
+loop_
+_publ_author_name
+'Mitchell, R.H.'
+'Burns, P.C.'
+'Chakhmouradian, A.R.'
+_cell_length_a 5.5108(14)
+_cell_length_b 5.5084(14)
+_cell_length_c 7.7964(20)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 236.67
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ce3+ 3
+Na1+ 1
+Ti4+ 4
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ce1 Ce3+ 4 c -.0034(1) 0.5003(5) 0.25 0.0179(4) 0.318(4) 0
+Na1 Na1+ 4 c -.0034(1) 0.5003(5) 0.25 0.0179(4) 0.682(4) 0
+Ti1 Ti4+ 4 a 0 0 0 . 0.834(10) 0
+Nb1 Nb5+ 4 a 0 0 0 . 0.166(10) 0
+O1 O2- 4 c 0.0508(8) -.0016(24) 0.25 . 1. 0
+O2 O2- 8 d 0.2428(8) 0.2510(34) -.0181(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti1 Ti4+ 0.0097(9) 0.0142(11) 0.0112(5) 0.0019(11) 0 -.0013(13)
+Nb1 Nb5+ 0.0097(9) 0.0142(11) 0.0112(5) 0.0019(11) 0 -.0013(13)
+O1 O2- 0.0242(24) 0.0622(41) 0.0166(20) -.0033(69) 0 0
+O2 O2- 0.0610(52) 0.0530(57) 0.0652(28) -.0435(21) -.0049(85) 0.0149(53)
+#End of TTdata_89850-ICSD

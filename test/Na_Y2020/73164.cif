@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73164-ICSD
+_database_code_ICSD 73164
+_audit_creation_date 1994-06-30
+_chemical_name_systematic 'Sodium tetraamidogallate'
+_chemical_formula_structural 'Na (Ga (N H2)4)'
+_chemical_formula_sum 'H8 Ga1 N4 Na1'
+_chemical_name_structure_type NaAl(NH2)4
+_exptl_crystal_density_diffrn 1.8
+_publ_section_title
+
+;
+Neubestimmung von Struktur und Eigenschaften isotyper
+Natriumtetraamidometallate des Aluminiums und Galliums
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1993
+619 381 386 ZAACAB
+loop_
+_publ_author_name
+'Jacobs, H.'
+'Noecker, B.'
+_cell_length_a 7.4087(8)
+_cell_length_b 6.0917(5)
+_cell_length_c 12.855(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.10(1)
+_cell_angle_gamma 90.
+_cell_volume 579.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Na1+ 1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 4 e 0.24500(6) 0.14151(9) 0.15743(4) . 1. 0
+Na1 Na1+ 4 e 0.7337(3) 0.1436(4) 0.1823(2) . 1. 0
+N1 N3- 4 e 0.4535(5) 0.2348(9) 0.0855(4) . 1. 0
+N2 N3- 4 e 0.2819(6) 0.248(1) 0.2958(4) . 1. 0
+N3 N3- 4 e 0.0157(5) 0.257(1) 0.1075(4) . 1. 0
+N4 N3- 4 e 0.7637(6) 0.3283(8) 0.3513(4) . 1. 0
+H1 H1+ 4 e 0.446(7) 0.386(9) 0.083(4) 1.(1) 1. 0
+H2 H1+ 4 e 0.537(8) 0.82(1) 0.983(5) 3.(2) 1. 0
+H3 H1+ 4 e 0.398(9) 0.19(1) 0.320(5) 4.(2) 1. 0
+H4 H1+ 4 e 0.772(6) 0.739(9) 0.177(4) 1.(1) 1. 0
+H5 H1+ 4 e 0.041(9) 0.43(1) 0.100(5) 4.(2) 1. 0
+H6 H1+ 4 e 0.003(9) 0.74(1) 0.462(5) 4.(2) 1. 0
+H7 H1+ 4 e 0.705(9) 0.27(1) 0.395(5) 4.(2) 1. 0
+H8 H1+ 4 e 0.843(8) 0.31(1) 0.366(5) 2.(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0257(2) 0.0335(2) 0.0354(2) -.0009(3) -.0006(2) 0.0021(3)
+Na1 Na1+ 0.0368(8) 0.048(1) 0.051(1) 0.000(1) -.0024(9) 0.002(1)
+N1 N3- 0.031(2) 0.054(3) 0.048(2) -.004(2) 0.007(2) 0.008(2)
+N2 N3- 0.054(2) 0.051(3) 0.040(2) -.002(2) 0.003(2) -.003(2)
+N3 N3- 0.027(2) 0.062(3) 0.057(3) 0.001(2) -.006(2) 0.012(3)
+N4 N3- 0.050(2) 0.043(2) 0.048(2) 0.002(2) -.002(2) 0.000(2)
+#End of TTdata_73164-ICSD

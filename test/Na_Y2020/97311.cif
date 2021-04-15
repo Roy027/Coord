@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97311-ICSD
+_database_code_ICSD 97311
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Potassium sodium octaalumooctasilicate (1.35/6/1)'
+_chemical_formula_structural 'K1.35 Na6 (Al8 Si8 O32)'
+_chemical_formula_sum 'Al8 K1.35 Na6 O32 Si8'
+_chemical_name_structure_type KNa3Al4(SiO4)4
+_chemical_name_mineral Nepheline
+_exptl_crystal_density_diffrn 2.63
+_publ_section_title
+
+;
+Single-crystal XRD, TEM and thermal studies of the satellite reflections in
+nepheline
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2003 41 759 783 CAMIA6
+loop_
+_publ_author_name
+'Hassan, I.'
+'Antao, S.M.'
+'Hersi, A.A.M.'
+_cell_length_a 9.9853(7)
+_cell_length_b 9.9853(7)
+_cell_length_c 8.3689(17)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 722.64
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Si4+ 4
+Al3+ 3
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 2 b 0.6667 0.3333 0.1907(6) 0.011(1) 1. 0
+Si1 Si4+ 2 b 0.6667 0.3333 0.8024(6) 0.013(1) 1. 0
+Si2 Si4+ 6 c 0.3339(3) 0.0939(2) 0.3103(2) 0.012(1) 1. 0
+Al2 Al3+ 6 c 0.3321(3) 0.0931(3) 0.6838(2) 0.011(1) 1. 0
+K1 K1+ 2 a 0 0 0.9920(14) 0.026(1) 0.675 0
+Na1 Na1+ 6 c 0.4429(2) 0.9970(2) 0.9952(10) 0.023(1) 1. 0
+O1 O2- 6 c 0.7113(11) 0.3470(60) 0.9850(20) 0.030(5) 0.333 0
+O2 O2- 6 c 0.3174(5) 0.0272(4) 0.4911(13) 0.029(1) 1. 0
+O3 O2- 6 c 0.5238(6) 0.1731(7) 0.7348(17) 0.034(2) 1. 0
+O4 O2- 6 c 0.5095(7) 0.1621(7) 0.2487(16) 0.031(2) 1. 0
+O5 O2- 6 c 0.2857(7) 0.2271(8) 0.3113(14) 0.020(1) 1. 0
+O6 O2- 6 c 0.2679(7) 0.2239(8) 0.6881(14) 0.022(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al3+ 0.012(1) 0.012(1) 0.010(2) 0.006(1) 0. 0.
+Si1 Si4+ 0.013(1) 0.013(1) 0.012(2) 0.007(1) 0. 0.
+Si2 Si4+ 0.013(1) 0.010(1) 0.014(1) 0.005(1) 0.000(1) 0.000(1)
+Al2 Al3+ 0.011(1) 0.009(1) 0.013(1) 0.005(1) 0.001(1) 0.000(1)
+K1 K1+ 0.022(1) 0.022(1) 0.034(2) 0.011(1) 0. 0.
+Na1 Na1+ 0.020(1) 0.029(1) 0.018(1) 0.012(1) -.002(2) 0.001(3)
+O1 O2- 0.029(6) 0.046(7) 0.003(5) 0.008(13) 0.006(6) -.007(14)
+O2 O2- 0.056(2) 0.028(2) 0.014(2) 0.029(2) 0.002(4) 0.001(4)
+O3 O2- 0.012(2) 0.012(2) 0.075(6) 0.005(2) -.005(3) -.001(3)
+O4 O2- 0.011(2) 0.013(2) 0.066(5) 0.004(2) 0.005(3) 0.002(3)
+O5 O2- 0.025(2) 0.018(2) 0.018(3) 0.013(2) 0.004(3) 0.005(3)
+O6 O2- 0.029(3) 0.018(3) 0.023(3) 0.016(2) -.002(3) -.003(3)
+#End of TTdata_97311-ICSD

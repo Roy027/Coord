@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262454-ICSD
+_database_code_ICSD 262454
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Trisodium neptunyl(V) bis(selenate) hydrate'
+_chemical_formula_structural 'Na3 (Np O2) (Se O4)2 (H2 O)'
+_chemical_formula_sum 'H2 Na3 Np1 O11 Se2'
+_exptl_crystal_density_diffrn 4.29
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Three new sodium neptunyl(V) selenate hydrates: structures, Raman
+spectroscopy, and magnetism
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 3220 3230 INOCAJ
+loop_
+_publ_author_name
+'Jin Gengbang'
+'Skanthakumar, S.'
+'Soderholm, L.'
+_cell_length_a 6.9742(12)
+_cell_length_b 7.9833(14)
+_cell_length_c 9.6904(17)
+_cell_angle_alpha 90.113(3)
+_cell_angle_beta 95.914(3)
+_cell_angle_gamma 112.149(2)
+_cell_volume 496.57
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0288
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Np5+ 5
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.1097(3) 0.7274(3) 0.39970(19) 0.0115(4) 1 0
+Na2 Na1+ 2 i 0.1575(3) 0.2122(3) 0.90919(19) 0.0119(4) 1 0
+Na3 Na1+ 2 i 0.4592(3) 0.0824(3) 0.1848(2) 0.0137(4) 1 0
+Np1 Np5+ 2 i 0.08902(3) 0.27105(2) 0.260055(18) 0.00758(5) 1 0
+Se1 Se6+ 2 i 0.28494(7) 0.68430(6) 0.04795(5) 0.00834(9) 1 0
+Se2 Se6+ 2 i 0.29850(7) 0.12776(6) 0.58792(4) 0.00816(9) 1 0
+O1 O2- 2 i 0.0791(5) 0.4266(5) 0.3931(3) 0.0131(7) 1 0
+O2 O2- 2 i 0.0986(5) 0.1037(4) 0.1342(3) 0.0122(6) 1 0
+O3 O2- 2 i 0.1605(5) 0.7578(5) 0.1512(3) 0.0129(7) 1 0
+O4 O2- 2 i 0.1819(5) 0.0768(4) 0.4275(3) 0.0108(6) 1 0
+O5 O2- 2 i 0.2145(5) 0.2602(4) 0.6716(3) 0.0116(6) 1 0
+O6 O2- 2 i 0.2717(5) 0.4799(4) 0.0868(3) 0.0100(6) 1 0
+O7 O2- 2 i 0.4859(5) 0.3677(5) 0.3169(4) 0.0126(7) 1 0
+O8 O2- 2 i 0.5271(5) 0.8267(5) 0.0597(4) 0.0127(7) 1 0
+O9 O2- 2 i 0.5463(5) 0.2274(5) 0.5778(4) 0.0133(7) 1 0
+O10 O2- 2 i 0.7507(5) 0.0645(4) 0.3349(3) 0.0111(6) 1 0
+O11 O2- 2 i 0.8097(5) 0.3233(5) 0.1158(3) 0.0120(6) 1 0
+H1 H1+ 2 i 0.516(12) 0.330(9) 0.392(5) 0.06(3) 1 0
+H2 H1+ 2 i 0.562(8) 0.476(3) 0.312(6) 0.019(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0102(9) 0.0116(9) 0.0135(9) 0.0048(7) 0.0015(7) -0.0001(7)
+Na2 Na1+ 0.0115(9) 0.0139(9) 0.0111(9) 0.0056(7) 0.0011(7) 0.0019(7)
+Na3 Na1+ 0.0129(9) 0.0131(9) 0.0160(10) 0.0061(8) 0.0007(7) 0.0016(7)
+Np1 Np5+ 0.00824(8) 0.00797(8) 0.00654(8) 0.00302(6) 0.00104(6) 0.00097(5)
+Se1 Se6+ 0.00788(19) 0.0090(2) 0.00840(19) 0.00343(16) 0.00098(15) 0.00145(15)
+Se2 Se6+ 0.00764(19) 0.0092(2) 0.00743(19) 0.00301(16) 0.00064(15) 0.00134(15)
+O1 O2- 0.0142(16) 0.0142(17) 0.0112(15) 0.0054(13) 0.0032(13) 0.0009(13)
+O2 O2- 0.0121(15) 0.0099(16) 0.0136(16) 0.0031(13) 0.0011(12) -0.0003(12)
+O3 O2- 0.0113(15) 0.0176(17) 0.0118(15) 0.0074(13) 0.0026(12) -0.0009(13)
+O4 O2- 0.0107(15) 0.0113(16) 0.0088(14) 0.0035(12) -0.0026(12) 0.0012(12)
+O5 O2- 0.0162(16) 0.0113(16) 0.0096(15) 0.0081(13) 0.0007(12) -0.0014(12)
+O6 O2- 0.0105(15) 0.0093(15) 0.0108(15) 0.0045(12) 0.0007(12) 0.0034(12)
+O7 O2- 0.0111(15) 0.0112(17) 0.0135(16) 0.0020(13) 0.0001(13) 0.0030(13)
+O8 O2- 0.0069(14) 0.0108(16) 0.0178(17) 0.0008(12) -0.0007(13) -0.0001(13)
+O9 O2- 0.0049(14) 0.0146(17) 0.0180(17) 0.0008(13) 0.0025(12) 0.0023(13)
+O10 O2- 0.0115(15) 0.0108(15) 0.0118(15) 0.0049(12) 0.0019(12) 0.0069(12)
+O11 O2- 0.0118(15) 0.0175(17) 0.0087(14) 0.0078(13) 0.0003(12) 0.0007(12)
+#End of TTdata_262454-ICSD

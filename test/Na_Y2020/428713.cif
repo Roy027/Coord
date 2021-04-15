@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428713-ICSD
+_database_code_ICSD 428713
+_audit_creation_date 2016-08-01
+_chemical_name_systematic
+'Potassium-0.13 sodium-3.87 magnesium tripotassium tris(molybdate)'
+_chemical_formula_structural 'K0.13 Na3.87 Mg (Mo O4)3'
+_chemical_formula_sum 'K0.13 Mg1 Mo3 Na3.87 O12'
+_chemical_name_structure_type Alluaudite
+_exptl_crystal_density_diffrn 3.42
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis, crystal structure, sintering and electrical properties of a new
+alluaudite-like triple molybdate K0.13 Na3.87 Mg Mo3 O12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'RSC Advances' 2015 5 38918 38925 RSCACL
+loop_
+_publ_author_name
+'Ennajeh, Ines'
+'Georges, Samuel'
+'Smida, Youssef Ben'
+'Guesmi, Abderrahmen'
+'Zid, Mohamed Faouzi'
+'Boughazala, Habib'
+_cell_length_a 12.9325(8)
+_cell_length_b 13.5537(9)
+_cell_length_c 7.1627(6)
+_cell_angle_alpha 90
+_cell_angle_beta 112.212(9)
+_cell_angle_gamma 90
+_cell_volume 1162.33
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0241
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Mg2+ 2
+Na1+ 1
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 e 0 0.21604(3) 0.75 0.01849(13) 1 0
+Mo2 Mo6+ 8 f 0.23694(3) 0.60958(2) 0.12685(5) 0.02006(11) 1 0
+Mg1 Mg2+ 8 f 0.21624(11) 0.34005(10) 0.12690(19) 0.0161(3) 0.5 0
+Na1 Na1+ 8 f 0.21624(11) 0.34005(10) 0.12690(19) 0.0161(3) 0.5 0
+Na2 Na1+ 4 e 0 0.23648(18) 0.25 0.0250(5) 1 0
+Na3 Na1+ 4 a 0.5 0.5 0.5 0.0412(7) 1 0
+Na4 Na1+ 4 e 0 0.4915(2) 0.75 0.0440(11) 0.869(19) 0
+K1 K1+ 4 e 0 0.4915(2) 0.75 0.0440(11) 0.131(19) 0
+O1 O2- 8 f 0.6702(3) 0.0051(3) 0.6099(5) 0.0434(9) 1 0
+O2 O2- 8 f 0.3951(3) 0.3654(2) 0.2540(5) 0.0387(8) 1 0
+O3 O2- 8 f 0.3789(3) 0.5894(2) 0.1839(5) 0.0306(7) 1 0
+O4 O2- 8 f 0.4566(3) 0.7902(2) 0.5302(4) 0.0265(6) 1 0
+O5 O2- 8 f 0.3261(3) 0.8305(2) 0.1080(4) 0.0314(7) 1 0
+O6 O2- 8 f 0.2769(3) 0.8203(3) 0.6735(4) 0.0326(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0249(3) 0.0156(2) 0.0109(2) 0 0.00212(18) 0
+Mo2 Mo6+ 0.0235(2) 0.02184(18) 0.01255(17) -0.00294(13) 0.00419(14) 0.00008(12)
+Mg1 Mg2+ 0.0177(6) 0.0183(6) 0.0117(6) 0.0020(5) 0.0049(5) -0.0003(5)
+Na1 Na1+ 0.0177(6) 0.0183(6) 0.0117(6) 0.0020(5) 0.0049(5) -0.0003(5)
+Na2 Na1+ 0.0246(11) 0.0274(12) 0.0264(12) 0 0.0135(10) 0
+Na3 Na1+ 0.0604(19) 0.0216(12) 0.0254(13) 0.0014(12) -0.0023(12) -0.0022(10)
+Na4 Na1+ 0.0186(14) 0.059(2) 0.0442(17) 0 0.0002(11) 0
+K1 K1+ 0.0186(14) 0.059(2) 0.0442(17) 0 0.0002(11) 0
+O1 O2- 0.054(2) 0.0388(19) 0.0336(18) 0.0200(18) 0.0128(17) -0.0032(15)
+O2 O2- 0.044(2) 0.0286(16) 0.0339(18) 0.0085(15) 0.0040(15) -0.0100(14)
+O3 O2- 0.0272(16) 0.0292(15) 0.0326(17) 0.0037(13) 0.0081(13) 0.0073(13)
+O4 O2- 0.0303(16) 0.0309(15) 0.0179(14) -0.0003(13) 0.0088(12) 0.0032(12)
+O5 O2- 0.0394(18) 0.0292(15) 0.0185(14) 0.0095(14) 0.0030(13) 0.0016(12)
+O6 O2- 0.0335(18) 0.0432(19) 0.0201(15) 0.0011(15) 0.0091(13) -0.0014(13)
+#End of TTdata_428713-ICSD

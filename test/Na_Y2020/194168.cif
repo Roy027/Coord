@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194168-ICSD
+_database_code_ICSD 194168
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Disodium dinickel iron triphosphate'
+_chemical_formula_structural 'Na2 Ni2 Fe (P O4)3'
+_chemical_formula_sum 'Fe1 Na2 Ni2 O12 P3'
+_exptl_crystal_density_diffrn 3.76
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+alpha-Na2 Ni2 Fe (P O4)3: A dual positive/negative electrode material for
+sodium ion batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2015 44 4526 4532 DTARAF
+loop_
+_publ_author_name
+'Essehli, R.'
+'Belharouak, I.'
+'Yahia, H. Ben'
+'Chamoun, R.'
+'Orayech, B.'
+'El Bali, B.'
+'Bouziane, K.'
+'Zhou, X.L.'
+'Zhou, Z.'
+_cell_length_a 10.42821(12)
+_cell_length_b 13.19862(15)
+_cell_length_c 6.47634(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 891.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I m m a'
+_symmetry_Int_Tables_number 74
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 '-x, -y+1/2, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y+1/2, z'
+6 'x, y+1/2, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y, -z+1/2'
+10 '-x+1/2, -y, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y, z+1/2'
+14 'x+1/2, y, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ni2+ 2
+Fe3+ 3
+Ni2+ 2
+Fe3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.75 0.6119(14) 0.094(3) 1 0
+Na2 Na1+ 4 b 0 0.5 0.5 0.094(3) 1 0
+Ni1 Ni2+ 8 g 0.25 0.63617(17) 0.25 0.0035(6) 0.75 0
+Fe1 Fe3+ 8 g 0.25 0.63617(17) 0.25 0.0035(6) 0.25 0
+Ni2 Ni2+ 4 a 0.5 0.5 0.5 0.0035(6) 0.5 0
+Fe2 Fe3+ 4 a 0.5 0.5 0.5 0.0035(6) 0.5 0
+P1 P5+ 8 g 0.25 0.4288(3) 0.25 0.0070(12) 1 0
+P2 P5+ 4 e 0 0.75 0.0831(8) 0.0070(12) 1 0
+O1 O2- 16 j 0.2881(4) 0.3660(4) 0.0661(6) 0.0018(11) 1 0
+O2 O2- 16 j 0.1403(4) 0.5066(3) 0.2117(8) 0.0018(11) 1 0
+O3 O2- 8 h 0 0.6538(6) 0.9525(10) 0.0018(11) 1 0
+O4 O2- 8 i 0.1202(6) 0.75 0.2280(13) 0.0018(11) 1 0
+#End of TTdata_194168-ICSD

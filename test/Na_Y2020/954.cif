@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_954-ICSD
+_database_code_ICSD 954
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Sodium thiocyanate'
+_chemical_formula_structural 'Na (S C N)'
+_chemical_formula_sum 'C1 N1 Na1 S1'
+_chemical_name_structure_type NaSCN
+_exptl_crystal_density_diffrn 1.79
+_cell_measurement_temperature 94.
+_publ_section_title
+
+;
+The experimental charge distribution in sulfur-containing molecules. Structure
+determination and electron density study of Na S C N at reduced temperatures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1977 33 1534 1542 ACBCAR
+loop_
+_publ_author_name
+'Bats, J.W.'
+'Coppens, P.'
+'Kvick, A.'
+_cell_length_a 4.035(2)
+_cell_length_b 5.601(2)
+_cell_length_c 13.276(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 300.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m c n'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x+1/2, y, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x+1/2, -y, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S2- -2
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.25 -.06051(12) 0.39263(5) . 1. 0
+S1 S2- 4 c 0.25 0.12013(13) 0.18592(6) . 1. 0
+C1 C4+ 4 c 0.25 -.11899(6) 0.11421(2) . 1. 0
+N1 N3- 4 c 0.25 -.29174(5) 0.06412(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.01282(29) 0.01141(30) 0.01025(26) 0 0 0.00064(22)
+S1 S2- 0.01494(37) 0.00818(33) 0.00939(31) 0 0 -.00015(26)
+C1 C4+ 0.01072(17) 0.00854(18) 0.00918(15) 0 0 -.00054(11)
+N1 N3- 0.01826(16) 0.01015(16) 0.01135(13) 0 0 -.00242(9)
+#End of TTdata_954-ICSD

@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100156-ICSD
+_database_code_ICSD 100156
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium arsenic sulfide'
+_chemical_formula_structural 'Na As S2'
+_chemical_formula_sum 'As1 Na1 S2'
+_chemical_name_structure_type AsNaS2
+_exptl_crystal_density_diffrn 2.91
+_publ_section_title 'Na As S2, a synthetic sulfosalt related to the Na Cl type'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1977 146 43 52 ZEKRDZ
+loop_
+_publ_author_name
+'Iglesias, J.E.'
+'Zuniga, F.J.'
+'Nowacki, W.'
+_cell_length_a 5.867(2)
+_cell_length_b 11.305(3)
+_cell_length_c 5.586(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.95(2)
+_cell_angle_gamma 90.
+_cell_volume 370.01
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+As3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.0094(5) 0.1249(2) 0.2690(5) . 1. 0
+As1 As3+ 4 e 0.4612(1) 0.1410(1) 0.7786(1) . 1. 0
+S1 S2- 4 e 0.5235(3) 0.1604(2) 0.3693(3) . 1. 0
+S2 S2- 4 e 0.0906(3) 0.3756(2) 0.2750(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0192(9) 0.0030(2) 0.0123(9) -.0011(4) 0.0035(7) -.0001(4)
+As1 As3+ 0.0117(2) 0.0017(1) 0.0082(2) 0.0004(1) 0.0009(1) 0.0002(1)
+S1 S2- 0.0144(5) 0.0022(1) 0.0093(5) 0.0012(2) 0.0027(4) 0.0001(2)
+S2 S2- 0.0134(5) 0.0021(1) 0.0109(5) 0.0011(2) 0.0023(4) 0.0004(2)
+#End of TTdata_100156-ICSD

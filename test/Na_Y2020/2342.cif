@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2342-ICSD
+_database_code_ICSD 2342
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Trisodium lithium tetrafluoroberyllate'
+_chemical_formula_structural 'Na3 Li (Be F4)2'
+_chemical_formula_sum 'Be2 F8 Li1 Na3'
+_exptl_crystal_density_diffrn 2.61
+_publ_section_title
+'Structure cristalline de l'orthofluoroberyllate Na Li (Be F4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1974 30 2678 2682 ACBCAR
+loop_
+_publ_author_name
+'Vicat, J.'
+'Duc Tran Qui'
+'Aleonard, S.'
+'Richard, P.'
+_cell_length_a 6.542(2)
+_cell_length_b 9.634(2)
+_cell_length_c 9.939(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.83(1)
+_cell_angle_gamma 90.
+_cell_volume 625.01
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+Be2+ 2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.95069(67) 0.12622(49) 0.19452(45) . 1. 0
+Na1 Na1+ 4 e 0.63963(15) 0.77881(11) 0.36396(10) . 1. 0
+Na2 Na1+ 4 e 0.64749(15) 0.38905(11) 0.42196(10) . 1. 0
+Na3 Na1+ 4 e 0.16569(16) 0.56975(13) 0.89071(10) . 1. 0
+Be1 Be2+ 4 e 0.10257(45) 0.16335(32) 0.91093(31) . 1. 0
+Be2 Be2+ 4 e 0.62180(45) 0.08022(33) 0.33998(31) . 1. 0
+F1 F1- 4 e 0.14428(21) 0.28081(15) 0.80899(14) . 1. 0
+F2 F1- 4 e 0.30472(20) 0.09729(15) 0.96939(14) . 1. 0
+F3 F1- 4 e -.01247(23) 0.22092(15) 0.03101(14) . 1. 0
+F4 F1- 4 e -.03927(21) 0.05394(5) 0.83797(14) . 1. 0
+F5 F1- 4 e 0.81794(21) -.00378(15) 0.38464(14) . 1. 0
+F6 F1- 4 e 0.56055(21) 0.16324(15) 0.46158(14) . 1. 0
+F7 F1- 4 e 0.68022(22) 0.18428(16) 0.22611(15) . 1. 0
+F8 F1- 4 e 0.45786(21) -.01982(15) 0.28912(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0226(20) 0.0312(23) 0.0265(22) -.0028(18) -.0036(17) 0.0033(19)
+Na1 Na1+ 0.0244(5) 0.0250(5) 0.0273(5) -.0017(4) 0.0025(4) -.0025(4)
+Na2 Na1+ 0.0216(5) 0.0224(5) 0.0278(5) 0.0018(4) 0.0008(4) -.0005(4)
+Na3 Na1+ 0.0234(5) 0.0453(7) 0.0221(5) 0.0005(5) -.0026(4) 0.0036(5)
+Be1 Be2+ 0.0175(12) 0.0183(13) 0.0206(13) 0.0008(11) -.0012(10) -.0007(11)
+Be2 Be2+ 0.0170(12) 0.0208(14) 0.0209(14) 0.0005(11) -.0007(10) -.0024(11)
+F1 F1- 0.0226(7) 0.0248(7) 0.0238(7) -.0001(6) -.0013(5) -.0077(6)
+F2 F1- 0.0168(6) 0.0241(7) 0.0289(7) -.0022(5) -.0023(5) -.0057(6)
+F3 F1- 0.0313(8) 0.0233(7) 0.0209(7) -.0041(6) 0.0041(6) -.0002(6)
+F4 F1- 0.0218(6) 0.0221(7) 0.0218(7) 0.0028(6) -.0015(5) 0.0039(6)
+F5 F1- 0.0202(7) 0.0235(7) 0.0269(7) -.0053(6) -.0028(5) 0.0018(6)
+F6 F1- 0.0244(7) 0.0248(7) 0.0240(7) -.0033(6) 0.0015(5) 0.0035(6)
+F7 F1- 0.0245(7) 0.0288(8) 0.0301(8) -.0009(6) 0.0021(6) -.0109(6)
+F8 F1- 0.0213(7) 0.0257(8) 0.0246(7) 0.0034(6) -.0023(5) 0.0025(6)
+#End of TTdata_2342-ICSD

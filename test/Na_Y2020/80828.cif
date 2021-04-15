@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80828-ICSD
+_database_code_ICSD 80828
+_audit_creation_date 1997-05-13
+_audit_update_record 1999-01-19
+_chemical_name_systematic 'Sodium gallium catena-disilicate'
+_chemical_formula_structural 'Na Ga (Si2 O6)'
+_chemical_formula_sum 'Ga1 Na1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Jadeite
+_exptl_crystal_density_diffrn 3.89
+_cell_measurement_temperature 296.
+_publ_section_title 'Low-density form of Na Ga Si2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1995 51 2476 2477 ACSCEE
+loop_
+_publ_author_name
+'Ohashi, H.'
+'Osawa, T.'
+'Sato, A.'
+_cell_length_a 9.5573(5)
+_cell_length_b 8.7019(2)
+_cell_length_c 5.2705(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.637(2)
+_cell_angle_gamma 90.
+_cell_volume 417.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ga3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3005(1) 0.25 . 1. 0
+Ga1 Ga3+ 4 e 0 0.90189(3) 0.25 . 1. 0
+Si1 Si4+ 8 f 0.29116(5) 0.09116(5) 0.2322(1) . 1. 0
+O1 O2- 8 f 0.1120(2) 0.0779(1) 0.1334(3) . 1. 0
+O2 O2- 8 f 0.3587(2) 0.2588(2) 0.3018(3) . 1. 0
+O3 O2- 8 f 0.3527(1) 0.0097(2) 0.0076(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0157(5) 0.0089(5) 0.0095(4) 0 -.0012(4) 0
+Ga1 Ga3+ 0.0044(1) 0.0049(1) 0.0045(1) 0 0.00079(8) 0
+Si1 Si4+ 0.0037(2) 0.0045(2) 0.0044(2) -.0002(2) 0.0009(1) 0.0000(2)
+O1 O2- 0.0042(5) 0.0068(5) 0.0051(5) -.0005(4) 0.0002(4) 0.0007(4)
+O2 O2- 0.0084(5) 0.0064(5) 0.0085(5) -.0021(4) 0.0034(4) -.0003(4)
+O3 O2- 0.0046(5) 0.0089(5) 0.0063(5) 0.0001(4) 0.0008(4) -.0018(4)
+#End of TTdata_80828-ICSD

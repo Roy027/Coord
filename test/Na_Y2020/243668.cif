@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243668-ICSD
+_database_code_ICSD 243668
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Disodium triboroantimonate(V)'
+_chemical_formula_structural 'Na2 B3 Sb O8'
+_chemical_formula_sum 'B3 Na2 O8 Sb1'
+_chemical_name_structure_type Na2B3SbO8
+_exptl_crystal_density_diffrn 3.54
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A2SbB3O8 (A = Na, K, Rb) and beta-RbSbB2O6: two types of alkali
+boroantimonates with 3D anionic architectures composed of SbO6 octahedra and
+borate groups
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary CrystEngComm 2016 18 1655 1664 CRECF4
+loop_
+_publ_author_name
+'Yan, Dong'
+'Hu, Chun-Li'
+'Mao, Jiang-Gao'
+_cell_length_a 5.8278(4)
+_cell_length_b 10.3521(6)
+_cell_length_c 10.4775(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.948(7)
+_cell_angle_gamma 90.
+_cell_volume 616.03
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0336
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sb5+ 5
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.6613(5) -0.0910(3) 0.3699(3) 0.0227(7) 1 0
+Na2 Na1+ 4 e 0.2406(5) 0.1165(3) -0.0169(3) 0.0182(6) 1 0
+Sb1 Sb5+ 4 e -0.13985(7) 0.16940(4) 0.20482(4) 0.00613(14) 1 0
+B1 B3+ 4 e 0.1832(13) -0.0347(7) 0.3284(7) 0.0086(14) 1 0
+B2 B3+ 4 e 0.3893(12) 0.1662(7) 0.2862(7) 0.0074(14) 1 0
+B3 B3+ 4 e 0.7278(13) 0.2950(7) 0.4252(7) 0.0092(14) 1 0
+O1 O2- 4 e -0.0405(8) -0.0104(4) 0.2579(4) 0.0117(10) 1 0
+O2 O2- 4 e 0.2599(8) -0.1575(4) 0.3620(4) 0.0091(9) 1 0
+O3 O2- 4 e 0.3405(8) 0.0625(4) 0.3741(4) 0.0111(10) 1 0
+O4 O2- 4 e 0.5443(8) 0.1147(5) 0.2076(4) 0.0115(10) 1 0
+O5 O2- 4 e 0.4958(7) 0.2766(4) 0.3697(4) 0.0094(9) 1 0
+O6 O2- 4 e 0.1798(8) 0.2112(4) 0.1946(4) 0.0083(9) 1 0
+O7 O2- 4 e 0.7932(8) 0.3890(4) 0.5206(4) 0.0087(9) 1 0
+O8 O2- 4 e 0.9100(7) 0.2320(5) 0.3863(4) 0.0108(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0146(14) 0.0133(15) 0.0422(19) 0.0006(11) 0.0108(13) -0.0031(13)
+Na2 Na1+ 0.0207(14) 0.0140(14) 0.0213(15) -0.0020(12) 0.0078(12) -0.0002(12)
+Sb1 Sb5+ 0.0055(2) 0.0061(2) 0.0068(2) 0.00035(16) 0.00146(15) -0.00040(16)
+B1 B3+ 0.011(3) 0.010(4) 0.007(3) 0.000(3) 0.005(3) -0.002(3)
+B2 B3+ 0.003(3) 0.009(3) 0.010(3) 0.001(3) 0.001(3) 0.003(3)
+B3 B3+ 0.013(4) 0.004(3) 0.011(3) 0.000(3) 0.003(3) 0.004(3)
+O1 O2- 0.010(2) 0.008(2) 0.016(2) 0.0002(18) 0.0012(19) 0.0034(18)
+O2 O2- 0.009(2) 0.005(2) 0.012(2) -0.0008(17) 0.0002(18) 0.0003(18)
+O3 O2- 0.011(2) 0.011(2) 0.010(2) -0.0026(18) -0.0019(18) 0.0027(18)
+O4 O2- 0.008(2) 0.016(2) 0.011(2) -0.0044(19) 0.0032(18) -0.0062(19)
+O5 O2- 0.007(2) 0.008(2) 0.013(2) -0.0003(18) 0.0016(18) -0.0031(18)
+O6 O2- 0.009(2) 0.012(2) 0.0031(19) -0.0018(18) -0.0011(17) 0.0023(17)
+O7 O2- 0.011(2) 0.006(2) 0.008(2) -0.0024(18) -0.0011(18) 0.0016(17)
+O8 O2- 0.005(2) 0.018(2) 0.009(2) -0.0016(18) -0.0009(17) -0.0025(19)
+#End of TTdata_243668-ICSD

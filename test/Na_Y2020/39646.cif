@@ -1,0 +1,72 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39646-ICSD
+_database_code_ICSD 39646
+_audit_creation_date 1993-08-22
+_chemical_name_systematic 'Sodium antimony(V) germanate oxide'
+_chemical_formula_structural 'Na Sb (Ge O4) O'
+_chemical_formula_sum 'Ge1 Na1 O5 Sb1'
+_chemical_name_structure_type Tilasite
+_exptl_crystal_density_diffrn 5.06
+_publ_section_title
+'Crystal structures of sphens NaSbGeO5, NaTaGeO5 and LiTaSiO5.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1992 37 1424 1428 KRISAJ
+loop_
+_publ_author_name
+'Genkina, E.A.'
+'Mill', B.V. (Mill, B.V.)'
+_cell_length_a 6.712(1)
+_cell_length_b 8.881(2)
+_cell_length_c 7.211(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.65(2)
+_cell_angle_gamma 90.
+_cell_volume 390.67
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sb5+ 5
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3322(3) 0.75 1.24(5) 1. 0
+Sb1 Sb5+ 4 a 0 0 0 0.37(1) 1. 0
+Ge1 Ge4+ 4 e 0 0.3137(1) 0.25 0.29(1) 1. 0
+O1 O2- 8 f 0.1931(2) 0.4357(2) 0.4220(2) 0.78(4) 1. 0
+O2 O2- 8 f 0.1090(3) 0.2018(2) 0.1155(2) 0.66(4) 1. 0
+O3 O2- 4 e 0 0.0771(2) 0.75 0.63(5) 1. 0
+#End of TTdata_39646-ICSD

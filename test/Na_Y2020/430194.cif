@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430194-ICSD
+_database_code_ICSD 430194
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Trisodium holmium heptaoxodisilicate'
+_chemical_formula_structural 'Na3 Ho (Si2 O7)'
+_chemical_formula_sum 'Ho1 Na3 O7 Si2'
+_exptl_crystal_density_diffrn 3.78
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Synthesis, structure, and polymorphism of A3 Ln (Si2 O7)  (A=Na, K; Ln=Sm, Ho,
+Yb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 235 100 106 JSSCBI
+loop_
+_publ_author_name
+'Latshaw, Allison M.'
+'Yeon, Jeongho'
+'Smith, Mark D.'
+'zur Loye, Hans-Conrad'
+_cell_length_a 9.42330(10)
+_cell_length_b 9.42330(10)
+_cell_length_c 13.7882(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1060.34
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ho3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ho1 Ho3+ 2 a 1. 1. -0.25 0.00833(11) 1 0
+Ho2 Ho3+ 4 f 0.3333 0.6667 0.01875(2) 0.00902(10) 1 0
+Si1 Si4+ 12 i 0.32794(12) 0.34622(12) -0.14095(7) 0.0094(2) 1 0
+Na1 Na1+ 2 b 1. 1. 0. 0.0235(9) 1 0
+Na2 Na1+ 2 c 0.3333 0.6667 0.25 0.0158(8) 1 0
+Na3 Na1+ 2 d 0.3333 0.6667 -0.25 0.0487(19) 1 0
+Na4 Na1+ 12 i 1.33062(19) 1.01340(19) -0.08935(13) 0.0174(3) 1 0
+O1 O2- 12 i 0.2704(4) 0.4409(4) -0.0665(2) 0.0182(6) 1 0
+O2 O2- 12 i 1.1998(3) 1.1513(3) -0.13929(19) 0.0152(5) 1 0
+O3 O2- 12 i 0.1238(3) 0.5140(3) 0.1208(2) 0.0162(6) 1 0
+O4 O2- 6 h 0.3190(5) 0.4186(5) -0.25 0.0152(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ho1 Ho3+ 0.00811(13) 0.00811(13) 0.00876(19) 0.00406(7) 0. 0.
+Ho2 Ho3+ 0.00894(11) 0.00894(11) 0.00917(16) 0.00447(6) 0. 0.
+Si1 Si4+ 0.0091(4) 0.0099(4) 0.0097(4) 0.0052(4) -0.0009(3) -0.0014(3)
+Na1 Na1+ 0.0248(13) 0.0248(13) 0.021(2) 0.0124(7) 0. 0.
+Na2 Na1+ 0.0177(12) 0.0177(12) 0.0119(18) 0.0089(6) 0. 0.
+Na3 Na1+ 0.0087(12) 0.0087(12) 0.129(6) 0.0044(6) 0. 0.
+Na4 Na1+ 0.0138(7) 0.0138(7) 0.0236(8) 0.0062(6) -0.0024(6) 0.0005(6)
+O1 O2- 0.0199(14) 0.0198(14) 0.0155(14) 0.0105(12) -0.0006(11) -0.0062(11)
+O2 O2- 0.0142(13) 0.0116(12) 0.0149(13) 0.0028(10) -0.0018(10) 0.0006(10)
+O3 O2- 0.0148(13) 0.0131(13) 0.0173(13) 0.0045(11) 0.0035(11) 0.0019(11)
+O4 O2- 0.021(2) 0.0157(19) 0.0123(18) 0.0119(17) 0. 0.
+#End of TTdata_430194-ICSD

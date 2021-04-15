@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94401-ICSD
+_database_code_ICSD 94401
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Tetrasodium magnesium hexathiocyanate'
+_chemical_formula_structural 'Na4 Mg (S C N)6'
+_chemical_formula_sum 'C6 Mg1 N6 Na4 S6'
+_exptl_crystal_density_diffrn 1.71
+_publ_section_title
+
+;
+Ba Cl S C N und Na4 Mg (S C N)6: zwei neue wasserfreie Thiocyanate der
+Erdalkalimetalle
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2001
+627 1279 1282 ZAACAB
+loop_
+_publ_author_name
+'Wickleder, C.'
+'Larsen, P.'
+_cell_length_a 8.638(1)
+_cell_length_b 8.638(1)
+_cell_length_c 13.993(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 904.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+_refine_ls_R_factor_all 0.0655
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, -z+1/2'
+2 'x, x-y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, -y, z+1/2'
+8 '-x, -x+y, z+1/2'
+9 'y, x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Na1+ 1
+S2- -2
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 2 d 0.6667 0.3333 0.25 0.020(1) 1. 0
+Na1 Na1+ 2 b 0 0 0 0.041(2) 1. 0
+Na2 Na1+ 2 c 0.3333 0.6667 0.25 0.052(2) 1. 0
+Na3 Na1+ 4 f 0.6667 0.3333 0.0227(3) 0.037(1) 1. 0
+S1 S2- 12 i 0.1616(2) 0.3516(2) 0.1078(1) 0.0375(7) 1. 0
+C1 C4+ 12 i 0.3406(8) 0.3414(8) 0.1363(4) 0.026(1) 1. 0
+N1 N3- 12 i 0.4679(7) 0.3370(7) 0.1578(4) 0.034(1) 1. 0
+#End of TTdata_94401-ICSD

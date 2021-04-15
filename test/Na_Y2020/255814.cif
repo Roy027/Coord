@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_255814-ICSD
+_database_code_ICSD 255814
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Rubidium sodium magnesium diphosphate - HT'
+_chemical_formula_structural 'Rb Na Mg P2 O7'
+_chemical_formula_sum 'Mg1 Na1 O7 P2 Rb1'
+_exptl_crystal_density_diffrn 2.71
+_cell_measurement_temperature 723.
+_publ_section_title
+
+;
+Non-centrosymmetric RbNaMgP2O7 with unprecedented thermo-induced enhancement
+of second harmonic generation
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2018 140 1592 1595 JACSAT
+loop_
+_publ_author_name
+'Zhao, Sangen'
+'Yang, Xiaoyan'
+'Yang, Yi'
+'Kuang, Xiaojun'
+'Lu, Fengqi'
+'Shan, Pai'
+'Sun, Zhihua'
+'Lin, Zheshuai'
+'Hong, Maochun'
+'Luo, Junhua'
+_cell_length_a 14.86732(11)
+_cell_length_b 5.21106(5)
+_cell_length_c 9.70206(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 751.67
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C c m 21'
+_symmetry_Int_Tables_number 36
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Na1+ 1
+Mg2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 a 0.59482(15) 0.5 0.8797(10) 0 1 0
+Na1 Na1+ 4 a 0.8577(6) 0.5 0.6908(10) 0 1 0
+Mg1 Mg2+ 4 a 0.6837(5) 0.5 0.4622(6) 0 1 0
+P1 P5+ 4 a 0.7217(4) 0 0.6564(8) 0 1 0
+P2 P5+ 4 a 0.5597(5) 0 0.4997(7) 0 1 0
+O1 O2- 4 a 0.6130(7) 0 0.6437(17) 0 1 0
+O2 O2- 8 b 0.7520(7) 0.7663(19) 0.5848(12) 0 1 0
+O3 O2- 4 a 0.7358(7) 0 0.8060(14) 0 1 0
+O4 O2- 4 a 0.4578(8) 0 0.5458(14) 0 1 0
+O5 O2- 8 b 0.5896(5) 0.7672(17) 0.4264(8) 0 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.073(2) 0.090(3) 0.098(3) 0 0 0
+#End of TTdata_255814-ICSD

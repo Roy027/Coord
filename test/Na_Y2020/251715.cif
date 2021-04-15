@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251715-ICSD
+_database_code_ICSD 251715
+_audit_creation_date 2016-02-01
+_chemical_name_systematic
+'Tetracopper(II) tetrasodium oxide octakis(formiate) tetrahydrate dihydroxide'
+_chemical_formula_structural 'Cu4 Na4 O (H C O O)8 (H2 O)4 (O H)2'
+_chemical_formula_sum 'C8 H18 Cu4 Na4 O23'
+_exptl_crystal_density_diffrn 2.22
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Solid-state structure of a degradation product frequently observed on historic
+metal objects
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 2638 2642 INOCAJ
+loop_
+_publ_author_name
+'Dinnebier, Robert E.'
+'Runcevski, Tomce'
+'Fischer, Andrea'
+'Eggert, Gerhard'
+_cell_length_a 8.425109(97)
+_cell_length_b 8.425109(97)
+_cell_length_c 17.47962(29)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1240.74
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/n S'
+_symmetry_Int_Tables_number 86
+_refine_ls_R_factor_all 0.0055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, -x+1/2, z+1/2'
+2 '-y+1/2, x+1/2, z+1/2'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 '-x+1/2, -y+1/2, -z+1/2'
+6 'x+1/2, y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+C2+ 2
+H1+ 1
+Cu2+ 2
+Na1+ 1
+O2- -2
+C2+ 2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 g 0.2869(11) 0.1816(14) 0.64888(56) 0.0001(3) 1 0
+O2 O2- 8 g 0.1722(12) 0.4182(10) 0.63061(48) 0.0001(3) 1 0
+C1 C2+ 8 g 0.2674(20) 0.3203(22) 0.65710(79) 0.017(6) 1 0
+H1 H1+ 8 g 0.352602 0.372587 0.696664 0.0255 1 0
+Cu1 Cu2+ 8 g 0.15079(27) 0.08887(30) 0.57119(12) 0.014(7) 1 0
+Na1 Na1+ 4 e 0.5 0. 0.67202(70) 0.017(8) 1 0
+Na2 Na1+ 4 e 0. 0.5 0.52966(62) 0.030(2) 1 0
+O3 O2- 8 g 0.34002(79) -0.1183(13) 0.56863(57) 0.0001(3) 1 0
+O4 O2- 8 g 0.1816(14) -0.2880(12) 0.51189(55) 0.0026(3) 1 0
+C2 C2+ 8 g 0.2988(22) -0.2548(25) 0.5526(13) 0.018(4) 1 0
+H2 H1+ 8 g 0.363398 -0.34931 0.579388 0.027 1 0
+O5 O2- 4 f 0. 0. 0.64143(82) 0.017(8) 1 0
+H3 H1+ 4 f 0. 0. 0.699043 0.0255 1 0
+O6 O2- 2 b 0. 0. 0.5 0.0001(4) 1 0
+O7 O2- 8 g 0.6058(11) 0.18082(95) 0.76940(59) 0.018(7) 1 0
+H4 H1+ 8 g 0.70486 0.151964 0.797105 0.027 1 0
+H5 H1+ 8 g 0.55125 0.281799 0.780245 0.027 1 0
+#End of TTdata_251715-ICSD

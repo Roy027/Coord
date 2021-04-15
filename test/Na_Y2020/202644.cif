@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202644-ICSD
+_database_code_ICSD 202644
+_audit_creation_date 1989-06-19
+_audit_update_record 1991-04-20
+_chemical_name_systematic 'Sodium molybdenum(III) diphosphate'
+_chemical_formula_structural 'Na Mo (P2 O7)'
+_chemical_formula_sum 'Mo1 Na1 O7 P2'
+_chemical_name_structure_type Mg2P2O7
+_exptl_crystal_density_diffrn 3.57
+_cell_measurement_temperature 294.
+_publ_section_title 'A Mo(III) Phosphate with a Cage Structure: Na Mo P2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1988 76 131 135 JSSCBI
+loop_
+_publ_author_name
+'Leclaire, A.'
+'Borel, M.M.'
+'Grandin, A.'
+'Raveau, B.'
+_cell_length_a 7.4195(3)
+_cell_length_b 8.1084(4)
+_cell_length_c 9.7598(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.868(3)
+_cell_angle_gamma 90.
+_cell_volume 544.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo3+ 4 e 0.25843(2) 0.00547(2) 0.24845(1) . 1. 0
+P1 P5+ 4 e 0.07446(6) 0.25293(6) 0.45875(5) . 1. 0
+P2 P5+ 4 e -.32763(6) 0.21689(6) 0.45738(5) . 1. 0
+Na1 Na1+ 4 e 0.28421(23) 0.48235(22) 0.28787(19) . 1. 0
+O1 O2- 4 e 0.53989(21) 0.08981(20) 0.35713(17) . 1. 0
+O2 O2- 4 e 0.30868(25) -.20968(18) 0.38279(15) . 1. 0
+O3 O2- 4 e 0.17033(27) 0.12870(21) 0.39527(19) . 1. 0
+O4 O2- 4 e -.02348(20) -.08760(17) 0.13034(16) . 1. 0
+O5 O2- 4 e 0.19160(26) 0.22060(18) 0.12102(16) . 1. 0
+O6 O2- 4 e 0.37151(22) -.10667(18) 0.09997(16) . 1. 0
+O7 O2- 4 e -.12504(21) 0.16453(19) 0.44471(19) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Mo1 Mo3+ 0.00193(2) 0.00118(1) 0.00067(1) -.00004(1) 0.00041(1) -.00009(1)
+P1 P5+ 0.00208(5) 0.00151(4) 0.00091(3) 0.00011(3) 0.00049(3) -.00012(3)
+P2 P5+ 0.00226(5) 0.00175(4) 0.00094(3) -.00026(4) 0.00040(3) 0.00025(3)
+Na1 Na1+ 0.00835(20) 0.00771(18) 0.00617(14) 0.00076(16) 0.00407(14) 0.00261(13)
+O1 O2- 0.00303(16) 0.00353(14) 0.00241(10) -.00118(12) 0.00037(11) -.00093(10)
+O2 O2- 0.00684(21) 0.00256(12) 0.00117(9) 0.00011(13) 0.00135(11) 0.00050(8)
+O3 O2- 0.00761(24) 0.00364(15) 0.00268(11) 0.00180(15) 0.00302(14) -.00041(10)
+O4 O2- 0.00312(16) 0.00233(11) 0.00228(10) 0.00037(11) 0.00067(10) -.00090(8)
+O5 O2- 0.00684(22) 0.00242(12) 0.00124(9) -.00014(13) -.00011(11) 0.00059(8)
+O6 O2- 0.00498(18) 0.00224(12) 0.00224(10) -.00063(12) 0.00187(11) -.00102(9)
+O7 O2- 0.00257(15) 0.00285(13) 0.00400(13) -.00016(11) 0.00160(11) 0.00057(10)
+#End of TTdata_202644-ICSD

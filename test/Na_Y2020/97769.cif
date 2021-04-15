@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97769-ICSD
+_database_code_ICSD 97769
+_audit_creation_date 2004-10-01
+_chemical_name_systematic
+'Strontium nickel sodium phosphate(V) (9.04/1.02/0.88/7)'
+_chemical_formula_structural 'Sr9.04 Ni1.02 Na0.88 (P O4)7'
+_chemical_formula_sum 'Na0.88 Ni1.02 O28 P7 Sr9.04'
+_chemical_name_structure_type Ca9MgNa(PO4)7
+_exptl_crystal_density_diffrn 3.99
+_publ_section_title
+
+;
+Strontium phosphates with beta-(Ca3 (P O4)2)-type structures: Sr9 Ni Li (P
+O4)7, Sr9.04 Ni1.02 Na0.88 (P O4)7 and Sr9.08 Ni1.04 K0.76 (P O4)7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2002 12 3803 3808 JMACEP
+loop_
+_publ_author_name
+'Belik, A.A.'
+'Izumi, F.'
+'Ikeda, T.'
+'Malakho, A.P.'
+'Lazoryak, B.I.'
+_cell_length_a 10.6755(1)
+_cell_length_b 10.6755(1)
+_cell_length_c 38.9339(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 3842.69
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R 3 c H'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.0153
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z+1/2'
+2 'x, x-y, z+1/2'
+3 '-y, -x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+5/6'
+8 'x+2/3, x-y+1/3, z+5/6'
+9 '-y+2/3, -x+1/3, z+5/6'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+1/6'
+14 'x+1/3, x-y+2/3, z+1/6'
+15 '-y+1/3, -x+2/3, z+1/6'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Na1+ 1
+Ni2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 18 b 0.72855(12) 0.8581(2) 0.43194(10) 0.0061(3) 1. 0
+Sr2 Sr2+ 18 b 0.61747(13) 0.8187(2) 0.22915(10) 0.0053(3) 1. 0
+Sr3 Sr2+ 18 b 0.1305(2) 0.27421(11) 0.32453(11) 0.0096(3) 1. 0
+Sr4 Sr2+ 6 a 0 0 0.1851(3) 0.039(3) 0.04 0
+Na1 Na1+ 6 a 0 0 0.1851(3) 0.039(3) 0.88 0
+Ni1 Ni2+ 6 a 0 0 0.1851(3) 0.039(3) 0.02 0
+Ni2 Ni2+ 6 a 0 0 0 0.0049(7) 1. 0
+P1 P5+ 6 a 0 0 0.26323(15) 0.0125(13) 1. 0
+P2 P5+ 18 b 0.6848(3) 0.8510(6) 0.13405(13) 0.0089(10) 1. 0
+P3 P5+ 18 b 0.6596(4) 0.8442(4) 0.02946(13) 0.0018(8) 1. 0
+O1 O2- 6 a 0 0 0.3035(4) 0.024(5) 1. 0
+O2 O2- 18 b 0.0102(9) 0.8695(7) 0.2524(3) 0.017(2) 1. 0
+O3 O2- 18 b 0.7503(8) 0.9054(8) 0.1711(2) 0.006(2) 1. 0
+O4 O2- 18 b 0.7403(13) 0.7576(12) 0.1180(2) 0.005(3) 1. 0
+O5 O2- 18 b 0.7229(12) 0.9916(9) 0.1137(3) 0.004(3) 1. 0
+O6 O2- 18 b 0.5126(6) 0.7543(13) 0.1346(2) 0.001(2) 1. 0
+O7 O2- 18 b 0.6073(10) 0.9445(11) 0.0442(3) 0.006(2) 1. 0
+O8 O2- 18 b 0.5889(9) 0.6929(9) 0.0482(2) 0.001(2) 1. 0
+O9 O2- 18 b 0.8245(7) 0.9212(11) 0.0361(2) 0.001(2) 1. 0
+O10 O2- 18 b 0.6216(7) 0.8194(11) 0.9915(2) 0.006(2) 1. 0
+#End of TTdata_97769-ICSD

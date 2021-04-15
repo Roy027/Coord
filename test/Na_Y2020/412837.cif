@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412837-ICSD
+_database_code_ICSD 412837
+_audit_creation_date 2004-04-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic 'Tetrabarium sodium triruthenium(V) oxide'
+_chemical_formula_structural 'Ba4 Na Ru3 O12'
+_chemical_formula_sum 'Ba4 Na1 O12 Ru3'
+_chemical_name_structure_type Perovskite-LiBa4Nb3O12(hP40)
+_exptl_crystal_density_diffrn 6.33
+_publ_section_title
+
+;
+Crystal growth of a novel oxygen-deficient layered perovskite: Ba7 Li3 Ru4 O20
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2003 175 39 45 JSSCBI
+loop_
+_publ_author_name
+'Stitzer, K.E.'
+'Gemmill, W.R.'
+'Smith, M.D.'
+'zur Loye, H.C.'
+_cell_length_a 5.8014(2)
+_cell_length_b 5.8014(2)
+_cell_length_c 19.2050(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 559.77
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ru5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0 0 0.11731(5) 0.00990(13) 1. 0
+Ba2 Ba2+ 2 b 0.3333 0.6667 0.37153(5) 0.01060(14) 1. 0
+Ba3 Ba2+ 2 b 0.6667 0.3333 0.49465(4) 0.01243(17) 1. 0
+Ba4 Ba2+ 2 b 0.3333 0.6667 0.74707(5) 0.00927(14) 1. 0
+Ru1 Ru5+ 2 a 0 0 0.29898(6) 0.00658(18) 1. 0
+Ru2 Ru5+ 2 a 0 0 0.43711(6) 0.00752(17) 1. 0
+Ru3 Ru5+ 2 b 0.3333 0.6667 0.18103(7) 0.00603(15) 1. 0
+Na1 Na1+ 2 b 0.3333 0.6667 0.5608(5) 0.0108(10) 1. 0
+O1 O2- 6 c 0.1621(6) 0.3242(12) 0.2449(4) 0.0115(8) 1. 0
+O2 O2- 6 c 0.3012(10) 0.1506(5) 0.3652(4) 0.0098(9) 1. 0
+O3 O2- 6 c 0.1583(6) 0.3166(12) 0.4887(4) 0.0145(10) 1. 0
+O4 O2- 6 c 0.5146(5) 0.4854(5) 0.6277(3) 0.0089(10) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.01034(16) 0.01034(16) 0.0090(3) 0.00517(8) 0 0
+Ba2 Ba2+ 0.01083(17) 0.01083(17) 0.0102(3) 0.00541(9) 0 0
+Ba3 Ba2+ 0.01088(19) 0.01088(19) 0.0155(4) 0.00544(10) 0 0
+Ba4 Ba2+ 0.00815(16) 0.00815(16) 0.0115(3) 0.00407(8) 0 0
+Ru1 Ru5+ 0.00665(18) 0.00665(18) 0.0064(4) 0.00332(9) 0 0
+Ru2 Ru5+ 0.0075(2) 0.0075(2) 0.0076(4) 0.00375(10) 0 0
+Ru3 Ru5+ 0.00635(18) 0.00635(18) 0.0054(3) 0.00317(9) 0 0
+Na1 Na1+ 0.0091(11) 0.0091(11) 0.014(3) 0.0045(6) 0 0
+O1 O2- 0.0131(13) 0.0096(17) 0.011(2) 0.0048(9) 0.0034(9) 0.0069(18)
+O2 O2- 0.0056(16) 0.0109(13) 0.011(3) 0.0028(8) 0.0007(19) 0.0004(10)
+O3 O2- 0.0166(16) 0.014(2) 0.012(2) 0.0068(11) 0.0015(11) 0.003(2)
+O4 O2- 0.0116(14) 0.0116(14) 0.009(3) 0.0101(17) -0.0026(7) 0.0026(7)
+#End of TTdata_412837-ICSD

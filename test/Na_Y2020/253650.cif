@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253650-ICSD
+_database_code_ICSD 253650
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium uranyl sulfate hydroxide dihydrate'
+_chemical_formula_structural 'Na (U O2) (S O4) (O H) (H2 O)2'
+_chemical_formula_sum 'H5 Na1 O9 S1 U1'
+_chemical_name_structure_type K(H3O)(HSO4)2
+_chemical_name_mineral Plasilite
+_exptl_crystal_density_diffrn 3.73
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Plasilite, Na(UO2)(SO4)(OH)*2H2O, a new uranyl sulfate mineral from the Blue
+Lizard mine, San Juan County, Utah, USA
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Geosciences' 2015 60 1 10 JGOEBM
+loop_
+_publ_author_name
+'Kampf, Anthony R.'
+'Kasatkin, Anatoly V.'
+'Cejka, Jiri'
+'Marty, Joe'
+_cell_length_a 8.7122(6)
+_cell_length_b 13.8368(4)
+_cell_length_c 7.04650(17)
+_cell_angle_alpha 90
+_cell_angle_beta 112.126(8)
+_cell_angle_gamma 90
+_cell_volume 786.89
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0194
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+S6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 4 e 0.23417(2) 0.46715(2) 0.12219(2) 0.01131(7) 1 0
+S1 S6+ 4 e 0.32042(13) 0.50289(8) 0.66758(15) 0.01204(19) 1 0
+Na1 Na1+ 4 e 0.2793(3) 0.73085(15) 0.6584(3) 0.0305(5) 1 0
+O1 O2- 4 e 0.1796(4) 0.5684(2) 0.6139(5) 0.0187(6) 1 0
+O2 O2- 4 e 0.3124(4) 0.4419(2) 0.4914(4) 0.0205(7) 1 0
+O3 O2- 4 e 0.4736(4) 0.5623(2) 0.7334(5) 0.0186(6) 1 0
+O4 O2- 4 e 0.3242(4) 0.4368(2) 0.8366(4) 0.0173(6) 1 0
+O5 O2- 4 e 0.1933(4) 0.3410(2) 0.1168(4) 0.0229(7) 1 0
+O6 O2- 4 e 0.2856(4) 0.5921(2) 0.1325(5) 0.0225(7) 1 0
+O7 O2- 4 e -0.0008(4) 0.5113(3) 0.1785(5) 0.0240(7) 1 0
+H1 H1+ 4 e -0.002(8) 0.483(4) 0.276(7) 0.029 1 0
+O8 O2- 4 e -0.0797(5) 0.2716(3) 0.6917(6) 0.0326(8) 1 0
+H2 H1+ 4 e 0.006(5) 0.242(3) 0.702(9) 0.039 1 0
+H3 H1+ 4 e -0.044(7) 0.328(2) 0.719(9) 0.039 1 0
+O9 O2- 4 e 0.5186(5) 0.2503(3) 0.0025(6) 0.0319(8) 1 0
+H4 H1+ 4 e 0.475(7) 0.296(3) -0.063(8) 0.038 1 0
+H5 H1+ 4 e 0.448(6) 0.210(3) -0.020(8) 0.038 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ 0.00812(10) 0.01565(10) 0.00985(10) -0.00043(6) 0.00306(6) -0.00007(5)
+S1 S6+ 0.0089(5) 0.0173(5) 0.0097(5) 0.0011(4) 0.0033(4) 0.0013(4)
+Na1 Na1+ 0.0401(12) 0.0251(10) 0.0272(10) -0.0062(9) 0.0136(9) -0.0035(8)
+O1 O2- 0.0107(15) 0.0222(15) 0.0231(16) 0.0038(13) 0.0062(12) 0.0033(13)
+O2 O2- 0.0261(18) 0.0238(16) 0.0104(15) 0.0040(14) 0.0055(13) -0.0004(12)
+O3 O2- 0.0076(15) 0.0242(15) 0.0208(16) -0.0012(12) 0.0018(12) 0.0025(13)
+O4 O2- 0.0236(17) 0.0207(15) 0.0099(14) 0.0065(13) 0.0090(13) 0.0047(12)
+O5 O2- 0.0236(18) 0.0204(16) 0.0229(17) -0.0072(14) 0.0069(14) -0.0032(13)
+O6 O2- 0.0179(16) 0.0186(16) 0.0309(18) 0.0015(13) 0.0092(14) -0.0006(13)
+O7 O2- 0.0120(16) 0.048(2) 0.0127(16) 0.0057(15) 0.0053(13) 0.0048(15)
+O8 O2- 0.028(2) 0.034(2) 0.035(2) 0.0040(16) 0.0121(16) -0.0005(18)
+O9 O2- 0.033(2) 0.0272(18) 0.034(2) -0.0021(17) 0.0115(16) -0.0076(17)
+#End of TTdata_253650-ICSD

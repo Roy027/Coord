@@ -1,0 +1,147 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_258376-ICSD
+_database_code_ICSD 258376
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Caesium sodium silicate aluminate'
+_chemical_formula_structural '(Cs4.5 Na7.5) (Si12 Al12 O48)'
+_chemical_formula_sum 'Al12 Cs4.5 Na7.5 O48 Si12'
+_chemical_name_structure_type Zeolite-A-frame
+_chemical_name_mineral 'Zeolite A (Cs-exchanged, dehydrated)'
+_exptl_crystal_density_diffrn 1.99
+_publ_section_title
+
+;
+Selective removal of radioactive cesium from nuclear waste by zeolites: on the
+origin of cesium selectivity revealed by systematic crystallographic studies
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry C' 2017 121 10594 10608 JPCCCK
+loop_
+_publ_author_name
+'Lee, Ha Young'
+'Kim, Hu Sik'
+'Jeong, Hae-Kwon'
+'Park, Man'
+'Chung, Dong-Yong'
+'Lee, Keun-Young'
+'Lee, Eil-Hee'
+'Lim, Woo Taik'
+_cell_length_a 12.2440(1)
+_cell_length_b 12.2440(1)
+_cell_length_c 12.2440(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1835.56
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m -3 m'
+_symmetry_Int_Tables_number 221
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Cs1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 24 k 0 0.1828(1) 0.3694(1) 0.0172(5) 0.5 0
+Al1 Al3+ 24 k 0 0.1828(1) 0.3694(1) 0.0172(5) 0.5 0
+O1 O2- 12 h 0 0.2162(4) 0.5 0.0285(19) 1. 0
+O2 O2- 12 i 0 0.2972(2) 0.2972(2) 0.0516(25) 1. 0
+O3 O2- 24 m 0.1126(2) 0.1126(2) 0.3336(2) 0.0244(8) 1. 0
+Cs1 Cs1+ 3 c 0 0.5 0.5 0.0419(6) 1. 0
+Cs2 Cs1+ 8 g 0.0774(3) 0.0774(3) 0.0774(3) 0.0744(19) 0.125 0
+Cs3 Cs1+ 8 g 0.2848(7) 0.2848(7) 0.2848(7) 0.0657(30) 0.0625 0
+Na1 Na1+ 8 g 0.2044(3) 0.2044(3) 0.2044(3) 0.0198(13) 0.75 0
+Na2 Na1+ 8 g 0.2263(15) 0.2263(15) 0.2263(15) 0.0294(73) 0.1875 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0172(5) 0.0164(4) 0.0092(4) 0 0 0.0022(3)
+Al1 Al3+ 0.0172(5) 0.0150(5) 0.0071(4) 0 0 0.0022(3)
+O1 O2- 0.0285(19) 0.0491(26) 0.0096(14) 0 0 0
+O2 O2- 0.0516(25) 0.0184(11) 0.0184(11) 0 0 0.0117(14)
+O3 O2- 0.0244(8) 0.0244(8) 0.0218(12) 0.0031(10) 0.0024(7) 0.0024(7)
+Cs1 Cs1+ 0.0419(6) 0.0439(5) 0.0439(5) 0 0 0
+Cs2 Cs1+ 0.0744(19) 0.0744(19) 0.0744(19) -0.0198(16) -0.0198(16) -0.0198(16)
+Cs3 Cs1+ 0.0657(30) 0.0657(30) 0.0657(30) 0.0010(37) 0.0010(37) 0.0010(37)
+Na1 Na1+ 0.0198(13) 0.0198(13) 0.0198(13) 0.0057(13) 0.0057(13) 0.0057(13)
+Na2 Na1+ 0.0294(73) 0.0294(73) 0.0294(73) 0.0125(78) 0.0125(78) 0.0125(78)
+#End of TTdata_258376-ICSD

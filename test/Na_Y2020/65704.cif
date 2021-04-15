@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65704-ICSD
+_database_code_ICSD 65704
+_audit_creation_date 1990-06-08
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Dinatrium cobalt zirconium bis(diphosphate(V))'
+_chemical_formula_structural 'Na2 Co Zr (P2 O7)2'
+_chemical_formula_sum 'Co1 Na2 O14 P4 Zr1'
+_chemical_name_structure_type Na2NiZr(P2O7)2
+_exptl_crystal_density_diffrn 3.51
+_publ_section_title 'Structure of Na2 M Zr (P2 O7)2 (M= Ni and Co)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1989 45 1667 1669 ACSCEE
+loop_
+_publ_author_name
+'Gali, S.'
+'Byrappa, K.'
+'Gopalakrishnan, G.S.'
+_cell_length_a 6.535(3)
+_cell_length_b 7.266(4)
+_cell_length_c 6.496(3)
+_cell_angle_alpha 122.96(2)
+_cell_angle_beta 92.28(2)
+_cell_angle_gamma 93.75(2)
+_cell_volume 257.2
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Co2+ 2
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 1 a 0 0 0 . 1. 0
+Co1 Co2+ 1 a 0.7088(2) 0.2209(2) 0.7854(2) . 1. 0
+P1 P5+ 1 a 0.5005(8) -.1104(8) -.0823(9) 0.0027(5) 1. 0
+P2 P5+ 1 a 0.7305(8) 0.7492(8) 0.2000(9) 0.0026(8) 1. 0
+P3 P5+ 1 a -.0279(8) 0.4772(9) 0.5921(9) 0.0044(8) 1. 0
+P4 P5+ 1 a 0.2142(8) 0.3299(8) 0.8637(9) 0.0031(11) 1. 0
+O1 O2- 1 a 0.028(2) 0.159(2) -.201(2) 0.0043(22) 1. 0
+O2 O2- 1 a -.067(2) -.147(2) 0.184(2) 0.0044(21) 1. 0
+O3 O2- 1 a -.317(2) 0.052(2) -.036(2) 0.0038(21) 1. 0
+O4 O2- 1 a 0.323(2) 0.005(2) 0.072(2) 0.0060(24) 1. 0
+O5 O2- 1 a -.033(2) -.292(2) -.346(2) 0.0025(45) 1. 0
+O6 O2- 1 a 0.057(2) 0.328(2) 0.330(2) 0.0045(23) 1. 0
+O7 O2- 1 a 0.447(2) -.265(2) -.366(2) 0.0054(22) 1. 0
+O8 O2- 1 a 0.560(2) -.265(2) 0.007(2) 0.0017(21) 1. 0
+O9 O2- 1 a 0.739(2) 0.517(2) 0.126(2) 0.0053(24) 1. 0
+O10 O2- 1 a 0.636(2) 0.888(2) 0.442(2) 0.0071(23) 1. 0
+O11 O2- 1 a 0.136(2) 0.495(2) 0.794(2) 0.0101(25) 1. 0
+O12 O2- 1 a 0.780(2) 0.350(2) 0.582(2) 0.0064(21) 1. 0
+O13 O2- 1 a 0.270(2) 0.479(2) 0.137(2) 0.0031(11) 1. 0
+O14 O2- 1 a 0.394(2) 0.221(2) 0.733(2) 0.0086(24) 1. 0
+Na1 Na1+ 1 a 0.223(2) 0.868(1) 0.399(2) . 1. 0
+Na2 Na1+ 1 a 0.510(2) 0.377(2) 0.354(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zr1 Zr4+ 0.02063(120) 0.02087(106) 0.02397(112) 0.00128(92) -0.00008(85)
+0.01395(94)
+Co1 Co2+ 0.00297(96) 0.00713(94) 0.00513(83) -0.00094(78) -0.00092(66)
+0.00546(75)
+Na1 Na1+ 0.0385(48) 0.0046(27) 0.0696(70) 0.0037(28) -0.0459(48) 0.0025(33)
+Na2 Na1+ 0.0348(38) 0.0111(29) 0.024(3) 0.0068(25) -0.0162(25) -0.0030(24)
+#End of TTdata_65704-ICSD

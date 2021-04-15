@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61209-ICSD
+_database_code_ICSD 61209
+_audit_creation_date 1986-12-03
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Sodium dimagnesium hydroxide bis(sulfate(IV)) hydrate'
+_chemical_formula_structural 'Na Mg2 (O H) (S O3)2 (H2 O)'
+_chemical_formula_sum 'H3 Mg2 Na1 O8 S2'
+_chemical_name_structure_type NaMgOH(SO3)2H2O
+_exptl_crystal_density_diffrn 2.46
+_publ_section_title
+
+;
+Kristallstrukturen von Na Mg2 O H (S O3)2 (H2 O), Na Mn2 O H (S O3)2 (H2 O),
+Na Fe2 O H (S O3)2 (H2 O), Na Co2 O H (S O3)2 (H2 O) und Na Zn2 O H (S O3)2
+(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B: Anorganische Chemie, Organische
+Chemie
+; 1986 41 852 858 ZNBAD2
+loop_
+_publ_author_name
+'Buchmeier, W.'
+'Engelen, B.'
+'Lutz, H.D.'
+_cell_length_a 8.905(1)
+_cell_length_b 7.845(1)
+_cell_length_c 6.315(1)
+_cell_angle_alpha 113.28(2)
+_cell_angle_beta 110.41(1)
+_cell_angle_gamma 98.00(2)
+_cell_volume 359.61
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Na1+ 1
+S4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 1 d 0.5 0 0 . 1. 0
+Mg2 Mg2+ 1 f 0.5 0 0.5 . 1. 0
+Mg3 Mg2+ 2 i 0.1863(2) 0.1708(2) 0.1787(3) . 1. 0
+Na1 Na1+ 2 i 0.9075(3) 0.1705(4) 0.5394(5) . 1. 0
+S1 S4+ 2 i 0.8378(1) 0.2943(2) 0.0659(2) . 1. 0
+S2 S4+ 2 i 0.7053(2) -.2538(2) 0.2260(2) . 1. 0
+O1 O2- 2 i 0.7214(5) 0.2438(5) 0.1784(6) . 1. 0
+O2 O2- 2 i 0.2770(5) -.2450(5) 0.2116(6) . 1. 0
+O3 O2- 2 i -.0750(4) 0.1365(5) 0.0308(7) . 1. 0
+O4 O2- 2 i 0.6249(4) -.0873(5) 0.2688(6) . 1. 0
+O5 O2- 2 i 0.1719(5) 0.2008(6) 0.5027(7) . 1. 0
+O6 O2- 2 i 0.1709(5) 0.2001(6) -.1298(7) . 1. 0
+O7 O2- 2 i 0.4256(4) 0.1441(5) 0.2858(6) . 1. 0
+O8 O2- 2 i 0.2784(5) 0.4782(6) 0.3787(7) . 1. 0
+H1 H1+ 2 i 0.49(1) 0.25(1) 0.34(2) . 1. 0
+H2 H1+ 2 i 0.30(1) 0.53(1) 0.30(1) . 1. 0
+H3 H1+ 2 i 0.273(7) 0.539(8) 0.51(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.0111(7) 0.0165(7) 0.0115(6) 0.0067(6) 0.0071(5) 0.0093(5)
+Mg2 Mg2+ 0.0125(7) 0.0178(7) 0.0105(6) 0.0085(6) 0.0066(5) 0.0089(5)
+Mg3 Mg2+ 0.0151(5) 0.0168(5) 0.0109(4) 0.0100(4) 0.0073(4) 0.0087(4)
+Na1 Na1+ 0.0174(9) 0.0277(9) 0.037(1) 0.0080(8) 0.0104(7) 0.0155(7)
+S1 S4+ 0.0132(3) 0.0130(3) 0.0115(3) 0.0062(3) 0.0062(2) 0.0068(2)
+S2 S4+ 0.0134(3) 0.0140(3) 0.0134(3) 0.0062(3) 0.0062(3) 0.0071(2)
+O1 O2- 0.020(1) 0.020(1) 0.014(1) 0.009(1) 0.0109(8) 0.0072(9)
+O2 O2- 0.022(1) 0.019(1) 0.0119(9) 0.009(1) 0.0039(9) 0.0098(7)
+O3 O2- 0.013(1) 0.019(1) 0.018(1) 0.0098(9) 0.0061(9) 0.0088(9)
+O4 O2- 0.020(1) 0.024(1) 0.0145(9) 0.0164(9) 0.0103(8) 0.0121(8)
+O5 O2- 0.034(1) 0.055(2) 0.018(1) 0.034(1) 0.0179(9) 0.0262(9)
+O6 O2- 0.031(1) 0.054(2) 0.0245(9) 0.032(1) 0.0224(8) 0.0306(9)
+O7 O2- 0.014(1) 0.015(1) 0.0124(9) 0.0078(8) 0.0074(7) 0.0085(7)
+O8 O2- 0.031(2) 0.016(1) 0.018(1) 0.008(1) 0.013(1) 0.0081(9)
+#End of TTdata_61209-ICSD

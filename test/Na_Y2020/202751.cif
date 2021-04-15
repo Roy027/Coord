@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202751-ICSD
+_database_code_ICSD 202751
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Sodium titanium(III) diphosphate - alpha'
+_chemical_formula_structural 'Na Ti P2 O7'
+_chemical_formula_sum 'Na1 O7 P2 Ti1'
+_exptl_crystal_density_diffrn 3.
+_publ_section_title
+
+;
+Two forms of sodium titanium(III) diphosphate: alpha-Na Ti P2 O7 closely
+related to beta-Cristobalite and beta-Na Ti P2 O7 isotypic with Na Fe P2 O7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1988 77 299 305 JSSCBI
+loop_
+_publ_author_name
+'Leclaire, A.'
+'Benmoussa, A.'
+'Borel, M.M.'
+'Grandin, A.'
+'Raveau, B.'
+_cell_length_a 8.697(1)
+_cell_length_b 5.239(7)
+_cell_length_c 13.293(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.54(1)
+_cell_angle_gamma 90.
+_cell_volume 541.85
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti3+ 4 e 0.26328(9) 0.2371(2) 0.02956(6) . 1. 0
+P1 P5+ 4 e 0.1667(1) 0.7550(3) 0.14509(8) . 1. 0
+P2 P5+ 4 e 0.6839(1) 0.2771(2) 0.11568(9) . 1. 0
+Na1 Na1+ 4 e 0.4473(3) 0.2704(5) 0.3103(2) . 1. 0
+O1 O2- 4 e 0.0180(4) 0.257(1) -.0581(2) . 1. 0
+O2 O2- 4 e 0.5218(4) 0.2267(8) 0.1304(3) . 1. 0
+O3 O2- 4 e 0.2531(4) 0.0114(7) 0.1533(3) . 1. 0
+O4 O2- 4 e 0.2947(5) -.0954(7) -.0364(3) . 1. 0
+O5 O2- 4 e 0.3067(4) 0.4436(7) -.0878(3) . 1. 0
+O6 O2- 4 e 0.2729(4) 0.5395(6) 0.1335(3) . 1. 0
+O7 O2- 4 e 0.1610(4) 0.7180(7) 0.2634(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ti1 Ti3+ 0.00225(7) 0.0048(2) 0.00092(3) 0.0001(3) 0.00139(7) -.0004(2)
+P1 P5+ 0.0023(1) 0.0051(3) 0.00093(4) 0.0013(5) 0.0014(1) 0.0003(3)
+P2 P5+ 0.0028(1) 0.0059(3) 0.00095(5) -.0001(4) 0.0017(1) 0.0002(3)
+Na1 Na1+ 0.0074(3) 0.0113(7) 0.0033(1) -.002(1) 0.0054(3) -.0011(7)
+O1 O2- 0.0029(3) 0.012(1) 0.0015(2) 0.002(2) 0.0013(4) -.002(1)
+O2 O2- 0.0027(3) 0.011(1) 0.0015(2) 0.001(1) 0.0020(4) 0.0007(8)
+O3 O2- 0.0052(4) 0.0064(9) 0.0014(2) -.002(1) 0.0032(5) -.0011(7)
+O4 O2- 0.0071(5) 0.009(1) 0.0015(2) 0.002(1) 0.0047(5) -.0022(8)
+O5 O2- 0.0053(5) 0.0057(9) 0.0017(2) -.001(1) 0.0035(5) 0.0013(7)
+O6 O2- 0.0046(4) 0.0051(9) 0.0017(2) 0.004(1) 0.0028(5) -.0002(7)
+O7 O2- 0.0030(3) 0.010(1) 0.0012(1) 0.000(1) 0.0025(4) 0.0008(7)
+#End of TTdata_202751-ICSD

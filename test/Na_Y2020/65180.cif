@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65180-ICSD
+_database_code_ICSD 65180
+_audit_creation_date 1989-12-04
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Sodium palladium dizirconium fluoride'
+_chemical_formula_structural 'Na Pd Zr2 F11'
+_chemical_formula_sum 'F11 Na1 Pd1 Zr2'
+_chemical_name_structure_type AgNaZr2F11
+_exptl_crystal_density_diffrn 3.89
+_publ_section_title
+
+;
+Neue komplexe Fluoride mit Ag2+ und Pd2+: Na M(II) Zr2 F11 (M(II)= Ag, Pd) und
+Ag Pd Zr2 F11
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+553 205 211 ZAACAB
+loop_
+_publ_author_name
+'Mueller, B.G.'
+_cell_length_a 7.910(2)
+_cell_length_b 5.746(3)
+_cell_length_c 5.745(3)
+_cell_angle_alpha 106.72(3)
+_cell_angle_beta 112.24(3)
+_cell_angle_gamma 97.98(3)
+_cell_volume 222.25
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Pd2+ 2
+Zr4+ 4
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0 0 0 . 1. 0
+Pd1 Pd2+ 1 f 0.5 0 0.5 . 1. 0
+Zr1 Zr4+ 2 i 0.2313 0.4993(1) 0.7320(1) . 1. 0
+F1 F1- 1 e 0.5 0.5 0 . 1. 0
+F2 F1- 2 i 0.3479(4) 0.7396(4) 0.6087(5) . 1. 0
+F3 F1- 2 i 0.3011(1) 0.2207(4) 0.5037(5) . 1. 0
+F4 F1- 2 i 0.6985(3) 0.2033(5) 0.9189(5) . 1. 0
+F5 F1- 2 i 0.1098(4) 0.2662(5) 0.8434(6) . 1. 0
+F6 F1- 2 i 0.9998(3) 0.3344(4) 0.3349(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0662(10) 0.0082(8) 0.0346(9) 0.0055(8) 0.0405(8) 0.0071(7)
+Pd1 Pd2+ 0.0037(2) 0.0042(2) 0.0046(2) 0.0010(1) 0.0021(1) 0.0017(1)
+Zr1 Zr4+ 0.0083(2) 0.0112(2) 0.0109(2) 0.0027(1) 0.0037(1) 0.0046(1)
+F1 F1- 0.0098(9) 0.029(1) 0.0132(9) 0.0118(9) -0.0032(8) 0.0024(9)
+F2 F1- 0.0232(9) 0.0216(9) 0.0316(9) 0.0002(8) 0.0168(8) 0.0169(8)
+F3 F1- 0.0139(8) 0.0179(8) 0.0148(8) 0.0112(7) 0.0031(7) 0.0005(7)
+F4 F1- 0.0146(8) 0.0187(8) 0.0089(8) 0.0079(7) -0.0005(7) -0.0025(7)
+F5 F1- 0.0310(9) 0.0242(9) 0.0314(9) 0.0029(8) 0.0196(8) 0.0218(7)
+F6 F1- 0.0115(8) 0.0160(8) 0.0090(8) 0.0088(7) 0.0012(6) -0.0048(7)
+#End of TTdata_65180-ICSD

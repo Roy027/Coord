@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37032-ICSD
+_database_code_ICSD 37032
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Hexasodium decamolybdate'
+_chemical_formula_structural 'Na6 (Mo10 O33)'
+_chemical_formula_sum 'Mo10 Na6 O33'
+_exptl_crystal_density_diffrn 4.07
+_publ_section_title
+
+;
+The Crystal Structure of a Sodium Molybdenum Oxide, Na6 Mo10 O33, Containing
+Cross-Linked Chains of Octahedra and Square Pyramids
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1983 46 269 274 JSSCBI
+loop_
+_publ_author_name
+'Gatehouse, B.M.'
+'Jenkins, C.E.'
+'Miskin, B.K.'
+_cell_length_a 8.049(4)
+_cell_length_b 12.180(6)
+_cell_length_c 7.576(4)
+_cell_angle_alpha 99.96(9)
+_cell_angle_beta 100.74(1)
+_cell_angle_gamma 109.88(10)
+_cell_volume 663.4
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.3879(5) 0.2338(3) 0.1449(4) . 1. 0
+Na2 Na1+ 2 i -.1246(3) 0.2156(2) 0.1049(3) . 1. 0
+Na3 Na1+ 2 i -.1514(4) 0.2390(2) 0.6324(4) . 1. 0
+Mo1 Mo6+ 2 i 0.40856(5) 0.01693(3) 0.71161(5) . 1. 0
+Mo2 Mo6+ 2 i 0.38747(5) 0.31908(3) 0.67647(5) . 1. 0
+Mo3 Mo6+ 2 i 0.27799(5) 0.50785(3) 0.95081(5) . 1. 0
+Mo4 Mo6+ 2 i 0.27328(5) 0.50055(3) 0.44841(5) . 1. 0
+Mo5 Mo6+ 2 i 0.01032(5) 0.02802(3) 0.71906(5) . 1. 0
+O1 O2- 2 i 0.6048(5) 0.0788(3) 0.8848(5) 0.0180(7) 1. 0
+O2 O2- 2 i 0.3257(5) -.1331(3) 0.7116(5) 0.0175(5) 1. 0
+O3 O2- 2 i 0.6579(4) 0.4706(3) 0.7814(4) 0.0090(6) 1. 0
+O4 O2- 2 i 0.1580(4) 0.2318(3) 0.6096(5) 0.0148(6) 1. 0
+O5 O2- 2 i 0.4887(4) 0.2134(3) 0.6725(5) 0.0135(6) 1. 0
+O6 O2- 2 i 0.3167(4) 0.4802(3) 0.6995(4) 0.0097(6) 1. 0
+O7 O2- 2 i 0.4143(4) 0.3794(3) 0.9391(4) 0.0100(6) 1. 0
+O8 O2- 2 i 0.2571(5) 0.6404(3) 0.9371(5) 0.0181(7) 1. 0
+O9 O2- 2 i 0.0611(4) 0.4028(3) 0.9013(5) 0.0174(7) 1. 0
+O10 O2- 2 i 0.0855(5) 0.3732(3) 0.3348(5) 0.0175(7) 1. 0
+O11 O2- 2 i 0.4370(4) 0.3770(3) 0.4633(4) 0.0095(6) 1. 0
+O12 O2- 2 i 0.1923(5) 0.6116(3) 0.4892(5) 0.0201(7) 1. 0
+O13 O2- 1 f 0.5 0 0.5 0.156(8) 1. 0
+O14 O2- 2 i -.0393(4) 0.1371(3) 0.8498(5) 0.0153(6) 1. 0
+O15 O2- 2 i -.0937(5) -.11028(3) 0.7786(5) 0.0169(7) 1. 0
+O16 O2- 2 i 0.2597(4) 0.0746(3) 0.8537(5) 0.0127(6) 1. 0
+O17 O2- 2 i -.1490(4) 0.0088(3) 0.4821(4) 0.0109(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0905(12) 0.0278(10) 0.0246(10) -.0035(10) 0.0199(10) -.0001(9)
+Na2 Na1+ 0.0151(8) 0.0200(8) 0.0162(8) 0.0069(7) 0.0029(7) -.0014(7)
+Na3 Na1+ 0.0468(11) 0.0221(9) 0.0356(10) 0.0153(8) -.0158(9) 0.0058(8)
+Mo1 Mo6+ 0.0070(2) 0.0093(2) 0.0064(2) 0.0038(1) 0.0021(1) 0.0024(1)
+Mo2 Mo6+ 0.0084(2) 0.0058(2) 0.0058(2) 0.0023(1) 0.0029(2) 0.0017(1)
+Mo3 Mo6+ 0.0071(2) 0.0097(2) 0.0044(2) 0.0041(2) 0.0020(1) 0.0016(2)
+Mo4 Mo6+ 0.0062(2) 0.0086(2) 0.0052(2) 0.0033(1) 0.0023(2) 0.0031(1)
+Mo5 Mo6+ 0.0068(2) 0.0115(2) 0.0057(2) 0.0042(2) 0.0022(2) 0.0026(2)
+#End of TTdata_37032-ICSD

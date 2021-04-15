@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414114-ICSD
+_database_code_ICSD 414114
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Disodium dinickel dodecaborate'
+_chemical_formula_structural 'Na2 Ni2 B12 O21'
+_chemical_formula_sum 'B12 Na2 Ni2 O21'
+_chemical_name_structure_type Na2Co2B12O21
+_exptl_crystal_density_diffrn 2.89
+_publ_section_title 'Ein ionenleitendes Natriumnickelborat: Na2 Ni2 B12 O21'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2004
+630 2550 2553 ZAACAB
+loop_
+_publ_author_name
+'Pompetzki, M.'
+'Albert, B.'
+_cell_length_a 17.0662(4)
+_cell_length_b 4.48009(11)
+_cell_length_c 19.4223(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.9071(19)
+_cell_angle_gamma 90.
+_cell_volume 1447.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+O2- -2
+B3+ 3
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 8 f 0.55846(26) -0.0047(9) 0.45242(21) 0.0313(10) 1. 0
+O1 O2- 4 e 0.25 0.145(5) 0. 0.028(7) 1. 0
+O2 O2- 8 f 0.2149(9) 0.7537(29) 0.0776(6) 0.025(5) 1. 0
+O3 O2- 8 f 0.3386(8) 0.7415(28) 0.0470(7) 0.016(4) 1. 0
+O4 O2- 8 f 0.3091(8) 0.4576(32) 0.1464(7) 0.023(4) 1. 0
+O5 O2- 8 f 0.4308(8) 0.2356(29) 0.1329(7) 0.017(5) 1. 0
+O6 O2- 8 f 0.3642(8) 0.0753(27) 0.2229(6) 0.012(4) 1. 0
+O7 O2- 8 f 0.4820(8) -0.1926(26) 0.2073(8) 0.020(4) 1. 0
+O8 O2- 8 f 0.4260(9) -0.2930(30) 0.3052(7) 0.021(4) 1. 0
+O9 O2- 8 f 0.4702(7) -0.6420(29) 0.3945(7) 0.014(4) 1. 0
+O10 O2- 8 f 0.4592(8) -0.2093(29) 0.4636(7) 0.009(4) 1. 0
+O11 O2- 8 f 0.3798(8) -0.6336(28) 0.4734(6) 0.017(4) 1. 0
+B1 B3+ 8 f 0.1887(19) 0.970(8) 0.0164(15) 0.040(9) 1. 0
+B2 B3+ 8 f 0.2894(15) 0.654(5) 0.0905(14) 0.011(7) 1. 0
+B3 B3+ 8 f 0.3697(15) 0.267(6) 0.1630(14) 0.010(8) 1. 0
+B4 B3+ 8 f 0.4245(15) -0.140(6) 0.2462(14) 0.024(9) 1. 0
+B5 B3+ 8 f 0.4981(16) -0.470(7) 0.3340(13) 0.032(9) 1. 0
+B6 B3+ 8 f 0.4347(13) -0.494(6) 0.4470(11) 0.006(5) 1. 0
+Na1 Na1+ 8 f 0.3468(5) 0.0536(22) 0.3558(4) 0.0405(28) 1. 0
+#End of TTdata_414114-ICSD

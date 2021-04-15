@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66776-ICSD
+_database_code_ICSD 66776
+_audit_creation_date 1996-04-22
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Tetrabarium sodium tetraoxocuprate(III)  dicarbonate'
+_chemical_formula_structural 'Ba4 Na (Cu O4) (C O3)2'
+_chemical_formula_sum 'C2 Ba4 Cu1 Na1 O10'
+_chemical_name_structure_type Ba4NaCuO4(CO3)2
+_exptl_crystal_density_diffrn 5.21
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis and characterization of two new Cu(III) compounds: Ba4 Li Cu O4 (C
+O3)2 and Ba4 Na Cu O4 (C O3)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 95 270 274 JSSCBI
+loop_
+_publ_author_name
+'VerNooy, P.D.'
+'Stacy, A.M.'
+_cell_length_a 5.8322(6)
+_cell_length_b 5.8322(6)
+_cell_length_c 15.3712(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 522.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4 2 m'
+_symmetry_Int_Tables_number 121
+_refine_ls_R_factor_all 0.0296
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, z'
+2 'y, x, z'
+3 'y, -x, -z'
+4 '-y, x, -z'
+5 'x, -y, -z'
+6 '-x, y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y+1/2, -x+1/2, -z+1/2'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Cu3+ 3
+Na1+ 1
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 8 h 0 0.5 0.11703(2) 0.545(6) 1. 0
+Cu1 Cu3+ 2 b 0 0 0.5 0.28(1) 1. 0
+Na1 Na1+ 2 a 0 0 0 1.03(1) 1. 0
+C1 C4+ 4 e 0 0 0.2326(5) 0.82(9) 1. 0
+O1 O2- 8 i 0.2758(4) 0.2758(4) 0.0054(5) 0.42(5) 1. 0
+O2 O2- 4 e 0 0 0.1503(3) 1.37(8) 1. 0
+O3 O2- 8 i 0.8664(7) -.8664(7) 0.2742(3) 2.24(9) 1. 0
+#End of TTdata_66776-ICSD

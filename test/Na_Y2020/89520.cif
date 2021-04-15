@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89520-ICSD
+_database_code_ICSD 89520
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium nonasamarium disulfide hexakis(silicate)'
+_chemical_formula_structural 'Na Sm9 S2 (Si O4)6'
+_chemical_formula_sum 'Na1 O24 S2 Si6 Sm9'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 5.94
+_publ_section_title
+
+;
+Sm4 S3 (Si2 O7) und Na Sm9 S2 (Si O4)6 : zwei Sulfidsilicate mit dreiwertigem
+Samarium
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1999
+625 131 136 ZAACAB
+loop_
+_publ_author_name
+'Sieke, C.'
+'Schleid, T.'
+_cell_length_a 9.7532(9)
+_cell_length_b 9.7532(9)
+_cell_length_c 6.7646(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 557.27
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.058
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sm3+ 3
+S2- -2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0.3333 0.6667 0.00353(9) . 0.244(1) 0
+Sm1 Sm3+ 4 f 0.3333 0.6667 0.00353(9) . 0.756(1) 0
+Sm2 Sm3+ 6 h 0.25002(5) 0.00654(5) 0.25 . 1. 0
+S1 S2- 2 b 0 0 0 . 1. 0
+Si1 Si4+ 6 h 0.4104(2) 0.3809(3) 0.25 . 1. 0
+O1 O2- 6 h 0.3385(7) 0.4956(8) 0.25 . 1. 0
+O2 O2- 6 h 0.6031(6) 0.4756(7) 0.25 . 1. 0
+O3 O2- 12 i 0.3579(5) 0.2634(5) 0.0590(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0129(2) 0.0129(2) 0.0228(3) 0.0064(1) 0 0
+Sm1 Sm3+ 0.0129(2) 0.0129(2) 0.0228(3) 0.0064(1) 0 0
+Sm2 Sm3+ 0.0125(2) 0.0156(2) 0.0106(2) 0.0074(2) 0 0
+S1 S2- 0.0231(9) 0.0231(9) 0.0127(15) 0.0115(5) 0 0
+Si1 Si4+ 0.0129(10) 0.0138(10) 0.0124(10) 0.0081(8) 0 0
+O1 O2- 0.0550(48) 0.0411(40) 0.0169(33) 0.0396(40) 0 0
+O2 O2- 0.0072(25) 0.0112(27) 0.0209(29) -.0023(20) 0 0
+O3 O2- 0.0386(24) 0.0170(18) 0.0237(24) 0.0155(18) -.0166(19) -.0066(18)
+#End of TTdata_89520-ICSD

@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262374-ICSD
+_database_code_ICSD 262374
+_audit_creation_date 2012-08-01
+_chemical_name_systematic
+
+;
+(Sodium magnesium) (magnesium iron silicon) disilicate
+(0.97/0.46/0.46/0.17/2.4/0.4/1)
+;
+_chemical_formula_structural '(Na0.97 Mg0.03) (Mg0.43 Fe0.17 Si0.40) (Si2 O6)'
+_chemical_formula_sum 'Fe0.17 Mg0.46 Na0.97 O6 Si2.4'
+_chemical_name_structure_type Pyroxene-Omphacite
+_exptl_crystal_density_diffrn 3.36
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+High-pressure synthetic (Na0.97 Mg0.03) (Mg0.43 Fe(3+)0.17 Si0.40) Si2 O6,
+with six-coordinated silicon, isostructural with P2/n omphacite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2012 68
+i18 i18 ACSEBH
+loop_
+_publ_author_name
+'Posner, E.S.'
+'Konzett, J.'
+'Frost, D.J.'
+'Downs, R.T.'
+'Yang, H.'
+_cell_length_a 9.4432(8)
+_cell_length_b 8.6457(7)
+_cell_length_c 5.2540(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.003(6)
+_cell_angle_gamma 90.
+_cell_volume 407.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 2/n 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0356
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, y, -z+1/2'
+3 '-x, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+Na1+ 1
+Mg2+ 2
+Fe3+ 3
+Si4+ 4
+Fe3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 f 0.75 0.04980(16) 0.25 0.0129(3) 0.94000(10) 0
+Mg1 Mg2+ 2 f 0.75 0.04980(16) 0.25 0.0129(3) 0.06000(10) 0
+Na2 Na1+ 2 e 0.75 0.45601(17) 0.75 0.0169(3) 1 0
+Mg2 Mg2+ 2 f 0.75 0.65310(10) 0.25 0.00495(18) 0.86000(10) 0
+Fe1 Fe3+ 2 f 0.75 0.65310(10) 0.25 0.00495(18) 0.14000(10) 0
+Si1 Si4+ 2 e 0.75 0.84745(9) 0.75 0.00855(17) 0.80000(10) 0
+Fe2 Fe3+ 2 e 0.75 0.84745(9) 0.75 0.00855(17) 0.20000(10) 0
+Si2 Si4+ 4 g 0.04344(7) 0.84714(7) 0.22988(13) 0.00748(14) 1 0
+Si3 Si4+ 4 g 0.03811(7) 0.66398(7) 0.73666(13) 0.00731(14) 1 0
+O1 O2- 4 g 0.86242(18) 0.8417(2) 0.1106(4) 0.0133(4) 1 0
+O2 O2- 4 g 0.85803(18) 0.6879(2) 0.6524(4) 0.0129(4) 1 0
+O3 O2- 4 g 0.1201(2) 0.0136(2) 0.3071(4) 0.0130(4) 1 0
+O4 O2- 4 g 0.1012(2) 0.4949(2) 0.7949(4) 0.0141(4) 1 0
+O5 O2- 4 g 0.10966(18) 0.7652(2) 0.0132(3) 0.0105(3) 1 0
+O6 O2- 4 g 0.09535(18) 0.74992(19) 0.5087(3) 0.0112(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0162(7) 0.0106(7) 0.0093(7) 0. 0.0002(5) 0.
+Mg1 Mg2+ 0.0162(7) 0.0106(7) 0.0093(7) 0. 0.0002(5) 0.
+Na2 Na1+ 0.0210(7) 0.0107(7) 0.0128(8) 0. -0.0037(6) 0.
+Mg2 Mg2+ 0.0060(4) 0.0045(4) 0.0037(4) 0. 0.0006(3) 0.
+Fe1 Fe3+ 0.0060(4) 0.0045(4) 0.0037(4) 0. 0.0006(3) 0.
+Si1 Si4+ 0.0094(3) 0.0085(4) 0.0073(4) 0. 0.0020(3) 0.
+Fe2 Fe3+ 0.0094(3) 0.0085(4) 0.0073(4) 0. 0.0020(3) 0.
+Si2 Si4+ 0.0081(3) 0.0074(3) 0.0065(3) -0.0002(2) 0.0016(2) -0.0005(2)
+Si3 Si4+ 0.0075(3) 0.0076(3) 0.0065(3) 0.0000(2) 0.0018(2) 0.0004(2)
+O1 O2- 0.0103(7) 0.0128(9) 0.0165(9) 0.0007(6) 0.0039(7) -0.0023(7)
+O2 O2- 0.0074(7) 0.0173(9) 0.0132(9) -0.0013(6) 0.0018(6) 0.0035(7)
+O3 O2- 0.0200(9) 0.0074(8) 0.0106(9) -0.0014(6) 0.0033(7) -0.0009(6)
+O4 O2- 0.0188(9) 0.0104(9) 0.0132(9) 0.0006(7) 0.0050(7) 0.0002(7)
+O5 O2- 0.0098(7) 0.0136(9) 0.0078(8) 0.0009(6) 0.0024(6) -0.0018(6)
+O6 O2- 0.0125(8) 0.0129(9) 0.0086(8) -0.0017(6) 0.0037(6) 0.0017(6)
+#End of TTdata_262374-ICSD

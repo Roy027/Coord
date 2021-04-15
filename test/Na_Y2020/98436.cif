@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_98436-ICSD
+_database_code_ICSD 98436
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Hexalead dicalcium disodium hexakis(phosphate(V))'
+_chemical_formula_structural 'Pb6 Ca2 Na2 (P O4)6'
+_chemical_formula_sum 'Ca2 Na2 O24 P6 Pb6'
+_chemical_name_structure_type Er3Pb1.5(SiO4)3
+_exptl_crystal_density_diffrn 5.63
+_publ_section_title
+'Structure and ionic conductivity of the lacunary apatite Pb6 Ca2 Na2 (P O4)6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2003 158 157 166 SSIOD3
+loop_
+_publ_author_name
+'Naddari, T.'
+'El Feki, H.'
+'Savariault, J.M.'
+'Salles, P.'
+'Ben Salah, A.'
+_cell_length_a 9.658(8)
+_cell_length_b 9.658(8)
+_cell_length_c 7.081(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 572.
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0543
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+P5+ 5
+Ca2+ 2
+Na1+ 1
+Pb2+ 2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 6 h 0.5125(15) 0.3662(20) 0.75 1.88(34) 1. 0
+O2 O2- 6 h 0.4745(17) 0.5958(6) 0.75 2.37(37) 1. 0
+O3 O2- 12 i 0.2709(10) 0.3616(11) 0.5772(10) 2.67(27) 1. 0
+P1 P5+ 6 h 0.3794(4) 0.4104(4) 0.75 1.07(12) 1. 0
+Ca1 Ca2+ 4 f 0.3333 0.6667 0.4909(18) 1.31(9) 0.5 0
+Na1 Na1+ 4 f 0.3333 0.6667 0.4909(18) 1.31(9) 0.445(10) 0
+Pb1 Pb2+ 4 f 0.3333 0.6667 0.4909(18) 1.31(9) 0.055(5) 0
+Pb2 Pb2+ 6 h 0.2580(2) 0.2586(2) 0.25 1.64(12) 0.963(3) 0
+Na2 Na1+ 6 h 0.2580(2) 0.2586(2) 0.25 1.64(12) 0.037(3) 0
+#End of TTdata_98436-ICSD

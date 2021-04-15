@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83396-ICSD
+_database_code_ICSD 83396
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Dirubidium sodium hexacyanocobaltate'
+_chemical_formula_structural 'Rb2 Na (Co (C N)6)'
+_chemical_formula_sum 'C6 Co1 N6 Na1 Rb2'
+_chemical_name_structure_type LiCs2Cr(CN)6
+_exptl_crystal_density_diffrn 2.34
+_publ_section_title
+
+;
+Die Kristallstrukturen der Eisen- und Cobalt-Hexacyanokomplexe Rb2 Li M (C N)6
+und Rb2 Na M (C N)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+1996 51 826 831 ZNBSEN
+loop_
+_publ_author_name
+'Peschel, S.'
+'Paulus, W.'
+'Babel, D.'
+_cell_length_a 7.224(3)
+_cell_length_b 7.661(3)
+_cell_length_c 10.496(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.32(4)
+_cell_angle_gamma 90.
+_cell_volume 580.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Na1+ 1
+Co3+ 3
+C2+ 2
+N3- -3
+C2+ 2
+N3- -3
+C2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 e 0.52133(8) 0.93059(11) 0.24974(7) . 1. 0
+Na1 Na1+ 2 b 0 0 0.5 . 1. 0
+Co1 Co3+ 2 a 0 0 0 . 1. 0
+C1 C2+ 4 e 0.06906(7) 0.01840(9) 0.17314(6) . 1. 0
+N1 N3- 4 e 0.11072(7) 0.03300(8) 0.27895(5) . 1. 0
+C2 C2+ 4 e 0.78593(7) 0.13435(9) 0.03145(6) . 1. 0
+N2 N3- 4 e 0.65579(6) 0.21676(8) 0.05243(6) . 1. 0
+C3 C2+ 4 e 0.13265(6) 0.20621(9) 0.96247(6) . 1. 0
+N3 N3- 4 e 0.21481(6) 0.33139(8) 0.93870(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.03616(27) 0.03247(46) 0.04040(44) -.00445(25) 0.00054(23) 0.00097(33)
+Na1 Na1+ 0.02274(50) 0.02061(92) 0.02213(85) -.00054(47) 0.00036(43) 0.00044(70)
+Co1 Co3+ 0.01957(62) 0.0203(12) 0.0219(11) 0.00111(59) 0.00060(53) -.00096(89)
+C1 C2+ 0.02411(21) 0.02341(39) 0.01730(35) 0.00150(19) 0.00018(16) -.00003(26)
+N1 N3- 0.04323(23) 0.04621(41) 0.01797(30) 0.00326(22) -.00299(16) -.00174(24)
+C2 C2+ 0.02035(20) 0.01909(39) 0.02440(33) 0.00362(18) 0.00206(16) 0.00175(26)
+N2 N3- 0.02978(19) 0.03214(36) 0.04941(34) 0.01472(18) 0.00841(17) 0.00500(26)
+C3 C2+ 0.02046(20) 0.01889(39) 0.02523(33) -.00290(18) -.00009(16) 0.00216(27)
+N3 N3- 0.03317(20) 0.02657(33) 0.04785(35) -.01239(18) -.00318(17) 0.00784(26)
+#End of TTdata_83396-ICSD

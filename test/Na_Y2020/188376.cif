@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_188376-ICSD
+_database_code_ICSD 188376
+_audit_creation_date 2014-02-01
+_audit_update_record 2015-08-01
+_chemical_name_systematic
+'Sodium pentacopper(II) dioxide diselenate(IV) trichloride'
+_chemical_formula_structural 'Na Cu5 O2 (Se O3)2 Cl3'
+_chemical_formula_sum 'Cl3 Cu5 Na1 O8 Se2'
+_chemical_name_mineral Ilinskite
+_exptl_crystal_density_diffrn 4.04
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The crystal structure of ilinskite, Na Cu5 O2 (Se O3)2 Cl3, and review of
+mixed-ligand CuOmCln coordination geometries in minerals and inorganic
+compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogy and Petrology' 2013 107 235 242 MIPEE9
+loop_
+_publ_author_name
+'Krivovichev, Sergey V.'
+'Filatov, Stanislav K.'
+'Vergasova, Lidiya P.'
+_cell_length_a 17.769(7)
+_cell_length_b 6.448(3)
+_cell_length_c 10.522(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1205.55
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cu2+ 2
+Se4+ 4
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.40541(13) 0.25 0.7360(3) 0.0370(7) 1. 0
+Cu1 Cu2+ 4 c 0.59925(3) 0.25 0.49944(6) 0.0123(1) 1. 0
+Cu2 Cu2+ 4 c 0.63306(3) 0.25 -0.00162(6) 0.0134(1) 1. 0
+Cu3 Cu2+ 4 c 0.71866(3) 0.25 0.27592(6) 0.0132(1) 1. 0
+Cu4 Cu2+ 8 d 0.73671(2) 0.00221(6) 0.553143(4) 0.01384(9) 1. 0
+Se1 Se4+ 4 c 0.43037(2) 0.25 0.442118(5) 0.01026(9) 1. 0
+Se2 Se4+ 4 c 0.61556(2) 0.75 -0.08483(4) 0.01012(9) 1. 0
+Cl1 Cl1- 4 c 0.58668(7) 0.25 0.25060(13) 0.0246(3) 1. 0
+Cl2 Cl1- 4 c 0.53666(9) 0.25 -0.13445(17) 0.0361(4) 1. 0
+Cl3 Cl1- 4 c 0.75419(9) 0.25 0.77233(15) 0.0339(3) 1. 0
+O1 O2- 4 c 0.77281(17) 0.75 0.5962(3) 0.0095(5) 1. 0
+O2 O2- 4 c 0.70363(17) 0.25 0.4560(3) 0.0104(5) 1. 0
+O3 O2- 8 d 0.65176(13) -0.0515(4) 0.0081(2) 0.0147(4) 1. 0
+O4 O2- 4 c 0.49404(18) 0.25 0.5412(3) 0.0161(7) 1. 0
+O5 O2- 4 c 0.67054(19) 0.75 -0.2130(3) 0.0169(7) 1. 0
+O6 O2- 8 d 0.37550(13) 0.0504(4) 0.4733(3) 0.0189(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0108(11) 0.066(2) 0.0341(15) 0. -0.0068(10) 0.
+Cu1 Cu2+ 0.0038(2) 0.1144(2) 0.0217(3) 0. 0.0011(2) 0.
+Cu2 Cu2+ 0.0076(2) 0.0117(2) 0.0208(3) 0. -0.0047(2) 0.
+Cu3 Cu2+ 0.0058(2) 0.0208(3) 0.0130(3) 0. 0.0003(2) 0.
+Cu4 Cu2+ 0.005509(16) 0.01328(16) 0.0232(2) 0.0013(1) 0.0001(1) 0.0059(2)
+Se1 Se4+ 0.00376(17) 0.01092(17) 0.0161(2) 0. 0.0011(2) 0.
+Se2 Se4+ 0.00441(17) 0.01142(17) 0.0145(2) 0. -0.0012(2) 0.
+Cl1 Cl1- 0.0070(5) 0.0499(8) 0.0170(6) 0. -0.0004(4) 0.
+Cl2 Cl1- 0.0226(7) 0.0416(8) 0.0442(9) 0. -0.0223(7) 0.
+Cl3 Cl1- 0.0238(7) 0.0494(9) 0.0285(8) 0. 0.0050(6) 0.
+O1 O2- 0.0032(12) 0.0115(12) 0.0139(14) 0. 0.0004(10) 0.
+O2 O2- 0.0059(13) 0.0123(15) 0.0129(15) 0. -0.001(1) 0.
+O3 O2- 0.0091(10) 0.0121(9) 0.0228(13) 0.0009(7) -0.0033(9) -0.0029(9)
+O4 O2- 0.0051(13) 0.0220(16) 0.0213(17) 0. -0.001(1) 0.
+O5 O2- 0.0062(14) 0.0279(18) 0.0167(17) 0. -0.001(1) 0.
+O6 O2- 0.0053(10) 0.0108(9) 0.0406(16) -0.0008(7) 0.002(1) 0.008(1)
+#End of TTdata_188376-ICSD

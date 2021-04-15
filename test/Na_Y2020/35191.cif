@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35191-ICSD
+_database_code_ICSD 35191
+_audit_creation_date 1982-12-31
+_audit_update_record 1999-11-30
+_chemical_name_systematic 'Sodium hydrogen bis(carbonate) dihydrate'
+_chemical_formula_structural 'Na3 H (C O3)2 (H2 O)2'
+_chemical_formula_sum 'C2 H5 Na3 O8'
+_chemical_name_structure_type Na3H(CO3)2(H2O)2
+_chemical_name_mineral Trona
+_exptl_crystal_density_diffrn 2.15
+_publ_section_title
+'Neutron diffraction study of sodium sesquicarbonate dihydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 2874 2876 ACBCAR
+loop_
+_publ_author_name
+'Choi, C.S.'
+'Mighell, A.D.'
+_cell_length_a 20.360(20)
+_cell_length_b 3.48(1)
+_cell_length_c 10.29(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.48(1)
+_cell_angle_gamma 90.
+_cell_volume 699.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.74786(57) 0.25 . 1. 0
+Na2 Na1+ 8 f 0.15059(7) 0.16359(44) 0.42612(22) . 1. 0
+C1 C4+ 8 f 0.09303(3) 0.26524(19) 0.10317(9) . 1. 0
+O1 O2- 8 f 0.15103(4) 0.39845(28) 0.10200(12) . 1. 0
+O2 O2- 8 f 0.05433(4) 0.12980(28) 0.98823(12) . 1. 0
+O3 O2- 8 f 0.07258(4) 0.25364(23) 0.20797(11) . 1. 0
+O4 O2- 8 f 0.21207(5) 0.66563(31) 0.35376(14) . 1. 0
+H1 H1+ 8 f 0.19149(9) 0.59393(54) 0.25966(27) . 1. 0
+H2 H1+ 8 f 0.25913(8) 0.73060(57) 0.36351(28) . 1. 0
+H3 H1+ 4 a 0 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00096(3) 0.0208(14) 0.00268(28) 0 0.00072(9) 0
+Na2 Na1+ 0.00126(3) 0.0281(12) 0.00275(20) -.00084(15) 0.00060(7) -.00142(38)
+C1 C4+ 0.00057(1) 0.01770(53) 0.00118(11) 0.00029(6) 0.00024(3) 0.00032(17)
+O1 O2- 0.00077(2) 0.03761(74) 0.00238(13) -.00059(9) 0.00050(4) 0.00136(23)
+O2 O2- 0.00082(2) 0.03791(74) 0.00136(12) -.00083(9) 0.00027(4) -.00167(23)
+O3 O2- 0.00085(2) 0.02522(74) 0.00156(13) -.00047(8) 0.00061(4) -.00060(21)
+O4 O2- 0.00114(2) 0.03827(80) 0.00298(15) -.00214(9) 0.00079(5) -.00276(27)
+H1 H1+ 0.00177(4) 0.0573(16) 0.00478(29) -.00126(18) 0.00075(9) -.00092(52)
+H2 H1+ 0.00146(3) 0.0635(17) 0.00634(33) -.00151(19) 0.00082(8) -.00037(56)
+H3 H1+ 0.00185(5) 0.0518(20) 0.00419(33) 0.00104(27) 0.00075(11) -.00053(73)
+#End of TTdata_35191-ICSD

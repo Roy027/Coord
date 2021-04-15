@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245629-ICSD
+_database_code_ICSD 245629
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Hemiyttrium hemisodium trioxotitanate'
+_chemical_formula_structural '(Y Na)0.5 Ti O3'
+_chemical_formula_sum 'Na0.5 O3 Ti1 Y0.5'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 4.56
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Systematic study of photoluminescence upon band gap excitation in
+perovskite-type titanates R1/2 Na1/2 Ti O3:Pr (R = La, Gd, Lu, Y)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 1678 1685 JSSCBI
+loop_
+_publ_author_name
+'Inaguma, Y.'
+'Tsuchiya, T.'
+'Katsumata, T.'
+_cell_length_a 5.4419(20)
+_cell_length_b 7.6181(27)
+_cell_length_c 5.3334(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 221.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Na1+ 1
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 c 0.45392(14) 0.25 0.0105(2) 0.97(3) 0.5 0
+Na1 Na1+ 4 c 0.45392(14) 0.25 0.0105(2) 0.97(3) 0.5 0
+Ti1 Ti4+ 4 a 0 0 0 0.60(3) 1. 0
+O1 O2- 4 c 0.5207(5) 0.25 0.5791(7) 0.98(10) 1. 0
+O2 O2- 8 d 0.2080(5) 0.0426(4) 0.2918(5) 0.68(7) 1. 0
+#End of TTdata_245629-ICSD

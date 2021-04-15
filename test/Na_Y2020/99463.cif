@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_99463-ICSD
+_database_code_ICSD 99463
+_audit_creation_date 2005-04-01
+_chemical_name_systematic
+'Sodium iron iron(III) phosphate(V) (0.22/3.12/3.88/6)'
+_chemical_formula_structural 'Na0.122 Fe7 (P O4)6'
+_chemical_formula_sum 'Fe7 Na0.122 O24 P6'
+_exptl_crystal_density_diffrn 3.86
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+The mixed-valence iron compound Na0.1 Fe7 (P O4)6: crystal structure and
+(57)Fe Mossbauer spectroscopy between 80 and 295 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 1607 1618 JSSCBI
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Roth, G.'
+'Tippelt, G.'
+'Bernroider, M.'
+'Lottermoser, W.'
+'Amthauer, G.'
+_cell_length_a 6.3911(9)
+_cell_length_b 7.9499(11)
+_cell_length_c 9.3586(13)
+_cell_angle_alpha 105.128(11)
+_cell_angle_beta 108.354(11)
+_cell_angle_gamma 101.692(11)
+_cell_volume 414.08
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Fe3+ 3
+Fe2+ 2
+Fe2+ 2.94
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 1 h 0.5 0.5 0.5 0.0051(1) 1. 0
+Fe2 Fe3+ 2 i 0.5441(1) 0.2198(1) 0.0248(1) 0.0036(1) 1. 0
+Fe3 Fe2+ 2 i 0.7791(1) 0.3119(1) 0.7847(1) 0.0041(1) 1. 0
+Fe4 Fe2+ 2 i 0.1176(1) 0.0476(1) 0.3903(1) 0.0037(1) 1. 0
+P1 P5+ 2 i 0.2713(1) 0.3510(1) 0.7312(1) 0.0031(1) 1. 0
+P2 P5+ 2 i 0.5912(1) 0.0925(1) 0.3321(1) 0.0032(1) 1. 0
+P3 P5+ 2 i 0.0967(1) 0.2665(1) 0.1259(1) 0.0049(1) 1. 0
+O1 O2- 2 i 0.0425(2) 0.1281(2) 0.2060(2) 0.0114(3) 1. 0
+O2 O2- 2 i 0.2256(2) 0.4553(2) 0.2578(2) 0.0069(2) 1. 0
+O3 O2- 2 i 0.2423(2) 0.2124(2) 0.0308(2) 0.0123(3) 1. 0
+O4 O2- 2 i 0.8661(2) 0.2654(2) 0.0053(2) 0.0076(2) 1. 0
+O5 O2- 2 i 0.3762(2) -0.0347(2) 0.3358(1) 0.0051(2) 1. 0
+O6 O2- 2 i 0.6155(2) 0.2883(2) 0.4168(2) 0.0084(2) 1. 0
+O7 O2- 2 i 0.8065(2) 0.0400(2) 0.4138(2) 0.0055(2) 1. 0
+O8 O2- 2 i 0.5635(2) 0.0507(2) 0.1537(2) 0.0058(2) 1. 0
+O9 O2- 2 i 0.2928(2) 0.5521(2) 0.7943(2) 0.0085(3) 1. 0
+O10 O2- 2 i 0.2748(2) 0.3032(2) 0.5606(1) 0.0052(2) 1. 0
+O11 O2- 2 i 0.4799(2) 0.3133(2) 0.8418(2) 0.0055(2) 1. 0
+O12 O2- 2 i 0.0442(2) 0.2356(2) 0.7269(1) 0.0047(2) 1. 0
+Na1 Na1+ 1 g 0 0.5 0.5 0.014(3) 0.122 0
+#End of TTdata_99463-ICSD

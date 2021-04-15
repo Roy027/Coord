@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195081-ICSD
+_database_code_ICSD 195081
+_audit_creation_date 2015-08-01
+_chemical_name_systematic
+'Nonasodium chromium(III) hexakis(tetraoxomolybdate(VI))'
+_chemical_formula_structural 'Na9 Cr (Mo O4)6'
+_chemical_formula_sum 'Cr1 Mo6 Na9 O24'
+_exptl_crystal_density_diffrn 3.38
+_cell_measurement_temperature 298.
+_publ_section_title 'Synthese et etude structurale de Na9 Cr (Mo O4)6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2015 71 435 439 ACSECI
+loop_
+_publ_author_name
+'Dridi, Wassim'
+'Ennajeh, Ines'
+'Zid, Mohamed Faouzi'
+_cell_length_a 14.707(5)
+_cell_length_b 14.707(5)
+_cell_length_c 19.175(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 3591.82
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.0282
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Cr3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 36 f 0.51969(4) 0.66053(4) 0.02393(2) 0.01759(19) 1 0
+Cr1 Cr3+ 6 a 0.3333 0.6667 0.9167 0.0096(4) 1 0
+Na1 Na1+ 18 e 0.1089(2) 0.6667 0.9167 0.0285(8) 1 0
+Na2 Na1+ 36 f 0.5617(2) 0.6706(2) 0.21706(11) 0.0334(6) 1 0
+O1 O2- 36 f 0.2729(3) 0.7346(3) 0.85988(19) 0.0177(8) 1 0
+O2 O2- 36 f 0.4881(4) 0.6129(4) 0.1082(2) 0.0342(11) 1 0
+O3 O2- 36 f 0.0440(4) 0.7277(3) 0.8230(2) 0.0267(9) 1 0
+O4 O2- 36 f 0.0834(3) 0.5458(4) 0.8075(2) 0.0312(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0165(3) 0.0218(3) 0.0164(3) 0.0110(2) -0.00230(17) 0.00171(18)
+Cr1 Cr3+ 0.0070(5) 0.0070(5) 0.0149(8) 0.0035(3) 0. 0.
+Na1 Na1+ 0.0211(11) 0.049(2) 0.0250(15) 0.0244(12) 0.0073(8) 0.0146(16)
+Na2 Na1+ 0.0341(14) 0.0518(18) 0.0200(11) 0.0258(14) -0.0021(10) -0.0027(11)
+O1 O2- 0.0142(18) 0.0155(19) 0.0246(18) 0.0083(15) -0.0003(15) 0.0083(15)
+O2 O2- 0.037(3) 0.041(3) 0.0153(18) 0.012(2) -0.0028(18) 0.0009(19)
+O3 O2- 0.037(3) 0.024(2) 0.028(2) 0.0221(19) -0.0003(19) -0.0009(19)
+O4 O2- 0.025(2) 0.031(2) 0.043(2) 0.018(2) -0.0141(19) -0.014(2)
+#End of TTdata_195081-ICSD

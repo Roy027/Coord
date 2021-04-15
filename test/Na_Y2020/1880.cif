@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1880-ICSD
+_database_code_ICSD 1880
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Calcium sodium cyclo-hexaaluminate (8.5/1/1)'
+_chemical_formula_structural 'Ca8.5 Na (Al6 O18)'
+_chemical_formula_sum 'Al6 Ca8.5 Na1 O18'
+_exptl_crystal_density_diffrn 3.03
+_publ_section_title
+'The Al6 O18 rings of tetrahedra in the structure of Ca8.5 Na Al6 O18'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 1169 1173 ACBCAR
+loop_
+_publ_author_name
+'Nishi, F.'
+'Takeuchi, Y.'
+_cell_length_a 10.875(3)
+_cell_length_b 10.859(3)
+_cell_length_c 15.105(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1783.77
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 8 c 0.00268(26) 0.00196(19) 0.51825(11) . 0.25 0
+Ca2 Ca2+ 8 c -.00394(11) 0.01771(7) 0.23927(5) . 1. 0
+Ca3 Ca2+ 8 c 0.00928(10) 0.26744(8) 0.13313(6) . 1. 0
+Ca4 Ca2+ 8 c 0.25648(13) 0.27066(8) 0.25278(8) . 1. 0
+Ca5 Ca2+ 8 c 0.26267(12) 0.24622(13) 0.49832(9) . 1. 0
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+Al1 Al3+ 8 c -.00482(15) -.21407(11) 0.11603(8) . 1. 0
+Al2 Al3+ 8 c 0.23755(14) -.00327(14) 0.11292(10) . 1. 0
+Al3 Al3+ 8 c 0.24208(14) 0.00543(13) -.10861(9) . 1. 0
+O1 O2- 8 c -.14416(39) -.13388(37) 0.10911(29) . 1. 0
+O2 O2- 8 c 0.11066(40) -.10125(41) 0.12634(27) . 1. 0
+O3 O2- 8 c 0.28698(34) -.02208(30) 0.00229(24) . 1. 0
+O4 O2- 8 c -.00730(53) -.28562(32) 0.21778(22) . 1. 0
+O5 O2- 8 c 0.01956(42) -.29335(32) 0.01724(22) . 1. 0
+O6 O2- 8 c 0.35529(36) -.07220(35) 0.17361(24) . 1. 0
+O7 O2- 8 c 0.18863(35) 0.14794(34) 0.13240(27) . 1. 0
+O8 O2- 8 c 0.16233(35) -.12774(31) -.14188(25) . 1. 0
+O9 O2- 8 c 0.37170(33) 0.06610(23) -.15970(23) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ca1 Ca2+ 0.00129(12) 0.00103(11) 0.00222(14) 0.00020(13) 0.00007(14) 0.00000(11)
+Ca2 Ca2+ 0.00204(7) 0.00129(5) 0.00058(3) 0.00036(7) 0.00005(6) -.00002(3)
+Ca3 Ca2+ 0.00163(7) 0.00179(6) 0.00054(3) 0.00020(7) -.00012(5) 0.00041(4)
+Ca4 Ca2+ 0.00451(9) 0.00131(6) 0.00068(6) 0.00051(7) -.00087(5) 0.00012(6)
+Ca5 Ca2+ 0.00256(9) 0.00228(7) 0.00091(4) 0.00002(8) 0.00009(5) -.00006(4)
+Na1 Na1+ 0.00359(62) 0.00928(81) 0.0029(3) -.00388(79) -.00170(46) 0.00456(42)
+Al1 Al3+ 0.00109(10) 0.00093(8) 0.00030(4) -.00021(10) -.00012(7) -.00004(5)
+Al2 Al3+ 0.00103(11) 0.00142(14) 0.00080(7) -.00035(9) 0.00000(7) 0.00006(7)
+Al3 Al3+ 0.00084(10) 0.0088(12) 0.00033(6) -.00016(8) -.00004(7) -.00036(6)
+O1 O2- 0.00265(33) 0.00295(32) 0.00246(19) 0.00138(27) -.00080(21) -.00032(21)
+O2 O2- 0.00350(35) 0.00462(37) 0.00164(16) -.00256(30) 0.00079(20) -.00116(22)
+O3 O2- 0.00214(29) 0.00274(32) 0.00057(12) -.00071(22) 0.00029(16) 0.00027(20)
+O4 O2- 0.00794(46) 0.00197(26) 0.00061(13) 0.00061(35) -.00002(24) -.00003(15)
+O5 O2- 0.00525(42) 0.00204(25) 0.00060(13) -.00037(27) 0.00034(19) -.00019(15)
+O6 O2- 0.00248(30) 0.00216(31) 0.00119(14) 0.00025(23) -.00113(17) -.00039(17)
+O7 O2- 0.00231(32) 0.00267(32) 0.00161(17) 0.00168(24) -.00091(19) -.00029(19)
+O8 O2- 0.00252(30) 0.00145(27) 0.00139(15) -.00042(22) -.00004(18) -.00069(16)
+O9 O2- 0.00228(30) 0.00124(28) 0.00117(14) -.00088(21) 0.00012(16) 0.00030(16)
+#End of TTdata_1880-ICSD

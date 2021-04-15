@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281210-ICSD
+_database_code_ICSD 281210
+_audit_creation_date 2003-10-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Sodium aluminium bis(molybdate)'
+_chemical_formula_structural 'Na Al (Mo O4)2'
+_chemical_formula_sum 'Al1 Mo2 Na1 O8'
+_chemical_name_structure_type NaFe(MoO4)2
+_exptl_crystal_density_diffrn 3.64
+_publ_section_title
+
+;
+Na Al (Mo O4)2 : a rare structure type among layered yavapaiite-related A M (X
+O4)2 compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2003 59
+i10 i13 ACSEBH
+loop_
+_publ_author_name
+'Kolitsch, U.'
+'Maczka, M.'
+'Hanuza, J.'
+_cell_length_a 9.621(2)
+_cell_length_b 5.339(1)
+_cell_length_c 13.146(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.01(3)
+_cell_angle_gamma 90.
+_cell_volume 675.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0171
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 -.0685(3) 0.25 0.0232(3) 1. 0
+Al1 Al3+ 4 a 0 0 0 0.00759(17) 1. 0
+Mo1 Mo6+ 8 f 0.169680(14) 0.46923(3) 0.122124(11) 0.00768(9) 1. 0
+O1 O2- 8 f 0.08830(14) 0.7070(3) 0.05141(11) 0.0160(3) 1. 0
+O2 O2- 8 f 0.34454(14) 0.4289(3) 0.08134(11) 0.0156(3) 1. 0
+O3 O2- 8 f 0.07332(13) 0.1828(3) 0.11055(10) 0.0128(3) 1. 0
+O4 O2- 8 f 0.16751(19) 0.5629(3) 0.24701(12) 0.0204(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0329(7) 0.0205(6) 0.0164(6) 0 0.0050(5) 0
+Al1 Al3+ 0.0060(4) 0.0078(3) 0.0089(4) -0.0001(2) -0.0006(3) 0.0008(3)
+Mo1 Mo6+ 0.00691(11) 0.00757(12) 0.00857(12) -0.00013(4) 0.00015(7) 0.00000(4)
+O1 O2- 0.0141(6) 0.0104(6) 0.0234(7) 0.0014(5) -0.0037(5) 0.0032(5)
+O2 O2- 0.0095(6) 0.0181(7) 0.0193(7) -0.0005(5) 0.0034(5) 0.0053(6)
+O3 O2- 0.0151(6) 0.0104(6) 0.0131(6) -0.0037(5) -0.0024(5) 0.0003(5)
+O4 O2- 0.0249(8) 0.0223(8) 0.0139(7) -0.0001(6) -0.0008(6) -0.0059(6)
+#End of TTdata_281210-ICSD

@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423945-ICSD
+_database_code_ICSD 423945
+_audit_creation_date 2014-02-01
+_chemical_name_systematic
+'Trisodium dihydroxo tetraoxo neptunium(VII) hexahydrate'
+_chemical_formula_structural 'Na3 (Np O4 (O H)2) (H2 O)6'
+_chemical_formula_sum 'H14 Na3 Np1 O12'
+_exptl_crystal_density_diffrn 2.95
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Crystallization of salts M3 [Np O4 (O H)2] * n H2 O (M = Na, K, Rb, Cs) from
+concentrated alkali solutions at low temperatures. Synthesis and structure of
+a new Np(VII) compound, Na3 [Np O4 (O H)2] * 6 H2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Radiochemistry (Moscow, Russian Federation)' 2013 55 5 10 RDIOEO
+loop_
+_publ_author_name
+'Krot, N.N.'
+'Charushnikova, I.A.'
+'Perminov, V.P.'
+'Makarenkov, V.I.'
+_cell_length_a 13.3119(2)
+_cell_length_b 8.8380(2)
+_cell_length_c 11.1036(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.0660(10)
+_cell_angle_gamma 90.
+_cell_volume 1152.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.01
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Np7+ 7
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Np1 Np7+ 4 c 0.25 0.25 0. 0.01090(2) 1 0
+Na1 Na1+ 8 f 0.37173(5) 0.65831(6) 0.11435(5) 0.02590(11) 1 0
+Na2 Na1+ 4 e 0.5 0.08105(9) 0.25 0.02323(15) 1 0
+O1 O2- 8 f 0.34219(8) 0.26665(10) 0.19255(9) 0.02096(17) 1 0
+O2 O2- 8 f 0.19441(8) 0.06278(10) 0.02477(9) 0.01944(16) 1 0
+O3 O2- 8 f 0.10086(8) 0.38077(11) 0.00545(10) 0.02117(17) 1 0
+H1 H1+ 8 f 0.0444(14) 0.340(2) -0.006(2) 0.037(5) 1 0
+O4 O2- 8 f 0.34140(10) 0.82482(12) -0.06259(10) 0.0287(2) 1 0
+H2 H1+ 8 f 0.3319(17) 0.803(2) -0.1382(16) 0.034(5) 1 0
+H3 H1+ 8 f 0.3550(18) 0.9176(17) -0.050(2) 0.040(5) 1 0
+O5 O2- 8 f 0.36777(9) -0.10850(11) 0.22798(10) 0.02449(18) 1 0
+H4 H1+ 8 f 0.3089(15) -0.064(2) 0.1702(18) 0.051(6) 1 0
+H5 H1+ 8 f 0.3625(19) -0.121(3) 0.2978(17) 0.054(7) 1 0
+O6 O2- 8 f 0.43697(9) 0.54557(13) 0.33050(11) 0.0271(2) 1 0
+H6 H1+ 8 f 0.4074(18) 0.563(2) 0.377(2) 0.046(6) 1 0
+H7 H1+ 8 f 0.4222(18) 0.4581(18) 0.302(2) 0.041(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Np1 Np7+ 0.01216(2) 0.01071(2) 0.01072(2) 0.00031(2) 0.00611(2) 0.00015(2)
+Na1 Na1+ 0.0311(3) 0.0245(3) 0.0198(2) -0.0008(2) 0.0100(2) 0.0002(2)
+Na2 Na1+ 0.0200(3) 0.0224(4) 0.0228(3) 0. 0.0064(3) 0.
+O1 O2- 0.0242(4) 0.0218(5) 0.0143(3) -0.0009(3) 0.0070(3) -0.0018(3)
+O2 O2- 0.0224(4) 0.0154(4) 0.0223(4) -0.0025(3) 0.0120(3) 0.0007(3)
+O3 O2- 0.0170(4) 0.0226(4) 0.0267(4) 0.0018(3) 0.0126(3) -0.0023(3)
+O4 O2- 0.0481(6) 0.0203(5) 0.0235(4) -0.0056(4) 0.0216(5) -0.0032(4)
+O5 O2- 0.0297(5) 0.0239(5) 0.0205(4) 0.0002(4) 0.0124(4) 0.0024(3)
+O6 O2- 0.0320(5) 0.0269(5) 0.0298(5) -0.0005(4) 0.0206(4) 0.0005(4)
+#End of TTdata_423945-ICSD

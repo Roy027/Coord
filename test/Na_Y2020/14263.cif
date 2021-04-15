@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14263-ICSD
+_database_code_ICSD 14263
+_audit_creation_date 1980-01-01
+_audit_update_record 1999-01-19
+_chemical_name_systematic 'Sodium scandium catena-disilicate'
+_chemical_formula_structural '(Na Sc) (Si2 O6)'
+_chemical_formula_sum 'Na1 O6 Sc1 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Jervisite
+_exptl_crystal_density_diffrn 3.21
+_publ_section_title 'Refinement of the crystal structure of Na Sc Si2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1973 29 2615 2616 ACBCAR
+loop_
+_publ_author_name
+'Hawthorne, F.C.'
+'Grundy, H.D.'
+_cell_length_a 9.8438(4)
+_cell_length_b 9.0439(4)
+_cell_length_c 5.3540(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.215(2)
+_cell_angle_gamma 90.
+_cell_volume 455.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Na1+ 1
+Sc3+ 3
+Na1+ 1
+Sc3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 f 0.1182(1) 0.0785(2) 0.1455(3) . 1. 0
+O2 O2- 8 f 0.3591(2) 0.2479(2) 0.3072(3) . 1. 0
+O3 O2- 8 f 0.3504(2) 0.0082(2) 0.0179(3) . 1. 0
+Si1 Si4+ 8 f 0.29130(6) 0.08731(6) 0.2439(1) . 1. 0
+Na1 Na1+ 4 e 0 0.89627(6) 0.25 . 0.5 0
+Sc1 Sc3+ 4 e 0 0.89627(6) 0.25 . 0.5 0
+Na2 Na1+ 4 e 0 0.3036(2) 0.25 . 0.5 0
+Sc2 Sc3+ 4 e 0 0.3036(2) 0.25 . 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+O1 O2- 0.00093(11) 0.00205(14) 0.00424(42) -.00017(9) -.00010(17) 0.00028(18)
+O2 O2- 0.00206(13) 0.00189(14) 0.00693(47) -.00080(11) 0.00084(19) -.00045(20)
+O3 O2- 0.00164(13) 0.00249(14) 0.00543(48) 0.00006(11) 0.00071(19) -.00092(20)
+Si1 Si4+ 0.00102(5) 0.00128(5) 0.00362(18) -.00016(4) 0.00032(7) -.00006(7)
+Na1 Na1+ 0.00117(4) 0.00117(5) 0.00390(16) 0 0.00027(6) 0
+Sc1 Sc3+ 0.00117(4) 0.00117(5) 0.00390(16) 0 0.00027(6) 0
+Na2 Na1+ 0.00497(16) 0.00286(15) 0.00773(45) 0 -.00139(21) 0
+Sc2 Sc3+ 0.00497(16) 0.00286(15) 0.00773(45) 0 -.00139(21) 0
+#End of TTdata_14263-ICSD

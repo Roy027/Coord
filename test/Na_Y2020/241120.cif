@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_241120-ICSD
+_database_code_ICSD 241120
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium tetrahydroxotetraborate octahydrate'
+_chemical_formula_structural 'Na2 (B4 O5 (O H)4) (H2 O)8'
+_chemical_formula_sum 'H20 B4 Na2 O17'
+_chemical_name_structure_type Na2B4O5(OH)4(H2O)8
+_chemical_name_mineral Borax
+_exptl_crystal_density_diffrn 1.72
+_cell_measurement_temperature 145.
+_publ_section_title
+'Redetermination of the borax structure from laboratory X-ray data at 145 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2008 64
+i24 i25 ACSEBH
+loop_
+_publ_author_name
+'Gainsford, G.J.'
+'Kemmitt, T.'
+'Higham, C.'
+_cell_length_a 11.8843(5)
+_cell_length_b 10.6026(4)
+_cell_length_c 12.2111(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.790(2)
+_cell_angle_gamma 90.
+_cell_volume 1473.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0246
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0. 0. 0. 0.01676(10) 1 0
+Na2 Na1+ 4 e 0. 0.84795(4) 0.25 0.01796(11) 1 0
+B1 B3+ 8 f 0.08552(6) 0.34499(6) 0.21553(5) 0.01044(13) 1 0
+B2 B3+ 8 f 0.09847(6) 0.45643(6) 0.39269(6) 0.01154(13) 1 0
+O1 O2- 4 e 0. 0.26659(6) 0.25 0.01094(13) 1 0
+O2 O2- 8 f 0.15546(4) 0.41927(4) 0.31574(4) 0.01276(11) 1 0
+O3 O2- 8 f 0.01964(4) 0.43573(4) 0.12445(4) 0.01339(11) 1 0
+O4 O2- 8 f 0.16140(4) 0.27014(5) 0.16772(4) 0.01570(11) 1 0
+O5 O2- 8 f 0.16369(4) 0.51522(5) 0.49130(4) 0.01815(12) 1 0
+O6 O2- 8 f 0.12357(5) 0.84607(5) 0.44846(5) 0.01851(12) 1 0
+O7 O2- 8 f 0.12296(5) 0.00117(5) 0.19548(5) 0.01799(12) 1 0
+O8 O2- 8 f 0.11919(5) 0.16556(5) 0.46252(5) 0.02067(12) 1 0
+O9 O2- 8 f 0.11746(5) 0.70654(6) 0.17227(5) 0.02187(12) 1 0
+H1 H1+ 8 f 0.7717(12) 0.2622(11) 0.2876(12) 0.032(3) 1 0
+H2 H1+ 8 f 0.1187(13) 0.4667(13) 0.0305(12) 0.040(3) 1 0
+H3 H1+ 8 f 0.3089(13) 0.3828(14) 0.0413(12) 0.042(4) 1 0
+H4 H1+ 8 f 0.8662(14) 0.2018(16) 0.4941(13) 0.051(4) 1 0
+H5 H1+ 8 f 0.3098(13) 0.4817(11) 0.3051(12) 0.030(3) 1 0
+H6 H1+ 8 f 0.1304(12) 0.0776(14) 0.2014(12) 0.039(3) 1 0
+H7 H1+ 8 f 0.9099(12) 0.1906(13) 0.1075(11) 0.036(3) 1 0
+H8 H1+ 8 f 0.8131(12) 0.1365(12) 0.0352(11) 0.034(3) 1 0
+H9 H1+ 8 f 0.4018(13) 0.1300(15) 0.3385(12) 0.046(4) 1 0
+H10 H1+ 8 f 0.6140(15) 0.2331(15) 0.1058(14) 0.053(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0165(2) 0.01812(19) 0.0158(2) 0.00057(13) 0.00485(15) 0.00047(13)
+Na2 Na1+ 0.0179(2) 0.0201(2) 0.0176(2) 0. 0.00773(16) 0.
+B1 B3+ 0.0100(3) 0.0121(3) 0.0096(3) 0.0012(2) 0.0035(2) -0.00028(19)
+B2 B3+ 0.0108(3) 0.0133(3) 0.0111(3) -0.0014(2) 0.0040(2) -0.0014(2)
+O1 O2- 0.0117(3) 0.0104(3) 0.0111(3) 0. 0.0037(2) 0.
+O2 O2- 0.0103(2) 0.0168(2) 0.0122(2) -0.00223(15) 0.00493(16) -0.00376(15)
+O3 O2- 0.0103(2) 0.0180(2) 0.0130(2) 0.00309(15) 0.00519(16) 0.00559(15)
+O4 O2- 0.0119(2) 0.0209(2) 0.0142(2) 0.00489(17) 0.00365(17) -0.00434(16)
+O5 O2- 0.0132(2) 0.0275(3) 0.0150(2) -0.00595(18) 0.00593(19) -0.00949(18)
+O6 O2- 0.0146(2) 0.0219(2) 0.0186(2) -0.00109(18) 0.00414(19) 0.00229(18)
+O7 O2- 0.0151(3) 0.0160(2) 0.0232(3) 0.00012(17) 0.0061(2) 0.00003(17)
+O8 O2- 0.0185(3) 0.0242(3) 0.0184(3) 0.00116(19) 0.0039(2) 0.00608(19)
+O9 O2- 0.0217(3) 0.0196(2) 0.0229(3) -0.00047(19) 0.0041(2) -0.00352(19)
+#End of TTdata_241120-ICSD

@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202369-ICSD
+_database_code_ICSD 202369
+_audit_creation_date 1988-05-17
+_audit_update_record 1997-05-13
+_chemical_name_systematic 'Sodium tetraarsenic hexaoxide bromide'
+_chemical_formula_structural 'Na As4 O6 Br'
+_chemical_formula_sum 'As4 Br1 Na1 O6'
+_chemical_name_structure_type Pb2(AsO2)3Cl
+_exptl_crystal_density_diffrn 4.14
+_publ_section_title 'The crystal structure of Na As4 O6 Br'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1987 70 225 228 JSSCBI
+loop_
+_publ_author_name
+'Pertlik, F.'
+_cell_length_a 5.237(1)
+_cell_length_b 8.043(1)
+_cell_length_c 18.978(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 799.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m c n'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x+1/2, y, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x+1/2, -y, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As3+ 3
+Br1- -1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As3+ 4 c 0.75 0.16475(7) 0.88525(4) . 1. 0
+As2 As3+ 4 c 0.75 0.65321(7) 0.04713(4) . 1. 0
+As3 As3+ 4 c 0.75 0.40912(7) 0.17856(4) . 1. 0
+As4 As3+ 4 c 0.75 0.78978(7) 0.83407(3) . 1. 0
+Br1 Br1- 4 c 0.75 0.49657(8) 0.71646(4) . 1. 0
+Na1 Na1+ 4 c 0.75 0.4016(3) 0.5563(1) . 1. 0
+O1 O2- 4 c 0.75 0.9467(5) 0.9036(2) . 1. 0
+O2 O2- 4 c 0.25 0.3902(4) 0.8607(2) . 1. 0
+O3 O2- 8 d 0.0020(5) 0.6757(3) 0.8778(1) . 1. 0
+O4 O2- 8 d 0.9972(5) 0.1949(3) 0.9512(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As3+ 0.0190(2) 0.0187(2) 0.0174(3) 0 0 0.0015(2)
+As2 As3+ 0.0175(2) 0.0178(2) 0.0242(4) 0 0 -.0038(2)
+As3 As3+ 0.0161(2) 0.0179(2) 0.0192(3) 0 0 0.0003(2)
+As4 As3+ 0.0155(2) 0.0178(2) 0.0185(3) 0 0 -.0009(2)
+Br1 Br1- 0.0243(2) 0.0286(3) 0.0318(4) 0 0 -.0096(3)
+Na1 Na1+ 0.0302(13) 0.0329(13) 0.0241(16) 0 0 0.0004(12)
+O1 O2- 0.0322(22) 0.0167(17) 0.0222(26) 0 0 -.0048(17)
+O2 O2- 0.028(2) 0.0166(16) 0.0293(27) 0 0 0.0036(18)
+O3 O2- 0.0164(11) 0.0246(12) 0.0187(15) 0.0044(10) 0.0033(12) 0.0000(11)
+O4 O2- 0.0218(12) 0.0319(13) 0.0206(16) -.0074(11) -.0030(13) 0.0051(12)
+#End of TTdata_202369-ICSD

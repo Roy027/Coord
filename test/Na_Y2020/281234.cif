@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281234-ICSD
+_database_code_ICSD 281234
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Hexasodium dodecathiotetrastannocadmate'
+_chemical_formula_structural 'Na6 (Cd Sn4 S12)'
+_chemical_formula_sum 'Cd1 Na6 S12 Sn4'
+_exptl_crystal_density_diffrn 3.65
+_publ_section_title
+
+;
+First examples of sulfides in the quaternary A/Cd/Sn/S (A = Li, Na) systems:
+molten flux synthesis and single crystal X-ray structures of Li2 Cd Sn S4, Na2
+Cd Sn S4 and Na6 Cd Sn4 S12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Chemical Society, Dalton Transactions' 2002 2002 2092
+2096 JCSDAA
+loop_
+_publ_author_name
+'Suseela Devi, M.'
+'Vidyasagar, K.'
+_cell_length_a 6.622(4)
+_cell_length_b 11.489(8)
+_cell_length_c 6.999(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.56(4)
+_cell_angle_gamma 90.
+_cell_volume 504.79
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0243
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+Cd2+ 2
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 4 h 0 0.16754(3) 0.5 0.0063(3) 1. 0
+Cd1 Cd2+ 2 d 0.5 0 0.5 0.0187(4) 0.5 0
+S1 S2- 4 i 0.2166(3) 0 0.7186(3) 0.0096(4) 1. 0
+S2 S2- 8 j 0.2471(2) 0.17855(11) 0.2809(2) 0.0105(4) 1. 0
+Na1 Na1+ 4 g 0.5 0.1601(2) 0 0.0177(9) 1. 0
+Na2 Na1+ 2 a 0 0 0 0.0177(10) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn4+ 0.0069(4) 0.0056(4) 0.0066(4) 0 0.0025(2) 0
+Cd1 Cd2+ 0.0158(8) 0.0145(8) 0.0264(9) 0 0.0078(7) 0
+S1 S2- 0.0145(8) 0.0081(8) 0.0049(7) 0 0.0013(6) 0
+S2 S2- 0.0116(7) 0.0145(7) 0.0054(7) -0.0040(4) 0.0029(5) -0.0018(4)
+Na1 Na1+ 0.018(2) 0.017(2) 0.015(2) 0 0.0016(14) 0
+Na2 Na1+ 0.021(2) 0.020(2) 0.015(2) 0 0.010(2) 0
+#End of TTdata_281234-ICSD

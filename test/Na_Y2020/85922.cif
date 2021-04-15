@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85922-ICSD
+_database_code_ICSD 85922
+_audit_creation_date 1999-11-30
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Sodium gallium ditellurium oxide'
+_chemical_formula_structural 'Na Ga Te2 O6'
+_chemical_formula_sum 'Ga1 Na1 O6 Te2'
+_chemical_name_structure_type NaGa(TeO3)2
+_exptl_crystal_density_diffrn 5.45
+_publ_section_title
+
+;
+Crystal structure of Na Ga Te2 O6 : aspects of Ten Om polyhedral
+polymerization in a layer tellurite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1998 268 107 111 JALCEU
+loop_
+_publ_author_name
+'Miletich, R.'
+'Pertlik, F.'
+_cell_length_a 7.8402(4)
+_cell_length_b 10.3265(5)
+_cell_length_c 13.3696(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1082.43
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P c a b'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y+1/2, -z+1/2'
+3 '-x+1/2, y, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y+1/2, z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ga3+ 3
+Te4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.8271(5) 0.2428(3) 0.6438(3) . 1. 0
+Ga1 Ga3+ 8 c 0.3066(1) 0.4975(1) -.0199(1) . 1. 0
+Te1 Te4+ 8 c 0.54743(5) 0.28966(4) 0.42627(3) . 1. 0
+Te2 Te4+ 8 c 0.07985(5) 0.00898(4) 0.76702(3) . 1. 0
+O1 O2- 8 c 0.3215(6) 0.3408(4) 0.4529(4) . 1. 0
+O2 O2- 8 c 0.4263(7) 0.1871(5) 0.2655(4) . 1. 0
+O3 O2- 8 c 0.3683(7) 0.1246(4) 0.0414(4) . 1. 0
+O4 O2- 8 c 0.5011(7) 0.1283(4) 0.4913(4) . 1. 0
+O5 O2- 8 c 0.3730(7) 0.0264(5) 0.6633(4) . 1. 0
+O6 O2- 8 c 0.2642(7) 0.4787(5) 0.1273(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0364(19) 0.0121(12) 0.0262(15) -.0030(8) -.0036(9) 0.0015(5)
+Ga1 Ga3+ 0.0117(3) 0.0060(2) 0.0122(3) 0.0004(1) 0.0000(1) -.0002(1)
+Te1 Te4+ 0.0107(2) 0.0052(1) 0.0112(2) -.0002(1) 0.0000(1) 0.0002(1)
+Te2 Te4+ 0.0125(2) 0.0074(1) 0.0112(2) 0.0000(1) 0.0003(1) -.0005(1)
+O1 O2- 0.0132(20) 0.0040(16) 0.0216(23) 0.0011(8) 0.0003(10) -.0010(7)
+O2 O2- 0.0243(25) 0.0084(17) 0.0162(21) -.0015(10) -.0003(11) 0.0001(7)
+O3 O2- 0.0197(22) 0.0070(17) 0.0137(20) -.0007(9) -.0003(10) 0.0009(7)
+O4 O2- 0.0102(17) 0.0069(16) 0.0170(21) -.0004(9) 0.0012(9) 0.0017(7)
+O5 O2- 0.0186(22) 0.0131(19) 0.0100(19) 0.0006(10) -.0011(10) -.0004(7)
+O6 O2- 0.0157(20) 0.0147(20) 0.0100(19) -.0005(10) 0.0000(9) -.0003(7)
+#End of TTdata_85922-ICSD

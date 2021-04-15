@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_402604-ICSD
+_database_code_ICSD 402604
+_audit_creation_date 1997-11-10
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Sodium barium hexafluoroaluminate'
+_chemical_formula_structural 'Na Ba (Al F6)'
+_chemical_formula_sum 'Al1 Ba1 F6 Na1'
+_chemical_name_structure_type NaSrAlF6
+_exptl_crystal_density_diffrn 3.99
+_publ_section_title
+'Crystal structure of sodium barium aluminiumhexafluoride, Na Ba Al F6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 1997 212 89
+90 ZKNSFT
+loop_
+_publ_author_name
+'Kubel, F.'
+'Hagemann, H.'
+'Bill, H.'
+_cell_length_a 18.6429(30)
+_cell_length_b 5.437(1)
+_cell_length_c 9.892(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1002.67
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+F1- -1
+Na1+ 1
+F1- -1
+Ba2+ 2
+F1- -1
+Al3+ 3
+F1- -1
+Na1+ 1
+F1- -1
+Al3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+F1 F1- 4 a 0.0320(4) 0.009(1) 0.0009(8) . 1. 0
+F2 F1- 4 a 0.0376(4) 0.455(1) 0.6735(8) . 1. 0
+F3 F1- 4 a 0.0539(5) 0.214(1) 0.2281(7) . 1. 0
+F4 F1- 4 a 0.0580(4) 0.468(1) 0.0060(8) . 1. 0
+Na1 Na1+ 4 a 0.0656(4) 0.2394(9) 0.4626(6) . 1. 0
+F5 F1- 4 a 0.0699(4) 0.671(1) 0.4520(7) . 1. 0
+Ba1 Ba2+ 4 a 0.11205(5) 0.7413(1) 0.1979 . 1. 0
+Ba2 Ba2+ 4 a 0.13846(6) 0.2354(1) 0.82865(9) . 1. 0
+F6 F1- 4 a 0.1787(5) 0.050(1) 0.3662(8) . 1. 0
+F7 F1- 4 a 0.1830(5) 0.312(1) 0.5752(7) . 1. 0
+F8 F1- 4 a 0.2107(5) 0.520(1) 0.3487(7) . 1. 0
+F9 F1- 4 a 0.2162(4) 0.505(1) 0.0280(7) . 1. 0
+Al1 Al3+ 4 a 0.2454(3) 0.2510(7) 0.4347(4) . 1. 0
+F10 F1- 4 a 0.3056(4) 0.453(1) 0.5214(7) . 1. 0
+F11 F1- 4 a 0.3070(5) 0.202(2) 0.3042(8) . 1. 0
+Na2 Na1+ 4 a 0.3122(4) 0.241(1) 0.0674(6) . 1. 0
+F12 F1- 4 a 0.4255(4) 0.423(1) 0.1559(8) . 1. 0
+Al2 Al3+ 4 a 0.4910(3) 0.2304(7) 0.0872(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+F1 F1- 0.024(5) 0.016(6) 0.034(5) -0.004(4) 0.008(4) -0.012(4)
+F2 F1- 0.031(5) 0.014(5) 0.023(5) 0.008(4) 0.001(4) -0.002(4)
+F3 F1- 0.020(5) 0.029(5) 0.014(5) 0.008(4) -0.003(4) 0.006(4)
+F4 F1- 0.022(5) 0.030(6) 0.024(5) -0.010(4) -0.002(5) -0.007(4)
+Na1 Na1+ 0.022(4) 0.024(5) 0.023(4) -0.006(3) -0.007(4) -0.001(3)
+F5 F1- 0.022(5) 0.017(5) 0.027(5) 0.008(5) 0.009(5) 0.019(4)
+Ba1 Ba2+ 0.0156(6) 0.0127(7) 0.0113(5) -0.0005(4) 0.0013(5) 0.0003(5)
+Ba2 Ba2+ 0.0217(7) 0.0144(7) 0.0117(6) 0.0007(4) -0.0022(5) 0.0002(5)
+F6 F1- 0.030(5) 0.017(5) 0.025(5) -0.004(4) -0.009(4) -0.009(4)
+F7 F1- 0.029(6) 0.020(6) 0.017(5) -0.003(5) 0.006(4) -0.015(4)
+F8 F1- 0.032(5) 0.023(5) 0.015(5) 0.009(4) -0.009(4) 0.004(4)
+F9 F1- 0.022(5) 0.016(6) 0.012(4) -0.004(4) -0.001(4) 0.004(4)
+Al1 Al3+ 0.022(3) 0.012(4) 0.008(3) -0.003(2) 0.004(3) 0.002(2)
+F10 F1- 0.026(4) 0.012(4) 0.013(5) -0.001(4) -0.017(4) 0.005(4)
+F11 F1- 0.033(6) 0.037(5) 0.024(5) 0.016(5) 0.012(5) 0.020(5)
+Na2 Na1+ 0.030(4) 0.025(5) 0.021(4) 0.002(3) -0.008(4) -0.001(3)
+F12 F1- 0.033(5) 0.006(5) 0.029(5) 0.010(4) 0.009(4) 0.001(4)
+Al2 Al3+ 0.010(3) 0.016(3) 0.015(3) -0.005(2) 0.002(3) 0.003(2)
+#End of TTdata_402604-ICSD

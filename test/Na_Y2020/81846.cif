@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81846-ICSD
+_database_code_ICSD 81846
+_audit_creation_date 1999-11-30
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Sodium barium calcium nitride (17/14/1/6)'
+_chemical_formula_structural 'Na17 Ba14 Ca N6'
+_chemical_formula_sum 'Ba14 Ca1 N6 Na17'
+_exptl_crystal_density_diffrn 2.58
+_publ_section_title 'Subnitrides with the new cluster Ba14 Ca N6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Chemical Society, Faraday Transactions' 1996 92 2117
+2123 JCFTEV
+loop_
+_publ_author_name
+'Simon, A.'
+'Steinbrenner, U.'
+_cell_length_a 11.142(5)
+_cell_length_b 12.065(5)
+_cell_length_c 13.725(6)
+_cell_angle_alpha 66.65(3)
+_cell_angle_beta 67.79(3)
+_cell_angle_gamma 78.88(3)
+_cell_volume 1566.23
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba0+ 0
+Ca0+ 0
+Na0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba0+ 2 i 0.37042(4) 0.77699(3) 0.44611(4) . 1. 0
+Ba2 Ba0+ 2 i 0.27796(4) 0.31073(4) 0.69482(3) . 1. 0
+Ba3 Ba0+ 2 i 0.26333(4) 0.52044(4) 0.40657(4) . 1. 0
+Ba4 Ba0+ 2 i 0.38608(4) 0.56803(4) 0.73138(3) . 1. 0
+Ba5 Ba0+ 2 i 0.34365(5) 0.16461(4) 0.45692(4) . 1. 0
+Ba6 Ba0+ 2 i 0.47616(5) 0.78598(4) 0.12267(4) . 1. 0
+Ba7 Ba0+ 2 i 0.03338(4) 0.61652(4) 0.67623(4) . 1. 0
+Ca1 Ca0+ 1 h 0.5 0.5 0.5 . 1. 0
+Na1 Na0+ 1 b 0 0 0.5 . 1. 0
+Na2 Na0+ 2 i 0.2370(4) 0.0958(4) 0.2096(4) . 1. 0
+Na3 Na0+ 2 i 0.6304(4) 0.5986(4) 0.8944(4) . 1. 0
+Na4 Na0+ 2 i 0.0401(4) 0.8144(4) 0.3113(4) . 1. 0
+Na5 Na0+ 2 i 0.1373(4) 0.8930(4) 0.7532(4) . 1. 0
+Na6 Na0+ 2 i 0.5870(4) 0.0861(4) 0.1870(4) . 1. 0
+Na7 Na0+ 2 i 0.9052(5) 0.6444(4) 0.9846(4) . 1. 0
+Na8 Na0+ 2 i 0.8520(5) 0.9712(5) 0.9925(4) . 1. 0
+Na9 Na0+ 2 i 0.1693(5) 0.6887(5) 0.0560(5) . 1. 0
+N1 N0+ 2 i 0.4886(5) 0.6425(5) 0.3062(5) . 1. 0
+N2 N0+ 2 i 0.4260(5) 0.3281(5) 0.4757(5) . 1. 0
+N3 N0+ 2 i 0.7371(5) 0.4410(5) 0.4071(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba0+ 0.0420(2) 0.0324(2) 0.0428(2) -.0022(2) -.0153(2) -.0141(2)
+Ba2 Ba0+ 0.0386(2) 0.0398(2) 0.0380(2) -.0068(2) -.0093(2) -.0127(2)
+Ba3 Ba0+ 0.0372(2) 0.0420(2) 0.0448(2) 0.0004(2) -.0190(2) -.0175(2)
+Ba4 Ba0+ 0.0413(2) 0.0437(2) 0.0369(2) -.0011(2) -.0120(2) -.0192(2)
+Ba5 Ba0+ 0.0556(3) 0.0417(2) 0.0568(3) -.0081(2) -.0193(2) -.0238(2)
+Ba6 Ba0+ 0.0547(3) 0.0497(3) 0.0369(2) 0.0005(2) -.0190(2) -.0091(2)
+Ba7 Ba0+ 0.0323(2) 0.0592(3) 0.0538(3) 0.0023(2) -.0088(2) -.0243(2)
+Ca1 Ca0+ 0.032(1) 0.031(1) 0.034(1) -.001(1) -.012(1) -.012(1)
+Na1 Na0+ 0.065(1) 0.075(1) 0.083(1) -.002(3) -.022(3) -.023(3)
+Na2 Na0+ 0.069(2) 0.081(3) 0.076(3) -.003(2) -.023(2) -.026(2)
+Na3 Na0+ 0.082(3) 0.098(3) 0.069(2) -.019(2) -.019(2) -.035(2)
+Na4 Na0+ 0.060(2) 0.075(3) 0.101(3) 0.006(2) -.029(2) -.026(2)
+Na5 Na0+ 0.080(3) 0.076(3) 0.089(3) 0.003(2) -.029(2) -.029(2)
+Na6 Na0+ 0.077(3) 0.083(3) 0.066(2) -.010(2) -.014(2) -.024(2)
+Na7 Na0+ 0.090(3) 0.104(3) 0.062(2) -.008(2) -.017(2) -.031(2)
+Na8 Na0+ 0.099(3) 0.097(3) 0.087(3) -.007(3) -.018(3) -.038(3)
+Na9 Na0+ 0.113(4) 0.094(3) 0.102(4) -.035(3) -.044(3) -.008(3)
+N1 N0+ 0.038(3) 0.038(3) 0.038(3) 0.000(2) -.016(2) -.012(2)
+N2 N0+ 0.040(3) 0.038(3) 0.044(3) -.001(2) -.016(3) -.018(3)
+N3 N0+ 0.037(3) 0.039(3) 0.042(3) -.001(2) -.014(2) -.020(3)
+#End of TTdata_81846-ICSD

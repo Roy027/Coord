@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193199-ICSD
+_database_code_ICSD 193199
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Disodium diuranate(VI)'
+_chemical_formula_structural 'Na2 (U2 O7)'
+_chemical_formula_sum 'Na2 O7 U2'
+_exptl_crystal_density_diffrn 6.47
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structure of alpha- and beta-Na2 U2 O7: From Rietveld refinement using
+powder neutron diffraction data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 221 1 4 JSSCBI
+loop_
+_publ_author_name
+'Ijdo, D.J.W.'
+'Akerboom, S.'
+'Bontenbal, A.'
+_cell_length_a 12.7617(14)
+_cell_length_b 7.8384(10)
+_cell_length_c 6.9862(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.285(9)
+_cell_angle_gamma 90.
+_cell_volume 651.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0331
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+U6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0 0.35(24) 1. 0
+Na2 Na1+ 2 c 0.5 0 0 0.35(24) 1. 0
+Na3 Na1+ 4 e -0.026(1) 0.258(2) 0.492(4) 0.35(24) 1. 0
+U1 U6+ 4 e 0.246(1) 0.262(1) 0.008(2) 0.60(11) 1. 0
+U2 U6+ 4 e 0.2415(7) 0.017(1) 0.470(1) 0.60(11) 1. 0
+O1 O2- 4 e 0.231(2) -0.038(2) 0.123(2) 1.76(20) 1. 0
+O2 O2- 4 e 0.260(2) 0.681(1) 0.302(3) 1.76(20) 1. 0
+O3 O2- 4 e 0.273(1) 0.270(2) 0.347(2) 1.76(20) 1. 0
+O4 O2- 4 e 0.406(2) 0.764(2) 0.090(3) 1.63(11) 1. 0
+O5 O2- 4 e 0.402(2) 0.206(2) 0.099(3) 1.63(11) 1. 0
+O6 O2- 4 e 0.409(1) 0.526(2) 0.625(2) 1.63(11) 1. 0
+O7 O2- 4 e 0.410(2) 0.091(2) 0.577(2) 1.63(11) 1. 0
+#End of TTdata_193199-ICSD

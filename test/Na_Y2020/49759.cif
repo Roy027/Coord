@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_49759-ICSD
+_database_code_ICSD 49759
+_audit_creation_date 1986-12-03
+_audit_update_record 2012-08-01
+_chemical_name_systematic
+'Sodium tecto-hexaalumohexasilicate sulfate(VI) sulfide *'
+_chemical_formula_structural 'Na8.56 (Al6 Si6 O24) (S O4)1.56 S0.44'
+_chemical_formula_sum 'Al6 Na8.56 O30.24 S2 Si6'
+_chemical_name_structure_type Sodalite-frame
+_chemical_name_mineral 'Lazurite 1C'
+_exptl_crystal_density_diffrn 2.37
+_publ_section_title
+
+;
+The structure of lazurite, ideally Na6 Ca2 (Al6 Si6 O24) S2, a member of the
+sodalite group
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1985 41 827 832 ACSCEE
+loop_
+_publ_author_name
+'Hassan, I.'
+'Peterson, R.C.'
+'Grundy, H.D.'
+_cell_length_a 9.105(2)
+_cell_length_b 9.105(2)
+_cell_length_c 9.105(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 754.81
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_symmetry_Int_Tables_number 218
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, y+1/2, -x+1/2'
+2 '-y+1/2, x+1/2, -z+1/2'
+3 '-x+1/2, z+1/2, -y+1/2'
+4 'z+1/2, -y+1/2, -x+1/2'
+5 'y+1/2, -x+1/2, -z+1/2'
+6 'x+1/2, -z+1/2, -y+1/2'
+7 '-z+1/2, -y+1/2, x+1/2'
+8 '-y+1/2, -x+1/2, z+1/2'
+9 '-x+1/2, -z+1/2, y+1/2'
+10 'z+1/2, y+1/2, x+1/2'
+11 'y+1/2, x+1/2, z+1/2'
+12 'x+1/2, z+1/2, y+1/2'
+13 '-z, -x, y'
+14 '-y, -z, x'
+15 '-x, -y, z'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 '-z, x, -y'
+20 '-y, z, -x'
+21 '-x, y, -z'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Si4+ 4
+O2- -2
+Na1+ 1
+S4+ 4.96
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 6 d 0.25 0 0.5 . 1. 0
+Si1 Si4+ 6 c 0.25 0.5 0 . 1. 0
+O1 O2- 24 i 0.133(2) 0.147(2) 0.545(2) 0.039(4) 0.5 0
+O2 O2- 24 i 0.157(2) 0.158(2) 0.474(2) 0.039(3) 0.5 0
+Na1 Na1+ 8 e 0.178(2) 0.178(2) 0.178(2) 0.052(9) 0.35 0
+Na2 Na1+ 8 e 0.231(1) 0.231(1) 0.231(1) 0.041(4) 0.5 0
+Na3 Na1+ 8 e 0.305(3) 0.305(3) 0.305(3) 0.035(8) 0.22 0
+S1 S4+ 2 a 0 0 0 0.168(9) 1. 0
+O3 O2- 8 e 0.598(2) 0.598(2) 0.598(2) 0.192(22) 0.78 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al3+ 0.062(5) 0.019(1) 0.019(1) 0 0 0
+Si1 Si4+ 0.013(2) 0.052(2) 0.052(2) 0 0 0
+#End of TTdata_49759-ICSD

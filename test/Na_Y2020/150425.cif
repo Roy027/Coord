@@ -1,0 +1,75 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150425-ICSD
+_database_code_ICSD 150425
+_audit_creation_date 2006-04-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic
+'Calcium sodium titanium tantalum oxide (0.5/0.5/0.5/0.5/3)'
+_chemical_formula_structural '(Ca0.5 Na0.5) ((Ti0.5 Ta0.5) O3)'
+_chemical_formula_sum 'Ca0.5 Na0.5 O3 Ta0.5 Ti0.5'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 5.59
+_publ_section_title
+'A structural study of the perovskite series Ca1-x Nax Ti1-x Tax O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 4420 4427 JSSCBI
+loop_
+_publ_author_name
+'Mitchell, R.H.'
+'Liferovich, R.P.'
+_cell_length_a 5.43749(8)
+_cell_length_b 5.48508(8)
+_cell_length_c 7.72945(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 230.53
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0183
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+Ti4+ 4
+Ta5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 c 0.9946(17) 0.0264(10) 0.25 1.22(7) 0.5 0
+Na1 Na1+ 4 c 0.9946(17) 0.0264(10) 0.25 1.22(7) 0.5 0
+Ti1 Ti4+ 4 b 0 0.5 0 0.36(1) 0.5 0
+Ta1 Ta5+ 4 b 0 0.5 0 0.36(1) 0.5 0
+O1 O2- 4 c 0.0643(17) 0.4880(27) 0.25 0.68(10) 1. 0
+O2 O2- 8 d 0.7300(18) 0.2937(13) 0.0369(10) 0.68(10) 1. 0
+#End of TTdata_150425-ICSD

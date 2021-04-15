@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_40309-ICSD
+_database_code_ICSD 40309
+_audit_creation_date 2001-07-16
+_audit_update_record 2009-02-01
+_chemical_name_systematic
+'Sodium calcium neodymium catena-silicate (6.32/2.36/0.32/6)'
+_chemical_formula_structural 'Na5 (Na1.32 Ca0.68) (Nd0.32 Ca1.68) (Si O3)6'
+_chemical_formula_sum 'Ca2.36 Na6.32 Nd0.32 O18 Si6'
+_exptl_crystal_density_diffrn 2.95
+_publ_section_title
+
+;
+Crystal structure and microtwinning of Na5 (Na0.5+x Ca0.5-x)2 (Ndx Ca1-x)2
+(Si6 O18)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1989 34 310 315 KRISAJ
+loop_
+_publ_author_name
+'Tamazyan, R.A.'
+'Malinovskii, Yu.A.'
+_cell_length_a 7.501(5)
+_cell_length_b 14.926(5)
+_cell_length_c 7.466(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 91.79(3)
+_cell_volume 835.48
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 '-x, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Ca2+ 2
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 4 e 0.0073(1) 0.7550(1) 0.5116(1) 0.68(3) 0.16 0
+Ca1 Ca2+ 4 e 0.0073(1) 0.7550(1) 0.5116(1) 0.68(3) 0.84 0
+Ca2 Ca2+ 4 e 0.7464(1) 0.8747(1) 0.7647(1) 1.02(3) 0.34 0
+Na1 Na1+ 4 e 0.7464(1) 0.8747(1) 0.7647(1) 1.02(3) 0.66 0
+Na2 Na1+ 4 e 0.4825(1) 0.7542(1) 0.0334(2) 1.82(3) 1. 0
+Na3 Na1+ 2 c 0 0 0.5 2.97(3) 1. 0
+Na4 Na1+ 2 d 0.5 0 0 2.55(3) 1. 0
+Na5 Na1+ 2 a 0 0 0 1.81(3) 1. 0
+Si1 Si4+ 4 e 0.2862(1) 0.8836(1) 0.2938(1) 0.56(3) 1. 0
+Si2 Si4+ 4 e 0.7161(1) 0.8922(1) 0.2647(1) 0.57(3) 1. 0
+Si3 Si4+ 4 e 0.2616(1) 0.8931(1) 0.7285(1) 0.62(3) 1. 0
+O1 O2- 4 e 0.2518(4) 0.0007(1) 0.7714(2) 1.86(3) 1. 0
+O2 O2- 4 e 0.2198(3) 0.9719(1) 0.2055(3) 2.17(3) 1. 0
+O3 O2- 4 e 0.0776(2) 0.8484(1) 0.7954(2) 1.14(3) 1. 0
+O4 O2- 4 e 0.1996(3) 0.7894(1) 0.2293(2) 1.07(3) 1. 0
+O5 O2- 4 e 0.2421(3) 0.8844(1) 0.5095(2) 2.13(3) 1. 0
+O6 O2- 4 e 0.4417(3) 0.8547(1) 0.7989(3) 1.98(3) 1. 0
+O7 O2- 4 e 0.5012(3) 0.8744(2) 0.2759(3) 2.73(3) 1. 0
+O8 O2- 4 e 0.7785(2) 0.8438(1) 0.0858(2) 1.26(3) 1. 0
+O9 O2- 4 e 0.8034(3) 0.8649(1) 0.4499(2) 1.79(3) 1. 0
+#End of TTdata_40309-ICSD

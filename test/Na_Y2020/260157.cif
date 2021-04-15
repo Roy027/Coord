@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260157-ICSD
+_database_code_ICSD 260157
+_audit_creation_date 2009-08-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Sodium dioxomolybdenum(VI) arsenate(V) - beta'
+_chemical_formula_structural 'Na (Mo O2) (As O4)'
+_chemical_formula_sum 'As1 Mo1 Na1 O6'
+_chemical_name_structure_type NaMoO2AsO4
+_exptl_crystal_density_diffrn 3.88
+_cell_measurement_temperature 298.
+_publ_section_title 'La variete beta - Na Mo O2 (As O4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2009 65
+i11 i11 ACSEBH
+loop_
+_publ_author_name
+'Ben Hlila, S.'
+'Faouzi Zid, M.'
+'Driss, A.'
+_cell_length_a 10.147(2)
+_cell_length_b 6.597(2)
+_cell_length_c 7.420(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 496.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+As5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 c 0.32396(4) 0.25 0.44866(5) 0.00991(16) 1 0
+As1 As5+ 4 c 0.16109(5) 0.25 1.03646(5) 0.00844(16) 1 0
+Na1 Na1+ 8 d 0.5123(3) 0.0151(6) 0.8833(4) 0.0280(7) 0.5 0
+O1 O2- 4 c 0.6584(3) 0.25 1.0056(5) 0.0213(8) 1 0
+O2 O2- 4 c 0.5243(3) 0.25 0.3365(4) 0.0148(7) 1 0
+O3 O2- 4 c 0.3009(3) 0.25 0.1573(4) 0.0120(6) 1 0
+O4 O2- 4 c 0.3898(3) 0.25 0.6593(4) 0.0227(8) 1 0
+O5 O2- 8 d 0.1628(2) 0.0465(4) 0.8960(3) 0.0172(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0098(2) 0.0112(2) 0.0087(2) 0. -0.00007(14) 0.
+As1 As5+ 0.0085(2) 0.0086(3) 0.0082(2) 0. -0.00054(16) 0.
+Na1 Na1+ 0.0261(17) 0.0240(18) 0.0339(15) -0.0048(12) -0.0057(12) -0.0035(17)
+O1 O2- 0.0145(17) 0.031(2) 0.0178(15) 0. -0.0009(13) 0.
+O2 O2- 0.0092(14) 0.0224(19) 0.0128(15) 0. -0.0022(13) 0.
+O3 O2- 0.0100(14) 0.0131(16) 0.0129(14) 0. -0.0022(12) 0.
+O4 O2- 0.0163(17) 0.039(2) 0.0124(14) 0. -0.0019(13) 0.
+O5 O2- 0.0231(13) 0.0128(11) 0.0158(10) -0.0016(10) -0.0028(9) -0.0042(10)
+#End of TTdata_260157-ICSD

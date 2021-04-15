@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239705-ICSD
+_database_code_ICSD 239705
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Digallium disodium zinc hexasulfide'
+_chemical_formula_structural 'Ge2 Na2 Zn S6'
+_chemical_formula_sum 'Ge2 Na2 S6 Zn1'
+_chemical_name_structure_type Na2CdGe2S6
+_exptl_crystal_density_diffrn 2.99
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Syntheses and structural characterization of non-centrosymmetric Na2 M2 M'S6
+(M, M'=Ga, In, Si, Ge, Sn, Zn, Cd) sulfides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 238 147 155 JSSCBI
+loop_
+_publ_author_name
+'Yohannan, Jinu P.'
+'Vidyasagar, Kanamaluru'
+_cell_length_a 7.2630(2)
+_cell_length_b 12.3404(4)
+_cell_length_c 11.3057(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.959(2)
+_cell_angle_gamma 90.
+_cell_volume 998.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0319
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ge4+ 4
+Zn2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.9744(6) 0.1962(4) 0.3877(4) 0.0638(12) 1 0
+Na2 Na1+ 4 a 0.5636(7) 0.0126(4) 0.5147(4) 0.0760(13) 1 0
+Ge1 Ge4+ 4 a 0.20033(8) 0.02617(6) 0.74935(6) 0.01713(17) 1 0
+Ge2 Ge4+ 4 a 0.03134(9) 0.13852(6) 0.99612(7) 0.01958(18) 1 0
+Zn1 Zn2+ 4 a 0.40678(10) 0.24267(7) 0.22014(7) 0.0211(2) 1 0
+S1 S2- 4 a 0.2049(2) 0.19404(14) 0.69569(17) 0.0204(4) 1 0
+S2 S2- 4 a 0.7765(2) 0.16634(16) 0.86828(17) 0.0239(4) 1 0
+S3 S2- 4 a 0.9435(2) 0.06412(16) 0.15935(18) 0.0253(4) 1 0
+S4 S2- 4 a 0.7115(3) 0.22062(15) 0.53684(16) 0.0236(4) 1 0
+S5 S2- 4 a 0.4636(2) 0.05650(15) 0.24079(17) 0.0255(5) 1 0
+S6 S2- 4 a 0.1794(3) 0.0002(2) 0.9370(2) 0.0426(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.053(2) 0.059(3) 0.088(3) -0.006(2) 0.038(2) -0.018(2)
+Na2 Na1+ 0.086(3) 0.061(3) 0.079(3) -0.022(3) 0.009(3) 0.017(2)
+Ge1 Ge4+ 0.0156(3) 0.0110(4) 0.0236(4) 0.0001(3) -0.0002(3) 0.0001(3)
+Ge2 Ge4+ 0.0153(4) 0.0158(4) 0.0253(4) -0.0020(3) -0.0031(3) 0.0023(3)
+Zn1 Zn2+ 0.0213(4) 0.0167(5) 0.0236(5) -0.0044(4) -0.0008(3) 0.0017(4)
+S1 S2- 0.0212(9) 0.0093(9) 0.0311(10) 0.0011(7) 0.0058(8) 0.0023(8)
+S2 S2- 0.0150(8) 0.0275(11) 0.0266(11) -0.0005(8) -0.0041(7) 0.0026(9)
+S3 S2- 0.0159(9) 0.0235(11) 0.0352(11) 0.0025(8) 0.0012(8) 0.0094(9)
+S4 S2- 0.0253(9) 0.0193(11) 0.0223(10) 0.0076(8) -0.0070(8) -0.0025(8)
+S5 S2- 0.0167(9) 0.0152(10) 0.0417(12) -0.0035(7) -0.0030(8) 0.0047(9)
+S6 S2- 0.0450(13) 0.0456(15) 0.0385(13) 0.0005(11) 0.0109(11) -0.0089(11)
+#End of TTdata_239705-ICSD

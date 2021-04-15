@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78534-ICSD
+_database_code_ICSD 78534
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Pentasodium yttrium molybdate'
+_chemical_formula_structural 'Na5 Y (Mo O4)4'
+_chemical_formula_sum 'Mo4 Na5 O16 Y1'
+_chemical_name_structure_type Na5Lu(WO4)4
+_exptl_crystal_density_diffrn 3.79
+_publ_section_title
+
+;
+Crystal structures of two sodium yttrium molybdates: Na Y (Mo O4)2 and Na5 Y
+(Mo O4)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 1994 4 707 711 JMACEP
+loop_
+_publ_author_name
+'Stedman, N.J.'
+'Cheetham, A.K.'
+'Battle, P.D.'
+_cell_length_a 11.374(3)
+_cell_length_b 11.374(3)
+_cell_length_c 11.440(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1479.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a Z'
+_symmetry_Int_Tables_number 88
+_refine_ls_R_factor_all 0.0443
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+3/4, x+3/4, -z+3/4'
+2 'y+1/4, -x+3/4, -z+3/4'
+3 'x, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/4, -x+1/4, z+1/4'
+6 '-y+3/4, x+1/4, z+1/4'
+7 '-x, -y+1/2, z'
+8 'x, y, z'
+9 '-y+1/4, x+1/4, -z+1/4'
+10 'y+3/4, -x+1/4, -z+1/4'
+11 'x+1/2, y, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+3/4, -x+3/4, z+3/4'
+14 '-y+1/4, x+3/4, z+3/4'
+15 '-x+1/2, -y, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Y3+ 3
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0 0.25 0.625 . 1. 0
+Na2 Na1+ 16 f 0.7044(2) 0.1296(2) 0.5940(2) . 1. 0
+Y1 Y3+ 4 a 0.5 0.25 0.375 . 1. 0
+Mo1 Mo6+ 16 f 0.8189(3) 0.34359(2) 0.38685(2) . 1. 0
+O1 O2- 16 f 0.8512(3) 0.2194(2) 0.4727(3) . 1. 0
+O2 O2- 16 f 0.6111(2) 0.3119(2) 0.5382(2) . 1. 0
+O3 O2- 16 f 0.6798(2) 0.3343(2) 0.3133(2) . 1. 0
+O4 O2- 16 f 0.8240(3) 0.4652(3) 0.4791(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.031(1) 0.031(1) 0.013(2) 0 0 0
+Na2 Na1+ 0.0145(7) 0.0166(7) 0.0116(6) 0.0011(5) -.0010(5) 0.0026(5)
+Y1 Y3+ 0.0067(1) 0.0067(1) 0.0052(1) 0 0 0
+Mo1 Mo6+ 0.0075(1) 0.0076(1) 0.0067(1) 0 0 -.0003(1)
+O1 O2- 0.016(1) 0.012(1) 0.016(1) 0.002(1) 0.003(1) 0.004(1)
+O2 O2- 0.012(1) 0.001(1) 0.01(2) 0.0014(8) -.0033(8) -.0006(8)
+O3 O2- 0.0090(9) 0.016(1) 0.010(1) -.0019(8) -.0007(8) 0.0024(8)
+O4 O2- 0.023(1) 0.013(1) 0.012(1) 0.000(1) 0.001(1) -.0059(9)
+#End of TTdata_78534-ICSD

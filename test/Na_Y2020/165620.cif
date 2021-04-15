@@ -1,0 +1,123 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_165620-ICSD
+_database_code_ICSD 165620
+_audit_creation_date 2010-02-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic
+'Trichromium(II) disilicate - sodium chloride (1/0.25)'
+_chemical_formula_structural '(Cr3 (Si2 O7)) (Na Cl)0.25'
+_chemical_formula_sum 'Cl0.25 Cr3 Na0.25 O7 Si2'
+_chemical_name_structure_type CrSi2O7(NaCl)0.25
+_exptl_crystal_density_diffrn 3.3
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Cr3 Si2 O7 * (1/4)(M X) (M X= Na Cl, Na Br, K Cl, K Br): a cage structure
+built from (Cr(II) O4) and (Si2 O7) units
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1997 36 4883 4887 INOCAJ
+loop_
+_publ_author_name
+'Schmidt, A.'
+'Glaum, R.'
+_cell_length_a 10.254(2)
+_cell_length_b 10.254(2)
+_cell_length_c 12.960(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1362.67
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 4/m m m'
+_symmetry_Int_Tables_number 139
+_refine_ls_R_factor_all 0.0827
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z+1/2'
+18 '-y+1/2, -x+1/2, -z+1/2'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 '-x+1/2, y+1/2, -z+1/2'
+22 'x+1/2, -y+1/2, -z+1/2'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z+1/2'
+26 'y+1/2, x+1/2, z+1/2'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 'x+1/2, -y+1/2, z+1/2'
+30 '-x+1/2, y+1/2, z+1/2'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr2+ 2
+Si4+ 4
+O2- -2
+Cl1- -1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr2+ 8 j 0.32548(14) 0. 0.5 0.0104(3) 1 0
+Cr2 Cr2+ 16 n 0.22886(9) 0. 0.28558(6) 0.0082(2) 1 0
+Si1 Si4+ 16 m 0.21721(10) 0.21721(10) 0.11163(11) 0.0059(3) 1 0
+O1 O2- 8 h 0.1632(4) 0.1632(4) 0. 0.0057(10) 1 0
+O2 O2- 16 m 0.1423(2) 0.1423(2) 0.2030(3) 0.0072(7) 1 0
+O3 O2- 32 o 0.3129(3) 0.1278(3) 0.3832(2) 0.0093(6) 1 0
+Cl1 Cl1- 4 e 0. 0. 0.4396(7) 0.037(2) 0.5 0
+Na1 Na1+ 4 e 0. 0. 0.0410(10) 0.036(4) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr2+ 0.0203(7) 0.0051(6) 0.0057(5) 0. 0. 0.
+Cr2 Cr2+ 0.0121(4) 0.0045(4) 0.0079(3) 0. -0.0023(3) 0.
+Si1 Si4+ 0.0061(4) 0.0061(4) 0.0055(6) -0.0011(6) 0.0000(3) 0.0000(3)
+O1 O2- 0.0071(15) 0.0071(15) 0.003(2) -0.003(2) 0. 0.
+O2 O2- 0.0069(10) 0.0069(10) 0.008(2) 0.0009(14) 0.0002(9) 0.0002(9)
+O3 O2- 0.0146(14) 0.0065(11) 0.0067(11) -0.0005(11) -0.0035(10) -0.0010(9)
+Cl1 Cl1- 0.026(2) 0.026(2) 0.058(5) 0. 0. 0.
+Na1 Na1+ 0.011(3) 0.011(3) 0.085(11) 0. 0. 0.
+#End of TTdata_165620-ICSD

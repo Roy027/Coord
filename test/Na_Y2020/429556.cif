@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429556-ICSD
+_database_code_ICSD 429556
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium dimagnesium hydroxide bis(selenate(IV))'
+_chemical_formula_structural 'Na Mg2 (O H) (Se O3)2'
+_chemical_formula_sum 'H1 Mg2 Na1 O7 Se2'
+_exptl_crystal_density_diffrn 3.47
+_cell_measurement_temperature 292.
+_publ_section_title
+
+;
+Synthesis, crystal structures, and optical properties of A M2 (O H) (Se O3)2
+(A = Na, Rb; M = Mg, Zn)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2015 641 1953 1958
+ZAACAB
+loop_
+_publ_author_name
+'Liu, Yunsheng'
+'Mei, Dajiang'
+'Xu, Jingli'
+'Wu, Yuandong'
+_cell_length_a 13.1919(10)
+_cell_length_b 6.0415(4)
+_cell_length_c 8.2182(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 654.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0186
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+Mg2+ 2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 4 c 0.47212(2) 0.25 0.38026(3) 0.00837(7) 1 0
+Se2 Se4+ 4 c 0.17126(2) -0.25 0.27309(3) 0.01096(7) 1 0
+Mg1 Mg2+ 4 b 0.5 0. 0. 0.00873(18) 1 0
+Mg2 Mg2+ 4 c 0.38720(7) -0.25 0.28448(11) 0.00917(18) 1 0
+Na1 Na1+ 4 c 0.25002(9) -0.25 0.62763(14) 0.0178(2) 1 0
+O1 O2- 4 c 0.58595(15) 0.25 0.4691(2) 0.0143(4) 1 0
+O2 O2- 8 d 0.48077(11) 0.0324(2) 0.25130(15) 0.0117(3) 1 0
+O3 O2- 8 d 0.25521(10) -0.0441(2) 0.30372(18) 0.0154(3) 1 0
+O4 O2- 4 c 0.10707(14) -0.25 0.4535(2) 0.0097(4) 1 0
+O5 O2- 4 c 0.40055(13) -0.25 0.0346(2) 0.0086(4) 1 0
+H1 H1+ 4 c 0.3523 -0.25 -0.0254 0.013 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.00952(13) 0.00918(13) 0.00641(12) 0. 0.00064(9) 0.
+Se2 Se4+ 0.00856(13) 0.01505(14) 0.00927(13) 0. 0.00031(9) 0.
+Mg1 Mg2+ 0.0107(4) 0.0069(4) 0.0086(4) -0.0003(3) 0.0010(3) 0.0011(3)
+Mg2 Mg2+ 0.0090(4) 0.0102(4) 0.0083(4) 0. 0.0006(3) 0.
+Na1 Na1+ 0.0177(6) 0.0199(6) 0.0158(6) 0. -0.0022(4) 0.
+O1 O2- 0.0131(10) 0.0207(10) 0.0092(9) 0. -0.0038(7) 0.
+O2 O2- 0.0174(7) 0.0090(6) 0.0085(6) -0.0024(6) 0.0013(5) -0.0021(5)
+O3 O2- 0.0120(7) 0.0142(7) 0.0201(7) -0.0019(6) 0.0008(5) 0.0013(6)
+O4 O2- 0.0101(9) 0.0109(9) 0.0083(9) 0. 0.0025(7) 0.
+O5 O2- 0.0071(9) 0.0094(9) 0.0092(9) 0. -0.0014(7) 0.
+#End of TTdata_429556-ICSD

@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412998-ICSD
+_database_code_ICSD 412998
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Disodium seleno(IV)molybdate(VI)'
+_chemical_formula_structural 'Na2 (Se Mo O6)'
+_chemical_formula_sum 'Mo1 Na2 O6 Se1'
+_exptl_crystal_density_diffrn 3.58
+_publ_section_title
+
+;
+New alkali-metal - molybdenum(VI) - selenium(IV) oxides: syntheses, structures
+and characterization of A2 Se Mo O6 (A = Na(+), K(+) or Rb(+))
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2003 174 441 449 JSSCBI
+loop_
+_publ_author_name
+'Porter, Y.'
+'Halasyamani, P.S.'
+_cell_length_a 8.375(5)
+_cell_length_b 8.375(5)
+_cell_length_c 8.375(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 587.43
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.0143
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mo6+ 6
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.0320(1) 0.5320(1) -0.0320(1) 0.022(1) 1. 0
+Na2 Na1+ 4 a 0.7501(1) 0.2499(1) 0.7499(1) 0.023(1) 1. 0
+Mo1 Mo6+ 4 a 0.5073(1) 0.4927(1) -0.0073(1) 0.011(1) 1. 0
+Se1 Se4+ 4 a 0.8273(1) 0.3273(1) 0.1727(1) 0.011(1) 1. 0
+O1 O2- 12 b 0.9016(2) 0.5024(2) 0.2447(2) 0.015(1) 1. 0
+O2 O2- 12 b 0.3106(2) 0.5147(2) -0.0759(2) 0.021(1) 1. 0
+#End of TTdata_412998-ICSD

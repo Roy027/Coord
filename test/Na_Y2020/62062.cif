@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62062-ICSD
+_database_code_ICSD 62062
+_audit_creation_date 1988-02-22
+_chemical_name_systematic 'Tetrasodium hexaselenium distannate hydrate'
+_chemical_formula_structural 'Na4 Sn2 Se6 (H2 O)13'
+_chemical_formula_sum 'H26 Na4 O13 Se6 Sn2'
+_exptl_crystal_density_diffrn 2.64
+_cell_measurement_temperature 142.
+_publ_section_title
+
+;
+Selenostannate aus waessriger Loesung. Darstellung und Struktur von Na4 Sn2
+Se6 (H2O)13
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+549 35 45 ZAACAB
+loop_
+_publ_author_name
+'Krebs, B.'
+'Uhlen, H.'
+_cell_length_a 7.106(2)
+_cell_length_b 10.330(2)
+_cell_length_c 19.009(4)
+_cell_angle_alpha 78.60(2)
+_cell_angle_beta 85.66(2)
+_cell_angle_gamma 72.85(2)
+_cell_volume 1306.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+Se2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 2 i 0.11191(9) 0.13576(6) -.01159(3) 1.02(2) 1. 0
+Sn2 Sn4+ 2 i 0.68430(9) 0.43232(6) 0.43964(3) 0.73(1) 1. 0
+Se1 Se2- 2 i -.23662(14) 0.12699(10) -.03595(5) 1.32(2) 1. 0
+Se2 Se2- 2 i 0.24962(14) 0.24157(10) -.12293(5) 1.36(2) 1. 0
+Se3 Se2- 2 i 0.09841(13) 0.25122(9) 0.09222(4) 0.94(2) 1. 0
+Se4 Se2- 2 i 0.30640(13) 0.47359(9) 0.44503(4) 0.90(2) 1. 0
+Se5 Se2- 2 i 0.77912(13) 0.58207(9) 0.33371(4) 1.01(2) 1. 0
+Se6 Se2- 2 i 0.84450(13) 0.18081(9) 0.46200(4) 0.81(2) 1. 0
+Na1 Na1+ 2 i 0.4830(9) 0.5180(4) 0.0929(2) 1.68(9) 1. 0
+Na2 Na1+ 2 i 0.7811(5) 0.1918(4) 0.2055(2) 1.26(9) 1. 0
+Na3 Na1+ 2 i 0.1655(5) -.0847(4) 0.2929(2) 1.04(8) 1. 0
+Na4 Na1+ 2 i 0.61110(5) 0.0049(4) 0.4092(2) 0.94(8) 1. 0
+O1 O2- 2 i 0.7239(9) 0.4928(6) 0.0010(3) 1.29(15) 1. 0
+O2 O2- 2 i 0.2168(10) 0.5709(7) 0.1714(3) 1.54(15) 1. 0
+O3 O2- 2 i 0.7149(10) 0.4362(7) 0.1936(3) 1.60(16) 1. 0
+O4 O2- 2 i 0.5571(9) 0.2670(7) 0.1088(3) 1.38(15) 1. 0
+O5 O2- 2 i 0.0149(9) 0.1494(6) 0.2948(3) 1.14(14) 1. 0
+O6 O2- 2 i 0.5438(9) 0.1302(6) 0.2905(3) 1.26(14) 1. 0
+O7 O2- 2 i 0.9503(9) -.0427(7) 0.1951(3) 1.35(15) 1. 0
+O8 O2- 2 i 0.3958(9) -.0157(7) 0.2055(3) 1.27(14) 1. 0
+O9 O2- 2 i 0.3062(9) -.3203(7) 0.2810(3) 1.39(15) 1. 0
+O10 O2- 2 i 0.9286(9) -.1555(6) 0.3805(3) 1.27(14) 1. 0
+O11 O2- 2 i 0.4212(9) -.1384(6) 0.3841(3) 1.00(14) 1. 0
+O12 O2- 2 i 0.3355(9) 0.1333(7) 0.4683(3) 1.28(14) 1. 0
+O13 O2- 2 i 0.2046(10) 0.3544(7) 0.2808(3) 1.77(16) 1. 0
+H1 H1+ 2 i 0.7752 0.5645 -.0101 . 1. 0
+H2 H1+ 2 i 0.8148 0.4149 0.0203 . 1. 0
+H3 H1+ 2 i 0.2216 0.6433 0.1903 . 1. 0
+H4 H1+ 2 i 0.1236 0.5838 0.1464 . 1. 0
+H5 H1+ 2 i 0.6618 0.467 0.2338 . 1. 0
+H6 H1+ 2 i 0.8252 0.4638 0.1832 . 1. 0
+H7 H1+ 2 i 0.4482 0.2387 0.1198 . 1. 0
+H8 H1+ 2 i 0.6281 0.207 0.0823 . 1. 0
+H9 H1+ 2 i 0.1304 0.169 0.2927 . 1. 0
+H10 H1+ 2 i 0.9362 0.1659 0.3348 . 1. 0
+H11 H1+ 2 i 0.4388 0.2102 0.2899 . 1. 0
+H12 H1+ 2 i 0.492 0.082 0.2714 . 1. 0
+H13 H1+ 2 i 0.8784 -.0836 0.1868 . 1. 0
+H14 H1+ 2 i 0.0602 -.0804 0.1653 . 1. 0
+H15 H1+ 2 i 0.4896 -.0875 0.1925 . 1. 0
+H16 H1+ 2 i 0.3128 0.0422 0.167 . 1. 0
+H17 H1+ 2 i 0.2776 -.3717 0.3222 . 1. 0
+H18 H1+ 2 i 0.437 -.3329 0.2702 . 1. 0
+H19 H1+ 2 i 0.9927 -.191 0.4222 . 1. 0
+H20 H1+ 2 i 0.9403 -.2487 0.3738 . 1. 0
+H21 H1+ 2 i 0.3615 -.162 0.4261 . 1. 0
+H22 H1+ 2 i 0.5624 -.2098 0.3753 . 1. 0
+H23 H1+ 2 i 0.2204 0.1368 0.4502 . 1. 0
+H24 H1+ 2 i 0.3364 0.221 0.4661 . 1. 0
+H25 H1+ 2 i 0.1836 0.4032 0.3165 . 1. 0
+H26 H1+ 2 i 0.1877 0.4157 0.2393 . 1. 0
+#End of TTdata_62062-ICSD

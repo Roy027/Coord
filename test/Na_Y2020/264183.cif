@@ -1,0 +1,136 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_264183-ICSD
+_database_code_ICSD 264183
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Sodium phosphorus tin sulfide (11/1/2/12)'
+_chemical_formula_structural 'Na11 P Sn2 S12'
+_chemical_formula_sum 'Na11 P1 S12 Sn2'
+_exptl_crystal_density_diffrn 2.42
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Superion conductor Na11.1Sn2.1P0.9Se12: lowering the activation barrier of Na+
+conduction in quaternary 1-4-5-6 electrolytes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2018 30 4134 4139 CMATEX
+loop_
+_publ_author_name
+'Duchardt, Marc'
+'Neuberger, Sven'
+'Ruschewitz, Uwe'
+'Krauskopf, Thorben'
+'Zeier, Wolfgang G.'
+'Schmedt auf der Guenne, Joern'
+'Adams, Stefan'
+'Roling, Bernhard'
+'Dehnen, Stefanie'
+_cell_length_a 13.5309(14)
+_cell_length_b 13.5309(14)
+_cell_length_c 27.125(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 4966.18
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41/a c d Z'
+_symmetry_Int_Tables_number 142
+_refine_ls_R_factor_all 0.0349
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+3/4'
+2 '-y+3/4, x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 '-x, y+1/2, -z+1/2'
+5 '-y+3/4, -x+1/4, z+1/4'
+6 'y+1/4, -x+1/4, z+3/4'
+7 '-x, -y+1/2, z'
+8 'x, -y+1/2, z+1/2'
+9 'y+1/4, -x+3/4, -z+1/4'
+10 '-y+3/4, -x+3/4, -z+3/4'
+11 'x, -y, -z+1/2'
+12 '-x, -y, -z'
+13 '-y+3/4, x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+1/4'
+15 '-x, y, z+1/2'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+1/4'
+18 '-y+1/4, x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 '-x+1/2, y, -z'
+21 '-y+1/4, -x+3/4, z+3/4'
+22 'y+3/4, -x+3/4, z+1/4'
+23 '-x+1/2, -y, z+1/2'
+24 'x+1/2, -y, z'
+25 'y+3/4, -x+1/4, -z+3/4'
+26 '-y+1/4, -x+1/4, -z+1/4'
+27 'x+1/2, -y+1/2, -z'
+28 '-x+1/2, -y+1/2, -z+1/2'
+29 '-y+1/4, x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+3/4'
+31 '-x+1/2, y+1/2, z'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+S2- -2
+P5+ 5
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 16 e 0.77515(3) 0.5 0.25 0.01687(11) 1 0
+S1 S2- 32 g 0.67321(7) 0.40067(7) 0.30163(4) 0.0209(2) 1 0
+S2 S2- 32 g 0.87542(7) 0.60298(7) 0.30066(4) 0.0216(2) 1 0
+S3 S2- 32 g 0.91556(9) 0.34002(9) 0.41843(5) 0.0375(3) 1 0
+P1 P5+ 8 a 1. 0.25 0.375 0.0193(4) 1 0
+Na1 Na1+ 32 g 0.7333(2) 0.2604(2) 0.37534(13) 0.0532(9) 0.82 0
+Na2 Na1+ 16 d 1. 0.75 0.25738(17) 0.0730(19) 0.79 0
+Na3 Na1+ 16 e 0.5250(2) 0.5 0.25 0.0806(17) 0.995 0
+Na4 Na1+ 16 c 0.75 0.25 0.25 0.084(8) 0.522 0
+Na5 Na1+ 32 g 0.795(2) 0.2504(12) 0.2594(5) 0.073(9) 0.2205 0
+Na6 Na1+ 16 f 0.7623(4) 0.5123(4) 0.375 0.044(3) 0.5035 0
+Na7 Na1+ 32 g 0.7966(11) 0.4790(9) 0.3760(6) 0.058(5) 0.264 0
+Na8 Na1+ 8 b 0.5 0.25 0.375 0.073(11) 0.165 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn4+ 0.01683(18) 0.01485(17) 0.01893(18) 0. 0. -0.00068(13)
+S1 S2- 0.0227(4) 0.0180(4) 0.0218(5) -0.0013(3) -0.0012(4) 0.0032(3)
+S2 S2- 0.0209(4) 0.0205(4) 0.0235(5) -0.0016(3) 0.0005(4) -0.0043(4)
+S3 S2- 0.0357(6) 0.0358(6) 0.0409(7) 0.0027(5) 0.0092(5) -0.0070(5)
+P1 P5+ 0.0174(6) 0.0174(6) 0.0231(10) 0. 0. 0.
+Na1 Na1+ 0.0310(13) 0.0718(19) 0.057(2) 0.0075(12) 0.0047(12) 0.0407(14)
+Na2 Na1+ 0.129(5) 0.059(3) 0.031(2) -0.063(3) 0. 0.
+Na3 Na1+ 0.0165(13) 0.110(3) 0.116(4) 0. 0. 0.081(3)
+Na4 Na1+ 0.077(9) 0.016(5) 0.159(18) -0.008(5) 0.085(11) -0.015(6)
+Na5 Na1+ 0.18(3) 0.018(7) 0.021(8) 0.039(10) 0.028(9) 0.010(4)
+Na6 Na1+ 0.055(5) 0.055(5) 0.023(4) -0.031(7) 0.003(5) -0.003(5)
+Na7 Na1+ 0.096(12) 0.061(8) 0.016(4) 0.032(6) -0.011(5) -0.005(4)
+Na8 Na1+ 0.058(13) 0.058(13) 0.10(3) -0.003(15) 0. 0.
+#End of TTdata_264183-ICSD

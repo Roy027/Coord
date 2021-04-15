@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_10061-ICSD
+_database_code_ICSD 10061
+_audit_creation_date 1980-01-01
+_audit_update_record 1999-05-18
+_chemical_name_systematic 'Tetrasodium diborate'
+_chemical_formula_structural 'Na4 B2 O5'
+_chemical_formula_sum 'B2 Na4 O5'
+_exptl_crystal_density_diffrn 2.56
+_publ_section_title 'Zur Kenntnis von Na4 B2 O5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1979
+449 91 101 ZAACAB
+loop_
+_publ_author_name
+'Koenig, H.'
+'Hoppe, R.'
+'Jansen, M.'
+_cell_length_a 10.618(20)
+_cell_length_b 8.015(10)
+_cell_length_c 6.287(20)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.1(1)
+_cell_angle_gamma 90.
+_cell_volume 502.46
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0455
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0.3664(1) 0.0359(1) 0.0757(1) . 1. 0
+Na2 Na1+ 8 f 0.3579(1) 0.3277(1) 0.7281(1) . 1. 0
+B1 B3+ 8 f 0.0917(2) 0.1632(2) 0.6683(3) . 1. 0
+O1 O2- 8 f 0.5463(1) 0.1975(2) 0.0409(2) . 1. 0
+O2 O2- 4 e 0 0.9262(2) 0.25 . 1. 0
+O3 O2- 8 f 0.7167(1) 0.4001(2) 0.2178(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0104(3) 0.0120(3) 0.0115(4) -.0025(2) 0.0048(3) -.0018(3)
+Na2 Na1+ 0.0135(4) 0.0097(3) 0.0188(4) -.0009(2) 0.0084(3) -.0010(3)
+B1 B3+ 0.0060(6) 0.0062(6) 0.0076(7) -.0007(5) 0.0032(6) -.0015(6)
+O1 O2- 0.0134(5) 0.0082(5) 0.0136(6) -.0024(4) 0.0068(5) -.0031(4)
+O2 O2- 0.0109(7) 0.0057(7) 0.0226(10) 0 0.0125(7) 0
+O3 O2- 0.0052(5) 0.0119(5) 0.0137(5) -.0013(4) 0.0038(4) -.0012(4)
+#End of TTdata_10061-ICSD

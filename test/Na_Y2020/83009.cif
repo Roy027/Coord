@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83009-ICSD
+_database_code_ICSD 83009
+_audit_creation_date 1998-06-26
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium tecto-dialumotrisilicate (1.82/1)'
+_chemical_formula_structural 'Na1.82 (Al2 Si3 O10)'
+_chemical_formula_sum 'Al2 Na1.82 O10 Si3'
+_chemical_name_structure_type Natrolite(F2)
+_chemical_name_mineral 'Metanatrolite (dehydrated)'
+_exptl_crystal_density_diffrn 2.54
+_cell_measurement_temperature 573.
+_publ_section_title
+
+;
+The phases of natrolite occurring during dehydration and rehydration studied
+by single crystal x-ray diffraction methods between room temperature and 923 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie, Monatshefte' 1996 1996 171 187 NJMMAW
+loop_
+_publ_author_name
+'Baur, W.H.'
+'Joswig, W.'
+_cell_length_a 16.244(15)
+_cell_length_b 17.018(12)
+_cell_length_c 6.4295(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1777.37
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F 1 1 2'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z'
+2 'x, y, z'
+3 '-x, -y+1/2, z+1/2'
+4 'x, y+1/2, z+1/2'
+5 '-x+1/2, -y, z+1/2'
+6 'x+1/2, y, z+1/2'
+7 '-x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 4 a 0 0 0.98940(11) 0.0297(11) 1. 0
+Si2 Si4+ 4 b 0.25 0.25 0.2419(9) 0.0305(12) 1. 0
+Si3 Si4+ 8 c 0.1371(2) 0.2343(2) 0.6186(7) 0.0307(8) 1. 0
+Si4 Si4+ 8 c 0.1109(2) -.0207(2) 0.3597(7) 0.0270(8) 1. 0
+Al1 Al3+ 8 c 0.0264(3) 0.1050(2) 0.6065(9) 0.0305(10) 1. 0
+Al2 Al3+ 8 c 0.2682(3) 0.1423(2) 0.8613(8) 0.0289(8) 1. 0
+O1 O2- 8 c 0.0422(6) 0.0690(5) 0.8553(17) 0.040(2) 1. 0
+O2 O2- 8 c 0.2375(6) 0.1712(5) 0.1096(15) 0.038(2) 1. 0
+O3 O2- 8 c 0.0417(6) 0.2079(5) 0.6030(24) 0.039(3) 1. 0
+O4 O2- 8 c 0.2075(6) -.0425(5) 0.3456(20) 0.029(2) 1. 0
+O5 O2- 8 c 0.0911(6) 0.0703(4) 0.4059(16) 0.034(2) 1. 0
+O6 O2- 8 c 0.1471(6) 0.3039(5) 0.7782(19) 0.042(2) 1. 0
+O7 O2- 8 c 0.0726(5) -.0752(5) 0.5414(15) 0.037(2) 1. 0
+O8 O2- 8 c 0.1913(7) 0.1591(5) 0.6793(18) 0.044(2) 1. 0
+O9 O2- 8 c 0.0723(6) -.0406(5) 0.1305(18) 0.040(2) 1. 0
+O10 O2- 8 c 0.1675(5) 0.2657(5) 0.3876(16) 0.039(2) 1. 0
+Na1 Na1+ 8 c 0.0605(7) 0.1829(6) 0.134(2) 0.096(5) 1. 0
+Na2 Na1+ 8 c 0.3137(13) 0.0629(15) 0.331(5) 0.064(7) 0.41 0
+Na3 Na1+ 8 c 0.2836(14) 0.0747(9) 0.392(4) 0.052(5) 0.41 0
+#End of TTdata_83009-ICSD

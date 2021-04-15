@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423848-ICSD
+_database_code_ICSD 423848
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Disodium nickel phosphate fluoride'
+_chemical_formula_structural 'Na2 Ni (P O4) F'
+_chemical_formula_sum 'F1 Na2 Ni1 O4 P1'
+_exptl_crystal_density_diffrn 3.52
+_cell_measurement_temperature 293.
+_publ_section_title
+'Single crystal x-ray structure study of the Li2-x Nax Ni (P O4) F system'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2012 41 5838 5839 DTARAF
+loop_
+_publ_author_name
+'Ben Yahia, H.'
+'Shikano, M.'
+'Koike, S.'
+'Tatsumi, K.'
+'Kobayashi, H.'
+_cell_length_a 13.4581(8)
+_cell_length_b 5.1991(3)
+_cell_length_c 13.6978(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 120.58(1)
+_cell_angle_gamma 90.
+_cell_volume 825.14
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ni2+ 2
+P5+ 5
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.0812(5) 0.7704(5) 0.4118(5) 0.016(2) 1 0
+Na2 Na1+ 4 e 0.8296(5) 0.7387(5) 0.9194(4) 0.015(2) 1 0
+Na3 Na1+ 4 e 0.4189(5) 0.2579(5) 0.5824(5) 0.017(2) 1 0
+Na4 Na1+ 4 e 0.6700(5) 0.2602(5) 0.8385(4) 0.0138(19) 1 0
+Ni1 Ni2+ 4 e 0.17655(13) 0.28356(13) 0.35096(13) 0.0086(4) 1 0
+Ni2 Ni2+ 4 e 0.32311(13) 0.72328(13) 0.42485(13) 0.0080(4) 1 0
+P1 P5+ 4 e 0.9126(2) 0.2015(4) 0.8230(2) 0.0077(8) 1 0
+P2 P5+ 4 e 0.4117(2) 0.2919(3) 0.8385(2) 0.0071(7) 1 0
+O1 O2- 4 e 0.3941(3) 0.5852(7) 0.8460(3) 0.0138(18) 1 0
+O2 O2- 4 e 0.8924(3) 0.5922(7) 0.2984(3) 0.0133(18) 1 0
+O3 O2- 4 e 0.3452(3) 0.3511(7) 0.3862(3) 0.0113(17) 1 0
+O4 O2- 4 e 0.4589(7) 0.7686(7) 0.0884(7) 0.012(3) 1 0
+O5 O2- 4 e 0.1303(6) 0.7172(8) 0.0964(7) 0.014(2) 1 0
+O6 O2- 4 e 0.3689(6) 0.2165(9) 0.7188(7) 0.014(2) 1 0
+O7 O2- 4 e 0.9584(7) 0.7622(6) 0.6233(7) 0.011(3) 1 0
+O8 O2- 4 e 0.8461(3) 0.3422(6) 0.7081(3) 0.0124(17) 1 0
+F1 F1- 4 e 0.7527(5) 0.0043(8) 1.0019(3) 0.0115(15) 1 0
+F2 F1- 4 e 0.2516(5) 0.0047(9) 0.4704(3) 0.0126(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.009(2) 0.0206(18) 0.019(3) -0.0002(10) 0.007(2) 0.0032(11)
+Na2 Na1+ 0.014(2) 0.0151(14) 0.015(3) -0.0015(13) 0.006(2) -0.0010(11)
+Na3 Na1+ 0.022(3) 0.0193(17) 0.016(3) 0.0010(10) 0.013(2) 0.0008(10)
+Na4 Na1+ 0.013(2) 0.0203(15) 0.009(3) 0.0028(12) 0.006(2) 0.0016(10)
+Ni1 Ni2+ 0.0093(5) 0.0089(3) 0.0074(5) -0.0003(3) 0.0040(4) -0.0002(3)
+Ni2 Ni2+ 0.0056(5) 0.0106(3) 0.0072(5) 0.0001(3) 0.0028(4) 0.0003(4)
+P1 P5+ 0.0088(10) 0.0083(7) 0.0090(10) 0.0003(8) 0.0066(8) 0.0004(9)
+P2 P5+ 0.0045(9) 0.0103(6) 0.0078(10) -0.0005(8) 0.0041(8) 0.0008(9)
+O1 O2- 0.020(2) 0.0102(17) 0.016(2) -0.0020(16) 0.0128(19) -0.0015(17)
+O2 O2- 0.019(2) 0.0079(18) 0.013(2) 0.0034(16) 0.0091(19) 0.0010(17)
+O3 O2- 0.015(2) 0.0090(19) 0.016(2) 0.0008(14) 0.0120(18) -0.0033(16)
+O4 O2- 0.010(4) 0.016(3) 0.003(3) -0.0001(15) -0.001(3) -0.0001(16)
+O5 O2- 0.013(3) 0.019(2) 0.010(3) -0.0007(19) 0.005(3) -0.006(2)
+O6 O2- 0.015(3) 0.020(2) 0.004(3) -0.0001(19) 0.003(3) 0.001(2)
+O7 O2- 0.003(3) 0.017(3) 0.006(4) 0.0014(14) -0.003(3) 0.0019(15)
+O8 O2- 0.012(2) 0.0101(18) 0.014(2) 0.0014(15) 0.0057(18) 0.0023(16)
+F1 F1- 0.0124(14) 0.0053(12) 0.017(2) -0.0006(10) 0.007(2) -0.0003(18)
+F2 F1- 0.0125(14) 0.0068(11) 0.014(2) 0.0012(9) 0.0033(19) 0.0002(16)
+#End of TTdata_423848-ICSD

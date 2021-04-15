@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171014-ICSD
+_database_code_ICSD 171014
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Sodium calcium niobate oxide arsenate (1/1.5/2/2/2)'
+_chemical_formula_structural 'Na Ca1.5 (Nb O)2 O2 (As O4)2'
+_chemical_formula_sum 'As2 Ca1.5 Na1 Nb2 O12'
+_exptl_crystal_density_diffrn 3.98
+_cell_measurement_temperature 298.
+_publ_section_title 'Na Ca1.5 (Nb O)2 O2 (As O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2005 61
+i228 i230 ACSEBH
+loop_
+_publ_author_name
+'Ben Amor, R.'
+'Zid, M.F.'
+_cell_length_a 6.730(2)
+_cell_length_b 22.302(3)
+_cell_length_c 7.4309(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.8270(10)
+_cell_angle_gamma 90.
+_cell_volume 1020.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0245
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+As5+ 5
+Na1+ 1
+Ca2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 8 f 0.00565(4) 0.357919(10) 0.51029(3) 0.00618(8) 1 0
+As1 As5+ 4 e -0.5 0.417962(18) 0.25 0.00927(10) 1 0
+As2 As5+ 4 e 0. 0.221982(17) 0.25 0.00575(9) 1 0
+Na1 Na1+ 4 e 0.5 0.44084(10) 0.75 0.0347(6) 1 0
+Ca1 Ca2+ 4 e 0. 0.48192(4) 0.25 0.00806(16) 0.87 0
+Ca2 Ca2+ 4 e -0.5 0.27733(7) 0.25 0.0219(3) 0.63 0
+O1 O2- 8 f -0.0977(3) 0.26328(9) 0.3858(3) 0.0134(4) 1 0
+O2 O2- 4 e 0. 0.32411(13) 0.75 0.0086(5) 1 0
+O3 O2- 8 f 0.0752(4) 0.43450(10) 0.5814(3) 0.0132(4) 1 0
+O4 O2- 8 f -0.3221(3) 0.36857(10) 0.4147(3) 0.0122(4) 1 0
+O5 O2- 8 f 0.3118(3) 0.32501(11) 0.5945(3) 0.0179(5) 1 0
+O6 O2- 8 f -0.6303(4) 0.45972(11) 0.3518(4) 0.0212(5) 1 0
+O7 O2- 4 e 0. 0.37148(13) 0.25 0.0092(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.00677(12) 0.00712(13) 0.00501(12) 0.00071(8) 0.00274(9) -0.00041(8)
+As1 As5+ 0.00533(17) 0.00707(18) 0.0140(2) 0. 0.00240(15) 0.
+As2 As5+ 0.00513(17) 0.00619(17) 0.00617(17) 0. 0.00254(13) 0.
+Na1 Na1+ 0.0201(10) 0.0183(10) 0.0600(16) 0. 0.0104(11) 0.
+Ca1 Ca2+ 0.0090(4) 0.0075(4) 0.0091(4) 0. 0.0051(3) 0.
+Ca2 Ca2+ 0.0189(7) 0.0120(6) 0.0320(8) 0. 0.0074(6) 0.
+O1 O2- 0.0196(10) 0.0080(9) 0.0197(10) -0.0023(8) 0.0152(9) -0.0044(8)
+O2 O2- 0.0124(13) 0.0089(12) 0.0045(12) 0. 0.0036(10) 0.
+O3 O2- 0.0172(10) 0.0118(10) 0.0126(9) -0.0012(8) 0.0081(8) -0.0019(8)
+O4 O2- 0.0066(9) 0.0140(9) 0.0148(10) 0.0020(8) 0.0033(8) 0.0043(8)
+O5 O2- 0.0102(10) 0.0254(12) 0.0195(11) 0.0093(9) 0.0074(9) 0.0130(9)
+O6 O2- 0.0119(10) 0.0182(11) 0.0325(13) 0.0025(9) 0.0081(10) -0.0122(10)
+O7 O2- 0.0131(13) 0.0092(12) 0.0068(12) 0. 0.0056(10) 0.
+#End of TTdata_171014-ICSD

@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250222-ICSD
+_database_code_ICSD 250222
+_audit_creation_date 2005-04-01
+_audit_update_record 2008-08-01
+_chemical_name_systematic 'Dipotassium disodium diiron bis(tetrasilicate)'
+_chemical_formula_structural 'K2 Na2 Fe2 (Si4 O10)2'
+_chemical_formula_sum 'Fe2 K2 Na2 O20 Si8'
+_chemical_name_structure_type KNaFeS14O10
+_chemical_name_mineral Fenaksite
+_exptl_crystal_density_diffrn 2.76
+_publ_section_title 'The crystal structure of fenaksite K2 Na2 Fe2 Si8 O20'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk' 2004 398 524 528 DAKNEQ
+loop_
+_publ_author_name
+'Rozhdestvenskaya, I.V.'
+'Bannova, I.I.'
+'Nikishova, L.V.'
+'Soboleva, T.V.'
+_cell_length_a 8.142(2)
+_cell_length_b 9.954(3)
+_cell_length_c 6.983(2)
+_cell_angle_alpha 100.21(2)
+_cell_angle_beta 114.13(2)
+_cell_angle_gamma 105.87(2)
+_cell_volume 469.1
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0275
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Fe2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 i 0.20125(4) 0.00942(4) 0.34106(5) 0.0209(1) 1. 0
+Na1 Na1+ 2 i 0.1435(1) 0.41038(6) 0.6660(1) 0.0229(2) 1. 0
+Fe1 Fe2+ 2 i 0.10795(2) 0.40673(2) 0.15634(3) 0.00999(5) 1. 0
+Si1 Si4+ 2 i 0.35852(4) 0.72997(3) 0.12574(5) 0.00796(9) 1. 0
+Si2 Si4+ 2 i 0.35887(4) 0.72840(3) 0.55640(5) 0.00859(9) 1. 0
+Si3 Si4+ 2 i 0.17367(4) 0.86816(3) 0.79338(5) 0.00833(9) 1. 0
+Si4 Si4+ 2 i 0.69635(4) 0.78618(3) 0.03015(5) 0.00750(9) 1. 0
+O1 O2- 2 i 0.5496(1) 0.7112(1) 0.1197(2) 0.0165(3) 1. 0
+O2 O2- 2 i 0.3257(1) 0.86531(9) 0.0326(1) 0.0131(3) 1. 0
+O3 O2- 2 i 0.4215(1) 0.7940(1) 0.3874(1) 0.0140(3) 1. 0
+O4 O2- 2 i 0.1697(1) 0.58196(9) 0.9953(1) 0.0114(2) 1. 0
+O5 O2- 2 i 0.2184(2) 0.5602(1) 0.4568(2) 0.0178(3) 1. 0
+O6 O2- 2 i 0.4331(1) 0.2302(1) 0.2272(1) 0.0171(3) 1. 0
+O7 O2- 2 i 0.7464(2) 0.1660(1) 0.3816(2) 0.0172(3) 1. 0
+O8 O2- 2 i 0.0438(1) 0.2395(1) 0.2994(2) 0.0154(3) 1. 0
+O9 O2- 2 i 0.8101(1) 0.96193(9) 0.1744(2) 0.0166(3) 1. 0
+O10 O2- 2 i 0.8553(1) 0.71690(9) 0.0685(1) 0.0124(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ .0144(1) .0211(1) .0267(1) .00604(9) .00859(9) .0108(1)
+Na1 Na1+ .0414(4) .0122(2) .0146(2) .0061(2) .0153(2) .0058(2)
+Fe1 Fe2+ .01053(6) .00853(6) .01067(6) .00341(5) .00556(5) .00201(4)
+Si1 Si4+ .0086(1) .0084(1) .0071(1) .00258(9) .00432(9) .00301(8)
+Si2 Si4+ .0097(1) .0086(1) .0066(1) .00238(9) .00415(9) .00198(8)
+Si3 Si4+ .0102(1) .0060(1) .0089(1) .00332(9) .00454(9) .00243(8)
+Si4 Si4+ .0080(1) .0063(1) .0086(1) .00310(8) .00425(9) .00228(8)
+O1 O2- .0159(3) .0206(4) .0249(4) .0104(3) .0156(3) .0141(3)
+O2 O2- .0150(3) .0100(3) .0113(3) .0040(3) .0037(3) .0051(2)
+O3 O2- .0165(3) .0141(3) .0076(3) -.0002(3) .0069(3) .0021(3)
+O4 O2- .0104(3) .0084(4) .0125(4) .0025(2) .0040(2) .0028(2)
+O5 O2- .0245(4) .0094(3) .0122(3) -.0017(3) .0090(3) .0005(3)
+O6 O2- .0138(3) .0256(4) .0091(3) .0073(3) .0032(3) .0058(3)
+O7 O2- .0235(4) .0226(4) .0159(3) .0155(4) .0137(3) .0089(3)
+O8 O2- .0117(3) .0120(3) .0190(4) .0120(3) .0056(3) .0071(3)
+O9 O2- .0156(3) .0062(3) .0199(4) .0043(3) .0024(3) .0012(3)
+O10 O2- .0128(3) .0121(3) .0153(3) .0080(3) .0077(3) .0039(3)
+#End of TTdata_250222-ICSD

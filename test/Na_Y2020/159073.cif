@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_159073-ICSD
+_database_code_ICSD 159073
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium aluminium catena-disilicate'
+_chemical_formula_structural 'Na Al (Si2 O6)'
+_chemical_formula_sum 'Al1 Na1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Jadeite
+_exptl_crystal_density_diffrn 3.5
+_cell_measurement_temperature 293.
+_cell_measurement_pressure 7170000.
+_publ_section_title
+
+;
+Compressibility trends of the clinopyroxenes and in-situ high-pressure
+single-crystal X-ray diffraction study of jadeite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2008 93 198 209 AMMIAY
+loop_
+_publ_author_name
+'McCarthy, A.C.'
+'Downs, R.T.'
+'Thompson, R.M.'
+_cell_length_a 9.2593(2)
+_cell_length_b 8.4268(5)
+_cell_length_c 5.1354(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.979(3)
+_cell_angle_gamma 90.
+_cell_volume 383.23
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 e 0 0.9081(4) 0.25 0.63(4) 1. 0
+Na1 Na1+ 4 e 0 0.3025(5) 0.25 1.16(6) 1. 0
+Si1 Si4+ 8 f 0.2913(1) 0.0946(2) 0.2291(3) 0.64(3) 1. 0
+O1 O2- 8 f 0.1086(3) 0.0779(6) 0.1295(7) 0.74(6) 1. 0
+O2 O2- 8 f 0.3610(4) 0.2675(7) 0.3012(6) 0.84(7) 1. 0
+O3 O2- 8 f 0.3562(4) 0.0138(7) 0.0005(6) 0.86(6) 1. 0
+#End of TTdata_159073-ICSD

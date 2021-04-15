@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_93888-ICSD
+_database_code_ICSD 93888
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium calcium manganese oxide (1.25/2/9/18)'
+_chemical_formula_structural 'Na1.25 Ca2 Mn9 O18'
+_chemical_formula_sum 'Ca2 Mn9 Na1.25 O18'
+_exptl_crystal_density_diffrn 4.34
+_publ_section_title
+'Calcium insertion in the Na4 Mn9 O18 tunnel structure: Na1.1 Ca1.8 Mn9 O18'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2001 162 34 41 JSSCBI
+loop_
+_publ_author_name
+'Floros, N.'
+'Michel, C.'
+'Hervieu, M.'
+'Raveau, B.'
+_cell_length_a 26.419(2)
+_cell_length_b 5.6466(2)
+_cell_length_c 9.1385(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1363.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.087
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn4+ 4
+Mn3+ 3.125
+Ca2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn4+ 4 b 0 0 0.5 1.09(6) 1. 0
+Mn2 Mn4+ 4 c 0.3064(7) 0.25 0.362(2) 1.09(6) 1. 0
+Mn3 Mn4+ 4 c 0.6939(7) 0.25 0.649(2) 1.09(6) 1. 0
+Mn4 Mn3+ 8 d 0.1067(2) -0.004(2) 0.0120(7) 1.09(6) 1. 0
+Mn5 Mn3+ 8 d 0.3021(3) 0.014(3) 0.0445(6) 1.09(6) 1. 0
+Mn6 Mn3+ 4 c 0.0942(6) 0.25 0.374(2) 1.09(6) 1. 0
+Mn7 Mn3+ 4 c 0.9110(6) 0.25 0.638(2) 1.09(6) 1. 0
+Ca1 Ca2+ 8 d 0.1999(88) 0.042(3) 0.218(1) 0.6(2) 0.5 0
+Ca2 Ca2+ 8 d 0.0029(6) 0.043(4) 0.118(2) 0.6(2) 0.5 0
+Na1 Na1+ 4 c 0.4124(8) 0.25 0.203(2) 1.4(3) 0.625 0
+Na2 Na1+ 4 c 0.5876(8) 0.25 0.797(2) 1.4(3) 0.625 0
+O1 O2- 8 d 0.0992(8) 0 0.259(2) 1.5(2) 1. 0
+O2 O2- 8 d 0.2715(7) 0 0.416(2) 1.5(2) 1. 0
+O3 O2- 8 d 0.3509(8) 0 0.304(2) 1.5(2) 1. 0
+O4 O2- 8 d 0.0739(8) 0 0.506(2) 1.5(2) 1. 0
+O5 O2- 4 c 0.0016(8) 0.25 0.362(2) 1.5(2) 1. 0
+O6 O2- 4 c 0.9984(4) 0.25 0.638(2) 1.5(2) 1. 0
+O7 O2- 4 c 0.1604(8) 0.25 0.035(2) 1.5(2) 1. 0
+O8 O2- 4 c 0.8396(8) 0.25 0.965(2) 1.5(2) 1. 0
+O9 O2- 4 c 0.1746(7) 0.25 0.431(2) 1.5(2) 1. 0
+O10 O2- 4 c 0.8254(7) 0.25 0.569(2) 1.5(2) 1. 0
+O11 O2- 4 c 0.2776(8) 0.25 0.163(2) 1.5(2) 1. 0
+O12 O2- 4 c 0.7224(8) 0.25 0.837(2) 1.5(2) 1. 0
+O13 O2- 4 c 0.5633(8) 0.25 0.530(2) 1.5(2) 1. 0
+O14 O2- 4 c 0.4367(8) 0.25 0.470(2) 1.5(2) 1. 0
+#End of TTdata_93888-ICSD

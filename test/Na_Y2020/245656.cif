@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245656-ICSD
+_database_code_ICSD 245656
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium yttrium disilicate - HP'
+_chemical_formula_structural 'Na Y (Si2 O6)'
+_chemical_formula_sum 'Na1 O6 Si2 Y1'
+_chemical_name_structure_type KEuGe2O6
+_exptl_crystal_density_diffrn 3.55
+_publ_section_title
+'Structural studies on a high-pressure polymorph of Na Y Si2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 1934 1942 JSSCBI
+loop_
+_publ_author_name
+'Kahlenberg, V.'
+'Konzett, J.'
+'Kaindl, R.'
+_cell_length_a 8.2131(9)
+_cell_length_b 10.3983(14)
+_cell_length_c 17.6542(21)
+_cell_angle_alpha 90
+_cell_angle_beta 100.804(9)
+_cell_angle_gamma 90
+_cell_volume 1480.98
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 e 0.5 0.1069(1) 0.25 0.011(1) 1. 0
+Y2 Y3+ 8 f 0.3129(1) 0.0487(1) 0.4272(1) 0.010(1) 1. 0
+Si1 Si4+ 8 f 0.6354(2) -0.1717(2) 0.3983(1) 0.010(1) 1. 0
+Si2 Si4+ 8 f 0.2337(2) -0.1196(2) 0.2433(1) 0.010(1) 1. 0
+Si3 Si4+ 8 f -0.0058(2) -0.1725(2) 0.3996(1) 0.011(1) 1. 0
+Na1 Na1+ 8 f 0.3217(3) -0.3188(3) 0.4169(1) 0.026(1) 1. 0
+Na2 Na1+ 4 e 0 0.1239(3) 0.25 0.021(1) 1. 0
+O1 O2- 8 f 0.2856(6) -0.0041(4) 0.3023(2) 0.013(1) 1. 0
+O2 O2- 8 f 0.7286(5) 0.2387(4) 0.2771(2) 0.014(1) 1. 0
+O3 O2- 8 f 0.5301(5) -0.0962(4) 0.4515(2) 0.012(1) 1. 0
+O4 O2- 8 f 0.1578(5) -0.1162(4) 0.4516(2) 0.012(1) 1. 0
+O5 O2- 8 f 0.4953(5) 0.1764(4) 0.1219(2) 0.013(1) 1. 0
+O6 O2- 8 f 0.0597(5) -0.0896(4) 0.1809(2) 0.012(1) 1. 0
+O7 O2- 8 f 0.1684(5) 0.1601(4) 0.5568(2) 0.016(1) 1. 0
+O8 O2- 8 f 0.6267(5) -0.0974(4) 0.3148(2) 0.013(1) 1. 0
+O9 O2- 8 f 0.0938(5) 0.1797(4) 0.3842(2) 0.014(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.009(1) 0.010(1) 0.013(1) 0. 0.002(1) 0.
+Y2 Y3+ 0.008(1) 0.010(1) 0.013(1) 0.000(1) 0.002(1) 0.000(1)
+Si1 Si4+ 0.009(1) 0.010(1) 0.012(1) 0.000(1) 0.003(1) 0.001(1)
+Si2 Si4+ 0.007(1) 0.011(1) 0.012(1) -0.001(1) 0.002(1) -0.001(1)
+Si3 Si4+ 0.008(1) 0.012(1) 0.014(1) -0.001(1) 0.002(1) 0.002(1)
+Na1 Na1+ 0.018(1) 0.038(2) 0.022(1) 0.002(1) 0.005(1) 0.007(1)
+Na2 Na1+ 0.024(2) 0.021(2) 0.017(2) 0. 0.003(1) 0.
+O1 O2- 0.014(2) 0.014(2) 0.011(2) -0.002(2) 0.003(1) -0.002(1)
+O2 O2- 0.013(2) 0.011(2) 0.019(2) -0.001(2) 0.003(1) 0.000(1)
+O3 O2- 0.011(2) 0.015(2) 0.008(2) 0.003(2) 0.000(1) -0.002(1)
+O4 O2- 0.009(2) 0.012(2) 0.014(2) -0.002(2) 0.002(1) 0.002(1)
+O5 O2- 0.013(2) 0.010(2) 0.016(2) 0.003(2) 0.004(1) 0.000(1)
+O6 O2- 0.007(2) 0.012(2) 0.016(2) 0.001(2) 0.002(1) -0.002(1)
+O7 O2- 0.012(2) 0.023(2) 0.012(2) 0.000(2) 0.003(1) -0.001(2)
+O8 O2- 0.010(2) 0.016(2) 0.011(2) 0.001(2) 0.002(1) 0.001(1)
+O9 O2- 0.013(2) 0.009(2) 0.019(2) -0.001(2) 0.005(1) -0.001(1)
+#End of TTdata_245656-ICSD

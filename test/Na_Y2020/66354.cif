@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66354-ICSD
+_database_code_ICSD 66354
+_audit_creation_date 1993-01-06
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium oxoantimony(V) silicate'
+_chemical_formula_structural 'Na (Sb O) (Si O4)'
+_chemical_formula_sum 'Na1 O5 Sb1 Si1'
+_chemical_name_structure_type KTiOPO4
+_exptl_crystal_density_diffrn 3.91
+_publ_section_title 'Crystal structure of Na Sb O Si O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Comptes Rendus de l'Academie des Sciences, Serie II: Mecanique, Physique,
+Chimie, Sciences de la Terre et de l'Univers
+; 1992 314 151 155 CRAMED
+loop_
+_publ_author_name
+'Pagnoux, C.'
+'Favard, J.F.'
+'Verbaere, A.'
+'Piffard, Y.'
+'Tournoux, M.'
+_cell_length_a 12.799(2)
+_cell_length_b 6.324(1)
+_cell_length_c 10.606(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 858.46
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb5+ 5
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb5+ 4 a 0.38295(2) 0.51763(4) 0 . 1. 0
+Sb2 Sb5+ 4 a 0.23500(2) 0.26552(5) 0.23601(4) . 1. 0
+Si1 Si4+ 4 a 0.4875(1) 0.3247(2) 0.2556(1) . 1. 0
+Si2 Si4+ 4 a 0.18468(9) 0.5212(2) 0.4947(2) . 1. 0
+Na1 Na1+ 4 a 0.3510(3) 0.7869(5) 0.2835(3) . 1. 0
+Na2 Na1+ 4 a 0.1050(3) 0.7268(7) 0.08219(4) . 1. 0
+O1 O2- 4 a 0.4771(3) 0.5131(6) 0.1506(3) . 1. 0
+O2 O2- 4 a 0.4951(3) 0.4407(6) 0.3940(4) . 1. 0
+O3 O2- 4 a 0.3834(3) 0.1796(6) 0.2565(3) . 1. 0
+O4 O2- 4 a 0.5852(2) 0.1687(5) 0.2269(4) . 1. 0
+O5 O2- 4 a 0.1132(3) 0.3226(6) 0.5354(4) . 1. 0
+O6 O2- 4 a 0.1050(3) 0.7152(5) 0.4778(3) . 1. 0
+O7 O2- 4 a 0.2736(3) 0.5555(6) 0.6029(4) . 1. 0
+O8 O2- 4 a 0.2528(3) 0.4826(6) 0.3691(3) . 1. 0
+O9 O2- 4 a 0.2375(3) 0.9925(6) 0.6164(3) . 1. 0
+O10 O2- 4 a 0.2120(3) 0.0376(6) 0.3593(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 Sb5+ 0.00535(8) 0.00465(9) 0.00512(8) -.0002(1) 0.00000(1) 0.00005(1)
+Sb2 Sb5+ 0.00482(8) 0.00563(9) 0.00508(8) -.0002(1) 0.00005(1) -.00002(1)
+Si1 Si4+ 0.0053(4) 0.0072(5) 0.0064(6) -.0004(4) -.0007(5) -.0002(5)
+Si2 Si4+ 0.0077(4) 0.0056(4) 0.0066(4) 0.0001(4) -.0003(5) -.0006(5)
+Na1 Na1+ 0.054(2) 0.018(1) 0.039(1) 0.000(1) 0.021(1) -.002(1)
+Na2 Na1+ 0.029(1) 0.051(2) 0.084(3) 0.020(2) -.004(2) -.016(2)
+O1 O2- 0.009(1) 0.008(1) 0.010(1) 0.001(1) -.004(1) 0.003(1)
+O2 O2- 0.006(1) 0.016(2) 0.008(1) 0.000(1) -.001(1) -.006(1)
+O3 O2- 0.006(1) 0.010(1) 0.012(2) 0.001(1) -.001(1) 0.002(1)
+O4 O2- 0.005(1) 0.011(1) 0.013(1) -.001(1) -.003(1) -.001(2)
+O5 O2- 0.014(1) 0.007(1) 0.015(2) -.001(1) 0.000(1) -.002(1)
+O6 O2- 0.009(1) 0.007(1) 0.012(2) 0.001(1) -.001(1) -.001(1)
+O7 O2- 0.011(1) 0.013(2) 0.012(2) 0.003(1) -.005(1) -.003(1)
+O8 O2- 0.010(1) 0.012(1) 0.009(1) 0.001(1) 0.004(1) -.004(1)
+O9 O2- 0.012(1) 0.009(1) 0.010(1) -.002(1) -.005(1) 0.004(1)
+O10 O2- 0.011(1) 0.006(1) 0.014(2) 0.000(1) 0.003(1) 0.005(1)
+#End of TTdata_66354-ICSD

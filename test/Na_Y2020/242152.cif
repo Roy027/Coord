@@ -1,0 +1,143 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_242152-ICSD
+_database_code_ICSD 242152
+_audit_creation_date 2017-08-01
+_audit_update_record 2018-02-01
+_chemical_name_systematic
+'Calcium potassium sodium silicon oxide (1.18/1.29/8.9/72/149.14)'
+_chemical_formula_structural 'Ca1.18 K1.29 Na8.9 Si72 O149.14'
+_chemical_formula_sum 'Ca1.18 K1.29 Na8.9 O149.14 Si72'
+_chemical_name_mineral Barrerite
+_exptl_crystal_density_diffrn 2.09
+_cell_measurement_temperature 548.
+_publ_section_title
+
+;
+Thermal stability of barrerite and Na-exchanged barrerite: An in situ single
+crystal X-ray diffraction study under dry conditions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous and Mesoporous Materials' 2016 236 71 78 MIMMFJ
+loop_
+_publ_author_name
+'Cametti, Georgia'
+'Armbruster, Thomas'
+'Nagashima, Mariko'
+_cell_length_a 13.6110(3)
+_cell_length_b 17.1485(4)
+_cell_length_c 16.0177(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3738.66
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'A m m a'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0556
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x+1/2, y, -z'
+6 '-x+1/2, y, z'
+7 '-x, y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y+1/2, z+1/2'
+10 'x+1/2, -y+1/2, -z+1/2'
+11 'x, -y+1/2, z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 'x+1/2, y+1/2, -z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x, y+1/2, -z+1/2'
+16 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+Ca2+ 2
+Na1+ 1
+K1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 16 h 0.65038(8) 0.77799(7) -0.10954(7) 0.0290(2) 0.4977(15) 0
+Si2 Si4+ 16 h 0.63742(3) 0.85964(3) -0.36213(3) 0.02375(11) 1 0
+Si3 Si4+ 16 h 0.54042(4) 0.90990(3) -0.19498(3) 0.02737(12) 1 0
+Si4 Si4+ 16 h 0.65171(7) 0.69612(6) -0.28435(7) 0.0247(2) 0.4977(15) 0
+Si5 Si4+ 8 e 0.5 0.82330(4) -0.5 0.02842(16) 1 0
+Si6 Si4+ 16 h 0.63745(7) 0.81328(7) -0.04102(7) 0.0278(2) 0.5023(15) 0
+Si7 Si4+ 16 h 0.64425(7) 0.67273(6) -0.35052(7) 0.0256(2) 0.5023(15) 0
+O1 O2- 16 h 0.57686(19) 0.72985(14) -0.04920(15) 0.0638(6) 1 0
+O2 O2- 16 h 0.56035(12) 0.88300(9) -0.43744(12) 0.0420(4) 1 0
+O3 O2- 16 h 0.635(2) 0.7174(17) -0.1869(14) 0.0517(15) 0.095(7) 0
+O4 O2- 16 h 0.6828(6) 0.7341(4) -0.1958(3) 0.0517(15) 0.405(7) 0
+O5 O2- 16 h 0.62986(13) 0.76655(9) -0.34458(12) 0.0400(4) 1 0
+O6 O2- 16 h 0.5981(2) 0.86868(17) -0.11741(18) 0.0808(9) 1 0
+O7 O2- 16 h 0.61199(14) 0.91035(10) -0.27759(12) 0.0455(4) 1 0
+O8 O2- 8 g 0.75 0.7944(3) -0.0569(2) 0.0652(9) 1 0
+O9 O2- 8 g 0.75 0.88715(14) -0.38568(14) 0.0339(4) 1 0
+O10 O2- 16 h 0.56353(15) 0.63310(13) -0.28623(16) 0.0571(5) 1 0
+O11 O2- 8 f 0.5214(3) 0. -0.16573(19) 0.0536(8) 1 0
+O12 O2- 8 g 0.75 0.64804(15) -0.3182(2) 0.0459(6) 1 0
+O13 O2- 16 h 0.6262(3) 0.8550(2) 0.0527(2) 0.0419(7) 0.5023(15) 0
+Ca1 Ca2+ 4 c 0.75 1. -0.2857(6) 0.0302(11) 0.295(19) 0
+Na1 Na1+ 4 b 0.5 1. -0.5 0.029(2) 0.275(17) 0
+Na2 Na1+ 8 f 0.4721(6) 1. -0.4755(5) 0.038(2) 0.227(11) 0
+K1 K1+ 4 c 0.75 1. -0.2654(6) 0.0311(11) 0.32(2) 0
+Na3 Na1+ 8 f 0.687(4) 0.5 -0.345(5) 0.04(2) 0.028(11) 0
+Na4 Na1+ 8 f 0.716(4) 0.5 -0.261(4) 0.07(2) 0.051(12) 0
+Na5 Na1+ 8 e 0.5 0.5348(12) -0.5 0.063(5) 0.180(14) 0
+Na6 Na1+ 4 a 0.5 0.5 -0.5 0.034(6) 0.14(2) 0
+Na7 Na1+ 8 f 0.5553(10) 0.5 -0.4907(6) 0.086(4) 0.289(13) 0
+Na8 Na1+ 8 f 0.683(3) 0.5 -0.302(4) 0.084(15) 0.089(16) 0
+Na9 Na1+ 4 c 0.75 0.5 -0.624(2) 0.063(11) 0.097(12) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0279(5) 0.0311(5) 0.0281(4) -0.0040(4) -0.0065(3) 0.0030(4)
+Si2 Si4+ 0.01814(19) 0.0229(2) 0.0302(2) -0.00064(14) -0.00173(14) -0.00302(15)
+Si3 Si4+ 0.0275(2) 0.0213(2) 0.0333(2) -0.00129(16) 0.00544(17) 0.00120(16)
+Si4 Si4+ 0.0213(4) 0.0228(4) 0.0300(4) -0.0020(3) 0.0020(3) -0.0006(3)
+Si5 Si4+ 0.0208(3) 0.0212(3) 0.0433(4) 0. -0.0086(3) 0.
+Si6 Si4+ 0.0231(4) 0.0317(5) 0.0287(4) -0.0036(3) 0.0004(3) 0.0011(3)
+Si7 Si4+ 0.0200(4) 0.0255(4) 0.0313(5) -0.0038(3) -0.0006(3) 0.0010(3)
+O1 O2- 0.0595(13) 0.0618(13) 0.0700(14) -0.0306(11) 0.0024(11) 0.0099(11)
+O2 O2- 0.0348(7) 0.0289(6) 0.0623(10) 0.0011(6) -0.0239(7) -0.0021(6)
+O3 O2- 0.061(4) 0.061(3) 0.0334(18) -0.002(3) -0.009(2) -0.0167(19)
+O4 O2- 0.061(4) 0.061(3) 0.0334(18) -0.002(3) -0.009(2) -0.0167(19)
+O5 O2- 0.0397(8) 0.0266(6) 0.0539(9) -0.0007(6) -0.0059(7) 0.0046(6)
+O6 O2- 0.0809(19) 0.0791(18) 0.0824(17) 0.0042(15) -0.0216(15) 0.0412(14)
+O7 O2- 0.0440(9) 0.0404(8) 0.0522(9) -0.0110(7) 0.0196(8) -0.0188(7)
+O8 O2- 0.0309(12) 0.097(3) 0.067(2) 0. 0. -0.0189(18)
+O9 O2- 0.0220(8) 0.0411(10) 0.0387(10) 0. 0. 0.0070(8)
+O10 O2- 0.0360(9) 0.0598(12) 0.0755(14) -0.0228(9) 0.0049(9) 0.0090(10)
+O11 O2- 0.081(2) 0.0278(9) 0.0516(14) 0. 0.0314(14) 0.
+O12 O2- 0.0321(11) 0.0341(11) 0.0714(18) 0. 0. 0.0037(11)
+#End of TTdata_242152-ICSD

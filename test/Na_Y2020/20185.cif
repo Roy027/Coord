@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20185-ICSD
+_database_code_ICSD 20185
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Tetrasodium dicadmium trisilicate'
+_chemical_formula_structural 'Na4 Cd2 (Si3 O10)'
+_chemical_formula_sum 'Cd2 Na4 O10 Si3'
+_chemical_name_structure_type Na4Cd2Si3O10
+_exptl_crystal_density_diffrn 3.7
+_publ_section_title
+
+;
+The refinement of the crystal structure of the Na, Cd - triorthosilicate Na4
+Cd2 (Si3 O10)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1978 238 348 352 DANKAS
+loop_
+_publ_author_name
+'Simonov, M.A.'
+'Egorov Tismenko, Yu.K.'
+'Belov, N.V.'
+_cell_length_a 9.901(5)
+_cell_length_b 5.850(1)
+_cell_length_c 17.628(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.79(3)
+_cell_angle_gamma 90.
+_cell_volume 1006.16
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 8 f 0.59801(5) 0.59884(9) 0.0847(3) . 1. 0
+Si1 Si4+ 4 e 0.5 0.3811(5) 0.25 . 1. 0
+Si2 Si4+ 8 f 0.4349(2) 0.1062(4) 0.1013(1) . 1. 0
+Na1 Na1+ 8 f 0.6723(4) 0.8935(7) 0.2437(2) . 1. 0
+Na2 Na1+ 8 f 0.2533(4) 0.5694(7) 0.0600(2) . 1. 0
+O1 O2- 8 f 0.6079(5) 0.526(1) 0.2116(3) . 1. 0
+O2 O2- 8 f 0.4094(6) 0.207(1) 0.1868(3) . 1. 0
+O3 O2- 8 f 0.3015(5) 0.949(1) 0.0723(3) . 1. 0
+O4 O2- 8 f 0.4413(6) 0.330(1) 0.0470(3) . 1. 0
+O5 O2- 8 f 0.5770(5) 0.961(1) 0.1150(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Cd1 Cd2+ 0.46(1) 0.61(1) 0.40(1) -.06(1) 0.05(1) -.01(1)
+Si1 Si4+ 0.24(7) 0.37(8) 0.12(6) 0 0.06(5) 0
+Si2 Si4+ 0.14(5) 0.32(5) 0.20(4) -.02(4) 0.02(4) 0.01(4)
+Na1 Na1+ 0.71(11) 1.52(14) 1.51(13) -.22(11) 0.04(10) -.55(12)
+Na2 Na1+ 0.88(11) 1.10(13) 1.14(13) -.33(10) 0.34(10) -.26(10)
+O1 O2- 0.56(14) 0.81(17) 0.47(13) -.37(13) 0.05(11) 0.26(12)
+O2 O2- 0.81(16) 0.93(17) 0.40(13) -.50(14) 0.30(12) -.42(12)
+O3 O2- 0.26(13) 0.60(15) 0.81(15) -.27(11) -.01(11) -.26(12)
+O4 O2- 0.81(15) 0.36(14) 0.44(13) -.12(12) -.13(12) 0.25(13)
+O5 O2- 0.26(13) 0.56(15) 0.98(16) 0.22(11) -.01(12) 0.07(12)
+#End of TTdata_20185-ICSD

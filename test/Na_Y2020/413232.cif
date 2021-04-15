@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413232-ICSD
+_database_code_ICSD 413232
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Disodium dicarbonatocuprate trihydrate'
+_chemical_formula_structural 'Na2 (Cu (C O3)2) (H2 O)3'
+_chemical_formula_sum 'C2 H6 Cu1 Na2 O9'
+_chemical_name_structure_type Na2Cu(CO3)2(H2O)3
+_chemical_name_mineral Chalconatronite
+_exptl_crystal_density_diffrn 2.31
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A totally unexpected synthesis of single crystals of the mineral
+chalconatronite, Na2 (Cu (C O3)2) * 3(H2 O), from a solution of a copper
+coordination compound and atmospheric CO2 at room temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Coordination Chemistry' 2004 57 353 360 JCCMBQ
+loop_
+_publ_author_name
+'Mukhopadyhay, U.'
+'Bernal, I.'
+_cell_length_a 9.693(3)
+_cell_length_b 6.093(2)
+_cell_length_c 13.786(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.91(2)
+_cell_angle_gamma 90
+_cell_volume 813.74
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0373
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Na1+ 1
+O2- -2
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 e 0.62292(3) -0.00965(5) 0.319693(19) 0.01465(11) 1 0
+Na1 Na1+ 4 e 0.39367(12) 0.02253(18) 0.09819(8) 0.0212(2) 1 0
+Na2 Na1+ 4 e 0.33537(11) 0.26378(19) 0.29857(7) 0.0212(2) 1 0
+O1 O2- 4 e 0.69135(18) 0.4747(3) 0.12149(12) 0.0156(3) 1 0
+O2 O2- 4 e 0.5300(2) 0.2679(4) 0.41767(16) 0.0261(4) 1 0
+O3 O2- 4 e 0.3197(2) -0.3447(4) 0.07964(15) 0.0256(4) 1 0
+O4 O2- 4 e 0.53215(19) -0.2615(3) 0.38666(13) 0.0212(4) 1 0
+O5 O2- 4 e 0.31886(18) -0.3596(3) 0.33179(13) 0.0215(4) 1 0
+O6 O2- 4 e 0.48770(18) 0.3468(3) 0.16792(13) 0.0203(4) 1 0
+O7 O2- 4 e 0.68706(18) 0.2203(3) 0.23437(14) 0.0228(4) 1 0
+O8 O2- 4 e 0.43534(18) -0.0811(3) 0.26628(12) 0.0179(3) 1 0
+C1 C4+ 4 e 0.6176(2) 0.3465(4) 0.17526(15) 0.0139(4) 1 0
+C2 C4+ 4 e 0.4233(2) -0.2408(4) 0.32873(17) 0.0154(4) 1 0
+O9 O2- 4 e 0.3701(2) 0.1015(4) -0.06802(15) 0.0270(4) 1 0
+H1 H1+ 4 e 0.375(5) -0.450(8) 0.095(3) 0.040(11) 1 0
+H2 H1+ 4 e 0.369(5) 0.240(10) -0.081(4) 0.056(14) 1 0
+H3 H1+ 4 e 0.516(5) 0.240(10) 0.470(4) 0.057(14) 1 0
+H4 H1+ 4 e 0.547(4) 0.397(9) 0.410(3) 0.039(11) 1 0
+H5 H1+ 4 e 0.311(7) 0.035(10) -0.093(4) 0.067(19) 1 0
+H6 H1+ 4 e 0.309(4) -0.393(8) 0.031(3) 0.040(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.01460(16) 0.01582(16) 0.01336(16) -0.00129(10) -0.00196(10)
+0.00378(10)
+Na1 Na1+ 0.0250(5) 0.0215(5) 0.0172(5) -0.0011(4) 0.0019(4) -0.0007(4)
+Na2 Na1+ 0.0245(5) 0.0186(5) 0.0203(5) 0.0011(4) 0.0008(4) -0.0019(4)
+O1 O2- 0.0170(7) 0.0163(8) 0.0135(7) -0.0026(6) -0.0008(6) 0.0026(6)
+O2 O2- 0.0376(11) 0.0232(10) 0.0174(9) 0.0013(9) 0.0019(8) -0.0025(8)
+O3 O2- 0.0351(11) 0.0228(10) 0.0187(9) 0.0063(8) -0.0034(8) -0.0027(8)
+O4 O2- 0.0204(8) 0.0239(9) 0.0190(8) -0.0045(7) -0.0053(6) 0.0080(7)
+O5 O2- 0.0181(8) 0.0200(9) 0.0264(9) -0.0037(7) -0.0003(7) 0.0014(7)
+O6 O2- 0.0153(8) 0.0205(9) 0.0250(9) -0.0006(7) -0.0013(6) 0.0052(7)
+O7 O2- 0.0179(8) 0.0260(10) 0.0242(9) -0.0012(7) -0.0030(7) 0.0145(8)
+O8 O2- 0.0207(8) 0.0175(8) 0.0154(8) -0.0010(7) -0.0027(6) 0.0048(6)
+C1 C4+ 0.0188(10) 0.0118(9) 0.0110(9) -0.0011(8) -0.0003(7) 0.0005(8)
+C2 C4+ 0.0184(10) 0.0146(10) 0.0131(9) -0.0009(8) -0.0002(7) -0.0023(8)
+O9 O2- 0.0344(11) 0.0239(10) 0.0226(9) 0.0069(9) -0.0012(8) 0.0025(8)
+#End of TTdata_413232-ICSD

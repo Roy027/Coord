@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_203225-ICSD
+_database_code_ICSD 203225
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Sodium hexanitroruthenate(II) hydrate'
+_chemical_formula_structural 'Na4 (Ru (N O2)6) (H2 O)'
+_chemical_formula_sum 'H2 N6 Na4 O13 Ru1'
+_exptl_crystal_density_diffrn 2.6
+_publ_section_title 'Sodium hexanitroruthenate(II) monohydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1996 52 288 290 ACSCEE
+loop_
+_publ_author_name
+'Gromilov, S.A.'
+'Alekseev, V.I.'
+'Emel'yanov, V.A. (Emelyanov, V.A.)'
+'Baidina, I.A.'
+_cell_length_a 7.920(2)
+_cell_length_b 12.929(3)
+_cell_length_c 12.177(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.86(3)
+_cell_angle_gamma 90.
+_cell_volume 1242.41
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0179
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru2+ 2
+N3+ 3
+O2- -2
+N3+ 3
+O2- -2
+N3+ 3
+O2- -2
+H1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ru1 Ru2+ 4 d 0.25 0.25 0.5 . 1. 0
+N1 N3+ 8 f 0.1147(2) 0.12689(11) 0.43237(11) . 1. 0
+O1 O2- 8 f -.03967(15) 0.11649(11) 0.44357(11) . 1. 0
+O2 O2- 8 f 0.1817(2) 0.06029(10) 0.37562(11) . 1. 0
+N2 N3+ 8 f 0.4770(2) 0.17510(11) 0.48434(12) . 1. 0
+O3 O2- 8 f 0.5600(2) 0.19351(12) 0.40373(13) . 1. 0
+O4 O2- 8 f 0.5423(2) 0.11408(12) 0.55309(12) . 1. 0
+N3 N3+ 8 f 0.2668(2) 0.30940(11) 0.34399(11) . 1. 0
+O5 O2- 8 f 0.2069(2) 0.26448(10) 0.25960(11) . 1. 0
+O6 O2- 8 f 0.3431(2) 0.39278(10) 0.32902(11) . 1. 0
+O7 O2- 4 e 0.5 -.0097(2) 0.25 . 1. 0
+H1 H1+ 8 f 0.4854(39) -.0424(21) 0.3024(22) 0.061(10) 1. 0
+Na1 Na1+ 8 f 0.65317(9) 0.37543(6) 0.38096(6) . 1. 0
+Na2 Na1+ 8 f 0.74110(9) 0.08617(6) 0.30610(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ru1 Ru2+ 0.01089(9) 0.01268(9) 0.00987(9) -.00022(7) 0.00491(5) -.00036(7)
+N1 N3+ 0.0197(7) 0.0182(7) 0.0117(6) -.0021(5) 0.0055(5) 0.0009(5)
+O1 O2- 0.0168(6) 0.0342(7) 0.0262(7) -.0083(5) 0.0040(5) -.0044(6)
+O2 O2- 0.0384(8) 0.0192(6) 0.0273(7) -.0037(6) 0.0166(6) -.0085(5)
+N2 N3+ 0.0153(6) 0.0173(6) 0.0186(7) -.0008(5) 0.0062(5) -.0024(5)
+O3 O2- 0.0322(7) 0.0342(8) 0.0397(8) 0.0097(6) 0.0278(6) 0.0073(7)
+O4 O2- 0.0276(7) 0.0408(8) 0.0332(8) 0.0151(6) 0.0036(6) 0.0126(7)
+N3 N3+ 0.0145(6) 0.0181(7) 0.0145(6) 0.0025(5) 0.0058(5) 0.0022(5)
+O5 O2- 0.0433(8) 0.0297(8) 0.0137(6) -.0061(6) 0.0014(6) -.0015(5)
+O6 O2- 0.0267(7) 0.0252(7) 0.0246(6) -.0080(5) 0.0043(5) 0.0084(5)
+O7 O2- 0.0242(10) 0.0309(11) 0.0317(12) 0 0.0055(9) 0
+Na1 Na1+ 0.0237(4) 0.0251(4) 0.0218(4) -.0020(3) 0.0082(3) -.0013(3)
+Na2 Na1+ 0.0234(4) 0.0347(4) 0.0238(4) -.0029(3) 0.0060(3) -.0070(3)
+#End of TTdata_203225-ICSD

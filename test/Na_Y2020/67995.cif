@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67995-ICSD
+_database_code_ICSD 67995
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Trisodium tecto-triarsenotrizincate tetrahydrate'
+_chemical_formula_structural 'Na3 (As3 Zn3 O12) (H2 O)4'
+_chemical_formula_sum 'H8 As3 Na3 O16 Zn3'
+_chemical_name_structure_type Sodalite-frame
+_exptl_crystal_density_diffrn 3.4
+_cell_measurement_temperature 287.
+_publ_section_title
+
+;
+Structural and chemical investigations of Na3(ABO4)3.4H2O-type sodalite phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1994 33 2472 2480 INOCAJ
+loop_
+_publ_author_name
+'Nenoff, T.M.'
+'Harrison, W.T.A.'
+'Gier, T.E.'
+'Keder, N.L.'
+'Zaremba, C.M.'
+'Srdanov, V.I.'
+'Nicol, J.M.'
+'Stucky, G.D.'
+_cell_length_a 9.0276(7)
+_cell_length_b 9.0276(7)
+_cell_length_c 9.0276(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 735.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_symmetry_Int_Tables_number 218
+_refine_ls_R_factor_all 0.0426
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, y+1/2, -x+1/2'
+2 '-y+1/2, x+1/2, -z+1/2'
+3 '-x+1/2, z+1/2, -y+1/2'
+4 'z+1/2, -y+1/2, -x+1/2'
+5 'y+1/2, -x+1/2, -z+1/2'
+6 'x+1/2, -z+1/2, -y+1/2'
+7 '-z+1/2, -y+1/2, x+1/2'
+8 '-y+1/2, -x+1/2, z+1/2'
+9 '-x+1/2, -z+1/2, y+1/2'
+10 'z+1/2, y+1/2, x+1/2'
+11 'y+1/2, x+1/2, z+1/2'
+12 'x+1/2, z+1/2, y+1/2'
+13 '-z, -x, y'
+14 '-y, -z, x'
+15 '-x, -y, z'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 '-z, x, -y'
+20 '-y, z, -x'
+21 '-x, y, -z'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+As5+ 5
+O2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 6 d 0.25 0 0.5 0.008(3) 1. 0
+As1 As5+ 6 c 0.25 0.5 0 0.009(3) 1. 0
+O1 O2- 24 i 0.1488(5) 0.4022(5) 0.1232(5) 0.012(2) 1. 0
+Na1 Na1+ 8 e 0.137(2) 0.137(2) 0.137(2) 0.014(4) 0.75 0
+O2 O2- 8 e 0.3739(7) 0.3739(7) 0.3739(7) 0.020(3) 1. 0
+H1 H1+ 24 i 0.30(2) 0.337(6) 0.30(2) 0.04(2) 0.3333 0
+H2 H1+ 24 i 0.343(4) 0.466(4) 0.300(4) 0.06(2) 0.3333 0
+#End of TTdata_67995-ICSD

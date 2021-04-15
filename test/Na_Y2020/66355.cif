@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66355-ICSD
+_database_code_ICSD 66355
+_audit_creation_date 1993-01-06
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium vanadato(IV)phosphate'
+_chemical_formula_structural 'Na (V P O5)'
+_chemical_formula_sum 'Na1 O5 P1 V1'
+_chemical_name_structure_type CaTi(SiO4)O
+_exptl_crystal_density_diffrn 3.45
+_publ_section_title
+'Synthesis and crystal structure of a new vanadium IV phosphate: NaVPO5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Comptes Rendus de l'Academie des Sciences, Serie II: Mecanique, Physique,
+Chimie, Sciences de la Terre et de l'Univers
+; 1992 314 585 589 CRAMED
+loop_
+_publ_author_name
+'Benhamada, L.'
+'Grandin, A.'
+'Borel, M.M.'
+'Leclaire, A.'
+'Raveau, B.'
+_cell_length_a 6.5296(4)
+_cell_length_b 8.4643(7)
+_cell_length_c 7.1228(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.237(6)
+_cell_angle_gamma 90.
+_cell_volume 356.09
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 e 0.7464(1) 0.2617(1) 0.0285(1) . 1. 0
+P1 P5+ 4 e 0.2495(2) 0.4344(1) 0.2487(2) . 1. 0
+Na1 Na1+ 4 e 0.2473(4) 0.4129(3) 0.7167(4) . 1. 0
+O1 O2- 4 e 0.7486(6) 0.1793(4) -.2528(6) . 1. 0
+O2 O2- 4 e 0.8479(6) 0.0392(5) 0.1301(5) . 1. 0
+O3 O2- 4 e 0.0612(6) 0.3282(5) 0.0919(5) . 1. 0
+O4 O2- 4 e 0.6439(6) 0.4630(5) -.1336(5) . 1. 0
+O5 O2- 4 e 0.4282(6) 0.1793(5) -.1006(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+V1 V4+ 0.0033(1) 0.00097(9) 0.0014(1) 0.0001(2) 0.0017(1) 0.0001(2)
+P1 P5+ 0.0018(2) 0.0005(1) 0.0009(2) 0.0000(2) 0.0011(2) 0.0001(2)
+Na1 Na1+ 0.0091(5) 0.0028(3) 0.0119(5) -.0003(4) 0.0029(4) 0.0005(4)
+O1 O2- 0.0065(7) 0.0015(4) 0.0042(6) -.0005(5) 0.0035(5) -.0005(5)
+O2 O2- 0.0041(8) 0.0017(5) 0.0020(6) 0.0000(5) 0.0010(5) 0.0000(5)
+O3 O2- 0.0044(7) 0.0018(5) 0.0033(7) 0.0000(5) 0.0020(5) 0.0000(5)
+O4 O2- 0.0045(8) 0.0016(5) 0.0023(6) 0.0000(5) 0.0020(5) 0.0005(5)
+O5 O2- 0.0049(8) 0.0025(5) 0.0038(7) -.0005(5) 0.0020(5) -.0005(5)
+#End of TTdata_66355-ICSD

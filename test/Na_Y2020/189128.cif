@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_189128-ICSD
+_database_code_ICSD 189128
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Disodium magnesium disulfate 16-hydrate'
+_chemical_formula_structural 'Na2 Mg (S O4)2 (H2 O)16'
+_chemical_formula_sum 'H32 Mg1 Na2 O24 S2'
+_exptl_crystal_density_diffrn 1.62
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Crystal structure and hydration/dehydration behavior of Na2 Mg (S O4)2 * 16(H2
+O): A new hydrate phase observed under Mars-relevant conditions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2013 98 1772 1778 AMMIAY
+loop_
+_publ_author_name
+'Kristin Leftwich'
+'David L. Bish'
+'C.H. Chen'
+_cell_length_a 6.559(1)
+_cell_length_b 6.628(1)
+_cell_length_c 14.441(3)
+_cell_angle_alpha 87.46(2)
+_cell_angle_beta 79.68(2)
+_cell_angle_gamma 65.85(1)
+_cell_volume 563.29
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0391
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.2484(2) 0.9483(2) 0.04994(7) 0.017 1. 0
+Mg1 Mg2+ 1 b 0 0 0.5 0.014 1. 0
+S1 S6+ 2 i 0.7611(1) 0.6075(1) 0.2467(1) 0.012 1. 0
+O1 O2- 2 i 0.7023(3) 0.8471(3) 0.2467(1) 0.017 1. 0
+O2 O2- 2 i 0.6359(3) 0.5698(3) 0.3449(1) 0.018 1. 0
+O3 O2- 2 i 0.0080(3) 0.4899(3) 0.2537(1) 0.017 1. 0
+O4 O2- 2 i 0.6996(3) 0.5250(3) 0.1757(1) 0.019 1. 0
+O5 O2- 2 i 0.3213(3) 0.9745(3) 0.4464(1) 0.019 1. 0
+O6 O2- 2 i -0.0307(3) 0.9505(3) 0.3623(1) 0.021 1. 0
+O7 O2- 2 i 0.1216(3) 0.6675(3) 0.5202(1) 0.019 1. 0
+O8 O2- 2 i 0.2930(3) 0.5923(3) 0.1141(1) 0.019 1. 0
+O9 O2- 2 i 0.3324(3) 0.2516(3) -0.0048(1) 0.021 1. 0
+O10 O2- 2 i 0.1614(3) 0.9057(3) -0.1004(1) 0.019 1. 0
+O11 O2- 2 i 0.2517(3) 0.0390(3) 0.2102(1) 0.019 1. 0
+O12 O2- 2 i 0.3352(3) 0.3641(3) 0.3709(1) 0.022 1. 0
+H1 H1+ 2 i 0.288(7) 0.351(5) -0.057(2) 0.05 1. 0
+H2 H1+ 2 i 0.398(4) 0.994(6) 0.230(3) 0.05 1. 0
+H3 H1+ 2 i 0.202(6) 0.603(6) 0.572(2) 0.05 1. 0
+H4 H1+ 2 i 0.204(7) 0.989(6) -0.151(2) 0.05 1. 0
+H5 H1+ 2 i 0.446(5) 0.844(4) 0.415(2) 0.05 1. 0
+H6 H1+ 2 i 0.425(4) 0.562(6) 0.142(2) 0.05 1. 0
+H7 H1+ 2 i 0.286(7) 0.377(4) 0.039(2) 0.05 1. 0
+H8 H1+ 2 i -0.154(5) 0.948(7) 0.335(3) 0.05 1. 0
+H9 H1+ 2 i 0.457(5) 0.409(6) 0.347(3) 0.05 1. 0
+H10 H1+ 2 i 0.224(5) 0.428(6) 0.331(2) 0.05 1. 0
+H11 H1+ 2 i 0.347(7) 0.100(4) 0.419(3) 0.05 1. 0
+H12 H1+ 2 i 0.070(5) 0.966(6) 0.308(2) 0.05 1. 0
+H13 H1+ 2 i 0.188(5) 0.581(7) 0.167(2) 0.05 1. 0
+H14 H1+ 2 i 0.202(6) 0.564(5) 0.467(2) 0.05 1. 0
+H15 H1+ 2 i 0.175(6) 0.198(3) 0.224(3) 0.05 1. 0
+H16 H1+ 2 i 0.198(7) 0.767(4) -0.131(2) 0.05 1. 0
+#End of TTdata_189128-ICSD

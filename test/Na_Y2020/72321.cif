@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72321-ICSD
+_database_code_ICSD 72321
+_audit_creation_date 1994-01-19
+_chemical_name_systematic 'Sodium cobalt trifluoride'
+_chemical_formula_structural 'Na Co F3'
+_chemical_formula_sum 'Co1 F3 Na1'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 3.9
+_publ_section_title
+
+;
+Kristallstrukturverfeinerungen an Natriumtrifluorometallaten NaMF3
+(M=Mg,Co,Ni,Zn): Oktaederkippung und Toleranzfaktor orthorhombischer
+Fluorperowskite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1992
+616 133 140 ZAACAB
+loop_
+_publ_author_name
+'Luetgert, B.'
+'Babel, D.'
+_cell_length_a 5.422(1)
+_cell_length_b 5.606(1)
+_cell_length_c 7.786(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 236.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 b 0.5 0 0 . 1. 0
+Na1 Na1+ 4 c -.0135(2) 0.0529(4) 0.25 . 1. 0
+F1 F1- 4 c 0.1048(3) 0.4614(3) 0.25 . 1. 0
+F2 F1- 8 d 0.6957(2) 0.3005(2) 0.0545(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0092(3) 0.0091(4) 0.0093(3) -.0001(1) -.0002(1) 0.0001(2)
+Na1 Na1+ 0.0177(6) 0.0174(8) 0.0225(8) -.0028(5) 0 0
+F1 F1- 0.0159(8) 0.0179(10) 0.0103(8) 0.0005(7) 0 0
+F2 F1- 0.0162(6) 0.0131(7) 0.0200(6) -.0049(5) 0.0026(5) -.0021(7)
+#End of TTdata_72321-ICSD

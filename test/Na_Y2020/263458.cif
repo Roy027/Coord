@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_263458-ICSD
+_database_code_ICSD 263458
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Trisodium samarium bis(borate)'
+_chemical_formula_structural 'Na3 Sm (B O3)2'
+_chemical_formula_sum 'B2 Na3 O6 Sm1'
+_exptl_crystal_density_diffrn 3.82
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Structure determination and luminescent property studies of the single crystal
+Na3Sm(BO3)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Crystals 2017 7 129-1 129-11 CRYSBC
+loop_
+_publ_author_name
+'Zhao, Dan'
+'Ma, Fa-Xue'
+'Nie, Cong-Kui'
+'Wang, Jian'
+'Zhang, Lei'
+'Fan, Yunchang'
+_cell_length_a 6.5667(3)
+_cell_length_b 8.7675(4)
+_cell_length_c 10.1850(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90.86
+_cell_angle_gamma 90
+_cell_volume 586.32
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0176
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sm3+ 3
+O2- -2
+Na1+ 1
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sm1 Sm3+ 4 e 0.15904(2) 0.88633(2) 0.14639(2) 0.00614(9) 1 0
+O1 O2- 4 e 0.3190(4) 0.4208(3) 0.1176(2) 0.0179(6) 1 0
+O2 O2- 4 e 0.1929(4) 0.6546(3) 0.0211(3) 0.0174(5) 1 0
+O3 O2- 4 e 0.2579(4) 0.6362(2) 0.2508(2) 0.0099(5) 1 0
+O4 O2- 4 e 0.5137(4) 0.8968(3) 0.1309(3) 0.0158(5) 1 0
+O5 O2- 4 e 0.8280(4) 0.7894(3) 0.2053(3) 0.0140(5) 1 0
+O6 O2- 4 e 0.8331(4) 1.0176(3) 0.0816(2) 0.0113(5) 1 0
+Na1 Na1+ 4 e 0.5215(2) 1.18834(16) 0.10228(13) 0.0128(3) 1 0
+Na2 Na1+ 4 e 0.5223(2) 0.76316(17) 0.34440(14) 0.0146(3) 1 0
+Na3 Na1+ 4 e 0.2828(4) 0.4391(2) -0.10694(18) 0.0433(6) 1 0
+B1 B3+ 4 e 0.7194(6) 0.9004(4) 0.1380(4) 0.0080(7) 1 0
+B2 B3+ 4 e 0.2548(6) 0.5692(4) 0.1274(4) 0.0091(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sm1 Sm3+ 0.00584(11) 0.00574(11) 0.00682(11) -0.00005(5) -0.00063(6) 0.00036(5)
+O1 O2- 0.0347(16) 0.0102(12) 0.0088(12) 0.0092(11) -0.0008(11) 0.0009(9)
+O2 O2- 0.0323(15) 0.0094(11) 0.0104(12) 0.0058(11) -0.0055(10) 0.0004(10)
+O3 O2- 0.0124(12) 0.0075(11) 0.0096(12) 0.0014(9) -0.0029(9) 0.0003(9)
+O4 O2- 0.0073(12) 0.0196(14) 0.0204(14) 0.0007(9) -0.0004(10) 0.0065(10)
+O5 O2- 0.0078(11) 0.0156(13) 0.0186(13) 0.0006(9) -0.0016(9) 0.0087(10)
+O6 O2- 0.0089(11) 0.0112(11) 0.0140(12) -0.0005(9) 0.0004(9) 0.0038(9)
+Na1 Na1+ 0.0128(6) 0.0137(7) 0.0118(6) 0.0008(5) 0.0002(5) -0.0030(5)
+Na2 Na1+ 0.0158(7) 0.0153(7) 0.0124(7) -0.0043(5) -0.0065(5) 0.0011(5)
+Na3 Na1+ 0.0920(17) 0.0209(9) 0.0166(9) 0.0128(10) -0.0109(10) -0.0049(7)
+B1 B3+ 0.0088(16) 0.0095(17) 0.0056(16) 0.0009(12) 0.0007(12) -0.0005(12)
+B2 B3+ 0.0097(16) 0.0075(16) 0.0100(17) 0.0010(13) -0.0006(13) 0.0011(13)
+#End of TTdata_263458-ICSD

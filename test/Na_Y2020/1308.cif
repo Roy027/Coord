@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1308-ICSD
+_database_code_ICSD 1308
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Trisodium octaoxodihydroxopentaborate hydrate'
+_chemical_formula_structural 'Na3 (B5 O8 (O H)2) (H2 O)'
+_chemical_formula_sum 'H4 B5 Na3 O11'
+_exptl_crystal_density_diffrn 2.28
+_publ_section_title
+'The crystal structure of synthetic sodium pentaborate monohydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1977 33 3730 3733 ACBCAR
+loop_
+_publ_author_name
+'Menchetti, S.'
+'Sabelli, C.'
+_cell_length_a 8.804(3)
+_cell_length_b 18.371(5)
+_cell_length_c 10.924(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1766.83
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.073
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+B3+ 3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.4317(4) 0.5669(2) 0.3967(3) . 1. 0
+Na2 Na1+ 8 c 0.4171(4) 0.7409(2) 0.4260(3) . 1. 0
+Na3 Na1+ 8 c 0.1194(4) 0.4590(2) 0.4002(4) . 1. 0
+O1 O2- 8 c 0.2622(6) 0.6534(3) 0.1740(5) . 1. 0
+O2 O2- 8 c 0.0129(6) 0.6731(3) 0.2537(6) . 1. 0
+O3 O2- 8 c 0.2126(6) 0.7633(3) 0.2935(5) . 1. 0
+O4 O2- 8 c 0.2246(6) 0.6468(3) 0.3924(5) . 1. 0
+O5 O2- 8 c -.0385(6) 0.6447(3) 0.4651(5) . 1. 0
+O6 O2- 8 c 0.1558(6) 0.6971(3) 0.5889(6) . 1. 0
+O7 O2- 8 c 0.1430(6) 0.5651(3) 0.5541(5) . 1. 0
+O8 O2- 8 c 0.2669(7) 0.6169(2) 0.7362(5) . 1. 0
+O9 O2- 8 c 0.1963(7) 0.4943(2) 0.7359(5) . 1. 0
+O10 O2- 8 c 0.3992(6) 0.5303(3) 0.6096(6) . 1. 0
+O11 O2- 8 c 0.5811(7) 0.6509(4) 0.5229(5) . 1. 0
+B1 B3+ 8 c 0.1783(13) 0.6846(6) 0.2849(10) . 1. 0
+B2 B3+ 8 c -.0848(14) 0.6586(6) 0.3467(11) . 1. 0
+B3 B3+ 8 c 0.1254(12) 0.6370(6) 0.4979(10) . 1. 0
+B4 B3+ 8 c 0.2125(13) 0.6839(6) 0.7015(11) . 1. 0
+B5 B3+ 8 c 0.2492(7) 0.5544(7) 0.6548(7) . 1. 0
+H1 H1+ 8 c 0.21 0.45 0.72 2. 1. 0
+H2 H1+ 8 c 0.48 0.56 0.67 2. 1. 0
+H3 H1+ 8 c 0.64 0.65 0.46 2. 1. 0
+H4 H1+ 8 c 0.62 0.68 0.58 2. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0077 0.0009 0.0034 0.0008 -.001 -.0001
+Na2 Na1+ 0.006 0.001 0.0026 0 -.0019 -.0005
+Na3 Na1+ 0.01 0.0021 0.0046 -.0012 0.0032 -.0004
+O1 O2- 0.004 0.0003 0.0003 0.0006 -.0002 0.0002
+O2 O2- 0.0014 0.0008 0.0002 -.0004 -.0004 0.0003
+O3 O2- 0.0079 0.0003 0.0005 0.0003 0.0004 -.0003
+O4 O2- 0.0032 0.0005 0.0003 -.0004 0.0004 0.0001
+O5 O2- 0.0027 0.0008 0.0003 -.0002 0 0
+O6 O2- 0.0055 0.0008 0.001 0.0007 -.0014 0.0004
+O7 O2- 0.0049 0.0003 0.0003 -.0006 -.0008 0
+O8 O2- 0.0083 0.0007 0.0024 0.0003 -.0025 -.0002
+O9 O2- 0.008 0.0004 0.0023 0 0.0004 -.0009
+O10 O2- 0.0048 0.0004 0.0047 -.0001 0.0028 0.0001
+O11 O2- 0.0081 0.0016 0.0009 -.0023 0.0006 -.0008
+B1 B3+ 0.0055 0.0006 0.0014 -.0001 0.0024 -.0004
+B2 B3+ 0.0029 0.0009 0.0024 -.0012 0.001 0.0004
+B3 B3+ 0.0037 0.0013 0.0006 0.0014 -.0012 -.0006
+B4 B3+ 0.0025 0.0008 0.0034 -.0001 0.0015 0.0013
+B5 B3+ 0.0055 0.0005 0.0018 -.0002 0.0024 -.0006
+#End of TTdata_1308-ICSD

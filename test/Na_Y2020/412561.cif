@@ -1,0 +1,125 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412561-ICSD
+_database_code_ICSD 412561
+_audit_creation_date 2004-04-01
+_chemical_name_systematic
+'Octasodium decakis(tellurato(IV))hexakis(dioxouranate)'
+_chemical_formula_structural 'Na8 ((U O2)6 (Te O3)10)'
+_chemical_formula_sum 'Na8 O42 Te10 U6'
+_exptl_crystal_density_diffrn 4.9
+_cell_measurement_temperature 193.
+_publ_section_title
+
+;
+Unusual uranyl tellurites containing (Te2 O6)(4-) ions and three-dimensional
+networks
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2002 41 3426 3429 ACIEF5
+loop_
+_publ_author_name
+'Almond, P.M.'
+'McKee, M.L.'
+'Albrecht Schmitt, T.E.'
+_cell_length_a 16.8969(5)
+_cell_length_b 16.8969(5)
+_cell_length_c 16.8969(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 4824.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 21 3'
+_symmetry_Int_Tables_number 199
+_refine_ls_R_factor_all 0.0178
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+13 '-z, -x+1/2, y'
+14 '-y, -z+1/2, x'
+15 '-x, -y+1/2, z'
+16 '-z+1/2, x, -y'
+17 '-y+1/2, z, -x'
+18 '-x+1/2, y, -z'
+19 'z, -x, -y+1/2'
+20 'y, -z, -x+1/2'
+21 'x, -y, -z+1/2'
+22 'z+1/2, x+1/2, y+1/2'
+23 'y+1/2, z+1/2, x+1/2'
+24 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+Te4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 24 c -.13788(2) 0.89061(2) 0.36411(2) 0.00902(8) 1. 0
+Te1 Te4+ 24 c -.14142(3) 0.85329(3) 0.59665(3) 0.00859(10) 1. 0
+Te2 Te4+ 8 a -.23791(3) 0.73791(3) 0.26209(3) 0.0107(2) 1. 0
+Te3 Te4+ 8 a 0.01043(3) 0.98957(3) 0.48957(3) 0.0103(2) 1. 0
+Na1 Na1+ 12 b 0 0.75 0.4764(3) 0.0167(9) 1. 0
+Na2 Na1+ 12 b 0 0.75 0.2771(4) 0.042(2) 1. 0
+Na3 Na1+ 24 c -.3156(14) 0.9426(10) 0.2002(13) 0.090(7) 0.33 0
+O1 O2- 24 c -.2493(3) 0.8258(3) 0.5929(3) 0.0135(11) 1. 0
+O2 O2- 24 c -.1053(3) 0.7566(3) 0.5605(3) 0.0121(10) 1. 0
+O3 O2- 24 c -.1355(3) 0.9095(3) 0.5001(3) 0.0143(10) 1. 0
+O4 O2- 24 c -.2130(3) 0.8455(3) 0.2505(3) 0.0130(11) 1. 0
+O5 O2- 24 c -.0241(3) 0.9606(3) 0.3881(3) 0.0144(11) 1. 0
+O6 O2- 24 c -.0889(3) 0.7949(3) 0.3756(3) 0.0126(11) 1. 0
+O7 O2- 24 c -.1905(3) 0.9819(3) 0.3517(3) 0.0172(11) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ 0.00830(13) 0.00901(13) 0.00974(13) -0.00093(9) -0.00011(10) -0.00002(10)
+Te1 Te4+ 0.0086(2) 0.0089(2) 0.0083(2) -0.0002(2) 0.0004(2) -0.0008(2)
+Te2 Te4+ 0.0107(2) 0.0107(2) 0.0107(2) -0.0018(2) 0.0018(2) -0.0018(2)
+Te3 Te4+ 0.0103(2) 0.0103(2) 0.0103(2) -0.0025(2) -0.0025(2) 0.0025(2)
+Na1 Na1+ 0.011(2) 0.027(3) 0.012(2) 0.004(2) 0 0
+Na2 Na1+ 0.033(3) 0.070(5) 0.023(3) 0.024(3) 0 0
+Na3 Na1+ 0.119(17) 0.054(10) 0.097(14) 0.019(11) 0.009(13) 0.058(10)
+O1 O2- 0.007(2) 0.017(3) 0.016(3) 0.001(2) 0.000(2) -0.001(2)
+O2 O2- 0.013(2) 0.006(2) 0.017(3) 0.003(2) 0.003(2) -0.001(2)
+O3 O2- 0.017(3) 0.013(2) 0.013(2) 0.000(2) -0.001(2) 0.003(2)
+O4 O2- 0.013(2) 0.010(3) 0.016(3) -0.004(2) 0.004(2) 0.001(2)
+O5 O2- 0.014(3) 0.022(3) 0.007(2) -0.007(2) -0.004(2) 0.001(2)
+O6 O2- 0.012(2) 0.010(2) 0.016(3) 0.002(2) -0.001(2) 0.000(2)
+O7 O2- 0.020(3) 0.009(3) 0.022(3) 0.004(2) -0.003(2) 0.000(2)
+#End of TTdata_412561-ICSD

@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239881-ICSD
+_database_code_ICSD 239881
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Disodium zirconium hexasilicate'
+_chemical_formula_structural 'Na2 Zr Si6 O15.86'
+_chemical_formula_sum 'Na2 O15.86 Si6 Zr1'
+_exptl_crystal_density_diffrn 2.53
+_cell_measurement_temperature 498.
+_publ_section_title
+
+;
+Dehydration and thermal stability of elpidite: An in-situ single crystal X-ray
+diffraction study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous and Mesoporous Materials' 2016 227 81 87 MIMMFJ
+loop_
+_publ_author_name
+'Cametti, Georgia'
+'Armbruster, Thomas'
+'Nagashima, Mariko'
+_cell_length_a 14.1244(3)
+_cell_length_b 14.5173(2)
+_cell_length_c 14.3535(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2943.16
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c e'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.0303
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 8 c 0.25 0.25 0.5 0.01171(7) 1 0
+Si1 Si4+ 16 g 0.39077(4) 0.09892(4) 0.37646(4) 0.01372(12) 1 0
+Si2 Si4+ 16 g 0.38907(4) 0.38033(4) 0.66115(4) 0.01387(12) 1 0
+Si3 Si4+ 16 g 0.23534(4) 0.04899(4) 0.64159(4) 0.01480(12) 1 0
+Na1 Na1+ 8 f 0.5 0.2216(18) 0.5412(18) 0.077(3) 0.25 0
+Na2 Na1+ 8 f 0.5 0.2589(13) 0.5036(12) 0.077(3) 0.25 0
+Na3 Na1+ 8 f 0.5 0.2356(6) 0.5289(5) 0.053(3) 0.5 0
+Na4 Na1+ 8 e 0.25 0.23879(11) 0.75 0.0409(4) 1 0
+O1 O2- 16 g 0.16605(12) 0.19838(12) 0.39330(11) 0.0230(3) 1 0
+O2 O2- 16 g 0.14317(14) 0.01733(12) 0.36485(14) 0.0285(4) 1 0
+O3 O2- 8 e 0.25 0.07845(18) 0.75 0.0287(6) 1 0
+O4 O2- 16 g 0.21936(13) 0.14135(11) 0.58572(12) 0.0235(3) 1 0
+O5 O2- 8 f 0. 0.13035(18) 0.36331(18) 0.0259(5) 1 0
+O6 O2- 16 g 0.32723(13) -0.00816(12) 0.60865(13) 0.0273(4) 1 0
+O7 O2- 16 g 0.37112(14) 0.36172(13) 0.77147(11) 0.0264(4) 1 0
+O8 O2- 16 g 0.36822(12) 0.17933(11) 0.44828(11) 0.0218(3) 1 0
+O9 O2- 8 f 0.5 0.06724(17) 0.38364(17) 0.0238(5) 1 0
+O10 O2- 8 f 0.5 0.358(5) 0.417(5) 0.15 0.113(11) 0
+O11 O2- 8 f 0.5 0.135(5) 0.699(5) 0.15 0.112(13) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zr1 Zr4+ 0.01314(13) 0.00971(12) 0.01229(11) -0.00011(9) -0.00044(9) -0.00012(9)
+Si1 Si4+ 0.0125(3) 0.0143(3) 0.0143(2) -0.0007(2) -0.00012(19) -0.00172(19)
+Si2 Si4+ 0.0126(3) 0.0136(2) 0.0154(2) 0.0001(2) -0.00125(19) -0.0020(2)
+Si3 Si4+ 0.0182(3) 0.0102(2) 0.0159(2) 0.00061(19) 0.0010(2) 0.00166(19)
+Na3 Na1+ 0.0073(16) 0.085(6) 0.065(5) 0. 0. -0.065(5)
+Na4 Na1+ 0.0564(12) 0.0220(8) 0.0441(10) 0. 0.0151(8) 0.
+O1 O2- 0.0254(9) 0.0216(8) 0.0220(7) -0.0049(6) -0.0061(6) -0.0046(6)
+O2 O2- 0.0247(9) 0.0203(9) 0.0404(10) 0.0073(7) 0.0024(7) 0.0051(7)
+O3 O2- 0.0478(17) 0.0230(12) 0.0154(10) 0. -0.0022(10) 0.
+O4 O2- 0.0266(9) 0.0160(8) 0.0278(8) 0.0011(6) 0.0023(7) 0.0092(6)
+O5 O2- 0.0122(11) 0.0312(13) 0.0342(13) 0. 0. -0.0024(10)
+O6 O2- 0.0245(9) 0.0245(9) 0.0328(9) 0.0105(7) 0.0034(7) 0.0012(7)
+O7 O2- 0.0344(10) 0.0299(10) 0.0150(7) -0.0042(7) 0.0006(7) -0.0022(6)
+O8 O2- 0.0209(8) 0.0216(8) 0.0230(7) 0.0037(6) 0.0020(6) -0.0070(6)
+O9 O2- 0.0137(11) 0.0227(12) 0.0350(13) 0. 0. -0.0031(10)
+#End of TTdata_239881-ICSD

@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_30019-ICSD
+_database_code_ICSD 30019
+_audit_creation_date 1980-01-01
+_audit_update_record 1985-05-23
+_chemical_name_systematic 'Lithium sodium catena-vanadate (.5/.5/1)'
+_chemical_formula_structural 'Na0.5 Li0.5 V O3'
+_chemical_formula_sum 'Li0.5 Na0.5 O3 V1'
+_chemical_name_structure_type NaKV2O6
+_exptl_crystal_density_diffrn 2.85
+_publ_section_title
+
+;
+Crystallographic studies and structural systematics of the C2/c alkali metal
+metavanadates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1979 27 357 366 JSSCBI
+loop_
+_publ_author_name
+'Ng, H.N.'
+'Calvo, C.'
+'Idler, K.L.'
+_cell_length_a 10.179(6)
+_cell_length_b 9.061(4)
+_cell_length_c 5.845(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.13(4)
+_cell_angle_gamma 90.
+_cell_volume 530.69
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0 0.9142(8) 0.25 . 1. 0
+Na1 Na1+ 4 e 0 0.2934(2) 0.25 . 1. 0
+V1 V5+ 8 f 0.2889 0.0922 0.2449 . 1. 0
+O1 O2- 8 f 0.1171(2) 0.0949(2) 0.1479(3) . 1. 0
+O2 O2- 8 f 0.3503(3) 0.2609(2) 0.2959(4) . 1. 0
+O3 O2- 8 f 0.3561(2) 0.0011(2) 0.0318(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0182(27) 0.0208(30) 0.0259(30) 0 0.0078(23) 0
+Na1 Na1+ 0.0263(8) 0.0158(7) 0.0290(9) 0 0.0020(6) 0
+V1 V5+ 0.0099(1) 0.0105(1) 0.0099(1) -.0002(2) 0.0041(1) -.0005(2)
+O1 O2- 0.0129(7) 0.0189(8) 0.0176(7) 0.0019(7) 0.0046(6) 0.0011(8)
+O2 O2- 0.0261(10) 0.0140(8) 0.026(1) -.0052(8) 0.0082(8) -.0014(7)
+O3 O2- 0.0145(7) 0.0219(9) 0.0137(8) 0.0014(7) 0.0049(6) -.0046(7)
+#End of TTdata_30019-ICSD

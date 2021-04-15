@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250893-ICSD
+_database_code_ICSD 250893
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Disodium dibarium tetrathiodioxouranate(VI)'
+_chemical_formula_structural 'Na2 Ba2 ((U O2) S4)'
+_chemical_formula_sum 'Ba2 Na2 O2 S4 U1'
+_exptl_crystal_density_diffrn 4.73
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Synthesis and structure of the [(UO2)S4]6- anion: A cation-stabilized uranyl
+sulfide
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 10220 10222 INOCAJ
+loop_
+_publ_author_name
+'Ward, Matthew D.'
+'Klingsporn, Jordan M.'
+'Ibers, James A.'
+_cell_length_a 6.3325(2)
+_cell_length_b 6.7148(2)
+_cell_length_c 6.7530(2)
+_cell_angle_alpha 81.3250(10)
+_cell_angle_beta 67.1010(10)
+_cell_angle_gamma 72.5420(10)
+_cell_volume 252.14
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0134
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+Ba2+ 2
+S2- -2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 1 a 0. 0. 0. 0.00412(4) 1 0
+Ba1 Ba2+ 2 i 0.581177(19) 0.190005(17) 0.673707(18) 0.00543(4) 1 0
+S1 S2- 2 i 0.10049(9) 0.19881(8) 0.61803(8) 0.00593(9) 1 0
+S2 S2- 2 i 0.67430(9) 0.34109(8) 0.18179(8) 0.00826(9) 1 0
+Na1 Na1+ 2 i 0.13850(18) 0.40742(14) 0.20990(16) 0.01085(17) 1 0
+O1 O2- 2 i 0.2357(3) 0.0859(2) 0.0450(2) 0.0071(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ 0.00445(6) 0.00464(6) 0.00445(6) -0.00238(4) -0.00200(4) -0.00018(3)
+Ba1 Ba2+ 0.00500(6) 0.00622(7) 0.00569(7) -0.00211(4) -0.00214(4) -0.00025(4)
+S1 S2- 0.00639(18) 0.00660(19) 0.0057(2) -0.00269(15) -0.00263(15) 0.00041(15)
+S2 S2- 0.00885(19) 0.0069(2) 0.0071(2) -0.00081(16) -0.00179(16) -0.00054(16)
+Na1 Na1+ 0.0171(4) 0.0069(4) 0.0085(4) -0.0039(3) -0.0040(4) -0.0008(3)
+O1 O2- 0.0079(6) 0.0082(6) 0.0079(6) -0.0046(5) -0.0042(5) 0.0001(5)
+#End of TTdata_250893-ICSD

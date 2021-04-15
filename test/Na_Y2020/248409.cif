@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248409-ICSD
+_database_code_ICSD 248409
+_audit_creation_date 2014-08-01
+_audit_update_record 2017-08-01
+_chemical_name_systematic
+'Sodium potassium trialuminium tetrakis(orthoarsenate)'
+_chemical_formula_structural 'Al3 As4 K1.33 Na1.67 O16'
+_chemical_formula_sum 'Al3 As4 K1.33 Na1.67 O16'
+_chemical_name_mineral Ozerovaite
+_exptl_crystal_density_diffrn 3.56
+_cell_measurement_temperature 293.
+_publ_section_title 'The aluminoarsenate Na1.67 K1.33 Al3 (As O4)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2014 70 i6
+i6 ACSEBH
+loop_
+_publ_author_name
+'Bouhassine, Mohamed Alem'
+'Boughzala, Habib'
+_cell_length_a 10.4930(10)
+_cell_length_b 20.395(4)
+_cell_length_c 6.335(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1355.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c e'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.0379
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Al3+ 3
+O2- -2
+Na1+ 1
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 8 f 0. 0.15486(3) 0.05909(10) 0.0075(3) 1 0
+As2 As5+ 8 e 0.25 -0.04448(3) 0.25 0.0070(3) 1 0
+Al1 Al3+ 4 a 0. 0. 0. 0.0063(5) 1 0
+Al2 Al3+ 8 e 0.25 0.09187(10) 0.25 0.0073(4) 1 0
+O1 O2- 8 f 0. 0.2179(3) -0.1020(8) 0.0163(10) 1 0
+O2 O2- 16 g 0.1263(3) 0.15363(15) 0.2215(5) 0.0110(7) 1 0
+O3 O2- 8 f 0. 0.0854(2) -0.0873(7) 0.0095(9) 1 0
+O4 O2- 16 g 0.2105(3) -0.09062(16) 0.4534(4) 0.0102(6) 1 0
+O5 O2- 16 g 0.1364(3) 0.01511(13) 0.2027(5) 0.0086(6) 1 0
+Na1 Na1+ 8 f 0. 0.1628(3) 0.5513(7) 0.0350(18) 0.725(14) 0
+Na2 Na1+ 8 f 0. 0.0635(17) 0.520(5) 0.042(12) 0.112(14) 0
+K1 K1+ 16 g 0.2125(6) 0.2737(3) 0.1075(10) 0.048(2) 0.314(7) 0
+K2 K1+ 8 e 0.25 0.271(3) 0.25 0.03(2) 0.035(12) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As5+ 0.0016(4) 0.0103(4) 0.0108(4) 0. 0. 0.0013(2)
+As2 As5+ 0.0039(4) 0.0086(4) 0.0084(4) 0. -0.0005(2) 0.
+Al1 Al3+ 0.0011(10) 0.0090(12) 0.0089(11) 0. 0. 0.0003(10)
+Al2 Al3+ 0.0028(9) 0.0093(9) 0.0099(9) 0. -0.0001(6) 0.
+O1 O2- 0.020(3) 0.013(2) 0.016(2) 0. 0. 0.006(2)
+O2 O2- 0.0045(15) 0.0124(15) 0.0161(15) 0.0010(11) -0.0040(13) -0.0019(11)
+O3 O2- 0.006(2) 0.009(2) 0.0133(19) 0. 0. -0.0024(17)
+O4 O2- 0.0091(15) 0.0116(15) 0.0100(13) -0.0029(12) 0.0009(12) 0.0017(11)
+O5 O2- 0.0033(14) 0.0105(15) 0.0120(13) 0.0023(11) -0.0018(13) -0.0007(10)
+Na1 Na1+ 0.037(3) 0.047(3) 0.020(3) 0. 0. -0.0033(19)
+K1 K1+ 0.053(3) 0.034(3) 0.059(4) -0.029(3) 0.013(3) 0.003(2)
+#End of TTdata_248409-ICSD

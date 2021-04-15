@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_30529-ICSD
+_database_code_ICSD 30529
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Trisodium tetrathioantimonate nonahydrate'
+_chemical_formula_structural 'Na3 (Sb S4) (H2 O)9'
+_chemical_formula_sum 'H18 Na3 O9 S4 Sb1'
+_chemical_name_structure_type Na3SbS4(H2O)9
+_exptl_crystal_density_diffrn 1.87
+_publ_section_title
+
+;
+Hydrogen bonds in Schlippe's Salt: Refinement of the crystal structures of Na3
+Sb S4 (H2 O)9 by X-ray diffraction and Na3 Sb S4 (D2 O)9 by neutron
+diffraction at room temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1979 35 19 25 ACBCAR
+loop_
+_publ_author_name
+'Mereiter, K.'
+'Preisinger, A.'
+'Guth, H.'
+_cell_length_a 11.957(3)
+_cell_length_b 11.957(3)
+_cell_length_c 11.957(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1709.49
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sb5+ 5
+S2- -2
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.29170(12) 0.29170(12) 0.29170(12) . 1. 0
+Na2 Na1+ 4 a 0.44999(12) 0.44999(12) 0.44999(12) . 1. 0
+Na3 Na1+ 4 a 0.60606(13) 0.60606(13) 0.60606(13) . 1. 0
+Sb1 Sb5+ 4 a 0.03724(2) 0.03724(2) 0.03724(2) . 1. 0
+S1 S2- 4 a 0.92492(8) 0.92492(8) 0.92492(8) . 1. 0
+S2 S2- 12 b 0.14848(8) 0.14805(8) 0.92188(8) . 1. 0
+O1 O2- 12 b -.02612(27) 0.36709(21) 0.92575(23) . 1. 0
+O2 O2- 12 b 0.18387(26) 0.69538(25) 0.99246(23) . 1. 0
+O3 O2- 12 b 0.10119(24) 0.25617(28) 0.32875(29) . 1. 0
+H1 H1+ 12 b 0.0246 0.3049 0.9276 3.2 1. 0
+H2 H1+ 12 b -.0719 0.3598 0.8602 3.2 1. 0
+H3 H1+ 12 b 0.2515 0.6614 0.0193 3.2 1. 0
+H4 H1+ 12 b 0.1665 0.7573 0.0405 3.2 1. 0
+H5 H1+ 12 b 0.0553 0.2304 0.2681 3.2 1. 0
+H6 H1+ 12 b 0.0593 0.3107 0.3702 3.2 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0344(6) 0.0344(6) 0.0344(6) -.0018(7) -.0018(7) -.0018
+Na2 Na1+ 0.0328(6) 0.0328(6) 0.0328(6) -.0041(7) -.0041(7) -.0041(7)
+Na3 Na1+ 0.0339(6) 0.0339(6) 0.0339(6) -.0033(7) -.0033(7) -.0033(7)
+Sb1 Sb5+ 0.0224(1) 0.0224(1) 0.0224(1) 0.0011(1) 0.0011(1) 0.0011(1)
+S1 S2- 0.0402(5) 0.0402(5) 0.0402(5) -.0071(5) -.0071(5) -.0071(5)
+S2 S2- 0.0255(5) 0.0346(5) 0.0294(5) 0.0000(4) 0.0036(4) 0.0067(4)
+O1 O2- 0.0449(18) 0.0306(13) 0.0349(14) 0.0027(14) -.0053(15) -.0079(12)
+O2 O2- 0.0448(17) 0.0376(15) 0.0395(17) -.0018(14) -.0026(14) -.0092(13)
+O3 O2- 0.0377(16) 0.0439(18) 0.0512(20) 0.0045(15) 0.0005(16) 0.0008(16)
+#End of TTdata_30529-ICSD

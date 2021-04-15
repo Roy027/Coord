@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_402468-ICSD
+_database_code_ICSD 402468
+_audit_creation_date 1997-11-10
+_chemical_name_systematic 'Pentanatrium hexahydroxoaluminate dihydroxide'
+_chemical_formula_structural 'Na5 (Al (O H)6) (O H)2'
+_chemical_formula_sum 'H8 Al1 Na5 O8'
+_exptl_crystal_density_diffrn 2.2
+_publ_section_title
+
+;
+Crystal structure of pentanatrium hexahydroxoaluminate dihydroxide, Na5 (Al (O
+H)6) . (O H)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1997 212 236 236 ZEKRDZ
+loop_
+_publ_author_name
+'Weinberger, M.'
+'Gessner, W.'
+'Schneider, M.'
+_cell_length_a 9.350(1)
+_cell_length_b 9.350(1)
+_cell_length_c 9.610(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 840.13
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 43 21 2'
+_symmetry_Int_Tables_number 96
+_refine_ls_R_factor_all 0.0237
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, -z+1/4'
+2 '-x+1/2, y+1/2, -z+3/4'
+3 '-y, -x, -z+1/2'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z+1/4'
+6 '-y+1/2, x+1/2, z+3/4'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 a 0.62756(4) 0.62756(4) 0 . 1. 0
+O1 O2- 8 b 0.42108(9) 0.63353(9) 0.0039(1) . 1. 0
+O2 O2- 8 b 0.83410(9) 0.62507(9) 0.01101(10) . 1. 0
+O3 O2- 8 b 0.62898(9) 0.62763(9) -.20193(9) . 1. 0
+O4 O2- 8 b 0.12094(9) 0.63869(10) -.22736(10) . 1. 0
+Na1 Na1+ 8 b 0.87751(6) 0.63244(8) -.23217(7) . 1. 0
+Na2 Na1+ 8 b 0.61276(6) 0.86975(5) -.27723(6) . 1. 0
+Na3 Na1+ 4 a 0.37521(6) 0.62479(6) -.25 . 1. 0
+H1 H1+ 8 b 0.3921(25) 0.5729(27) 0.0348(29) 0.057(7) 1. 0
+H2 H1+ 8 b 0.8562(23) 0.6932(23) 0.0403(21) 0.036(6) 1. 0
+H3 H1+ 8 b 0.6408(22) 0.5576(25) -.2241(23) 0.043(7) 1. 0
+H4 H1+ 8 b 0.1221(24) 0.7175(26) -.2128(23) 0.049(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al3+ 0.0096(2) 0.0096(2) 0.0101(2) 0.0005(2) -.00018(11) 0.00018(11)
+O1 O2- 0.0110(4) 0.0169(4) 0.0197(4) -.0004(3) -.0002(3) 0.0031(4)
+O2 O2- 0.0113(4) 0.0156(4) 0.0147(4) -.0002(3) -.0006(3) -.0019(3)
+O3 O2- 0.0146(4) 0.0142(4) 0.0122(4) 0.0006(3) -.0004(3) -.0010(3)
+O4 O2- 0.0141(4) 0.0163(4) 0.0157(4) -.0006(3) 0.0007(3) 0.0000(3)
+Na1 Na1+ 0.0127(3) 0.0468(4) 0.0161(3) -.0004(2) 0.0023(2) 0.0002(2)
+Na2 Na1+ 0.0158(2) 0.0181(2) 0.0172(3) -.0012(2) -.0003(2) 0.0025(2)
+Na3 Na1+ 0.0141(2) 0.0141(2) 0.0199(3) 0.0004(3) -.0020(2) -.0020(2)
+#End of TTdata_402468-ICSD

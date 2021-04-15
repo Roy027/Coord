@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73100-ICSD
+_database_code_ICSD 73100
+_audit_creation_date 1994-06-30
+_chemical_name_systematic 'Sodium tungsten oxide nitride (4/0.818/3/1)'
+_chemical_formula_structural 'Na4 W0.818 O3 N'
+_chemical_formula_sum 'N1 Na4 O3 W0.818'
+_chemical_name_structure_type Na4WO2N2
+_exptl_crystal_density_diffrn 3.81
+_publ_section_title
+'Natrium oxonitridometallate(VI) von Molybdaen und Wolfram, Na4MO2N2 (M=Mo, W)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1993
+619 1277 1282 ZAACAB
+loop_
+_publ_author_name
+'Ostermann, D.'
+'Jacobs, H.'
+'Harbrecht, B.'
+_cell_length_a 5.812(2)
+_cell_length_b 5.853(3)
+_cell_length_c 8.824(3)
+_cell_angle_alpha 82.50(3)
+_cell_angle_beta 71.77(3)
+_cell_angle_gamma 68.71(3)
+_cell_volume 265.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 2 i 0.15550(6) 0.27582(6) 0.23947(4) . 0.818 0
+Na1 Na1+ 2 i 0.5233(5) 0.2617(5) 0.4362(4) . 1. 0
+Na2 Na1+ 2 i 0.9463(6) 0.2418(6) 0.6025(4) . 1. 0
+Na3 Na1+ 2 i 0.3896(6) 0.2777(6) 0.8186(4) . 1. 0
+Na4 Na1+ 2 i 0.2403(6) 0.7597(6) 0.9867(4) . 1. 0
+O1 O2- 2 i 0.1605(9) 0.5384(9) 0.6402(6) . 1. 0
+O2 O2- 2 i 0.3561(9) 0.4705(9) 0.1923(6) . 1. 0
+O3 O2- 2 i 0.2960(9) 0.0316(9) 0.3689(6) . 1. 0
+N1 N3- 2 i 0.150(1) 0.152(1) 0.0634(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.01193(8) 0.01159(8) 0.01138(9) -.00402(6) -.00344(6) -.00016(7)
+Na1 Na1+ 0.0175(9) 0.016(1) 0.024(1) -.0096(7) -.0094(8) 0.0028(9)
+Na2 Na1+ 0.016(1) 0.017(1) 0.019(1) -.0052(8) -.0026(8) -.0033(9)
+Na3 Na1+ 0.021(1) 0.024(1) 0.024(1) -.007(1) -.005(1) 0.000(1)
+Na4 Na1+ 0.019(1) 0.020(1) 0.022(1) 0.000(1) -.0073(9) -.001(1)
+O1 O2- 0.014(2) 0.017(2) 0.016(2) -.004(1) -.005(1) 0.001(1)
+O2 O2- 0.014(1) 0.016(2) 0.020(2) -.007(1) -.003(2) -.001(2)
+O3 O2- 0.015(1) 0.012(2) 0.019(2) -.004(1) -.007(1) 0.000(1)
+N1 N3- 0.024(2) 0.028(2) 0.026(2) -.012(2) -.012(2) -.006(2)
+#End of TTdata_73100-ICSD

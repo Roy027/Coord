@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252418-ICSD
+_database_code_ICSD 252418
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Tetrasodium heptanickel hexaarsenate'
+_chemical_formula_structural 'Na4 Ni7 (As O4)6'
+_chemical_formula_sum 'As6 Na4 Ni7 O24'
+_exptl_crystal_density_diffrn 4.51
+_cell_measurement_temperature 293.
+_publ_section_title 'Synthesis and crystal structure of Na4 Ni7 (AsO4)6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2016 72 632 634 ACSECI
+loop_
+_publ_author_name
+'David, Renald'
+_cell_length_a 14.5383(11)
+_cell_length_b 14.5047(11)
+_cell_length_c 10.6120(8)
+_cell_angle_alpha 90
+_cell_angle_beta 118.299(2)
+_cell_angle_gamma 90
+_cell_volume 1970.34
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0391
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+As5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 2 b 0.5 0 0 0.0068(4) 1 0
+Ni2 Ni2+ 4 h 0.5 0.1306(6) 0.5 0.0078(8) 0.80(4) 0
+Ni3 Ni2+ 4 h 0.5 0.166(5) 0.5 0.027(7) 0.20(4) 0
+Ni4 Ni2+ 8 j 0.91312(4) 0.18257(3) 0.23065(6) 0.00542(19) 1 0
+Ni5 Ni2+ 8 j 0.59336(4) 0.18693(3) 0.26615(6) 0.00530(19) 1 0
+Ni6 Ni2+ 4 g 0.5 0.32688(6) 0 0.0112(3) 1 0
+Ni7 Ni2+ 2 c 0 0 0.5 0.0061(4) 1 0
+As1 As5+ 8 j 0.85957(3) 0.18473(3) 0.45674(4) 0.00503(16) 1 0
+As2 As5+ 8 j 0.65106(3) 0.18354(3) 0.05278(4) 0.00470(15) 1 0
+As3 As5+ 4 i 0.47038(5) 0 0.28662(6) 0.0062(2) 1 0
+As4 As5+ 4 i 0.45990(5) 0.5 -0.20991(6) 0.0056(2) 1 0
+Na1 Na1+ 4 i 0.2934(2) 0.5 -0.0189(3) 0.0304(13) 1 0
+Na2 Na1+ 8 j 0.25173(16) 0.11586(14) 0.3367(2) 0.0305(9) 1 0
+Na3 Na1+ 4 i 0.7399(2) 0 0.3103(4) 0.0435(15) 1 0
+O1 O2- 8 j 0.6079(2) 0.09855(19) 0.1237(3) 0.0067(5) 1 0
+O2 O2- 8 j 0.8783(2) 0.2776(2) 0.3717(3) 0.0125(6) 1 0
+O3 O2- 4 i 0.4137(3) 0 0.1101(4) 0.0104(8) 1 0
+O4 O2- 8 j 0.4391(2) 0.21767(19) 0.1132(3) 0.0090(6) 1 0
+O5 O2- 8 j 0.7665(2) 0.1552(2) 0.0682(3) 0.0097(6) 1 0
+O6 O2- 8 j 0.5380(2) 0.4081(2) -0.1240(3) 0.0096(6) 1 0
+O7 O2- 4 i 0.3535(3) 0.5 -0.1899(5) 0.0140(9) 1 0
+O8 O2- 4 i 0.3901(4) 0 0.3581(5) 0.0232(11) 1 0
+O9 O2- 8 j 0.9333(2) 0.20454(19) 0.6329(3) 0.0089(6) 1 0
+O10 O2- 8 j 0.5468(2) 0.0939(2) 0.3604(3) 0.0115(6) 1 0
+O11 O2- 8 j 0.7395(2) 0.1588(2) 0.4274(3) 0.0096(6) 1 0
+O12 O2- 8 j 0.6448(2) 0.27433(19) 0.1522(3) 0.0092(6) 1 0
+O13 O2- 4 i 0.4220(3) 0.5 -0.3841(4) 0.0108(9) 1 0
+O14 O2- 8 j 0.8965(2) 0.10027(18) 0.3788(3) 0.0062(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0070(5) 0.0067(5) 0.0068(5) 0 0.0032(4) 0
+Ni2 Ni2+ 0.0102(7) 0.006(2) 0.0096(7) 0 0.0068(5) 0
+Ni3 Ni2+ 0.021(3) 0.04(2) 0.019(3) 0 0.010(2) 0
+Ni4 Ni2+ 0.0047(2) 0.0062(3) 0.0048(3) -0.00029(18) 0.0018(2) 0.00088(18)
+Ni5 Ni2+ 0.0050(2) 0.0057(3) 0.0048(3) 0.00053(18) 0.0020(2) -0.00048(18)
+Ni6 Ni2+ 0.0097(4) 0.0149(4) 0.0084(4) 0 0.0039(3) 0
+Ni7 Ni2+ 0.0070(5) 0.0048(5) 0.0066(5) 0 0.0033(4) 0
+As1 As5+ 0.0049(2) 0.0058(2) 0.0047(2) 0.00044(14) 0.00248(16) 0.00007(14)
+As2 As5+ 0.00360(19) 0.0057(2) 0.0046(2) 0.00079(14) 0.00184(16) 0.00099(14)
+As3 As5+ 0.0082(3) 0.0051(3) 0.0054(3) 0 0.0032(2) 0
+As4 As5+ 0.0061(3) 0.0044(3) 0.0058(3) 0 0.0024(2) 0
+Na1 Na1+ 0.0270(17) 0.0353(17) 0.0297(17) 0 0.0141(14) 0
+Na2 Na1+ 0.0251(11) 0.0240(11) 0.0399(14) -0.0090(9) 0.0134(10) -0.0080(10)
+Na3 Na1+ 0.0236(17) 0.0179(15) 0.061(2) 0 -0.0026(16) 0
+#End of TTdata_252418-ICSD

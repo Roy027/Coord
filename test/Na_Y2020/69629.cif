@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69629-ICSD
+_database_code_ICSD 69629
+_audit_creation_date 1992-08-20
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Sodium hydroxide tetrahydrate - beta'
+_chemical_formula_structural 'Na (O H) (H2 O)4'
+_chemical_formula_sum 'H9 Na1 O5'
+_chemical_name_structure_type NaOH(H2O)4(oP60)
+_exptl_crystal_density_diffrn 1.45
+_cell_measurement_temperature 118.
+_publ_section_title
+
+;
+Zum System Natriumhydroxid-Wasser. Die Kristallstruktur der metastabilen Phase
+beta-Na O H . 4(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1990
+582 162 168 ZAACAB
+loop_
+_publ_author_name
+'Mootz, D.'
+'Seidel, R.'
+_cell_length_a 6.237(3)
+_cell_length_b 6.288(3)
+_cell_length_c 13.121(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 514.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.50044(7) 0.74141(6) 0.50068(4) . 1. 0
+O1 O2- 4 a 0.27655(14) 0.31111(12) 0.70108(6) . 1. 0
+O2 O2- 4 a 0.26007(16) 0.90464(11) 0.61926(5) . 1. 0
+O3 O2- 4 a 0.23602(14) 0.47090(12) 0.51121(5) . 1. 0
+O4 O2- 4 a 0.25448(16) 0.89040(11) 0.37891(5) . 1. 0
+O5 O2- 4 a 0.32712(14) 0.32626(12) 0.30038(6) . 1. 0
+H1 H1+ 4 a 0.411(3) 0.328(3) 0.7039(15) 0.033(5) 1. 0
+H2 H1+ 4 a 0.242(4) 0.833(3) 0.6745(13) 0.032(4) 1. 0
+H3 H1+ 4 a 0.271(4) 0.036(3) 0.6443(15) 0.036(5) 1. 0
+H4 H1+ 4 a 0.243(4) 0.402(3) 0.5649(16) 0.041(5) 1. 0
+H5 H1+ 4 a 0.252(3) 0.394(3) 0.4605(12) 0.030(5) 1. 0
+H6 H1+ 4 a 0.249(4) 0.826(3) 0.3252(13) 0.026(4) 1. 0
+H7 H1+ 4 a 0.272(4) 0.021(3) 0.3608(13) 0.029(4) 1. 0
+H8 H1+ 4 a 0.462(4) 0.310(3) 0.3010(15) 0.033(5) 1. 0
+H9 H1+ 4 a 0.295(3) 0.452(3) 0.2649(13) 0.034(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0117(2) 0.0141(2) 0.0125(2) 0.0004(1) 0.0001(1) 0.0007(1)
+O1 O2- 0.0209(3) 0.0143(3) 0.0145(3) -.0020(3) 0.0002(3) 0.0015(2)
+O2 O2- 0.0199(3) 0.0132(3) 0.0115(3) -.0006(3) 0.0012(3) -.0009(2)
+O3 O2- 0.0223(3) 0.0121(3) 0.0136(3) 0.0010(3) -.0001(3) -.0006(2)
+O4 O2- 0.0195(3) 0.0141(3) 0.0108(3) -.0023(3) 0.0002(3) 0.0007(2)
+O5 O2- 0.0194(3) 0.0129(3) 0.0178(3) -.0027(3) 0.0018(3) 0.0001(3)
+#End of TTdata_69629-ICSD

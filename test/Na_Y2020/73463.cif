@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73463-ICSD
+_database_code_ICSD 73463
+_audit_creation_date 1994-06-30
+_audit_update_record 2005-10-01
+_chemical_name_systematic 'Tripotassium sodium bis(selenate(VI)) - LT'
+_chemical_formula_structural 'K3 Na (Se O4)2'
+_chemical_formula_sum 'K3 Na1 O8 Se2'
+_chemical_name_structure_type Na2BaCu(VO4)2
+_exptl_crystal_density_diffrn 3.16
+_cell_measurement_temperature 291.
+_publ_section_title
+
+;
+Structure determination of the ferroelastic triple-twinned phase of K3 Na (Se
+O4)2 at 291 K and its parent phase at 390 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1993 49 826 832
+ASBSDK
+loop_
+_publ_author_name
+'Fabry, J.'
+'Breczewski, T.'
+'Petricek, V.'
+_cell_length_a 10.162(2)
+_cell_length_b 5.867(1)
+_cell_length_c 15.021(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.00(1)
+_cell_angle_gamma 90.
+_cell_volume 895.56
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se6+ 6
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se6+ 8 f 0.16566(5) 0.49242(3) 0.13675(1) . 1. 0
+K1 K1+ 8 f 0.1681(1) 0.48888(7) 0.41293(3) . 1. 0
+K2 K1+ 4 e 0 0.9733(1) 0.25 . 1. 0
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+O1 O2- 8 f 0.1709(7) 0.5275(3) 0.2434(1) . 1. 0
+O2 O2- 8 f 0.0903(3) 0.7074(5) 0.0894(2) . 1. 0
+O3 O2- 8 f 0.0896(3) 0.2580(5) 0.1086(2) . 1. 0
+O4 O2- 8 f 0.3151(4) 0.4819(5) 0.0966(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se6+ 0.0143(3) 0.0089(2) 0.0096(1) -.00004(7) 0.0008(2) 0.00013(5)
+K1 K1+ 0.0212(6) 0.0177(5) 0.0159(2) -.0005(2) -.0009(5) 0.0015(1)
+K2 K1+ 0.0374(9) 0.0278(6) 0.0171(3) 0 0.0022(7) 0
+Na1 Na1+ 0.0181(16) 0.0137(14) 0.0175(5) 0.0001(4) 0.0013(16) 0.0010(3)
+O1 O2- 0.0585(28) 0.0477(19) 0.0106(8) -.0020(14) -.0025(19) -.0071(7)
+O2 O2- 0.0259(22) 0.0202(15) 0.0331(12) 0.0064(11) -.0041(16) 0.0083(11)
+O3 O2- 0.0239(22) 0.0167(15) 0.0383(13) -.0039(11) -.0073(16) -.0050(11)
+O4 O2- 0.0160(15) 0.0311(19) 0.0434(22) 0.0017(13) 0.0144(15) 0.0043(15)
+#End of TTdata_73463-ICSD

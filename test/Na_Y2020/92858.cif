@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92858-ICSD
+_database_code_ICSD 92858
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Disodium trimanganate(IV)'
+_chemical_formula_structural 'Na2 (Mn3 O7)'
+_chemical_formula_sum 'Mn3 Na2 O7'
+_chemical_name_structure_type Na2Mn3O7
+_exptl_crystal_density_diffrn 3.91
+_publ_section_title
+
+;
+Syntheses, structures, and preliminary electrochemistry of the layered lithium
+and sodium manganese(IV) oxides, A2 Mn3 O7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2001 13 4618 4623 CMATEX
+loop_
+_publ_author_name
+'Raekelboom, E.'
+'Hector, A.L.'
+'Owen, J.'
+'Vitins, G.'
+'Weller, M.T.'
+_cell_length_a 6.61909(14)
+_cell_length_b 6.83962(10)
+_cell_length_c 7.5282(4)
+_cell_angle_alpha 105.7735(22)
+_cell_angle_beta 106.8409(28)
+_cell_angle_gamma 111.6316(13)
+_cell_volume 274.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.093
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.252 0.6909 0.4912 0.0136(18) 1. 0
+Na2 Na1+ 2 i 0.3351(25) 0.8264(22) 0.0695(28) 0.0136(18) 1. 0
+Mn1 Mn4+ 2 i 0.0568(25) 0.0922(23) 0.2316(27) 0.0033(10) 1. 0
+Mn2 Mn4+ 2 i 0.3223(22) 0.3582(20) 0.0731(28) 0.0033(10) 1. 0
+Mn3 Mn4+ 2 i 0.1995(28) 0.2169(27) 0.6455(28) 0.0033(10) 1. 0
+O1 O2- 2 i 0.4060(18) 0.2185(17) 0.2695(20) 0.0142(6) 1. 0
+O2 O2- 2 i 0.7276(17) -0.0560(16) 0.1729(20) 0.0142(6) 1. 0
+O3 O2- 2 i 0.0380(19) 0.1972(18) 0.0273(20) 0.0142(6) 1. 0
+O4 O2- 2 i 0.1467(17) 0.3526(16) 0.4564(20) 0.0142(6) 1. 0
+O5 O2- 2 i 0.6829(19) 0.5294(18) 0.1275(19) 0.0142(6) 1. 0
+O6 O2- 2 i 0.1080(16) -0.0517(16) 0.4054(19) 0.0142(6) 1. 0
+O7 O2- 2 i 0.4422(17) 0.6271(16) 0.3031(19) 0.0142(6) 1. 0
+#End of TTdata_92858-ICSD

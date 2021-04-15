@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65162-ICSD
+_database_code_ICSD 65162
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Sodium silicon niobium oxide (.2/.2/9.4/18.3)'
+_chemical_formula_structural 'Na.17 Si.22 Nb9.44 O18.33'
+_chemical_formula_sum 'Na0.17 Nb9.44 O18.33 Si0.22'
+_exptl_crystal_density_diffrn 5.23
+_publ_section_title
+
+;
+Na3 Al2 Nb34 O64 und Na (Si, Nb) Nb10 O19: Clusterverbindungen mit isolierten
+Nb6 - Oktaedern
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+553 106 122 ZAACAB
+loop_
+_publ_author_name
+'Koehler, J.'
+'Simon, A.'
+_cell_length_a 7.841(1)
+_cell_length_b 7.841(1)
+_cell_length_c 42.218(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2247.87
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+Nb3+ 3.56
+Nb4+ 4
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 3 b 0 0 0.5 . 0.167 0
+Na2 Na1+ 3 a 0 0 0 . 0.167 0
+Si1 Si4+ 6 c 0 0 0.2630(1) . 0.225(1) 0
+Nb1 Nb3+ 18 f 0.2178(1) 0.1911(1) 0.4186(1) . 1. 0
+Nb2 Nb3+ 18 f 0.0242(1) 0.2180(1) 0.3633(1) . 1. 0
+Nb3 Nb4+ 18 f 0.5368(1) 0.6098(1) 0.4738(1) . 1. 0
+Nb4 Nb5+ 6 c 0 0 0.0827(1) . 0.334 0
+Nb5 Nb5+ 6 c 0 0 0.2959(1) . 0.108(1) 0
+O1 O2- 18 f 0.1965(6) 0.9715(6) 0.4473(1) . 1. 0
+O2 O2- 18 f 0.4332(6) 0.1730(6) 0.3899(1) . 1. 0
+O3 O2- 18 f 0.0778(6) 0.2295(6) 0.2744(1) . 1. 0
+O4 O2- 18 f 0.5742(6) 0.8461(6) 0.4982(1) . 1. 0
+O5 O2- 18 f 0.4946(6) 0.4005(6) 0.4438(1) . 1. 0
+O6 O2- 18 f 0.2287(7) 0.1980(7) 0.3344(1) . 1. 0
+O7 O2- 6 c 0 0 0.2213(2) . 0.334 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0444(31) 0.0444(31) 0.0367(39) 0.0222(15) 0 0
+Na2 Na1+ 0.1485(65) 0.1485(65) 0.0610(59) 0.0743(33) 0 0
+Si1 Si4+ 0.0069(13) 0.0069(13) 0.0052(17) 0.0035(6) 0 0
+Nb1 Nb3+ 0.0073(3) 0.0070(3) 0.0067(2) 0.0037(2) -.0004(2) -.0006(2)
+Nb2 Nb3+ 0.0080(3) 0.0091(3) 0.0074(2) 0.0047(2) 0.0002(2) 0.0009(2)
+Nb3 Nb4+ 0.0086(3) 0.0078(3) 0.0071(2) 0.0037(2) 0.0004(2) 0.0002(2)
+Nb4 Nb5+ 0.0084(3) 0.0084(3) 0.0083(4) 0.0042(2) 0 0
+Nb5 Nb5+ 0.0109(11) 0.0109(11) 0.0070(13) 0.0055(5) 0 0
+O1 O2- 0.0081(20) 0.0101(21) 0.0109(18) 0.0037(17) -.0019(14) 0.0007(14)
+O2 O2- 0.0107(21) 0.0110(21) 0.0094(18) 0.0047(17) 0.0010(14) 0.0004(14)
+O3 O2- 0.0110(21) 0.0075(21) 0.0136(19) 0.0024(17) -.0014(15) 0.0037(14)
+O4 O2- 0.0088(20) 0.0067(20) 0.0146(19) 0.0040(17) -.0030(14) -.0004(14)
+O5 O2- 0.0086(20) 0.0102(21) 0.0110(18) 0.0049(17) -.0007(14) -.0012(14)
+O6 O2- 0.0223(25) 0.0194(24) 0.0147(20) 0.0172(21) 0.0093(16) 0.0095(16)
+O7 O2- 0.0073(22) 0.0073(22) 0.0186(32) 0.0032(11) 0 0
+#End of TTdata_65162-ICSD

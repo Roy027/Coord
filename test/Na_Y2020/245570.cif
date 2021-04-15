@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245570-ICSD
+_database_code_ICSD 245570
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Sodium strontium nonaoxopentaborate'
+_chemical_formula_structural 'Na Sr B5 O9'
+_chemical_formula_sum 'B5 Na1 O9 Sr1'
+_chemical_name_structure_type NaCaB5O9
+_exptl_crystal_density_diffrn 2.93
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The Na2O-SrO-B2O3 diagram in the B-rich part and the crystal structure of Na
+Sr B5 O9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 1470 1475 JSSCBI
+loop_
+_publ_author_name
+'Wu, L.'
+'Zhang, Y.'
+'Chen, X.-L.'
+'Kong, Y.-F.'
+'Sun, T.Q.'
+'Xu, J.-J.'
+'Xu, Y.-P.'
+_cell_length_a 6.4963(1)
+_cell_length_b 13.9703(2)
+_cell_length_c 8.0515(1)
+_cell_angle_alpha 90
+_cell_angle_beta 106.900(1)
+_cell_angle_gamma 90
+_cell_volume 699.16
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0519
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 e 0.1002(1) 0.2293(1) 0.5615(1) 0.0085(1) 1. 0
+Na1 Na1+ 4 e 0.4617(5) 0.5829(2) 0.6502(4) 0.0091(4) 1. 0
+O1 O2- 4 e 0.8300(4) 0.6457(2) 0.6437(3) 0.0016(5) 1. 0
+O2 O2- 4 e 0.1326(4) 0.5387(2) 0.7126(3) 0.0010(5) 1. 0
+O3 O2- 4 e 0.4370(3) 0.4431(1) 0.8056(2) 0.0027(5) 1. 0
+O4 O2- 4 e 0.0833(3) 0.3780(1) 0.7867(2) 0.0038(5) 1. 0
+O5 O2- 4 e 0.7692(4) 0.4797(2) 0.6506(3) 0.0059(5) 1. 0
+O6 O2- 4 e 0.7830(4) 0.3773(1) 0.8937(3) 0.0060(5) 1. 0
+O7 O2- 4 e 0.7435(4) 0.3077(2) 0.5991(3) 0.0019(5) 1. 0
+O8 O2- 4 e 0.5052(4) 0.1660(2) 0.5332(4) 0.0124(7) 1. 0
+O9 O2- 4 e 0.4876(2) 0.2725(1) 0.7459(2) 0.0058(5) 1. 0
+B1 B3+ 4 e 0.9209(9) 0.5477(4) 0.6748(7) 0.0055(9) 1. 0
+B2 B3+ 4 e 0.2287(6) 0.4538(2) 0.7562(5) 0.0069(9) 1. 0
+B3 B3+ 4 e 0.8387(9) 0.3920(4) 0.7242(7) 0.0056(9) 1. 0
+B4 B3+ 4 e 0.5857(9) 0.2397(4) 0.6240(7) 0.020(1) 1. 0
+B5 B3+ 4 e 0.5624(7) 0.1385(3) 0.3720(5) 0.008(1) 1. 0
+#End of TTdata_245570-ICSD

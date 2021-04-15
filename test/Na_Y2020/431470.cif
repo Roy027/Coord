@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431470-ICSD
+_database_code_ICSD 431470
+_audit_creation_date 2018-02-01
+_chemical_name_systematic
+'Disodium trisamarium trichloride tetrakis(tellurate(IV))'
+_chemical_formula_structural 'Na2 Sm3 Cl3 (Te O3)4'
+_chemical_formula_sum 'Cl3 Na2 O12 Sm3 Te4'
+_exptl_crystal_density_diffrn 5.31
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, structures, and luminescent properties of sodium rare-earth
+metal(III) chloride oxotellurates(IV), Na2Ln3Cl3[TeO3]4 (Ln = Sm, Eu, Gd, Tb,
+Dy, and Ho)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2017 643 1654 1660
+ZAACAB
+loop_
+_publ_author_name
+'Charkin, Dmitri O.'
+'Zitzer, Sabine'
+'Greiner, Stefan'
+'Dorofeev, Sergey G.'
+'Olenev, Andrei V.'
+'Berdonosov, Peter S.'
+'Schleid, Thomas'
+'Dolgikh, Valery A.'
+_cell_length_a 23.967(5)
+_cell_length_b 5.6342(11)
+_cell_length_c 16.953(3)
+_cell_angle_alpha 90
+_cell_angle_beta 134.46(3)
+_cell_angle_gamma 90
+_cell_volume 1633.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0344
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sm3+ 3
+Te4+ 4
+Cl1- -1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sm1 Sm3+ 4 e 0. 0.75077(8) 0.25 0.01047(13) 1 0
+Sm2 Sm3+ 8 f -0.00156(2) 0.25084(5) 0.41372(3) 0.01089(12) 1 0
+Te1 Te4+ 8 f -0.13451(2) -0.20062(8) 0.30309(3) 0.01120(13) 1 0
+Te2 Te4+ 8 f 0.13758(2) 0.30592(7) 0.40630(3) 0.01095(13) 1 0
+Cl1 Cl1- 4 c 0.25 0.75 0.5 0.0310(7) 1 0
+Cl2 Cl1- 8 f -0.24968(11) 0.2538(3) 0.16824(15) 0.0263(5) 1 0
+Na1 Na1+ 8 f 0.1666(2) 0.7804(7) 0.5715(3) 0.0343(9) 1 0
+O1 O2- 8 f 0.0733(3) 0.4221(8) 0.2610(4) 0.0145(9) 1 0
+O2 O2- 8 f -0.0712(3) 0.5579(9) 0.4066(4) 0.0158(10) 1 0
+O3 O2- 8 f 0.0887(3) 0.5178(8) 0.4291(4) 0.0139(9) 1 0
+O4 O2- 8 f -0.0872(3) 0.0157(8) 0.4213(4) 0.0132(9) 1 0
+O5 O2- 8 f 0.0758(3) 1.0595(9) 0.3862(4) 0.0143(9) 1 0
+O6 O2- 8 f 0.0680(3) 0.9152(9) 0.2103(4) 0.0173(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sm1 Sm3+ 0.0133(2) 0.0078(2) 0.0112(2) 0. 0.0089(2) 0.
+Sm2 Sm3+ 0.0139(2) 0.00841(19) 0.0109(2) 0.00000(11) 0.00882(18) -0.00014(10)
+Te1 Te4+ 0.0112(2) 0.0102(2) 0.0102(2) -0.00081(16) 0.00677(18) -0.00013(14)
+Te2 Te4+ 0.0107(2) 0.0100(2) 0.0107(2) 0.00031(16) 0.00692(18) 0.00041(15)
+Cl1 Cl1- 0.0340(17) 0.0248(15) 0.0426(19) -0.0041(11) 0.0299(17) -0.0036(11)
+Cl2 Cl1- 0.0276(12) 0.0267(12) 0.0251(11) 0.0033(8) 0.0187(11) 0.0017(7)
+Na1 Na1+ 0.0198(16) 0.037(2) 0.035(2) -0.0021(15) 0.0147(16) -0.0220(15)
+O1 O2- 0.020(2) 0.011(2) 0.013(2) 0.001(2) 0.012(2) 0.0021(17)
+O2 O2- 0.019(2) 0.012(2) 0.012(2) 0.0060(19) 0.009(2) 0.0023(17)
+O3 O2- 0.016(2) 0.010(2) 0.014(2) 0.0018(18) 0.009(2) -0.0025(17)
+O4 O2- 0.016(2) 0.008(2) 0.012(2) -0.0011(19) 0.0084(19) -0.0022(16)
+O5 O2- 0.014(2) 0.013(2) 0.015(2) 0.0006(19) 0.009(2) 0.0021(17)
+O6 O2- 0.021(2) 0.015(2) 0.020(2) 0.000(2) 0.016(2) 0.0006(19)
+#End of TTdata_431470-ICSD

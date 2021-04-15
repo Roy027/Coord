@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280021-ICSD
+_database_code_ICSD 280021
+_audit_creation_date 2000-07-15
+_chemical_name_systematic 'Dicalcium disodium tetraniobium oxide'
+_chemical_formula_structural 'Ca2 Na2 Nb4 O13'
+_chemical_formula_sum 'Ca2 Na2 Nb4 O13'
+_exptl_crystal_density_diffrn 4.3
+_publ_section_title
+'A Ruddlesden-Popper-type layered perovskite, Na2 Ca2 Nb4 O13'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1999 55 1041 1044 ACSCEE
+loop_
+_publ_author_name
+'Chiba, K.'
+'Ishizawa, N.'
+'Oishi, S.'
+_cell_length_a 5.474(3)
+_cell_length_b 5.510(3)
+_cell_length_c 36.150(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1090.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'B b 21 m'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, z'
+2 '-x, y+1/2, -z'
+3 'x, y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, -z+1/2'
+7 'x+1/2, y, -z+1/2'
+8 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 8 b 0.2623(15) 0 0.05497(5) . 1. 0
+Nb2 Nb5+ 8 b 0.2517(14) 0.9897(13) 0.16809(4) . 1. 0
+Ca1 Ca2+ 4 a 0.244(5) 0.507(5) 0 0.018(2) 0.63(3) 0
+Na1 Na1+ 4 a 0.244(5) 0.507(5) 0 0.018(2) 0.37(3) 0
+Ca2 Ca2+ 8 b 0.250(4) 0.4738(19) 0.11318(12) 0.0192(12) 0.69(3) 0
+Na2 Na1+ 8 b 0.250(4) 0.4738(19) 0.11318(12) 0.0192(12) 0.31(3) 0
+Na3 Na1+ 8 b 0.276(5) 0.498(11) 0.2216(4) 0.019(6) 0.5 0
+O1 O2- 4 a 0.197(3) 0.036(5) 0 0.018(6) 1. 0
+O2 O2- 8 b 0.2997(18) 0.024(3) 0.1056(4) 0.014(3) 1. 0
+O3 O2- 8 b 0.207(2) 0.010(6) 0.2177(4) 0.025(4) 1. 0
+O4 O2- 8 b 0.051(3) 0.308(3) 0.0586(5) 0.012(3) 1. 0
+O5 O2- 8 b 0.458(4) 0.713(4) 0.0457(5) 0.019(4) 1. 0
+O6 O2- 8 b 0.979(4) 0.236(4) 0.1532(4) 0.009(3) 1. 0
+O7 O2- 8 b 0.525(4) 0.773(4) 0.1651(5) 0.015(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0017(13) 0.0054(6) 0.0090(6) 0.000(4) 0.0005(11) 0.0027(10)
+Nb2 Nb5+ 0.0065(5) 0.0087(8) 0.0120(7) 0.001(7) 0.004(2) 0.0014(11)
+#End of TTdata_280021-ICSD

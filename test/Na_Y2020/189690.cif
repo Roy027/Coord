@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_189690-ICSD
+_database_code_ICSD 189690
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Sodium aluminosilicate (8/8)'
+_chemical_formula_structural 'Na7.52 (Al8 Si8 O32)'
+_chemical_formula_sum 'Al8 Na7.52 O32 Si8'
+_chemical_name_mineral 'Amicite (Na-phase)'
+_exptl_crystal_density_diffrn 2.25
+_cell_measurement_temperature 448.
+_publ_section_title
+
+;
+High-temperature induced dehydration, phase transition and exsolution in
+amicite: A single-crystal X-ray study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous and Mesoporous Materials' 2013 182 207 219 MIMMFJ
+loop_
+_publ_author_name
+'Pakhomova, Anna S.'
+'Danisi, Rosa Micaela'
+'Armbruster, Thomas'
+'Lazic, Biljana'
+'Gfeller, Frank'
+'Krivovichev, Sergey V.'
+'Yakovenchuk, Victor N.'
+_cell_length_a 9.7021(19)
+_cell_length_b 9.0255(18)
+_cell_length_c 9.4942(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.29(3)
+_cell_angle_gamma 90.
+_cell_volume 831.36
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0659
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 f 0.13368(11) 0.43026(10) 0.19421(11) 0.0084(5) 1. 0
+Al1 Al3+ 8 f 0.43216(12) 0.32758(11) 0.11563(13) 0.0090(5) 1. 0
+O1 O2- 8 f 0.0872(3) 0.6026(3) 0.1855(4) 0.0140(7) 1. 0
+O2 O2- 8 f 0.0766(4) 0.3613(3) 0.3412(3) 0.0157(7) 1. 0
+O3 O2- 8 f 0.3002(4) 0.4290(3) 0.1928(4) 0.0202(8) 1. 0
+O4 O2- 8 f 0.0675(4) 0.3348(4) 0.0669(4) 0.0238(9) 1. 0
+Na1 Na1+ 8 f 0.0656(8) 0.4456(7) 0.5761(6) 0.046(4) 0.46(3) 0
+Na2 Na1+ 8 f 0.1757(7) 0.8023(7) 0.3129(11) 0.065(4) 0.48(3) 0
+#End of TTdata_189690-ICSD

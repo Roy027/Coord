@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_91464-ICSD
+_database_code_ICSD 91464
+_audit_creation_date 2002-10-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Sodium lanthanum magnesium tungsten oxide (0.5/0.5/0.5/0.5/3)'
+_chemical_formula_structural '(Na0.5 La0.5) (Mg0.5 W0.5) O3'
+_chemical_formula_sum 'La0.5 Mg0.5 Na0.5 O3 W0.5'
+_chemical_name_structure_type NaLaMgWO6
+_exptl_crystal_density_diffrn 6.39
+_publ_section_title 'Structural study of complex perovskite (Na, La) (Mg, W) O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ceramic Transactions' 2000 104 79 85 CETREW
+loop_
+_publ_author_name
+'Hiramatsu, N.'
+'Mishima, T.'
+'Sagala, D.A.'
+_cell_length_a 5.5328(6)
+_cell_length_b 5.5334(6)
+_cell_length_c 7.9109(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.889(5)
+_cell_angle_gamma 90.
+_cell_volume 242.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.083
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+La3+ 3
+Na1+ 1
+La3+ 3
+Mg2+ 2
+W6+ 6
+Mg2+ 2
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 e 0.274(5) 0.25 0.020(3) 0.72(4) 0.971(3) 0
+La1 La3+ 2 e 0.274(5) 0.25 0.020(3) 0.72(4) 0.029(3) 0
+Na2 Na1+ 2 e 0.251(2) 0.25 0.503(2) 0.72(4) 0.029(3) 0
+La2 La3+ 2 e 0.251(2) 0.25 0.503(2) 0.72(4) 0.971(3) 0
+Mg1 Mg2+ 2 e 0.762(6) 0.25 0.245(3) 0.72(4) 0.999(2) 0
+W1 W6+ 2 e 0.762(6) 0.25 0.245(3) 0.72(4) 0.001(2) 0
+Mg2 Mg2+ 2 e 0.749(1) 0.25 0.7663(4) 0.72(4) 0.001(2) 0
+W2 W6+ 2 e 0.749(1) 0.25 0.7663(4) 0.72(4) 0.999(2) 0
+O1 O2- 4 f 0.502(9) 0.478(9) 0.708(2) 0.72(4) 1. 0
+O2 O2- 4 f 0.047(6) 0.008(6) 0.224(2) 0.72(4) 1. 0
+O3 O2- 2 e 0.690(5) 0.25 0.501(2) 0.72(4) 1. 0
+O4 O2- 2 e 0.816(5) 0.25 0.989(2) 0.72(4) 1. 0
+#End of TTdata_91464-ICSD

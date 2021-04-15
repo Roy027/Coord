@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150313-ICSD
+_database_code_ICSD 150313
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Disodium heptaoxodialumodiborate'
+_chemical_formula_structural 'Na2 (Al2 B2 O7)'
+_chemical_formula_sum 'Al2 B2 Na2 O7'
+_chemical_name_structure_type Na2Al2B2O7
+_exptl_crystal_density_diffrn 2.55
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Re-examination of the crystal structure of Na2 Al2 B2 O7: stacking faults and
+twinning
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 3212 3218 JSSCBI
+loop_
+_publ_author_name
+'He, M.'
+'Kienle, L.'
+'Simon, A.'
+'Chen, X.-L.'
+'Duppel, V.'
+_cell_length_a 4.8010(4)
+_cell_length_b 4.8010(4)
+_cell_length_c 15.2425(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 304.26
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3 1 c'
+_symmetry_Int_Tables_number 163
+_refine_ls_R_factor_all 0.0306
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, -z+1/2'
+2 'x, x-y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, -y, z+1/2'
+8 '-x, -x+y, z+1/2'
+9 'y, x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 f 0.3333 0.6667 0.63991(4) 0.0148(2) 1. 0
+Na1 Na1+ 2 b 0 0 0 0.0185(3) 1. 0
+Na2 Na1+ 2 a 0 0 0.25 0.0423(5) 1. 0
+O1 O2- 12 i 0.9612(2) 0.6029(3) 0.8952(1) 0.0342(4) 1. 0
+O2 O2- 6 h -0.3747(7) 0.3747(7) 0.25 0.046(3) 0.333 0
+B1 B3+ 4 f 0.3333 0.6667 0.1040(2) 0.0213(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al3+ 0.0126(3) 0.0126(3) 0.0191(3) 0.00632(13) 0. 0.
+Na1 Na1+ 0.0169(4) 0.0169(4) 0.0218(6) 0.0084(2) 0. 0.
+Na2 Na1+ 0.0303(6) 0.0303(6) 0.0664(13) 0.0151(3) 0. 0.
+O1 O2- 0.0088(4) 0.0114(4) 0.0806(9) 0.0038(3) 0.0025(6) -0.0079(6)
+O2 O2- 0.063(4) 0.063(4) 0.0224(16) 0.040(3) -0.005(8) -0.005(8)
+B1 B3+ 0.0094(5) 0.0094(5) 0.0451(15) 0.0047(3) 0. 0.
+#End of TTdata_150313-ICSD

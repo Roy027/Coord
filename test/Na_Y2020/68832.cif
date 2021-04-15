@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68832-ICSD
+_database_code_ICSD 68832
+_audit_creation_date 1992-01-20
+_chemical_name_systematic 'Sodium aluminium titanium oxide (2/1.8/6.2/16)'
+_chemical_formula_structural 'Na1.97 Al1.82 Ti6.15 O16'
+_chemical_formula_sum 'Al1.82 Na1.97 O16 Ti6.15'
+_chemical_name_structure_type NaTi4O8
+_exptl_crystal_density_diffrn 3.83
+_publ_section_title
+
+;
+Rietveld powder structure refinement of Na2Al2Ti6O16; comparison of
+synchrotron radiation and conventional x-ray tube datasets
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Research' 1990 5 1538 1543 JMREEE
+loop_
+_publ_author_name
+'Toraya, H.'
+'Masciocchi, N.'
+'Parrish, W.'
+_cell_length_a 12.1239(3)
+_cell_length_b 3.7749(1)
+_cell_length_c 6.4180(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.59(1)
+_cell_angle_gamma 90.
+_cell_volume 280.
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+Al3+ 3
+Ti4+ 4
+Al3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 4 i 0.2989(2) 0 0.7073(3) 0.45(8) 0.658(7) 0
+Al1 Al3+ 4 i 0.2989(2) 0 0.7073(3) 0.45(8) 0.337(7) 0
+Ti2 Ti4+ 4 i 0.3975(2) 0 0.2965(3) 0.67(7) 0.878(7) 0
+Al2 Al3+ 4 i 0.3975(2) 0 0.2965(3) 0.67(7) 0.117(7) 0
+Na1 Na1+ 2 a 0 0 0 3.09(14) 0.985(8) 0
+O1 O2- 4 i 0.3690(4) 0 0.9923(8) 1.07(15) 1. 0
+O2 O2- 4 i 0.2336(5) 0 0.3458(7) 1.29(16) 1. 0
+O3 O2- 4 i 0.1373(5) 0 0.7075(7) 0.71(15) 1. 0
+O4 O2- 4 i 0.4431(4) 0 0.6363(7) 1.21(16) 1. 0
+#End of TTdata_68832-ICSD

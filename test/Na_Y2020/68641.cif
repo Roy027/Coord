@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68641-ICSD
+_database_code_ICSD 68641
+_audit_creation_date 1991-07-10
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Pentasodium pentafluorononaoxotritungstate'
+_chemical_formula_structural 'Na5 (W3 O9 F5)'
+_chemical_formula_sum 'F5 Na5 O9 W3'
+_exptl_crystal_density_diffrn 5.22
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Coupling of ferroelasticity to ferroelectricity in Na5 W3 O9 F5 and the
+structure at 295 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1989 45 364 370
+ASBSDK
+loop_
+_publ_author_name
+'Abrahams, S.C.'
+'Marsh, P.'
+'Ravez, J.'
+_cell_length_a 7.3597(7)
+_cell_length_b 10.6342(15)
+_cell_length_c 7.3618(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.77
+_cell_angle_gamma 90.
+_cell_volume 576.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z+1/2'
+4 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+F1- -1
+O2- -2
+F1- -1
+O2- -2
+F1- -1
+O2- -2
+F1- -1
+O2- -2
+F1- -1
+O2- -2
+F1- -1
+O2- -2
+F1- -1
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 2 a 0 0 0 0.15(10) 1. 0
+W2 W6+ 2 b 0.5 -.0038(8) 0 0.14(12) 1. 0
+W3 W6+ 2 b 0 -.0007(10) 0.5 0.16(8) 1. 0
+Na1 Na1+ 2 a 0.5 -.0052(57) 0.5 0.27(4) 1. 0
+Na2 Na1+ 4 c 0.2529(27) 0.2380(22) 0.2546(31) 0.22(2) 1. 0
+Na3 Na1+ 4 c 0.2507(31) -.2526(35) 0.7505(42) 0.23(5) 1. 0
+O1 O2- 2 a 0 0.1753(35) 0 0.36(25) 0.643 0
+F1 F1- 2 a 0 0.1753(35) 0 0.36(25) 0.357 0
+O2 O2- 2 a 0 -.1754(35) 0 0.36(25) 0.643 0
+F2 F1- 2 a 0 -.1754(35) 0 0.36(25) 0.357 0
+O3 O2- 4 c 0.2449(11) 0.0358(12) 0.0137(28) 0.24(17) 0.643 0
+F3 F1- 4 c 0.2449(11) 0.0358(12) 0.0137(28) 0.24(17) 0.357 0
+O4 O2- 4 c 0.0004(19) 0.0326(11) -.2500(17) 0.18(17) 0.643 0
+F4 F1- 4 c 0.0004(19) 0.0326(11) -.2500(17) 0.18(17) 0.357 0
+O5 O2- 4 c 0.1996(26) 0.1138(17) 0.5316(22) 0.21(6) 0.643 0
+F5 F1- 4 c 0.1996(26) 0.1138(17) 0.5316(22) 0.21(6) 0.357 0
+O6 O2- 4 c 0.5123(53) -.1276(24) -.2062(64) 0.31(15) 0.643 0
+F6 F1- 4 c 0.5123(53) -.1276(24) -.2062(64) 0.31(15) 0.357 0
+O7 O2- 4 c 0.1791(25) -.1289(17) 0.4679(23) 0.21(8) 0.643 0
+F7 F1- 4 c 0.1791(25) -.1289(17) 0.4679(23) 0.21(8) 0.357 0
+O8 O2- 4 c -.5042(35) 0.1274(19) -.1785(38) 0.22(14) 0.643 0
+F8 F1- 4 c -.5042(35) 0.1274(19) -.1785(38) 0.22(14) 0.357 0
+#End of TTdata_68641-ICSD

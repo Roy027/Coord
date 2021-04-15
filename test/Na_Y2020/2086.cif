@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2086-ICSD
+_database_code_ICSD 2086
+_audit_creation_date 1980-01-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Sodium trialuminium tetrahydroxide bis(phosphate(V))'
+_chemical_formula_structural 'Na Al3 (P O4)2 (O H)4'
+_chemical_formula_sum 'H4 Al3 Na1 O12 P2'
+_chemical_name_structure_type NaAl3(PO4)2(OH)4
+_chemical_name_mineral Brazilianite
+_exptl_crystal_density_diffrn 3.
+_publ_section_title
+'The crystal structure of brazilianite, Na Al3 (P O4)2 (O H)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1974 30 1311 1317 ACBCAR
+loop_
+_publ_author_name
+'Gatehouse, B.M.'
+'Miskin, B.K.'
+_cell_length_a 11.233(6)
+_cell_length_b 10.142(5)
+_cell_length_c 7.097(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.37(2)
+_cell_angle_gamma 90.
+_cell_volume 801.85
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Al3+ 3
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 e 0.1804(1) 0.3122(1) 0.2375(2) . 1. 0
+P2 P5+ 4 e 0.3124(1) 0.3279(1) 0.7538(2) . 1. 0
+Al1 Al3+ 4 e 0.0432(2) 0.2204(1) 0.5614(2) . 1. 0
+Al2 Al3+ 4 e 0.2630(1) 0.0673(1) 0.5082(2) . 1. 0
+Al3 Al3+ 4 e 0.4594(1) 0.2545(1) 0.4328(2) . 1. 0
+Na1 Na1+ 4 e 0.3036(3) 0.0751(2) 0.0350(3) . 1. 0
+O1 O2- 4 e 0.1035(3) 0.0794(3) 0.4498(4) 0.53(4) 1. 0
+O2 O2- 4 e 0.4328(3) 0.1010(3) 0.5620(4) 0.56(4) 1. 0
+O3 O2- 4 e 0.0030(3) 0.3496(3) 0.7243(4) 0.54(4) 1. 0
+O4 O2- 4 e 0.4974(3) 0.3860(3) 0.2698(4) 0.55(4) 1. 0
+O5 O2- 4 e 0.1145(3) 0.2392(3) 0.0664(4) 0.66(4) 1. 0
+O6 O2- 4 e 0.2878(3) 0.2219(3) 0.3187(4) 0.53(4) 1. 0
+O7 O2- 4 e 0.2260(3) 0.2135(3) 0.6811(4) 0.50(45) 1. 0
+O8 O2- 4 e 0.3878(3) 0.2806(3) 0.9348(4) 0.62(4) 1. 0
+O9 O2- 4 e 0.1000(3) 0.3403(3) 0.3935(4) 0.61(4) 1. 0
+O10 O2- 4 e 0.3917(3) 0.3673(3) 0.6014(4) 0.61(4) 1. 0
+O11 O2- 4 e 0.2259(3) 0.4468(3) 0.1822(4) 0.69(4) 1. 0
+O12 O2- 4 e 0.2355(3) 0.4487(3) 0.7907(4) 0.61(4) 1. 0
+H1 H1+ 4 e 0.062(10) 0.003(10) 0.372(10) 1.0(4) 1. 0
+H2 H1+ 4 e 0.464(10) 0.098(10) 0.68(1) 1.0(4) 1. 0
+H3 H1+ 4 e 0.073(10) 0.408(10) 0.748(10) 1.0(4) 1. 0
+H4 H1+ 4 e 0.046(10) 0.058(10) 0.84(1) 1.0(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0032(4) 0.0037(4) 0.0037(4) 0.0(3) 0.0003(3) 0.0006(3)
+P2 P5+ 0.0033(4) 0.0031(4) 0.0040(4) -.0002(3) 0.0007(4) -.0004(3)
+Al1 Al3+ 0.0052(5) 0.0047(5) 0.0049(5) 0.0005(4) 0.0015(5) -.0004(4)
+Al2 Al3+ 0.0035(5) 0.0048(5) 0.0059(5) 0.0003(4) 0.0007(4) -.0006(4)
+Al3 Al3+ 0.0048(5) 0.0046(5) 0.0043(5) -.0001(4) 0.0011(4) 0.0002(4)
+Na1 Na1+ 0.0369(12) 0.0144(9) 0.0173(10) -.0049(9) 0.0016(9) 0.0005(7)
+#End of TTdata_2086-ICSD

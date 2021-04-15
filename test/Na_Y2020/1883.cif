@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1883-ICSD
+_database_code_ICSD 1883
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Disodium ditungstate'
+_chemical_formula_structural 'Na2 (W2 O7)'
+_chemical_formula_sum 'Na2 O7 W2'
+_chemical_name_structure_type Na2Mo2O7
+_exptl_crystal_density_diffrn 5.53
+_publ_section_title 'Disodium ditungstate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 1200 1201 ACBCAR
+loop_
+_publ_author_name
+'Okada, K.'
+'Morikawa, H.'
+'Marumo, F.'
+'Iwai, S.I.'
+_cell_length_a 7.216(1)
+_cell_length_b 11.899(1)
+_cell_length_c 14.716(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1263.56
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 e 0.25 0.08606(4) 0.25 . 1. 0
+W2 W6+ 8 f 0 0.24688(5) 0.08537(4) . 1. 0
+Na1 Na1+ 8 d 0.2507(22) 0 0 1.67 1. 0
+Na2 Na1+ 8 f 0 0.3259(8) 0.3443(6) 1.76 1. 0
+O1 O2- 16 g 0.2042(13) 0.2323(7) 0.1554(6) 1.33 1. 0
+O2 O2- 16 g 0.1991(14) 0.4927(7) 0.3361(7) 1.34 1. 0
+O3 O2- 8 f 0 0.1256(10) 0.2816(8) 0.99 1. 0
+O4 O2- 8 f 0 0.3755(11) 0.0289(9) 1.31 1. 0
+O5 O2- 8 f 0 0.3590(13) 0.5019(9) 1.42 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+W1 W6+ 0.00287(5) 0.00147(2) 0.00086(1) 0 -.00003(3) 0
+W2 W6+ 0.00357(6) 0.00151(2) 0.00094(2) 0 0 0.00018(2)
+#End of TTdata_1883-ICSD

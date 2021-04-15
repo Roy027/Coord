@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419049-ICSD
+_database_code_ICSD 419049
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Sodium holmium diphosphate'
+_chemical_formula_structural 'Na Ho (P2 O7)'
+_chemical_formula_sum 'Ho1 Na1 O7 P2'
+_exptl_crystal_density_diffrn 3.92
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Ionic conduction, bond valence analysis of structure - property relationships
+of Na Ho P2 O7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2013 204 224 232 JSSCBI
+loop_
+_publ_author_name
+'Bejaoui, Anis'
+'Horchani-Naifer, Karima'
+'Ferid, Mokhtar'
+_cell_length_a 8.6796(4)
+_cell_length_b 5.3677(2)
+_cell_length_c 13.6904(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.120(2)
+_cell_angle_gamma 90.
+_cell_volume 612.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0494
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ho3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ho1 Ho3+ 4 e 0.39867(4) 0.23437(7) 0.64728(2) 0.0089(3) 1 0
+P1 P5+ 4 e 0.2878(3) 0.7154(4) 0.4766(2) 0.0087(5) 1 0
+P2 P5+ 4 e 0.0002(4) 0.7465(3) 0.3135(2) 0.0064(6) 1 0
+Na1 Na1+ 4 e 0.2203(5) 0.7231(5) 0.1649(3) 0.0204(9) 1 0
+O1 O2- 4 e 0.3400(6) 0.8636(10) 0.5724(4) 0.0208(12) 1 0
+O2 O2- 4 e 0.3673(10) 0.7980(11) 0.3980(6) 0.0210(15) 1 0
+O3 O2- 4 e 0.3071(5) 0.4340(9) 0.4967(3) 0.0161(11) 1 0
+O4 O2- 4 e 0.1001(9) 0.7713(7) 0.4301(5) 0.0122(14) 1 0
+O5 O2- 4 e -0.1719(11) 0.7333(9) 0.3139(8) 0.0231(18) 1 0
+O6 O2- 4 e 0.0563(7) 0.5105(9) 0.2717(4) 0.0121(11) 1 0
+O7 O2- 4 e 0.0365(7) 0.9735(9) 0.2568(4) 0.0125(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ho1 Ho3+ 0.0078(4) 0.0099(3) 0.0068(4) -0.00007(9) -0.0014(3) -0.00048(9)
+P1 P5+ 0.0075(12) 0.0076(9) 0.0073(12) 0.0001(7) -0.0040(9) 0.0002(7)
+P2 P5+ 0.0049(13) 0.0063(10) 0.0070(13) 0.0005(5) 0.0000(11) 0.0007(5)
+Na1 Na1+ 0.021(2) 0.0164(17) 0.021(2) -0.0017(11) 0.0007(17) 0.0016(11)
+O1 O2- 0.026(3) 0.015(3) 0.013(3) -0.001(2) -0.008(2) -0.003(2)
+O2 O2- 0.021(4) 0.022(3) 0.020(4) 0.000(3) 0.005(3) 0.005(3)
+O3 O2- 0.021(3) 0.011(3) 0.011(2) 0.002(2) -0.005(2) -0.0006(19)
+O4 O2- 0.016(3) 0.017(3) 0.002(3) -0.0009(18) 0.000(3) -0.0011(16)
+O5 O2- 0.016(4) 0.025(4) 0.023(4) 0.000(2) -0.002(3) 0.004(2)
+O6 O2- 0.014(3) 0.007(2) 0.012(2) 0.0026(19) -0.002(2) -0.0029(19)
+O7 O2- 0.020(3) 0.007(2) 0.008(2) 0.001(2) -0.001(2) 0.0044(19)
+#End of TTdata_419049-ICSD

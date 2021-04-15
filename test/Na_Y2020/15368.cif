@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15368-ICSD
+_database_code_ICSD 15368
+_audit_creation_date 1980-01-01
+_audit_update_record 2017-02-01
+_chemical_name_systematic 'Sodium aluminium bis(sulfate(VI)) dodecahydrate'
+_chemical_formula_structural 'Na Al (S O4)2 (H2 O)12'
+_chemical_formula_sum 'H24 Al1 Na1 O20 S2'
+_chemical_name_structure_type KAl(SO4)2(H2O)12
+_chemical_name_mineral Alum-(Na)
+_exptl_crystal_density_diffrn 1.67
+_publ_section_title
+
+;
+Refinement of the alum structures. II. X-ray and neutron diffraction of Na Al
+(S O4)2*(H2 O)12, gamma alum
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica' 1967 22 182 187 ACCRA9
+loop_
+_publ_author_name
+'Cromer, D.T.'
+'Kay, M.I.'
+'Larson, A.C.'
+_cell_length_a 12.213(3)
+_cell_length_b 12.213(3)
+_cell_length_c 12.213(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1821.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P a -3'
+_symmetry_Int_Tables_number 205
+_refine_ls_R_factor_all 0.0343
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, x+1/2, y'
+2 'z+1/2, x, -y+1/2'
+3 'z, -x+1/2, y+1/2'
+4 '-z, -x, -y'
+5 'y, -z+1/2, x+1/2'
+6 '-y+1/2, z+1/2, x'
+7 'y+1/2, z, -x+1/2'
+8 '-y, -z, -x'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x, -y, -z'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0.5 0.5 0.5 . 1. 0
+Al1 Al3+ 4 a 0 0 0 . 1. 0
+S1 S6+ 8 c 0.2652(1) 0.2652(1) 0.2652(1) . 1. 0
+O1 O2- 8 c 0.3343(2) 0.3343(2) 0.3343(2) . 1. 0
+O2 O2- 24 d 0.2957(2) 0.2783(2) 0.1508(2) . 1. 0
+O3 O2- 24 d 0.0767(2) 0.0403(2) 0.3188(2) . 1. 0
+O4 O2- 24 d 0.1371(2) 0.9596(2) 0.0573(2) . 1. 0
+H1 H1+ 24 d 0.585(3) 0.319(3) 0.378(3) 3.40(12) 1. 0
+H2 H1+ 24 d 0.486(3) 0.308(3) 0.383(4) 4.00(14) 1. 0
+H3 H1+ 24 d 0.555(3) 0.202(3) 0.502(3) 3.2(1) 1. 0
+H4 H1+ 24 d 0.588(3) 0.339(3) 0.113(3) 2.4(9) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00412(10) 0.00412 0.00412 -.00015(10) -.00015 -.00015
+Al1 Al3+ 0.00284(7) 0.00284 0.00284 0.00025(7) 0.00025 0.00025
+S1 S6+ 0.00397(5) 0.00397 0.00397 0.000220(45) 0.00022 0.00022
+O1 O2- 0.00687(16) 0.00687 0.00687 -0.00145(16) -.001455 -.001455
+O2 O2- 0.01417(32) 0.00724(22) 0.00535(19) -0.00494(21) 0.00366(19) -.00084(16)
+O3 O2- 0.00619(21) 0.00591(21) 0.00419(18) -0.00184(20) 0.00024(17) 0.00055(16)
+O4 O2- 0.00338(16) 0.00438(17) 0.00498(17) 0.00038(15) -0.00049(14) 0.00086(14)
+#End of TTdata_15368-ICSD

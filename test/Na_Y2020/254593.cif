@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_254593-ICSD
+_database_code_ICSD 254593
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium tricalcium phosphosilicate - Eu(doped)'
+_chemical_formula_structural 'Na Ca3 P Si O8'
+_chemical_formula_sum 'Ca3 Na1 O8 P1 Si1'
+_exptl_crystal_density_diffrn 3.19
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A phosphosilicate compound, NaCa3PSiO8. Structure solution and luminescence
+properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 15130 15137 INOCAJ
+loop_
+_publ_author_name
+'Unithrattil, Sanjith'
+'Arunkumar, Paulraj'
+'Kim, Yoon Hwa'
+'Kim, Ha Jun'
+'Vu, Ngoc Hung'
+'Heo, Jaeyeong'
+'Chung, Woon Jin'
+'Im, Won Bin'
+_cell_length_a 13.5608(4)
+_cell_length_b 5.47308(19)
+_cell_length_c 9.25817(26)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 687.14
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+P5+ 5
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.7972 0.74486 0.5625 0.01607 1. 0
+Ca1 Ca2+ 4 a 0.53785 0.76429 0.21195 0.01864 1. 0
+Ca2 Ca2+ 4 a 0.37917 0.25705 0.32662 0.01386 1. 0
+Ca3 Ca2+ 4 a 0.37068 0.74464 0.92014 0.02414 1. 0
+P1 P5+ 4 a 0.76184 0.77247 0.20238 0.01468 1. 0
+Si1 Si4+ 4 a 0.51496 0.76008 0.53344 0.02406 1. 0
+O1 O2- 4 a 0.62039 0.32197 0.66947 0.03803 1. 0
+O2 O2- 4 a 0.7478 0.54053 0.31876 0.02289 1. 0
+O3 O2- 4 a 0.73842 1.00296 0.32375 0.02501 1. 0
+O4 O2- 4 a 0.71105 0.6682 0.07855 0.03191 1. 0
+O5 O2- 4 a 0.46745 0.5198 0.48839 0.01378 1. 0
+O6 O2- 4 a 0.4565 0.76453 0.68784 0.02377 1. 0
+O7 O2- 4 a 0.62475 0.74232 0.54981 0.0194 1. 0
+O8 O2- 4 a 0.5166 0.0313 0.95754 0.00685 1. 0
+#End of TTdata_254593-ICSD

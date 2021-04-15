@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202215-ICSD
+_database_code_ICSD 202215
+_audit_creation_date 1988-12-19
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium vanadium oxide (1/6/11)'
+_chemical_formula_structural 'Na V6 O11'
+_chemical_formula_sum 'Na1 O11 V6'
+_exptl_crystal_density_diffrn 4.56
+_publ_section_title 'Synthese et structure cristalline de Na V6 O11'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1987 67 185 189 JSSCBI
+loop_
+_publ_author_name
+'de Roy, M.E.'
+'Besse, J.P.'
+'Chevalier, R.'
+'Gasperin, M.'
+_cell_length_a 5.699(1)
+_cell_length_b 5.699(1)
+_cell_length_c 13.07(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 367.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -6 2 c'
+_symmetry_Int_Tables_number 190
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+V4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 12 i 0.5050(9) 0.0135(2) 0.0000(3) 0.3(1) 0.5 0
+V2 V4+ 2 c 0.3333 0.6667 0.25 0.6(2) 1. 0
+V3 V4+ 4 e 0 0 0.1477(1) 0.4(1) 1. 0
+Na1 Na1+ 2 d 0.6667 0.3333 0.25 2.4(4) 1. 0
+O1 O2- 12 i 0.3408(5) 0.173(1) 0.0804(2) 0.5(2) 1. 0
+O2 O2- 6 h 0.147(3) 0.3051(6) 0.25 0.6(2) 1. 0
+O3 O2- 4 f 0.3333 0.6667 0.0902(3) 0.5(2) 1. 0
+#End of TTdata_202215-ICSD

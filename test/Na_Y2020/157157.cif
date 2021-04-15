@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_157157-ICSD
+_database_code_ICSD 157157
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Sodium indium diphosphate(V)'
+_chemical_formula_structural 'Na In (P2 O7)'
+_chemical_formula_sum 'In1 Na1 O7 P2'
+_chemical_name_structure_type Mg2P2O7
+_exptl_crystal_density_diffrn 3.73
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structure of sodium indium diphosphate and solid solutions based on it
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ukrainskii Khimicheskii Zhurnal (Russian Edition)' 2006 72 11 16 UKZHAU
+loop_
+_publ_author_name
+'Slobodyanik, M.S.'
+'Nagornyi, P.G.'
+'Kornienko, Z.I.'
+'Boiko, R.S.'
+'Ivanenko, O.P.'
+'Zatovskii, I.V.'
+'Ogorodnik, I.V.'
+_cell_length_a 7.483(10)
+_cell_length_b 8.1694(10)
+_cell_length_c 9.8112(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.08(1)
+_cell_angle_gamma 90.
+_cell_volume 555.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0296
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Na1+ 1
+O2- -2
+P5+ 5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 e 0.2561 -0.00482 0.25005 . 1. 0
+Na1 Na1+ 4 e 0.7164 0.01939 0.2114 . 1. 0
+O1 O2- 4 e 0.82444 0.36953 0.09858 . 1. 0
+O2 O2- 4 e 0.81867 0.22168 -0.12243 . 1. 0
+O3 O2- 4 e 0.30367 0.20964 0.38737 . 1. 0
+O4 O2- 4 e 0.37413 0.10994 0.10418 . 1. 0
+O5 O2- 4 e 0.5411 -0.08958 0.35541 . 1. 0
+O6 O2- 4 e 0.1274 0.33505 0.06176 . 1. 0
+O7 O2- 4 e 0.97299 0.08922 0.12858 . 1. 0
+P1 P5+ 4 e 0.67301 -0.21592 0.45345 . 1. 0
+P2 P5+ 4 e 0.92596 0.24736 0.04024 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.00979 0.00582 0.00929 0.00027 0.00522 0.00058
+Na1 Na1+ 0.02455 0.02848 0.03676 0.00336 0.02019 0.01246
+O1 O2- 0.0256 0.01518 0.01778 0.00616 0.01542 0.00032
+O2 O2- 0.02002 0.00877 0.0105 0.0004 0.00318 -0.00097
+O3 O2- 0.02335 0.00866 0.01023 -0.00091 0.00844 -0.00168
+O4 O2- 0.01709 0.00942 0.0142 0.00147 0.01047 0.004
+O5 O2- 0.011 0.01415 0.01633 0.00311 0.0062 0.00314
+O6 O2- 0.01065 0.00873 0.02117 -0.00092 0.008 0.00046
+O7 O2- 0.01291 0.00753 0.01483 0.0002 0.00658 0.00336
+P1 P5+ 0.00935 0.00639 0.00974 0.00081 0.00497 -0.00081
+P2 P5+ 0.00872 0.00605 0.00809 0.0005 0.00451 -0.00048
+#End of TTdata_157157-ICSD

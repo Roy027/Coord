@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38370-ICSD
+_database_code_ICSD 38370
+_audit_creation_date 1984-12-31
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Cesium europium sodium pentaniobate'
+_chemical_formula_structural 'Cs Eu Na (Nb5 O15)'
+_chemical_formula_sum 'Cs1 Eu1 Na1 Nb5 O15'
+_exptl_crystal_density_diffrn 5.36
+_publ_section_title
+'Cs Eu Na Nb5 O15: Premier membre d'une nouvelle famille ferroelectrique'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1984 53 422 429 JSSCBI
+loop_
+_publ_author_name
+'Dion, M.'
+'Ganne, M.'
+'Tournoux, M.'
+'Ravez, J.'
+_cell_length_a 7.623(2)
+_cell_length_b 10.479(3)
+_cell_length_c 7.855(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 627.47
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m c 21'
+_symmetry_Int_Tables_number 26
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Eu3+ 3
+Na1+ 1
+Eu3+ 3
+Na1+ 1
+Cs1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 2 b 0.5 0.50065(8) 0 . 1. 0
+Nb2 Nb5+ 4 c 0.25288(8) 0.19436(5) 0.46990(7) . 1. 0
+Nb3 Nb5+ 4 c 0.25281(7) 0.19408(5) -.02618(7) . 1. 0
+Eu1 Eu3+ 2 a 0 0.01695(4) 0.72055(9) . 0.75 0
+Na1 Na1+ 2 a 0 0.01695(4) 0.72055(9) . 0.25 0
+Eu2 Eu3+ 2 b 0.5 -.0072(1) 0.2215(3) . 0.25 0
+Na2 Na1+ 2 b 0.5 -.0072(1) 0.2215(3) . 0.75 0
+Cs1 Cs1+ 2 a 0 0.50247(6) 0.2268(1) . 1. 0
+O1 O2- 4 c 0.3050(7) 0.3694(4) -.0168(8) . 1. 0
+O2 O2- 4 c 0.3150(5) 0.3673(4) 0.4725(6) . 1. 0
+O3 O2- 4 c 0.2700(5) 0.1638(3) 0.7231(9) . 1. 0
+O4 O2- 4 c 0.2102(5) 0.1728(4) 0.2212(8) . 1. 0
+O5 O2- 2 b 0.5 0.1404(5) -.003(1) . 1. 0
+O6 O2- 2 b 0.5 0.1396(6) 0.4451(9) . 1. 0
+O7 O2- 2 a 0 0.2214(7) -.065(1) . 1. 0
+O8 O2- 2 a 0 0.2212(6) 0.514(1) . 1. 0
+O9 O2- 4 c 0.1892(4) 0.000(2) -.0246(7) . 1. 0
+O10 O2- 2 b 0.5 0.5052(6) 0.228(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0084(2) 0.0085(2) 0.0053(2) 0 0 0.0004(3)
+Nb2 Nb5+ 0.0078(2) 0.0064(1) 0.0092(2) -0.0008(2) -0.0001(1) 0.0001(1)
+Nb3 Nb5+ 0.0072(2) 0.0069(1) 0.0105(2) -0.0011(2) -0.0002(1) 0.0003(1)
+Eu1 Eu3+ 0.0039(1) 0.0069(1) 0.0063(1) 0 0 0.0012(2)
+Na1 Na1+ 0.0039(1) 0.0069(1) 0.0063(1) 0 0 0.0012(2)
+Eu2 Eu3+ 0.0172(5) 0.0083(4) 0.0105(5) 0 0 -0.0083(9)
+Na2 Na1+ 0.0172(5) 0.0083(4) 0.0105(5) 0 0 -0.0083(9)
+Cs1 Cs1+ 0.0282(2) 0.0269(2) 0.0194(2) 0 0 -0.0050(6)
+O1 O2- 0.015(2) 0.005(1) 0.036(3) -0.002(1) 0.001(2) 0.000(2)
+O2 O2- 0.001(1) 0.003(1) 0.018(2) -0.001(1) 0.000(1) 0.000(1)
+O3 O2- 0.011(1) 0.017(1) 0.005(1) 0.002(1) -0.003(2) -0.003(2)
+O4 O2- 0.015(1) 0.019(1) 0.005(1) -0.005(1) -0.004(2) -0.004(2)
+O5 O2- 0.001(2) 0.005(2) 0.029(3) 0 0 0.009(2)
+O6 O2- 0.007(2) 0.012(2) 0.009(2) 0 0 0.005(2)
+O7 O2- 0.007(2) 0.015(2) 0.016(3) 0 0 0.002(2)
+O8 O2- 0.001(2) 0.015(2) 0.020(3) 0 0 -0.006(2)
+O9 O2- 0.009(1) 0.0059(9) 0.017(1) -0.003 0.001(2) 0.0002(9)
+O10 O2- 0.019(2) 0.024(2) 0.038(3) 0 0 -0.014(2)
+#End of TTdata_38370-ICSD

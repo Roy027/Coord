@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194363-ICSD
+_database_code_ICSD 194363
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Disodium iron bis(sulfate) tetrahydrate'
+_chemical_formula_structural 'Na2 Fe (S O4)2 (H2 O)4'
+_chemical_formula_sum 'H8 Fe1 Na2 O12 S2'
+_exptl_crystal_density_diffrn 2.41
+_publ_section_title
+
+;
+Kroehnkite-type Na2 Fe (S O4)2 * 2(H2 O) as a novel 3.25 V insertion compound
+for Na-ion batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2014 26 1297 1299 CMATEX
+loop_
+_publ_author_name
+'Barpanda, Prabeer'
+'Oyama, Gosuke'
+'Ling, Chris D.'
+'Yamada, Atsuo'
+_cell_length_a 5.55770(12)
+_cell_length_b 8.26144(16)
+_cell_length_c 11.17568(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.2011(15)
+_cell_angle_gamma 90.
+_cell_volume 505.01
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+S6+ 6
+Na1+ 1
+Fe2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 e 0.8162 0.63212 0.56957 0.0156(8) 1. 0
+O2 O2- 4 e 0.7065 0.91424 0.57758 0.0162(8) 1. 0
+O3 O2- 4 e 1.12799 0.82849 0.63063 0.0162(8) 1. 0
+O4 O2- 4 e 0.84525 0.76778 0.7633 0.0152(8) 1. 0
+O5 O2- 4 e 0.37101 0.53699 0.66515 0.0111(8) 1. 0
+H1 H1+ 4 e 0.294 0.617 0.66 0.0318(8) 1. 0
+H2 H1+ 4 e 0.29 0.472 0.679 0.0238(8) 1. 0
+O6 O2- 4 e 0.31917 0.71528 0.41612 0.0129(8) 1. 0
+H3 H1+ 4 e 0.211 0.707 0.368 0.0318(8) 1. 0
+H4 H1+ 4 e 0.272 0.771 0.453 0.0328(8) 1. 0
+S1 S6+ 4 e 0.86989 0.7874 0.63455 0.0056(8) 1. 0
+Na1 Na1+ 4 e 0.62761 0.569 0.86236 0.0147(8) 1. 0
+Fe1 Fe2+ 2 b 0.5 0.5 0.5 0.0058(8) 1. 0
+#End of TTdata_194363-ICSD

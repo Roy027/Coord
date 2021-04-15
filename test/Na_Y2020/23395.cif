@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23395-ICSD
+_database_code_ICSD 23395
+_audit_creation_date 1980-12-31
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Silver sodium 14-oxopentatellurate (.4/1.6/1)'
+_chemical_formula_structural 'Ag.40 Na1.60 Te5 O14'
+_chemical_formula_sum 'Ag0.4 Na1.6 O14 Te5'
+_exptl_crystal_density_diffrn 5.86
+_publ_section_title
+
+;
+Etude cristallochimique comparee et conductivite electrique de deux tellurates
+mixtes: Agx Na2-x Te2(IV) Te3(VI) O14 (x=.4) et K2 Te(IV) Te3(VI) O12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1980 33 209 217 JSSCBI
+loop_
+_publ_author_name
+'Loeksmanto, W.'
+'Moret, J.'
+'Maurin, M.'
+'Philippot, E.'
+_cell_length_a 6.333(2)
+_cell_length_b 24.681(8)
+_cell_length_c 7.308(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.84(2)
+_cell_angle_gamma 90.
+_cell_volume 1067.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+Na1+ 1
+Te6+ 6
+Te4+ 4
+Te6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 4 e 0.4792(7) 0.0665(2) 0.3471(5) . 0.40(5) 0
+Na1 Na1+ 4 e 0.9506(14) 0.1264(3) 0.7354(11) . 1. 0
+Na2 Na1+ 4 e 0.4792(7) 0.0665(2) 0.3471(5) . 0.60(5) 0
+Te1 Te6+ 2 a 0 0 0 . 1. 0
+Te2 Te6+ 2 c 0 0 0.5 . 1. 0
+Te3 Te4+ 4 e 0.3986(2) 0.18896(5) 0.6040(2) . 1. 0
+Te4 Te4+ 4 e 0.4621(2) 0.07097(5) 0.8316(2) . 1. 0
+Te5 Te6+ 4 e 0.8669(2) 0.25087(5) 0.4497(1) . 1. 0
+Te6 Te6+ 4 e 0.9327(2) 0.12526(4) 0.2280(2) . 1. 0
+O1 O2- 4 e 0.025(2) 0.4743(5) 0.260(2) 0.5 1. 0
+O2 O2- 4 e 0.041(2) 0.0746(5) 0.082(2) 0.6 1. 0
+O3 O2- 4 e 0.304(2) -.0078(5) 0.105(2) 0.3 1. 0
+O4 O2- 4 e 0.288(2) 0.0185(5) 0.558(2) 0.4 1. 0
+O5 O2- 4 e 0.606(2) 0.3954(5) 0.180(2) 0.5 1. 0
+O6 O2- 4 e 0.294(2) 0.3539(5) 0.263(2) 0.3 1. 0
+O7 O2- 4 e 0.874(2) 0.2249(5) 0.704(2) 0.5 1. 0
+O8 O2- 4 e 0.640(2) 0.1048(5) 0.091(2) 0.5 1. 0
+O9 O2- 4 e 0.921(2) 0.1740(5) 0.019(2) 0.4 1. 0
+O10 O2- 4 e 0.823(2) 0.3244(5) 0.873(2) 0.5 1. 0
+O11 O2- 4 e 0.920(2) 0.0755(5) 0.427(2) 0.7 1. 0
+O12 O2- 4 e 0.568(2) 0.2626(5) 0.363(2) 0.6 1. 0
+O13 O2- 4 e 0.173(2) 0.2570(5) 0.038(2) 0.8 1. 0
+O14 O2- 4 e 0.222(2) 0.1429(5) 0.363(2) 0.7 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag1 Ag1+ 0.018(2) 0.017(2) 0.013(2) 0.000(2) 0.007(2) -.005(2)
+Na1 Na1+ 0.012(4) 0.004(3) 0.013(4) -.002(4) 0.009(4) -.003(3)
+Na2 Na1+ 0.018(2) 0.017(2) 0.013(2) 0.000(2) 0.007(2) -.005(2)
+Te1 Te6+ 0.0079(8) 0.0015(6) 0.0020(6) 0.0003(6) 0.0032(6) -.0002(6)
+Te2 Te6+ 0.0076(8) 0.0012(6) 0.0012(6) -.0010(6) 0.0020(6) -.0004(6)
+Te3 Te4+ 0.0083(6) 0.0051(5) 0.0052(5) 0.0005(5) 0.0032(4) 0.0006(5)
+Te4 Te4+ 0.0080(6) 0.0063(5) 0.0042(5) -.0007(5) 0.0029(5) 0.0005(5)
+Te5 Te6+ 0.0071(6) 0.0018(4) 0.0015(4) 0.0005(5) 0.0019(4) -.0005(5)
+Te6 Te6+ 0.0087(6) 0.0012(5) 0.0025(4) 0.0000(5) 0.0031(4) 0.0000(5)
+#End of TTdata_23395-ICSD

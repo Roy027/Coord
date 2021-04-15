@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280101-ICSD
+_database_code_ICSD 280101
+_audit_creation_date 2000-07-15
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium tantalate'
+_chemical_formula_structural 'Na (Ta O3)'
+_chemical_formula_sum 'Na1 O3 Ta1'
+_chemical_name_structure_type Perovskite-NaNbO3(tP10)
+_exptl_crystal_density_diffrn 6.89
+_cell_measurement_temperature 878.
+_publ_section_title 'High-temperature phases of Na Nb O3 and Na Ta O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1999 55 24 30
+ASBSDK
+loop_
+_publ_author_name
+'Darlington, C.N.W.'
+'Knight, K.S.'
+_cell_length_a 5.55465(2)
+_cell_length_b 5.55465(2)
+_cell_length_c 3.93426(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 121.39
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/m b m'
+_symmetry_Int_Tables_number 127
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y+1/2, -x+1/2, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x+1/2, y+1/2, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y+1/2, x+1/2, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x+1/2, y+1/2, z'
+14 'x+1/2, -y+1/2, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 2 a 0 0 0 1.05(2) 1. 0
+Na1 Na1+ 2 c 0 0.5 0.5 3.75(4) 1. 0
+O1 O2- 2 b 0 0 0.5 . 1. 0
+O2 O2- 4 g 0.2713(2) 0.2287(2) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 4.41(11) 4.41(11) 1.11(8) 0 0 0
+O2 O2- 2.07(5) 2.07(5) 4.53(8) -1.22(6) 0 0
+#End of TTdata_280101-ICSD

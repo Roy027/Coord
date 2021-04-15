@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39248-ICSD
+_database_code_ICSD 39248
+_audit_creation_date 1990-12-27
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Sodium oxotitanium phosphate(V)'
+_chemical_formula_structural 'Na (Ti O) (P O4)'
+_chemical_formula_sum 'Na1 O5 P1 Ti1'
+_exptl_crystal_density_diffrn 2.88
+_publ_section_title
+'Synthesis and structure of sodium and titanium orthophosphate Na2 Ti2 P2 O10'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1990 35 634 637 KRISAJ
+loop_
+_publ_author_name
+'Nagornyi, P.G.'
+'Kapshuk, A.A.'
+'Stus', N.V. (Stus, N.V.)'
+'Slobodyanik, N.S.'
+_cell_length_a 8.755(1)
+_cell_length_b 9.124(1)
+_cell_length_c 10.518(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 840.18
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 21 2 21'
+_symmetry_Int_Tables_number 18
+_refine_ls_R_factor_all 0.076
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z+1/2'
+2 'x+1/2, -y, -z+1/2'
+3 '-x, y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 4 c 0.36200(3) 0.63780(2) 0.38630(2) 0.005(1) 1. 0
+Ti2 Ti4+ 4 c 0.37050(3) 0.85220(2) 0.11450(2) 0.006(1) 1. 0
+P1 P5+ 4 c 0.17260(3) 0.94330(4) 0.37500(3) 0.006(1) 1. 0
+P2 P5+ 4 c 0.15910(4) 0.56000(4) 0.14020(3) 0.005(1) 1. 0
+O1 O2- 4 c -.00370(12) 0.9716(1) 0.36510(8) 0.005(4) 1. 0
+O2 O2- 4 c 0.19590(12) 0.7809(1) 0.41490(8) 0.060(5) 1. 0
+O3 O2- 4 c 0.2503(1) 1.03990(9) 0.47690(8) 0.011(4) 1. 0
+O4 O2- 4 c 0.25370(12) 0.9770(1) 0.24370(8) 0.011(4) 1. 0
+O5 O2- 4 c 0.25530(11) 0.4565(1) 0.04920(8) 0.011(4) 1. 0
+O6 O2- 4 c -.01410(9) 0.53860(8) 0.13290(7) 0.004(3) 1. 0
+O7 O2- 4 c 0.19280(9) 0.71950(8) 0.10050(7) 0.004(3) 1. 0
+O8 O2- 4 c 0.2133(1) 0.5279(1) 0.27830(8) 0.009(4) 1. 0
+O9 O2- 2 b 0.5 0.77050(14) 0 0.008(4) 1. 0
+O10 O2- 4 c 0.44030(9) 0.7411(1) 0.25040(8) 0.007(3) 1. 0
+O11 O2- 2 a 0.5 0.71940(13) 0.5 0.004(2) 1. 0
+Na1 Na1+ 2 a 0.5 0.14090(12) 0.5 0.049(6) 1. 0
+Na2 Na1+ 4 c 0.22970(41) 0.78220(32) 0.65510(29) 0.085(9) 0.5 0
+Na3 Na1+ 4 c 0.27370(29) 0.80250(32) 0.6496(2) 0.027(9) 0.5 0
+Na4 Na1+ 4 c 0.01750(18) 0.49060(19) 0.45110(15) 0.046(8) 0.5 0
+#End of TTdata_39248-ICSD

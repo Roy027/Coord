@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_109043-ICSD
+_database_code_ICSD 109043
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Sodium iron(III) titanium oxide (0.9/0.9/1.1/4)'
+_chemical_formula_structural 'Na0.9 (Fe0.9 Ti1.1) O4'
+_chemical_formula_sum 'Fe0.9 Na0.9 O4 Ti1.1'
+_chemical_name_structure_type CaV2O4
+_exptl_crystal_density_diffrn 4.
+_publ_section_title 'Non-stoichiometric sodium iron titanate, Nax Fex Ti2-x O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1968 24 625 631 ACBCAR
+loop_
+_publ_author_name
+'Mumme, W.G.'
+'Reid, A.F.'
+_cell_length_a 9.255(4)
+_cell_length_b 2.970(2)
+_cell_length_c 11.342(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 311.76
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+Ti4+ 4
+Fe3+ 3
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.3935(24) 0.75 0.1082(8) 0.03 .9 0
+Fe1 Fe3+ 4 c 0.0185(5) 0.25 0.1206(4) 0.03 0.45 0
+Ti1 Ti4+ 4 c 0.0185(5) 0.25 0.1206(4) 0.03 0.55 0
+Fe2 Fe3+ 4 c 0.2296(5) 0.75 0.3404(4) 0.03 0.45 0
+Ti2 Ti4+ 4 c 0.2296(5) 0.75 0.3404(4) 0.03 0.55 0
+O1 O2- 4 c 0.1248(30) 0.75 0.1877(17) 0.03 1. 0
+O2 O2- 4 c 0.1240(27) 0.25 0.4049(18) 0.03 1. 0
+O3 O2- 4 c 0.3586(24) 0.25 0.2708(20) 0.03 1. 0
+O4 O2- 4 c 0.3918(21) 0.75 0.4626(19) 0.03 1. 0
+#End of TTdata_109043-ICSD

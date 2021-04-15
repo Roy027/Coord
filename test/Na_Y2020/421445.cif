@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421445-ICSD
+_database_code_ICSD 421445
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium tricerium germanium heptasulfide'
+_chemical_formula_structural 'Na Ce3 Ge S7'
+_chemical_formula_sum 'Ce3 Ge1 Na1 S7'
+_chemical_name_structure_type La3CuSiS7
+_exptl_crystal_density_diffrn 4.68
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Alkali-metal thiogermanates: sodium channels and variations on the La3 Cu Si
+S7 structure type
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 1055 1065 INOCAJ
+loop_
+_publ_author_name
+'Choudhury, Amitava'
+'Dorhout, Peter K.'
+_cell_length_a 10.2248(3)
+_cell_length_b 10.2248(3)
+_cell_length_c 5.8035(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 525.44
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ce3+ 3
+Na1+ 1
+Ge4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ce1 Ce3+ 6 c 0.12730(2) 0.35659(2) 0.75132(17) 0.01195(8) 1 0
+Na1 Na1+ 2 a 0. 0. 0.4866(8) 0.0069(4) 1 0
+Ge1 Ge4+ 2 b 0.3333 0.6667 0.3333 0.00989(16) 1 0
+S1 S2- 2 b 0.3333 0.6667 0.9592(3) 0.0126(4) 1 0
+S2 S2- 6 c 0.84216(11) 0.08757(11) 0.7339(3) 0.01440(19) 1 0
+S3 S2- 6 c 0.47921(12) 0.89511(12) 0.4829(2) 0.0108(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ce1 Ce3+ 0.01148(12) 0.01106(11) 0.01361(12) 0.00587(8) 0.00094(13) 0.00082(13)
+Na1 Na1+ 0.0037(6) 0.0037(6) 0.0132(11) 0.0019(3) 0. 0.
+Ge1 Ge4+ 0.0102(2) 0.0102(2) 0.0093(3) 0.00509(11) 0. 0.
+S1 S2- 0.0144(6) 0.0144(6) 0.0090(9) 0.0072(3) 0. 0.
+S2 S2- 0.0124(4) 0.0097(4) 0.0176(5) 0.0030(3) -0.0016(6) -0.0007(5)
+S3 S2- 0.0090(5) 0.0089(5) 0.0131(5) 0.0035(4) 0.0006(4) -0.0002(4)
+#End of TTdata_421445-ICSD

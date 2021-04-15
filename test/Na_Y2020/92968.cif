@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92968-ICSD
+_database_code_ICSD 92968
+_audit_creation_date 2003-04-01
+_chemical_name_systematic
+'Sodium magnesium aluminium disilicate (1.78/1.87/0.13/1)'
+_chemical_formula_structural 'Na1.78 (Mg1.87 Al0.13) (Si2 O7)'
+_chemical_formula_sum 'Al0.13 Mg1.87 Na1.78 O7 Si2'
+_chemical_name_structure_type K2Mg2Si2O7
+_exptl_crystal_density_diffrn 3.1
+_publ_section_title
+
+;
+Crystal structure of phase X, a high pressure alkali-rich hydrous silicate and
+its anhydrous equivalent
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2001 86 1483 1488 AMMIAY
+loop_
+_publ_author_name
+'Yang, H.-X.'
+'Konzett, J.'
+'Prewitt, C.T.'
+_cell_length_a 4.9827(4)
+_cell_length_b 4.9827(4)
+_cell_length_c 6.4354(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 138.37
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 1 m'
+_symmetry_Int_Tables_number 162
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, -z'
+2 'x, x-y, -z'
+3 '-y, -x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, -y, z'
+8 '-x, -x+y, z'
+9 'y, x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0.3333 0.6667 0.5 0.042(2) 0.89 0
+Mg1 Mg2+ 2 c 0.6667 0.3333 0 0.011(1) 0.935 0
+Al1 Al3+ 2 c 0.6667 0.3333 0 0.011(1) 0.065 0
+Si1 Si4+ 2 e 0 0 0.2480(2) 0.009(1) 1. 0
+O1 O2- 1 b 0 0 0.5 0.054(5) 1. 0
+O2 O2- 6 k 0.3187(6) 0 0.8156(5) 0.015(2) 1. 0
+#End of TTdata_92968-ICSD

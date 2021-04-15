@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_99917-ICSD
+_database_code_ICSD 99917
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Nonasodium heptaoxocobaltate(II)cobaltate'
+_chemical_formula_structural 'Na9 (Co2 O7)'
+_chemical_formula_sum 'Co2 Na9 O7'
+_chemical_name_structure_type Fe2Na9O7
+_exptl_crystal_density_diffrn 3.01
+_publ_section_title
+
+;
+Synthesis, structure and magnetic properties of Na9 Co2 O7, a new mixed-valent
+sodium cobaltate(II, III)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2004 6 339 344 SSSCFJ
+loop_
+_publ_author_name
+'Sofin, M.'
+'Peters, E.M.'
+'Jansen, M.'
+_cell_length_a 9.5477(6)
+_cell_length_b 9.9040(6)
+_cell_length_c 10.1919(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 963.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.0462
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co3+ 3
+Co2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co3+ 4 a 0.15829(4) 0.40080(4) 0.97313(5) 0.0154(1) 1. 0
+Co2 Co2+ 4 a 0.18646(5) 0.93142(5) 0.81448(6) 0.0206(1) 1. 0
+Na1 Na1+ 4 a 0.0865(2) 0.5102(2) 0.5946(2) 0.0249(3) 1. 0
+Na2 Na1+ 4 a 0.2709(2) 0.2864(2) 0.7271(2) 0.0256(3) 1. 0
+Na3 Na1+ 4 a 0.0606(2) 0.6649(2) 0.8603(2) 0.0276(4) 1. 0
+Na4 Na1+ 4 a 0.0177(2) 0.1647(2) 0.8807(2) 0.0347(4) 1. 0
+Na5 Na1+ 4 a 0.1545(2) 0.5633(2) 0.2941(2) 0.0282(4) 1. 0
+Na6 Na1+ 4 a 0.2131(2) 0.7726(2) 0.5588(2) 0.0370(5) 1. 0
+Na7 Na1+ 4 a 0.9869(2) 0.2562(2) 0.6274(2) 0.0381(5) 1. 0
+Na8 Na1+ 4 a 0.1635(3) 0.1084(2) 0.4870(3) 0.0430(5) 1. 0
+Na9 Na1+ 4 a 0.0752(2) 0.0450(2) 0.1503(2) 0.0385(5) 1. 0
+O1 O2- 4 a 0.0426(3) 0.2828(3) 0.0763(3) 0.0218(5) 1. 0
+O2 O2- 4 a 0.3400(3) 0.3363(3) 0.9510(3) 0.0245(6) 1. 0
+O3 O2- 4 a 0.3008(4) 0.7918(4) 0.7900(4) 0.0370(8) 1. 0
+O4 O2- 4 a 0.0797(5) 0.9244(5) 0.9641(5) 0.0495(11) 1. 0
+O5 O2- 4 a 0.1627(4) 0.0791(3) 0.7095(4) 0.0333(8) 1. 0
+O6 O2- 4 a 0.1692(3) 0.5667(3) 0.0565(3) 0.0221(5) 1. 0
+O7 O2- 4 a 0.0888(3) 0.4227(3) 0.8021(3) 0.0231(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co3+ .0146(2) .0154(2) .0161(2) .0000(1) .0002(2) .0003(2)
+Co2 Co2+ .0211(2) .0157(2) .0250(2) -.0012(2) -.0054(2) -.0006(2)
+Na1 Na1+ .0212(7) .0346(9) .0189(7) .0076(6) -.0004(6) .0026(6)
+Na2 Na1+ .0241(8) .0285(7) .0241(7) .0003(6) .0025(6) -.0019(7)
+Na3 Na1+ .0246(7) .0232(8) .0352(9) -.0002(6) .0056(6) .0021(6)
+Na4 Na1+ .0286(9) .0339(10) .0416(11) -.0018(7) -.0023(8) -.0104(8)
+Na5 Na1+ .0253(8) .0263(8) .0331(11) -.0003(6) -.0003(6) .0022(7)
+Na6 Na1+ .0443(12) .0308(9) .0359(9) .0096(8) .0034(9) -.0004(8)
+Na7 Na1+ .0350(10) .0378(11) .0415(12) .0013(8) .0000(9) .0017(8)
+Na8 Na1+ .0622(14) .0296(10) .0371(13) -.0056(9) -.0018(11) -.0020(9)
+Na9 Na1+ .0339(10) .0399(11) .0416(11) -.0049(8) .0045(9) -.0029(9)
+O1 O2- .0217(12) .0169(11) .0267(13) -.0030(9) .0002(10) .0052(9)
+O2 O2- .0140(10) .0247(12) .0348(18) .0024(9) -.0017(9) -.0063(11)
+O3 O2- .0345(17) .0320(16) .0450(20) .0148(13) -.0091(14) -.0086(14)
+O4 O2- .0570(30) .0570(20) .0350(20) .0163(18) .0190(20) .0072(19)
+O5 O2- .0470(20) .0195(13) .0337(17) .0007(12) .0108(15) .0078(12)
+O6 O2- .0201(12) .0179(12) .0285(13) .0007(8) -.0017(10) -.0049(10)
+O7 O2- .0236(12) .0282(12) .0175(12) .0057(9) -.0041(10) -.0006(10)
+#End of TTdata_99917-ICSD

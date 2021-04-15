@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237851-ICSD
+_database_code_ICSD 237851
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium iron(III) diphosphate - beta phase'
+_chemical_formula_structural 'Na Fe P2 O7'
+_chemical_formula_sum 'Fe1 Na1 O7 P2'
+_exptl_crystal_density_diffrn 2.99
+_publ_section_title
+'Na2 Fe P2 O7: A safe cathode for rechargeable sodium-ion batteries'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2013 25 3480 3487 CMATEX
+loop_
+_publ_author_name
+'Barpanda, Prabeer'
+'Liu, Guandong'
+'Ling, Chris D.'
+'Tamaru, Mao'
+'Avdeev, Maxim'
+'Chung, Sai-Cheong'
+'Yamada, Yuki'
+'Yamada, Atsuo'
+_cell_length_a 6.3297(13)
+_cell_length_b 9.4646(19)
+_cell_length_c 11.1000(23)
+_cell_angle_alpha 62.6109(6)
+_cell_angle_beta 83.2900(7)
+_cell_angle_gamma 72.2418(7)
+_cell_volume 562.08
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0414
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 i 0.7196(7) 0.4054(5) 0.2128(4) 0.0071(11) 1. 0
+Fe2 Fe3+ 2 i 0.6463(6) 0.0083(5) 0.2587(4) 0.0045(11) 1. 0
+P1 P5+ 2 i 0.5782(13) 0.2038(9) 0.4553(8) 0.0055(13) 1. 0
+P2 P5+ 2 i 0.1289(13) 0.0562(9) 0.3114(8) 0.0055(13) 1. 0
+P3 P5+ 2 i 0.0887(13) 0.3122(10) 0.7850(8) 0.0055(13) 1. 0
+P4 P5+ 2 i 0.2768(12) 0.6891(9) 0.0259(7) 0.0055(13) 1. 0
+Na1 Na1+ 2 i 0.0112(17) 0.3239(12) 0.4868(10) 0.0186(29) 1. 0
+Na2 Na1+ 2 i 0.2375(32) 0.3568(25) 0.0757(19) 0.0186(29) 0.5 0
+Na3 Na1+ 1 d 0.5 0. 0. 0.0186(29) 1. 0
+O1 O2- 2 i -0.0009(24) 0.2247(18) 0.2967(14) 0.0082(15) 1. 0
+O2 O2- 2 i 0.6505(24) 0.3515(18) 0.4060(15) 0.0082(15) 1. 0
+O3 O2- 2 i 0.3100(25) 0.0476(18) 0.2143(16) 0.0082(15) 1. 0
+O4 O2- 2 i 0.1620(24) 0.4123(18) 0.8371(15) 0.0082(15) 1. 0
+O5 O2- 2 i 0.7832(24) 0.0557(19) 0.5320(16) 0.0082(15) 1. 0
+O6 O2- 2 i 0.2714(25) 0.1606(18) 0.8140(14) 0.0082(15) 1. 0
+O7 O2- 2 i 0.0437(23) 0.0397(17) 0.6954(15) 0.0082(15) 1. 0
+O8 O2- 2 i 0.8076(22) 0.3797(18) 0.0468(15) 0.0082(15) 1. 0
+O9 O2- 2 i 0.4128(22) 0.5486(18) 0.1426(15) 0.0082(15) 1. 0
+O10 O2- 2 i 0.6303(23) 0.1703(17) 0.0697(15) 0.0082(15) 1. 0
+O11 O2- 2 i 0.3505(24) 0.1801(18) 0.5495(15) 0.0082(15) 1. 0
+O12 O2- 2 i 0.5681(22) 0.1823(17) 0.3258(16) 0.0082(15) 1. 0
+O13 O2- 2 i 0.0909(23) 0.7721(15) 0.1024(14) 0.0082(15) 1. 0
+O14 O2- 2 i 0.0191(22) 0.6041(19) 0.3454(17) 0.0082(15) 1. 0
+#End of TTdata_237851-ICSD

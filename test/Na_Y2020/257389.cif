@@ -1,0 +1,183 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257389-ICSD
+_database_code_ICSD 257389
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium aluminum silicon oxide carbon dioxide'
+_chemical_formula_structural '(Na18.22 Al20.64 Si75.36 O192) (C O2)32.18'
+_chemical_formula_sum 'C32.18 Al20.64 Na18.22 O256.36 Si75.36'
+_chemical_name_structure_type Zeolite-ZK5-frame
+_exptl_crystal_density_diffrn 1.95
+_cell_measurement_temperature 110.
+_publ_section_title
+
+;
+On the Structure-Property Relationships of Cation-Exchanged ZK-5 Zeolites for
+CO2 Adsorption
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary ChemSusChem 2017 10 946 957 CHEMIZ
+loop_
+_publ_author_name
+'Pham, Trong D.'
+'Hudson, Matthew R.'
+'Brown, Craig M.'
+'Lobo, Raul F.'
+_cell_length_a 18.6207(3)
+_cell_length_b 18.6207(3)
+_cell_length_c 18.6207(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 6456.36
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'I m -3 m'
+_symmetry_Int_Tables_number 229
+_refine_ls_R_factor_all 0.0206
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+49 'z+1/2, y+1/2, -x+1/2'
+50 'y+1/2, x+1/2, -z+1/2'
+51 'x+1/2, z+1/2, -y+1/2'
+52 'z+1/2, x+1/2, -y+1/2'
+53 'y+1/2, z+1/2, -x+1/2'
+54 'x+1/2, y+1/2, -z+1/2'
+55 'z+1/2, -y+1/2, x+1/2'
+56 'y+1/2, -x+1/2, z+1/2'
+57 'x+1/2, -z+1/2, y+1/2'
+58 'z+1/2, -x+1/2, y+1/2'
+59 'y+1/2, -z+1/2, x+1/2'
+60 'x+1/2, -y+1/2, z+1/2'
+61 '-z+1/2, y+1/2, x+1/2'
+62 '-y+1/2, x+1/2, z+1/2'
+63 '-x+1/2, z+1/2, y+1/2'
+64 '-z+1/2, x+1/2, y+1/2'
+65 '-y+1/2, z+1/2, x+1/2'
+66 '-x+1/2, y+1/2, z+1/2'
+67 '-z+1/2, -y+1/2, -x+1/2'
+68 '-y+1/2, -x+1/2, -z+1/2'
+69 '-x+1/2, -z+1/2, -y+1/2'
+70 '-z+1/2, -x+1/2, -y+1/2'
+71 '-y+1/2, -z+1/2, -x+1/2'
+72 '-x+1/2, -y+1/2, -z+1/2'
+73 '-z+1/2, -y+1/2, x+1/2'
+74 '-y+1/2, -x+1/2, z+1/2'
+75 '-x+1/2, -z+1/2, y+1/2'
+76 '-z+1/2, -x+1/2, y+1/2'
+77 '-y+1/2, -z+1/2, x+1/2'
+78 '-x+1/2, -y+1/2, z+1/2'
+79 '-z+1/2, y+1/2, -x+1/2'
+80 '-y+1/2, x+1/2, -z+1/2'
+81 '-x+1/2, z+1/2, -y+1/2'
+82 '-z+1/2, x+1/2, -y+1/2'
+83 '-y+1/2, z+1/2, -x+1/2'
+84 '-x+1/2, y+1/2, -z+1/2'
+85 'z+1/2, -y+1/2, -x+1/2'
+86 'y+1/2, -x+1/2, -z+1/2'
+87 'x+1/2, -z+1/2, -y+1/2'
+88 'z+1/2, -x+1/2, -y+1/2'
+89 'y+1/2, -z+1/2, -x+1/2'
+90 'x+1/2, -y+1/2, -z+1/2'
+91 'z+1/2, y+1/2, x+1/2'
+92 'y+1/2, x+1/2, z+1/2'
+93 'x+1/2, z+1/2, y+1/2'
+94 'z+1/2, x+1/2, y+1/2'
+95 'y+1/2, z+1/2, x+1/2'
+96 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Al3+ 3
+Na1+ 1
+C4+ 4
+O2- -2
+C4+ 4
+O2- -2
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 48 k 0.1306(1) 0.1306(1) 0.3152(3) 0.018(2) 1. 0
+O2 O2- 48 k 0.2499(2) 0.2499(2) 0.3992(2) 0.022(2) 1. 0
+O3 O2- 48 j 0 0.1817(2) 0.3272(3) 0.031(2) 1. 0
+O4 O2- 48 i 0.25 0.1036(2) 0.3964(2) 0.025(2) 1. 0
+Si1 Si4+ 96 l 0.0841(1) 0.2039(1) 0.3233(1) 0.0194(7) 0.785 0
+Al1 Al3+ 96 l 0.0841(1) 0.2039(1) 0.3233(1) 0.0194(7) 0.215 0
+Na1 Na1+ 16 f 0.1778(3) 0.1778(3) 0.1778(3) 0.025(5) 0.464(3) 0
+Na2 Na1+ 12 d 0 0.25 0.5 0.059(4) 0.8515 0
+Na3 Na1+ 8 c 0.25 0.75 0.75 0.025 0.072(6) 0
+C1 C4+ 12 e 0 0 0.3187(5) 0.1083 1.000(4) 0
+O5 O2- 12 e 0 0 0.6193(5) 0.1083 1.000(4) 0
+O6 O2- 12 e 0 0 0.2562(5) 0.1083 1.000(4) 0
+C2 C4+ 24 h 0.0769(2) 0.0769(2) 0.5 0.1068 0.487(3) 0
+O7 O2- 48 j 0.1209(2) 0.0329(2) 0.5 0.1068 0.487(3) 0
+C3 C4+ 24 h 0.1216(3) 0.1216(3) 0 0.2825 0.354(2) 0
+O8 O2- 48 k 0.1216(3) 0.1216(3) 0.0621(2) 0.2825 0.354(2) 0
+#End of TTdata_257389-ICSD

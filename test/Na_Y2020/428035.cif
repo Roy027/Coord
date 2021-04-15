@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428035-ICSD
+_database_code_ICSD 428035
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Disodium tridecaoxodicupropentasilicate'
+_chemical_formula_structural 'Na2 (Cu2 Si5 O13)'
+_chemical_formula_sum 'Cu2 Na2 O13 Si5'
+_exptl_crystal_density_diffrn 2.63
+_cell_measurement_temperature 393.
+_publ_section_title
+
+;
+Structures of dehydrated microporous copper silicate CuSH-6Na, an in situ
+single crystal X-ray study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2015 230 363
+368 ZKCMAJ
+loop_
+_publ_author_name
+'Wang, Xiqu'
+'Jacobson, Allan J.'
+_cell_length_a 11.1210(8)
+_cell_length_b 5.2345(4)
+_cell_length_c 11.3391(8)
+_cell_angle_alpha 90
+_cell_angle_beta 94.5860(8)
+_cell_angle_gamma 90
+_cell_volume 657.96
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/n 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, y, -z+1/2'
+3 '-x, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Si4+ 4
+Na1+ 1
+O2- -2
+Cu1+ 1
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 g 0.56758(2) 0.24734(4) 0.01966(2) 0.01043(8) 0.9737(15) 0
+Si1 Si4+ 4 g 0.38745(4) 0.45443(9) 0.22065(4) 0.00920(11) 0.9737(15) 0
+Si2 Si4+ 4 g 0.51906(4) 0.94544(9) 0.24423(4) 0.00927(11) 0.9737(15) 0
+Si3 Si4+ 2 f 0.75 1.19382(14) 0.25 0.01078(15) 0.9737(15) 0
+Na1 Na1+ 4 g 0.26097(10) 0.28818(18) -0.06115(9) 0.0313(2) 0.9737(15) 0
+O1 O2- 4 g 0.39773(12) 0.4633(3) 0.08073(11) 0.0132(3) 0.9737(15) 0
+O2 O2- 2 e 0.25 0.4923(5) 0.25 0.0261(5) 0.9737(15) 0
+O3 O2- 4 g 0.46637(13) 0.6794(3) 0.29097(11) 0.0136(3) 0.9737(15) 0
+O4 O2- 4 g 0.43202(13) 1.1794(3) 0.27600(12) 0.0153(3) 0.9737(15) 0
+O5 O2- 4 g 0.65363(12) 0.9938(3) 0.30946(12) 0.0145(3) 0.9737(15) 0
+O6 O2- 4 g 0.68183(13) 0.3552(3) 0.14635(12) 0.0160(3) 0.9737(15) 0
+O7 O2- 4 g 0.46631(12) 0.0714(2) -0.10390(12) 0.0130(3) 0.9737(15) 0
+Cu2 Cu1+ 4 g 0.56758(2) 0.75266(4) 0.01966(2) 0.021(3) 0.0263(15) 0
+Si4 Si4+ 4 g 0.38745(4) 0.54557(9) 0.22065(4) 0.021(3) 0.0263(15) 0
+Si5 Si4+ 4 g 0.51906(4) 0.05456(9) 0.24423(4) 0.021(3) 0.0263(15) 0
+Si6 Si4+ 2 f 0.75 -0.19382(14) 0.25 0.021(3) 0.053(3) 0
+Na2 Na1+ 4 g 0.26097(10) 0.71182(18) -0.06115(9) 0.021(3) 0.0263(15) 0
+O8 O2- 4 g 0.39773(12) 0.5367(3) 0.08073(11) 0.021(3) 0.0263(15) 0
+O9 O2- 2 e 0.25 0.5077(5) 0.25 0.021(3) 0.053(3) 0
+O10 O2- 4 g 0.46637(13) 0.3206(3) 0.29097(11) 0.021(3) 0.0263(15) 0
+O11 O2- 4 g 0.43202(13) -0.1794(3) 0.27600(12) 0.021(3) 0.0263(15) 0
+O12 O2- 4 g 0.65363(12) 0.0062(3) 0.30946(12) 0.021(3) 0.0263(15) 0
+O13 O2- 4 g 0.68183(13) 0.6448(3) 0.14635(12) 0.021(3) 0.0263(15) 0
+O14 O2- 4 g 0.46631(12) 0.9286(2) -0.10390(12) 0.021(3) 0.0263(15) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.01165(13) 0.00942(13) 0.00980(13) -0.00172(8) -0.00183(9) 0.00133(7)
+Si1 Si4+ 0.0085(2) 0.0081(2) 0.0113(2) -0.00015(17) 0.00207(17) 0.00074(16)
+Si2 Si4+ 0.0100(2) 0.0085(2) 0.0091(2) -0.00103(17) -0.00084(17) 0.00067(16)
+Si3 Si4+ 0.0098(3) 0.0102(3) 0.0116(3) 0. -0.0039(2) 0.
+Na1 Na1+ 0.0405(6) 0.0228(5) 0.0286(5) -0.0144(4) -0.0103(4) 0.0014(4)
+O1 O2- 0.0174(7) 0.0118(6) 0.0102(6) -0.0029(5) 0.0003(5) 0.0014(5)
+O2 O2- 0.0122(10) 0.0246(11) 0.0427(14) 0. 0.0103(9) 0.
+O3 O2- 0.0185(7) 0.0106(6) 0.0117(6) -0.0041(5) 0.0008(5) 0.0011(5)
+O4 O2- 0.0195(7) 0.0107(6) 0.0161(6) 0.0037(5) 0.0043(5) 0.0031(5)
+O5 O2- 0.0117(6) 0.0169(6) 0.0143(6) -0.0027(5) -0.0036(5) 0.0038(5)
+O6 O2- 0.0166(7) 0.0142(7) 0.0156(6) -0.0020(5) -0.0082(5) 0.0030(5)
+O7 O2- 0.0184(7) 0.0113(6) 0.0092(6) -0.0042(5) -0.0004(5) 0.0001(5)
+#End of TTdata_428035-ICSD

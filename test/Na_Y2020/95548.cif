@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95548-ICSD
+_database_code_ICSD 95548
+_audit_creation_date 2003-10-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium carbonate - gamma'
+_chemical_formula_structural 'Na2 (C O3)'
+_chemical_formula_sum 'C1 Na2 O3'
+_chemical_name_mineral Natrite
+_exptl_crystal_density_diffrn 2.55
+_publ_section_title 'Crystal structure of natrite, gamma-(Na2 C O3)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie, Monatshefte' 2002 2002 85 96 NJMMAW
+loop_
+_publ_author_name
+'Zubkova, N.V.'
+'Pushcharovskii, D.Yu.'
+'Ivaldi, G.'
+'Ferraris, G.'
+'Pekov, I.V.'
+'Chukanov, N.V.'
+_cell_length_a 8.905(4)
+_cell_length_b 5.237(3)
+_cell_length_c 6.045(2)
+_cell_angle_alpha 90
+_cell_angle_beta 101.32(3)
+_cell_angle_gamma 90
+_cell_volume 276.43
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 g 0 0.356(2) 0 1.62(2) 0.5 0
+Na2 Na1+ 4 h 0 0.425(1) 0.5 1.53(2) 0.5 0
+Na3 Na1+ 8 j 0.17050(5) 0.54531(8) 0.74786(8) 2.16(1) 0.5 0
+C1 C4+ 8 j 0.16394(9) 0.4623(2) 0.2491(1) 1.21(3) 0.5 0
+O1 O2- 8 j 0.1237(1) 0.2438(2) 0.3089(2) 2.89(2) 0.5 0
+O2 O2- 8 j 0.28979(7) 0.492(2) 0.1775(1) 2.00(3) 0.5 0
+O3 O2- 8 j 0.0800(1) 0.6573(2) 0.2622(2) 2.83(2) 0.5 0
+#End of TTdata_95548-ICSD

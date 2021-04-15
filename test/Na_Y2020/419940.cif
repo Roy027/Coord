@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419940-ICSD
+_database_code_ICSD 419940
+_audit_creation_date 2011-02-01
+_chemical_name_systematic
+'Sodium hydrogen phosphate arsenate hydrate (1/2/0.48/0.52/1)'
+_chemical_formula_structural 'Na H2 ((P O4)0.48 (As O4)0.52) (H2 O)'
+_chemical_formula_sum 'H4 As0.52 Na1 O5 P0.48'
+_exptl_crystal_density_diffrn 2.44
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, structuural study of non-centrosymmetric Na H2 (P O4)0.48 (As
+O4)0.52 * (H2 O) crystal
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Analytical Sciences: X-Ray Structure Analysis Online' 2010 26 19 20
+XSAOAF
+loop_
+_publ_author_name
+'Jarraya, K.'
+'Ennaceur, N.'
+'Mhiri, T.'
+_cell_length_a 5.1383(5)
+_cell_length_b 8.3301(8)
+_cell_length_c 10.2492(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 438.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+P5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 4 a 0.581571(19) 0.808815(11) 0.842498(10) 0.01113(2) 0.521(2) 0
+P1 P5+ 4 a 0.581571(19) 0.808815(11) 0.842498(10) 0.01113(2) 0.479(2) 0
+Na1 Na1+ 4 a 0.42237(9) 1.08784(5) 1.09584(4) 0.02325(9) 1 0
+O1 O2- 4 a 0.67278(13) 0.92236(9) 0.71899(7) 0.02127(12) 1 0
+O2 O2- 4 a 0.66511(13) 0.88877(8) 0.97619(7) 0.02095(11) 1 0
+O3 O2- 4 a 0.26013(13) 0.80766(10) 0.82479(7) 0.02211(12) 1 0
+O4 O2- 4 a 0.57197(16) 1.35996(8) 1.06001(7) 0.02308(12) 1 0
+O5 O2- 4 a 0.68961(12) 0.63319(8) 0.81514(7) 0.01881(11) 1 0
+H1 H1+ 4 a 0.649(5) 1.367(3) 1.119(2) 0.056(7) 1 0
+H2 H1+ 4 a 0.471(4) 1.444(3) 1.050(2) 0.040(5) 1 0
+H3 H1+ 4 a 0.595(3) 1.005(3) 0.7095(18) 0.038(4) 1 0
+H4 H1+ 4 a 0.210(5) 0.756(3) 0.884(3) 0.057(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As5+ 0.01264(3) 0.00922(3) 0.01153(4) 0.00046(3) -0.00031(4) 0.00024(3)
+P1 P5+ 0.01264(3) 0.00922(3) 0.01153(4) 0.00046(3) -0.00031(4) 0.00024(3)
+Na1 Na1+ 0.02283(14) 0.01978(15) 0.02713(19) -0.00167(15) -0.00121(16)
+0.00103(12)
+O1 O2- 0.0215(2) 0.0200(2) 0.0224(3) 0.0044(2) 0.0031(2) 0.0058(2)
+O2 O2- 0.0231(2) 0.0196(2) 0.0202(2) 0.0005(2) -0.0020(2) -0.00028(19)
+O3 O2- 0.0191(2) 0.0219(2) 0.0254(3) -0.0023(3) 0.0022(2) 0.0036(2)
+O4 O2- 0.0266(3) 0.0208(2) 0.0219(3) 0.0000(3) -0.0031(3) 0.00057(19)
+O5 O2- 0.0200(2) 0.0155(2) 0.0209(2) 0.00206(19) -0.0010(2) -0.00051(16)
+#End of TTdata_419940-ICSD

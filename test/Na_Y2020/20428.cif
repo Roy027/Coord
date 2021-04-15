@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20428-ICSD
+_database_code_ICSD 20428
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Pentasodium lanthanum molybdate'
+_chemical_formula_structural 'Na5 La (Mo O4)4'
+_chemical_formula_sum 'La1 Mo4 Na5 O16'
+_chemical_name_structure_type Na5Lu(WO4)4
+_exptl_crystal_density_diffrn 3.81
+_publ_section_title
+
+;
+Fine changes in the structure of Scheelite-like Na5 Tr (E O4)4 with a
+variation in their elemental composition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1982 27 134 139 KRISAJ
+loop_
+_publ_author_name
+'Efremov, V.A.'
+'Trunov, V.K.'
+'Berezina, T.A.'
+_cell_length_a 11.574(2)
+_cell_length_b 11.574(2)
+_cell_length_c 11.620(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1556.59
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a Z'
+_symmetry_Int_Tables_number 88
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+3/4, x+3/4, -z+3/4'
+2 'y+1/4, -x+3/4, -z+3/4'
+3 'x, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/4, -x+1/4, z+1/4'
+6 '-y+3/4, x+1/4, z+1/4'
+7 '-x, -y+1/2, z'
+8 'x, y, z'
+9 '-y+1/4, x+1/4, -z+1/4'
+10 'y+3/4, -x+1/4, -z+1/4'
+11 'x+1/2, y, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+3/4, -x+3/4, z+3/4'
+14 '-y+1/4, x+3/4, z+3/4'
+15 '-x+1/2, -y, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+La3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 16 f 0.17821(6) 0.34711(5) 0.39319(6) 0.69 1. 0
+La1 La3+ 4 a 0 0.25 0.125 0.6 1. 0
+Na1 Na1+ 4 b 0 0.25 0.625 2.24 1. 0
+Na2 Na1+ 16 f 0.1236(3) 0.0461 0.3412(3) 1.37 1. 0
+O1 O2- 16 f 0.1748(5) 0.4653(5) 0.4858(5) 1.33 1. 0
+O2 O2- 16 f 0.1495(5) 0.2221(5) 0.4749(5) 1.33 1. 0
+O3 O2- 16 f 0.0608(4) 0.3644(5) 0.2966(5) 1.08 1. 0
+O4 O2- 16 f 0.3123(5) 0.3393(5) 0.3170(5) 1.09 1. 0
+#End of TTdata_20428-ICSD

@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74559-ICSD
+_database_code_ICSD 74559
+_audit_creation_date 1995-10-17
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Tripotassium sodium bis(chromate) - LT'
+_chemical_formula_structural 'K3 Na (Cr O4)2'
+_chemical_formula_sum 'Cr2 K3 Na1 O8'
+_chemical_name_structure_type Na2BaCu(VO4)2
+_exptl_crystal_density_diffrn 2.78
+_cell_measurement_temperature 200.
+_publ_section_title
+
+;
+Structure determination of the ferroelastic phase of K3 Na (Cr O4)2 at 200 and
+230 K and the redetermination of its parent phase at 290 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1994 50 13 22
+ASBSDK
+loop_
+_publ_author_name
+'Fabry, J.'
+'Breczewski, T.'
+'Madariaga, G.'
+_cell_length_a 10.117(1)
+_cell_length_b 5.843(2)
+_cell_length_c 15.024(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.967(7)
+_cell_angle_gamma 90.
+_cell_volume 888.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr6+ 6
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr6+ 8 f 0.1657(2) 0.49142(6) 0.13678(3) . 1. 0
+K1 K1+ 8 f 0.1685(2) 0.48967(9) 0.41609(4) . 1. 0
+K2 K1+ 4 e 0 0.9701(2) 0.25 . 1. 0
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+O1 O2- 8 f 0.169(1) 0.5232(3) 0.2439(2) . 1. 0
+O2 O2- 8 f 0.0872(5) 0.7092(7) 0.0912(3) . 1. 0
+O3 O2- 8 f 0.0879(5) 0.2545(7) 0.1095(4) . 1. 0
+O4 O2- 8 f 0.3169(5) 0.4823(8) 0.0951(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr6+ 0.00788(61) 0.00866(57) 0.00812(21) 0.00008(14) -0.00179(68)
+0.00016(10)
+K1 K1+ 0.01642(91) 0.01322(79) 0.01181(30) -0.00022(20) -0.00190(91) 0.00110(14)
+K2 K1+ 0.03120(124) 0.02484(71) 0.01419(38) 0 0.00112(84) 0
+Na1 Na1+ 0.00610(243) 0.01632(276) 0.01258(69) -0.00047(63) -0.00326(253)
+0.00089(32)
+O1 O2- 0.04779(318) 0.03156(205) 0.01037(87) 0.00177(191) -0.00122(243)
+-0.00246(80)
+O2 O2- 0.01263(240) 0.01755(180) 0.02833(207) 0.00470(129) -0.00149(200)
+0.00612(174)
+O3 O2- 0.01594(280) 0.01629(210) 0.02764(181) -0.00470(147) -0.00164(178)
+-0.00446(121)
+O4 O2- 0.01220(171) 0.02359(222) 0.02599(323) -0.00027(173) 0.00712(211)
+0.00250(183)
+#End of TTdata_74559-ICSD

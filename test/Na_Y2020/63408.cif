@@ -1,0 +1,70 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_63408-ICSD
+_database_code_ICSD 63408
+_audit_creation_date 1990-12-27
+_chemical_name_systematic 'Sodium praseodymium selenate'
+_chemical_formula_structural 'Na Pr (Se O4)2'
+_chemical_formula_sum 'Na1 O8 Pr1 Se2'
+_exptl_crystal_density_diffrn 4.38
+_publ_section_title 'Crystal Structure of Na Pr (Se O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1989 34 57 61 KRISAJ
+loop_
+_publ_author_name
+'Ovanisyan, S.M.'
+'Iskhakova, L.D.'
+_cell_length_a 6.639(2)
+_cell_length_b 7.118(1)
+_cell_length_c 7.361(1)
+_cell_angle_alpha 99.16(2)
+_cell_angle_beta 96.93(2)
+_cell_angle_gamma 89.77(3)
+_cell_volume 340.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pr3+ 3
+Na1+ 1
+Se6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pr1 Pr3+ 2 i 0.35597(4) 0.19371(3) 0.19757(3) 0.335(3) 1. 0
+Na1 Na1+ 2 i 0.0671(4) 0.6898(4) 0.2744(4) 2.27(5) 1. 0
+Se1 Se6+ 2 i 0.43185(6) 0.28573(6) 0.71100(5) 0.346(6) 1. 0
+Se2 Se6+ 2 i 0.13346(6) 0.81426(6) 0.78489(6) 0.434(6) 1. 0
+O1 O2- 2 i 0.2808(6) 0.2949(5) 0.5209(5) 0.93(6) 1. 0
+O2 O2- 2 i 0.5660(6) 0.0939(5) 0.6832(5) 1.04(6) 1. 0
+O3 O2- 2 i 0.5928(6) 0.4656(5) 0.7586(5) 1.04(6) 1. 0
+O4 O2- 2 i 0.2902(5) 0.2870(5) 0.8794(5) 0.87(5) 1. 0
+O5 O2- 2 i -.0058(5) 0.6481(6) 0.8440(5) 1.04(6) 1. 0
+O6 O2- 2 i 0.3213(5) 0.8881(5) 0.9506(5) 0.93(6) 1. 0
+O7 O2- 2 i -.0312(5) 0.9839(5) 0.7617(5) 0.99(6) 1. 0
+O8 O2- 2 i 0.2541(6) 0.7404(6) 0.6081(5) 1.41(7) 1. 0
+#End of TTdata_63408-ICSD

@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_161368-ICSD
+_database_code_ICSD 161368
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Disodium calcium tetrakis(vanadate)'
+_chemical_formula_structural 'Na2 Ca (V O3)4'
+_chemical_formula_sum 'Ca1 Na2 O12 V4'
+_chemical_name_structure_type SrNa2P4O12
+_exptl_crystal_density_diffrn 2.97
+_publ_section_title
+
+;
+Structural, vibrational, electronic and luminescence properties of the
+cyclotetravanadates A2 M (V O3)4 (A= Na, Mg; M= Ca, Sr)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2008 77
+174113-1 174113-14 PRBMDO
+loop_
+_publ_author_name
+'Zubkov, V.G.'
+'Surat, L.L.'
+'Tyutyunnik, A.P.'
+'Berger, I.F.'
+'Tarakina, N.V.'
+'Slobodin, B.V.'
+'Kuznetsov, M.V.'
+'Denisova, T.A.'
+'Zhuravlev, N.A.'
+'Perelyaeva, L.A.'
+'Baklanova, I.V.'
+'Shein, I.R.'
+'Ivanovskii, A.L.'
+'Shulgin, B.V.'
+'Ishchenko, A.V.'
+'Tcherepanov, A.N.'
+'Svensson, G.'
+'Forslund, B.'
+'Skripkin, M.Yu.'
+_cell_length_a 10.43849(6)
+_cell_length_b 10.43849(6)
+_cell_length_c 4.93873(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 538.13
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n b m Z'
+_symmetry_Int_Tables_number 125
+_refine_ls_R_factor_all 0.0143
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z'
+2 'y, -x+1/2, z'
+3 '-y+1/2, x, z'
+4 '-y, -x, z'
+5 '-y+1/2, -x+1/2, -z'
+6 '-y, x+1/2, -z'
+7 'y+1/2, -x, -z'
+8 'y, x, -z'
+9 'x+1/2, y+1/2, -z'
+10 '-x+1/2, y, -z'
+11 'x, -y+1/2, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, -y+1/2, z'
+14 'x+1/2, -y, z'
+15 '-x, y+1/2, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0 0 0.5 0.0221(2) 1. 0
+Ca1 Ca2+ 2 b 0.25 0.25 0.5 0.0127(2) 1. 0
+V1 V5+ 8 k 0.5276(1) 0.25 0 0.0204(1) 1. 0
+O1 O2- 8 m 0.6278(1) 0.3722(1) 0.1486(3) 0.0119(3) 1. 0
+O2 O2- 16 n 0.1858(1) 0.0598(1) 0.2399(2) 0.0127(3) 1. 0
+#End of TTdata_161368-ICSD

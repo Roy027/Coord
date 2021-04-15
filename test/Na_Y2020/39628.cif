@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39628-ICSD
+_database_code_ICSD 39628
+_audit_creation_date 1993-08-22
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Lithium pentasodium bis(phosphate(V))'
+_chemical_formula_structural 'Li Na5 (P O4)2'
+_chemical_formula_sum 'Li1 Na5 O8 P2'
+_chemical_name_mineral Olympite
+_exptl_crystal_density_diffrn 2.71
+_publ_section_title 'Crystal structure of olympite Li Na5 (P O4)2.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1992 37 1429 1436 KRISAJ
+loop_
+_publ_author_name
+'Malinovskii, Yu.A.'
+'Genkina, E.A.'
+_cell_length_a 10.143(1)
+_cell_length_b 14.819(3)
+_cell_length_c 10.154(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1526.24
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P c m n'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0374
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y, z+1/2'
+2 'x, -y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y, -z+1/2'
+6 '-x, y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Na1+ 1
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 c 0.2746(1) 0.25 0.4974(1) 0.53(2) 1. 0
+P2 P5+ 8 d 0.5056 0.0007 0.752 0.59(2) 1. 0
+P3 P5+ 4 c 0.2478(1) 0.75 0.0207(1) 0.53(2) 1. 0
+Na1 Na1+ 8 d 0.2253(1) 0.1367 0.2475(1) 1.29(3) 1. 0
+Na2 Na1+ 4 c 0.4353(1) 0.75 0.2665(2) 1.33(4) 1. 0
+Na3 Na1+ 8 d 0.2213(1) 0.9982(1) 0.4985(1) 1.54(3) 1. 0
+Na4 Na1+ 8 d 0.2574(1) 0.8943 0.7568(1) 1.14(3) 1. 0
+Na5 Na1+ 8 d 0.4850(1) 0.1135(1) 0.4906(1) 1.32(3) 1. 0
+Na6 Na1+ 4 c 0.0145(2) 0.75 0.2871(2) 1.0(1) 1. 0
+Li1 Li1+ 8 d 0.4963(5) 0.1394(4) 0.9894(5) 0.91(15) 1. 0
+O1 O2- 4 c 0.4004(3) 0.7499 0.0036(3) 0.86(6) 1. 0
+O2 O2- 4 c 0.1254(3) 0.25 0.1116(3) 1.12(7) 1. 0
+O3 O2- 8 d 0.1311(2) 0.0301(1) 0.8191(2) 1.19(5) 1. 0
+O4 O2- 8 d 0.0332(2) 0.9079(1) 0.6810(2) 1.56(5) 1. 0
+O5 O2- 8 d 0.3940(2) 0.0110(1) 0.6490(2) 1.04(5) 1. 0
+O6 O2- 8 d 0.1899(2) 0.8351(1) 0.9571(2) 1.31(5) 1. 0
+O7 O2- 8 d 0.3104(2) 0.1644(1) 0.0071(2) 1.27(5) 1. 0
+O8 O2- 4 c 0.2154(3) 0.75 0.1698(3) 1.01(6) 1. 0
+O9 O2- 4 c 0.1487(3) 0.2501 0.8659(3) 1.29(7) 1. 0
+O10 O2- 8 d 0.4608(2) 0.9314(1) 0.8554(2) 1.40(5) 1. 0
+#End of TTdata_39628-ICSD

@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62532-ICSD
+_database_code_ICSD 62532
+_audit_creation_date 1988-02-22
+_chemical_name_systematic 'Sodium dilithium borate'
+_chemical_formula_structural 'Na Li2 B O3'
+_chemical_formula_sum 'B1 Li2 Na1 O3'
+_exptl_crystal_density_diffrn 2.32
+_publ_section_title 'Neue Oxoborate der Alkalimetalle: NaLi2(BO3)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+545 157 168 ZAACAB
+loop_
+_publ_author_name
+'Miessen, M.'
+'Hoppe, R.'
+_cell_length_a 9.507(4)
+_cell_length_b 12.037(4)
+_cell_length_c 4.930(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.(1)
+_cell_angle_gamma 90.
+_cell_volume 547.41
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0752
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Li1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.8242(2) 0.1981(1) 0.7975(3) . 1. 0
+Na2 Na1+ 4 e 0.8981(2) 0.3860(2) 0.2423(4) . 1. 0
+Li1 Li1+ 4 e 0.9414(6) 0.6486(5) 0.1279(12) . 1. 0
+Li2 Li1+ 4 e 0.7981(7) 0.1016(5) 0.2743(11) . 1. 0
+Li3 Li1+ 4 e 0.0197(6) 0.0038(5) 0.2591(11) . 1. 0
+Li4 Li1+ 4 e 0.1436(7) 0.1534(5) 0.9148(12) . 1. 0
+B1 B3+ 4 e 0.9236(4) 0.7880(3) 0.5640(8) . 1. 0
+B2 B3+ 4 e 0.2814(4) 0.0216(3) 0.2322(8) . 1. 0
+O1 O2- 4 e 0.1772(3) 0.2667(2) 0.6425(5) . 1. 0
+O2 O2- 4 e 0.9467(2) 0.7593(2) 0.8418(5) . 1. 0
+O3 O2- 4 e 0.9968(3) 0.1265(2) 0.5190(5) . 1. 0
+O4 O2- 4 e 0.6597(2) 0.5068(2) 0.5215(5) . 1. 0
+O5 O2- 4 e 0.8632(2) 0.3892(2) 0.6899(5) . 1. 0
+O6 O2- 4 e 0.1922(2) 0.4639(2) 0.0188(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0157(7) 0.0126(7) 0.0139(8) -.0012(6) 0.0037(6) -.0004(6)
+Na2 Na1+ 0.0551(11) 0.037(1) 0.0154(8) 0.0297(9) 0.0126(8) 0.0084(8)
+Li1 Li1+ 0.0129(18) 0.0145(19) 0.0122(19) 0.0030(17) 0.0028(17) -.0020(18)
+Li2 Li1+ 0.0177(19) 0.0156(19) 0.0093(19) 0.0020(18) 0.0030(18) 0.0002(17)
+Li3 Li1+ 0.0134(18) 0.0130(18) 0.0110(18) -.0020(17) 0.0027(17) -.0001(17)
+Li4 Li1+ 0.0254(20) 0.0162(19) 0.0110(19) 0.0069(18) 0.0072(18) 0.0034(18)
+B1 B3+ 0.0059(14) 0.0048(14) 0.0053(15) 0.0038(12) 0.0018(12) 0.0017(12)
+B2 B3+ 0.0096(14) 0.0080(15) 0.0076(15) -.0027(13) 0.0037(13) -.0005(13)
+O1 O2- 0.0152(11) 0.0110(11) 0.0065(11) -.0066(10) 0.0025(9) -.0027(9)
+O2 O2- 0.0129(11) 0.0117(11) 0.0058(11) 0.0018(9) 0.0028(9) 0.0031(9)
+O3 O2- 0.0104(10) 0.0092(11) 0.0065(11) -.0012(9) 0.0014(9) 0.0010(9)
+O4 O2- 0.0072(10) 0.0103(11) 0.0074(11) -.0008(9) -.0012(9) 0.0005(9)
+O5 O2- 0.0114(11) 0.0147(11) 0.0101(12) 0.0017(10) 0.0011(10) -.0013(10)
+O6 O2- 0.0125(11) 0.0110(11) 0.0089(11) 0.0000(9) 0.000(1) -.0017(9)
+#End of TTdata_62532-ICSD

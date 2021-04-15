@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193925-ICSD
+_database_code_ICSD 193925
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Tripotassium sodium tetracopper dioxide tetrasulfate'
+_chemical_formula_structural 'K3 Na Cu4 O2 (S O4)4'
+_chemical_formula_sum 'Cu4 K3 Na1 O18 S4'
+_chemical_name_mineral Wulffite
+_exptl_crystal_density_diffrn 3.16
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Wulffite, K3 Na Cu4 O2 (S O4)4, and parawulffite, K5 Na3 Cu8 O4 (SO4)8, two
+new minerals from fumarole sublimates of the Tolbachik volcano, Kamchatka,
+Russia
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2014 52 699 716 CAMIA6
+loop_
+_publ_author_name
+'Pekov, Igor V.'
+'Zubkova, Natalia V.'
+'Yapaskurt, Vasiliy O.'
+'Belakovskiy, Dmitry I.'
+'Chukanov, Nikita V.'
+'Lykova, Inna S.'
+'Savelyev, Dmitry P.'
+'Sidorov, Evgeny G.'
+'Pushcharovsky, Dmitry Yu.'
+_cell_length_a 14.2810(6)
+_cell_length_b 4.9478(2)
+_cell_length_c 24.1127(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1703.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n 21 a'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.0721
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+S6+ 6
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 a 0.65321(10) 0.0531(3) 0.64271(7) 0.0143(4) 1. 0
+Cu2 Cu2+ 4 a 0.76460(10) 0.5567(3) 0.69678(6) 0.0135(4) 1. 0
+Cu3 Cu2+ 4 a 0.76073(11) 0.6130(3) 0.57822(6) 0.0135(4) 1. 0
+Cu4 Cu2+ 4 a 0.85352(10) 0.1155(3) 0.62676(6) 0.0111(3) 1. 0
+S1 S6+ 4 a 0.7301(2) 0.0632(8) 0.77288(13) 0.0157(7) 1. 0
+S2 S6+ 4 a 0.7334(2) 0.0998(7) 0.50151(12) 0.0141(6) 1. 0
+S3 S6+ 4 a 0.5170(2) 0.5521(7) 0.62741(13) 0.0145(7) 1. 0
+S4 S6+ 4 a 0.9845(2) 0.6059(7) 0.64249(14) 0.0150(7) 1. 0
+K1 K1+ 4 a 0.9644(2) 0.0111(8) 0.76325(15) 0.0283(12) 1. 0
+K2 K1+ 4 a 0.0705(2) 0.5784(7) 0.04241(13) 0.0309(11) 1. 0
+K3 K1+ 4 a 0.1210(2) 0.0950(9) 0.57395(15) 0.0331(12) 1. 0
+Na1 Na1+ 4 a 0.7403(3) 0.0695(13) 0.3495(2) 0.0190(11) 1. 0
+O1 O2- 4 a 0.7669(7) 0.840(2) 0.6434(4) 0.013(2) 1. 0
+O2 O2- 4 a 0.7444(6) 0.337(2) 0.6320(4) 0.007(2) 1. 0
+O3 O2- 4 a 0.7300(6) 0.103(2) 0.8328(3) 0.019(2) 1. 0
+O4 O2- 4 a 0.7576(7) 0.395(2) 0.5098(4) 0.019(2) 1. 0
+O5 O2- 4 a 0.0850(6) 0.562(3) 0.6346(4) 0.025(2) 1. 0
+O6 O2- 4 a 0.5350(7) 0.260(2) 0.6403(4) 0.021(2) 1. 0
+O7 O2- 4 a 0.4217(8) 0.615(3) 0.6447(4) 0.035(3) 1. 0
+O8 O2- 4 a 0.9661(7) 0.901(2) 0.6294(5) 0.026(3) 1. 0
+O9 O2- 4 a 0.9296(7) 0.439(2) 0.6027(4) 0.020(2) 1. 0
+O10 O2- 4 a 0.6399(6) 0.099(2) 0.7466(4) 0.027(2) 1. 0
+O11 O2- 4 a 0.7641(8) 0.782(2) 0.7632(4) 0.019(2) 1. 0
+O12 O2- 4 a 0.7976(7) 0.254(2) 0.7474(5) 0.022(2) 1. 0
+O13 O2- 4 a 0.5813(7) 0.717(2) 0.6614(5) 0.023(2) 1. 0
+O14 O2- 4 a 0.6409(7) 0.045(3) 0.5233(6) 0.051(4) 1. 0
+O15 O2- 4 a 0.9526(8) 0.552(3) 0.6982(5) 0.039(3) 1. 0
+O16 O2- 4 a 0.7417(8) 0.043(3) 0.4437(4) 0.035(3) 1. 0
+O17 O2- 4 a 0.8025(8) 0.938(2) 0.5331(4) 0.026(3) 1. 0
+O18 O2- 4 a 0.5327(11) 0.596(3) 0.5688(4) 0.051(4) 1. 0
+#End of TTdata_193925-ICSD

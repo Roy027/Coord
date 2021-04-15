@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_10182-ICSD
+_database_code_ICSD 10182
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Sodium trioxodinitrate(II) hydrate'
+_chemical_formula_structural 'Na2 N2 O3 H2 O'
+_chemical_formula_sum 'H2 N2 Na2 O4'
+_exptl_crystal_density_diffrn 2.25
+_publ_section_title
+
+;
+Angeli's salt. Crystal structure of sodium trioxodinitrate (II) monohydrate,
+Na2 N2 O3 H2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1973 12 286 288 INOCAJ
+loop_
+_publ_author_name
+'Hope, H.'
+'Sequeira, M.R.'
+_cell_length_a 6.359(2)
+_cell_length_b 9.765(4)
+_cell_length_c 6.667(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 413.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c m'
+_symmetry_Int_Tables_number 57
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, y+1/2, z'
+3 'x, y, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+N2+ 2
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+Na2 Na1+ 4 c 0.3382(2) 0.25 0 . 1. 0
+O1 O2- 4 d 0.7356(5) 0.5621(3) 0.25 . 1. 0
+O2 O2- 4 d 0.6082(5) 0.3451(3) 0.25 . 1. 0
+N1 N2+ 4 d 0.5735(5) 0.4773(3) 0.25 . 1. 0
+N2 N2+ 4 d 0.3903(6) 0.5274(3) 0.25 . 1. 0
+O3 O2- 4 d 0.2386(5) 0.4312(3) 0.25 . 1. 0
+O4 O2- 4 c 0.9267(5) 0.25 0 . 1. 0
+H1 H1+ 8 e 0.8627(48) 0.2718(41) 0.1015(43) 6. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 2.00(6) 2.65(6) 2.85(7) -.80(5) 0.00(8) 0.19(9)
+Na2 Na1+ 2.45(7) 1.65(5) 2.58(7) 0 0 -.15(8)
+O1 O2- 1.46(12) 1.75(13) 3.18(20) -.51(11) 0 0
+O2 O2- 1.99(12) 1.08(10) 4.53(17) 0.35(10) 0 0
+N1 N2+ 1.69(16) 1.21(15) 2.27(19) 0.07(12) 0 0
+N2 N2+ 1.36(14) 1.50(15) 2.96(21) 0.44(13) 0 0
+O3 O2- 1.31(13) 2.07(13) 3.0(2) -.26(12) 0 0
+O4 O2- 2.70(13) 2.97(13) 3.12(15) 0 0 -.71(19)
+#End of TTdata_10182-ICSD

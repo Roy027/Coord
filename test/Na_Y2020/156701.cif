@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156701-ICSD
+_database_code_ICSD 156701
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Sodium gallium catena-disilicate'
+_chemical_formula_structural 'Na Ga (Si2 O6)'
+_chemical_formula_sum 'Ga1 Na1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral 'Clinopyroxene, sodian gallian'
+_exptl_crystal_density_diffrn 3.91
+_cell_measurement_temperature 190.
+_publ_section_title 'Low-temperature behavior of Na Ga Si2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2007 92 560 569 AMMIAY
+loop_
+_publ_author_name
+'Nestola, F.'
+'Rotiroti, N.'
+'Bruno, M.'
+'Tribaudino, M.'
+'van Smaalen, S.'
+'Ohashi, H.'
+'Redhammer, G.J.'
+_cell_length_a 9.5472(3)
+_cell_length_b 8.6894(2)
+_cell_length_c 5.2667(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.632(2)
+_cell_angle_gamma 90.
+_cell_volume 416.4
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0149
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ga3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.30051(7) 0.25 0.0074(1) 1. 0
+Ga1 Ga3+ 4 e 0 0.90219(2) 0.25 0.00244(4) 1. 0
+Si1 Si4+ 8 f 0.29119(3) 0.09127(3) 0.23241(5) 0.00237(5) 1. 0
+O1 O2- 8 f 0.11191(8) 0.07803(8) 0.13350(14) 0.0032(1) 1. 0
+O2 O2- 8 f 0.35878(8) 0.25935(8) 0.30219(14) 0.0046(1) 1. 0
+O3 O2- 8 f 0.35285(7) 0.00980(8) 0.00769(13) 0.0041(1) 1. 0
+#End of TTdata_156701-ICSD

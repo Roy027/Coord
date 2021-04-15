@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_169444-ICSD
+_database_code_ICSD 169444
+_audit_creation_date 2011-08-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Disodium dinickel iron triphosphate'
+_chemical_formula_structural 'Na2 Ni2 Fe (P O4)3'
+_chemical_formula_sum 'Fe1 Na2 Ni2 O12 P3'
+_chemical_name_structure_type Alluaudite
+_exptl_crystal_density_diffrn 3.9
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structures and magnetic properties of iron(III)-based phosphates Na4
+Ni Fe (P O4) and Na2 Ni2 Fe (P O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2011 509 1163 1171 JALCEU
+loop_
+_publ_author_name
+'Essehli, R.'
+'El Bali, B.'
+'Benmokhtar, S.'
+'Bouziane, K.'
+'Manoun, B.'
+'Abdalslam, M.A.'
+'Ehrenberg, H.'
+_cell_length_a 11.729(7)
+_cell_length_b 12.433(5)
+_cell_length_c 6.431(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.66(4)
+_cell_angle_gamma 90.
+_cell_volume 858.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0434
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+Fe3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 8 f 0.2164(7) 0.3422(6) 0.1281(11) 0.0099(2) 1. 0
+Fe1 Fe3+ 4 e 0 0.2332(8) 0.25 0.0067(2) 1. 0
+P1 P5+ 4 e 0 0.20890(15) -0.25 0.0070(3) 1. 0
+P2 P5+ 8 f 0.2639(12) 0.1097(10) 0.3776(2) 0.0066(3) 1. 0
+Na1 Na1+ 4 a 0 0 0 0.0148(7) 1. 0
+Na2 Na1+ 4 e 0.5 -0.0118(5) 0.75 0.0467(1) 1. 0
+O1 O2- 8 f 0.0393(4) 0.2809(3) -0.0356(6) 0.0107(7) 1. 0
+O2 O2- 8 f 0.3250(4) -0.0007(3) 0.3875(7) 0.0111(7) 1. 0
+O3 O2- 8 f 0.2788(4) 0.1787(3) 0.1874(6) 0.0097(7) 1. 0
+O4 O2- 8 f 0.3385(4) 0.1653(3) 0.6104(6) 0.0088(7) 1. 0
+O5 O2- 8 f 0.1044(4) 0.1330(3) -0.2446(7) 0.0116(7) 1. 0
+O6 O2- 8 f 0.1259(4) 0.1028(3) 0.3311(7) 0.0131(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0130(3) 0.0091(3) 0.0074(3) -0.0004(2) 0.0038(2) -0.0006(2)
+Fe1 Fe3+ 0.0077(4) 0.0076(5) 0.0047(4) 0. 0.0023(3) 0.
+P1 P5+ 0.0084(7) 0.0088(8) 0.0026(7) 0. 0.0008(6) 0.
+P2 P5+ 0.0103(6) 0.0059(5) 0.0030(5) 0.0001(4) 0.0010(4) 0.0002(4)
+Na1 Na1+ 0.0277(17) 0.0053(13) 0.0041(13) 0.0017(12) -0.0011(12) 0.0014(10)
+Na2 Na1+ 0.032(2) 0.062(4) 0.035(3) 0. 0.002(2) 0.
+O1 O2- 0.0109(16) 0.0153(18) 0.0044(15) 0.0022(14) 0.0016(13) -0.0006(13)
+O2 O2- 0.0173(18) 0.0059(15) 0.0097(16) 0.0029(13) 0.0050(14) 0.0010(13)
+O3 O2- 0.0129(17) 0.0115(17) 0.0043(15) 0.0004(13) 0.0030(13) 0.0007(13)
+O4 O2- 0.0153(17) 0.0084(16) 0.0010(14) -0.0008(13) 0.0013(13) 0.0003(12)
+O5 O2- 0.0121(17) 0.0103(16) 0.0114(17) 0.0012(13) 0.0036(14) -0.0044(13)
+O6 O2- 0.0111(17) 0.0138(18) 0.0138(18) -0.0001(14) 0.0044(14) 0.0006(15)
+#End of TTdata_169444-ICSD

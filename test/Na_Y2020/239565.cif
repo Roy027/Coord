@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239565-ICSD
+_database_code_ICSD 239565
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium uranyl tellurate(VI)'
+_chemical_formula_structural 'Na2 ((U O2) (Te2 O8))'
+_chemical_formula_sum 'Na2 O10 Te2 U1'
+_exptl_crystal_density_diffrn 5.68
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Rich non-centrosymmetry in a Na-U-Te oxo-system achieved under extreme
+conditions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 4626 4635 INOCAJ
+loop_
+_publ_author_name
+'Xiao, Bin'
+'Kegler, Philip'
+'Bosbach, Dirk'
+'Alekseev, Evgeny V.'
+_cell_length_a 12.7883(14)
+_cell_length_b 3.7687(4)
+_cell_length_c 8.5027(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.899(11)
+_cell_angle_gamma 90.
+_cell_volume 408.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 m 1'
+_symmetry_Int_Tables_number 8
+_refine_ls_R_factor_all 0.0443
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+Te6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 2 a 0.6891(7) -0.5 0.2833(15) 0.0257(4) 1 0
+Te1 Te6+ 2 a 0.77269(11) 0. 0.64487(15) 0.0098(9) 1 0
+Te2 Te6+ 2 a 0.60649(11) 0. 0.91625(14) 0.0098(9) 1 0
+Na1 Na1+ 2 a 0.882(3) -1. 0.085(4) 0.024(8) 1 0
+Na2 Na1+ 2 a 0.481(2) -1. 0.488(4) 0.013(6) 1 0
+O1 O2- 2 a 0.547(3) -0.5 0.272(4) 0.01 1 0
+O2 O2- 2 a 0.778(5) 0. 0.859(7) 0.013(12) 1 0
+O3 O2- 2 a 0.644(2) -0.5 0.961(4) 0.013(7) 1 0
+O4 O2- 2 a 0.831(3) -0.5 0.245(3) 0.008(7) 1 0
+O5 O2- 2 a 0.903(3) 0. 0.601(14) 0.034(19) 1 0
+O6 O2- 2 a 0.699(8) 0. 0.427(11) 0.035(11) 1 0
+O7 O2- 2 a 0.599(7) 0. 0.712(11) 0.04(2) 1 0
+O8 O2- 2 a 0.476(3) 0. 0.966(13) 0.021(17) 1 0
+O9 O2- 2 a 0.681(5) 0. 1.126(7) 0.01 1 0
+O10 O2- 2 a 0.774(3) -0.5 0.647(4) 0.027(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ 0.0105(6) 0.0050(6) 0.0626(12) 0. 0.0099(7) 0.
+Te1 Te6+ 0.012(2) 0.007(2) 0.009(2) 0. -0.0003(17) 0.
+Te2 Te6+ 0.010(2) 0.010(2) 0.009(2) 0. 0.0010(17) 0.
+Na1 Na1+ 0.024(8) 0.024(8) 0.024(8) 0. 0.0014(11) 0.
+Na2 Na1+ 0.013(7) 0.013(7) 0.013(7) 0. 0.0008(11) 0.
+O2 O2- 0.013(12) 0.014(12) 0.013(12) 0. 0.0009(13) 0.
+O3 O2- 0.013(7) 0.013(7) 0.013(7) 0. 0.0009(11) 0.
+O4 O2- 0.008(8) 0.008(8) 0.008(8) 0. 0.0006(11) 0.
+O5 O2- 0.034(19) 0.034(19) 0.034(19) 0. 0.0023(17) 0.
+O6 O2- 0.035(11) 0.035(11) 0.035(11) 0. 0.0024(13) 0.
+O7 O2- 0.04(2) 0.04(2) 0.04(2) 0. 0.0026(17) 0.
+O8 O2- 0.021(17) 0.021(17) 0.021(17) 0. 0.0014(15) 0.
+O10 O2- 0.027(8) 0.027(8) 0.027(8) 0. 0.0018(12) 0.
+#End of TTdata_239565-ICSD

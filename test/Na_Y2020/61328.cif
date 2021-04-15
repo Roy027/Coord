@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61328-ICSD
+_database_code_ICSD 61328
+_audit_creation_date 1987-03-16
+_audit_update_record 2019-02-01
+_chemical_name_systematic 'Sodium calcium tecto-alumosilicate *'
+_chemical_formula_structural '(Na0.45 Ca0.55) (Al1.55 Si2.45 O8)'
+_chemical_formula_sum 'Al1.55 Ca0.55 Na0.45 O8 Si2.45'
+_chemical_name_structure_type Feldspar#-(TC,C1-,mod)-Anorthite
+_chemical_name_mineral 'Anorthite, sodian'
+_exptl_crystal_density_diffrn 2.69
+_publ_section_title
+
+;
+Modulated structure of an intermediate plagioglase I. Model and computation
+II. Numerical results and discussion
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1976 32 521 538 ACBCAR
+loop_
+_publ_author_name
+'Toman, K.'
+'Frueh, A.J.jr.'
+_cell_length_a 8.17(6)
+_cell_length_b 12.86(2)
+_cell_length_c 7.11(2)
+_cell_angle_alpha 93.6(2)
+_cell_angle_beta 116.3(1)
+_cell_angle_gamma 89.8(1)
+_cell_volume 668.13
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+2 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.2689(11) -.0233(9) 0.1665(16) . 0.45 0
+Na2 Na1+ 2 a -.2695(8) -.0271(7) -.1075(12) . 0.45 0
+Ca1 Ca2+ 2 a 0.2689(11) -.0233(9) 0.1665(16) . 0.55 0
+Ca2 Ca2+ 2 a -.2695(8) -.0271(7) -.1075(12) . 0.55 0
+Al1 Al3+ 2 a 0.0051(9) 0.1668(5) 0.2103(12) 1.54(14) 0.64(14) 0
+Al2 Al3+ 2 a -.0075(8) -.1639(5) -.2169(10) 0.81(12) 0.64(14) 0
+Al3 Al3+ 2 a 0.0033(8) 0.8180(5) 0.2343(10) 0.58(12) 0.32(14) 0
+Al4 Al3+ 2 a -.0026(9) -.8186(5) -.2309(10) 0.52(14) 0.32(14) 0
+Al5 Al3+ 2 a 0.6861(8) 0.1097(5) 0.3163(10) 0.87(12) 0.24(14) 0
+Al6 Al3+ 2 a -.6852(8) -.1097(5) -.3175(10) 0.91(12) 0.32(14) 0
+Al7 Al3+ 2 a 0.6806(8) 0.8809(5) 0.3557(10) 0.92(12) 0.24(14) 0
+Al8 Al3+ 2 a -.6830(8) -.8793(5) -.3591(10) 0.92(12) 0.38(14) 0
+Si1 Si4+ 2 a 0.0051(9) 0.1668(5) 0.2103(12) 1.54(14) 0.36(24) 0
+Si2 Si4+ 2 a -.0075(8) -.1639(5) -.2169(10) 0.81(12) 0.36(14) 0
+Si3 Si4+ 2 a 0.0033(8) 0.8180(5) 0.2343(10) 0.58(12) 0.68(14) 0
+Si4 Si4+ 2 a -.0026(9) -.8186(5) -.2309(10) 0.52(14) 0.68(14) 0
+Si5 Si4+ 2 a 0.6861(8) 0.1097(5) 0.3163(10) 0.87(12) 0.76(14) 0
+Si6 Si4+ 2 a -.6852(8) -.1097(5) -.3175(10) 0.91(12) 0.68(14) 0
+Si7 Si4+ 2 a 0.6806(8) 0.8809(5) 0.3557(10) 0.92(12) 0.76(14) 0
+Si8 Si4+ 2 a -.6830(8) -.8793(5) -.3591(10) 0.92(12) 0.62(14) 0
+O1 O2- 2 a -.0083(24) -.1261(14) -.9776(32) 1.86(30) 1. 0
+O2 O2- 2 a -.0024(22) 0.1302(13) 0.977(3) 1.83(30) 1. 0
+O3 O2- 2 a 0.5747(19) 0.9943(11) 0.2782(36) 0.50(26) 1. 0
+O4 O2- 2 a -.5894(21) -.9919(12) -.2760(26) 1.58(30) 1. 0
+O5 O2- 2 a 0.8099(25) 0.1022(15) 0.1896(30) 2.46(34) 1. 0
+O6 O2- 2 a -.8121(19) -.1079(11) -.1896(24) 1.10(27) 1. 0
+O7 O2- 2 a 0.8138(25) 0.8534(15) 0.2386(30) 2.83(35) 1. 0
+O8 O2- 2 a -.8193(24) -.8518(14) -.2512(30) 1.82(33) 1. 0
+O9 O2- 2 a -.5155(22) -.7964(13) -.2752(30) 2.32(35) 1. 0
+O10 O2- 2 a 0.5145(24) 0.7910(14) 0.2844(28) 1.65(31) 1. 0
+O11 O2- 2 a 0.5177(24) 0.1863(15) 0.2186(30) 2.29(34) 1. 0
+O12 O2- 2 a -.5131(24) -.1917(13) -.2142(30) 1.87(32) 1. 0
+O13 O2- 2 a -.1910(23) -.1068(14) -.3886(30) 1.71(31) 1. 0
+O14 O2- 2 a 0.2065(22) 0.1075(13) 0.3812(28) 1.64(32) 1. 0
+O15 O2- 2 a -.1889(21) -.8700(13) -.4240(28) 2.04(31) 1. 0
+O16 O2- 2 a 0.1894(23) 0.8672(13) 0.4336(30) 1.36(29) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.006(2) 0.016(1) 0.029(4) -.001(1) 0.004(2) -.017(1)
+Na2 Na1+ 0.004(1) 0.007(1) 0.021(2) 0.001(1) 0.001(1) -.008(1)
+Ca1 Ca2+ 0.006(2) 0.016(1) 0.029(4) -.001(1) 0.004(2) -.017(1)
+Ca2 Ca2+ 0.004(1) 0.007(1) 0.021(2) 0.001(1) 0.001(1) -.008(1)
+#End of TTdata_61328-ICSD

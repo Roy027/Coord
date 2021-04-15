@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65011-ICSD
+_database_code_ICSD 65011
+_audit_creation_date 1989-06-19
+_audit_update_record 2009-08-01
+_chemical_name_systematic 'Sodium dihydrogen catena-triarsenate(V)'
+_chemical_formula_structural 'Na H2 (As3 O9)'
+_chemical_formula_sum 'H2 As3 Na1 O9'
+_chemical_name_structure_type H2K(IO3)3
+_exptl_crystal_density_diffrn 3.77
+_publ_section_title
+'Structure de Na H2 As3 O9: Un nouvel anion arseniate condense'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1988 44 1507 1510 ACSCEE
+loop_
+_publ_author_name
+'Driss, A.'
+'Jouini, T.'
+_cell_length_a 7.167(1)
+_cell_length_b 7.575(1)
+_cell_length_c 7.850(1)
+_cell_angle_alpha 109.89(1)
+_cell_angle_beta 107.27(1)
+_cell_angle_gamma 106.15(1)
+_cell_volume 346.9
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 2 i 0.3665(1) 0.3468(1) 0.1674(1) . 1. 0
+As2 As5+ 2 i 0.1550(1) 0.4360(1) 0.4772(1) . 1. 0
+As3 As5+ 2 i 0.1878(1) 0.8369(1) 0.4527(1) . 1. 0
+Na1 Na1+ 2 i 0.3154(7) 0.8223(6) 0.0425(6) . 1. 0
+O1 O2- 2 i 0.3948(11) 0.1433(10) 0.0475(10) . 1. 0
+O2 O2- 2 i 0.2784(11) 0.4672(11) 0.0349(11) . 1. 0
+O3 O2- 2 i 0.1061(10) 0.7991(11) 0.2202(9) . 1. 0
+O4 O2- 2 i 0.1853(10) 0.2833(10) 0.2640(9) . 1. 0
+O5 O2- 2 i 0.0914(9) 0.5683(10) 0.6802(9) . 1. 0
+O6 O2- 2 i 0.3972(10) 0.4448(10) 0.6474(9) . 1. 0
+O7 O2- 2 i 0.3922(10) 0.077(1) 0.6277(10) . 1. 0
+O8 O2- 2 i 0.0103(10) 0.1835(10) 0.4613(10) . 1. 0
+O9 O2- 2 i 0.3146(10) 0.6859(9) 0.4961(9) . 1. 0
+H1 H1+ 2 i 0.1275 0.3619 -.0658 . 1. 0
+H2 H1+ 2 i 0.41(3) 0.22(3) 0.67(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+As1 As5+ 0.0050(2) 0.0066(2) 0.0053(2) 0.0017(1) 0.0027(1) 0.0022(1)
+As2 As5+ 0.0044(2) 0.0062(2) 0.0053(1) 0.0018(1) 0.0026(1) 0.0025(1)
+As3 As5+ 0.0050(2) 0.0064(2) 0.0056(2) 0.0015(1) 0.0027(1) 0.0027(1)
+Na1 Na1+ 0.0109(9) 0.0107(10) 0.0112(9) 0.0032(8) 0.0073(8) 0.0043(8)
+O1 O2- 0.0109(16) 0.0089(15) 0.0101(15) 0.0047(13) 0.0066(13) 0.0041(12)
+O2 O2- 0.0080(15) 0.0098(15) 0.0105(15) 0.0021(13) 0.0028(12) 0.0058(13)
+O3 O2- 0.0084(15) 0.0117(16) 0.0060(13) 0.0028(13) 0.0029(11) 0.0055(12)
+O4 O2- 0.0081(15) 0.0067(13) 0.0058(13) 0.0000(11) 0.0049(12) 0.0001(11)
+O5 O2- 0.0055(13) 0.0093(14) 0.0052(11) 0.0027(11) 0.0029(10) 0.0036(11)
+O6 O2- 0.0049(13) 0.0079(14) 0.0069(13) 0.0006(11) 0.0009(11) 0.0027(11)
+O7 O2- 0.0067(14) 0.0073(14) 0.0082(14) 0.0001(12) 0.0023(11) 0.0023(11)
+O8 O2- 0.0075(14) 0.0059(12) 0.0083(13) 0.0017(11) 0.0062(11) 0.0028(11)
+O9 O2- 0.0078(14) 0.0045(12) 0.0079(13) 0.0017(11) 0.0046(11) 0.0033(11)
+#End of TTdata_65011-ICSD

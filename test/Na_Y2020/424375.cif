@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424375-ICSD
+_database_code_ICSD 424375
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Lithium trisodium diphosphate'
+_chemical_formula_structural 'Li Na3 P2 O7'
+_chemical_formula_sum 'Li1 Na3 O7 P2'
+_chemical_name_structure_type NdP3O9
+_exptl_crystal_density_diffrn 2.69
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis, crystal structures and optical properties of two congruent-melting
+isotypic diphosphates: LiM3P2O7 (M=Na, K)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2013 197 128 133 JSSCBI
+loop_
+_publ_author_name
+'Shi, Yunjing'
+'Wang, Ying'
+'Pan, Shilie'
+'Yang, Zhihua'
+'Dong, Xiaoyu'
+'Wu, Hongping'
+'Zhang, Min'
+'Cao, Jian'
+'Zhou, Zhongxiang'
+_cell_length_a 5.4966(2)
+_cell_length_b 9.1365(4)
+_cell_length_c 12.2764(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 616.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.0255
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 b 0.5 0.9629(8) 0.25 0.0160(18) 1 0
+Na1 Na1+ 4 a 0.1498(3) 0.5 0.5 0.0257(5) 1 0
+Na2 Na1+ 8 c 0.1250(2) 0.82748(16) 0.38118(10) 0.0205(4) 1 0
+P1 P5+ 8 c 0.14013(16) 1.16871(10) 0.35134(6) 0.0112(3) 1 0
+O1 O2- 8 c 0.3499(4) 1.0646(3) 0.37179(16) 0.0158(6) 1 0
+O2 O2- 8 c -0.0420(4) 1.1745(3) 0.44250(18) 0.0184(6) 1 0
+O3 O2- 8 c 0.2243(4) 1.3187(3) 0.31409(18) 0.0161(6) 1 0
+O4 O2- 4 b 0. 1.0939(3) 0.25 0.0210(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.018(4) 0.015(4) 0.015(4) 0. 0.009(4) 0.
+Na1 Na1+ 0.0168(10) 0.0365(13) 0.0239(11) 0. 0. 0.0119(9)
+Na2 Na1+ 0.0175(7) 0.0240(8) 0.0200(7) -0.0014(7) 0.0004(7) 0.0017(6)
+P1 P5+ 0.0118(4) 0.0110(5) 0.0108(4) 0.0003(4) -0.0002(4) 0.0002(4)
+O1 O2- 0.0180(12) 0.0157(13) 0.0138(13) 0.0055(11) -0.0009(12) -0.0008(9)
+O2 O2- 0.0141(13) 0.0258(13) 0.0153(12) -0.0007(13) 0.0040(10) 0.0039(12)
+O3 O2- 0.0160(12) 0.0125(12) 0.0199(12) -0.0036(11) -0.0018(10) 0.0046(12)
+O4 O2- 0.034(2) 0.0117(18) 0.0173(19) 0. -0.0089(17) 0.
+#End of TTdata_424375-ICSD

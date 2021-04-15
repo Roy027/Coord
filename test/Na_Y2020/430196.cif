@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430196-ICSD
+_database_code_ICSD 430196
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium lanthanum silicate'
+_chemical_formula_structural 'Na La Si O4'
+_chemical_formula_sum 'La1 Na1 O4 Si1'
+_chemical_name_structure_type CaSrSiO4
+_exptl_crystal_density_diffrn 4.54
+_cell_measurement_temperature 301.
+_publ_section_title
+
+;
+Influence of rare earth cation size on the crystal structure in rare earth
+silicates, Na2 RE Si O4 (O H) (RE = Sc, Yb) and Na RE Si O4 (RE = La, Yb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2016 51 59 65 SSSCFJ
+loop_
+_publ_author_name
+'Latshaw, Allison M.'
+'Wilkins, Branford O.'
+'Chance, W. Michael'
+'Smith, Mark D.'
+'zur Loye, Hans-Conrad'
+_cell_length_a 21.4726(10)
+_cell_length_b 9.4441(4)
+_cell_length_c 5.5008(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1115.5
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.0192
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 a 0.00049(2) 0.19655(2) 0.51313(4) 0.00672(5) 1 0
+La2 La3+ 4 a 0.16714(2) 0.30418(2) 0.56465(2) 0.00696(6) 1 0
+La3 La3+ 4 a 0.33346(2) 0.19787(2) 0.54999(2) 0.00768(6) 1 0
+Na1 Na1+ 4 a 0.05747(9) 0.42896(18) 0.0148(5) 0.0218(4) 1 0
+Na2 Na1+ 4 a 0.22405(8) 0.07576(16) 0.0581(5) 0.0177(3) 1 0
+Na3 Na1+ 4 a 0.39150(8) 0.42803(18) 0.0444(5) 0.0222(3) 1 0
+Si1 Si4+ 4 a 0.07765(4) 0.08402(9) 0.0469(3) 0.00639(14) 1 0
+Si2 Si4+ 4 a 0.24426(4) 0.41730(8) 0.0484(3) 0.00646(14) 1 0
+Si3 Si4+ 4 a 0.40978(4) 0.08525(9) 0.0225(3) 0.00616(17) 1 0
+O1 O2- 4 a 0.00332(10) 0.0645(3) 0.1078(6) 0.0099(5) 1 0
+O2 O2- 4 a 0.43994(11) -0.0728(2) 0.0015(5) 0.0144(4) 1 0
+O3 O2- 4 a 0.43221(12) 0.1848(3) -0.2016(5) 0.0133(5) 1 0
+O4 O2- 4 a 0.08740(12) 0.1876(2) -0.1847(5) 0.0119(4) 1 0
+O5 O2- 4 a 0.10701(11) 0.1510(3) 0.2949(5) 0.0116(4) 1 0
+O6 O2- 4 a 0.16951(11) 0.4331(3) -0.0009(5) 0.0113(4) 1 0
+O7 O2- 4 a 0.25589(12) 0.3090(2) 0.2735(6) 0.0114(4) 1 0
+O8 O2- 4 a 0.27217(11) 0.5742(2) 0.1102(6) 0.0118(4) 1 0
+O9 O2- 4 a 0.27324(12) 0.3575(3) -0.2039(5) 0.0127(4) 1 0
+O10 O2- 4 a 0.33429(11) 0.0682(3) 0.0003(6) 0.0125(5) 1 0
+O11 O2- 4 a 0.10642(11) -0.0721(2) -0.0073(5) 0.0118(4) 1 0
+O12 O2- 4 a 0.42766(12) 0.1551(3) 0.2828(5) 0.0123(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.00555(8) 0.00670(9) 0.00792(9) 0.00001(4) -0.00004(6) -0.00028(8)
+La2 La3+ 0.00526(8) 0.00692(8) 0.00870(15) -0.00006(4) -0.00032(6) -0.00088(8)
+La3 La3+ 0.00513(8) 0.00700(8) 0.01091(15) -0.00008(4) 0.00011(5) 0.00062(8)
+Na1 Na1+ 0.0204(8) 0.0216(7) 0.0234(9) -0.0056(6) 0.0017(9) 0.0000(7)
+Na2 Na1+ 0.0178(7) 0.0173(6) 0.0181(8) 0.0033(6) -0.0019(8) 0.0033(6)
+Na3 Na1+ 0.0224(8) 0.0243(7) 0.0198(7) -0.0086(6) -0.0025(9) 0.0037(7)
+Si1 Si4+ 0.0067(3) 0.0063(3) 0.0062(3) -0.0006(3) 0.0002(4) -0.0006(3)
+Si2 Si4+ 0.0071(3) 0.0061(3) 0.0063(3) 0.0002(3) 0.0003(4) 0.0009(3)
+Si3 Si4+ 0.0055(3) 0.0065(3) 0.0064(4) 0.0000(2) 0.0000(4) -0.0003(3)
+O1 O2- 0.0075(8) 0.0109(9) 0.0114(11) -0.0006(6) 0.0009(7) -0.0023(7)
+O2 O2- 0.0094(9) 0.0088(8) 0.0251(12) 0.0032(7) -0.0003(8) -0.0012(8)
+O3 O2- 0.0114(9) 0.0180(11) 0.0106(9) -0.0061(7) -0.0006(7) 0.0058(7)
+O4 O2- 0.0129(10) 0.0125(10) 0.0102(9) -0.0042(7) -0.0016(8) 0.0035(7)
+O5 O2- 0.0129(10) 0.0132(9) 0.0088(9) -0.0032(7) -0.0015(7) -0.0027(7)
+O6 O2- 0.0069(8) 0.0126(9) 0.0142(11) 0.0012(6) -0.0013(8) -0.0010(8)
+O7 O2- 0.0103(10) 0.0141(11) 0.0099(9) 0.0009(7) -0.0003(8) 0.0038(7)
+O8 O2- 0.0119(9) 0.0086(8) 0.0150(10) -0.0014(7) -0.0002(8) 0.0000(7)
+O9 O2- 0.0139(10) 0.0133(10) 0.0108(9) 0.0023(8) 0.0029(8) -0.0011(7)
+O10 O2- 0.0052(9) 0.0136(10) 0.0186(12) -0.0007(6) -0.0005(8) 0.0019(8)
+O11 O2- 0.0092(9) 0.0087(8) 0.0176(11) 0.0015(6) 0.0001(7) -0.0012(7)
+O12 O2- 0.0114(9) 0.0169(10) 0.0085(8) -0.0053(7) 0.0003(7) -0.0034(7)
+#End of TTdata_430196-ICSD

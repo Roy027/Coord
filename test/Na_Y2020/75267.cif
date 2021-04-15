@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75267-ICSD
+_database_code_ICSD 75267
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Dizinc sodium hydrogen bis(phosphate(V))'
+_chemical_formula_structural 'Zn2 Na H (P O4)2'
+_chemical_formula_sum 'H1 Na1 O8 P2 Zn2'
+_chemical_name_structure_type RbZn2H(PO4)2
+_exptl_crystal_density_diffrn 3.17
+_cell_measurement_temperature 297.
+_publ_section_title
+'Refinement of the structure of synthetic sodium zinc monophosphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1994 50 979 980 ACSCEE
+loop_
+_publ_author_name
+'Yamakawa, J.'
+'Watanabe, I.'
+'Kawahara, A.'
+_cell_length_a 8.621(2)
+_cell_length_b 8.799(2)
+_cell_length_c 5.115(1)
+_cell_angle_alpha 100.44(2)
+_cell_angle_beta 105.79(2)
+_cell_angle_gamma 96.94(2)
+_cell_volume 361.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 i 0.3827(1) 0.1070(1) 0.6696(2) . 1. 0
+Zn2 Zn2+ 2 i 0.1119(1) 0.2594(1) 0.2211(2) . 1. 0
+Na1 Na1+ 2 i 0.1863(4) 0.6882(3) 0.4090(6) . 1. 0
+P1 P5+ 2 i 0.2442(2) 0.4181(2) 0.8389(4) . 1. 0
+P2 P5+ 2 i 0.2504(2) 0.9398(2) 0.0922(4) . 1. 0
+O1 O2- 2 i 0.3792(7) 0.3198(6) 0.8623(11) . 1. 0
+O2 O2- 2 i 0.3142(7) 0.5835(6) 0.7949(11) . 1. 0
+O3 O2- 2 i 0.1957(7) 0.4447(6) 0.1053(10) . 1. 0
+O4 O2- 2 i 0.2592(7) 0.1059(6) 0.2721(10) . 1. 0
+O5 O2- 2 i 0.0952(6) 0.3481(6) 0.5859(10) . 1. 0
+O6 O2- 2 i 0.0884(7) 0.8355(6) 0.0556(11) . 1. 0
+O7 O2- 2 i 0.3844(6) 0.8722(6) 0.2750(11) . 1. 0
+O8 O2- 2 i 0.2748(7) 0.9508(6) 0.8107(10) . 1. 0
+H1 H1+ 2 i 0.59(2) 0.38(1) 0.08(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Zn1 Zn2+ 0.0036(1) 0.0026(1) 0.0071(4) 0.0008(1) 0.0011(1) 0.0013(2)
+Zn2 Zn2+ 0.0038(1) 0.0025(1) 0.0068(3) 0.0006(1) 0.0007(1) 0.0007(2)
+Na1 Na1+ 0.0037(3) 0.0025(2) 0.0057(6) 0.0007(2) 0.0004(3) 0.0015(3)
+P1 P5+ 0.0035(3) 0.0025(2) 0.0058(6) 0.0003(2) 0.0008(3) 0.0018(3)
+P2 P5+ 0.0053(4) 0.0034(4) 0.0120(11) 0.0013(3) 0.0042(5) 0.0033(6)
+O1 O2- 0.0067(9) 0.0027(6) 0.0149(21) 0.0010(6) 0.0004(9) 0.0033(11)
+O2 O2- 0.0074(9) 0.0036(7) 0.0093(20) 0.0002(6) 0.0011(9) 0.0027(11)
+O3 O2- 0.0081(9) 0.0027(7) 0.0098(19) 0.0007(6) -.0002(9) 0.0043(11)
+O4 O2- 0.0061(8) 0.0032(6) 0.0063(18) 0.0017(6) -.0002(9) 0.0013(10)
+O5 O2- 0.0048(8) 0.0048(7) 0.0052(18) 0.0014(6) -.0010(9) 0.0021(10)
+O6 O2- 0.0040(8) 0.0056(7) 0.0119(20) 0.0003(6) 0.0025(10) -.0003(10)
+O7 O2- 0.0034(7) 0.0037(7) 0.0157(21) 0.0010(6) 0.0028(19) 0.0015(11)
+O8 O2- 0.0081(9) 0.0034(7) 0.0112(20) 0.0001(6) 0.0026(9) 0.0054(11)
+#End of TTdata_75267-ICSD

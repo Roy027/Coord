@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_152164-ICSD
+_database_code_ICSD 152164
+_audit_creation_date 2006-10-01
+_chemical_name_systematic
+'Sodium tetraammonium heptadecafluorotrizirconate - hydrofluoric acid (1/2)'
+_chemical_formula_structural '(Na (N H4)4 (Zr3 F17)) (H F)2'
+_chemical_formula_sum 'H18 F19 N4 Na1 Zr3'
+_exptl_crystal_density_diffrn 2.65
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Structure and ion mobility in M M'4 A3 F17 * 2(H F) (M= Li, Na; M'= N H4, Rb,
+Cs; A = Zr, Hf) compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 2004 49 293 303 ZNOKAQ
+loop_
+_publ_author_name
+'Tkachenko, I.A.'
+'Gerasimenko, A.V.'
+'Kavun, V.Ya.'
+'Antokhina, T.F.'
+'Davidovich, R.L.'
+'Sergienko, V.I.'
+_cell_length_a 11.470(2)
+_cell_length_b 6.731(1)
+_cell_length_c 12.685(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.286(3)
+_cell_angle_gamma 90.
+_cell_volume 918.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0256
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Na1+ 1
+F1- -1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 2 e 0.23170(2) 0.25 0.74759(2) 0.01678(4) 1. 0
+Zr2 Zr4+ 2 e 0.92019(2) 0.25 0.76137(2) 0.01797(4) 1. 0
+Zr3 Zr4+ 2 e 0.59127(2) 0.25 0.73943(2) 0.01765(4) 1. 0
+Na1 Na1+ 2 e 0.73579(8) 0.75 0.74867(8) 0.0308(2) 1. 0
+F1 F1- 4 f 0.3278(1) 0.0482(2) 0.8619(1) 0.0398(3) 1. 0
+F2 F1- 4 f 0.1891(1) 0.0480(2) 0.6218(1) 0.0373(3) 1. 0
+F3 F1- 4 f 0.0914(1) 0.0770(2) 0.7769(1) 0.0384(3) 1. 0
+F4 F1- 2 e 0.0164(1) 0.25 0.9307(1) 0.0732(8) 1. 0
+F5 F1- 2 e 0.9256(1) 0.25 0.6067(1) 0.0591(6) 1. 0
+F6 F1- 4 f 0.8808(1) -0.0353(2) 0.7641(2) 0.0767(5) 1. 0
+F7 F1- 2 e 0.7234(1) 0.25 0.6548(1) 0.0507(5) 1. 0
+F8 F1- 2 e 0.7796(1) 0.25 0.8459(1) 0.0504(5) 1. 0
+F9 F1- 2 e 0.5888(1) 0.25 0.8959(1) 0.0635(7) 1. 0
+F10 F1- 4 f 0.5780(1) -0.0440(2) 0.7359(1) 0.0517(4) 1. 0
+F11 F1- 2 e 0.4982(1) 0.25 0.5693(1) 0.0667(7) 1. 0
+F12 F1- 2 e 0.3997(1) 0.25 0.7150(1) 0.0381(4) 1. 0
+F13 F1- 2 e 0.7038(2) 0.75 0.5588(2) 0.103(1) 1. 0
+F14 F1- 2 e 0.7768(2) 0.75 0.9450(2) 0.0742(8) 1. 0
+N1 N3- 2 e 0.6562(2) 0.25 0.4227(2) 0.0352(5) 1. 0
+N2 N3- 2 e 0.8470(2) 0.25 0.0732(2) 0.0401(6) 1. 0
+N3 N3- 2 e 0.5141(2) 0.75 0.9276(2) 0.0330(5) 1. 0
+N4 N3- 2 e 0.0260(2) 0.25 0.4134(2) 0.0393(6) 1. 0
+H1 H1+ 2 e 0.623(3) 0.75 0.521(3) 0.05 1. 0
+H2 H1+ 2 e 0.854(3) 0.75 0.980(3) 0.05 1. 0
+H3 H1+ 4 f 0.682(2) 0.159(3) 0.409(2) 0.05 1. 0
+H4 H1+ 2 e 0.653(3) 0.25 0.487(3) 0.05 1. 0
+H5 H1+ 2 e 0.577(3) 0.25 0.382(3) 0.05 1. 0
+H6 H1+ 2 e 0.801(3) 0.25 0.016(3) 0.06 1. 0
+H7 H1+ 2 e 0.896(3) 0.25 0.059(3) 0.06 1. 0
+H8 H1+ 4 f 0.860(2) 0.146(4) 0.107(2) 0.06 1. 0
+H9 H1+ 2 e 0.530(3) 0.75 0.991(3) 0.05 1. 0
+H10 H1+ 2 e 0.591(3) 0.75 0.958(3) 0.05 1. 0
+H11 H1+ 4 f 0.467(2) 0.885(3) 0.885(2) 0.05 0.25 0
+H12 H1+ 2 e 0.442(3) 0.75 0.908(3) 0.05 0.5 0
+H13 H1+ 2 e 0.554(3) 0.75 0.859(3) 0.05 1. 0
+H14 H1+ 2 e 0.109(3) 0.25 0.494(3) 0.06 1. 0
+H15 H1+ 2 e 0.129(3) 0.25 0.431(3) 0.06 1. 0
+H16 H1+ 4 f 0.035(2) 0.172(3) 0.359(2) 0.06 0.25 0
+H17 H1+ 4 f -0.049(2) 0.154(4) 0.390(2) 0.06 0.25 0
+H18 H1+ 2 e 0.006(4) 0.25 0.470(3) 0.06 1. 0
+#End of TTdata_152164-ICSD

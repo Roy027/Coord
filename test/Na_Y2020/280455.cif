@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280455-ICSD
+_database_code_ICSD 280455
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium dihydrogenphosphate(V)'
+_chemical_formula_structural 'Na (H2 P O4)'
+_chemical_formula_sum 'H2 Na1 O4 P1'
+_chemical_name_structure_type NaH2PO4
+_exptl_crystal_density_diffrn 2.4
+_cell_measurement_temperature 30.
+_publ_section_title 'Experimental electron density study of Na H2 P O4 at 30K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1998 54 29 34
+ASBSDK
+loop_
+_publ_author_name
+'Ichikawa, M.'
+'Gustafsson, T.'
+'Olovsson, I.'
+_cell_length_a 6.8093(8)
+_cell_length_b 13.3936(10)
+_cell_length_c 7.2786(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.827(11)
+_cell_angle_gamma 90.
+_cell_volume 663.01
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0207
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.85875(4) 0.40139(2) 0.99759(3) . 1. 0
+Na2 Na1+ 4 e 0.35350(4) 0.39745(2) 0.26659(3) . 1. 0
+P1 P5+ 4 e 0.32921(2) 0.36906(1) 0.85599(2) . 1. 0
+P2 P5+ 4 e 0.82484(2) 0.36983(1) 0.51328(2) . 1. 0
+O1 O2- 4 e 0.24889(4) 0.27573(2) 0.76516(4) . 1. 0
+O2 O2- 4 e 0.52194(4) 0.34060(2) 0.97813(4) . 1. 0
+O3 O2- 4 e 0.19840(4) 0.42762(2) 0.97567(4) . 1. 0
+O4 O2- 4 e 0.40596(5) 0.44367(2) 0.70630(4) . 1. 0
+O5 O2- 4 e 0.92160(4) 0.26881(2) 0.57740(4) . 1. 0
+O6 O2- 4 e 0.85200(4) 0.44818(2) 0.66203(4) . 1. 0
+O7 O2- 4 e 0.92726(5) 0.40282(2) 0.33523(4) . 1. 0
+O8 O2- 4 e 0.61026(4) 0.34575(2) 0.46694(4) . 1. 0
+H1 H1+ 4 e 0.5508 0.2665 0.9764 . 1. 0
+H2 H1+ 4 e 0.4879 0.4055 0.621 . 1. 0
+H3 H1+ 4 e 1.0544 0.2738 0.6527 . 1. 0
+H4 H1+ 4 e 1.0074 0.471 0.3457 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.00492(7) 0.00501(6) 0.00646(7) -.00024(5) -.00002(5) 0.00017(5)
+Na2 Na1+ 0.00734(8) 0.00675(7) 0.00556(7) 0.00090(6) -.00130(6) 0.00004(5)
+P1 P5+ 0.00284(4) 0.00303(4) 0.00344(4) 0.00019(2) -.00012(2) -.00017(3)
+P2 P5+ 0.00306(4) 0.00287(4) 0.00325(4) -.00037(2) -.00026(2) -.00008(3)
+O1 O2- 0.00549(8) 0.00449(7) 0.00652(8) -.00018(6) -.00147(6) -.00151(6)
+O2 O2- 0.00419(8) 0.00447(7) 0.00684(8) 0.00076(6) -.00169(6) 0.00012(6)
+O3 O2- 0.00435(8) 0.00522(7) 0.00514(8) 0.00107(6) 0.00078(6) -.00077(6)
+O4 O2- 0.00677(8) 0.00552(8) 0.00579(8) 0.00081(7) 0.00207(6) 0.00141(6)
+O5 O2- 0.00517(8) 0.00406(7) 0.00761(8) 0.00038(6) -.00185(6) 0.00098(6)
+O6 O2- 0.00621(8) 0.00515(7) 0.00455(7) -.00140(7) 0.00024(6) -.00137(6)
+O7 O2- 0.00694(8) 0.00512(8) 0.00446(8) -.00167(7) 0.00148(6) -.00015(6)
+O8 O2- 0.00330(7) 0.00510(7) 0.00598(8) -.00067(6) -.00071(6) -.00011(6)
+H1 H1+ 0.0099 0.0083 0.0115 0.0016 -.0032 0.0015
+H2 H1+ 0.0124 0.0102 0.0089 0.0006 0.0029 0.0006
+H3 H1+ 0.0102 0.0096 0.0102 0.0019 -.0035 0.0018
+H4 H1+ 0.0128 0.0156 0.0089 0.0006 0.0013 0.0006
+#End of TTdata_280455-ICSD

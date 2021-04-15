@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420040-ICSD
+_database_code_ICSD 420040
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Potassium sodium samarium pentaoxoniobate'
+_chemical_formula_structural 'K Na Sm (Nb O5)'
+_chemical_formula_sum 'K1 Na1 Nb1 O5 Sm1'
+_chemical_name_structure_type BaLaMn2O5(tP18)
+_exptl_crystal_density_diffrn 4.8
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Crystal growth of a new series of complex niobates, Ln K Na Nb O5 (Ln= La, Pr,
+Nd, Sm, Eu, Gd and Tb): structural properties and photoluminescence
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2009 21 1955 1961 CMATEX
+loop_
+_publ_author_name
+'Roof, I.P.'
+'Jagau, T.C.'
+'Zeier, W.G.'
+'Smith, M.D.'
+'zur Loye, H.C.'
+_cell_length_a 5.69670(10)
+_cell_length_b 5.69670(10)
+_cell_length_c 8.2210(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 266.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.0157
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Sm3+ 3
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 2 c 0.25 0.25 0.25912(3) 0.00732(7) 1 0
+Sm1 Sm3+ 2 b 0.75 0.25 0.5 0.00835(6) 1 0
+K1 K1+ 2 a 0.75 0.25 0. 0.0246(2) 1 0
+Na1 Na1+ 2 c 0.25 0.25 0.75926(19) 0.0105(3) 1 0
+O1 O2- 8 j 0.01891(14) 0.01891(14) 0.33042(19) 0.0121(2) 1 0
+O2 O2- 2 c 0.25 0.25 0.0364(3) 0.0168(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.00731(9) 0.00731(9) 0.00734(11) 0. 0. 0.
+Sm1 Sm3+ 0.00752(7) 0.00752(7) 0.01001(9) 0. 0. 0.
+K1 K1+ 0.0167(3) 0.0167(3) 0.0405(7) 0. 0. 0.
+Na1 Na1+ 0.0097(4) 0.0097(4) 0.0121(6) 0. 0. 0.
+O1 O2- 0.0090(3) 0.0090(3) 0.0185(6) -0.0010(4) 0.0004(3) 0.0004(3)
+O2 O2- 0.0199(8) 0.0199(8) 0.0104(9) 0. 0. 0.
+#End of TTdata_420040-ICSD

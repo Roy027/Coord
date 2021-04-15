@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_192712-ICSD
+_database_code_ICSD 192712
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Trisodium carbonate (hydrogen carbonate) dihydrate'
+_chemical_formula_structural 'Na3 (C O3) (H C O3) (H2 O)2'
+_chemical_formula_sum 'C2 H5 Na3 O8'
+_chemical_name_structure_type Na3H(CO3)2(H2O)2
+_chemical_name_mineral Trona
+_exptl_crystal_density_diffrn 2.13
+_cell_measurement_temperature 330.
+_publ_section_title
+
+;
+Trona at extreme conditions. A pollutant-sequestering material at high
+pressures and low temperatures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2014 99 1973 1984 AMMIAY
+loop_
+_publ_author_name
+'O'Bannon, Earl III'
+'Beavers, Christine M.'
+'Williams, Quentin'
+_cell_length_a 20.402(4)
+_cell_length_b 3.4881(6)
+_cell_length_c 10.3085(18)
+_cell_angle_alpha 90
+_cell_angle_beta 106.552(10)
+_cell_angle_gamma 90
+_cell_volume 703.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0497
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+C4+ 4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.5 -0.2540(2) 0.75 0.02204(19) 1 0
+Na2 Na1+ 8 f 0.34950(4) 0.16531(19) 0.57396(6) 0.02615(17) 1 0
+O1 O2- 8 f 0.34888(5) 0.3988(3) 0.89775(11) 0.0238(2) 1 0
+O2 O2- 8 f 0.42757(5) 0.2532(3) 0.79218(10) 0.0205(2) 1 0
+O3 O2- 8 f 0.44560(5) 0.1300(3) 1.01197(10) 0.0232(2) 1 0
+O4 O2- 8 f 0.28795(7) -0.3343(4) 0.64539(12) 0.0280(2) 1 0
+C1 C4+ 8 f 0.40690(6) 0.2649(3) 0.89664(12) 0.0166(2) 1 0
+H1 H1+ 8 f 0.2480(16) -0.276(10) 0.645(3) 0.052(9) 1 0
+H2 H1+ 8 f 0.3045(13) -0.393(8) 0.730(3) 0.035(6) 1 0
+H3 H1+ 8 f 0.478(2) 0.049(18) 1.003(6) 0.036(13) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0269(4) 0.0186(4) 0.0226(4) 0. 0.0103(3) 0.
+Na2 Na1+ 0.0331(3) 0.0233(3) 0.0245(3) 0.0037(2) 0.0121(2) 0.0019(2)
+O1 O2- 0.0207(4) 0.0288(5) 0.0235(4) 0.0038(3) 0.0089(3) -0.0020(4)
+O2 O2- 0.0249(4) 0.0225(4) 0.0164(4) 0.0015(3) 0.0099(3) 0.0006(3)
+O3 O2- 0.0236(4) 0.0299(5) 0.0158(4) 0.0029(4) 0.0052(3) 0.0039(3)
+O4 O2- 0.0306(5) 0.0304(5) 0.0253(5) 0.0077(4) 0.0114(4) 0.0048(4)
+C1 C4+ 0.0193(5) 0.0145(4) 0.0170(5) -0.0014(3) 0.0067(4) -0.0008(3)
+#End of TTdata_192712-ICSD

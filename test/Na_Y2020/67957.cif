@@ -1,0 +1,133 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67957-ICSD
+_database_code_ICSD 67957
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Disodium iron iron(III) fluoride'
+_chemical_formula_structural 'Na2 Fe2 F7'
+_chemical_formula_sum 'F7 Fe2 Na2'
+_chemical_name_structure_type Na2CoFeF7
+_exptl_crystal_density_diffrn 3.37
+_publ_section_title
+
+;
+Structure of Na2Fe2F7 and Structural Relations in the Family of Weberites
+Na2M(I)IM(III)F7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1993
+619 1909 1919 ZAACAB
+loop_
+_publ_author_name
+'Yakubovich, O.V.'
+'Urusov, V.S.'
+'Massa, W.'
+'Frenzen, G.'
+'Babel, D.'
+_cell_length_a 12.676(3)
+_cell_length_b 7.422(1)
+_cell_length_c 24.710(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.97(3)
+_cell_angle_gamma 90.
+_cell_volume 2289.64
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0566
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Fe2+ 2
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 c 0.25 0.25 0 . 1. 0
+Fe2 Fe3+ 4 e 0 0.2460(3) 0.25 . 1. 0
+Fe3 Fe3+ 8 f 0.1268(2) 0.7621(2) 0.1259(1) . 1. 0
+Fe4 Fe2+ 8 f 0.3772(2) 0.0089(2) 0.1278(1) . 1. 0
+Fe5 Fe2+ 8 f 0.1270(2) 0.2604(2) 0.1262(1) . 1. 0
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+Na2 Na1+ 4 b 0 0.5 0 . 1. 0
+Na3 Na1+ 4 d 0.25 0.25 0.5 . 1. 0
+Na4 Na1+ 4 e 0 0.7833(11) 0.25 . 1. 0
+Na5 Na1+ 8 f 0.2532(3) 0.0403(7) 0.2527(2) . 1. 0
+Na6 Na1+ 8 f 0.3734(5) 0.5082(9) 0.1213(2) . 1. 0
+F1 F1- 8 f 0.3352(6) 0.0837(10) 0.0476(3) . 1. 0
+F2 F1- 8 f 0.4213(6) -.0580(9) 0.2095(3) . 1. 0
+F3 F1- 8 f 0.4869(6) 0.2120(8) 0.1422(3) . 1. 0
+F4 F1- 8 f 0.2680(5) -.1945(8) 0.1105(3) . 1. 0
+F5 F1- 8 f 0.1425(7) 0.2777(9) 0.0451(3) . 1. 0
+F6 F1- 8 f 0.1117(6) 0.2511(7) 0.2071(3) . 1. 0
+F7 F1- 8 f 0.0731(4) 0.0013(7) 0.1086(2) . 1. 0
+F8 F1- 8 f 0.1801(5) 0.5202(8) 0.1421(2) . 1. 0
+F9 F1- 8 f 0.2787(5) 0.1888(9) 0.1547(3) . 1. 0
+F10 F1- 8 f -.0259(5) 0.3309(9) 0.0911(3) . 1. 0
+F11 F1- 8 f 0.3318(5) 0.4567(10) 0.0331(2) . 1. 0
+F12 F1- 8 f 0.0803(5) 0.0603(9) 0.2918(2) . 1. 0
+F13 F1- 8 f 0.1672(6) 0.8100(8) 0.2035(3) . 1. 0
+F14 F1- 8 f 0.0856(6) 0.7189(8) 0.0476(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.014(2) 0.015(1) 0.007(1) -.001(1) 0.000(1) 0.000(1)
+Fe2 Fe3+ 0.014(2) 0.017(1) 0.009(1) 0 0.002(1) 0
+Fe3 Fe3+ 0.012(1) 0.009(1) 0.015(1) -.002(1) 0.001(1) -.001(1)
+Fe4 Fe2+ 0.012(1) 0.011(1) 0.012(1) 0.000(1) 0.002(1) 0.001(1)
+Fe5 Fe2+ 0.012(1) 0.010(1) 0.012(1) 0.001(1) 0.003(1) 0.000(1)
+Na1 Na1+ 0.034(4) 0.051(5) 0.053(5) 0.002(4) 0.016(4) 0.013(4)
+Na2 Na1+ 0.036(4) 0.031(4) 0.059(5) -.007(4) -.006(4) -.020(4)
+Na3 Na1+ 0.056(8) 0.056(6) 0.057(7) -.019(4) 0.021(6) -.018(4)
+Na4 Na1+ 0.054(7) 0.040(5) 0.055(7) 0 0.015(6) 0
+Na5 Na1+ 0.029(3) 0.028(2) 0.031(3) -.006(2) 0.000(2) -.011(2)
+Na6 Na1+ 0.037(2) 0.058(3) 0.015(2) 0.010(2) -.006(2) -.016(2)
+F1 F1- 0.028(4) 0.052(5) 0.015(3) 0.006(3) -.005(3) 0.013(3)
+F2 F1- 0.038(4) 0.026(4) 0.023(3) 0.010(3) 0.000(3) 0.006(3)
+F3 F1- 0.020(4) 0.025(3) 0.042(4) -.013(3) 0.008(3) -.005(3)
+F4 F1- 0.017(4) 0.023(3) 0.049(5) -.008(3) 0.007(3) -.003(3)
+F5 F1- 0.030(5) 0.049(4) 0.019(4) 0.012(3) 0.018(4) 0.011(3)
+F6 F1- 0.019(4) 0.038(4) 0.013(3) -.001(3) 0.007(3) 0.002(3)
+F7 F1- 0.029(3) 0.013(3) 0.034(3) 0.004(3) -.006(3) 0.001(3)
+F8 F1- 0.034(4) 0.012(3) 0.039(4) 0.005(3) 0.003(3) 0.004(3)
+F9 F1- 0.017(3) 0.039(4) 0.029(4) 0.011(33) 0.002(3) -.015(3)
+F10 F1- 0.019(4) 0.035(4) 0.034(4) 0.014(3) 0.003(3) -.001(3)
+F11 F1- 0.028(4) 0.038(4) 0.018(3) -.005(3) 0.002(3) -.008(3)
+F12 F1- 0.021(3) 0.029(3) 0.014(3) 0.011(32) -.001(2) 0.004(3)
+F13 F1- 0.034(4) 0.023(3) 0.017(3) -.001(3) -.007(3) -.002(3)
+F14 F1- 0.036(4) 0.026(3) 0.022(4) -.003(3) -.001(3) -.003(3)
+#End of TTdata_67957-ICSD

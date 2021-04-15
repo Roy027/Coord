@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20768-ICSD
+_database_code_ICSD 20768
+_audit_creation_date 1984-11-20
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Octasodium tin(IV) catena-silcate'
+_chemical_formula_structural 'Na8 Sn Si6 O18'
+_chemical_formula_sum 'Na8 O18 Si6 Sn1'
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title 'The crystal structure of Sn, Na-silicate Na8 Sn Si6 O18'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1980 254 353 356 DANKAS
+loop_
+_publ_author_name
+'Zayakina, N.V.'
+'Rozhdestvenskaya, I.V.'
+'Nekrasov, I.Ya.'
+'Dadze, T.P.'
+_cell_length_a 10.576(3)
+_cell_length_b 10.183(2)
+_cell_length_c 7.340(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.90(2)
+_cell_angle_gamma 90.
+_cell_volume 789.47
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 2 a 0 0 0 . 1. 0
+Si1 Si4+ 4 i 0.2796(1) 0 0.2651(1) . 1. 0
+Si2 Si4+ 8 j 0.4926(1) 0.2277(1) 0.2794(1) . 1. 0
+Na1 Na1+ 2 c 0 0 0.5 . 1. 0
+Na2 Na1+ 4 i 0.2546(2) 0.5 0.2451(2) . 1. 0
+Na3 Na1+ 4 e 0.25 0.25 0 . 1. 0
+Na4 Na1+ 2 b 0.5 0 0 . 1. 0
+Na5 Na1+ 4 f 0.25 0.25 0.5 . 1. 0
+O1 O2- 4 i 0.1877(3) 0 0.0810(3) . 1. 0
+O2 O2- 4 h 0 0.2437(3) 0.5 . 1. 0
+O3 O2- 8 j 0.4459(2) 0.3656(2) 0.1880(2) . 1. 0
+O4 O2- 8 j 0.3721(2) 0.1283(2) 0.2424(3) . 1. 0
+O5 O2- 4 i 0.2116(3) 0 0.4506(4) . 1. 0
+O6 O2- 8 j 0.1190(3) 0.3316(2) 0.2106(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Sn1 Sn4+ 0.27(3) 0.31(1) 0.32(1) 0 0.02(1) 0
+Si1 Si4+ 0.30(7) 0.33(2) 0.35(2) 0 -.02(3) 0
+Si2 Si4+ 0.28(5) 0.30(2) 0.35(2) -.2(2) 0.05(2) 0.04(1)
+Na1 Na1+ 0.34(16) 0.93(7) 1.60(8) 0 0.14(8) 0
+Na2 Na1+ 0.91(11) 0.79(4) 0.70(4) 0 -.01(5) 0
+Na3 Na1+ 1.05(10) 1.27(5) 0.75(4) 0 0.24(5) 0
+Na4 Na1+ 1.62(18) 0.96(7) 1.32(7) 0 0.44(8) 0
+Na5 Na1+ 1.17(12) 1.50(6) 1.24(5) 0 0.00(6) 0
+O1 O2- 0.07(16) 1.14(7) 0.53(5) 0 -.06(7) 0
+O2 O2- 3.48(22) 0.98(7) 0.31(6) 0 -.22(8) 0
+O3 O2- 0.09(12) 0.52(4) 0.82(4) 0.15(5) 0.26(5) 0.31(3)
+O4 O2- 1.46(16) 1.26(6) 2.50(8) -1.18(8) -1.28(9) 0.98(6)
+O5 O2- 0.3(2) 4.70(19) 0.66(7) 0 0.31(8) 0
+O6 O2- 1.10(14) 1.58(7) 2.47(8) -.89 1.35(8) -1.20(6)
+#End of TTdata_20768-ICSD

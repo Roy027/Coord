@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23134-ICSD
+_database_code_ICSD 23134
+_audit_creation_date 1986-10-20
+_chemical_name_systematic 'Sodium iodide dihydrate'
+_chemical_formula_structural 'Na I (H2 O)2'
+_chemical_formula_sum 'H4 I1 Na1 O2'
+_exptl_crystal_density_diffrn 2.48
+_publ_section_title
+
+;
+Structure cristalline et protonique de l'iodure de sodium dihydarte Na I (H2
+O)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Bulletin de la Societe Francaise de Mineralogie et de Cristallographie'
+1970 93 509 514 BUFCAE
+loop_
+_publ_author_name
+'Verbist, J.'
+'Piret, P.'
+'van Meerssche, M.'
+_cell_length_a 7.161(5)
+_cell_length_b 6.035(5)
+_cell_length_c 7.282(5)
+_cell_angle_alpha 81.2(2)
+_cell_angle_beta 118.7(2)
+_cell_angle_gamma 115.3(2)
+_cell_volume 249.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.085
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+I1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.1430(15) 0.3243(11) 0.4805(10) . 1. 0
+I1 I1- 2 i 0.3764(2) 0.2393(2) 0.2228(1) . 1. 0
+O1 O2- 2 i 0.0129(28) 0.6267(20) 0.2865(18) . 1. 0
+O2 O2- 2 i 0.7795(26) 0.9938(22) 0.2879(17) . 1. 0
+H1 H1+ 2 i -.1264 0.5894 0.1603 . 1. 0
+H2 H1+ 2 i 0.127 0.789 0.2945 . 1. 0
+H3 H1+ 2 i 0.7578 0.958 0.1514 . 1. 0
+H4 H1+ 2 i 0.6633 1.0352 0.286 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.02376 0.02247 0.02263 0.01025 0.01102 0.00253
+I1 I1- 0.01874 0.02555 0.01677 0.00689 0.00801 0.00009
+O1 O2- 0.03398 0.02502 0.02148 0.01379 0.01417 0.00704
+O2 O2- 0.0227 0.03145 0.01885 0.0149 0.00546 -.00059
+#End of TTdata_23134-ICSD

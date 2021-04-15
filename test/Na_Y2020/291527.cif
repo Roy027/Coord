@@ -1,0 +1,67 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_291527-ICSD
+_database_code_ICSD 291527
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium bismuth titanate (0.5/0.5/1)'
+_chemical_formula_structural 'Na0.5 Bi0.5 Ti O3'
+_chemical_formula_sum 'Bi0.5 Na0.5 O3 Ti1'
+_exptl_crystal_density_diffrn 4.95
+_publ_section_title 'Local structure analysis of Bi0.5 Na0.5 T iO3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Korean Physical Society' 2015 66 1339 1343 JKPSDV
+loop_
+_publ_author_name
+'Yoneda, Yasuhiro'
+'Nagata, Hajime'
+'Takenaka, Tadashi'
+_cell_length_a 9.4674(9)
+_cell_length_b 5.4622(2)
+_cell_length_c 5.50060(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 284.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0862
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Na1+ 1
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 a 0 0.25 0 2.935(4) 0.5 0
+Na1 Na1+ 4 a 0 0.25 0 2.935(4) 0.5 0
+Ti1 Ti4+ 4 a 0.2531(7) 0.2515(28) 0.7052(7) 0.004(67) 1. 0
+O1 O2- 4 a 0.008(0) 0.194(0) 0.493(0) 3.645(559) 1. 0
+O2 O2- 4 a 0.191(1) 0.492(2) -0.137(0) 1.203(240) 1. 0
+O3 O2- 4 a 0.258(2) -0.003(0) -0.044(0) 0.604(360) 1. 0
+#End of TTdata_291527-ICSD

@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431345-ICSD
+_database_code_ICSD 431345
+_audit_creation_date 2017-08-01
+_chemical_name_systematic
+'23-Barium undecasodium tetrakis(tetranitridotantalate vanadate)'
+_chemical_formula_structural 'Ba23 Na11 N12 ((Ta0.28 V3.72) N4)'
+_chemical_formula_sum 'Ba23 N16 Na11 Ta0.28 V3.72'
+_exptl_crystal_density_diffrn 3.48
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Chemical twinning of salt and metal in the subnitridometalates Ba23 Na11 (M
+N4)4 with M = V, Nb, Ta
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2016 55 10868 10871 ACIEF5
+loop_
+_publ_author_name
+'Woersching, Matthias'
+'Tambornino, Frank'
+'Datz, Stefan'
+'Hoch, Constantin'
+_cell_length_a 14.134(2)
+_cell_length_b 14.134(2)
+_cell_length_c 18.536(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3702.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/n Z'
+_symmetry_Int_Tables_number 86
+_refine_ls_R_factor_all 0.0823
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x, -z+1/2'
+2 'y, -x+1/2, -z+1/2'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/2, -x, z+1/2'
+6 '-y, x+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V0+ 0
+Ta0+ 0
+Ba0+ 0
+Na0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V0+ 8 g 0.33876(17) 0.07235(17) 0.14223(13) 0.0195(10) 0.930(5) 0
+Ta1 Ta0+ 8 g 0.33876(17) 0.07235(17) 0.14223(13) 0.0195(10) 0.070(5) 0
+Ba1 Ba0+ 8 g 0.03392(8) 0.13497(8) 0.12175(6) 0.0270(3) 1 0
+Ba2 Ba0+ 8 g 0.07151(10) 0.62961(9) 0.19338(7) 0.0408(4) 1 0
+Ba3 Ba0+ 8 g 0.28116(9) 0.56217(10) 0.03059(7) 0.0413(4) 1 0
+Ba4 Ba0+ 8 g 0.51035(8) 0.16339(8) 0.24790(6) 0.0256(3) 1 0
+Ba5 Ba0+ 8 g 0.51065(9) 0.11939(9) 0.02477(7) 0.0377(4) 1 0
+Ba6 Ba0+ 4 f 0.25 0.25 0.04172(9) 0.0255(4) 1 0
+Ba7 Ba0+ 2 a 0.25 0.25 0.25 0.0250(5) 1 0
+Na1 Na0+ 8 g 0.0553(16) 0.1980(10) 0.6578(8) 0.133(7) 1 0
+Na2 Na0+ 8 g 0.3595(7) 0.0668(8) 0.6195(6) 0.058(3) 1 0
+Na3 Na0+ 4 e 0.75 0.25 0.1395(7) 0.054(3) 1 0
+Na4 Na0+ 2 b 0.25 0.25 0.75 0.24(3) 1 0
+N1 N0+ 8 g 0.0343(10) 0.1438(11) 0.2646(8) 0.023(3) 1 0
+N2 N0+ 8 g 0.1051(10) 0.3129(10) 0.1281(8) 0.024(3) 1 0
+N3 N0+ 8 g 0.1112(10) 0.5160(10) 0.0816(9) 0.028(4) 1 0
+N4 N0+ 8 g 0.2140(11) 0.0803(11) 0.1234(8) 0.026(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V0+ 0.0179(15) 0.0208(16) 0.0198(16) 0.0003(9) 0.0021(9) -0.0031(10)
+Ta1 Ta0+ 0.0179(15) 0.0208(16) 0.0198(16) 0.0003(9) 0.0021(9) -0.0031(10)
+Ba1 Ba0+ 0.0249(6) 0.0291(7) 0.0270(6) -0.0013(4) -0.0018(5) -0.0008(5)
+Ba2 Ba0+ 0.0516(9) 0.0315(7) 0.0393(8) 0.0143(6) -0.0043(6) -0.0017(6)
+Ba3 Ba0+ 0.0322(8) 0.0469(8) 0.0447(9) -0.0014(5) 0.0036(6) 0.0223(6)
+Ba4 Ba0+ 0.0233(6) 0.0276(7) 0.0260(7) 0.0023(4) -0.0012(4) -0.0029(4)
+Ba5 Ba0+ 0.0372(8) 0.0367(8) 0.0392(8) 0.0007(5) 0.0160(6) -0.0097(6)
+Ba6 Ba0+ 0.0239(9) 0.0304(9) 0.0223(8) 0.0011(6) 0. 0.
+Ba7 Ba0+ 0.0257(8) 0.0257(8) 0.0236(12) 0. 0. 0.
+Na1 Na0+ 0.25(2) 0.068(9) 0.080(9) -0.021(11) 0.049(12) -0.011(8)
+Na2 Na0+ 0.052(6) 0.066(7) 0.057(6) -0.005(5) -0.008(5) 0.012(5)
+Na3 Na0+ 0.043(8) 0.064(9) 0.054(9) 0.002(6) 0. 0.
+Na4 Na0+ 0.18(3) 0.18(3) 0.35(10) 0. 0. 0.
+N1 N0+ 0.019(8) 0.029(9) 0.022(8) 0.003(6) 0.007(6) -0.002(6)
+N2 N0+ 0.029(9) 0.017(8) 0.024(8) 0.001(6) -0.003(6) 0.006(6)
+N3 N0+ 0.019(8) 0.024(9) 0.043(10) 0.005(6) -0.017(7) 0.006(7)
+N4 N0+ 0.027(9) 0.026(8) 0.025(8) 0.003(6) 0.002(7) 0.000(7)
+#End of TTdata_431345-ICSD

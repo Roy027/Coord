@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_87605-ICSD
+_database_code_ICSD 87605
+_audit_creation_date 2000-12-16
+_chemical_name_systematic 'Octasodium bis(oxovanadium(IV)) hexakis(sulfate(VI))'
+_chemical_formula_structural 'Na8 (V O)2 (S O4)6'
+_chemical_formula_sum 'Na8 O26 S6 V2'
+_exptl_crystal_density_diffrn 2.77
+_publ_section_title
+
+;
+Crystal structure and spectroscopic characterization of a green V(IV)
+compound, Na8 (V O)2 (S O4)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Chemica Scandinavica' 1999 53 15 23 ACHSE7
+loop_
+_publ_author_name
+'Nielsen, K.'
+'Boghosian, S.'
+'Fehrmann, R.'
+'Willestofte Berg, R.'
+_cell_length_a 8.6454(2)
+_cell_length_b 16.00269(40)
+_cell_length_c 15.5074(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.017(1)
+_cell_angle_gamma 90.
+_cell_volume 2145.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.073
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+S6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 e 0.47314(11) 0.42560(6) 0.13920(6) 0.0106(2) 1. 0
+V2 V4+ 4 e 0.97328(11) 0.42132(6) 0.36893(6) 0.0115(2) 1. 0
+S1 S6+ 4 e 0.5732(2) 0.42470(9) 0.33878(9) 0.0129(3) 1. 0
+S2 S6+ 4 e 0.4600(2) 0.38763(8) 0.93857(9) 0.0117(3) 1. 0
+S3 S6+ 4 e 0.4382(2) 0.22106(8) 0.13468(9) 0.0122(3) 1. 0
+S4 S6+ 4 e 0.0624(2) 0.45290(8) 0.16026(9) 0.0117(3) 1. 0
+S5 S6+ 4 e 0.9456(2) 0.22126(8) 0.34087(9) 0.0124(3) 1. 0
+S6 S6+ 4 e 0.9083(2) 0.39854(8) 0.57436(9) 0.0117(3) 1. 0
+Na1 Na1+ 4 e 0.3072(3) 0.0477(2) 0.0104(2) 0.0229(6) 1. 0
+Na2 Na1+ 4 e 0.1471(3) 0.2794(2) 0.0304(2) 0.0253(6) 1. 0
+Na3 Na1+ 4 e 0.3227(3) 0.2824(2) 0.3113(2) 0.0216(6) 1. 0
+Na4 Na1+ 4 e 0.1648(3) 0.5700(2) 0.0093(2) 0.0316(7) 1. 0
+Na5 Na1+ 4 e 0.3170(3) 0.7807(2) 0.0321(2) 0.0253(6) 1. 0
+Na6 Na1+ 4 e 0.1855(3) 0.7831(2) 0.3195(2) 0.0211(6) 1. 0
+Na7 Na1+ 4 e 0.3522(3) 0.5873(2) 0.2549(2) 0.0205(5) 1. 0
+Na8 Na1+ 4 e 0.7888(3) 0.5793(2) 0.2284(2) 0.0334(7) 1. 0
+O1 O2- 4 e 0.6490(5) 0.3970(3) 0.1300(3) 0.0183(9) 1. 0
+O2 O2- 4 e 0.4669(5) 0.4503(2) 0.2665(2) 0.0141(8) 1. 0
+O3 O2- 4 e 0.3991(5) 0.4325(2) 0.0163(3) 0.0151(9) 1. 0
+O4 O2- 4 e 0.3805(5) 0.3091(2) 0.1542(3) 0.0170(9) 1. 0
+O5 O2- 4 e 0.5329(5) 0.5505(2) 0.1338(2) 0.0152(8) 1. 0
+O6 O2- 4 e 0.2290(5) 0.4729(3) 0.1558(3) 0.0168(9) 1. 0
+O7 O2- 4 e 0.1431(5) 0.3934(3) 0.3954(3) 0.024(1) 1. 0
+O8 O2- 4 e 0.9056(5) 0.3121(2) 0.3230(3) 0.0166(9) 1. 0
+O9 O2- 4 e 0.8624(5) 0.3981(3) 0.4798(3) 0.0178(9) 1. 0
+O10 O2- 4 e 0.0091(5) 0.4690(3) 0.2501(3) 0.0182(9) 1. 0
+O11 O2- 4 e 0.9578(5) 0.5425(2) 0.4143(2) 0.0151(8) 1. 0
+O12 O2- 4 e 0.7295(5) 0.4571(2) 0.3204(3) 0.0154(9) 1. 0
+O13 O2- 4 e 0.5708(6) 0.3340(3) 0.3436(3) 0.0323(12) 1. 0
+O14 O2- 4 e 0.5151(5) 0.4623(3) 0.4172(3) 0.0350(13) 1. 0
+O15 O2- 4 e 0.3511(6) 0.3228(3) -.0845(3) 0.0256(11) 1. 0
+O16 O2- 4 e 0.6146(5) 0.3571(3) -.0460(3) 0.0224(10) 1. 0
+O17 O2- 4 e 0.6003(5) 0.2246(3) 0.1112(3) 0.0209(10) 1. 0
+O18 O2- 4 e 0.3463(6) 0.1877(3) 0.0641(3) 0.0252(10) 1. 0
+O19 O2- 4 e 0.4173(6) 0.1728(3) 0.2140(3) 0.023(1) 1. 0
+O20 O2- 4 e 0.0318(5) 0.3668(2) 0.1349(3) 0.0247(10) 1. 0
+O21 O2- 4 e -.0230(5) 0.5099(3) 0.1041(3) 0.0251(10) 1. 0
+O22 O2- 4 e 0.0988(5) 0.2063(3) 0.3081(3) 0.0256(11) 1. 0
+O23 O2- 4 e 0.8306(5) 0.1735(3) 0.2940(3) 0.0196(10) 1. 0
+O24 O2- 4 e 0.9374(5) 0.2073(3) 0.4343(3) 0.0219(10) 1. 0
+O25 O2- 4 e 0.9568(5) 0.3150(2) 0.5977(3) 0.0186(9) 1. 0
+O26 O2- 4 e 0.7761(5) 0.4300(3) 0.6200(3) 0.0213(10) 1. 0
+#End of TTdata_87605-ICSD

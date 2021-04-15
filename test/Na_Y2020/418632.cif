@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_418632-ICSD
+_database_code_ICSD 418632
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium calcium tris(trioxophosphate)'
+_chemical_formula_structural 'Na Ca (P O3)3'
+_chemical_formula_sum 'Ca1 Na1 O9 P3'
+_exptl_crystal_density_diffrn 2.88
+_cell_measurement_temperature 293.
+_publ_section_title
+'Structures of the chain metaphosphates Na M (PO3)3 (M = Ca or Sr)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Magnetic Resonance in Chemistry' 2008 46 316 322 MRCHEG
+loop_
+_publ_author_name
+'Abrahams, I.'
+'Hawkes, G.E.'
+'Ahmed, A.'
+'Di Cristina, T.'
+'Demetriou, D.Z.'
+'Ivanova, G.I.'
+_cell_length_a 6.711(5)
+_cell_length_b 6.934(8)
+_cell_length_c 7.619(6)
+_cell_angle_alpha 83.44(9)
+_cell_angle_beta 81.44(8)
+_cell_angle_gamma 82.80(8)
+_cell_volume 346.17
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 2 i -0.01302(9) 0.27333(9) 0.36175(8) 0.0092(2) 1 0
+P1 P5+ 2 i 0.16806(11) 0.20212(11) 0.72406(10) 0.0070(2) 1 0
+P2 P5+ 2 i 0.18945(11) 0.66508(11) 0.05306(10) 0.0075(2) 1 0
+P3 P5+ 2 i 0.38506(11) -0.11495(11) 0.27798(10) 0.0070(2) 1 0
+Na1 Na1+ 2 i 0.5325(2) -0.3739(2) 0.6614(2) 0.0163(3) 1 0
+O1 O2- 2 i -0.0846(4) -0.0434(3) 0.3459(3) 0.0158(5) 1 0
+O2 O2- 2 i -0.3779(3) -0.1365(4) 0.2100(3) 0.0149(5) 1 0
+O3 O2- 2 i -0.1730(4) -0.3833(3) 0.4030(3) 0.0126(5) 1 0
+O4 O2- 2 i -0.0421(3) -0.2425(3) 0.0865(3) 0.0103(5) 1 0
+O5 O2- 2 i 0.2363(3) -0.3438(3) -0.1424(3) 0.0117(5) 1 0
+O6 O2- 2 i 0.2140(4) -0.5149(3) 0.1758(3) 0.0125(5) 1 0
+O7 O2- 2 i 0.3103(3) -0.1707(3) 0.1032(3) 0.0122(5) 1 0
+O8 O2- 2 i 0.3401(3) -0.2660(3) 0.4300(3) 0.0116(5) 1 0
+O9 O2- 2 i 0.3202(4) 0.0932(3) 0.2991(3) 0.0139(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0103(4) 0.0094(3) 0.0098(3) -0.0082(2) -0.0033(2) 0.0012(2)
+P1 P5+ 0.0072(4) 0.0081(4) 0.0073(4) -0.0074(3) -0.0022(3) 0.0014(3)
+P2 P5+ 0.0083(4) 0.0097(4) 0.0062(4) -0.0079(3) -0.0026(3) 0.0014(3)
+P3 P5+ 0.0070(4) 0.0086(4) 0.0071(4) -0.0076(3) -0.0022(3) 0.0017(3)
+Na1 Na1+ 0.0125(6) 0.0225(7) 0.0148(7) -0.0080(5) -0.0045(5) 0.0042(5)
+O1 O2- 0.0174(11) 0.0157(12) 0.0176(12) -0.0144(9) -0.0005(9) -0.0043(9)
+O2 O2- 0.0072(10) 0.0241(12) 0.0127(11) -0.0066(9) -0.0020(8) 0.0071(9)
+O3 O2- 0.0189(11) 0.0091(11) 0.0103(11) -0.0077(9) -0.0029(9) 0.0044(8)
+O4 O2- 0.0111(10) 0.0132(11) 0.0082(10) -0.0071(8) -0.0027(8) 0.0011(8)
+O5 O2- 0.0105(10) 0.0184(11) 0.0077(11) -0.0065(8) -0.0028(8) -0.0006(8)
+O6 O2- 0.0153(11) 0.0103(11) 0.0141(11) -0.0085(8) -0.0065(9) 0.0036(9)
+O7 O2- 0.0168(11) 0.0137(11) 0.0097(10) -0.0147(9) -0.0067(8) 0.0044(8)
+O8 O2- 0.0124(10) 0.0132(11) 0.0101(10) -0.0100(8) -0.0017(8) 0.0047(8)
+O9 O2- 0.0154(11) 0.0098(11) 0.0173(11) -0.0075(9) -0.0016(9) 0.0013(9)
+#End of TTdata_418632-ICSD

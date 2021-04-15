@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20157-ICSD
+_database_code_ICSD 20157
+_audit_creation_date 1981-12-31
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Trisodium hexafluoroferrate(III)'
+_chemical_formula_structural 'Na3 (Fe F6)'
+_chemical_formula_sum 'F6 Fe1 Na3'
+_chemical_name_structure_type Ca3UO6
+_exptl_crystal_density_diffrn 3.15
+_publ_section_title
+'The crystal structure of the synthetic Fe-cryolite Na3 Fe F6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1981 257 105 108 DANKAS
+loop_
+_publ_author_name
+'Matvienko, E.N.'
+'Yakubovich, O.V.'
+'Simonov, M.A.'
+'Ivashchenko, A.N.'
+'Mel'nikov, O.K. (Melnikov, O.K.)'
+'Belov, N.V.'
+_cell_length_a 5.514(4)
+_cell_length_b 5.734(3)
+_cell_length_c 7.973(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.42(5)
+_cell_angle_gamma 90.
+_cell_volume 252.08
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 a 0.2495(4) 0.492(1) 0.2508(3) . 1. 0
+Na1 Na1+ 2 a 0.753(1) 0 0.2512(8) . 1. 0
+Na2 Na1+ 2 a 0.7390(7) 0.544(1) 0.0007(6) . 1. 0
+Na3 Na1+ 2 a 0.7690(9) 0.430(1) 0.4981(7) . 1. 0
+F1 F1- 2 a 0.371(1) 0.545(2) 0.4767(9) . 1. 0
+F2 F1- 2 a 0.529(1) 0.305(2) 0.1938(9) . 1. 0
+F3 F1- 2 a 0.086(1) 0.206(2) 0.3146(9) . 1. 0
+F4 F1- 2 a 0.140(1) 0.432(2) 0.0237(8) . 1. 0
+F5 F1- 2 a 0.955(1) 0.657(2) 0.2967(9) . 1. 0
+F6 F1- 2 a 0.417(1) 0.767(2) 0.174(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Fe1 Fe3+ 0.54(1) 0.53(1) 0.53(1) 0.01(1) -.05(1) 0.03(1)
+Na1 Na1+ 1.04(4) 0.81(6) 1.01(3) 0.06(5) 0.08(3) 0.15(5)
+Na2 Na1+ 1.0(1) 0.9(1) 1.7(2) 0.09(9) -.2(1) -.3(1)
+Na3 Na1+ 1.9(2) 1.6(2) 2.4(2) -.5(1) 1.8(2) 0.4(1)
+F1 F1- 1.3(2) 1.7(2) 1.6(2) 0.5(2) 0.3(2) 0.8(2)
+F2 F1- 1.2(2) 1.0(1) 1.8(2) 0.3(1) -.4(1) -.1(1)
+F3 F1- 1.3(2) 1.1(2) 1.7(2) -.7(1) 0.4(1) -.5(1)
+F4 F1- 1.4(2) 1.4(2) 0.6(2) -.1(1) 0.2(1) 0.2(1)
+F5 F1- 0.9(1) 1.3(1) 1.5(2) 0.5(1) -.2(1) -.2(1)
+F6 F1- 1.3(2) 1.1(2) 1.8(2) -.2(1) 0.0(1) -.3(1)
+#End of TTdata_20157-ICSD

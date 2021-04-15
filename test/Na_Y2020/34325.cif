@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34325-ICSD
+_database_code_ICSD 34325
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Disodium dizinc disilicate'
+_chemical_formula_structural 'Na2 Zn2 (Si2 O7)'
+_chemical_formula_sum 'Na2 O7 Si2 Zn2'
+_exptl_crystal_density_diffrn 3.54
+_publ_section_title
+'The refined crystal structure of sodium zincosilicate Na2 Zn2 Si2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii' 1977 18 203 206 ZSTKAI
+loop_
+_publ_author_name
+'Simonov, M.A.'
+'Belokoneva, E.L.'
+'Belov, N.V.'
+_cell_length_a 5.100(1)
+_cell_length_b 9.276(1)
+_cell_length_c 13.663(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 646.36
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 2 c m'
+_symmetry_Int_Tables_number 40
+_refine_ls_R_factor_all 0.064
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, -z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 'x+1/2, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 8 c 0.5584(12) 0.21523(9) 0.08016(7) . 1. 0
+Si1 Si4+ 8 c 0.0446(14) 0.3806(2) 0.1405(2) . 1. 0
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+Na2 Na1+ 4 b 0.0152(18) 0.0374(6) 0.25 . 1. 0
+O1 O2- 4 b 0.1379(26) 0.3167(9) 0.25 . 1. 0
+O2 O2- 8 c 0.7386(17) 0.3866(6) 0.1276(5) . 1. 0
+O3 O2- 8 c 0.1862(19) 0.2663(6) 0.0617(4) . 1. 0
+O4 O2- 8 c 0.6826(18) 0.0365(6) 0.1293(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Zn1 Zn2+ 0.31(2) 0.21(2) 0.41(2) 0.03(5) -.04(5) 0.02(2)
+Si1 Si4+ 0.16(7) 0.18(5) 0.19(5) 0.00(9) -.10(9) -.01(5)
+Na1 Na1+ 0.97(25) 0.88(18) 0.85(18) 0 0 0.45(16)
+Na2 Na1+ 0.87(32) 1.09(19) 0.78(7) 0.12(18) 0 0
+O1 O2- 1.62(39) 0.30(23) 0.10(24) -.15(27) 0 0
+O2 O2- 0.14(17) 0.28(17) 0.72(21) -.06(15) -.09(17) -.12(15)
+O3 O2- 0.58(19) 0.38(19) 0.46(17) 0.30(16) -.02(16) -.25(14)
+O4 O2- 0.48(19) 0.21(17) 0.87(21) -.12(16) -.12(19) 0.22(16)
+#End of TTdata_34325-ICSD

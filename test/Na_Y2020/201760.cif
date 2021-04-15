@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201760-ICSD
+_database_code_ICSD 201760
+_audit_creation_date 1986-12-03
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tetrasodium heptanickel hexakis(phosphate(V))'
+_chemical_formula_structural 'Na4 Ni7 (P O4)6'
+_chemical_formula_sum 'Na4 Ni7 O24 P6'
+_chemical_name_structure_type Na4Ni7(PO4)6
+_exptl_crystal_density_diffrn 3.9
+_publ_section_title 'The crystal structure of Na4 Ni7 (P O4)6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1986 62 105 111 JSSCBI
+loop_
+_publ_author_name
+'Moring, J.'
+'Kostiner, E.'
+_cell_length_a 10.550(2)
+_cell_length_b 13.985(5)
+_cell_length_c 6.398(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.87(2)
+_cell_angle_gamma 90.
+_cell_volume 912.36
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 m 1'
+_symmetry_Int_Tables_number 8
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 2 a 0 0 0 0.51(2) 1. 0
+Ni2 Ni2+ 4 b 0.0002(4) 0.3735(1) -.0001(7) 0.73(2) 1. 0
+Ni3 Ni2+ 4 b 0.3302(4) 0.6935(1) 0.1821(7) 0.48(3) 1. 0
+Ni4 Ni2+ 4 b 0.6710(4) 0.6874(1) 0.8187(7) 0.55(3) 1. 0
+P1 P5+ 4 b 0.9073(6) 0.1919(2) 0.7162(11) 0.67(7) 1. 0
+P2 P5+ 4 b 0.0940(6) 0.1888(2) 0.280(1) 0.30(7) 1. 0
+P3 P5+ 2 a 0.3146(7) 0 0.0437(12) 0.60(8) 1. 0
+P4 P5+ 2 a 0.6927(7) 0 0.9655(12) 0.48(8) 1. 0
+Na1 Na1+ 4 b 0.6133(7) 0.1237(3) 0.5356(12) . 1. 0
+Na2 Na1+ 2 a 0.7811(10) 0.5 0.5371(15) . 1. 0
+Na3 Na1+ 2 a 0.4326(9) 0.5 0.4786(13) . 1. 0
+O1 O2- 4 b 0.0038(11) 0.2785(8) 0.2454(18) 0.78(17) 1. 0
+O2 O2- 4 b 0.000(1) 0.2811(7) 0.7445(16) 0.51(16) 1. 0
+O3 O2- 4 b -.0079(10) 0.1081(7) 0.2044(18) 0.47(16) 1. 0
+O4 O2- 4 b 0.0039(11) 0.1057(7) 0.7846(18) 0.60(17) 1. 0
+O5 O2- 4 b 0.1929(12) 0.2040(8) 0.1474(21) 0.84(18) 1. 0
+O6 O2- 4 b 0.8135(11) 0.2063(8) 0.8647(19) 0.52(16) 1. 0
+O7 O2- 4 b 0.1676(11) 0.1720(8) 0.5127(20) 0.83(17) 1. 0
+O8 O2- 4 b 0.8293(11) 0.1682(8) 0.4922(19) 0.73(17) 1. 0
+O9 O2- 4 b 0.1944(2) 0.4103(8) 0.1109(20) 1.21(20) 1. 0
+O10 O2- 4 b 0.8131(11) 0.4114(7) 0.8963(18) 0.41(16) 1. 0
+O11 O2- 2 a 0.2006(16) 0 0.1419(27) 0.87(26) 1. 0
+O12 O2- 2 a 0.7961(15) 0 0.8438(26) 0.61(23) 1. 0
+O13 O2- 2 a 0.4493(18) 0 0.1954(29) 1.10(28) 1. 0
+O14 O2- 2 a 0.5535(18) 0 0.7962(29) 0.97(26) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 2.30(21) 1.63(21) 2.18(21) 0.58(16) 0.84(17) 0.83(16)
+Na2 Na1+ 4.27(44) 3.64(40) 1.69(32) 0 0.78(31) 0
+Na3 Na1+ 4.14(37) 1.13(25) 0.99(26) 0 0.63(27) 0
+#End of TTdata_201760-ICSD

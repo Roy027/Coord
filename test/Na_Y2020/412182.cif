@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412182-ICSD
+_database_code_ICSD 412182
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium samarium selenate(IV) selenate(VI)'
+_chemical_formula_structural 'Na Sm (Se O3) (Se O4)'
+_chemical_formula_sum 'Na1 O7 Se2 Sm1'
+_exptl_crystal_density_diffrn 4.83
+_publ_section_title
+
+;
+Pr4 (Se O3)2 (Se O4) F6 und Na Sm (Se O3) (Se O4): Selenit-Selenate der
+Selten-Erd-Elemente
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2002
+628 147 151 ZAACAB
+loop_
+_publ_author_name
+'Kruegermann, I.'
+'Wickleder, M.S.'
+_cell_length_a 10.669(2)
+_cell_length_b 6.917(2)
+_cell_length_c 8.259(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.00(2)
+_cell_angle_gamma 90.
+_cell_volume 609.4
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0292
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sm3+ 3
+Na1+ 1
+Se4+ 4
+O2- -2
+Se6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sm1 Sm3+ 4 e 0.58373(5) 0.15274(6) 0.80579(4) 0.00934(12) 1. 0
+Na1 Na1+ 4 e 1.0639(4) 0.1278(6) 1.3120(4) 0.0199(8) 1. 0
+Se1 Se4+ 4 e 0.32895(8) 0.17169(12) 0.55466(7) 0.0090(2) 1. 0
+O1 O2- 4 e 0.4092(6) -.0029(9) 0.6603(6) 0.0171(12) 1. 0
+O2 O2- 4 e 0.5526(5) -.1583(8) 0.9352(5) 0.0119(10) 1. 0
+O3 O2- 4 e 0.3425(6) 0.3836(9) 0.8590(6) 0.0236(14) 1. 0
+Se2 Se6+ 4 e 0.83937(7) 0.14266(14) 1.04289(7) 0.0117(2) 1. 0
+O4 O2- 4 e 0.6973(5) 0.2241(9) 1.0790(5) 0.0137(11) 1. 0
+O5 O2- 4 e 0.8140(5) 0.0633(9) 0.8583(6) 0.0169(11) 1. 0
+O6 O2- 4 e 0.9427(6) 0.3144(10) 1.0482(6) 0.0240(14) 1. 0
+O7 O2- 4 e 0.8800(6) -.0250(11) 1.1681(7) 0.0276(14) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sm1 Sm3+ 0.0130(2) 0.0072(2) 0.0077(2) -0.0010(2) -0.00017(11) -0.00029(13)
+Na1 Na1+ 0.023(2) 0.019(2) 0.0177(13) 0.0006(15) 0.0023(13) -0.0022(13)
+Se1 Se4+ 0.0104(4) 0.0076(4) 0.0089(3) -0.0008(3) -0.0007(2) -0.0002(2)
+O1 O2- 0.025(3) 0.013(3) 0.013(2) -0.001(2) -0.002(2) 0.004(2)
+O2 O2- 0.011(2) 0.009(3) 0.016(2) 0.000(2) 0.000(2) -0.001(2)
+O3 O2- 0.043(4) 0.018(3) 0.010(2) -0.008(3) -0.009(2) 0.002(2)
+Se2 Se6+ 0.0104(4) 0.0135(4) 0.0111(3) -0.0004(3) 0.0011(2) -0.0006(3)
+O4 O2- 0.008(2) 0.024(3) 0.009(2) 0.001(2) 0.002(2) -0.003(2)
+O5 O2- 0.017(3) 0.021(3) 0.013(2) -0.001(2) 0.002(2) -0.006(2)
+O6 O2- 0.019(3) 0.029(4) 0.024(3) -0.009(3) 0.010(2) -0.006(2)
+O7 O2- 0.025(3) 0.031(4) 0.027(3) 0.003(3) -0.006(2) 0.008(3)
+#End of TTdata_412182-ICSD

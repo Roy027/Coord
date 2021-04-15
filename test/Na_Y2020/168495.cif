@@ -1,0 +1,138 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_168495-ICSD
+_database_code_ICSD 168495
+_audit_creation_date 2011-02-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic
+'Disodium closo-dodecabromododecaborate octakis(sulfur dioxide)'
+_chemical_formula_structural 'Na2 (B12 Br12) (S O2)8'
+_chemical_formula_sum 'B12 Br12 Na2 O16 S8'
+_chemical_name_structure_type Na2B12Br12(SO2)8
+_exptl_crystal_density_diffrn 2.74
+_cell_measurement_temperature 160.
+_publ_section_title
+
+;
+Alkali metal-sulfur dioxide complexes stabilized by halogenated
+closo-dodecaborate anions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2010 39 8671 8678 DTARAF
+loop_
+_publ_author_name
+'Derendorf, J.'
+'Kessler, M.'
+'Knapp, C.'
+'Ruehle, M.'
+'Schulz, C.'
+_cell_length_a 9.811(2)
+_cell_length_b 20.979(4)
+_cell_length_c 9.980(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.46(3)
+_cell_angle_gamma 90.
+_cell_volume 1997.71
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Br1- -1
+B0+ 0.833
+S4+ 4
+O2- -2
+S4+ 4
+O2- -2
+S4+ 4
+O2- -2
+S4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Br1 Br1- 4 e 0.57232(5) 0.55333(2) 0.67582(5) 0.03003(14) 1 0
+Br2 Br1- 4 e 0.83339(5) 0.45055(2) 0.93064(5) 0.02915(13) 1 0
+Br3 Br1- 4 e 0.76820(5) 0.62250(2) 1.02704(5) 0.03127(14) 1 0
+Br4 Br1- 4 e 0.37961(5) 0.66044(2) 0.88484(5) 0.03289(14) 1 0
+Br5 Br1- 4 e 0.20394(5) 0.50554(2) 0.70313(5) 0.03192(14) 1 0
+Br6 Br1- 4 e 0.48257(5) 0.38095(2) 0.73195(5) 0.03152(14) 1 0
+B1 B0+ 4 e 0.5343(6) 0.5252(3) 0.8493(6) 0.0253(12) 1 0
+B2 B0+ 4 e 0.6558(6) 0.4767(3) 0.9683(6) 0.0251(12) 1 0
+B3 B0+ 4 e 0.6251(6) 0.5563(3) 1.0117(6) 0.0250(12) 1 0
+B4 B0+ 4 e 0.4430(5) 0.5749(3) 0.9470(6) 0.0237(12) 1 0
+B5 B0+ 4 e 0.3623(5) 0.5041(3) 0.8633(5) 0.0233(12) 1 0
+B6 B0+ 4 e 0.4926(6) 0.4445(3) 0.8765(6) 0.0243(12) 1 0
+S1 S4+ 4 e -0.10324(18) 0.23122(8) 0.4122(2) 0.0676(5) 1 0
+O1 O2- 4 e -0.0734(8) 0.2000(3) 0.2962(5) 0.118(3) 1 0
+O2 O2- 4 e 0.0078(4) 0.26407(18) 0.4964(4) 0.0498(10) 1 0
+S2 S4+ 4 e -0.22810(15) 0.39693(8) 0.56909(15) 0.0448(4) 1 0
+O3 O2- 4 e -0.0785(4) 0.4026(2) 0.6030(4) 0.0533(11) 1 0
+O4 O2- 4 e -0.2861(4) 0.3390(2) 0.5091(4) 0.0533(11) 1 0
+S3 S4+ 4 e 0.06614(14) 0.40316(7) 0.26856(15) 0.0400(3) 1 0
+O5 O2- 4 e 0.1155(4) 0.40666(19) 0.4151(4) 0.0475(10) 1 0
+O6 O2- 4 e 0.0018(4) 0.34539(19) 0.2136(4) 0.0542(11) 1 0
+S4 S4+ 4 e 0.37990(15) 0.22754(7) 0.85968(15) 0.0398(3) 1 0
+O7 O2- 4 e 0.2732(4) 0.25019(18) 0.7489(4) 0.0462(10) 1 0
+O8 O2- 4 e 0.3370(4) 0.20078(18) 0.9734(4) 0.0513(11) 1 0
+Na1 Na1+ 4 e 0.1497(2) 0.34442(11) 0.6261(2) 0.0544(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Br1 Br1- 0.0308(3) 0.0378(3) 0.0236(3) -0.0015(2) 0.0105(2) 0.0034(2)
+Br2 Br1- 0.0231(3) 0.0352(3) 0.0312(3) 0.0020(2) 0.0105(2) -0.0002(2)
+Br3 Br1- 0.0285(3) 0.0324(3) 0.0354(3) -0.0089(2) 0.0124(2) -0.0045(2)
+Br4 Br1- 0.0337(3) 0.0288(3) 0.0375(3) 0.0036(2) 0.0110(2) 0.0055(2)
+Br5 Br1- 0.0253(3) 0.0430(3) 0.0249(3) -0.0010(2) 0.0008(2) -0.0009(2)
+Br6 Br1- 0.0333(3) 0.0342(3) 0.0294(3) -0.0061(2) 0.0120(2) -0.0101(2)
+B1 B0+ 0.026(3) 0.028(3) 0.022(3) -0.002(2) 0.007(2) 0.003(2)
+B2 B0+ 0.025(3) 0.028(3) 0.023(3) -0.005(2) 0.008(2) 0.000(2)
+B3 B0+ 0.024(3) 0.027(3) 0.025(3) -0.004(2) 0.007(2) -0.006(2)
+B4 B0+ 0.022(3) 0.027(3) 0.024(3) 0.003(2) 0.008(2) 0.001(2)
+B5 B0+ 0.023(3) 0.025(3) 0.023(3) -0.003(2) 0.006(2) 0.001(2)
+B6 B0+ 0.026(3) 0.028(3) 0.019(3) -0.005(2) 0.004(2) -0.001(2)
+S1 S4+ 0.0533(10) 0.0492(10) 0.0906(15) 0.0018(8) -0.0033(10) -0.0171(10)
+O1 O2- 0.225(8) 0.062(3) 0.052(3) -0.043(4) 0.004(4) -0.008(3)
+O2 O2- 0.055(3) 0.049(2) 0.040(2) -0.007(2) 0.001(2) 0.0009(19)
+S2 S4+ 0.0434(8) 0.0560(10) 0.0387(8) 0.0010(7) 0.0172(7) 0.0005(7)
+O3 O2- 0.041(2) 0.078(3) 0.045(3) -0.010(2) 0.017(2) -0.001(2)
+O4 O2- 0.042(2) 0.055(3) 0.060(3) 0.001(2) 0.005(2) -0.005(2)
+S3 S4+ 0.0332(7) 0.0510(9) 0.0384(8) 0.0056(6) 0.0140(6) 0.0072(7)
+O5 O2- 0.038(2) 0.065(3) 0.040(2) -0.0012(19) 0.0088(18) 0.002(2)
+O6 O2- 0.067(3) 0.045(2) 0.046(3) 0.004(2) 0.005(2) 0.002(2)
+S4 S4+ 0.0416(8) 0.0384(8) 0.0379(8) -0.0020(6) 0.0061(7) 0.0021(6)
+O7 O2- 0.056(2) 0.044(2) 0.034(2) -0.0060(19) 0.0014(19) 0.0016(18)
+O8 O2- 0.073(3) 0.042(2) 0.040(2) 0.003(2) 0.017(2) 0.0065(19)
+Na1 Na1+ 0.0560(15) 0.0460(14) 0.0493(15) -0.0002(11) -0.0122(12) 0.0061(11)
+#End of TTdata_168495-ICSD

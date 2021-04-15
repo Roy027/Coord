@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280527-ICSD
+_database_code_ICSD 280527
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium tetrabromoaurate(III) dihydrate'
+_chemical_formula_structural 'Na (Au Br4) (H2 O)2'
+_chemical_formula_sum 'H4 Au1 Br4 Na1 O2'
+_chemical_name_structure_type NaAuCl4(H2O)2
+_exptl_crystal_density_diffrn 4.2
+_publ_section_title 'Sodium tetrabromoaurate(III) dihydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2001 57 8
+9 ACSEBH
+loop_
+_publ_author_name
+'Welter, R.'
+'Omrani, H.'
+'Vangelisti, R.'
+_cell_length_a 13.320(6)
+_cell_length_b 7.253(2)
+_cell_length_c 9.420(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 910.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+Br1- -1
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 4 c 0.43636(5) 0.25 0.01537(7) . 1. 0
+Br1 Br1- 4 c 0.32724(15) 0.25 -.1914(2) . 1. 0
+Br2 Br1- 4 c 0.28961(13) 0.25 0.16910(19) . 1. 0
+Br3 Br1- 4 c 0.58537(14) 0.25 -.1329(2) . 1. 0
+Br4 Br1- 4 c 0.54477(15) 0.25 0.2209(2) . 1. 0
+Na1 Na1+ 4 c 0.4885(6) 0.25 0.562(1) . 1. 0
+O1 O2- 8 d 0.3845(7) 0.0025(16) 0.4674(10) . 1. 0
+H1 H1+ 8 d 0.321 0 0.513 0.08 1. 0
+H2 H1+ 8 d 0.373 -.02 0.37 0.08 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au3+ 0.0209(3) 0.0288(3) 0.0276(3) 0 0.0002(3) 0
+Br1 Br1- 0.0319(10) 0.0647(15) 0.0298(9) 0 -.0044(8) 0
+Br2 Br1- 0.0236(8) 0.0534(13) 0.0321(9) 0 0.0017(7) 0
+Br3 Br1- 0.0299(10) 0.0523(12) 0.0410(11) 0 0.0107(8) 0
+Br4 Br1- 0.0309(11) 0.0710(15) 0.0367(11) 0 -.0099(8) 0
+Na1 Na1+ 0.046(5) 0.053(5) 0.054(5) 0 -.001(4) 0
+O1 O2- 0.043(5) 0.072(8) 0.033(5) -.013(6) -.003(4) -.001(6)
+#End of TTdata_280527-ICSD

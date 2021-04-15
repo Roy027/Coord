@@ -1,0 +1,136 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_32555-ICSD
+_database_code_ICSD 32555
+_audit_creation_date 1982-12-31
+_chemical_name_systematic
+'Trisodium tetrathioarsenate(V) octakis(dideuteriohydrate)'
+_chemical_formula_structural 'Na3 (As S4) (D2 O)8'
+_chemical_formula_sum 'D16 As1 Na3 O8 S4'
+_chemical_name_structure_type Na3(PS4)(H2O)8
+_exptl_crystal_density_diffrn 1.91
+_publ_section_title
+
+;
+Hydrogen bonds in Na3 As S4 (D2 O)8: Neutron diffraction, x-ray diffraction
+and vibrational spectroscopic studies
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 401 408 ACBCAR
+loop_
+_publ_author_name
+'Mereiter, K.'
+'Preisinger, A.'
+'Baumgartner, O.'
+'Heger, G.'
+'Mikenda, W.'
+'Steidl, H.'
+_cell_length_a 8.683(2)
+_cell_length_b 12.979(2)
+_cell_length_c 13.702(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.40(1)
+_cell_angle_gamma 90.
+_cell_volume 1502.13
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+As5+ 5
+S2- -2
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0 . 1. 0
+Na2 Na1+ 2 d 0.5 0.5 0 . 1. 0
+Na3 Na1+ 4 e 0.33769(9) 0.55092(6) 0.40865(6) . 1. 0
+Na4 Na1+ 4 e 0.82913(10) 0.05971(6) 0.41622(6) . 1. 0
+As1 As5+ 4 e 0.71395(2) 0.67090(1) 0.25190(1) . 1. 0
+S1 S2- 4 e 0.78768(6) 0.51246(4) 0.28642(4) . 1. 0
+S2 S2- 4 e 0.60789(6) 0.68932(4) 0.09518(4) . 1. 0
+S3 S2- 4 e 0.54866(6) 0.71233(4) 0.34131(4) . 1. 0
+S4 S2- 4 e 0.91949(6) 0.77087(4) 0.28557(4) . 1. 0
+O1 O2- 4 e 0.19527(19) 0.10337(11) 0.95914(12) . 1. 0
+O2 O2- 4 e 0.14888(19) 0.84981(11) 0.96627(12) . 1. 0
+O3 O2- 4 e 0.73931(20) 0.40236(12) 0.06550(11) . 1. 0
+O4 O2- 4 e 0.40900(17) 0.46034(11) 0.14536(11) . 1. 0
+O5 O2- 4 e 0.53093(17) 0.42688(11) 0.41086(11) . 1. 0
+O6 O2- 4 e 0.14605(18) 0.51933(12) 0.25085(11) . 1. 0
+O7 O2- 4 e 0.78811(21) 0.23432(13) 0.35099(11) . 1. 0
+O8 O2- 4 e 0.09119(18) 0.11023(12) 0.50086(12) . 1. 0
+D1 D1+ 4 e 0.17667 0.15221 0.90505 . 1. 0
+D2 D1+ 4 e 0.25892 0.14099 1.0143 . 1. 0
+D3 D1+ 4 e 0.07532 0.80961 0.91803 . 1. 0
+D4 D1+ 4 e 0.17391 0.80938 1.02655 . 1. 0
+D5 D1+ 4 e 0.77352 0.43011 0.13195 . 1. 0
+D6 D1+ 4 e 0.71145 0.33204 0.07472 . 1. 0
+D7 D1+ 4 e 0.50208 0.47942 0.19492 . 1. 0
+D8 D1+ 4 e 0.41115 0.38639 0.14621 . 1. 0
+D9 D1+ 4 e 0.60649 0.44308 0.37192 . 1. 0
+D10 D1+ 4 e 0.49548 0.35749 0.39513 . 1. 0
+D11 D1+ 4 e 0.04674 0.53486 0.26699 . 1. 0
+D12 D1+ 4 e 0.14681 0.44537 0.25194 . 1. 0
+D13 D1+ 4 e 0.68646 0.23245 0.3048 . 1. 0
+D14 D1+ 4 e 0.86193 0.24534 0.30985 . 1. 0
+D15 D1+ 4 e 0.16799 0.13989 0.46881 . 1. 0
+D16 D1+ 4 e 0.09599 0.14993 0.56061 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0320(6) 0.0320(6) 0.0409(6) -.0033(5) 0.0140(5) 0.0000(5)
+Na2 Na1+ 0.0329(6) 0.0365(6) 0.0328(6) 0.0010(5) 0.0105(5) -.0041(5)
+Na3 Na1+ 0.0303(4) 0.0330(4) 0.0338(4) 0.0044(3) 0.0076(3) 0.0006(3)
+Na4 Na1+ 0.0394(5) 0.0361(4) 0.0291(4) -.0070(4) 0.0098(3) -.0011(3)
+As1 As5+ 0.0223(1) 0.0181(1) 0.0170(1) -.0007(1) 0.0044(1) 0.0001(1)
+S1 S2- 0.0299(3) 0.0205(3) 0.0238(3) 0.0026(2) 0.0066(2) 0.0025(2)
+S2 S2- 0.0380(3) 0.0260(3) 0.0194(3) 0.0000(2) 0.0002(2) 0.0009(2)
+S3 S2- 0.0342(3) 0.0290(3) 0.0329(3) 0.0021(2) 0.0168(2) -.0010(2)
+S4 S2- 0.0260(3) 0.0268(3) 0.0313(3) -.0063(2) 0.0030(2) -.0001(2)
+O1 O2- 0.0434(9) 0.0352(8) 0.0383(8) -.0111(7) 0.0152(7) -.0001(6)
+O2 O2- 0.0362(8) 0.0361(8) 0.0336(8) -.0097(6) 0.0012(6) 0.0031(6)
+O3 O2- 0.0421(9) 0.0395(9) 0.0307(8) 0.0050(7) 0.0078(7) 0.0004(6)
+O4 O2- 0.0324(8) 0.0310(7) 0.0358(8) -.0025(6) 0.0041(6) 0.0019(6)
+O5 O2- 0.0299(8) 0.0325(7) 0.0386(8) -.0002(6) 0.0102(6) -.0012(6)
+O6 O2- 0.0362(8) 0.0388(8) 0.0345(8) 0.0024(6) 0.0126(6) 0.0005(7)
+O7 O2- 0.0442(9) 0.0418(9) 0.0384(9) -.0001(8) 0.0043(7) -.0053(7)
+O8 O2- 0.0353(8) 0.0405(9) 0.0357(8) -.0041(7) 0.0091(6) -.0028(7)
+#End of TTdata_32555-ICSD

@@ -1,0 +1,127 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78993-ICSD
+_database_code_ICSD 78993
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Hexasodium 18-thiodecaborate'
+_chemical_formula_structural 'Na6 (B10 S18)'
+_chemical_formula_sum 'B10 Na6 S18'
+_exptl_crystal_density_diffrn 2.01
+_cell_measurement_temperature 140.
+_publ_section_title
+
+;
+Darstellung und Kristallstrukturen von Li(4-2x) Sr(2+x) B10 S19 (x = 0,27) und
+Na6 B10 S18. Zwei neue Thioborate mit hochpolymeren Makrotetraeder-Nertzwerken
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 76 84 ZAACAB
+loop_
+_publ_author_name
+'Hammerschmidt, A.'
+'zum Hecht, P.'
+'Hiltmann, F.'
+'Krebs, B.'
+_cell_length_a 14.415(3)
+_cell_length_b 14.415(3)
+_cell_length_c 26.1370(40)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 5431.07
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41/a c d Z'
+_symmetry_Int_Tables_number 142
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+3/4'
+2 '-y+3/4, x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 '-x, y+1/2, -z+1/2'
+5 '-y+3/4, -x+1/4, z+1/4'
+6 'y+1/4, -x+1/4, z+3/4'
+7 '-x, -y+1/2, z'
+8 'x, -y+1/2, z+1/2'
+9 'y+1/4, -x+3/4, -z+1/4'
+10 '-y+3/4, -x+3/4, -z+3/4'
+11 'x, -y, -z+1/2'
+12 '-x, -y, -z'
+13 '-y+3/4, x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+1/4'
+15 '-x, y, z+1/2'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+1/4'
+18 '-y+1/4, x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 '-x+1/2, y, -z'
+21 '-y+1/4, -x+3/4, z+3/4'
+22 'y+3/4, -x+3/4, z+1/4'
+23 '-x+1/2, -y, z+1/2'
+24 'x+1/2, -y, z'
+25 'y+3/4, -x+1/4, -z+3/4'
+26 '-y+1/4, -x+1/4, -z+1/4'
+27 'x+1/2, -y+1/2, -z'
+28 '-x+1/2, -y+1/2, -z+1/2'
+29 '-y+1/4, x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+3/4'
+31 '-x+1/2, y+1/2, z'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S2- -2
+B3+ 3
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S2- 32 g 0.43411(9) 0.15971(8) 0.08149(4) . 1. 0
+S2 S2- 32 g 0.73967(9) 0.21366(8) 0.08165(4) . 1. 0
+S3 S2- 32 g 0.61063(9) 0.03180(8) 0.08449(5) . 1. 0
+S4 S2- 32 g 0.58235(8) 0.18653(9) -.00342(4) . 1. 0
+S5 S2- 16 e 0.75 0.05025(12) 0 . 1. 0
+B1 B3+ 32 g 0.5239(4) 0.0975(4) 0.1250(2) . 1. 0
+B2 B3+ 16 d 0.5 0.25 0.0400(3) . 1. 0
+B3 B3+ 32 g 0.6688(4) 0.1261(4) 0.0416(2) . 1. 0
+Na1 Na1+ 16 c 0.5 0 0 . 1. 0
+Na2 Na1+ 16 e 0.25 0.1603(3) 0 . 1. 0
+Na3 Na1+ 16 f 0.7967(2) 0.0467(2) 0.125 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S2- 0.0069(6) 0.0069(6) 0.0071(5) 0.0002(4) 0.0004(5) 0.0003(5)
+S2 S2- 0.0072(6) 0.0090(6) 0.0096(6) 0.0007(5) 0.0012(5) -.0014(5)
+S3 S2- 0.0085(6) 0.0072(6) 0.0101(6) 0.0003(5) 0.0020(5) -.0006(5)
+S4 S2- 0.0078(6) 0.0122(6) 0.0075(5) 0.0015(5) 0.0014(5) -.0008(6)
+S5 S2- 0.0086(8) 0.0059(8) 0.0105(8) 0 0.0018(8) 0
+B1 B3+ 0.004(3) 0.008(3) 0.010(2) 0.000(2) 0.002(2) 0.001(2)
+B2 B3+ 0.005(4) 0.009(4) 0.010(4) 0.000(3) 0 0
+B3 B3+ 0.004(3) 0.004(3) 0.003(2) 0.001(2) 0.000(2) 0.000(2)
+Na1 Na1+ 0.070(3) 0.039(3) 0.045(2) -.014(2) -.031(2) -.003(2)
+Na2 Na1+ 0.112(4) 0.029(2) 0.031(2) 0 -.023(3) 0
+Na3 Na1+ 0.028(1) 0.028(1) 0.099(4) -.006(2) -.030(2) 0.030(2)
+#End of TTdata_78993-ICSD

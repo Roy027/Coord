@@ -1,0 +1,140 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429092-ICSD
+_database_code_ICSD 429092
+_audit_creation_date 2016-02-01
+_chemical_name_systematic
+'Pentasodium ytterbium hexahydroxide tetraoxotungstate'
+_chemical_formula_structural 'Na5 Yb (O H)6 (W O4)'
+_chemical_formula_sum 'H6 Na5 O10 W1 Yb1'
+_exptl_crystal_density_diffrn 3.98
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Hydroflux synthesis and crystal structure of new lanthanide tungstate
+oxyhydroxides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2015 42 14 19 SSSCFJ
+loop_
+_publ_author_name
+'Latshaw, Allison M.'
+'Smith, Mark D.'
+'Chance, W. Michael'
+'zur Loye, Hans-Conrad'
+_cell_length_a 11.2024(7)
+_cell_length_b 16.1850(10)
+_cell_length_c 11.9913(7)
+_cell_angle_alpha 90
+_cell_angle_beta 102.021(2)
+_cell_angle_gamma 90
+_cell_volume 2126.47
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0264
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Yb3+ 3
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 f 0.54932(2) 0.24845(2) 0.21528(2) 0.00634(5) 1 0
+Yb1 Yb3+ 4 e 0.25 0.04395(2) 0.5 0.00603(6) 1 0
+Yb2 Yb3+ 4 e 0.25 0.45597(2) 0.5 0.00571(6) 1 0
+Na1 Na1+ 8 f 0.25306(16) -0.05995(10) 0.25105(14) 0.0089(3) 1 0
+Na2 Na1+ 8 f 0.25331(16) 0.15317(10) 0.24954(14) 0.0089(3) 1 0
+Na3 Na1+ 8 f 0.49431(15) 0.04762(10) 0.37288(14) 0.0092(3) 1 0
+Na4 Na1+ 8 f 0.49526(15) 0.44533(10) 0.36921(14) 0.0101(3) 1 0
+Na5 Na1+ 4 e 0.25 0.24877(13) 0.5 0.0093(4) 1 0
+Na6 Na1+ 4 e 0.75 0.31377(18) 0.5 0.0128(6) 0.843(5) 0
+Na7 Na1+ 4 e 0.75 0.1842(10) 0.5 0.0128(6) 0.157(5) 0
+O1 O2- 8 f 0.1318(3) 0.04897(17) 0.3226(2) 0.0087(5) 1 0
+H1 H1+ 8 f 0.086(5) 0.089(3) 0.329(6) 0.038(19) 1 0
+O2 O2- 8 f 0.3650(3) -0.04949(17) 0.4414(2) 0.0095(5) 1 0
+H2 H1+ 8 f 0.366(8) -0.1016(14) 0.434(7) 0.07(3) 1 0
+O3 O2- 8 f 0.3630(3) 0.13990(16) 0.4399(2) 0.0081(5) 1 0
+H3 H1+ 8 f 0.423(4) 0.170(3) 0.467(5) 0.034(18) 1 0
+O4 O2- 8 f 0.1326(3) 0.45460(16) 0.3241(2) 0.0078(5) 1 0
+H4 H1+ 8 f 0.082(4) 0.418(3) 0.328(5) 0.023(16) 1 0
+O5 O2- 8 f 0.3610(3) 0.35946(16) 0.4404(2) 0.0076(5) 1 0
+H5 H1+ 8 f 0.419(5) 0.327(4) 0.457(6) 0.04(2) 1 0
+O6 O2- 8 f 0.3634(3) 0.55035(17) 0.4436(3) 0.0098(5) 1 0
+H6 H1+ 8 f 0.391(6) 0.593(3) 0.418(6) 0.037(19) 1 0
+O7 O2- 8 f 0.6161(3) 0.33216(19) 0.3041(3) 0.0156(6) 1 0
+O8 O2- 8 f 0.3871(3) 0.25445(17) 0.1906(2) 0.0114(5) 1 0
+O9 O2- 8 f 0.5943(3) 0.15109(19) 0.2776(3) 0.0191(7) 1 0
+O10 O2- 8 f 0.5919(3) 0.25293(19) 0.0814(3) 0.0156(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00500(7) 0.00628(7) 0.00778(7) 0.00027(5) 0.00144(5) -0.00017(5)
+Yb1 Yb3+ 0.00502(11) 0.00699(10) 0.00602(11) 0. 0.00097(8) 0.
+Yb2 Yb3+ 0.00449(11) 0.00676(10) 0.00586(11) 0. 0.00102(8) 0.
+Na1 Na1+ 0.0088(7) 0.0107(7) 0.0069(6) -0.0008(6) 0.0008(5) -0.0005(6)
+Na2 Na1+ 0.0100(7) 0.0085(7) 0.0079(7) 0.0004(6) 0.0009(5) -0.0002(6)
+Na3 Na1+ 0.0065(8) 0.0123(7) 0.0085(8) 0.0018(5) 0.0011(6) -0.0007(5)
+Na4 Na1+ 0.0064(8) 0.0130(7) 0.0105(8) -0.0017(6) 0.0008(6) 0.0008(6)
+Na5 Na1+ 0.0087(10) 0.0101(9) 0.0094(10) 0. 0.0026(8) 0.
+Na6 Na1+ 0.0097(13) 0.0173(13) 0.0108(13) 0. 0.0006(10) 0.
+Na7 Na1+ 0.0097(13) 0.0173(13) 0.0108(13) 0. 0.0006(10) 0.
+O1 O2- 0.0089(14) 0.0086(12) 0.0083(13) 0.0006(9) 0.0011(11) 0.0012(9)
+O2 O2- 0.0120(14) 0.0076(12) 0.0087(13) 0.0016(10) 0.0017(11) 0.0008(9)
+O3 O2- 0.0070(13) 0.0069(11) 0.0099(13) -0.0024(9) 0.0008(11) -0.0013(9)
+O4 O2- 0.0068(13) 0.0092(12) 0.0071(13) -0.0026(9) 0.0010(10) 0.0005(9)
+O5 O2- 0.0053(13) 0.0080(11) 0.0096(13) 0.0021(9) 0.0017(10) 0.0016(9)
+O6 O2- 0.0104(14) 0.0093(12) 0.0098(14) -0.0046(10) 0.0021(11) 0.0005(10)
+O7 O2- 0.0110(14) 0.0184(14) 0.0186(16) -0.0052(11) 0.0057(12) -0.0058(12)
+O8 O2- 0.0082(12) 0.0140(13) 0.0118(12) 0.0014(10) 0.0015(10) 0.0002(10)
+O9 O2- 0.0141(16) 0.0155(14) 0.0307(19) 0.0082(11) 0.0111(14) 0.0110(13)
+O10 O2- 0.0141(14) 0.0234(15) 0.0109(13) 0.0008(12) 0.0061(11) -0.0008(12)
+#End of TTdata_429092-ICSD

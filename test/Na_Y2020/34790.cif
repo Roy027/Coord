@@ -1,0 +1,127 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34790-ICSD
+_database_code_ICSD 34790
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Potassium sodium tecto-alumosilicate *'
+_chemical_formula_structural '(K0.94 Na0.06) (Al1.01 Si2.99 O8)'
+_chemical_formula_sum 'Al1.01 K0.94 Na0.06 O8 Si2.99'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral 'Microcline (maximum)'
+_exptl_crystal_density_diffrn 2.56
+_publ_section_title
+
+;
+The crystal structures of nine K feldspars from the Adamello Massif (Northern
+Italy)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1978 34 2699 2707 ACBCAR
+loop_
+_publ_author_name
+'dal Negro, A.'
+'de Pieri, R.'
+'Quareni, S.'
+'Taylor, W.H.'
+_cell_length_a 8.561(2)
+_cell_length_b 12.972(7)
+_cell_length_c 7.223(2)
+_cell_angle_alpha 90.56
+_cell_angle_beta 115.93
+_cell_angle_gamma 87.92
+_cell_volume 720.89
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.28232(7) 0.99328(5) 0.13640(9) . 0.94 0
+Na1 Na1+ 4 i 0.28232(7) 0.99328(5) 0.13640(9) . 0.06 0
+Al1 Al3+ 4 i 0.01002(8) 0.18710(5) 0.21754(9) . 0.9 0
+Si1 Si4+ 4 i 0.01002(8) 0.18710(5) 0.21754(9) . 0.1 0
+Al2 Al3+ 4 i 0.00959(8) 0.81950(4) 0.23165(9) . 0.05 0
+Si2 Si4+ 4 i 0.00959(8) 0.81950(4) 0.23165(9) . 0.95 0
+Al3 Al3+ 4 i 0.71020(7) 0.11998(4) 0.34043(9) . 0.03 0
+Si3 Si4+ 4 i 0.71020(7) 0.11998(4) 0.34043(9) . 0.97 0
+Al4 Al3+ 4 i 0.70518(7) 0.88532(4) 0.35005(9) . 0.03 0
+Si4 Si4+ 4 i 0.70518(7) 0.88532(4) 0.35005(9) . 0.97 0
+O1 O2- 4 i 0.0004(2) 0.1445(1) 0.9839(2) . 1. 0
+O2 O2- 4 i 0.6345(2) 0.0050(1) 0.2862(2) . 1. 0
+O3 O2- 4 i 0.8209(2) 0.1467(1) 0.2202(3) . 1. 0
+O4 O2- 4 i 0.8308(2) 0.8575(1) 0.2396(3) . 1. 0
+O5 O2- 4 i 0.0341(2) 0.3188(1) 0.2523(3) . 1. 0
+O6 O2- 4 i 0.0371(2) 0.6953(1) 0.2690(3) . 1. 0
+O7 O2- 4 i 0.1900(2) 0.1234(1) 0.4050(2) . 1. 0
+O8 O2- 4 i 0.1763(2) 0.8745(1) 0.4113(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+K1 K1+ 0.00489(8) 0.00283(3) 0.0110(1) 0.00006(4) 0.00259(8) -.00030(5)
+Na1 Na1+ 0.00489(8) 0.00283(3) 0.0110(1) 0.00006(4) 0.00259(8) -.00030(5)
+Al1 Al3+ 0.00352(9) 0.00096(3) 0.0034(1) -.00042(4) 0.00177(9) -.00022(5)
+Si1 Si4+ 0.00352(9) 0.00096(3) 0.0034(1) -.00042(4) 0.00177(9) -.00022(5)
+Al2 Al3+ 0.00327(8) 0.00098(3) 0.0033(1) 0.00020(4) 0.00164(8) 0.00007(4)
+Si2 Si4+ 0.00327(8) 0.00098(3) 0.0033(1) 0.00020(4) 0.00164(8) 0.00007(4)
+Al3 Al3+ 0.00301(8) 0.00072(2) 0.0039(1) -.00022(4) 0.00150(8) -.00005(4)
+Si3 Si4+ 0.00301(8) 0.00072(2) 0.0039(1) -.00022(4) 0.00150(8) -.00005(4)
+Al4 Al3+ 0.00295(8) 0.00073(2) 0.0040(1) -.00001(4) 0.00141(8) -.00014(4)
+Si4 Si4+ 0.00295(8) 0.00073(2) 0.0040(1) -.00001(4) 0.00141(8) -.00014(4)
+O1 O2- 0.0065(3) 0.0016(1) 0.0048(3) -.0002(1) 0.0030(2) -.0001(1)
+O2 O2- 0.0042(3) 0.0008(1) 0.0080(3) -.0002(1) 0.0018(2) 0.0000(1)
+O3 O2- 0.0052(3) 0.0025(1) 0.0084(4) -.0009(1) 0.0040(2) -.0001(1)
+O4 O2- 0.0061(3) 0.0026(1) 0.0104(4) 0.0010(1) 0.0055(2) 0.0003(1)
+O5 O2- 0.0047(3) 0.0014(1) 0.0080(4) -.0005(1) 0.0023(2) -.0004(1)
+O6 O2- 0.0046(3) 0.0012(1) 0.0088(4) 0.0003(1) 0.0029(2) 0.0006(1)
+O7 O2- 0.0061(3) 0.0019(1) 0.0047(3) 0.0000(1) 0.0011(2) 0.0002(1)
+O8 O2- 0.0063(3) 0.0016(1) 0.0049(3) -.0009(1) 0.0010(2) -.0003(1)
+#End of TTdata_34790-ICSD

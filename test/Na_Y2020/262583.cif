@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262583-ICSD
+_database_code_ICSD 262583
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Sodium arsenic europium tetrasulfide'
+_chemical_formula_structural 'Na As Eu S4'
+_chemical_formula_sum 'As1 Eu1 Na1 S4'
+_chemical_name_structure_type Sr2GeSe4
+_exptl_crystal_density_diffrn 3.73
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Na2 Eu As2 S5, Na Eu As S4, and Na4 Eu (As S4)2: controlling the valency of
+arsenic in polysulfide fluxes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 4293 4299 INOCAJ
+loop_
+_publ_author_name
+'Bera, T.K.'
+'Kanatzidis, M.G.'
+_cell_length_a 9.9985(18)
+_cell_length_b 9.9620(17)
+_cell_length_c 6.7637(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 673.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A m a 2'
+_symmetry_Int_Tables_number 40
+_refine_ls_R_factor_all 0.0376
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Eu2+ 2
+As5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0.25 0.3161(7) 0.0933(11) 0.0297(19) 1 0
+Eu1 Eu2+ 4 a 0.5 0. 0.03778(8) 0.00912(17) 1 0
+As1 As5+ 4 b 0.75 0.28303(13) 0.0660(3) 0.0056(3) 1 0
+S1 S2- 8 c 0.5715(2) 0.7871(3) 0.3857(4) 0.0118(5) 1 0
+S2 S2- 4 b 0.75 0.9347(3) 0.7950(5) 0.0101(7) 1 0
+S3 S2- 4 b 0.25 0.9081(4) 0.2194(5) 0.0071(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.065(5) 0.012(3) 0.013(4) 0. 0. 0.000(3)
+Eu1 Eu2+ 0.0071(2) 0.0077(2) 0.0125(3) -0.0015(3) 0. 0.
+As1 As5+ 0.0059(5) 0.0053(5) 0.0056(7) 0. 0. -0.0019(6)
+S1 S2- 0.0082(10) 0.0132(11) 0.0140(11) -0.0009(9) -0.0035(8) 0.0041(9)
+S2 S2- 0.0100(16) 0.0070(15) 0.0132(16) 0. 0. -0.0011(15)
+S3 S2- 0.0074(15) 0.0054(15) 0.0087(15) 0. 0. 0.0008(12)
+#End of TTdata_262583-ICSD

@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92841-ICSD
+_database_code_ICSD 92841
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium dicesium aluminium bis(phosphate(V))'
+_chemical_formula_structural 'Na Cs2 Al (P O4)2'
+_chemical_formula_sum 'Al1 Cs2 Na1 O8 P2'
+_exptl_crystal_density_diffrn 3.5
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+High-temperature synthesis of two new aluminophosphates, Na Rb2 Al2(P O4)3 and
+Na Cs2 Al (P O4)2 in molten alkali metal chloride media
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2001 13 1794 1799 CMATEX
+loop_
+_publ_author_name
+'Huang, Q.'
+'Hwu, S.-J.'
+_cell_length_a 10.992(2)
+_cell_length_b 9.192(2)
+_cell_length_c 18.998(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90.35(1)
+_cell_angle_gamma 90
+_cell_volume 1919.49
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+P5+ 5
+Al3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 e 0.6820(1) 0.0333(1) 0.1328(1) 0.026(1) 1. 0
+Cs2 Cs1+ 4 e 0.8150(1) 0.0383(1) 0.3543(1) 0.029(1) 1. 0
+Cs3 Cs1+ 4 e 0.4073(1) 0.0030(1) 0.3961(1) 0.023(1) 1. 0
+Cs4 Cs1+ 4 e 0.0850(1) -0.0030(1) 0.1183(1) 0.029(1) 1. 0
+P1 P5+ 4 e 0.3973(1) 0.8266(1) 0.2177(1) 0.013(1) 1. 0
+P2 P5+ 4 e 0.3380(1) 0.2111(1) 0.0477(1) 0.014(1) 1. 0
+P3 P5+ 4 e 0.8784(1) 0.3129(1) 0.0384(1) 0.014(1) 1. 0
+P4 P5+ 4 e 0.8537(1) 0.7285(1) 0.2011(1) 0.013(1) 1. 0
+Al1 Al3+ 4 e 0.3825(1) 0.1738(1) 0.2106(1) 0.012(1) 1. 0
+Al2 Al3+ 4 e 0.8804(1) 0.6613(1) 0.0410(1) 0.012(1) 1. 0
+Na1 Na1+ 4 e 0.0909(2) 0.8518(3) 0.2909(1) 0.036(1) 1. 0
+Na2 Na1+ 4 e 0.6017(2) 0.1679(2) -0.0393(1) 0.023(1) 1. 0
+O1 O2- 4 e 0.4213(4) -0.0074(4) 0.2138(2) 0.035(1) 1. 0
+O2 O2- 4 e 0.2691(3) 0.7988(5) 0.2402(2) 0.037(1) 1. 0
+O3 O2- 4 e 0.4304(4) 0.7563(4) 0.1495(2) 0.033(1) 1. 0
+O4 O2- 4 e 0.5161(3) 0.2735(4) 0.2221(2) 0.025(1) 1. 0
+O5 O2- 4 e 0.3223(3) 0.2228(4) 0.1290(2) 0.024(1) 1. 0
+O6 O2- 4 e 0.2287(4) 0.3047(6) 0.0206(2) 0.052(2) 1. 0
+O7 O2- 4 e 0.3197(6) 0.0591(4) 0.0247(2) 0.054(2) 1. 0
+O8 O2- 4 e 0.4526(4) 0.2793(6) 0.0255(2) 0.058(2) 1. 0
+O9 O2- 4 e 0.8961(4) 0.4764(4) 0.0556(2) 0.036(1) 1. 0
+O10 O2- 4 e 0.0221(3) 0.7269(4) 0.0168(2) 0.030(1) 1. 0
+O11 O2- 4 e 0.9002(4) 0.2304(4) 0.1056(2) 0.037(1) 1. 0
+O12 O2- 4 e 0.7569(4) 0.2873(5) 0.0063(2) 0.045(1) 1. 0
+O13 O2- 4 e 0.8410(3) 0.7439(3) 0.1192(2) 0.021(1) 1. 0
+O14 O2- 4 e 0.9058(5) 0.8661(5) 0.2292(2) 0.050(2) 1. 0
+O15 O2- 4 e 0.9230(6) 0.5975(6) 0.2200(2) 0.064(2) 1. 0
+O16 O2- 4 e 0.7204(3) 0.7176(6) 0.2250(2) 0.044(2) 1. 0
+#End of TTdata_92841-ICSD

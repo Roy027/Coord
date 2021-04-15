@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167001-ICSD
+_database_code_ICSD 167001
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Potassium sodium alumosilicate (1.84/6/8)'
+_chemical_formula_structural 'K1.84 Na6 (Al Si O4)8'
+_chemical_formula_sum 'Al8 K1.84 Na6 O32 Si8'
+_chemical_name_structure_type KNa3Al4(SiO4)4
+_chemical_name_mineral Nepheline
+_exptl_crystal_density_diffrn 2.66
+_publ_section_title
+
+;
+Nepheline: structure of three samples from the Bancroft area, Ontario,
+obtained using synchrotron high-resolution powder X-ray diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2010 48 69 80 CAMIA6
+loop_
+_publ_author_name
+'Antao, S.M.'
+'Hassan, I.'
+_cell_length_a 10.00215(1)
+_cell_length_b 10.00215(1)
+_cell_length_c 8.38742(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 726.68
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0669
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Si4+ 4
+Al3+ 3
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 2 b 0.6667 0.3333 0.1875(3) 0.0100(1) 1. 0
+Si1 Si4+ 2 b 0.6667 0.3333 0.7984(2) 0.0100(1) 1. 0
+Si2 Si4+ 6 c 0.3337(2) 0.0927(2) 0.3104(1) 0.00938(6) 1. 0
+Al2 Al3+ 6 c 0.3332(2) 0.0938(2) 0.6842(2) 0.00938(6) 1. 0
+K1 K1+ 2 a 0 0 0.9950(3) 0.0202(2) 0.920(1) 0
+Na1 Na1+ 6 c 0.44424(7) 0.99778(8) 0.0019(4) 0.02620(2) 1. 0
+O1 O2- 6 c 0.7073(5) 0.3371(9) 0.9874(6) 0.028(1) 0.3333 0
+O2 O2- 6 c 0.3159(1) 0.0261(1) 0.4995(4) 0.0245(3) 1. 0
+O3 O2- 6 c 0.5236(3) 0.1759(3) 0.7223(3) 0.0313(7) 1. 0
+O4 O2- 6 c 0.5112(2) 0.1627(3) 0.2390(3) 0.0225(6) 1. 0
+O5 O2- 6 c 0.2861(2) 0.2235(3) 0.3140(2) 0.0136(6) 1. 0
+O6 O2- 6 c 0.2651(2) 0.2235(2) 0.6938(2) 0.0159(6) 1. 0
+#End of TTdata_167001-ICSD

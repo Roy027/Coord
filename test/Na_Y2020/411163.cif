@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411163-ICSD
+_database_code_ICSD 411163
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium hydrogensulfate(VI) - phosphoric acid (1/1)'
+_chemical_formula_structural '(Na (H S O4)) (H3 P O4)'
+_chemical_formula_sum 'H4 Na1 O8 P1 S1'
+_exptl_crystal_density_diffrn 2.24
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthese und Kristallstruktur von K2 (H S O4) (H2 P O4), K4 (H S O4)3 (H2 P
+O4) und Na (H S O4) (H3 P O4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2000
+626 2004 2011 ZAACAB
+loop_
+_publ_author_name
+'Stiewe, A.'
+'Kemnitz, E.'
+_cell_length_a 5.449(1)
+_cell_length_b 6.832(1)
+_cell_length_c 8.718(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.88(3)
+_cell_angle_gamma 90.
+_cell_volume 322.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.0421
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P5+ 5
+S6+ 6
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.0124(3) 0.1409(3) 0.4474(2) . 1. 0
+P1 P5+ 2 a 0.1183(2) 0.8852(2) 0.8784(1) . 1. 0
+S1 S6+ 2 a 0.5399(2) 0.36789(15) 0.63935(10) . 1. 0
+O1 O2- 2 a 0.5921(7) 0.2129(6) 0.7537(4) . 1. 0
+O2 O2- 2 a 0.7160(5) 0.3661(7) 0.5266(3) . 1. 0
+O3 O2- 2 a 0.2843(5) 0.3702(7) 0.5777(3) . 1. 0
+O4 O2- 2 a 0.5950(7) 0.5667(5) 0.7234(4) . 1. 0
+O5 O2- 2 a 0.1729(6) 0.6805(5) 0.8315(4) . 1. 0
+O6 O2- 2 a -.0464(6) 0.8783(6) 1.0112(3) . 1. 0
+H1 H1+ 2 a -0.084(11) 0.986(13) 1.0638(62) 0.047 1. 0
+O7 O2- 2 a -.0178(6) 0.9922(6) 0.7371(4) . 1. 0
+H2 H1+ 2 a -.1250(91) 1.0689(81) 0.7486(71) 0.051(18) 1. 0
+O8 O2- 2 a 0.3526(7) 1.0007(6) 0.9334(4) . 1. 0
+H3 H1+ 2 a 0.467(11) 0.599(10) 0.7695(65) 0.039(18) 1. 0
+H4 H1+ 2 a 0.407(12) 1.0667(89) 0.8694(55) 0.056(23) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0243(9) 0.0193(10) 0.0355(9) 0.0021(7) 0.0018(8) -.0055(8)
+P1 P5+ 0.0201(5) 0.0134(5) 0.0186(4) 0.0022(6) 0.0048(3) 0.0008(5)
+S1 S6+ 0.0160(4) 0.0114(4) 0.0188(4) 0.0008(5) 0.0023(3) 0.0022(5)
+O1 O2- 0.027(2) 0.019(2) 0.036(2) 0.0007(14) 0.0058(15) 0.0127(14)
+O2 O2- 0.0262(15) 0.0213(14) 0.0251(13) 0.002(2) 0.0106(11) -.001(2)
+O3 O2- 0.0214(15) 0.0223(15) 0.0314(14) 0.003(2) -.0026(11) -.003(2)
+O4 O2- 0.025(2) 0.018(2) 0.029(2) -.0028(14) 0.0034(15) -.0076(13)
+O5 O2- 0.034(2) 0.017(2) 0.032(2) 0.0054(14) 0.0152(13) 0.0002(14)
+O6 O2- 0.033(2) 0.0187(14) 0.0292(13) 0.002(2) 0.0151(12) 0.000(2)
+O7 O2- 0.028(2) 0.037(2) 0.0211(14) 0.012(2) 0.0027(13) 0.0017(15)
+O8 O2- 0.034(2) 0.029(2) 0.026(2) -.009(2) -.0006(13) 0.005(2)
+#End of TTdata_411163-ICSD

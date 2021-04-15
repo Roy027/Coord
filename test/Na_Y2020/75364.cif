@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75364-ICSD
+_database_code_ICSD 75364
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Trisodium catena-tungstentrinitride'
+_chemical_formula_structural 'Na3 (W N3)'
+_chemical_formula_sum 'N3 Na3 W1'
+_chemical_name_structure_type Na3MoN3
+_exptl_crystal_density_diffrn 4.55
+_publ_section_title
+'Synthesis and crystal structure of a sodium nitrido tungstate(VI), Na3 W N3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1994 31 105
+113 EJSCE5
+loop_
+_publ_author_name
+'Jacobs, H.'
+'Niewa, R.'
+_cell_length_a 13.810(8)
+_cell_length_b 10.983(1)
+_cell_length_c 6.395(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 117.48(3)
+_cell_angle_gamma 90.
+_cell_volume 860.52
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.051
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 a 0 0.23762(3) 0 . 1. 0
+W2 W6+ 4 a 0.25013(5) 0.25058(5) 0.5688(1) . 1. 0
+Na1 Na1+ 4 a 0.4929(8) 0.2191(8) 0.020(2) 2.0(1) 1. 0
+Na2 Na1+ 4 a 0.3784(8) 0.0170(7) 0.564(1) 1.4(1) 1. 0
+Na3 Na1+ 4 a 0.6250(7) 0.0170(7) 0.815(1) 1.20(9) 1. 0
+Na4 Na1+ 4 a 0.237(1) 0.248(1) 0.029(2) 3.6(2) 1. 0
+Na5 Na1+ 4 a 0.6166(8) 0.526(1) 0.629(2) 2.3(2) 1. 0
+Na6 Na1+ 4 a 0.367(1) 0.487(1) 0.135(2) 3.6(2) 1. 0
+N1 N3- 4 a 0.002(1) 0.394(1) 0.900(3) 1.5(2) 1. 0
+N2 N3- 4 a 0.031(2) 0.127(2) 0.840(5) 3.2(4) 1. 0
+N3 N3- 4 a 0.246(1) 0.390(2) 0.747(3) 1.9(3) 1. 0
+N4 N3- 4 a 0.292(1) 0.128(2) 0.787(3) 1.5(2) 1. 0
+N5 N3- 4 a 0.603(2) 0.281(2) 0.823(2) 2.3(3) 1. 0
+N6 N3- 4 a 0.354(2) 0.293(2) 0.454(3) 3.3(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00550(8) 0.00113(7) 0.0070(1) 0.0000(1) 0.00209(7) -.0003(1)
+W2 W6+ 0.0104(1) 0.0097(1) 0.0097(1) 0.0026(1) 0.0045(1) 0.0013(1)
+#End of TTdata_75364-ICSD

@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195586-ICSD
+_database_code_ICSD 195586
+_audit_creation_date 2016-02-01
+_chemical_name_systematic
+'Sodium bis(tetramethylammonium) ruthenium hexakis(azide)'
+_chemical_formula_structural 'Na ((C H3)4 N)2 (Ru (N3)6)'
+_chemical_formula_sum 'C8 H24 N20 Na1 Ru1'
+_chemical_name_structure_type CsVP4O12
+_exptl_crystal_density_diffrn 1.64
+_cell_measurement_temperature 295.
+_publ_section_title
+'Synthesis and characterization of nitrogen rich ruthenium complexes'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganica Chimica Acta' 2014 421 228 232 ICHAA3
+loop_
+_publ_author_name
+'Halevi, Oded'
+'Bogoslavsky, Benny'
+'Grinstein, Dan'
+'Tibika-Apfelbaum, Francoise'
+'Bino, Avi'
+_cell_length_a 12.8563(6)
+_cell_length_b 12.8563(6)
+_cell_length_c 12.8563(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2124.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P a -3'
+_symmetry_Int_Tables_number 205
+_refine_ls_R_factor_all 0.0553
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, x+1/2, y'
+2 'z+1/2, x, -y+1/2'
+3 'z, -x+1/2, y+1/2'
+4 '-z, -x, -y'
+5 'y, -z+1/2, x+1/2'
+6 '-y+1/2, z+1/2, x'
+7 'y+1/2, z, -x+1/2'
+8 '-y, -z, -x'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x, -y, -z'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru3+ 3
+N0+ -0.333
+C4+ 4
+N3- -3
+C4+ 4
+H1- -1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ru1 Ru3+ 4 a 0.5 0.5 0. 0.02292(19) 1 0
+N1 N0+ 24 d 0.7242(2) 0.4812(2) 0.0335(2) 0.0297(7) 1 0
+N2 N0+ 24 d 0.6419(2) 0.4392(3) 0.0446(3) 0.0375(8) 1 0
+N3 N0+ 24 d 0.8069(3) 0.5159(3) 0.0270(3) 0.0452(9) 1 0
+C1 C4+ 8 c 0.7054(4) 0.7946(4) 0.2054(4) 0.056(2) 1 0
+N4 N3- 8 c 0.7715(2) 0.7285(2) 0.2715(2) 0.0259(11) 1 0
+C2 C4+ 24 d 0.7201(5) 0.6254(4) 0.2862(5) 0.0543(13) 1 0
+H1 H1- 24 d 0.704(5) 0.599(5) 0.213(5) 0.083(19) 1 0
+H2 H1- 24 d 0.652(4) 0.639(4) 0.328(4) 0.066(17) 1 0
+H3 H1- 24 d 0.768(5) 0.586(5) 0.326(5) 0.09(2) 1 0
+H4 H1- 24 d 0.740(5) 0.862(4) 0.202(5) 0.09(2) 1 0
+Na1 Na1+ 4 b 1. 0.5 0. 0.0324(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ru1 Ru3+ 0.02292(19) 0.02292(19) 0.02292(19) -0.00222(15) -0.00222(15)
+0.00222(15)
+N1 N0+ 0.0305(17) 0.0277(16) 0.0309(15) 0.0054(13) -0.0025(12) -0.0016(12)
+N2 N0+ 0.0227(16) 0.0373(18) 0.053(2) -0.0014(14) -0.0057(15) 0.0116(16)
+N3 N0+ 0.0279(17) 0.052(2) 0.056(2) -0.0051(16) -0.0009(16) 0.0037(18)
+C1 C4+ 0.056(2) 0.056(2) 0.056(2) 0.009(2) -0.009(2) 0.009(2)
+N4 N3- 0.0259(11) 0.0259(11) 0.0259(11) 0.0000(11) 0.0000(11) 0.0000(11)
+C2 C4+ 0.067(4) 0.039(3) 0.056(3) -0.018(2) 0.005(3) 0.006(2)
+Na1 Na1+ 0.0324(8) 0.0324(8) 0.0324(8) -0.0020(9) 0.0020(9) 0.0020(9)
+#End of TTdata_195586-ICSD

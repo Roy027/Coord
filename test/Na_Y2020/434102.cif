@@ -1,0 +1,128 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_434102-ICSD
+_database_code_ICSD 434102
+_audit_creation_date 2018-08-01
+_chemical_name_systematic
+'Tetrasodium bis(Yttrium-0.95 europium-0.05) tridecooxo-tetragermanate'
+_chemical_formula_structural 'Na4 ((Y0.95 Eu0.05)2 Ge4 O13)'
+_chemical_formula_sum 'Eu0.1 Ge4 Na4 O13 Y1.9'
+_chemical_name_structure_type Na4Sc2Ge4O13
+_exptl_crystal_density_diffrn 4.09
+_cell_measurement_temperature 150.
+_publ_section_title
+'Rare-earth germanate visible, near-infrared, and up-conversion emitters'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2018 2018 2444 2451 EJICFO
+loop_
+_publ_author_name
+'Ananias, Duarte'
+'Almeida Paz, Filipe A.'
+'Carlos, Luis D.'
+'Rocha, Joao'
+_cell_length_a 14.7595(7)
+_cell_length_b 5.5203(3)
+_cell_length_c 15.4331(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1257.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.0193
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Eu3+ 3
+Y3+ 3
+Eu3+ 3
+Ge4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 a 0.07937(4) 0.34674(8) 0.32517(3) 0.00416(11) 0.95 0
+Eu1 Eu3+ 4 a 0.07937(4) 0.34674(8) 0.32517(3) 0.00416(11) 0.05 0
+Y2 Y3+ 4 a 0.17172(4) 0.18283(8) 0.11946(3) 0.00443(11) 0.95 0
+Eu2 Eu3+ 4 a 0.17172(4) 0.18283(8) 0.11946(3) 0.00443(11) 0.05 0
+Ge1 Ge4+ 4 a 0.19313(5) 0.83745(9) 0.42471(4) 0.00438(12) 1 0
+Ge2 Ge4+ 4 a 0.27462(4) 0.67568(9) 0.24492(4) 0.00401(13) 1 0
+Ge3 Ge4+ 4 a 0.47703(4) 0.66083(9) 0.19768(4) 0.00412(12) 1 0
+Ge4 Ge4+ 4 a 0.55820(4) 0.81572(9) 0.01831(4) 0.00408(12) 1 0
+O1 O2- 4 a 0.0969(3) 0.6743(6) 0.4015(3) 0.0104(9) 1 0
+O2 O2- 4 a 0.2168(3) 0.8036(7) 0.5346(3) 0.0088(9) 1 0
+O3 O2- 4 a 0.1868(3) 1.1415(7) 0.3970(3) 0.0089(9) 1 0
+O4 O2- 4 a 0.2874(3) 0.7309(7) 0.3586(3) 0.0075(9) 1 0
+O5 O2- 4 a 0.1885(3) 0.4701(7) 0.2267(3) 0.0060(8) 1 0
+O6 O2- 4 a 0.2790(3) 0.9432(6) 0.1871(3) 0.0059(7) 1 0
+O7 O2- 4 a 0.3748(3) 0.5005(6) 0.2227(3) 0.0064(6) 1 0
+O8 O2- 4 a 0.4749(3) 0.9281(7) 0.2539(3) 0.0101(8) 1 0
+O9 O2- 4 a 0.5595(3) 0.4416(6) 0.2157(3) 0.0065(8) 1 0
+O10 O2- 4 a 0.4632(3) 0.7162(7) 0.0839(3) 0.0073(9) 1 0
+O11 O2- 4 a 0.5657(3) 1.1223(6) 0.0414(3) 0.0074(8) 1 0
+O12 O2- 4 a 0.5353(3) 0.7480(7) -0.0892(3) 0.0061(9) 1 0
+O13 O2- 4 a 0.6520(3) 0.6507(6) 0.0468(3) 0.0102(9) 1 0
+Na1 Na1+ 4 a -0.05391(19) 0.8179(4) 0.40966(19) 0.0109(5) 1 0
+Na2 Na1+ 4 a 0.19756(18) 0.2600(4) 0.53932(19) 0.0114(6) 1 0
+Na3 Na1+ 4 a 0.33610(18) 0.1684(4) 0.31883(18) 0.0110(5) 1 0
+Na4 Na1+ 4 a 0.41880(19) 0.1760(4) 0.1173(2) 0.0145(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0031(2) 0.0057(2) 0.0036(3) -0.00004(16) 0.0001(2) -0.00020(18)
+Eu1 Eu3+ 0.0031(2) 0.0057(2) 0.0036(3) -0.00004(16) 0.0001(2) -0.00020(18)
+Y2 Y3+ 0.0037(2) 0.0059(2) 0.0038(3) -0.00025(15) 0.0003(2) -0.00018(18)
+Eu2 Eu3+ 0.0037(2) 0.0059(2) 0.0038(3) -0.00025(15) 0.0003(2) -0.00018(18)
+Ge1 Ge4+ 0.0042(3) 0.0050(2) 0.0040(3) 0.00014(19) -0.0003(2) 0.0002(2)
+Ge2 Ge4+ 0.0037(3) 0.0046(3) 0.0037(3) -0.00034(19) 0.0005(2) 0.0000(2)
+Ge3 Ge4+ 0.0038(3) 0.0051(3) 0.0035(3) 0.00016(18) 0.0003(2) 0.0000(2)
+Ge4 Ge4+ 0.0036(3) 0.0055(2) 0.0031(3) -0.00001(19) -0.0004(2) 0.0005(2)
+O1 O2- 0.005(2) 0.0129(19) 0.013(3) -0.0019(15) 0.0027(19) -0.0078(15)
+O2 O2- 0.009(2) 0.0136(18) 0.004(2) 0.0015(14) -0.0008(18) 0.0002(16)
+O3 O2- 0.010(2) 0.0085(17) 0.008(2) -0.0023(15) -0.0001(17) 0.0014(15)
+O4 O2- 0.003(2) 0.0113(19) 0.008(3) 0.0006(14) 0.0034(19) -0.0012(16)
+O5 O2- 0.0032(17) 0.0091(17) 0.006(2) -0.0016(14) 0.0016(15) 0.0003(14)
+O6 O2- 0.0060(18) 0.0059(15) 0.006(2) -0.0004(13) -0.0012(15) -0.0006(15)
+O7 O2- 0.0040(15) 0.0064(14) 0.0086(17) 0.0002(14) 0.0020(13) 0.0002(15)
+O8 O2- 0.009(2) 0.0111(18) 0.011(2) 0.0001(15) -0.0010(17) -0.0074(17)
+O9 O2- 0.0055(18) 0.0068(16) 0.007(2) 0.0035(14) 0.0014(16) 0.0012(15)
+O10 O2- 0.008(2) 0.0098(17) 0.005(2) -0.0012(14) -0.0006(19) 0.0022(15)
+O11 O2- 0.0113(19) 0.0051(15) 0.006(2) -0.0012(14) -0.0027(17) -0.0013(15)
+O12 O2- 0.005(2) 0.0106(17) 0.003(2) 0.0021(14) -0.0003(18) -0.0003(14)
+O13 O2- 0.005(2) 0.0134(19) 0.012(3) -0.0004(14) -0.0031(19) 0.0028(16)
+Na1 Na1+ 0.0111(14) 0.0107(10) 0.0109(14) -0.0001(8) 0.0012(12) 0.0036(9)
+Na2 Na1+ 0.0072(13) 0.0168(11) 0.0101(15) -0.0023(9) 0.0009(11) -0.0044(9)
+Na3 Na1+ 0.0114(13) 0.0110(11) 0.0107(14) -0.0040(8) -0.0020(12) 0.0034(9)
+Na4 Na1+ 0.0118(14) 0.0133(12) 0.0186(16) 0.0015(8) 0.0008(13) -0.0051(10)
+#End of TTdata_434102-ICSD

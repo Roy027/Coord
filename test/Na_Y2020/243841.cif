@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243841-ICSD
+_database_code_ICSD 243841
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Disodium triiron tris(phosphate(V))'
+_chemical_formula_structural 'Na2 Fe3 (P O4)3'
+_chemical_formula_sum 'Fe3 Na2 O12 P3'
+_chemical_name_structure_type Alluaudite
+_exptl_crystal_density_diffrn 4.03
+_publ_section_title
+'Polyanionic solid-solution cathodes for rechargeable batteries'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2017 29 3597 3602 CMATEX
+loop_
+_publ_author_name
+'Lu, Jiechen'
+'Nishimura, Shin-ichi'
+'Yamada, Atsuo'
+_cell_length_a 11.8877(2)
+_cell_length_b 12.5609(2)
+_cell_length_c 6.0575(1)
+_cell_angle_alpha 90
+_cell_angle_beta 114.6077(6)
+_cell_angle_gamma 90
+_cell_volume 822.36
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0204
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2.33
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 e 0 0.73039 0.25 0.59 1. 0
+Fe2 Fe2+ 8 f 0.27916 0.34301 0.36639 0.59 1. 0
+Na1 Na1+ 4 b 0 0.5 0 5.75 1. 0
+Na2 Na1+ 4 e 0 0.01661 0.25 4.98 1. 0
+P1 P5+ 4 e 0 0.29076 0.25 0.66 1. 0
+P2 P5+ 8 f 0.23451 0.10808 0.12069 0.96 1. 0
+O1 O2- 8 f 0.10519 0.36562 0.24675 1.43 1. 0
+O2 O2- 8 f 0.04147 0.2186 0.46782 0.58 1. 0
+O3 O2- 8 f 0.21921 0.17682 0.31424 0.55 1. 0
+O4 O2- 8 f 0.17519 -0.00247 0.11898 2.27 1. 0
+O5 O2- 8 f 0.37655 0.10041 0.17321 1.59 1. 0
+O6 O2- 8 f 0.34403 0.33936 0.11192 0.96 1. 0
+#End of TTdata_243841-ICSD

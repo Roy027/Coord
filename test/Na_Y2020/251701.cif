@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251701-ICSD
+_database_code_ICSD 251701
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium-4.33 dodecaoxopentatitanate'
+_chemical_formula_structural 'Na4.33 Ti5 O12'
+_chemical_formula_sum 'Na4.33 O12 Ti5'
+_exptl_crystal_density_diffrn 3.57
+_publ_section_title
+
+;
+Synthetic, structural, and electrochemical study of monoclinic Na4 Ti5 O12 as
+a sodium-ion battery anode material
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2014 26 7067 7072 CMATEX
+loop_
+_publ_author_name
+'Naeyaert, Pierre J.P.'
+'Avdeev, Maxim'
+'Sharma, Neeraj'
+'Yahia, Hamdi Ben'
+'Ling, Chris D.'
+_cell_length_a 26.5471(8)
+_cell_length_b 2.95241(7)
+_cell_length_c 6.33496(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.7640(22)
+_cell_angle_gamma 90.
+_cell_volume 494.01
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0439
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 2 a 0. 0. 0. 0.0041(7) 1. 0
+Ti2 Ti4+ 4 i 0.70670(27) 0.5 0.0909(11) 0.0041(7) 1. 0
+Ti3 Ti4+ 4 i 0.59666(24) 0. 0.8337(10) 0.0041(7) 1. 0
+Na1 Na1+ 4 i 0.80729(25) 0. 0.4096(11) 0.0075(19) 0.955(23) 0
+Na2 Na1+ 4 i 0.5974(5) 0.5 0.3251(21) 0.0262(34) 0.668(26) 0
+Na3 Na1+ 4 i 0.9497(10) 0. 0.582(4) 0.0262(34) 0.315(21) 0
+Na4 Na1+ 2 d 0.5 0. 0.5 0.021(8) 0.45(4) 0
+O1 O2- 4 i 0.70319(15) 0. 0.2854(7) 0.00846(27) 1. 0
+O2 O2- 4 i 0.78080(20) 0.5 0.1194(6) 0.00846(27) 1. 0
+O3 O2- 4 i 0.54234(16) 0. 0.1250(7) 0.00846(27) 1. 0
+O4 O2- 4 i 0.63339(15) 0.5 0.9880(7) 0.00846(27) 1. 0
+O5 O2- 4 i 0.95561(15) 0. 0.2258(7) 0.00846(27) 1. 0
+O6 O2- 4 i 0.38014(16) 0. 0.4044(7) 0.00846(27) 1. 0
+#End of TTdata_251701-ICSD

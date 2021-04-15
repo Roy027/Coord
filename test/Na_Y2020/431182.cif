@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431182-ICSD
+_database_code_ICSD 431182
+_audit_creation_date 2016-08-01
+_chemical_name_systematic
+'Pentasodium tetrapraseodymium fluoride tetragermanate'
+_chemical_formula_structural 'Na5 Pr4 F (Ge O4)4'
+_chemical_formula_sum 'F1 Ge4 Na5 O16 Pr4'
+_exptl_crystal_density_diffrn 4.95
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+A5 RE4 X [T O4]4 crystal growth: Fluoride flux synthesis of Na5 Ln4 F [Ge O4]4
+(Ln=Pr, Nd), the first quaternary germanate oxyfluorides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 239 200 203 JSSCBI
+loop_
+_publ_author_name
+'Latshaw, Allison M.'
+'Wilkins, Branford O.'
+'Morrison, Gregory'
+'Smith, Mark D.'
+'zur Loye, Hans-Conrad'
+_cell_length_a 12.1173(4)
+_cell_length_b 12.1173(4)
+_cell_length_c 5.6795(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 833.91
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.0116
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pr3+ 3
+Ge4+ 4
+Na1+ 1
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pr1 Pr3+ 8 g 0.38488(2) 0.81733(2) 0.77359(2) 0.00793(3) 1 0
+Ge1 Ge4+ 8 g 0.60255(2) 0.75246(2) 0.26012(4) 0.00765(4) 1 0
+Na1 Na1+ 8 g 0.60409(8) 0.41242(8) 0.2319(2) 0.0221(2) 1 0
+Na2 Na1+ 2 d 0.5 1. 0.25 0.0316(6) 1 0
+F1 F1- 2 c 0.5 1. 0.75 0.0172(6) 1 0
+O1 O2- 8 g 0.60643(13) 0.60950(13) 0.2211(3) 0.0146(3) 1 0
+O2 O2- 8 g 0.54636(15) 0.82209(17) 0.0207(3) 0.0131(3) 1 0
+O3 O2- 8 g 0.53450(16) 0.78829(16) 0.5205(3) 0.0149(4) 1 0
+O4 O2- 8 g 0.73876(13) 0.79610(13) 0.3230(3) 0.0113(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pr1 Pr3+ 0.00693(5) 0.00778(5) 0.00909(4) 0.00030(4) 0.00028(4) 0.00004(4)
+Ge1 Ge4+ 0.00777(9) 0.00806(9) 0.00712(9) 0.00044(7) -0.00003(8) -0.00031(8)
+Na1 Na1+ 0.0182(5) 0.0158(4) 0.0321(6) 0.0010(4) -0.0022(5) -0.0015(5)
+Na2 Na1+ 0.0196(6) 0.0196(6) 0.0557(17) 0. 0. 0.
+F1 F1- 0.0121(7) 0.0121(7) 0.0273(16) 0. 0. 0.
+O1 O2- 0.0142(7) 0.0081(6) 0.0215(8) -0.0010(5) 0.0009(7) -0.0012(7)
+O2 O2- 0.0111(8) 0.0182(9) 0.0100(7) -0.0015(7) -0.0013(6) 0.0048(6)
+O3 O2- 0.0114(8) 0.0221(10) 0.0112(7) -0.0017(7) 0.0024(6) -0.0061(6)
+O4 O2- 0.0087(7) 0.0119(7) 0.0134(7) -0.0010(6) -0.0004(6) -0.0019(6)
+#End of TTdata_431182-ICSD

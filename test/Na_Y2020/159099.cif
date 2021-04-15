@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_159099-ICSD
+_database_code_ICSD 159099
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium terbium manganese tungstate'
+_chemical_formula_structural 'Na Tb Mn (W O6)'
+_chemical_formula_sum 'Mn1 Na1 O6 Tb1 W1'
+_chemical_name_structure_type Ca3UO6
+_exptl_crystal_density_diffrn 7.15
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis and characterization of new A A' B W O6 perovskites exhibiting
+simultaneous ordering of A-site and B-site cations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2007 19 6451 6458 CMATEX
+loop_
+_publ_author_name
+'King, G.'
+'Thimmaiah, S.'
+'Dwivedi, A.'
+'Woodward, P.M.'
+_cell_length_a 5.4246(1)
+_cell_length_b 5.5834(1)
+_cell_length_c 7.9238(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.36(0)
+_cell_angle_gamma 90.
+_cell_volume 239.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.0549
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Tb3+ 3
+Mn2+ 2
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.2493(17) 0.1946(13) 0.0000(12) 0.0234(20) 1. 0
+Tb1 Tb3+ 2 a 0.2631(6) 0.2858(7) 0.5008(5) 0.0036(6) 1. 0
+Mn1 Mn2+ 2 a 0.7504(17) 0.2371(15) 0.2435(10) 0.0075(12) 1. 0
+W1 W6+ 2 a 0.7614(12) 0.2256(11) 0.7620(7) 0.0054(9) 1. 0
+O1 O2- 2 a 0.5644(9) 0.4967(8) 0.6830(6) 0.0089(11) 1. 0
+O2 O2- 2 a 0.5281(9) 0.5327(10) 0.3161(5) 0.0104(10) 1. 0
+O3 O2- 2 a -0.0520(9) -0.1037(9) 0.2237(6) 0.0155(10) 1. 0
+O4 O2- 2 a -0.0855(9) -0.0762(9) 0.7857(6) 0.0127(11) 1. 0
+O5 O2- 2 a 0.8553(9) 0.1877(8) 0.5067(6) 0.0072(8) 1. 0
+O6 O2- 2 a 0.6680(8) 0.2553(9) -0.0193(6) 0.0101(10) 1. 0
+#End of TTdata_159099-ICSD

@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_70119-ICSD
+_database_code_ICSD 70119
+_audit_creation_date 1997-11-10
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Sodium sulfate(VI) carbonate (4/1.39/0.61)'
+_chemical_formula_structural 'Na4 ((S O4)1.39 (C O3)0.61)'
+_chemical_formula_sum 'C0.61 Na4 O7.39 S1.39'
+_chemical_name_structure_type Na4(SO4)2-x(CO3)x
+_chemical_name_mineral Burkeite
+_exptl_crystal_density_diffrn 2.59
+_publ_section_title 'The crystal structure of synthetic burkeite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie, Monatshefte' 1988 1988 203 221 NJMMAW
+loop_
+_publ_author_name
+'Giuseppetti, G.'
+'Mazzi, F.'
+'Tadini, C.'
+_cell_length_a 5.170(1)
+_cell_length_b 9.217(2)
+_cell_length_c 7.058(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 336.33
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n m Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.049
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C4+ 4
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0.25 0.7509(2) 0.0051(3) 2.24(4) 1. 0
+Na2 Na1+ 2 a 0.25 0.4254(3) 0.25 5.46(11) 1. 0
+Na3 Na1+ 2 b 0.75 0.8754(2) 0.25 2.19(5) 1. 0
+C1 C4+ 2 b 0.75 0.5584(3) 0.25 1.61(5) 0.61(1) 0
+S1 S6+ 2 b 0.75 0.5584(3) 0.25 1.61(5) 0.39 0
+S2 S6+ 4 e 0.2951(4) 0.0913(2) 0.25 1.16(6) 0.5 0
+O1 O2- 2 b 0.75 0.4226(5) 0.25 3.8(2) 0.85(2) 0
+O2 O2- 4 e 0.5357(7) 0.6403(4) 0.25 2.9(1) 0.88 0
+O3 O2- 4 f 0.75 0.4693(24) 0.0819(36) 5.5(9) 0.15 0
+O4 O2- 8 g 0.9307(38) 0.5809(27) 0.0951(33) 6.0(7) 0.12 0
+O5 O2- 8 g 0.1927(8) 0.1645(4) 0.0815(5) 2.5(1) 0.5 0
+O6 O2- 4 e 0.2164(34) -.0632(4) 0.25 1.5(3) 0.5 0
+O7 O2- 4 e 0.5798(10) 0.1057(6) 0.25 2.2(1) 0.5 0
+#End of TTdata_70119-ICSD

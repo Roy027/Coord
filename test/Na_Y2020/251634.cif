@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251634-ICSD
+_database_code_ICSD 251634
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium erbium tellurium boron oxide (2/2/1/2/10)'
+_chemical_formula_structural 'Na2 Er2 Te B2 O10'
+_chemical_formula_sum 'B2 Er2 Na2 O10 Te1'
+_chemical_name_structure_type Na2Y2TeB2O10
+_exptl_crystal_density_diffrn 5.64
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Na2 RE2 Te O4 (B O3)2 (RE = Y, Dy-Lu): luminescent and structural studies on a
+series of mixed metal borotellurates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 2447 2454 INOCAJ
+loop_
+_publ_author_name
+'Feng, Jiang-He'
+'Hu, Chun-Li'
+'Xu, Xiang'
+'Kong, Fang'
+'Mao, Jiang-Gao'
+_cell_length_a 6.2964(5)
+_cell_length_b 9.9056(7)
+_cell_length_c 6.7089(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.110(8)
+_cell_angle_gamma 90.
+_cell_volume 405.8
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0273
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Er3+ 3
+Te6+ 6
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Er1 Er3+ 4 e 0.12689(6) 0.83354(4) 0.02387(6) 0.0056(2) 1 0
+Te1 Te6+ 2 c 0. 0.5 0. 0.0049(2) 1 0
+Na1 Na1+ 4 e -0.4148(7) 0.6106(4) 0.1662(6) 0.0183(9) 1 0
+O1 O2- 4 e 0.4786(11) 0.8290(5) 0.0546(9) 0.0081(14) 1 0
+O2 O2- 4 e -0.0038(10) 0.6493(5) 0.1787(9) 0.0064(13) 1 0
+O3 O2- 4 e 0.2866(11) 0.4383(6) 0.1629(9) 0.0090(14) 1 0
+O4 O2- 4 e -0.1995(11) 0.9375(6) 0.0078(9) 0.0083(14) 1 0
+O5 O2- 4 e -0.1602(10) 0.3847(6) 0.1346(9) 0.0077(13) 1 0
+B1 B3+ 4 e 0.3357(17) 0.3990(10) 0.3734(14) 0.005(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Er1 Er3+ 0.0060(3) 0.0037(3) 0.0059(3) -0.00029(14) -0.00119(17) -0.00021(14)
+Te1 Te6+ 0.0054(5) 0.0028(4) 0.0051(4) -0.0004(3) -0.0016(3) -0.0002(3)
+Na1 Na1+ 0.019(2) 0.0118(17) 0.023(2) 0.0018(17) 0.0028(18) 0.0030(17)
+O1 O2- 0.008(3) 0.005(3) 0.009(3) -0.005(2) -0.001(3) -0.001(2)
+O2 O2- 0.006(3) 0.003(3) 0.008(3) 0.000(2) 0.000(3) 0.004(2)
+O3 O2- 0.007(2) 0.010(2) 0.008(2) 0.003(2) -0.002(2) 0.003(2)
+O4 O2- 0.008(4) 0.009(3) 0.006(3) -0.003(3) -0.003(3) 0.000(2)
+O5 O2- 0.006(3) 0.005(3) 0.011(3) -0.001(3) 0.000(3) 0.002(3)
+B1 B3+ 0.005(3) 0.005(3) 0.004(3) -0.002(2) -0.001(2) -0.001(2)
+#End of TTdata_251634-ICSD

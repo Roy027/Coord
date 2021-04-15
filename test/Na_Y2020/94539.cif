@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94539-ICSD
+_database_code_ICSD 94539
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Nonacalcium manganese sodium heptakis(phosphate(V))'
+_chemical_formula_structural 'Ca9 Mn Na (P O4)7'
+_chemical_formula_sum 'Ca9 Mn1 Na1 O28 P7'
+_chemical_name_structure_type Ca9MgNa(PO4)7
+_exptl_crystal_density_diffrn 3.18
+_publ_section_title
+
+;
+Synthesis, structure and luminescence properties of Ca9 Mn M (P O4)7 (M = Li,
+Na, K)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 2001 46 885 892 ZNOKAQ
+loop_
+_publ_author_name
+'Belik, A.A.'
+'Gutan, V.B.'
+'Ivanov, L.N.'
+'Lazoryak, B.I.'
+_cell_length_a 10.3764(2)
+_cell_length_b 10.3764(2)
+_cell_length_c 37.079(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 3457.42
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R 3 c H'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.0135
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z+1/2'
+2 'x, x-y, z+1/2'
+3 '-y, -x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+5/6'
+8 'x+2/3, x-y+1/3, z+5/6'
+9 '-y+2/3, -x+1/3, z+5/6'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+1/6'
+14 'x+1/3, x-y+2/3, z+1/6'
+15 '-y+1/3, -x+2/3, z+1/6'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+Mn2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 18 b 0.7280(3) 0.8578(4) 0.4325(1) 0.60(6) 1. 0
+Ca2 Ca2+ 18 b 0.6160(3) 0.8228(4) 0.2316(1) 0.08(7) 1. 0
+Ca3 Ca2+ 18 b 0.1194(3) 0.2662(2) 0.3254(1) 0.63(6) 1. 0
+Na1 Na1+ 6 a 0 0 0.1851(3) 2.6(2) 1. 0
+Mn1 Mn2+ 6 a 0 0 0 0.45(6) 1. 0
+P1 P5+ 6 a 0 0 0.2659(2) 1.4(1) 1. 0
+P2 P5+ 18 b 0.6872(4) 0.8583(5) 0.1353(2) 0.5(1) 1. 0
+P3 P5+ 18 b 0.6534(5) 0.8479(5) 0.0318(2) 0.8(1) 1. 0
+O1 O2- 6 a 0 0 0.3088(4) 0.26(5) 1. 0
+O2 O2- 18 b 0.0107(9) 0.8643(6) 0.2519(3) 0.26(5) 1. 0
+O3 O2- 18 b 0.7511(8) 0.9285(6) 0.1746(3) 0.26(5) 1. 0
+O4 O2- 18 b 0.765(1) 0.774(1) 0.1220(3) 0.26(5) 1. 0
+O5 O2- 18 b 0.729(1) 0.0046(9) 0.1126(3) 0.26(5) 1. 0
+O6 O2- 18 b 0.5205(9) 0.771(1) 0.1314(3) 0.26(5) 1. 0
+O7 O2- 18 b 0.608(1) 0.957(1) 0.0456(3) 0.26(5) 1. 0
+O8 O2- 18 b 0.5698(9) 0.6921(9) 0.0525(3) 0.26(5) 1. 0
+O9 O2- 18 b 0.8237(9) 0.921(1) 0.0403(3) 0.26(5) 1. 0
+O10 O2- 18 b 0.6197(6) 0.8222(9) 0.9920(2) 0.26(5) 1. 0
+#End of TTdata_94539-ICSD

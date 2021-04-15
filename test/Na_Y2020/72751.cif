@@ -1,0 +1,74 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72751-ICSD
+_database_code_ICSD 72751
+_audit_creation_date 1994-01-19
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium palladium diphosphate(V)'
+_chemical_formula_structural 'Na2 Pd (P2 O7)'
+_chemical_formula_sum 'Na2 O7 P2 Pd1'
+_chemical_name_structure_type Na2PdP2O7
+_exptl_crystal_density_diffrn 3.48
+_publ_section_title
+'Structure determination of Na2 Pd P2 O7 from X-ray powder diffraction'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1992 29 83 94
+EJSCE5
+loop_
+_publ_author_name
+'Laligant, Y.'
+_cell_length_a 14.693(3)
+_cell_length_b 5.8551(4)
+_cell_length_c 7.922(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.11(2)
+_cell_angle_gamma 90.
+_cell_volume 622.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pd2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pd1 Pd2+ 4 a 0 0 0 0.79(2) 1. 0
+P1 P5+ 8 f 0.1058(2) 0.3456(5) 0.8418(5) 0.85(7) 1. 0
+Na1 Na1+ 8 f 0.2265(3) 0.8651(7) 0.8012(6) 1.2(1) 1. 0
+O1 O2- 8 f 0.8124(4) 0.5168(13) 0.6029(8) 1.8(2) 1. 0
+O2 O2- 4 e 0 0.4801(19) 0.75 1.7(2) 1. 0
+O3 O2- 8 f 0.8877(5) 0.1800(12) 0.8067(10) 1.9(2) 1. 0
+O4 O2- 8 f 0.6066(5) 0.2821(14) 0.5177(9) 2.0(2) 1. 0
+#End of TTdata_72751-ICSD

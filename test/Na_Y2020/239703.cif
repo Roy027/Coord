@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239703-ICSD
+_database_code_ICSD 239703
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Digallium disodium tin hexasulfide'
+_chemical_formula_structural 'Ga2 Na2 Sn S6'
+_chemical_formula_sum 'Ga2 Na2 S6 Sn1'
+_exptl_crystal_density_diffrn 3.07
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Syntheses and structural characterization of non-centrosymmetric Na2 M2 M'S6
+(M, M'=Ga, In, Si, Ge, Sn, Zn, Cd) sulfides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 238 147 155 JSSCBI
+loop_
+_publ_author_name
+'Yohannan, Jinu P.'
+'Vidyasagar, Kanamaluru'
+_cell_length_a 12.7376(13)
+_cell_length_b 23.142(2)
+_cell_length_c 7.2822(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2146.59
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.0405
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Sn4+ 4
+Ga3+ 3
+Sn4+ 4
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 16 b 0.11767(6) 0.11453(3) 0.69190(11) 0.0160(2) 0.67 0
+Sn1 Sn4+ 16 b 0.11767(6) 0.11453(3) 0.69190(11) 0.0160(2) 0.33 0
+Ga2 Ga3+ 8 a 0. 0. 0.4133(2) 0.0236(3) 0.67 0
+Sn2 Sn4+ 8 a 0. 0. 0.4133(2) 0.0236(3) 0.33 0
+S1 S2- 16 b 0.2059(2) 0.17259(9) 0.4830(4) 0.0238(6) 1 0
+S2 S2- 16 b 0.1926(2) 0.11325(10) 0.9853(4) 0.0252(6) 1 0
+S3 S2- 16 b 0.14432(19) 0.02013(9) 0.5922(4) 0.0250(6) 1 0
+Na1 Na1+ 16 b 0.0802(4) 0.2017(2) 0.1628(8) 0.0658(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0115(3) 0.0161(3) 0.0204(4) -0.0012(3) -0.0018(4) -0.0017(4)
+Sn1 Sn4+ 0.0115(3) 0.0161(3) 0.0204(4) -0.0012(3) -0.0018(4) -0.0017(4)
+Ga2 Ga3+ 0.0240(6) 0.0194(5) 0.0273(8) -0.0010(5) 0. 0.
+Sn2 Sn4+ 0.0240(6) 0.0194(5) 0.0273(8) -0.0010(5) 0. 0.
+S1 S2- 0.0266(13) 0.0228(11) 0.0220(14) -0.0020(9) 0.0050(11) -0.0032(10)
+S2 S2- 0.0181(12) 0.0339(12) 0.0234(14) -0.0002(10) 0.0002(12) 0.0046(11)
+S3 S2- 0.0213(12) 0.0166(10) 0.0372(16) 0.0003(10) -0.0076(12) -0.0031(11)
+Na1 Na1+ 0.057(3) 0.105(4) 0.036(3) 0.042(3) 0.012(3) 0.013(3)
+#End of TTdata_239703-ICSD

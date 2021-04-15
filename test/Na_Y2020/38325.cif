@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38325-ICSD
+_database_code_ICSD 38325
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Sodium tripotassium hexaoxodithorate'
+_chemical_formula_structural 'Na K3 Th2 O6'
+_chemical_formula_sum 'K3 Na1 O6 Th2'
+_chemical_name_structure_type Li2SnO3
+_exptl_crystal_density_diffrn 5.46
+_publ_section_title 'Zur Kenntnis von K3 Na Th2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+509 127 137 ZAACAB
+loop_
+_publ_author_name
+'Kroeschell, P.'
+'Hoppe, R.'
+_cell_length_a 6.2964(11)
+_cell_length_b 10.8993(17)
+_cell_length_c 12.5975(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.659(17)
+_cell_angle_gamma 90.
+_cell_volume 852.26
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0767
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Th4+ 4
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Th1 Th4+ 4 e 0 0.4182(1) 0.25 . 1. 0
+Th2 Th4+ 4 e 0 0.7507(1) 0.25 . 1. 0
+K1 K1+ 8 f 0.2675(8) 0.4220(5) 0.0001(4) . 1. 0
+K2 K1+ 4 d 0.25 0.25 0.5 . 1. 0
+Na1 Na1+ 4 e 0 0.1058(12) 0.25 0.0156(28) 1. 0
+O1 O2- 8 f 0.1549(25) 0.9013(19) 0.1515(13) . 1. 0
+O2 O2- 8 f 0.0995(26) 0.5834(16) 0.1516(13) . 1. 0
+O3 O2- 8 f 0.1536(26) 0.2687(15) 0.1518(13) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Th1 Th4+ 0.0064(4) 0.0113(5) 0.0181(5) 0 0.0018(3) 0
+Th2 Th4+ 0.0053(5) 0.0094(5) 0.0176(6) 0 0.0017(4) 0
+K1 K1+ 0.0201(22) 0.0283(27) 0.0215(23) -.0021(29) -.0006(18) 0.0003(34)
+K2 K1+ 0.031(4) 0.0333(43) 0.0270(39) 0.0071(41) 0.0103(32) 0.0125(45)
+O1 O2- 0.0137(70) 0.040(12) 0.0186(71) -.0062(71) -.0007(57) 0.0050(76)
+O2 O2- 0.0240(75) 0.0124(64) 0.0220(69) 0.0071(71) 0.0092(59) 0.0067(70)
+O3 O2- 0.0248(78) 0.0095(74) 0.0202(74) -.0008(60) 0.0008(62) 0.0004(62)
+#End of TTdata_38325-ICSD

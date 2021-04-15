@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23023-ICSD
+_database_code_ICSD 23023
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Disodium titanium dizinc silicon oxide'
+_chemical_formula_structural 'Na2 Ti Zn2 Si O7'
+_chemical_formula_sum 'Na2 O7 Si1 Ti1 Zn2'
+_chemical_name_structure_type Na2TiZn2SiO7
+_exptl_crystal_density_diffrn 3.96
+_publ_section_title 'Crystal structure of Na2 Ti Zn2 Si O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1976 227 856 859 DANKAS
+loop_
+_publ_author_name
+'Sandomirskii, P.A.'
+'Simonov, M.A.'
+'Arakcheeva, A.V.'
+'Belov, N.V.'
+_cell_length_a 20.109(6)
+_cell_length_b 11.715(3)
+_cell_length_c 5.198(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1224.53
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+Zn2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.17186(15) 0.33623(25) 0.24824(60) . 1. 0
+Na2 Na1+ 8 c -.00239(16) 0.32322(24) 0.26880(61) . 1. 0
+Ti1 Ti4+ 8 c 0.33554(6) 0.31652(9) 0.21300(23) . 1. 0
+Zn1 Zn2+ 8 c 0.23940(4) 0.08143(7) 0.25284(14) . 1. 0
+Zn2 Zn2+ 8 c 0.42983(4) 0.07718(7) 0.21225(15) . 1. 0
+Si1 Si4+ 8 c 0.08823(9) 0.07100(14) 0.22074(33) . 1. 0
+O1 O2- 8 c 0.39176(22) 0.20417(38) 0.41499(87) . 1. 0
+O2 O2- 8 c 0.27591(22) 0.43208(42) 0.09731(92) . 1. 0
+O3 O2- 8 c 0.08290(24) 0.44026(39) 0.41021(88) . 1. 0
+O4 O2- 8 c 0.28577(22) 0.19546(41) 0.04602(90) . 1. 0
+O5 O2- 8 c 0.02157(22) 0.12849(38) 0.33281(90) . 1. 0
+O6 O2- 8 c 0.40152(21) 0.44159(37) 0.34771(85) . 1. 0
+O7 O2- 8 c 0.15171(21) 0.14691(36) 0.29652(96) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 1.53(12) 0.98(10) 1.15(12) -.05(10) 0.16(10) 0.17(11)
+Na2 Na1+ 1.47(11) 0.88(10) 1.08(10) 0.00(9) -.13(10) 0.08(10)
+Ti1 Ti4+ 0.43(3) 0.35(3) 0.39(4) 0.00(3) 0.02(4) 0.01(3)
+Zn1 Zn2+ 0.68(3) 0.48(2) 0.55(2) -.02(2) 0.02(2) 0.02(2)
+Zn2 Zn2+ 0.56(3) 0.37(2) 0.44(2) -.01(2) 0.00(2) -.05(3)
+Si1 Si4+ 0.33(5) 0.30(5) 0.38(5) 0.03(6) -.05(5) 0.08(5)
+O1 O2- 0.52(16) 0.53(15) 0.51(15) 0.03(13) 0.11(13) 0.03(13)
+O2 O2- 0.88(17) 0.80(18) 0.89(15) 0.23(15) 0.02(13) -.18(15)
+O3 O2- 1.48(19) 0.64(16) 0.39(14) -.06(16) -.15(14) 0.03(12)
+O4 O2- 0.63(17) 0.76(16) 0.59(15) -.16(14) 0.12(13) -.05(13)
+O5 O2- 0.47(15) 0.53(15) 1.05(17) 0.28(13) 0.16(13) 0.06(13)
+O6 O2- 0.67(15) 0.39(14) 0.40(14) -.06(12) -.13(12) 0.15(11)
+O7 O2- 0.59(15) 0.34(13) 1.18(17) -.20(12) -.08(14) -.09(14)
+#End of TTdata_23023-ICSD

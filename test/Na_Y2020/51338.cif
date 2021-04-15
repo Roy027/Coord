@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51338-ICSD
+_database_code_ICSD 51338
+_audit_creation_date 2002-10-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Disodium fluorotrioxophosphate(V) decahydrate'
+_chemical_formula_structural 'Na2 (P O3 F) (H2 O)10'
+_chemical_formula_sum 'H20 F1 Na2 O13 P1'
+_chemical_name_structure_type Na2SO4(H2O)10
+_exptl_crystal_density_diffrn 1.48
+_cell_measurement_temperature 160.
+_publ_section_title
+
+;
+The synthesis and crystal structures of two new hydrated sodium
+monofluorophosphates: Na H P O3 F.2.5 H2 O(I) and Na2 P O3 F.10 H2 O(II)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2001 156 415 421 JSSCBI
+loop_
+_publ_author_name
+'Prescott, H.A.'
+'Troyanov, S.I.'
+'Kemnitz, E.'
+_cell_length_a 11.380(3)
+_cell_length_b 10.234(2)
+_cell_length_c 13.051(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.49(3)
+_cell_angle_gamma 90.
+_cell_volume 1457.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0276
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P5+ 5
+F1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.76241(5) 0.11186(5) 0.23800(4) 0.0157(1) 1. 0
+Na2 Na1+ 4 e 0.75240(5) 0.24128(5) 0.49222(4) 0.0165(1) 1. 0
+P1 P5+ 4 e 0.25291(3) 0.13984(3) 0.25237(2) 0.01163(9) 1. 0
+F1 F1- 4 e 0.37462(9) 0.21322(8) 0.24354(7) 0.0276(2) 1. 0
+O1 O2- 4 e 0.24389(9) 0.18154(9) 0.36111(7) 0.0199(2) 1. 0
+O2 O2- 4 e 0.28235(9) -.00249(9) 0.24331(7) 0.0215(2) 1. 0
+O3 O2- 4 e 0.1538(1) 0.19442(9) 0.16000(7) 0.0221(2) 1. 0
+O4 O2- 4 e 0.35763(9) 0.4508(1) 0.38699(8) 0.0198(2) 1. 0
+O5 O2- 4 e 0.8857(1) -.0426(1) 0.35763(8) 0.0197(2) 1. 0
+O6 O2- 4 e 0.6478(1) 0.28448(9) 0.12452(8) 0.0176(2) 1. 0
+O7 O2- 4 e 0.8947(1) 0.1169(1) 0.11910(8) 0.0193(2) 1. 0
+O8 O2- 4 e 0.8532(1) 0.28569(9) 0.35744(8) 0.0176(2) 1. 0
+O9 O2- 4 e 0.6232(1) 0.1030(1) 0.35744(8) 0.0219(2) 1. 0
+O10 O2- 4 e 0.3867(1) 0.5761(1) 0.58246(8) 0.0216(2) 1. 0
+O11 O2- 4 e 0.8622(1) 0.4599(1) 0.05455(9) 0.0213(2) 1. 0
+O12 O2- 4 e 0.09907(9) 0.35056(9) 0.44299(8) 0.0187(2) 1. 0
+O13 O2- 4 e 0.3965(1) 0.14856(1) 0.56141(9) 0.0242(2) 1. 0
+H1 H1+ 4 e 0.330(2) 0.383(2) 0.378(1) 0.031(5) 1. 0
+H2 H1+ 4 e 0.354(2) 0.477(2) 0.442(2) 0.055(7) 1. 0
+H3 H1+ 4 e 0.872(2) -.122(2) 0.348(2) 0.033(5) 1. 0
+H4 H1+ 4 e 0.870(2) -.021(2) 0.415(2) 0.018(6) 0.667 0
+H5 H1+ 4 e 0.958(7) -.042(5) 0.377(4) 0.02(1) 0.333 0
+H6 H1+ 4 e 0.671(2) 0.352(2) 0.160(2) 0.040(5) 1. 0
+H7 H1+ 4 e 0.573(2) 0.293(2) 0.098(2) 0.043(6) 1. 0
+H8 H1+ 4 e 0.967(2) 0.140(2) 0.140(2) 0.048(6) 1. 0
+H9 H1+ 4 e 0.898(2) 0.041(2) 0.102(2) 0.041(5) 1. 0
+H10 H1+ 4 e 0.825(2) 0.352(2) 0.330(2) 0.033(5) 1. 0
+H11 H1+ 4 e 0.929(2) 0.302(2) 0.382(2) 0.032(5) 1. 0
+H12 H1+ 4 e 0.558(2) 0.134(2) 0.327(2) 0.045(6) 1. 0
+H13 H1+ 4 e 0.615(2) 0.031(2) 0.375(1) 0.029(5) 1. 0
+H14 H1+ 4 e 0.367(2) 0.544(2) 0.633(2) 0.030(5) 1. 0
+H15 H1+ 4 e 0.459(2) 0.571(2) 0.605(2) 0.052(7) 1. 0
+H16 H1+ 4 e 0.834(2) 0.511(2) 0.085(2) 0.041(6) 1. 0
+H17 H1+ 4 e 0.934(3) 0.459(3) 0.093(2) 0.031(7) 0.667 0
+H18 H1+ 4 e 0.839(5) 0.483(5) -.026(5) 0.03(1) 0.333 0
+H19 H1+ 4 e 0.139(2) 0.295(2) 0.416(1) 0.029(4) 1. 0
+H20 H1+ 4 e 0.118(2) 0.340(2) 0.506(2) 0.035(5) 1. 0
+H21 H1+ 4 e 0.354(2) 0.153(2) 0.499(2) 0.035(5) 1. 0
+H22 H1+ 4 e 0.364(2) 0.196(2) 0.598(2) 0.037(5) 1. 0
+#End of TTdata_51338-ICSD

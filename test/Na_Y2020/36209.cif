@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36209-ICSD
+_database_code_ICSD 36209
+_audit_creation_date 1983-12-31
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Disodium dimanganese sulfide'
+_chemical_formula_structural 'Na2 Mn2 S3'
+_chemical_formula_sum 'Mn2 Na2 S3'
+_chemical_name_structure_type Na2Mn2S3
+_exptl_crystal_density_diffrn 2.75
+_publ_section_title 'Preparation and crystal structure of Na2 Mn2 S3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1983 47 301 3306 JSSCBI
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Boettcher, P.'
+'Bronger, W.'
+_cell_length_a 14.942(2)
+_cell_length_b 13.276(2)
+_cell_length_c 6.851(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.50(1)
+_cell_angle_gamma 90.
+_cell_volume 1216.25
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0.0968(1) 0.9138(1) 0.1173(3) . 1. 0
+Na2 Na1+ 4 e 0 0.7195(2) 0.25 . 1. 0
+Na3 Na1+ 4 e 0 0.4289(2) 0.25 . 1. 0
+Mn1 Mn2+ 8 f 0.2109 0.5751(1) 0.2962(1) . 1. 0
+Mn2 Mn2+ 8 f 0.1849 0.2627 0.2581 . 1. 0
+S1 S2- 8 f 0.1448(1) 0.4243(1) 0.0663(1) . 1. 0
+S2 S2- 8 f 0.1369(1) 0.7188(1) 0.0544(1) . 1. 0
+S3 S2- 8 f 0.1138(1) 0.1139(1) 0.0482(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0358(7) 0.0159(8) 0.0680(9) 0.0015(4) 0.0152(3) 0.0036(5)
+Na2 Na1+ 0.0180(8) 0.023(1) 0.022(9) 0 0.0057(3) 0
+Na3 Na1+ 0.0176(8) 0.022(1) 0.0223(8) 0 0.0053(3) 0
+Mn1 Mn2+ 0.0127(2) 0.0221(2) 0.0156(2) 0.0005(1) 0.0037(1) 0.0000(1)
+Mn2 Mn2+ 0.0139(2) 0.0122(2) 0.0135(2) 0.0009(1) 0.0032(1) 0.0004(1)
+S1 S2- 0.0197(3) 0.0098(3) 0.0148(3) -.0002(2) 0.0053(1) 0.0000(2)
+S2 S2- 0.0127(3) 0.0132(4) 0.0138(3) -.0002(2) 0.0039(1) 0.0005(2)
+S3 S2- 0.0120(3) 0.0119(4) 0.0251(4) -.0003(2) 0.0028(1) -.0008(2)
+#End of TTdata_36209-ICSD

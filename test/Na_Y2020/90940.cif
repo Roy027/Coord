@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_90940-ICSD
+_database_code_ICSD 90940
+_audit_creation_date 2002-04-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Trisodium indium bis(phosphate(V)) - beta'
+_chemical_formula_structural 'Na3 In (P O4)2'
+_chemical_formula_sum 'In1 Na3 O8 P2'
+_chemical_name_structure_type Rb3CeP2Se8
+_exptl_crystal_density_diffrn 3.72
+_cell_measurement_temperature 297.
+_publ_section_title
+'Structure of polymorphous modifications of double sodium and indium phosphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2000 149 99 106 JSSCBI
+loop_
+_publ_author_name
+'Zhizhin, M.G.'
+'Morozov, V.A.'
+'Bobylev, A.P.'
+'Popov, A.M.'
+'Spiridonov, F.M.'
+'Komissarova, L.N.'
+'Lazoryak, B.I.'
+_cell_length_a 7.127(1)
+_cell_length_b 18.2200(10)
+_cell_length_c 8.616(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 143.36(1)
+_cell_angle_gamma 90.
+_cell_volume 667.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.016
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 e 0.796(1) 0.872(1) 0.784(1) 0.83(6) 1. 0
+Na1 Na1+ 4 e 0.295(2) 0.8751(5) 0.781(2) 1.1(1) 1. 0
+Na2 Na1+ 4 e 0.618(2) 0.8037(5) 0.309(2) 1.1(1) 1. 0
+Na3 Na1+ 4 e 0.958(2) 0.9473(5) 0.249(2) 1.1(1) 1. 0
+P1 P5+ 4 e 0.077(2) 0.7121(4) 0.800(1) 0.3(1) 1. 0
+P2 P5+ 4 e 0.508(2) 0.0353(4) 0.726(1) 0.3(1) 1. 0
+O1 O2- 4 e 0.057(3) 0.8002(9) 0.813(3) 0.9(1) 1. 0
+O2 O2- 4 e 0.038(3) 0.6696(7) 0.934(3) 0.9(1) 1. 0
+O3 O2- 4 e 0.829(4) 0.6916(8) 0.510(3) 0.9(1) 1. 0
+O4 O2- 4 e 0.402(3) 0.6955(7) 0.953(3) 0.9(1) 1. 0
+O5 O2- 4 e 0.252(4) 0.0664(8) 0.463(3) 0.9(1) 1. 0
+O6 O2- 4 e 0.519(3) 0.9517(9) 0.738(3) 0.9(1) 1. 0
+O7 O2- 4 e 0.821(3) 0.0704(3) 0.867(3) 0.9(1) 1. 0
+O8 O2- 4 e 0.452(3) 0.0598(7) 0.854(3) 0.9(1) 1. 0
+#End of TTdata_90940-ICSD

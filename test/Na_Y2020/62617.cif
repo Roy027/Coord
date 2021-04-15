@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62617-ICSD
+_database_code_ICSD 62617
+_audit_creation_date 1988-02-22
+_audit_update_record 1995-10-17
+_chemical_name_systematic 'Trisodium thulium disilicate'
+_chemical_formula_structural 'Na3 Tm (Si2 O7)'
+_chemical_formula_sum 'Na3 O7 Si2 Tm1'
+_exptl_crystal_density_diffrn 3.87
+_publ_section_title
+'Preparation and crystal structure of the diorthosilicate Na3 Tm Si2 O7.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1985 30 802 805 KRISAJ
+loop_
+_publ_author_name
+'Sebais, M.'
+'Pobedimskaya, E.A.'
+'Dimitrova, O.V.'
+_cell_length_a 9.387(2)
+_cell_length_b 9.387(2)
+_cell_length_c 13.717(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1046.75
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.006
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tm3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tm1 Tm3+ 2 a 0 0 0.2334(6) 0.43(1) 1. 0
+Tm2 Tm3+ 2 b 0.6667 0.3333 0 0.48(1) 1. 0
+Tm3 Tm3+ 2 b 0.6667 0.3333 0.4630(1) 0.45(1) 1. 0
+Si1 Si4+ 6 c 0.3240(7) 0.3506(7) 0.1212(4) 0.74(8) 1. 0
+Si2 Si4+ 6 c 0.3309(7) 0.3435(7) 0.3391(4) 0.12(6) 1. 0
+Na1 Na1+ 2 a 0 0 0.476(5) 0.68(1) 1. 0
+Na2 Na1+ 2 b 0.3333 0.6667 0.738(2) 1.44(2) 1. 0
+Na3 Na1+ 2 b 0.3333 0.6667 0.209(1) 2.74(4) 1. 0
+Na4 Na1+ 6 c 0.309(1) 0.329(1) 0.5649(8) 3.16(2) 1. 0
+Na5 Na1+ 6 c 0.317(2) 0.332(2) 0.892(1) 0.38(1) 1. 0
+O1 O2- 6 c 0.265(3) 0.431(3) 0.046(2) 0.51(1) 1. 0
+O2 O2- 6 c 0.604(4) 0.126(4) 0.109(2) 1.52(3) 1. 0
+O3 O2- 6 c 0.204(3) 0.147(3) 0.125(1) 0.67(1) 1. 0
+O4 O2- 6 c 0.320(1) 0.421(1) 0.239(4) 0.77(1) 1. 0
+O5 O2- 6 c 0.188(3) 0.153(3) 0.345(1) 0.63(2) 1. 0
+O6 O2- 6 c 0.616(2) 0.127(3) 0.365(1) 0.19(1) 1. 0
+O7 O2- 6 c 0.276(3) 0.451(3) 0.411(1) 1.15(2) 1. 0
+#End of TTdata_62617-ICSD

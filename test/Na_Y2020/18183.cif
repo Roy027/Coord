@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_18183-ICSD
+_database_code_ICSD 18183
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium hydrogencarbonate'
+_chemical_formula_structural 'Na (H C O3)'
+_chemical_formula_sum 'C1 H1 Na1 O3'
+_chemical_name_structure_type NaHCO3
+_chemical_name_mineral Nahcolite
+_exptl_crystal_density_diffrn 2.19
+_publ_section_title 'Sodium bicarbonate and its Hydrogene Atom'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica' 1965 18 818 819 ACCRA9
+loop_
+_publ_author_name
+'Sharma, B.D.'
+_cell_length_a 3.51(1)
+_cell_length_b 9.71(1)
+_cell_length_c 8.05(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.85
+_cell_angle_gamma 90.
+_cell_volume 254.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.091
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.4285(8) 0.0044(2) -.2855(3) . 1. 0
+C1 C4+ 4 e 0.2123(20) 0.2384(6) -.0767(5) . 1. 0
+O1 O2- 4 e 0.1893(14) 0.3666(4) -.0714(4) . 1. 0
+O2 O2- 4 e -.0104(15) 0.1619(4) -.2046(5) . 1. 0
+O3 O2- 4 e 0.4959(15) 0.1705(4) 0.0592(5) . 1. 0
+H1 H1+ 4 e 0.669(32) 0.252(10) 0.143(13) 2. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0421(60) 0.0026(3) 0.0072(5) -.0010(6) 0.0114(11) -.0002(2)
+C1 C4+ 0.037(12) 0.0030(5) 0.0039(8) 0.0001(13) 0.0117(23) 0.0005(5)
+O1 O2- 0.0410(88) 0.0019(4) 0.0057(5) 0.0016(10) 0.0050(17) -.0001(3)
+O2 O2- 0.0321(80) 0.0028(4) 0.0046(7) -.0010(9) 0.0045(16) -.0017(3)
+O3 O2- 0.0550(88) 0.0024(4) 0.0048(7) 0.0018(11) 0.0036(16) 0.0011(4)
+#End of TTdata_18183-ICSD

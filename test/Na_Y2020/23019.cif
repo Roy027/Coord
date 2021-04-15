@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23019-ICSD
+_database_code_ICSD 23019
+_audit_creation_date 1984-09-10
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Sodium praseodymium hexasilicate'
+_chemical_formula_structural 'Na Pr (Si6 O14)'
+_chemical_formula_sum 'Na1 O14 Pr1 Si6'
+_chemical_name_structure_type NaPrSi6O14
+_exptl_crystal_density_diffrn 3.16
+_publ_section_title 'Crystal structure of Na Pr Si6 O14 and Na Nd Si6 O14'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1976 228 88 91 DANKAS
+loop_
+_publ_author_name
+'Karpov, O.G.'
+'Pushcharovskii, D.Yu.'
+'Pobedimskaya, E.A.'
+'Belov, N.V.'
+_cell_length_a 7.682(2)
+_cell_length_b 15.445(3)
+_cell_length_c 19.724(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2340.22
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I b a m'
+_symmetry_Int_Tables_number 72
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, z'
+10 'x+1/2, -y+1/2, z'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z'
+14 '-x+1/2, y+1/2, -z'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Pr3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0 0 0.25 1.1 1. 0
+Na2 Na1+ 4 d 0 0.5 0.5 1.56 1. 0
+Pr1 Pr3+ 8 g 0 0.2286 0.25 0.37 1. 0
+Si1 Si4+ 16 k 0.2613 0.0777 0.3538 0.41 1. 0
+Si2 Si4+ 16 k 0.1507 0.3802 0.3531 0.41 1. 0
+Si3 Si4+ 8 j 0.1768 0.1337 0.5 0.43 1. 0
+Si4 Si4+ 8 j 0.2685 0.3339 0.5 0.48 1. 0
+O1 O2- 16 k 0.097 0.116 0.318 0.47 1. 0
+O2 O2- 16 k 0.238 0.303 0.313 0.71 1. 0
+O3 O2- 16 k 0.443 0.13 0.334 0.58 1. 0
+O4 O2- 16 k 0.212 0.477 0.331 0.69 1. 0
+O5 O2- 16 k 0.253 0.078 0.436 0.79 1. 0
+O6 O2- 16 k 0.167 0.374 0.435 0.78 1. 0
+O7 O2- 8 j 0.258 0.231 0.5 0.92 1. 0
+O8 O2- 8 j 0.469 0.361 0.5 0.96 1. 0
+#End of TTdata_23019-ICSD

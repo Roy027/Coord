@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_185511-ICSD
+_database_code_ICSD 185511
+_audit_creation_date 2013-02-01
+_chemical_name_systematic
+'Barium praseodymium sodium trioxoniobate (1.92/0.057/0.92/5)'
+_chemical_formula_structural 'Ba1.89 Pr0.097 Na0.92 (Nb5 O15)'
+_chemical_formula_sum 'Ba1.89 Na0.92 Nb5 O15 Pr0.097'
+_chemical_name_structure_type (Ba,Sr)Nb2O6
+_exptl_crystal_density_diffrn 5.36
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Structural effects on the emission properties of Pr(3+)-doped Ba2 Na Nb5 O15
+crystals
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics D: Applied Physics' 2010 43 455404-1 455404-8 JPAPBE
+loop_
+_publ_author_name
+'Cavalli, E.'
+'Calestani, G.'
+'Mezzadri, F.'
+'Faoro, R.'
+'Tonelli, M.'
+'Boutinaud, P.'
+_cell_length_a 12.463(4)
+_cell_length_b 12.463(4)
+_cell_length_c 3.984(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 618.82
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4 b m'
+_symmetry_Int_Tables_number 100
+_refine_ls_R_factor_all 0.0439
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y+1/2, x+1/2, z'
+3 'y, -x, z'
+4 '-y, x, z'
+5 '-x+1/2, y+1/2, z'
+6 'x+1/2, -y+1/2, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Ba2+ 2
+Na1+ 1
+Pr3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 2 b 0 0.5 0.5 0.00611(12) 1. 0
+Nb2 Nb5+ 8 d 0.07395(2) 0.20972(2) 0.5031(5) 0.00527(8) 1. 0
+Ba1 Ba2+ 8 d 0.33566(16) 0.17868(17) 0.0146(5) 0.0139(4) 0.4720(10) 0
+Na1 Na1+ 2 a 0 0 0.007(2) 0.0138(7) 0.920(4) 0
+Pr1 Pr3+ 2 a 0 0 0.007(2) 0.0138(7) 0.080(3) 0
+Pr2 Pr3+ 4 c 0.112(2) 0.388(2) -0.025(15) 0.01 0.0084(13) 0
+O1 O2- 8 d -0.0065(3) 0.3436(3) 0.542(3) 0.0275(18) 1. 0
+O2 O2- 4 c 0.2162(3) 0.2838(3) 0.540(4) 0.017(2) 1. 0
+O3 O2- 8 d 0.1404(3) 0.0691(3) 0.554(4) 0.036(3) 1. 0
+O4 O2- 8 d 0.0909(8) 0.1962(8) 0.037(5) 0.0280(17) 0.5 0
+O5 O2- 8 d 0.0568(8) 0.2139(8) 0.037(5) 0.0280(17) 0.5 0
+O6 O2- 4 c 0.0131(6) 0.4869(6) 0.044(5) 0.020(3) 0.5 0
+#End of TTdata_185511-ICSD

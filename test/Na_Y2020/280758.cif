@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280758-ICSD
+_database_code_ICSD 280758
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Disodium phylo-fluorotetraoxocobalto(II)phosphate(V)'
+_chemical_formula_structural 'Na2 (Co P O4 F)'
+_chemical_formula_sum 'Co1 F1 Na2 O4 P1'
+_chemical_name_structure_type Na2MgPO4F
+_exptl_crystal_density_diffrn 3.44
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Crystal growth, crystal structure and magnetic properties of disodium cobalt
+fluorophosphate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2001 11 208 211 JMACEP
+loop_
+_publ_author_name
+'Sanz, F.'
+'Parada, C.'
+'Ruiz Valero, C.'
+_cell_length_a 5.2475(9)
+_cell_length_b 13.795(2)
+_cell_length_c 11.689(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 846.16
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.0632
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+P5+ 5
+Na1+ 1
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 8 d 0.2218(4) 0.4888(2) 0.67442(14) . 1. 0
+P1 P5+ 8 d -.2948(8) 0.6181(3) 0.5879(3) . 1. 0
+Na1 Na1+ 8 d 0.2446(10) 0.6237(4) 0.4169(4) . 1. 0
+Na2 Na1+ 8 d 0.2621(9) 0.2548(4) 0.6713(4) . 1. 0
+F1 F1- 4 c 0.5 0.4038(7) 0.75 . 1. 0
+F2 F1- 4 c 0 0.3746(7) 0.75 . 1. 0
+O1 O2- 8 d -.1499(16) 0.5362(6) 0.6527(6) . 1. 0
+O2 O2- 8 d -.2088(18) 0.7161(7) 0.6310(7) . 1. 0
+O3 O2- 8 d 0.4137(19) 0.6037(6) 0.6063(6) . 1. 0
+O4 O2- 8 d 0.2327(16) 0.3911(7) 0.5398(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.043(2) 0.022(2) 0.0208(14) 0.0006(8) 0.0005(7) 0.0000(6)
+P1 P5+ 0.034(2) 0.020(3) 0.019(2) -.001(2) 0.0015(13) -.0001(12)
+Na1 Na1+ 0.051(4) 0.026(4) 0.023(3) 0.001(3) -.004(2) 0.002(2)
+Na2 Na1+ 0.053(5) 0.026(4) 0.027(4) 0.008(3) 0.002(2) 0.001(2)
+F1 F1- 0.056(8) 0.027(6) 0.028(5) 0 0.001(4) 0
+F2 F1- 0.041(7) 0.021(6) 0.025(4) 0 -.002(4) 0
+O1 O2- 0.027(5) 0.027(6) 0.030(4) -.009(5) 0.000(3) 0.002(3)
+O2 O2- 0.065(7) 0.026(6) 0.023(4) 0.004(5) -.004(4) -.002(4)
+O3 O2- 0.040(6) 0.022(5) 0.030(4) 0.008(5) 0.006(4) 0.003(3)
+O4 O2- 0.053(7) 0.031(7) 0.018(5) 0.001(4) 0.001(4) 0.001(4)
+#End of TTdata_280758-ICSD

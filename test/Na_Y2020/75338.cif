@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75338-ICSD
+_database_code_ICSD 75338
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Disodium tetratellurate(IV)'
+_chemical_formula_structural 'Na2 (Te4 O9)'
+_chemical_formula_sum 'Na2 O9 Te4'
+_exptl_crystal_density_diffrn 5.1
+_cell_measurement_temperature 102.
+_publ_section_title
+
+;
+Crystal structure and sodium environments in sodium tetratellurite, Na2 Te4
+O9, and sodium tellurite, Na2 Te O3, by X-ray crystallography and sodium-23
+NMR
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1994 6 1884 1889 CMATEX
+loop_
+_publ_author_name
+'Tagg, S.L.'
+'Huffman, J.C.'
+'Zwanziger, J.W.'
+_cell_length_a 7.336(1)
+_cell_length_b 10.449(1)
+_cell_length_c 6.876(1)
+_cell_angle_alpha 90.11(1)
+_cell_angle_beta 110.95(1)
+_cell_angle_gamma 69.52(1)
+_cell_volume 456.52
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te4+ 2 i 0.2825(1) 0.0128(1) 0.0109(1) 0.53(2) 1. 0
+Te2 Te4+ 2 i 0.6380(1) 0.2114(1) 0.4584(1) 0.56(2) 1. 0
+Te3 Te4+ 2 i 0.2051(1) 0.1931(1) 0.5169(1) 0.57(2) 1. 0
+Te4 Te4+ 2 i 0.3254(1) 0.6715(1) 0.0272(1) 0.57(2) 1. 0
+Na1 Na1+ 2 i 0.2223(7) 0.5110(4) 0.4761(6) 1.01(7) 1. 0
+Na2 Na1+ 2 i 0.1800(6) 0.3633(4) -.0224(6) 0.81(6) 1. 0
+O1 O2- 2 i 0.4941(12) 0.8932(7) 0.3302(11) 0.89(11) 1. 0
+O2 O2- 2 i 0.3416(11) 0.2967(8) 0.3359(11) 0.91(11) 1. 0
+O3 O2- 2 i 0.3070(12) 0.6728(8) 0.7120(11) 1.00(11) 1. 0
+O4 O2- 2 i 0.1441(11) 0.3524(7) 0.6320(11) 0.80(11) 1. 0
+O5 O2- 2 i 0.4997(11) 0.1150(7) 0.0581(11) 0.71(10) 1. 0
+O6 O2- 2 i 0.3312(12) 0.6661(8) 0.3375(10) 0.86(11) 1. 0
+O7 O2- 2 i 0.1351(11) 0.0929(7) 0.7129(10) 0.72(10) 1. 0
+O8 O2- 2 i 0.8764(11) 0.4027(7) 0.0415(11) 0.85(11) 1. 0
+O9 O2- 2 i 0.1559(11) 0.8630(7) 0.9699(11) 0.91(11) 1. 0
+#End of TTdata_75338-ICSD

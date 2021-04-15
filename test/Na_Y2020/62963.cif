@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62963-ICSD
+_database_code_ICSD 62963
+_audit_creation_date 1988-12-19
+_audit_update_record 1988-12-30
+_chemical_name_systematic 'Disodium tetraarsenate(V)'
+_chemical_formula_structural 'Na2 As4 O11'
+_chemical_formula_sum 'As4 Na2 O11'
+_chemical_name_structure_type Nd2Te4O11
+_exptl_crystal_density_diffrn 4.12
+_publ_section_title 'Structure de Na2 As4 O11.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1988 44 788 791 ACSCEE
+loop_
+_publ_author_name
+'Driss, A.'
+'Jouini, T.'
+'Omezzine, M.'
+_cell_length_a 9.049(3)
+_cell_length_b 8.287(3)
+_cell_length_c 11.508(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.74(4)
+_cell_angle_gamma 90.
+_cell_volume 841.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 8 f 0.2464(1) 0.2885(1) 0.1666(1) 0.43(3) 1. 0
+As2 As5+ 8 f 0.4571(1) 0.4583(1) 0.3821(1) 0.34(2) 1. 0
+Na1 Na1+ 8 f 0.3640(4) 0.0996(5) 0.5342(4) 1.9(2) 1. 0
+O1 O2- 8 f 0.1128(7) 0.4170(7) 0.1190(6) 1.0(2) 1. 0
+O2 O2- 8 f 0.2117(6) 0.0892(7) 0.1419(5) 0.6(2) 1. 0
+O3 O2- 8 f 0.3984(6) 0.3022(7) 0.1017(5) 0.8(2) 1. 0
+O4 O2- 8 f 0.3587(6) 0.3016(7) 0.3180(5) 0.6(2) 1. 0
+O5 O2- 8 f 0.4201(6) 0.3969(7) 0.5258(5) 0.6(2) 1. 0
+O6 O2- 4 e 0.5 0.542(1) 0.25 0.7(3) 1. 0
+#End of TTdata_62963-ICSD

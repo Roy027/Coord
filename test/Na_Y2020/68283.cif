@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68283-ICSD
+_database_code_ICSD 68283
+_audit_creation_date 1991-07-10
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Sodium erbium tetrakis(catena-phosphate(V))'
+_chemical_formula_structural 'Na Er (P O3)4'
+_chemical_formula_sum 'Er1 Na1 O12 P4'
+_chemical_name_structure_type KCe(PO3)4
+_exptl_crystal_density_diffrn 3.74
+_publ_section_title
+'Preparation and structure of sodium erbium polyphosphate, Na Er (P O3)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 1988 33 2503 2505 ZNOKAQ
+loop_
+_publ_author_name
+'Maksimova, S.I.'
+'Masloboev, V.A.'
+'Palkina, K.K.'
+'Sazhenkov, A.A.'
+'Chibiskova, N.T.'
+_cell_length_a 7.155(15)
+_cell_length_b 12.987(7)
+_cell_length_c 9.662(32)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.32(2)
+_cell_angle_gamma 90.
+_cell_volume 897.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Er3+ 3
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Er1 Er3+ 4 e 0.01250(4) 0.21910(2) 0.02346(2) 0.4(1) 1. 0
+Na1 Na1+ 4 e 0.0002(5) 0.2775(2) 0.4373(4) 1.5(1) 1. 0
+P1 P5+ 4 e 0.7669(2) 0.0914(1) 0.2987(2) 0.5(5) 1. 0
+P2 P5+ 4 e 0.3746(2) 0.1150(1) 0.2367(2) 0.3(3) 1. 0
+P3 P5+ 4 e 0.2501(2) 0.3972(1) 0.2548(2) 0.4(3) 1. 0
+P4 P5+ 4 e 0.6483(2) 0.3716(1) 0.1965(2) 0.3(3) 1. 0
+O1 O2- 4 e 0.7185(7) 0.4787(3) 0.1315(5) 0.7(1) 1. 0
+O2 O2- 4 e 0.2818(7) 0.0126(3) 0.2931(5) 0.8(1) 1. 0
+O3 O2- 4 e 0.4310(6) 0.3735(3) 0.1637(4) 0.5(1) 1. 0
+O4 O2- 4 e 0.5842(6) 0.0814(3) 0.2059(5) 0.6(1) 1. 0
+O5 O2- 4 e 0.3669(7) 0.1891(3) 0.3527(5) 0.7(1) 1. 0
+O6 O2- 4 e 0.7258(7) 0.2882(3) 0.1071(5) 0.7(2) 1. 0
+O7 O2- 4 e 0.6753(7) 0.3671(3) 0.3485(4) 0.7(2) 1. 0
+O8 O2- 4 e 0.9284(7) 0.1112(4) 0.2048(5) 0.8(2) 1. 0
+O9 O2- 4 e 0.2861(7) 0.3902(3) 0.4059(5) 0.7(1) 1. 0
+O10 O2- 4 e 0.0923(7) 0.3334(3) 0.2030(5) 0.7(2) 1. 0
+O11 O2- 4 e 0.7360(7) 0.1626(3) 0.4170(5) 0.8(2) 1. 0
+O12 O2- 4 e 0.2956(6) 0.1378(3) 0.1024(3) 0.7(2) 1. 0
+#End of TTdata_68283-ICSD

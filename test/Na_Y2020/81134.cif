@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81134-ICSD
+_database_code_ICSD 81134
+_audit_creation_date 1997-05-13
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium trisilicate'
+_chemical_formula_structural 'Na2 (Si3 O7)'
+_chemical_formula_sum 'Na2 O7 Si3'
+_chemical_name_structure_type Na2Si3O7(mS48)
+_exptl_crystal_density_diffrn 3.3
+_publ_section_title
+'Sodium trisilicate: a new high-pressure silicate structure (Na2 Si (Si2 O7))'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 1995 22 383 386 PCMIDU
+loop_
+_publ_author_name
+'Fleet, M.E.'
+'Henderson, G.S.'
+_cell_length_a 8.922(2)
+_cell_length_b 4.8490(5)
+_cell_length_c 11.567(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.64(1)
+_cell_angle_gamma 90.
+_cell_volume 488.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 f 0.45777(4) 0.28452(7) 0.11515(3) . 1. 0
+Si2 Si4+ 4 d 0.25 0.25 0.5 . 1. 0
+Na1 Na1+ 8 f 0.14770(7) 0.29478(12) 0.18324(6) . 1. 0
+O1 O2- 8 f 0.36080(9) 0.56388(16) 0.12681(7) . 1. 0
+O2 O2- 8 f 0.36502(10) 0.04726(16) 0.03572(7) . 1. 0
+O3 O2- 8 f 0.37597(9) 0.36728(17) 0.41000(7) . 1. 0
+O4 O2- 4 e 0 0.64740(24) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Si1 Si4+ 0.429(10) 0.239(9) 0.392(10) -.002(8) 0.084(8) -.019(8)
+Si2 Si4+ 0.423(14) 0.240(13) 0.401(14) -.001(11) 0.089(11) 0.019(11)
+Na1 Na1+ 1.657(23) 0.652(18) 1.914(24) -.038(18) 0.847(18) -.154(18)
+O1 O2- 0.639(27) 0.347(24) 0.513(25) 0.118(20) 0.058(21) -.006(20)
+O2 O2- 0.615(27) 0.330(24) 0.714(27) -.116(20) 0.089(21) -.109(21)
+O3 O2- 0.550(27) 0.490(25) 0.692(27) 0.040(21) 0.241(21) 0.147(21)
+O4 O2- 1.093(44) 0.407(35) 0.458(36) 0 0.103(32) 0
+#End of TTdata_81134-ICSD

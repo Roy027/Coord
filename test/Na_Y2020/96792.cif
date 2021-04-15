@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_96792-ICSD
+_database_code_ICSD 96792
+_audit_creation_date 2004-10-01
+_chemical_name_systematic
+'Sodium manganese indium phosphate(V) (1.12/1.07/1.93/3)'
+_chemical_formula_structural 'Na1.12 (Mn0.768 In0.232) (In1.7 Mn0.3) (P O4)3'
+_chemical_formula_sum 'In1.932 Mn1.068 Na1.12 O12 P3'
+_chemical_name_structure_type Alluaudite
+_exptl_crystal_density_diffrn 4.17
+_publ_section_title
+
+;
+An X-ray Rietveld, infrared and Moessbauer spectral study of the Na Mn (Fe1-x
+Inx)2 (P O4)3 alluaudite-type solid solution
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2003 88 211 222 AMMIAY
+loop_
+_publ_author_name
+'Hatert, F.'
+'Hermann, R.P.'
+'Long, G.-J.'
+'Fransolet, A.M.'
+'Grandjean, F.'
+_cell_length_a 12.282(2)
+_cell_length_b 12.948(2)
+_cell_length_c 6.552(1)
+_cell_angle_alpha 90
+_cell_angle_beta 115.21(1)
+_cell_angle_gamma 90
+_cell_volume 942.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0244
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn1+ 1.95
+In3+ 3
+Mn1+ 1.95
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.069(6) 0.25 1. 0.118(12) 0
+Na2 Na1+ 4 b 0.5 0 0 3.4(6) 1.002(18) 0
+Mn1 Mn1+ 4 e 0 0.2641(3) 0.25 1.1(2) 0.768(8) 0
+In1 In3+ 4 e 0 0.2641(3) 0.25 1.1(2) 0.232(8) 0
+In2 In3+ 8 f 0.2856(2) 0.6488(1) 0.3759(3) 0.17(8) 0.85(1) 0
+Mn2 Mn1+ 8 f 0.2856(2) 0.6488(1) 0.3759(3) 0.17(8) 0.15(1) 0
+P1 P5+ 4 e 0 0.7065(6) 0.25 0.3(1) 1. 0
+P2 P5+ 8 f 0.2394(5) 0.8869(5) 0.129(1) 0.3(1) 1. 0
+O1 O2- 8 f 0.458(1) 0.7225(9) 0.543(2) 1. 1. 0
+O2 O2- 8 f 0.1005(9) 0.6343(9) 0.251(2) 1. 1. 0
+O3 O2- 8 f 0.3366(9) 0.663(1) 0.109(2) 1. 1. 0
+O4 O2- 8 f 0.128(1) 0.3932(7) 0.330(2) 1. 1. 0
+O5 O2- 8 f 0.2258(9) 0.8181(8) 0.310(2) 1. 1. 0
+O6 O2- 8 f 0.3121(9) 0.496(1) 0.365(2) 1. 1. 0
+#End of TTdata_96792-ICSD

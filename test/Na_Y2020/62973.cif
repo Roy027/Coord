@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62973-ICSD
+_database_code_ICSD 62973
+_audit_creation_date 1988-12-19
+_audit_update_record 1988-12-30
+_chemical_name_systematic 'Enneasodium zirconium tetrakisphosphate chloride'
+_chemical_formula_structural 'Na9 Zr (P O4)4 Cl'
+_chemical_formula_sum 'Cl1 Na9 O16 P4 Zr1'
+_exptl_crystal_density_diffrn 2.87
+_publ_section_title 'Synthesis and structure of a new Na, Zr phosphate.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1987 32 1137 1142 KRISAJ
+loop_
+_publ_author_name
+'Genkina, E.A.'
+'Mel'nikov, O.K. (Melnikov, O.K.)'
+'Gorbunov, Yu.A.'
+'Maksimov, B.A.'
+'Kreuer, K.D.'
+'Rabenau, A.'
+_cell_length_a 9.151(1)
+_cell_length_b 9.081(2)
+_cell_length_c 5.333(1)
+_cell_angle_alpha 90.63(1)
+_cell_angle_beta 91.17(1)
+_cell_angle_gamma 111.52(2)
+_cell_volume 412.11
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.059
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+P5+ 5
+Na1+ 1
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 1 a 0 0 0 1.16(2) 1. 0
+P1 P5+ 1 a 0.200(1) 0.230(1) 0.525(1) 0.87(2) 1. 0
+P2 P5+ 1 a 0.813(1) 0.756(1) 0.481(1) 0.71(2) 1. 0
+P3 P5+ 1 a 0.263(1) 0.792(1) 0.970(1) 1.06(2) 1. 0
+P4 P5+ 1 a 0.764(1) 0.215(1) 0.025(1) 0.88(2) 1. 0
+Na1 Na1+ 1 a 0.592(1) 0.362(1) 0.478(2) 1.49(2) 1. 0
+Na2 Na1+ 1 a 0.397(1) 0.638(1) 0.545(2) 1.58(2) 1. 0
+Na3 Na1+ 1 a 0.416(1) 0.167(1) 0.949(2) 2.75(2) 1. 0
+Na4 Na1+ 1 a 0.594(1) 0.817(1) 0.047(2) 2.29(2) 1. 0
+Na5 Na1+ 1 a 0.183(1) 0.435(1) 0.036(2) 1.86(2) 1. 0
+Na6 Na1+ 1 a 0.857(1) 0.572(1) 0.961(2) 1.95(2) 1. 0
+Na7 Na1+ 1 a 0.210(1) 0.898(1) 0.478(1) 2.53(2) 1. 0
+Na8 Na1+ 1 a 0.044(1) 0.571(1) 0.460(2) 4.27(2) 1. 0
+Na9 Na1+ 1 a 0.618(1) 0.018(1) 0.555(1) 2.93(2) 1. 0
+O1 O2- 1 a 0.130(1) 0.187(1) 0.789(2) 1.14(2) 1. 0
+O2 O2- 1 a 0.886(1) 0.803(1) 0.218(2) 1.47(2) 1. 0
+O3 O2- 1 a 0.809(1) 0.063(1) 0.974(2) 1.42(2) 1. 0
+O4 O2- 1 a 0.197(1) 0.929(1) 0.006(2) 1.34(2) 1. 0
+O5 O2- 1 a 0.079(1) 0.123(1) 0.325(2) 1.32(2) 1. 0
+O6 O2- 1 a 0.926(1) 0.858(1) 0.676(2) 1.52(2) 1. 0
+O7 O2- 1 a 0.217(1) 0.403(1) 0.476(2) 1.34(2) 1. 0
+O8 O2- 1 a 0.801(1) 0.586(1) 0.517(2) 1.51(2) 1. 0
+O9 O2- 1 a 0.346(2) 0.195(2) 0.529(3) 1.96(2) 1. 0
+O10 O2- 1 a 0.660(2) 0.790(2) 0.495(3) 1.75(2) 1. 0
+O11 O2- 1 a 0.714(2) 0.260(2) 0.770(3) 1.67(2) 1. 0
+O12 O2- 1 a 0.329(2) 0.767(2) 0.231(3) 2.29(2) 1. 0
+O13 O2- 1 a 0.633(2) 0.002(2) 0.213(3) 1.99(2) 1. 0
+O14 O2- 1 a 0.400(1) 0.862(1) 0.797(1) 1.61(2) 1. 0
+O15 O2- 1 a 0.908(1) 0.354(1) 0.112(3) 2.12(2) 1. 0
+O16 O2- 1 a 0.139(1) 0.656(1) 0.829(2) 2.17(2) 1. 0
+Cl1 Cl1- 1 a 0.5 0.5 0 1.73(2) 1. 0
+#End of TTdata_62973-ICSD

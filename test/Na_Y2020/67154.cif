@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67154-ICSD
+_database_code_ICSD 67154
+_audit_creation_date 1990-12-27
+_chemical_name_systematic 'Disodium beryllium oxide'
+_chemical_formula_structural 'Na2 Be O2'
+_chemical_formula_sum 'Be1 Na2 O2'
+_exptl_crystal_density_diffrn 2.43
+_publ_section_title
+'Ueber Synthese und Aufbau von Na2(BeO2): Na8(OBeO2BeO2BeO2BeO)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1989
+578 119 132 ZAACAB
+loop_
+_publ_author_name
+'Schuldt, D.'
+'Hoppe, R.'
+_cell_length_a 11.520(3)
+_cell_length_b 5.308(1)
+_cell_length_c 7.882(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.3(1)
+_cell_angle_gamma 90.
+_cell_volume 475.63
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.099
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+Be2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.4862(4) 0.4393 0.6588(7) . 1. 0
+Na2 Na1+ 2 a 0.0134(4) 0.5612(5) 0.8384(3) . 1. 0
+Na3 Na1+ 2 a 0.6246(4) 0.9570(7) 0.7017(6) . 1. 0
+Na4 Na1+ 2 a 0.9139(4) 0.3920(7) 0.4944(6) . 1. 0
+Na5 Na1+ 2 a 0.4225(4) 0.1217(8) 0.0005(6) . 1. 0
+Na6 Na1+ 2 a 0.7150(5) 0.1748(7) 0.0721(7) . 1. 0
+Na7 Na1+ 2 a 0.2178(7) 0.3419(7) 0.5711(5) . 1. 0
+Na8 Na1+ 2 a 0.8737(8) 0.0732(8) 0.8007(7) . 1. 0
+O1 O2- 2 a 0.9485(5) 0.7002(8) 0.3094(7) 0.0103(8) 1. 0
+O2 O2- 2 a 0.5642(6) 0.3069(10) 0.1984(9) 0.0278(11) 1. 0
+O3 O2- 2 a 0.3222(5) 0.8582(8) 0.1944(7) 0.0096(8) 1. 0
+O4 O2- 2 a 0.1698(6) 0.1231(9) 0.2999(8) 0.0253(10) 1. 0
+O5 O2- 2 a 0.3921(6) 0.1050(9) 0.5247(8) 0.0173(9) 1. 0
+O6 O2- 2 a 0.8915(6) 0.3828(9) 0.0154(8) 0.0189(10) 1. 0
+O7 O2- 2 a 0.7766(6) 0.782(1) 0.0139(8) 0.0247(10) 1. 0
+O8 O2- 2 a 0.2677(6) 0.7368(9) 0.5278(7) 0.0165(9) 1. 0
+Be1 Be2+ 2 a 0.2851(6) 0.9571(10) 0.3833(8) 0.0030(9) 1. 0
+Be2 Be2+ 2 a 0.204(1) 0.0397(13) 0.1290(12) 0.0361(13) 1. 0
+Be3 Be2+ 2 a 0.6321(8) 0.3591(12) 0.3689(10) 0.0198(12) 1. 0
+Be4 Be2+ 2 a 0.1252(7) 0.1066(11) 0.8632(9) 0.0077(10) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0296(11) 0.0323(12) 0.0396(12) -.0231(11) 0.0075(11) -.0187(11)
+Na2 Na1+ 0.0152(10) 0.0208(10) 0.0148(10) 0.0105(9) 0.0007(9) 0.0056(10)
+Na3 Na1+ 0.0240(11) 0.0205(10) 0.0210(11) 0.0006(10) -.0007(10) -.0017(10)
+Na4 Na1+ 0.0210(11) 0.0082(9) 0.0254(11) -.0008(9) -.0023(10) 0.0052(9)
+Na5 Na1+ 0.0132(11) 0.0464(12) 0.0200(11) -.0062(11) 0.0004(10) -.0012(11)
+Na6 Na1+ 0.0381(11) 0.0147(10) 0.0418(12) 0.0116(10) -.0027(11) -.0110(11)
+Na7 Na1+ 0.0181(12) 0.0249(21) 0.0156(10) 0.0076(9) 0.0131(9) -.0024(10)
+Na8 Na1+ 0.0534(12) 0.0268(12) 0.0503(12) -.0126(11) 0.0233(12) -.0153(12)
+#End of TTdata_67154-ICSD

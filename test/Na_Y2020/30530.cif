@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_30530-ICSD
+_database_code_ICSD 30530
+_audit_creation_date 1980-01-01
+_chemical_name_systematic
+'Sodium tetrathioantimonate nonakis(dideuteriohydrate)'
+_chemical_formula_structural 'Na3 Sb S4 (D2 O)9'
+_chemical_formula_sum 'D18 Na3 O9 S4 Sb1'
+_chemical_name_structure_type Na3SbS4(H2O)9
+_exptl_crystal_density_diffrn 1.94
+_publ_section_title
+
+;
+Hydrogen bonds in Schlippe's Salt: Refinement of the crystal structures of Na3
+Sb S4 (H2 O)9 by X-ray diffraction and Na3 Sb S4 (D2 O)9 by neutron
+diffraction at room temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1979 35 19 25 ACBCAR
+loop_
+_publ_author_name
+'Mereiter, K.'
+'Preisinger, A.'
+'Guth, H.'
+_cell_length_a 11.959(3)
+_cell_length_b 11.959(3)
+_cell_length_c 11.959(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1710.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.058
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sb5+ 5
+S2- -2
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.29112(32) 0.29112(32) 0.29112(32) . 1. 0
+Na2 Na1+ 4 a 0.45011(33) 0.45011(33) 0.45011(33) . 1. 0
+Na3 Na1+ 4 a 0.60663(35) 0.60663(35) 0.60663(35) . 1. 0
+Sb1 Sb5+ 4 a 0.03712(20) 0.03712(20) 0.03712(20) . 1. 0
+S1 S2- 4 a 0.92459(51) 0.92459(51) 0.92459(51) . 1. 0
+S2 S2- 12 b 0.14788(40) 0.14816(44) 0.92282(43) . 1. 0
+O1 O2- 12 b -.02686(26) 0.36642(23) 0.92610(23) . 1. 0
+O2 O2- 12 b 0.18445(27) 0.69541(24) 0.99294(23) . 1. 0
+O3 O2- 12 b 0.10074(27) 0.25593(27) 0.32853(29) . 1. 0
+D1 D1+ 12 b 0.02163(25) 0.30189(25) 0.92121(28) . 1. 0
+D2 D1+ 12 b -.07326(28) 0.36684(26) 0.86187(27) . 1. 0
+D3 D1+ 12 b 0.25114(31) 0.66185(31) 0.02221(31) . 1. 0
+D4 D1+ 12 b 0.16799(29) 0.75864(27) 0.03976(27) . 1. 0
+D5 D1+ 12 b 0.05069(31) 0.22681(37) 0.27323(36) . 1. 0
+D6 D1+ 12 b 0.06031(48) 0.30690(34) 0.37063(56) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0313(13) 0.0313(13) 0.0313(13) -.0043(14) 0.0043(14) -.0043(14)
+Na2 Na1+ 0.0306(13) 0.0306(13) 0.0306(13) -.0012(14) -.0012(14) -.0012(14)
+Na3 Na1+ 0.0336(14) 0.0336(14) 0.0336(14) -.0037(15) -.0037(15) -.0037(15)
+Sb1 Sb5+ 0.0253(7) 0.0253(7) 0.0253(7) 0.0011(8) 0.0011(8) 0.0011(8)
+S1 S2- 0.0435(22) 0.0435(22) 0.0435(22) -.0062(24) -.0062(24) -.0062(24)
+S2 S2- 0.0249(19) 0.0323(22) 0.0325(22) 0.0027(18) 0.0032(18) 0.0041(19)
+O1 O2- 0.0429(13) 0.0295(11) 0.0324(12) 0.0032(11) -.0020(11) -.0032(9)
+O2 O2- 0.0444(15) 0.0364(13) 0.0321(12) -.0080(12) -.0040(11) -.0066(11)
+O3 O2- 0.0390(14) 0.0372(14) 0.0490(16) 0.010(12) -.0001(13) -.0026(12)
+D1 D1+ 0.0557(16) 0.0400(13) 0.0563(17) 0.0122(13) 0.0011(14) -.0059(12)
+D2 D1+ 0.0547(16) 0.0479(14) 0.0444(14) -.0017(13) -.0071(13) -.0081(12)
+D3 D1+ 0.0586(19) 0.0598(19) 0.0553(17) 0.0045(16) -.0143(16) -.0008(15)
+D4 D1+ 0.0625(18) 0.0481(15) 0.0481(15) -.0087(14) 0.0069(14) -.0115(13)
+D5 D1+ 0.0495(17) 0.0752(23) 0.0697(22) -.0087(17) -.0156(16) 0.0123(19)
+D6 D1+ 0.0980(33) 0.0471(18) 0.1388(47) 0.0112(21) 0.0648(34) -.0036(25)
+#End of TTdata_30530-ICSD

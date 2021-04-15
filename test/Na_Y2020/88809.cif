@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_88809-ICSD
+_database_code_ICSD 88809
+_audit_creation_date 2001-07-16
+_audit_update_record 2008-08-01
+_chemical_name_systematic
+'Trisodium diiron(III) bis(phosphate(V)) trifluoride - gamma'
+_chemical_formula_structural 'Na3 Fe2 (P O4)2 F3'
+_chemical_formula_sum 'F3 Fe2 Na3 O8 P2'
+_exptl_crystal_density_diffrn 3.28
+_cell_measurement_temperature 83.
+_publ_section_title
+
+;
+Phase transitions in the Na3 M2 (P O4)2 F3 family (M = Al(3+), V(3+), Cr(3+),
+Fe(3+), Ga(3+)) : synthesis, thermal, structural and magnetic studies
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1999 148 260 277 JSSCBI
+loop_
+_publ_author_name
+'le Meins, J.M.'
+'Crosnier-Lopez, M.P.'
+'Hemon-Ribaud, A.'
+'Courbion, G.'
+_cell_length_a 12.756(1)
+_cell_length_b 12.803(1)
+_cell_length_c 10.602(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1731.47
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 g 0.112(4) 0.411(3) 0 1.2 1. 0
+Na2 Na1+ 4 h 0.116(3) 0.131(3) 0.5 1.2 1. 0
+Na3 Na1+ 4 h 0.407(4) 0.360(3) 0.5 1.2 1. 0
+Na4 Na1+ 4 g 0.385(4) 0.386(3) 0 1.2 1. 0
+Na5 Na1+ 4 h 0.103(4) 0.362(4) 0.5 1.2 1. 0
+Na6 Na1+ 4 g 0.338(3) 0.615(4) 0 1.2 1. 0
+Fe1 Fe3+ 8 i 0.002(1) 0.249(1) 0.1842(7) 0.15 1. 0
+Fe2 Fe3+ 8 i 0.249(2) -.0047(8) 0.3068(6) 0.15 1. 0
+P1 P5+ 8 i 0.240(2) 0.252(1) 0.242(1) 0.15 1. 0
+P2 P5+ 4 e 0 0 0.237(2) 0.15 1. 0
+P3 P5+ 4 f 0 0.5 0.245(4) 0.15 1. 0
+O1 O2- 8 i 0.243(2) 0.350(1) 0.347(2) 0.6 1. 0
+O2 O2- 8 i 0.154(1) 0.257(1) 0.849(2) 0.6 1. 0
+O3 O2- 8 i 0.254(2) 0.642(1) 0.322(1) 0.6 1. 0
+O4 O2- 8 i 0.350(1) 0.266(1) 0.173(2) 0.6 1. 0
+O5 O2- 8 i 0.012(2) 0.089(2) 0.164(2) 0.6 1. 0
+O6 O2- 8 i 0.404(2) -.013(1) 0.329(2) 0.6 1. 0
+O7 O2- 8 i -.011(1) 0.414(2) 0.159(2) 0.6 1. 0
+O8 O2- 8 i 0.095(2) -.005(1) 0.335(2) 0.6 1. 0
+F1 F1- 4 g -.003(2) 0.251(4) 0 0.9 1. 0
+F2 F1- 4 h 0.245(4) -.002(2) 0.5 0.9 1. 0
+F3 F1- 8 i 0.006(2) 0.255(2) 0.373(1) 0.9 1. 0
+F4 F1- 8 i 0.247(3) -.017(1) 0.136(1) 0.9 1. 0
+#End of TTdata_88809-ICSD

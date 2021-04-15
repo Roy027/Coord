@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416726-ICSD
+_database_code_ICSD 416726
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Trisodium hexaborotridecaoxophosphate(V)'
+_chemical_formula_structural 'Na3 B6 P O13'
+_chemical_formula_sum 'B6 Na3 O13 P1'
+_chemical_name_structure_type Ba7Sn3Se13
+_exptl_crystal_density_diffrn 2.42
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Low-temperature flux syntheses and characterizations of two 1-D anhydrous
+borophosphates: Na3 B6 P O13 and Na3 B P2 O8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 233 239 JSSCBI
+loop_
+_publ_author_name
+'Xiong Ding Bang'
+'Chen Hao Hong'
+'Yang Xin Xin'
+'Zhao Jing Thai'
+_cell_length_a 9.3727(4)
+_cell_length_b 16.2307(7)
+_cell_length_c 6.7232(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1022.77
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0509
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 c 0.30992(8) 0.25 0.17409(12) 0.0126(2) 1 0
+Na1 Na1+ 4 c 0.56022(13) 0.25 -0.25206(15) 0.0156(3) 1 0
+Na2 Na1+ 8 d -0.05993(9) 0.63320(6) 0.74344(12) 0.0204(3) 1 0
+O1 O2- 4 c 0.1707(2) 0.25 0.0667(3) 0.0185(5) 1 0
+O2 O2- 8 d 0.31251(14) 0.32733(10) 0.3163(2) 0.0134(4) 1 0
+O3 O2- 4 c 0.4450(2) 0.25 0.0584(3) 0.0174(5) 1 0
+O4 O2- 8 d 0.43959(14) 0.37474(9) 0.6016(2) 0.0121(4) 1 0
+O5 O2- 8 d 0.31069(14) 0.48914(10) 0.7355(2) 0.0171(4) 1 0
+O6 O2- 8 d 0.05896(14) 0.48815(10) 0.74878(19) 0.0144(4) 1 0
+O7 O2- 8 d 0.18013(14) 0.37704(9) 0.5956(2) 0.0118(4) 1 0
+O8 O2- 4 c 0.3055(2) 0.25 0.6233(3) 0.0119(5) 1 0
+B1 B3+ 8 d 0.3098(2) 0.32927(15) 0.5363(4) 0.0099(5) 1 0
+B2 B3+ 8 d 0.4359(2) 0.44737(15) 0.6951(4) 0.0105(5) 1 0
+B3 B3+ 8 d 0.1835(2) 0.44966(15) 0.6912(4) 0.0107(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0125(4) 0.0136(4) 0.0119(4) 0. 0.0001(3) 0.
+Na1 Na1+ 0.0153(7) 0.0173(7) 0.0142(7) 0. -0.0016(5) 0.
+Na2 Na1+ 0.0169(6) 0.0172(6) 0.0273(6) -0.0001(4) -0.0029(4) 0.0014(4)
+O1 O2- 0.0149(13) 0.0229(13) 0.0177(12) 0. -0.0043(9) 0.
+O2 O2- 0.0188(9) 0.0103(8) 0.0109(7) -0.0003(6) 0.0000(6) 0.0011(6)
+O3 O2- 0.0158(12) 0.0220(13) 0.0145(11) 0. 0.0044(9) 0.
+O4 O2- 0.0072(7) 0.0113(8) 0.0178(8) 0.0012(6) -0.0010(6) -0.0022(6)
+O5 O2- 0.0086(8) 0.0123(9) 0.0305(10) -0.0005(7) 0.0003(6) -0.0077(7)
+O6 O2- 0.0090(8) 0.0078(8) 0.0264(9) -0.0007(7) 0.0045(6) -0.0002(6)
+O7 O2- 0.0081(8) 0.0108(8) 0.0164(8) 0.0006(6) 0.0000(6) -0.0037(6)
+O8 O2- 0.0181(12) 0.0080(11) 0.0095(10) 0. -0.0006(8) 0.
+B1 B3+ 0.0086(12) 0.0091(11) 0.0118(11) 0.0011(9) 0.0009(9) -0.0027(9)
+B2 B3+ 0.0082(12) 0.0093(11) 0.0140(11) 0.0005(9) 0.0004(10) 0.0022(9)
+B3 B3+ 0.0092(12) 0.0099(12) 0.0131(11) 0.0002(9) 0.0003(9) -0.0002(9)
+#End of TTdata_416726-ICSD

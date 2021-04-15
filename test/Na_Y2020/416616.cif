@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416616-ICSD
+_database_code_ICSD 416616
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium europium tetrakis(catena-phosphate(V))'
+_chemical_formula_structural 'Na Eu (P O3)4'
+_chemical_formula_sum 'Eu1 Na1 O12 P4'
+_chemical_name_structure_type KCe(PO3)4
+_exptl_crystal_density_diffrn 3.54
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal and band structures and optical characterizations of sodium rare earth
+phosphates Na Ln P2 O7 and Na Ln (P O3)4 (Ln= Ce, Eu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2008 454 419 426 JALCEU
+loop_
+_publ_author_name
+'Zhu Jing'
+'Cheng Wen Dan'
+'Wu Dongsheng'
+'Zhang Hao'
+'Gong Yajing'
+'Tong Huanan'
+'Zhao Dan'
+_cell_length_a 7.1878(5)
+_cell_length_b 13.0612(10)
+_cell_length_c 9.8227(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.501(5)
+_cell_angle_gamma 90.
+_cell_volume 922.13
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0225
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 4 e -0.01290(3) 0.781966(13) 0.023578(18) 0.00655(10) 1 0
+P1 P5+ 4 e 0.12246(14) 0.61487(7) -0.26363(10) 0.0067(2) 1 0
+P2 P5+ 4 e -0.26839(14) 0.59050(7) -0.19827(10) 0.0070(2) 1 0
+P3 P5+ 4 e 0.35331(13) 0.62799(7) 0.19520(10) 0.0070(2) 1 0
+P4 P5+ 4 e -0.24952(13) 0.60104(7) 0.25570(10) 0.0068(2) 1 0
+Na1 Na1+ 4 e 0.0004(3) 0.72178(13) 0.4353(2) 0.0212(4) 1 0
+O1 O2- 4 e 0.2159(4) 0.51346(19) -0.2088(3) 0.0116(6) 1 0
+O2 O2- 4 e -0.0880(4) 0.58054(19) -0.2903(3) 0.0111(6) 1 0
+O3 O2- 4 e -0.2832(4) 0.47815(19) -0.1337(3) 0.0109(5) 1 0
+O4 O2- 4 e -0.4291(4) 0.6108(2) -0.2911(3) 0.0130(6) 1 0
+O5 O2- 4 e -0.3016(4) 0.85402(19) 0.1021(3) 0.0100(5) 1 0
+O6 O2- 4 e 0.3205(4) 0.6332(2) 0.3442(3) 0.0104(5) 1 0
+O7 O2- 4 e -0.0938(4) 0.66539(19) 0.2048(3) 0.0114(6) 1 0
+O8 O2- 4 e -0.4286(4) 0.62466(19) 0.1657(3) 0.0094(5) 1 0
+O9 O2- 4 e 0.2138(4) 0.89239(19) -0.0945(3) 0.0109(6) 1 0
+O10 O2- 4 e 0.1323(4) 0.6893(2) -0.1512(3) 0.0113(6) 1 0
+O11 O2- 4 e 0.2803(4) 0.71105(17) 0.1060(3) 0.0104(6) 1 0
+O12 O2- 4 e -0.2383(4) 0.66133(19) -0.0825(3) 0.0119(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu3+ 0.00672(14) 0.00697(13) 0.00595(14) 0.00010(6) 0.00001(9) -0.00019(6)
+P1 P5+ 0.0078(5) 0.0054(4) 0.0070(4) -0.0005(3) 0.0009(4) -0.0001(3)
+P2 P5+ 0.0062(5) 0.0054(4) 0.0093(5) -0.0002(3) 0.0003(4) -0.0001(3)
+P3 P5+ 0.0076(5) 0.0061(4) 0.0075(4) 0.0004(4) -0.0008(4) -0.0004(3)
+P4 P5+ 0.0069(5) 0.0060(4) 0.0074(4) 0.0010(3) -0.0002(4) 0.0008(3)
+Na1 Na1+ 0.0183(11) 0.0293(10) 0.0160(9) -0.0058(7) -0.0025(8) -0.0014(7)
+O1 O2- 0.0144(14) 0.0084(11) 0.0120(12) 0.0032(11) -0.0008(11) 0.0003(11)
+O2 O2- 0.0089(14) 0.0138(12) 0.0105(13) 0.0004(11) 0.0012(11) -0.0032(11)
+O3 O2- 0.0168(15) 0.0046(10) 0.0112(13) -0.0028(11) -0.0025(11) -0.0001(10)
+O4 O2- 0.0086(14) 0.0174(13) 0.0130(13) -0.0003(11) -0.0020(11) 0.0060(11)
+O5 O2- 0.0099(14) 0.0122(12) 0.0079(13) 0.0000(10) 0.0026(11) -0.0024(10)
+O6 O2- 0.0121(14) 0.0129(12) 0.0062(13) -0.0026(11) 0.0020(11) -0.0023(10)
+O7 O2- 0.0113(14) 0.0105(12) 0.0124(14) -0.0022(11) -0.0009(11) 0.0023(11)
+O8 O2- 0.0073(13) 0.0136(12) 0.0073(12) 0.0013(10) 0.0004(10) 0.0008(10)
+O9 O2- 0.0109(14) 0.0135(12) 0.0084(13) -0.0025(11) -0.0009(11) 0.0000(11)
+O10 O2- 0.0128(15) 0.0113(12) 0.0098(13) -0.0017(11) 0.0020(11) -0.0038(11)
+O11 O2- 0.0089(15) 0.0079(13) 0.0144(15) 0.0013(10) -0.0011(12) 0.0009(10)
+O12 O2- 0.0111(14) 0.0114(12) 0.0133(14) -0.0017(11) 0.0039(11) -0.0038(11)
+#End of TTdata_416616-ICSD

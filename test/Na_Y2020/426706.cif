@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426706-ICSD
+_database_code_ICSD 426706
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium triindium pentasulfide'
+_chemical_formula_structural 'Na In3 S5'
+_chemical_formula_sum 'In3 Na1 S5'
+_exptl_crystal_density_diffrn 4.59
+_cell_measurement_temperature 293.
+_publ_section_title
+'Na In3 S5, a new compound from the Ca S - In2 S3/Na Br system'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2015 624 279 283 JALCEU
+loop_
+_publ_author_name
+'Zeng, Hui-Yi'
+'Zhang, Ming-Jian'
+'Liu, Bin-Wen'
+'Ye, Ning'
+'Zhao, Zhong-Yan'
+'Zheng, Fa-Kun'
+'Guo, Guo-Cong'
+'Huang, Jin-Shun'
+_cell_length_a 12.4963(8)
+_cell_length_b 16.0811(10)
+_cell_length_c 3.8041(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 764.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.0359
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Na1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 h 0.2929(1) 0.3772(1) 0.5 0.021(1) 1. 0
+In2 In3+ 4 g 0.0396(1) 0.3017(1) 0 0.016(1) 1. 0
+In3 In3+ 2 d 0 0.5 0.5 0.016(1) 1. 0
+In4 In3+ 2 a 0 0 0 0.016(1) 1. 0
+Na1 Na1+ 4 g 0.2498(4) 0.1257(3) 0 0.019(1) 1. 0
+S1 S2- 4 h 0.1382(2) 0.0251(2) 0.5 0.014(1) 1. 0
+S2 S2- 4 h 0.1701(2) 0.2534(2) 0.5 0.014(1) 1. 0
+S3 S2- 4 h 0.4170(2) 0.1418(2) 0.5 0.013(1) 1. 0
+S4 S2- 4 g 0.1380(2) 0.4458(2) 0 0.015(1) 1. 0
+S5 S2- 4 g 0.4257(2) 0.3415(2) 0 0.015(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.0239(5) 0.0225(5) 0.0163(4) -0.0104(4) 0. 0.
+In2 In3+ 0.0167(5) 0.0189(4) 0.0132(4) 0.0005(3) 0. 0.
+In3 In3+ 0.0221(7) 0.0119(5) 0.0132(4) 0.0005(3) 0. 0.
+In4 In3+ 0.0136(6) 0.0225(6) 0.0115(5) 0.0025(5) 0. 0.
+Na1 Na1+ 0.018(2) 0.022(2) 0.016(2) -0.005(2) 0. 0.
+S1 S2- 0.0129(14) 0.0181(13) 0.0123(12) -0.0018(11) 0. 0.
+S2 S2- 0.0113(14) 0.0154(13) 0.0150(13) -0.0003(11) 0. 0.
+S3 S2- 0.0131(14) 0.0150(13) 0.0111(12) 0.0000(11) 0. 0.
+S4 S2- 0.0159(15) 0.0171(13) 0.0124(13) -0.0010(11) 0. 0.
+S5 S2- 0.0173(14) 0.0140(13) 0.0148(13) 0.0018(11) 0. 0.
+#End of TTdata_426706-ICSD

@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240898-ICSD
+_database_code_ICSD 240898
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Trisodium dihydroxidotetraoxidoneptunate(VII)'
+_chemical_formula_structural 'Na3 (Np O4 (O H)2)'
+_chemical_formula_sum 'H2 Na3 Np1 O6'
+_chemical_name_structure_type Na3NpO4(OH)2
+_exptl_crystal_density_diffrn 4.4
+_cell_measurement_temperature 100.
+_publ_section_title
+'Reinvestigation of trisodium dihydroxidotetraoxidoneptunate(VII)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2007 63
+i176 i176 ACSEBH
+loop_
+_publ_author_name
+'Grigoriev, M.S.'
+'Krot, N.N.'
+_cell_length_a 20.0791(6)
+_cell_length_b 5.9534(2)
+_cell_length_c 10.2062(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1220.04
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.012
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Np7+ 7
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Np1 Np7+ 8 a 0.5 0.5 0.53211(2) 0.004940(10) 1 0
+Na1 Na1+ 8 a 0.5 0.5 0.86871(10) 0.00964(14) 1 0
+Na2 Na1+ 16 b 0.65942(4) 0.75441(14) 0.45853(8) 0.01332(11) 1 0
+O1 O2- 16 b 0.55153(7) 0.6409(2) 0.66461(14) 0.01161(19) 1 0
+O2 O2- 16 b 0.55254(6) 0.6438(2) 0.40181(13) 0.00956(17) 1 0
+O3 O2- 16 b 0.42959(5) 0.80708(19) 0.51985(14) 0.00980(16) 1 0
+H1 H1+ 16 b 0.3955(13) 0.777(6) 0.483(4) 0.025(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Np1 Np7+ 0.00478(2) 0.00542(2) 0.00464(2) -0.00093(4) 0. 0.
+Na1 Na1+ 0.0127(3) 0.0077(3) 0.0085(4) 0.0009(3) 0. 0.
+Na2 Na1+ 0.0175(3) 0.0125(3) 0.0100(3) -0.0028(3) -0.0028(2) -0.0007(2)
+O1 O2- 0.0122(4) 0.0120(5) 0.0106(5) -0.0027(4) -0.0039(4) -0.0019(4)
+O2 O2- 0.0098(4) 0.0091(4) 0.0097(4) 0.0009(3) 0.0041(3) 0.0017(3)
+O3 O2- 0.0087(3) 0.0089(3) 0.0118(5) 0.0011(3) 0.0007(3) -0.0018(3)
+#End of TTdata_240898-ICSD

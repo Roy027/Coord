@@ -1,0 +1,123 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60000-ICSD
+_database_code_ICSD 60000
+_audit_creation_date 1986-04-14
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Trisodium pentaantimony fluoride'
+_chemical_formula_structural 'Na3 Sb5 F18'
+_chemical_formula_sum 'F18 Na3 Sb5'
+_exptl_crystal_density_diffrn 4.25
+_publ_section_title
+'Etude structurale d'un polyfluoroantimonate de sodium Na3 Sb5 F18'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1983 20 837 844 RVCMA8
+loop_
+_publ_author_name
+'Fourcade, R.'
+'Mascherpa, G.'
+'Ducourant, M.B.'
+_cell_length_a 5.459(2)
+_cell_length_b 24.089(9)
+_cell_length_c 12.119(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.16(2)
+_cell_angle_gamma 90.
+_cell_volume 1593.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb3+ 3
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb3+ 4 e 0.8241(2) 0.69535(5) 0.96838(9) . 1. 0
+Sb2 Sb3+ 4 e 0.7972(2) 0.93393(5) 0.47093(9) . 1. 0
+Sb3 Sb3+ 4 e 0.7192(2) 0.82059(5) 0.75779(9) . 1. 0
+Sb4 Sb3+ 4 e 0.2396(2) 0.32519(5) 0.46307(9) . 1. 0
+Sb5 Sb3+ 4 e 0.7621(2) 0.54306(5) 0.28488(9) . 1. 0
+Na1 Na1+ 4 e 0.223(1) 0.0668(3) 0.9950(7) . 1. 0
+Na2 Na1+ 4 e 0.219(1) 0.1920(4) 0.7575(6) . 1. 0
+Na3 Na1+ 4 e 0.745(1) 0.0680(3) 0.7571(6) . 1. 0
+F1 F1- 4 e 0.520(2) 0.1160(5) 0.9006(9) . 1. 0
+F2 F1- 4 e 0.960(2) 0.1355(4) 0.8629(8) . 1. 0
+F3 F1- 4 e 0.121(2) 0.1178(4) 0.6438(8) . 1. 0
+F4 F1- 4 e 0.003(2) 0.2374(4) 0.9098(8) . 1. 0
+F5 F1- 4 e 0.429(2) 0.4031(5) 0.9485(9) . 1. 0
+F6 F1- 4 e 0.622(2) 0.1380(2) 0.6434(9) . 1. 0
+F7 F1- 4 e 0.890(2) 0.3452(5) 0.9568(9) . 1. 0
+F8 F1- 4 e 0.858(2) 0.0805(5) 0.0737(9) . 1. 0
+F9 F1- 4 e 0.048(2) 0.2803(5) 0.3601(9) . 1. 0
+F10 F1- 4 e 0.952(2) 0.0187(5) 0.6019(9) . 1. 0
+F11 F1- 4 e 0.412(2) 0.0216(5) 0.6889(9) . 1. 0
+F12 F1- 4 e 0.489(2) 0.0147(5) 0.1165(9) . 1. 0
+F13 F1- 4 e 0.274(2) 0.1628(5) 0.0850(9) . 1. 0
+F14 F1- 4 e 0.424(2) 0.2341(4) 0.6142(8) . 1. 0
+F15 F1- 4 e 0.391(2) 0.2603(5) 0.1694(9) . 1. 0
+F16 F1- 4 e 0.296(3) 0.0952(5) 0.249(1) . 1. 0
+F17 F1- 4 e 0.053(2) 0.0163(4) 0.8429(9) . 1. 0
+F18 F1- 4 e 0.130(2) 0.3256(5) 0.748(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 Sb3+ 0.011 0.0139 0.0204 0.0014 0.01 -.0003
+Sb2 Sb3+ 0.0137 0.016 0.021 0.0009 0.0087 -.0011
+Sb3 Sb3+ 0.0183 0.0176 0.0217 0.0076 0.0074 -.005
+Sb4 Sb3+ 0.0108 0.0158 0.0178 0.0016 0.0072 -.0048
+Sb5 Sb3+ 0.0147 0.0136 0.019 0.0005 0.0051 -.0005
+Na1 Na1+ 0.0267 0.0287 0.0324 -.0119 0.0088 0.0022
+Na2 Na1+ 0.0219 0.0353 0.0267 -.021 0.0205 -.0101
+Na3 Na1+ 0.0207 0.0166 0.03 0.009 0.0044 -.0048
+F1 F1- 0.0174 0.0306 0.0278 -.0149 0.012 -.0176
+F2 F1- 0.0129 0.0208 0.0245 -.0053 0.0159 -.0102
+F3 F1- 0.0206 0.0192 0.0245 -.0012 0.007 -.0113
+F4 F1- 0.0236 0.0219 0.0199 -.012 0.0128 -.0057
+F5 F1- 0.0269 0.0349 0.0265 -.0126 -.0204 0.0159
+F6 F1- 0.0206 0.02 0.0414 -.0098 0.008 0.0216
+F7 F1- 0.0292 0.0272 0.0252 0.0244 -.0094 -.0114
+F8 F1- 0.0383 0.0375 0.0295 0.0049 0.0216 0.0301
+F9 F1- 0.018 0.0268 0.0409 -.0005 -.0016 -.0221
+F10 F1- 0.0194 0.0228 0.033 -.0117 0.0094 0.0012
+F11 F1- 0.0223 0.0316 0.0359 -.011 0.0093 0.0325
+F12 F1- 0.0212 0.0323 0.0268 -.0079 -.0107 -.0108
+F13 F1- 0.0356 0.0438 0.0283 -.0113 0.0144 -.0253
+F14 F1- 0.014 0.0251 0.0266 -.0007 0.0166 -.0007
+F15 F1- 0.0206 0.0298 0.0347 -.0083 0.0071 0.0099
+F16 F1- 0.0574 0.0173 0.0705 -.0088 0.0034 -.0068
+F17 F1- 0.0207 0.019 0.036 0.0176 0.0077 -.0129
+F18 F1- 0.0133 0.0383 0.058 -.0142 0.0002 -.0067
+#End of TTdata_60000-ICSD

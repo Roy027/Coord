@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426076-ICSD
+_database_code_ICSD 426076
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Nonasodium iron hexamolybdate'
+_chemical_formula_structural 'Na9 Fe (Mo O4)6'
+_chemical_formula_sum 'Fe1 Mo6 Na9 O24'
+_exptl_crystal_density_diffrn 3.33
+_cell_measurement_temperature 296.
+_publ_section_title
+'New double molybdate Na9 Fe (Mo O4)6: Synthesis, structure, properties'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2013 205 149 153 JSSCBI
+loop_
+_publ_author_name
+'Savina, Aleksandra A.'
+'Solodovnikov, Sergey F.'
+'Basovich, Olga M.'
+'Solodovnikova, Zoya A.'
+'Belov, Dmitry A.'
+'Pokholok, Konstantin V.'
+'Gudkova, Irina A.'
+'Stefanovich, Sergey Yu.'
+'Lazoryak, Bogdan I.'
+'Khaikina, Elena G.'
+_cell_length_a 14.8264(2)
+_cell_length_b 14.8264(2)
+_cell_length_c 19.2402(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 3662.79
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0132
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Fe3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 18 f 0.525248(11) 0.857473(11) 0.026867(7) 0.01421(4) 1 0
+Mo2 Mo6+ 18 f 0.514955(12) 0.650139(13) 0.522715(7) 0.01605(4) 1 0
+Fe1 Fe3+ 6 c 0. 0. 0.25343(2) 0.01161(7) 1 0
+Na1 Na1+ 18 f 0.00986(9) 0.22836(7) 0.25067(5) 0.0317(2) 1 0
+Na2 Na1+ 18 f 0.01280(8) 0.23039(8) 0.05091(4) 0.0303(2) 1 0
+Na3 Na1+ 18 f 0.01831(8) 0.24046(7) 0.45009(4) 0.0295(2) 1 0
+O1 O2- 18 f 0.58345(13) 0.78097(13) 0.03101(8) 0.0285(3) 1 0
+O2 O2- 18 f 0.49785(14) 0.88323(16) 0.11054(7) 0.0331(4) 1 0
+O3 O2- 18 f 0.61159(12) 0.97809(12) -0.01123(8) 0.0288(3) 1 0
+O4 O2- 18 f 0.40498(11) 0.79566(11) -0.02115(7) 0.0209(3) 1 0
+O5 O2- 18 f 0.58126(14) 0.78553(13) 0.52312(8) 0.0326(4) 1 0
+O6 O2- 18 f 0.47783(14) 0.60405(14) 0.60754(7) 0.0342(4) 1 0
+O7 O2- 18 f 0.60287(12) 0.61246(13) 0.49161(8) 0.0276(3) 1 0
+O8 O2- 18 f 0.40053(12) 0.60261(12) 0.46865(7) 0.0209(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.01359(7) 0.01340(7) 0.01424(6) 0.00571(5) -0.00240(5) -0.00295(5)
+Mo2 Mo6+ 0.01451(7) 0.01914(8) 0.01526(6) 0.00898(6) -0.00332(5) 0.00030(5)
+Fe1 Fe3+ 0.00989(11) 0.00989(11) 0.01504(15) 0.00495(5) 0. 0.
+Na1 Na1+ 0.0470(6) 0.0229(5) 0.0328(4) 0.0232(5) -0.0186(4) -0.0098(3)
+Na2 Na1+ 0.0406(6) 0.0315(5) 0.0226(4) 0.0208(5) 0.0003(4) 0.0004(3)
+Na3 Na1+ 0.0392(5) 0.0309(5) 0.0220(4) 0.0202(4) 0.0042(4) 0.0040(3)
+O1 O2- 0.0249(8) 0.0261(8) 0.0385(8) 0.0158(7) -0.0094(6) -0.0059(6)
+O2 O2- 0.0369(9) 0.0537(11) 0.0155(6) 0.0277(8) -0.0050(6) -0.0082(6)
+O3 O2- 0.0249(8) 0.0184(7) 0.0352(8) 0.0049(6) 0.0044(6) 0.0037(6)
+O4 O2- 0.0196(7) 0.0169(7) 0.0280(6) 0.0104(6) -0.0096(5) -0.0090(5)
+O5 O2- 0.0288(9) 0.0205(7) 0.0433(8) 0.0083(7) -0.0134(7) -0.0037(6)
+O6 O2- 0.0377(10) 0.0432(10) 0.0158(6) 0.0159(8) -0.0012(6) 0.0016(6)
+O7 O2- 0.0221(7) 0.0342(9) 0.0324(7) 0.0183(7) 0.0005(6) 0.0014(6)
+O8 O2- 0.0208(7) 0.0162(6) 0.0273(6) 0.0104(6) -0.0101(5) -0.0021(5)
+#End of TTdata_426076-ICSD

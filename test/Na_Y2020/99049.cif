@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_99049-ICSD
+_database_code_ICSD 99049
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Trisodium heptaborate'
+_chemical_formula_structural 'Na3 (B7 O12)'
+_chemical_formula_sum 'B7 Na3 O12'
+_chemical_name_structure_type Li3B7O12
+_exptl_crystal_density_diffrn 2.41
+_publ_section_title
+'Crystal structure of two new sodium borates Na3 B7 O12 and Na2 Tl2 B10 O17'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2004 363 104 111 JALCEU
+loop_
+_publ_author_name
+'Penin, N.'
+'Touboul, M.'
+'Nowogrocki, G.'
+_cell_length_a 6.638(2)
+_cell_length_b 8.249(2)
+_cell_length_c 8.836(3)
+_cell_angle_alpha 95.875(5)
+_cell_angle_beta 100.680(4)
+_cell_angle_gamma 99.688(4)
+_cell_volume 464.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0293
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.07060(9) 0.73042(7) 0.33618(7) 0.01742(2) 1. 0
+Na2 Na1+ 2 i 0.55486(9) 0.07927(7) 0.28788(8) 0.02193(3) 1. 0
+Na3 Na1+ 2 i 0.22928(10) 0.76165(8) 0.01576(7) 0.02392(2) 1. 0
+O1 O2- 2 i 0.45617(15) 0.40496(12) 0.31788(13) 0.0173(2) 1. 0
+O2 O2- 2 i 0.37398(14) 0.65706(12) 0.23508(11) 0.0136(2) 1. 0
+O3 O2- 2 i 0.59841(14) 0.81025(12) 0.10245(11) 0.0131(2) 1. 0
+O4 O2- 2 i 0.71896(14) 0.59425(11) 0.23992(11) 0.0125(2) 1. 0
+O5 O2- 2 i 0.25955(14) 0.07972(12) 0.09672(11) 0.0134(2) 1. 0
+O6 O2- 2 i 0.09041(15) 0.27120(12) 0.45878(11) 0.0151(2) 1. 0
+O7 O2- 2 i 0.21664(15) 0.03881(12) 0.35229(11) 0.0127(2) 1. 0
+O8 O2- 2 i 0.77667(15) 0.33188(12) 0.31938(13) 0.0162(2) 1. 0
+O9 O2- 2 i -.02868(14) 0.87576(11) 0.13412(11) 0.0122(2) 1. 0
+O10 O2- 2 i -.04065(15) 0.16183(12) 0.19068(11) 0.0149(2) 1. 0
+O11 O2- 2 i 0.10470(15) 0.45491(12) 0.26486(13) 0.0172(2) 1. 0
+O12 O2- 2 i 0.67048(16) 0.85329(12) 0.38166(11) 0.0149(2) 1. 0
+B1 B3+ 2 i 0.31160(20) 0.50186(18) 0.27262(18) 0.0132(3) 1. 0
+B2 B3+ 2 i 0.09720(20) 0.04526(18) 0.19258(17) 0.0110(3) 1. 0
+B3 B3+ 2 i 0.65950(20) 0.44923(18) 0.29417(17) 0.0122(3) 1. 0
+B4 B3+ 2 i -.01130(20) 0.30364(18) 0.30759(17) 0.0115(3) 1. 0
+B5 B3+ 2 i 0.59800(20) 0.72666(18) 0.24238(17) 0.0115(3) 1. 0
+B6 B3+ 2 i 0.21340(20) 0.15512(18) 0.47520(17) 0.0113(3) 1. 0
+B7 B3+ 2 i 0.22680(20) 0.13147(17) -.04666(17) 0.0110(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ .0179(3) .0176(3) .0192(3) .0061(2) .0063(2) .0047(2)
+Na2 Na1+ .0165(3) .0169(3) .0304(4) .0017(2) -.0009(2) .0076(2)
+Na3 Na1+ .0217(3) .0350(4) .0185(3) .0139(3) .0020(2) .0095(3)
+O1 O2- .0110(5) .0151(5) .0293(6) .0049(4) .0073(4) .0095(4)
+O2 O2- .0097(4) .0134(5) .0196(5) .0041(4) .0036(4) .0062(4)
+O3 O2- .0105(4) .0158(5) .0134(5) .0018(3) .0019(3) .0055(3)
+O4 O2- .0102(4) .0123(4) .0164(5) .0038(3) .0035(3) .0035(3)
+O5 O2- .0115(5) .0166(5) .0126(5) .0027(4) .0019(4) .0051(4)
+O6 O2- .0170(5) .0172(5) .0125(5) .0093(4) .0014(4) .0016(4)
+O7 O2- .0135(5) .0140(4) .0109(4) .0051(3) .0009(3) .0017(3)
+O8 O2- .0103(4) .0133(5) .0277(6) .0046(4) .0065(4) .0065(4)
+O9 O2- .0114(4) .0109(4) .0133(5) .0017(3) .0001(4) .0026(3)
+O10 O2- .0164(5) .0156(5) .0123(5) .0083(4) -.0020(4) .0004(4)
+O11 O2- .0101(5) .0149(5) .0293(6) .0037(4) .0060(4) .0089(4)
+O12 O2- .0179(5) .0139(5) .0125(5) .0061(4) -.0007(3) .0010(3)
+B1 B3+ .0117(7) .0133(7) .0158(7) .0039(5) .0039(5) .0032(5)
+B2 B3+ .0111(6) .0122(6) .0096(6) .0028(5) .0008(5) .0017(5)
+B3 B3+ .0099(6) .0128(6) .0137(7) .0029(5) .0017(5) .0008(5)
+B4 B3+ .0098(6) .0114(6) .0144(7) .0035(5) .0032(5) .0030(5)
+B5 B3+ .0102(6) .0121(6) .0124(7) .0026(5) .0018(5) .0034(5)
+B6 B3+ .0105(6) .0116(6) .0123(7) .0020(5) .0027(5) .0034(5)
+B7 B3+ .0124(7) .0095(6) .0112(6) .0025(5) .0027(5) .0010(5)
+#End of TTdata_99049-ICSD

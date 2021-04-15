@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412212-ICSD
+_database_code_ICSD 412212
+_audit_creation_date 2003-04-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Nonasodium ferrate(II) ferrate(III)'
+_chemical_formula_structural 'Na9 (Fe O3) (Fe O4)'
+_chemical_formula_sum 'Fe2 Na9 O7'
+_chemical_name_structure_type Fe2Na9O7
+_exptl_crystal_density_diffrn 2.9
+_publ_section_title
+
+;
+Na9 (Fe O3) (Fe o4) ein gemischtvalentes Oxoferrat(II,III) mit isolierten (Fe
+O3)(4-) und (Fe O4)(5-) Anionen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2002
+628 917 919 ZAACAB
+loop_
+_publ_author_name
+'Amann, P.'
+'Moeller, A.'
+_cell_length_a 9.5618(15)
+_cell_length_b 9.991(2)
+_cell_length_c 10.3226(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 986.14
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.0455
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Fe2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0.15918(7) 0.89920(7) 0.14679(7) 0.01536(14) 1. 0
+Fe2 Fe2+ 4 a 0.18582(7) 0.43178(7) -.69756(8) 0.01718(15) 1. 0
+Na1 Na1+ 4 a 0.3401(2) 0.6090(2) -.8703(3) 0.0276(5) 1. 0
+Na2 Na1+ 4 a 0.3463(2) 1.0622(2) 0.3259(2) 0.0262(5) 1. 0
+Na3 Na1+ 4 a 0.2760(2) 0.7837(2) 0.3883(2) 0.0239(5) 1. 0
+Na4 Na1+ 4 a -.0886(2) 0.9862(2) 0.0221(2) 0.0214(5) 1. 0
+Na5 Na1+ 4 a 0.2118(2) 0.2722(2) -.4428(3) 0.0267(5) 1. 0
+Na6 Na1+ 4 a 0.0144(2) 0.6608(3) 0.2388(2) 0.0266(5) 1. 0
+Na7 Na1+ 4 a 0.5137(3) 0.7579(2) -.0110(3) 0.0284(5) 1. 0
+Na8 Na1+ 4 a 0.4229(2) 0.5440(3) -.5297(2) 0.0286(5) 1. 0
+Na9 Na1+ 4 a 0.0656(2) 0.1666(2) -.7470(2) 0.0260(5) 1. 0
+O1 O2- 4 a 0.1684(4) 0.0664(4) 0.0627(4) 0.0199(8) 1. 0
+O2 O2- 4 a 0.0828(4) 0.4195(4) -.8490(5) 0.0302(9) 1. 0
+O3 O2- 4 a 0.0921(4) 0.9247(4) 0.3181(4) 0.0226(8) 1. 0
+O4 O2- 4 a 0.1613(4) 0.5818(4) -.5909(4) 0.0244(9) 1. 0
+O5 O2- 4 a 0.0432(4) 0.7795(4) 0.0470(4) 0.0197(8) 1. 0
+O6 O2- 4 a 0.3437(3) 0.8351(4) 0.1659(4) 0.0217(8) 1. 0
+O7 O2- 4 a 0.3030(4) 0.2889(4) -.6648(4) 0.0276(9) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0136(3) 0.0178(3) 0.0147(3) -0.0001(3) -0.0006(3) -0.0001(3)
+Fe2 Fe2+ 0.0160(3) 0.0182(3) 0.0173(4) 0.0000(3) 0.0014(3) 0.0006(3)
+Na1 Na1+ 0.0317(11) 0.0273(11) 0.0238(14) 0.0001(9) 0.0012(11) 0.0027(10)
+Na2 Na1+ 0.0227(11) 0.0257(11) 0.0302(15) 0.0005(9) -0.0023(9) -0.0013(10)
+Na3 Na1+ 0.0217(11) 0.0274(11) 0.0228(12) -0.0013(9) -0.0031(10) 0.0042(10)
+Na4 Na1+ 0.0184(10) 0.0265(11) 0.0194(10) 0.0024(8) 0.0000(9) 0.0009(9)
+Na5 Na1+ 0.0234(11) 0.0270(11) 0.0296(13) 0.0028(8) 0.0017(11) -0.002(1)
+Na6 Na1+ 0.0221(10) 0.0325(13) 0.0251(13) 0.0018(10) -0.0003(9) 0.0071(10)
+Na7 Na1+ 0.0254(12) 0.0300(12) 0.0297(13) -0.0035(9) 0.001(1) -0.0026(10)
+Na8 Na1+ 0.0251(11) 0.0370(13) 0.0238(12) 0.0013(10) 0.0006(10) 0.0016(10)
+Na9 Na1+ 0.0222(10) 0.0253(12) 0.0304(13) 0.0008(9) -0.0026(9) -0.0014(10)
+O1 O2- 0.018(2) 0.022(2) 0.020(2) 0.0016(14) 0.0001(15) 0.001(2)
+O2 O2- 0.034(2) 0.035(2) 0.022(2) 0.001(2) -0.007(2) 0.002(2)
+O3 O2- 0.025(2) 0.025(2) 0.018(2) 0.005(2) 0.002(2) -0.001(2)
+O4 O2- 0.029(2) 0.024(2) 0.020(2) 0.001(2) -0.003(2) -0.0050(15)
+O5 O2- 0.019(2) 0.024(2) 0.016(2) -0.0029(14) 0.0004(15) -0.003(2)
+O6 O2- 0.016(2) 0.024(2) 0.025(2) 0.0012(14) -0.0017(15) 0.004(2)
+O7 O2- 0.021(2) 0.029(2) 0.033(2) 0.009(2) 0.001(2) 0.004(2)
+#End of TTdata_412212-ICSD

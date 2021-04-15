@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_27211-ICSD
+_database_code_ICSD 27211
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Sodium hydroxoborate'
+_chemical_formula_structural 'Na2 (B O2 (O H))'
+_chemical_formula_sum 'H1 B1 Na2 O3'
+_exptl_crystal_density_diffrn 2.35
+_publ_section_title 'Structure of Hydrated Sodium Borate Na2 (B O2 (O H))'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 1282 1285 ACBCAR
+loop_
+_publ_author_name
+'Menchetti, S.'
+'Sabelli, C.'
+_cell_length_a 8.627(2)
+_cell_length_b 3.512(1)
+_cell_length_c 9.863(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 298.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+B3+ 3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.42775(9) 0.75 0.10348(8) . 1. 0
+Na2 Na1+ 4 c 0.3281(1) 0.75 0.44690(9) . 1. 0
+O1 O2- 4 c 0.1277(2) 0.25 0.3780(1) . 1. 0
+O2 O2- 4 c 0.2689(2) 0.25 0.1678(1) . 1. 0
+O3 O2- 4 c -.0048(2) 0.25 0.1633(1) . 1. 0
+B1 B3+ 4 c 0.1365(3) 0.25 0.2409(2) . 1. 0
+H1 H1+ 4 c 0.408(4) 0.25 0.273(3) 3. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00358(10) 0.02118(67) 0.00240(7) 0 0.00013(7) 0
+Na2 Na1+ 0.00506(17) 0.03296(81) 0.00316(8) 0 0.00106(8) 0
+O1 O2- 0.00297(15) 0.0313(12) 0.00170(11) 0 0.00003(11) 0
+O2 O2- 0.00223(14) 0.0291(12) 0.00252(12) 0 0.00070(11) 0
+O3 O2- 0.00223(15) 0.0446(14) 0.00226(12) 0 -.00032(11) 0
+B1 B3+ 0.00262(22) 0.0133(13) 0.00225(17) 0 -.00022(16) 0
+#End of TTdata_27211-ICSD

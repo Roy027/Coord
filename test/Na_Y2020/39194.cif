@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39194-ICSD
+_database_code_ICSD 39194
+_audit_creation_date 1986-12-03
+_chemical_name_systematic 'Sodium titanium(III) catena-silicate'
+_chemical_formula_structural 'Na Ti Si2 O6'
+_chemical_formula_sum 'Na1 O6 Si2 Ti1'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_exptl_crystal_density_diffrn 3.4
+_publ_section_title 'The crystal structure of Na Ti Si2 O6 pyroxene.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ganseki Kobutsu Kosho Gakkaishi' 1982 77 305 309 GKKGA2
+loop_
+_publ_author_name
+'Ohashi, H.'
+'Fujita, T.'
+'Osawa, T.'
+_cell_length_a 9.692(2)
+_cell_length_b 8.874(2)
+_cell_length_c 5.301(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.85(1)
+_cell_angle_gamma 90.
+_cell_volume 436.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3020(3) 0.25 . 1. 0
+Ti1 Ti3+ 4 e 0 0.9018(1) 0.25 . 1. 0
+Si1 Si4+ 8 f 0.2919(1) 0.0888(1) 0.2401(3) . 1. 0
+O1 O2- 8 f 0.1166(3) 0.0780(4) 0.1413(6) . 1. 0
+O2 O2- 8 f 0.3612(4) 0.2527(4) 0.3067(6) . 1. 0
+O3 O2- 8 f 0.3513(4) 0.0079(4) 0.0148(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0037(4) 0.0020(3) 0.0150(12) 0 -.0002(5) 0
+Ti1 Ti3+ 0.0007(1) 0.0007(1) 0.0048(4) 0 0.0003(2) 0
+Si1 Si4+ 0.0006(1) 0.0007(1) 0.0048(4) -.0001(1) 0.0007(2) -.0001(2)
+O1 O2- 0.0010(3) 0.0016(3) 0.0009(10) 0.0000(3) -.0002(5) 0.0006(5)
+O2 O2- 0.0014(4) 0.0014(4) 0.0075(12) -.0006(3) 0.0010(5) -.0004(5)
+O3 O2- 0.0009(3) 0.0018(4) 0.0047(11) 0.0000(3) 0.0004(5) -.0008(5)
+#End of TTdata_39194-ICSD

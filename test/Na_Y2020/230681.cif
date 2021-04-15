@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_230681-ICSD
+_database_code_ICSD 230681
+_audit_creation_date 2019-08-01
+_chemical_name_systematic 'Sodium manganese iron phosphate (1.65/1.35/1.5/3)'
+_chemical_formula_structural 'Na1.65 Mn1.35 Fe1.5 (P O4)3'
+_chemical_formula_sum 'Fe1.5 Mn1.35 Na1.65 O12 P3'
+_chemical_name_structure_type Alluaudite
+_exptl_crystal_density_diffrn 3.55
+_publ_section_title
+
+;
+Facile solvothermal synthesis of Na1.5[]0.5Mn1.5Fe1.5(PO4)3: Electrochemical
+study as a dual electrode material for lithium-ion batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2018 326 18 26 SSIOD3
+loop_
+_publ_author_name
+'Karegeya, Claude'
+'Mahmoud, Abdelfattah'
+'Hatert, Frederic'
+'Cloots, Rudi'
+'Vertruyen, Benedicte'
+'Lippens, Pierre Emmanuel'
+'Boschini, Frederic'
+_cell_length_a 12.070(1)
+_cell_length_b 12.641(1)
+_cell_length_c 6.480(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.391(2)
+_cell_angle_gamma 90.
+_cell_volume 900.46
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0754
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn2+ 2
+Fe3+ 3
+Mn2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 -0.010(2) 0.25 1. 0.64(2) 0
+Na2 Na1+ 4 b 0.5 0 0 1. 0.99(2) 0
+Mn1 Mn2+ 4 e 0 0.2660(5) 0.25 1. 0.93(1) 0
+Fe1 Fe3+ 8 f 0.2778(4) 0.6545(3) 0.3637(8) 1. 0.75(1) 0
+Mn2 Mn2+ 8 f 0.2778(4) 0.6545(3) 0.3637(8) 1. 0.21(1) 0
+P1 P5+ 4 e 0 -0.2825(8) 0.25 1.9(3) 1. 0
+P2 P5+ 8 f 0.2359 -0.1076 0.1312 1.9(3) 1. 0
+O1 O2- 8 f 0.453(1) 0.712(1) 0.534(2) 1.1(3) 1. 0
+O2 O2- 8 f 0.099(1) 0.6407(9) 0.241(2) 1.1(3) 1. 0
+O3 O2- 8 f 0.334(1) 0.667(1) 0.1099(2) 1.1(3) 1. 0
+O4 O2- 8 f 0.129(1) 0.4006(9) 0.328(2) 1.1(3) 1. 0
+O5 O2- 8 f 0.225(1) 0.822(1) 0.317(2) 1.1(3) 1. 0
+O6 O2- 8 f 0.3230(9) 0.505(1) 0.379(2) 1.1(3) 1. 0
+#End of TTdata_230681-ICSD

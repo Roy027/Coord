@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_264492-ICSD
+_database_code_ICSD 264492
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Sodium iron phosphate'
+_chemical_formula_structural 'Na Fe P0.9 O3.8'
+_chemical_formula_sum 'Fe1 Na1 O3.8 P0.9'
+_exptl_crystal_density_diffrn 3.57
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Earth-abundant alkali iron phosphates (AFePO4) as efficient electrocatalysts
+for the oxygen reduction reaction in alkaline solution
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary ChemCatChem 2018 10 1122 1127 CHEMK3
+loop_
+_publ_author_name
+'Murugesan, Chinnasamy'
+'Lochab, Shubham'
+'Senthilkumar, Baskar'
+'Barpanda, Prabeer'
+_cell_length_a 8.9896(4)
+_cell_length_b 6.87300(30)
+_cell_length_c 5.04869(25)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 311.94
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.007
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2.1
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 a 0 0 0 0.00498 1. 0
+P1 P5+ 4 c 0.17536 0.25 0.46366 0.00196 0.9 0
+Na1 Na1+ 4 c 0.34661 0.25 0.9706 0.00705 1. 0
+O1 O2- 8 d 0.11899 0.0722 0.32784 0.00088 0.9 0
+O2 O2- 4 c 0.34655 0.25 0.45108 0.00092 1. 0
+O3 O2- 4 c 0.11411 0.25 0.74611 0.00162 1. 0
+#End of TTdata_264492-ICSD

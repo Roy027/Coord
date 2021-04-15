@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260176-ICSD
+_database_code_ICSD 260176
+_audit_creation_date 2009-08-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Potassium sodium manganese(II) tetrasilicate'
+_chemical_formula_structural 'K Na Mn (Si4 O10)'
+_chemical_formula_sum 'K1 Mn1 Na1 O10 Si4'
+_chemical_name_structure_type KNaFeS14O10
+_chemical_name_mineral Manaksite
+_exptl_crystal_density_diffrn 2.73
+_cell_measurement_temperature 296.
+_publ_section_title
+'Magnetic properties of K Na M Si4 O10 compounds (M = Mn, Fe, Cu)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2009 182 253 258 JSSCBI
+loop_
+_publ_author_name
+'Brandao, P.'
+'Rocha, J.'
+'Reis, M.S.'
+'dos Santos, A.M.'
+'Jin, R.'
+_cell_length_a 6.9851(6)
+_cell_length_b 8.1825(7)
+_cell_length_c 9.9747(14)
+_cell_angle_alpha 105.700(5)
+_cell_angle_beta 99.507(6)
+_cell_angle_gamma 114.577(4)
+_cell_volume 473.34
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0489
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+Si4+ 4
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 2 i 0.34114(13) 0.89177(12) 0.59228(9) 0.0112(2) 1 0
+Si1 Si4+ 2 i 0.5391(2) 0.7026(2) 0.78945(17) 0.0074(3) 1 0
+Si2 Si4+ 2 i 0.3691(2) 0.6372(2) 0.26794(17) 0.0082(3) 1 0
+Si3 Si4+ 2 i -0.0645(2) 0.6346(2) 0.26920(17) 0.0093(3) 1 0
+Si4 Si4+ 2 i 0.7078(2) 0.8243(2) 1.13160(17) 0.0084(3) 1 0
+K1 K1+ 2 i 0.1574(2) 0.79866(19) 0.99056(16) 0.0241(4) 1 0
+Na1 Na1+ 2 i 0.8350(4) 0.8594(4) 0.5887(3) 0.0249(6) 1 0
+O1 O2- 2 i 0.1963(6) 0.9613(6) 0.7591(4) 0.0157(9) 1 0
+O2 O2- 2 i 0.4997(6) 0.8229(5) 0.4157(4) 0.0109(8) 1 0
+O3 O2- 2 i 0.4655(6) 0.6747(5) 0.1352(4) 0.0138(9) 1 0
+O4 O2- 2 i 0.6781(6) 0.8126(5) 0.9632(4) 0.0171(9) 1 0
+O5 O2- 2 i 0.2802(6) 0.5738(5) 0.7732(4) 0.0170(9) 1 0
+O6 O2- 2 i 0.5808(6) 0.8602(5) 0.7199(4) 0.0130(9) 1 0
+O7 O2- 2 i 0.6267(6) 0.5546(5) 0.7158(4) 0.0156(9) 1 0
+O8 O2- 2 i 0.1081(6) 0.5755(5) 0.2063(4) 0.0129(9) 1 0
+O9 O2- 2 i -0.1241(6) 0.7388(6) 0.1629(4) 0.0181(9) 1 0
+O10 O2- 2 i 0.0312(6) 0.7723(6) 0.4352(5) 0.0222(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 Mn2+ 0.0105(4) 0.0145(5) 0.0107(5) 0.0079(4) 0.0022(3) 0.0052(4)
+Si1 Si4+ 0.0073(7) 0.0093(8) 0.0080(9) 0.0051(6) 0.0031(6) 0.0045(7)
+Si2 Si4+ 0.0044(6) 0.0108(8) 0.0118(9) 0.0055(6) 0.0025(6) 0.0048(7)
+Si3 Si4+ 0.0056(7) 0.0111(8) 0.0112(9) 0.0053(6) 0.0013(6) 0.0028(7)
+Si4 Si4+ 0.0088(7) 0.0117(8) 0.0063(8) 0.0063(6) 0.0020(6) 0.0039(7)
+K1 K1+ 0.0275(7) 0.0176(8) 0.0272(9) 0.0098(6) 0.0116(6) 0.0087(7)
+Na1 Na1+ 0.0152(12) 0.0450(17) 0.0169(14) 0.0172(12) 0.0081(10) 0.0092(13)
+O1 O2- 0.020(2) 0.017(2) 0.015(2) 0.0118(18) 0.0087(18) 0.0072(19)
+O2 O2- 0.0089(17) 0.014(2) 0.011(2) 0.0064(16) 0.0038(16) 0.0033(18)
+O3 O2- 0.0102(18) 0.016(2) 0.014(2) 0.0049(16) 0.0039(16) 0.0066(19)
+O4 O2- 0.021(2) 0.019(2) 0.006(2) 0.0049(18) 0.0029(17) 0.0052(19)
+O5 O2- 0.0074(18) 0.018(2) 0.028(3) 0.0052(17) 0.0080(18) 0.012(2)
+O6 O2- 0.0130(18) 0.015(2) 0.016(2) 0.0079(16) 0.0049(17) 0.0112(19)
+O7 O2- 0.022(2) 0.016(2) 0.023(3) 0.0161(18) 0.0131(19) 0.012(2)
+O8 O2- 0.0064(17) 0.015(2) 0.014(2) 0.0068(16) 0.0016(16) 0.0009(18)
+O9 O2- 0.017(2) 0.022(2) 0.024(3) 0.0131(18) 0.0075(18) 0.014(2)
+O10 O2- 0.014(2) 0.031(3) 0.015(2) 0.0125(19) 0.0000(17) 0.001(2)
+#End of TTdata_260176-ICSD

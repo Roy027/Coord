@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416721-ICSD
+_database_code_ICSD 416721
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Vanadium sodium iridium oxide (0.92/1.08/1/4)'
+_chemical_formula_structural '(Y0.92 Na0.08) Na Ir O4'
+_chemical_formula_sum 'Ir1 Na1.08 O4 Y0.92'
+_chemical_name_structure_type Ca2IrO4
+_exptl_crystal_density_diffrn 7.47
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+The crystal growth and magnetic properties of the new iridates, Ln(1-x)
+Na(1+x) Ir O4 (Ln = Gd - Er, Y; x = 0.04 - 0.25)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2007 9 555 563 SSSCFJ
+loop_
+_publ_author_name
+'Mugavero, S.J.'
+'Smith, D.'
+'zur Loye, H.C.'
+_cell_length_a 9.3872(2)
+_cell_length_b 9.3872(2)
+_cell_length_c 3.1790(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 242.6
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -6 2 m'
+_symmetry_Int_Tables_number 189
+_refine_ls_R_factor_all 0.0224
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z'
+5 'x-y, -y, z'
+6 'y, x, z'
+7 '-x+y, -x, -z'
+8 '-y, x-y, -z'
+9 'x, y, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir4+ 4.16
+Y3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir4+ 3 f 0.32855(4) 0. 0. 0.00433(12) 1 0
+Y1 Y3+ 2 d 0.3333 0.6667 0.5 0.0117(4) 1 0
+Y2 Y3+ 3 g 0.6994(4) 0. 0.5 0.0057(8) 0.253(11) 0
+Na1 Na1+ 3 g 0.6994(4) 0. 0.5 0.0057(8) 0.747(11) 0
+Na2 Na1+ 1 a 0. 0. 0. 0.0146(14) 1 0
+O1 O2- 3 g 0.1894(7) 0. 0.5 0.0098(13) 1 0
+O2 O2- 3 g 0.4598(7) 0. 0.5 0.0090(12) 1 0
+O3 O2- 6 j 0.4572(6) 0.2473(6) 0. 0.0089(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir4+ 0.00444(13) 0.00427(16) 0.00422(15) 0.00213(8) 0. 0.
+Y1 Y3+ 0.0150(5) 0.0150(5) 0.0052(5) 0.0075(3) 0. 0.
+Y2 Y3+ 0.0028(11) 0.0026(11) 0.0115(12) 0.0013(6) 0. 0.
+Na1 Na1+ 0.0028(11) 0.0026(11) 0.0115(12) 0.0013(6) 0. 0.
+Na2 Na1+ 0.014(2) 0.014(2) 0.016(3) 0.0069(11) 0. 0.
+O1 O2- 0.008(2) 0.013(3) 0.010(3) 0.0064(16) 0. 0.
+O2 O2- 0.009(2) 0.014(3) 0.006(2) 0.0071(16) 0. 0.
+O3 O2- 0.010(2) 0.0056(18) 0.0099(16) 0.0026(17) 0. 0.
+#End of TTdata_416721-ICSD

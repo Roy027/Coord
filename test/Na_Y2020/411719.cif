@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411719-ICSD
+_database_code_ICSD 411719
+_audit_creation_date 2003-10-01
+_chemical_name_systematic
+'Trisodium hydrogenbis(hydrogenselenate(VI)) bis(hydrogen- selenate(VI))'
+_chemical_formula_structural 'Na3 (H (H Se O4)2) (H Se O4)2'
+_chemical_formula_sum 'H5 Na3 O16 Se4'
+_chemical_name_structure_type Na3H(HSeO4)4
+_exptl_crystal_density_diffrn 3.05
+_publ_section_title
+
+;
+Neutron diffraction study of sodium hydrogen selenate Na3 H5 (Se O4)4.
+Comparison with the X-ray diffraction data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 2002 47 35 39 KRISAJ
+loop_
+_publ_author_name
+'Troyanov, S.I.'
+'Zakharov, M.A.'
+'Reehuis, M.'
+'Kemnitz, E.'
+_cell_length_a 5.857(1)
+_cell_length_b 7.254(1)
+_cell_length_c 8.943(2)
+_cell_angle_alpha 104.83(2)
+_cell_angle_beta 91.69(2)
+_cell_angle_gamma 105.41(2)
+_cell_volume 352.15
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0395
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se6+ 2 i 0.20781(10) 0.85853(10) 0.84181(7) 0.0137(2) 1. 0
+Se2 Se6+ 2 i 0.33284(10) 0.67058(10) 0.32569(7) 0.0131(2) 1. 0
+Na1 Na1+ 2 i 0.1935(3) 0.3708(3) 0.9176(2) 0.0180(3) 1. 0
+Na2 Na1+ 1 b 0 0 0.5 0.0202(4) 1. 0
+O1 O2- 2 i 0.2597(2) 0.0768(2) 0.96304(12) 0.0228(2) 1. 0
+O2 O2- 2 i 0.1188(2) 0.6787(2) 0.91987(12) 0.0214(2) 1. 0
+O3 O2- 2 i 0.0317(2) 0.8333(2) 0.69016(12) 0.0247(2) 1. 0
+O4 O2- 2 i 0.4706(2) 0.8447(2) 0.76869(12) 0.0261(3) 1. 0
+O5 O2- 2 i 0.4221(2) 0.5592(2) 0.16934(11) 0.0221(2) 1. 0
+O6 O2- 2 i 0.1121(2) 0.7574(2) 0.30398(11) 0.0218(2) 1. 0
+O7 O2- 2 i 0.5601(2) 0.8508(2) 0.43221(12) 0.0206(2) 1. 0
+O8 O2- 2 i 0.2618(2) 0.5166(2) 0.44103(12) 0.0243(2) 1. 0
+H1 H1+ 2 i 0.5905(4) 0.8736(4) 0.8592(3) 0.0377(5) 1. 0
+H2 H1+ 1 f 0.5 0 0.5 0.0437(8) 1. 0
+H3 H1+ 2 i 0.1476(4) 0.3854(4) 0.3827(3) 0.0360(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se6+ 0.0134(3) 0.0117(3) 0.0155(3) 0.0013(2) -0.0014(2) 0.0053(2)
+Se2 Se6+ 0.0117(3) 0.0127(3) 0.0136(3) 0.0034(2) 0.0015(2) 0.0011(2)
+Na1 Na1+ 0.0185(6) 0.0166(7) 0.0200(6) 0.0068(5) 0.0035(5) 0.0051(5)
+Na2 Na1+ 0.0251(10) 0.0219(12) 0.0178(9) 0.0132(9) 0.0030(7) 0.0058(7)
+O1 O2- 0.0232(4) 0.0151(5) 0.0269(5) 0.0043(4) -0.0038(3) 0.0021(3)
+O2 O2- 0.0245(4) 0.0179(5) 0.0269(5) 0.0073(4) 0.0077(3) 0.0130(3)
+O3 O2- 0.0250(5) 0.0209(5) 0.0259(5) -0.0007(4) -0.0104(3) 0.0112(4)
+O4 O2- 0.0199(4) 0.0362(7) 0.0226(4) 0.0080(4) 0.0052(3) 0.0084(4)
+O5 O2- 0.0183(4) 0.0257(6) 0.0183(4) 0.0067(4) 0.0050(3) -0.0017(3)
+O6 O2- 0.0177(4) 0.0231(5) 0.0227(4) 0.0103(4) -0.0024(3) -0.0013(3)
+O7 O2- 0.0141(4) 0.0162(5) 0.0251(4) 0.0005(3) -0.0023(3) -0.0012(3)
+O8 O2- 0.0269(5) 0.0207(5) 0.0220(4) -0.0007(4) -0.0008(3) 0.0084(3)
+H1 H1+ 0.0236(8) 0.0452(14) 0.0447(11) 0.0111(8) 0.0003(7) 0.0121(9)
+H2 H1+ 0.0246(12) 0.058(2) 0.0392(14) -0.0019(13) -0.0021(10) 0.0128(14)
+H3 H1+ 0.0386(10) 0.0286(11) 0.0378(10) 0.0014(8) -0.0013(7) 0.0129(7)
+#End of TTdata_411719-ICSD

@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65374-ICSD
+_database_code_ICSD 65374
+_audit_creation_date 1989-12-04
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Sodium hexabarium neodymium tetrakissilicate'
+_chemical_formula_structural 'Na Ba6 Nd (Si O4)4'
+_chemical_formula_sum 'Ba6 Na1 Nd1 O16 Si4'
+_exptl_crystal_density_diffrn 5.35
+_publ_section_title 'Crystal structure of Na Ba6 Nd (Si O4)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1987 294 1377 1380 DANKAS
+loop_
+_publ_author_name
+'Tamazyan, R.A.'
+'Malinovskii, Yu.A.'
+_cell_length_a 5.737(1)
+_cell_length_b 19.874(3)
+_cell_length_c 7.396(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 843.27
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m c 21'
+_symmetry_Int_Tables_number 26
+_refine_ls_R_factor_all 0.07
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Ba2+ 2
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 2 a 0 0.0326(1) 0.0007(1) 1.21 1. 0
+Ba1 Ba2+ 2 b 0.5 0.2501(1) -.0056(1) 1.52 1. 0
+Ba2 Ba2+ 2 a 0 0.4786(1) -.0054(1) 1.03 1. 0
+Ba3 Ba2+ 2 b 0.5 0.0914(1) 0.6530(1) 1.07 1. 0
+Ba4 Ba2+ 2 b 0.5 0.4185(1) 0.3193(1) 1.06 1. 0
+Ba5 Ba2+ 2 a 0 0.1757(1) 0.3407(1) 1.01 1. 0
+Ba6 Ba2+ 2 a 0 0.3356(1) 0.6542(1) 0.98 1. 0
+Si1 Si4+ 2 a 0 0.1704(2) 0.7811(7) 1.19 1. 0
+Si2 Si4+ 2 a 0 0.3375(2) 0.2180(6) 0.64 1. 0
+Si3 Si4+ 2 b 0.5 0.0898(3) 0.2018(7) 0.94 1. 0
+Si4 Si4+ 2 b 0.5 0.4270(3) 0.7594(7) 0.96 1. 0
+Na1 Na1+ 2 b 0.5 0.2514(4) 0.4958(13) 1.39 1. 0
+O1 O2- 2 a 0 0.1648(12) 0.9996(16) 2.11 1. 0
+O2 O2- 2 a 0 0.3451(8) 0.0039(25) 3.32 1. 0
+O3 O2- 4 c 0.2277(23) 0.2091(5) 0.6981(15) 1.66 1. 0
+O4 O2- 4 c 0.2304(24) 0.3010(7) 0.2930(14) 1.42 1. 0
+O5 O2- 2 a 0 0.0929(7) 0.6985(16) 1.13 1. 0
+O6 O2- 2 a 0 0.4149(8) 0.3051(19) 1.21 1. 0
+O7 O2- 2 b 0.5 0.1009(11) -.0120(33) 5.12 1. 0
+O8 O2- 2 b 0.5 0.4432(13) 0.9771(27) 2.74 1. 0
+O9 O2- 2 b 0.5 0.1636(10) 0.3118(26) 2.74 1. 0
+O10 O2- 2 b 0.5 0.3499(6) 0.7000(17) 0.65 1. 0
+O11 O2- 4 c 0.2637(24) 0.0478(6) 0.2591(21) 2.51 1. 0
+O12 O2- 4 c 0.2662(19) 0.4603(6) 0.6651(12) 1.39 1. 0
+#End of TTdata_65374-ICSD

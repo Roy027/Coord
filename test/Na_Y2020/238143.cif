@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238143-ICSD
+_database_code_ICSD 238143
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Tetrasodium dilanthanum pentacarbonate'
+_chemical_formula_structural 'Na4 La2 (C O3)5'
+_chemical_formula_sum 'C5 La2 Na4 O15'
+_chemical_name_structure_type Na3(CaSrLa)(CO3)5
+_exptl_crystal_density_diffrn 3.57
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Na4 La2 (C O3)5 and Cs Na5 Ca5 (C O3)8: two new carbonates as UV nonlinear
+optical materials
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 8098 8104 INOCAJ
+loop_
+_publ_author_name
+'Luo, Min'
+'Wang, GenXiang'
+'Lin, Chensheng'
+'Ye, Ning'
+'Zhou, Yuqiao'
+'Cheng, Wendan'
+_cell_length_a 10.55(2)
+_cell_length_b 10.55(2)
+_cell_length_c 6.47(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 623.64
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.0562
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Na1+ 1
+O2- -2
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 6 c 0.84067(2) 0.15933(2) 0.20733(6) 0.02602(11) 0.67 0
+Na1 Na1+ 6 c 0.84067(2) 0.15933(2) 0.20733(6) 0.02602(11) 0.33 0
+Na2 Na1+ 6 c 0.47797(13) -0.0441(3) 0.3956(4) 0.0272(7) 1 0
+O1 O2- 12 d 1.0785(3) 0.3700(3) 0.0780(5) 0.0251(6) 1 0
+O2 O2- 6 c 0.5955(2) 0.1910(4) 0.2279(10) 0.0365(10) 1 0
+O3 O2- 6 c 0.8630(6) -0.0685(3) 0.3689(8) 0.0456(13) 1 0
+O4 O2- 6 c 0.7770(3) 0.2230(3) -0.1445(8) 0.0366(11) 1 0
+C1 C4+ 2 b 0.6667 0.3333 0.215(4) 0.0373(10) 1 0
+C2 C4+ 2 a 1. 0. 0.3628(19) 0.026(3) 1 0
+C3 C4+ 6 c 0.8035(3) 0.1965(3) -0.3263(11) 0.0309(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.03044(9) 0.03044(9) 0.0191(2) 0.01671(11) -0.00079(19) 0.00079(19)
+Na1 Na1+ 0.03044(9) 0.03044(9) 0.0191(2) 0.01671(11) -0.00079(19) 0.00079(19)
+Na2 Na1+ 0.0276(9) 0.0287(13) 0.0256(14) 0.0144(7) 0.0003(5) 0.0006(10)
+C1 C4+ 0.0383(12) 0.0383(12) 0.0355(18) 0.0191(6) 0. 0.
+C2 C4+ 0.026(3) 0.026(3) 0.026(5) 0.0128(16) 0. 0.
+C3 C4+ 0.0312(9) 0.0312(9) 0.0319(17) 0.0169(9) -0.0020(9) 0.0020(9)
+#End of TTdata_238143-ICSD

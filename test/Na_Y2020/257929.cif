@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257929-ICSD
+_database_code_ICSD 257929
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium potassium aluminum fluoride'
+_chemical_formula_structural 'Na4.65 K0.35 Al3 F14'
+_chemical_formula_sum 'Al3 F14 K0.35 Na4.65'
+_chemical_name_structure_type Na5Al3F14
+_exptl_crystal_density_diffrn 3.01
+_publ_section_title
+
+;
+Structural aspects of the formation of solid solutions in the NaF-KF-AlF3
+system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2017 252 1 7 JSSCBI
+loop_
+_publ_author_name
+'Samoilo, Alexander S.'
+'Zaitseva, Yulia N.'
+'Dubinin, Peter S.'
+'Piksina, Oksana E.'
+'Ruzhnikov, Sergei G.'
+'Yakimov, Igor S.'
+'Kirik, Sergei D.'
+_cell_length_a 7.0479(2)
+_cell_length_b 7.0479(2)
+_cell_length_c 10.3732(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 515.27
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/m n c'
+_symmetry_Int_Tables_number 128
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z+1/2'
+2 '-y+1/2, -x+1/2, -z+1/2'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x+1/2, y+1/2, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y+1/2, x+1/2, z+1/2'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Na1+ 1
+K1+ 1
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 2 a 0 0 0 1.2(2) 1. 0
+Al2 Al3+ 4 c 0 0.5 0 1.2(2) 1. 0
+Na1 Na1+ 2 b 0 0 0.5 1.9(2) 0.655 0
+K1 K1+ 2 b 0 0 0.5 1.9(2) 0.345 0
+Na2 Na1+ 8 g 0.2759(4) 0.7759(4) 0.25 2.2(2) 1. 0
+F1 F1- 4 e 0 0 0.1693(5) 2.4(2) 1. 0
+F2 F1- 8 h 0.0620(6) 0.2489(5) 0 1.2(2) 1. 0
+F3 F1- 16 i 0.1774(3) 0.5361(4) 0.1202(2) 1.4(2) 1. 0
+#End of TTdata_257929-ICSD

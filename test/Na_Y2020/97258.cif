@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97258-ICSD
+_database_code_ICSD 97258
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Sodium chromium catena-disilicate'
+_chemical_formula_structural 'Na Cr (Si2 O6)'
+_chemical_formula_sum 'Cr1 Na1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Kosmochlor
+_exptl_crystal_density_diffrn 3.79
+_cell_measurement_pressure 7230000.
+_publ_section_title
+
+;
+High-pressure crystal structure of kosmochlor, Na Cr Si2 O6, and systematics
+of anisotropic compression in pyroxenes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2003 88 1025 1032 AMMIAY
+loop_
+_publ_author_name
+'Origlieri, M.'
+'Downs, R.T.'
+'Thompson, R.M.'
+'Pommier, C.J.S.'
+'Denton, M.B.'
+'Harlow, G.E.'
+_cell_length_a 9.4105(4)
+_cell_length_b 8.5481(3)
+_cell_length_c 5.1727(2)
+_cell_angle_alpha 90
+_cell_angle_beta 106.915(3)
+_cell_angle_gamma 90
+_cell_volume 398.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cr3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3025(7) 0.25 1.2(1) 1. 0
+Cr1 Cr3+ 4 e 0 0.9086(3) 0.25 0.69(4) 1. 0
+Si1 Si4+ 8 f 0.2929(3) 0.0933(4) 0.2348(5) 0.70(5) 1. 0
+O1 O2- 8 f 0.1148(8) 0.0820(9) 0.141(1) 0.8(1) 1. 0
+O2 O2- 8 f 0.3588(8) 0.2624(7) 0.312(1) 0.8(1) 1. 0
+O3 O2- 8 f 0.3570(9) 0.0161(7) 0.003(1) 0.9(1) 1. 0
+#End of TTdata_97258-ICSD

@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65237-ICSD
+_database_code_ICSD 65237
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Hexasodium di-mue-oxo-bis(dioxocuprate(III))'
+_chemical_formula_structural 'Na6 (O2 (Cu O2)2)'
+_chemical_formula_sum 'Cu2 Na6 O6'
+_exptl_crystal_density_diffrn 3.33
+_publ_section_title 'Zur Kenntnis von Na6 Cu2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1988
+563 79 86 ZAACAB
+loop_
+_publ_author_name
+'Bukovec, N.'
+'Leban, I.'
+'Hoppe, R.'
+_cell_length_a 10.948(1)
+_cell_length_b 12.036(1)
+_cell_length_c 16.381(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2158.53
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu3+ 3
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu3+ 8 f 0 0.3482(1) 0.4219 . 1. 0
+Cu2 Cu3+ 8 f 0 0.3287(1) 0.5905 . 1. 0
+Cu3 Cu3+ 8 f 0.5 0.4988(1) 0.4162 . 1. 0
+O1 O2- 16 g 0.1196(3) 0.3616(3) 0.3457(2) . 1. 0
+O2 O2- 16 g 0.1139(4) 0.3386(3) 0.5062(2) . 1. 0
+O3 O2- 16 g 0.1232(3) 0.3211(3) 0.6675(2) . 1. 0
+O4 O2- 8 d 0.3849(5) 0.5 0.5 . 1. 0
+O5 O2- 16 g 0.3812(3) 0.4907(3) 0.3389(2) . 1. 0
+Na1 Na1+ 8 f 0.5 0.5245(3) 0.2202(2) . 1. 0
+Na2 Na1+ 8 e 0.25 0.4175(2) 0.25 . 1. 0
+Na3 Na1+ 8 f 0.5 0.3283(2) 0.2796(2) . 1. 0
+Na4 Na1+ 16 g 0.3009(2) 0.3230(2) 0.4297(1) . 1. 0
+Na5 Na1+ 16 g 0.2058(2) 0.4737(2) 0.5865(1) . 1. 0
+Na6 Na1+ 16 g 0.3390(2) 0.3230(2) 0.6858(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu3+ 0.0041(4) 0.0092(4) 0.0038(4) 0 0 0.0007(3)
+Cu2 Cu3+ 0.0050(4) 0.0100(4) 0.0043(4) 0 0 -.0004(3)
+Cu3 Cu3+ 0.0046(4) 0.0111(4) 0.0046(4) 0 0 -.0003(3)
+O1 O2- 0.0089(16) 0.0188(18) 0.0047(14) -.0010(14) 0.0043(12) 0.0012(12)
+O2 O2- 0.0035(15) 0.0191(19) 0.0078(16) 0.0024(15) 0.0003(11) 0.0012(12)
+O3 O2- 0.0091(16) 0.0129(15) 0.0092(15) 0.0018(14) -.0033(13) -.0002(12)
+O4 O2- 0.0097(26) 0.0254(30) 0.0061(22) 0 0 -.0005(18)
+O5 O2- 0.0060(16) 0.0180(18) 0.0080(15) 0.0000(12) -.0014(14) -.0014(12)
+Na1 Na1+ 0.0116(13) 0.0158(13) 0.0110(13) 0 0 0.0035(12)
+Na2 Na1+ 0.0075(12) 0.0245(15) 0.0088(12) 0 -.0014(10) 0
+Na3 Na1+ 0.0133(13) 0.0133(13) 0.0100(12) 0 0 0.0013(10)
+Na4 Na1+ 0.0119(10) 0.0166(10) 0.0146(9) 0.0026(8) -.0008(7) -.0005(8)
+Na5 Na1+ 0.0101(9) 0.0172(10) 0.0110(9) -.0039(8) 0.0012(8) -.0031(8)
+Na6 Na1+ 0.0143(10) 0.017(1) 0.0199(11) 0.0009(8) -.0011(8) -.0007(9)
+#End of TTdata_65237-ICSD

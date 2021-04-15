@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_31245-ICSD
+_database_code_ICSD 31245
+_audit_creation_date 1984-09-06
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Tetrasodium tetracalcium cyclo-hexasilicate'
+_chemical_formula_structural 'Na4 Ca4 (Si6 O18)'
+_chemical_formula_sum 'Ca4 Na4 O18 Si6'
+_chemical_name_structure_type Combeite(HT)
+_chemical_name_mineral 'Combeite high'
+_exptl_crystal_density_diffrn 2.85
+_publ_section_title
+
+;
+Die Kristallstrukturen von natuerlichem Na2 Ca2 Si3 O9 vom Mt. Shaheru (Zaire)
+und aus dem Mayener Feld (Eifel)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie, Monatshefte' 1983 1983 49 59 NJMMAW
+loop_
+_publ_author_name
+'Fischer, R.X.'
+'Tillmanns, E.'
+_cell_length_a 10.429(2)
+_cell_length_b 10.429(2)
+_cell_length_c 13.149(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1238.54
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Na1+ 1
+Ca2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 18 h 0.8490(1) 0.698 0.4358(1) 1.09(4) 1. 0
+Na1 Na1+ 9 e 0.5 0 0 2.1(2) 1. 0
+Na2 Na1+ 6 c 0 0 0.2504(2) 0.79(6) 0.5 0
+Ca1 Ca2+ 9 d 0.5 0 0.5 2.01(8) 1. 0
+Ca2 Ca2+ 3 a 0 0 0 0.54(4) 1. 0
+O1 O2- 18 g 0.2524(6) 0 0.5 3.5(2) 1. 0
+O2 O2- 18 h 0.7611(3) 0.5222 0.4454(3) 2.7(2) 1. 0
+O3 O2- 18 h 0.8850(2) 0.77 0.3260(3) 2.4(2) 1. 0
+#End of TTdata_31245-ICSD

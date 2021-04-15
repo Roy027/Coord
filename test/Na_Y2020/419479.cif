@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419479-ICSD
+_database_code_ICSD 419479
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Sodium yttrium cyclo-hexasilicate'
+_chemical_formula_structural 'Na8.12 Y1.293 (Si6 O18)'
+_chemical_formula_sum 'Na8.12 O18 Si6 Y1.293'
+_exptl_crystal_density_diffrn 2.91
+_cell_measurement_temperature 297.
+_publ_section_title
+'Na8.25 Y1.25 Si6 O18 and its family of zwoelfer ring silicates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2008 223 389 398 ZEKRDZ
+loop_
+_publ_author_name
+'Toebbens, D.M.'
+'Kahlenberg, V.'
+'Kaindl, R.'
+'Sartory, B.'
+'Konzett, J.'
+_cell_length_a 15.12032(4)
+_cell_length_b 15.12032(4)
+_cell_length_c 15.12032(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3456.87
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P a -3'
+_symmetry_Int_Tables_number 205
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, x+1/2, y'
+2 'z+1/2, x, -y+1/2'
+3 'z, -x+1/2, y+1/2'
+4 '-z, -x, -y'
+5 'y, -z+1/2, x+1/2'
+6 '-y+1/2, z+1/2, x'
+7 'y+1/2, z, -x+1/2'
+8 '-y, -z, -x'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x, -y, -z'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+Y3+ 3
+Na1+ 1
+Y3+ 3
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 24 d 0.49397(16) 0.22101(16) 0.22423(15) 0.0158(6) 1. 0
+Si2 Si4+ 24 d 0.47978(15) 0.01322(19) 0.25356(15) 0.0276(7) 1. 0
+O1 O2- 24 d 0.4886(7) 0.2625(6) 0.1230(3) 0.038(2) 0.635(7) 0
+O2 O2- 24 d 0.4952(12) 0.2125(9) 0.1180(4) 0.038(2) 0.365(7) 0
+O3 O2- 24 d 0.4823(6) 0.1142(3) 0.2083(5) 0.033(2) 0.635(7) 0
+O4 O2- 24 d 0.4932(12) 0.1197(4) 0.2654(9) 0.033(2) 0.365(7) 0
+O5 O2- 24 d 0.4064(3) 0.2554(4) 0.2664(4) 0.0274(16) 1. 0
+O6 O2- 24 d 0.5826(3) 0.2574(3) 0.2624(4) 0.0268(15) 1. 0
+O7 O2- 24 d 0.5393(3) -0.0419(4) 0.1860(3) 0.0212(15) 1. 0
+O8 O2- 24 d 0.5036(5) 0.0427(6) 0.3500(4) 0.039(3) 0.635(7) 0
+O9 O2- 24 d 0.5027(10) -0.0365(9) 0.3451(6) 0.039(3) 0.365(7) 0
+Y1 Y3+ 4 a 0. 0. 0. 0.0168(7) 0.587(3) 0
+Na1 Na1+ 4 a 0. 0. 0. 0.0168(7) 0.413(3) 0
+Na2 Na1+ 4 b 0.5 0.5 0.5 0.0389(13) 0. 0
+Na3 Na1+ 8 c 0.1265(2) 0.1265(2) 0.1265(2) 0.0289(14) 1. 0
+Na4 Na1+ 8 c 0.2391(2) 0.2391(2) 0.2391(2) 0.0318(17) 1. 0
+Y2 Y3+ 8 c 0.36435(5) 0.36435(5) 0.36435(5) 0.0097(3) 1. 0
+Na5 Na1+ 24 d 0.08428(20) 0.3610(2) 0.1312(3) 0.0383(11) 1. 0
+Na6 Na1+ 24 d 0.3726(3) 0.1393(4) 0.3771(4) 0.0389(13) 0.742(4) 0
+Na7 Na1+ 24 d 0.3381(10) 0.1368(11) 0.3439(10) 0.0389(13) 0.229(4) 0
+#End of TTdata_419479-ICSD

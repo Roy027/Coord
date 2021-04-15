@@ -1,0 +1,74 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73881-ICSD
+_database_code_ICSD 73881
+_audit_creation_date 1995-01-10
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Tetrasodium dodecairon(III) oxide'
+_chemical_formula_structural 'Na4 Fe12 O20'
+_chemical_formula_sum 'Fe12 Na4 O20'
+_chemical_name_structure_type NaFe3O5
+_exptl_crystal_density_diffrn 4.64
+_publ_section_title 'Ca0.2Na0.9Fe2.9O5: a new Me4O5 structure type'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1993 105 528 534 JSSCBI
+loop_
+_publ_author_name
+'Mumme, W.G.'
+_cell_length_a 10.28(1)
+_cell_length_b 12.52(1)
+_cell_length_c 3.01(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 387.4
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P n n m'
+_symmetry_Int_Tables_number 58
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 g 0.2201(7) 0.1147(6) 0.5 1.34(25) 1. 0
+Fe2 Fe3+ 4 g 0.2399(9) 0.3598(7) 0 3.53(33) 1. 0
+Fe3 Fe3+ 2 a 0 0 0 1.53(37) 1. 0
+Fe4 Fe3+ 2 d 0.5 0 0 1.62(33) 1. 0
+Na1 Na1+ 4 g -.0198(18) 0.2573(19) 0.5 2.88(49) 1. 0
+O1 O2- 4 g 0.0987(26) 0.1415(26) 0 2.26(79) 1. 0
+O2 O2- 4 g 0.0619(29) 0.3998(30) 0 3.77(81) 1. 0
+O3 O2- 4 g 0.3343(25) 0.0711(22) 0 1.27(56) 1. 0
+O4 O2- 4 g 0.2677(28) 0.2666(21) 0.5 2.00(68) 1. 0
+O5 O2- 4 g 0.3832(25) 0.4597(24) 0 1.16(54) 1. 0
+#End of TTdata_73881-ICSD

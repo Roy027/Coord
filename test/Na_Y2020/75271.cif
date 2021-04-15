@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75271-ICSD
+_database_code_ICSD 75271
+_audit_creation_date 1996-04-22
+_chemical_name_systematic 'Pentamagnesium disodium tetrakis(phosphate(V))'
+_chemical_formula_structural 'Mg5 Na2 (P O4)4'
+_chemical_formula_sum 'Mg5 Na2 O16 P4'
+_exptl_crystal_density_diffrn 3.
+_cell_measurement_temperature 297.
+_publ_section_title 'Un monophosphate de magnesium et de sodium'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1994 50 986 988 ACSCEE
+loop_
+_publ_author_name
+'Yamakawa, J.'
+'Yamada, T.'
+'Kawahara, A.'
+_cell_length_a 7.923(2)
+_cell_length_b 8.124(2)
+_cell_length_c 5.160(1)
+_cell_angle_alpha 90.41(2)
+_cell_angle_beta 101.92(1)
+_cell_angle_gamma 110.71(1)
+_cell_volume 302.8
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Mg2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 2 i 0.6977(1) 0.9730(1) 0.3801(2) . 1. 0
+P2 P5+ 2 i 0.2125(1) 0.4299(1) 0.1305(2) . 1. 0
+Mg1 Mg2+ 2 i 0.2553(2) 0.7812(2) 0.0937(2) . 1. 0
+Mg2 Mg2+ 2 i 0.5908(2) 0.3287(2) 0.3639(3) . 1. 0
+Mg3 Mg2+ 1 a 0 0 0 . 1. 0
+Na1 Na1+ 2 i 0.9624(3) 0.7051(2) 0.4379(3) . 1. 0
+O1 O2- 2 i 0.1859(4) 0.5623(3) 0.3250(5) . 1. 0
+O2 O2- 2 i 0.9702(4) 0.7333(3) 0.9332(5) . 1. 0
+O3 O2- 2 i 0.6729(4) 0.1354(3) 0.2430(5) . 1. 0
+O4 O2- 2 i 0.7831(4) 0.0331(4) 0.6795(5) . 1. 0
+O5 O2- 2 i 0.6310(4) 0.6236(4) 0.7326(6) . 1. 0
+O6 O2- 2 i 0.4924(4) 0.1739(3) 0.6580(5) . 1. 0
+O7 O2- 2 i 0.1703(4) 0.0817(4) 0.7439(5) . 1. 0
+O8 O2- 2 i 0.2477(4) 0.5298(4) 0.8851(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+P1 P5+ 0.00163(16) 0.00163(14) 0.00368(33) 0.00033(12) 0.00007(16) 0.00057(18)
+P2 P5+ 0.00181(17) 0.00192(14) 0.00436(13) 0.00050(12) 0.00030(16) 0.00012(18)
+Mg1 Mg2+ 0.00260(24) 0.00301(20) 0.00442(44) 0.00114(18) 0.00074(23) 0.00137(26)
+Mg2 Mg2+ 0.00270(23) 0.00317(20) 0.00593(45) 0.00119(18) 0.00104(23) 0.00101(26)
+Mg3 Mg2+ 0.00335(35) 0.00245(28) 0.00773(66) 0.00136(25) 0.00099(34) 0.00217(38)
+Na1 Na1+ 0.00681(33) 0.00588(28) 0.00896(60) -.00011(25) 0.00062(32) 0.00237(36)
+O1 O2- 0.00335(50) 0.00226(41) 0.00704(95) 0.00043(37) -.00045(50) 0.00122(56)
+O2 O2- 0.00225(46) 0.00253(40) 0.00740(93) 0.00078(36) 0.00057(49) 0.00111(53)
+O3 O2- 0.00422(51) 0.00307(42) 0.00547(92) 0.00166(38) 0.00182(49) 0.00243(54)
+O4 O2- 0.00393(51) 0.00383(43) 0.00435(92) 0.00229(39) -.00025(50) 0.00041(55)
+O5 O2- 0.00450(57) 0.00591(50) 0.01879(24) 0.00223(44) 0.00451(64) 0.00023(69)
+O6 O2- 0.00156(47) 0.00271(40) 0.00668(93) -.00004(36) -.00005(49) 0.00064(53)
+O7 O2- 0.00403(53) 0.00382(44) 0.0092(10) 0.00138(40) 0.00084(52) 0.00296(59)
+O8 O2- 0.00548(54) 0.00354(43) 0.00778(99) 0.0013(4) 0.00185(52) 0.00329(59)
+#End of TTdata_75271-ICSD

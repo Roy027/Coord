@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253039-ICSD
+_database_code_ICSD 253039
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Disodium hafnium disilicate'
+_chemical_formula_structural 'Na2 Hf Si2 O7'
+_chemical_formula_sum 'Hf1 Na2 O7 Si2'
+_chemical_name_structure_type Na2ZrSi2O7
+_exptl_crystal_density_diffrn 4.39
+_cell_measurement_temperature 293.
+_publ_section_title 'Crystal structure of Na2HfSi2O7 by Rietveld refinement'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2016 72 1434 1437 ACSECI
+loop_
+_publ_author_name
+'Massoni, Nicolas'
+'Chevreux, Pierrick'
+_cell_length_a 6.6123(2)
+_cell_length_b 8.7948(3)
+_cell_length_c 5.41074(15)
+_cell_angle_alpha 92.603(2)
+_cell_angle_beta 94.0843(18)
+_cell_angle_gamma 71.3262(18)
+_cell_volume 297.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0236
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Hf4+ 4
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.8823(15) 0.0970(12) 0.2630(18) 0.035(4) 1 0
+Na2 Na1+ 2 i 0.3456(14) 0.5024(10) 0.7608(18) 0.011(3) 1 0
+Hf1 Hf4+ 2 i 0.2880(3) 0.2710(2) 0.2201(3) 0.0158(7) 1 0
+Si1 Si4+ 2 i 0.6528(13) 0.1435(9) 0.7769(13) 0.010(3) 1 0
+Si2 Si4+ 2 i 0.9381(12) 0.3380(8) 0.6861(15) 0.006(2) 1 0
+O1 O2- 2 i 0.307(2) 0.0382(17) 0.172(3) 0.0030(15) 1 0
+O2 O2- 2 i 0.865(2) 0.1777(14) 0.727(2) 0.0030(15) 1 0
+O3 O2- 2 i 0.494(2) 0.2081(15) 0.530(3) 0.0030(15) 1 0
+O4 O2- 2 i 0.562(2) 0.2522(15) 0.020(3) 0.0030(15) 1 0
+O5 O2- 2 i -0.003(2) 0.3116(14) 0.401(3) 0.0030(15) 1 0
+O6 O2- 2 i 0.120(2) 0.3300(14) 0.872(3) 0.0030(15) 1 0
+O7 O2- 2 i 0.284(2) 0.5148(14) 0.288(3) 0.0030(15) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hf1 Hf4+ 0.0148(10) 0.0177(11) 0.0126(10) 0.0003(7) 0.0035(7) 0.0111(8)
+#End of TTdata_253039-ICSD

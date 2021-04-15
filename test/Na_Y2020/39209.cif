@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39209-ICSD
+_database_code_ICSD 39209
+_audit_creation_date 1990-06-08
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Sodium niobium germanium oxide'
+_chemical_formula_structural 'Na Nb Ge O5'
+_chemical_formula_sum 'Ge1 Na1 Nb1 O5'
+_chemical_name_structure_type CaTi(SiO4)O
+_exptl_crystal_density_diffrn 4.33
+_publ_section_title
+
+;
+Synthesis and crystal structure of compounds A+ M5+ Ge O5 (A= Li, Na; M= Nb,
+Ta, Sb) and Li Ta Si O5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1990 35 316 323 KRISAJ
+loop_
+_publ_author_name
+'Mill', B.V. (Mill, B.V.)'
+'Belokoneva, E.L.'
+'Butashin, A.V.'
+_cell_length_a 6.798(4)
+_cell_length_b 8.913(3)
+_cell_length_c 7.523(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.42(4)
+_cell_angle_gamma 90.
+_cell_volume 411.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Nb5+ 5
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.24298(23) 0.41796(15) 0.21103(25) . 1. 0
+Nb1 Nb5+ 4 e 0.74151(3) 0.26071(2) 0.52292(3) . 1. 0
+Ge1 Ge4+ 4 e 0.24672(5) 0.43664(3) 0.74701(4) . 1. 0
+O1 O2- 4 e 0.74584(31) 0.32129(21) 0.75202(26) . 1. 0
+O2 O2- 4 e 0.43818(30) 0.31199(21) 0.90910(29) . 1. 0
+O3 O2- 4 e 0.04576(30) 0.18099(21) 0.08211(29) . 1. 0
+O4 O2- 4 e 0.63978(31) 0.45353(20) 0.37797(29) . 1. 0
+O5 O2- 4 e 0.84790(31) 0.0500(2) 0.61563(29) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 1.16(5) 0.81(4) 2.61(7) -.03(3) 0.48(5) 0.16(4)
+Nb1 Nb5+ 0.42(1) 0.38(1) 0.37 -.05 0.18 0
+Ge1 Ge4+ 0.38(1) 0.35(1) 0.44(1) 0.00(1) 0.17(1) 0.0(1)
+O1 O2- 0.98(6) 0.62(5) 0.44(5) 0.01(4) 0.37(4) 0.02(4)
+O2 O2- 0.51(5) 0.78(5) 0.90(6) 0.20(4) 0.26(4) 0.29(4)
+O3 O2- 0.50(5) 0.77(5) 0.87(6) 0.21(4) 0.21(4) 0.22(4)
+O4 O2- 0.74(6) 0.56(5) 0.87(5) 0.06(4) 0.51(5) 0.25(4)
+O5 O2- 0.80(6) 0.49(5) 0.82(5) 0.05(4) 0.45(5) 0.21(4)
+#End of TTdata_39209-ICSD

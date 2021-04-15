@@ -1,0 +1,147 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_192915-ICSD
+_database_code_ICSD 192915
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Disodium dicalcium decavanadate 24-hydrate'
+_chemical_formula_structural 'Na2 Ca2 (V10 O28) (H2 O)24'
+_chemical_formula_sum 'H48 Ca2 Na2 O52 V10'
+_chemical_name_mineral Kokinosite
+_exptl_crystal_density_diffrn 2.35
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Kokinosite, Na2 Ca2 (V10 O28) * 24(H2 O), a new decavanadate mineral species
+from the St. Jude mine, Colorado: crystal structure and descriptive mineralogy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2014 52 15 25 CAMIA6
+loop_
+_publ_author_name
+'Kampf, Anthony R.'
+'Hughes, John M.'
+'Nash, Barbara'
+'Marty, Joe'
+_cell_length_a 8.74899(19)
+_cell_length_b 10.9746(3)
+_cell_length_c 12.8216(9)
+_cell_angle_alpha 114.492(8)
+_cell_angle_beta 105.093(7)
+_cell_angle_gamma 91.111(6)
+_cell_volume 1070.25
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0379
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+Na1+ 1
+Ca2+ 2
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 2 i 0.80250(6) 0.47931(5) 0.46000(4) 0.0191(1) 1. 0
+V2 V5+ 2 i 0.99343(6) 0.24235(5) 0.47322(4) 0.0210(1) 1. 0
+V3 V5+ 2 i 0.99148(6) 0.51228(5) 0.29221(4) 0.0222(1) 1. 0
+V4 V5+ 2 i 0.82947(7) 0.72650(6) 0.69749(5) 0.0266(1) 1. 0
+V5 V5+ 2 i 0.80443(7) 0.23481(5) 0.22879(5) 0.0264(1) 1. 0
+Na1 Na1+ 2 i 0.5210(2) 0.1387(1) 0.6354(1) 0.0385(3) 1. 0
+Ca1 Ca2+ 2 i 0.32122(9) 0.32248(7) 0.93686(6) 0.0312(2) 1. 0
+O1 O2- 2 i 0.0075(2) 0.6077(2) 0.6031(2) 0.0187(4) 1. 0
+O2 O2- 2 i 0.8517(2) 0.6002(2) 0.3948(2) 0.0200(4) 1. 0
+O3 O2- 2 i 0.8527(2) 0.3721(2) 0.5470(2) 0.0205(4) 1. 0
+O4 O2- 2 i 0.6901(3) 0.5781(2) 0.5410(2) 0.0261(5) 1. 0
+O5 O2- 2 i 0.1481(3) 0.4111(2) 0.25020(19) 0.0270(5) 1. 0
+O6 O2- 2 i 0.1475(3) 0.1888(2) 0.39888(19) 0.0258(5) 1. 0
+O7 O2- 2 i 0.6752(3) 0.3604(2) 0.33217(19) 0.0260(5) 1. 0
+O8 O2- 2 i 0.8277(3) 0.1560(2) 0.33586(19) 0.0260(5) 1. 0
+O9 O2- 2 i 0.8269(3) 0.3793(2) 0.18775(18) 0.0265(5) 1. 0
+O10 O2- 2 i 0.0175(3) 0.8267(2) 0.81227(19) 0.0291(5) 1. 0
+O11 O2- 2 i 0.9925(3) 0.1471(2) 0.5410(2) 0.0295(5) 1. 0
+O12 O2- 2 i 0.6942(3) 0.7998(3) 0.7534(2) 0.0385(6) 1. 0
+O13 O2- 2 i 0.6594(3) 0.1333(2) 0.1177(2) 0.0405(6) 1. 0
+O14 O2- 2 i 0.0128(3) 0.3894(2) 0.7732(2) 0.0327(5) 1. 0
+O15 O2- 2 i 0.5575(4) 0.3016(4) 0.5709(3) 0.0622(10) 1. 0
+H1 H1+ 2 i 0.482(4) 0.343(5) 0.545(5) 0.075 1. 0
+H2 H1+ 2 i 0.482(4) 0.343(5) 0.545(5) 0.075 1. 0
+O16 O2- 2 i 0.4723(4) 0.9660(3) 0.6947(3) 0.0577(8) 1. 0
+H3 H1+ 2 i 0.377(3) 0.908(4) 0.661(4) 0.069 1. 0
+H4 H1+ 2 i 0.550(4) 0.911(4) 0.695(4) 0.069 1. 0
+O17 O2- 2 i 0.6999(3) 0.9971(3) 0.5364(2) 0.0386(6) 1. 0
+H5 H1+ 2 i 0.790(4) 0.038(4) 0.532(4) 0.046 1. 0
+H6 H1+ 2 i 0.745(4) 0.937(3) 0.562(4) 0.046 1. 0
+O18 O2- 2 i 0.7456(3) 0.2575(3) 0.8106(3) 0.0445(7) 1. 0
+H7 H1+ 2 i 0.787(5) 0.201(4) 0.840(4) 0.053 1. 0
+H8 H1+ 2 i 0.819(4) 0.295(4) 0.795(4) 0.053 1. 0
+O19 O2- 2 i 0.3774(3) 0.3281(3) 0.7602(2) 0.0322(5) 1. 0
+H9 H1+ 2 i 0.450(4) 0.394(3) 0.781(3) 0.039 1. 0
+H10 H1+ 2 i 0.300(3) 0.326(4) 0.699(3) 0.039 1. 0
+O20 O2- 2 i 0.4855(6) 0.1541(4) 0.9129(3) 0.0908(15) 1. 0
+H11 H1+ 2 i 0.560(6) 0.151(6) 0.972(3) 0.109 1. 0
+H12 H1+ 2 i 0.480(7) 0.082(5) 0.840(3) 0.109 1. 0
+O21 O2- 2 i 0.0909(4) 0.3804(4) 0.0099(3) 0.0698(11) 1. 0
+H13 H1+ 2 i 0.100(7) 0.293(3) -0.012(4) 0.084 1. 0
+H14 H1+ 2 i 0.086(7) 0.407(5) 0.086(3) 0.084 1. 0
+O22 O2- 2 i 0.1337(4) 0.1336(3) 0.7663(2) 0.0445(7) 1. 0
+H15 H1+ 2 i 0.137(5) 0.048(3) 0.743(4) 0.053 1. 0
+H16 H1+ 2 i 0.092(5) 0.145(4) 0.701(3) 0.053 1. 0
+O23 O2- 2 i 0.3551(3) 0.5686(3) 0.9940(2) 0.0376(6) 1. 0
+H17 H1+ 2 i 0.310(5) 0.614(4) 0.052(3) 0.045 1. 0
+H18 H1+ 2 i 0.294(4) 0.579(4) 0.930(3) 0.045 1. 0
+O24 O2- 2 i 0.4256(3) 0.4199(3) 0.1656(2) 0.0370(6) 1. 0
+H19 H1+ 2 i 0.513(3) 0.409(4) 0.210(3) 0.044 1. 0
+H20 H1+ 2 i 0.348(3) 0.423(4) 0.199(3) 0.044 1. 0
+O25 O2- 2 i 0.2414(8) 0.1424(5) 0.0012(4) 0.069(2) 1. 0
+H21 H1+ 2 i 0.270(10) 0.057(5) -0.033(6) 0.083 1. 0
+H22 H1+ 2 i 0.261(10) 0.156(7) 0.079(3) 0.083 1. 0
+O26 O2- 2 i 0.8861(5) 0.0970(4) 0.9242(3) 0.0718(10) 1. 0
+H23 H1+ 2 i 0.930(6) 0.029(4) 0.885(4) 0.086 1. 0
+H24 H1+ 2 i 0.948(6) 0.174(3) 0.965(5) 0.086 1. 0
+#End of TTdata_192915-ICSD

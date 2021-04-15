@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_161992-ICSD
+_database_code_ICSD 161992
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Sodium tripotassium octaborate'
+_chemical_formula_structural '(Na0.25 K0.75)4 (B8 O14)'
+_chemical_formula_sum 'B8 K3 Na1 O14'
+_chemical_name_structure_type K2B4O7
+_exptl_crystal_density_diffrn 2.46
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Thermal "order-disorder" behaviour in (Na1-x Kx)4 B8 O14 solid solutions
+investigated by X-ray powder diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Research and Technology' 2008 43 1150 1160 CRTEDF
+loop_
+_publ_author_name
+'Georgievskaya, M.'
+'Albert, B.'
+'Bubnova, R.'
+'Cordier, G.'
+'Baehtz, C.'
+'Filatov, S.'
+_cell_length_a 6.464(2)
+_cell_length_b 9.543(3)
+_cell_length_c 10.293(3)
+_cell_angle_alpha 88.79(2)
+_cell_angle_beta 101.90(2)
+_cell_angle_gamma 101.83(2)
+_cell_volume 607.94
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+B3+ 3
+K1+ 1
+Na1+ 1
+K1+ 1
+Na1+ 1
+K1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 2 i 0.9927(10) 0.1871(10) 0.9606(4) 0.6(3) 1. 0
+O2 O2- 2 i 0.7932(11) 0.0987(8) 0.1386(4) 0.6(3) 1. 0
+O3 O2- 2 i 0.8179(12) 0.3345(7) 0.0832(6) 0.6(3) 1. 0
+O4 O2- 2 i 0.1480(7) 0.2538(9) 0.1890(4) 0.6(3) 1. 0
+O5 O2- 2 i 0.9479(10) 0.1752(7) 0.3653(5) 0.6(3) 1. 0
+O6 O2- 2 i 0.3125(7) 0.3197(7) 0.4083(4) 0.6(3) 1. 0
+O7 O2- 2 i 0.0142(11) 0.4239(7) 0.3004(7) 0.6(3) 1. 0
+O8 O2- 2 i 0.3445(12) 0.0185(5) 0.6825(7) 0.6(3) 1. 0
+O9 O2- 2 i 0.6622(6) 0.1311(9) 0.8174(7) 0.6(3) 1. 0
+O10 O2- 2 i 0.3435(12) 0.2327(8) 0.8037(6) 0.6(3) 1. 0
+O11 O2- 2 i 0.2274(15) 0.4456(6) 0.8341(7) 0.6(3) 1. 0
+O12 O2- 2 i 0.5083(11) 0.2354(10) 0.6100(6) 0.6(3) 1. 0
+O13 O2- 2 i 0.2197(14) 0.3619(9) 0.6087(6) 0.6(3) 1. 0
+O14 O2- 2 i 0.9655(9) 0.2398(11) 0.7276(6) 0.6(3) 1. 0
+B1 B3+ 2 i 0.9412(7) 0.2185(6) 0.0892(4) 0.6(3) 1. 0
+B2 B3+ 2 i 0.1010(7) 0.2911(5) 0.3167(4) 0.6(3) 1. 0
+B3 B3+ 2 i 0.4665(7) 0.1609(5) 0.7304(4) 0.6(3) 1. 0
+B4 B3+ 2 i 0.1897(7) 0.3209(5) 0.7440(4) 0.6(3) 1. 0
+B5 B3+ 2 i 0.7953(23) 0.0893(15) 0.2726(4) 0.6(3) 1. 0
+B6 B3+ 2 i 0.8588(25) 0.4337(11) 0.1870(9) 0.6(3) 1. 0
+B7 B3+ 2 i 0.8764(9) 0.1888(22) 0.8329(5) 0.6(3) 1. 0
+B8 B3+ 2 i 0.3509(20) 0.3030(17) 0.5440(5) 0.6(3) 1. 0
+K1 K1+ 2 i 0.3686(7) 0.1181(5) 0.0391(5) 1.62(6) 0.64(1) 0
+Na1 Na1+ 2 i 0.3686(7) 0.1181(5) 0.0391(5) 1.62(6) 0.36(1) 0
+K2 K1+ 2 i 0.3362(6) 0.5173(4) 0.1327(4) 1.56(6) 1.00(1) 0
+K3 K1+ 2 i 0.8011(8) 0.3616(6) 0.5093(5) 1.41(6) 0.36(1) 0
+Na2 Na1+ 2 i 0.8011(8) 0.3616(6) 0.5093(5) 1.41(6) 0.64(1) 0
+K4 K1+ 2 i 0.2482(6) 0.0018(4) 0.4036(4) 1.66(6) 1.00(1) 0
+#End of TTdata_161992-ICSD

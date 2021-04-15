@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62316-ICSD
+_database_code_ICSD 62316
+_audit_creation_date 1988-07-15
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Sodium aluminium germanate'
+_chemical_formula_structural 'Na Al (Ge O4)'
+_chemical_formula_sum 'Al1 Ge1 Na1 O4'
+_chemical_name_structure_type Na(Zn,Fe)PO4
+_exptl_crystal_density_diffrn 3.32
+_publ_section_title
+
+;
+Crystal structures of the d-phase of K Al Ge O4 and the c-phase of Na Al Ge O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1986 31 883 891 KRISAJ
+loop_
+_publ_author_name
+'Sandomirskii, P.A.'
+'Meshalkin, S.S.'
+'Rozhdestvenskaya, I.V.'
+'Dem'yanets, L.N. (Demyanets, L.N.)'
+'Uvarova, T.G.'
+_cell_length_a 8.783(2)
+_cell_length_b 15.432(5)
+_cell_length_c 8.252(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.09(2)
+_cell_volume 1118.47
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'P 1 1 21/n'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 '-x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Al3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 4 e 0.58037(4) 0.26662(3) 0.28328(6) 0.38(1) 1. 0
+Ge2 Ge4+ 4 e 0.06246(5) 0.40924(3) 0.27829(6) 0.36(1) 1. 0
+Ge3 Ge4+ 4 e 0.10972(5) 0.07934(3) 0.28352(6) 0.36(1) 1. 0
+Al1 Al3+ 4 e 0.92196(14) 0.23690(8) 0.17060(17) 0.50(3) 1. 0
+Al2 Al3+ 4 e 0.39989(15) 0.42299(8) 0.17021(16) 0.47(3) 1. 0
+Al3 Al3+ 4 e 0.44119(15) 0.09221(8) 0.16652(16) 0.50(3) 1. 0
+Na1 Na1+ 4 e 0.25531(26) 0.25353(15) 0.46254(29) 1.91(7) 1. 0
+Na2 Na1+ 4 e 0.73105(23) 0.03954(12) 0.46922(29) 1.24(6) 1. 0
+Na3 Na1+ 4 e 0.77962(23) 0.06527(13) 0.02338(26) 1.19(5) 1. 0
+O1 O2- 4 e 0.43076(33) 0.19316(19) 0.26141(40) 0.73(8) 1. 0
+O2 O2- 4 e 0.07328(31) 0.19024(81) 0.27779(40) 0.74(7) 1. 0
+O3 O2- 4 e 0.24970(32) 0.37175(19) 0.27321(24) 0.74(7) 1. 0
+O4 O2- 4 e 0.74795(33) 0.20887(20) 0.25836(41) 0.87(8) 1. 0
+O5 O2- 4 e 0.94522(34) 0.02139(19) 0.23423(41) 0.86(8) 1. 0
+O6 O2- 4 e 0.56447(34) 0.02001(18) 0.26608(40) 0.76(8) 1. 0
+O7 O2- 4 e 0.55865(34) 0.35462(18) 0.15280(33) 0.66(7) 1. 0
+O8 O2- 4 e 0.25572(33) 0.05153(19) 0.05135(38) 0.72(8) 1. 0
+O9 O2- 4 e 0.94850(35) 0.34863(19) 0.14754(38) 0.75(8) 1. 0
+O10 O2- 4 e 0.57065(39) 0.3099(2) 0.47749(39) 1.05(9) 1. 0
+O11 O2- 4 e 0.16886(35) 0.04154(20) 0.47758(38) 0.86(8) 1. 0
+O12 O2- 4 e 0.98646(34) 0.3941(2) 0.47068(38) 0.83(8) 1. 0
+#End of TTdata_62316-ICSD

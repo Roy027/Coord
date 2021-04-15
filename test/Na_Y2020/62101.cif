@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62101-ICSD
+_database_code_ICSD 62101
+_audit_creation_date 1988-02-22
+_audit_update_record 1990-05-24
+_chemical_name_systematic
+'Potassium heptasodium lead(IV)tetraoxide lead(II)trioxide'
+_chemical_formula_structural 'K Na7 (Pb O4) (Pb O3)'
+_chemical_formula_sum 'K1 Na7 O7 Pb2'
+_exptl_crystal_density_diffrn 4.31
+_publ_section_title
+
+;
+Das erste gemischtvalente Oxoplumbat mit isolierten Baugruppen:
+KNa7(PbO4)(PbO3)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+549 103 118 ZAACAB
+loop_
+_publ_author_name
+'Stoll, H.'
+'Hoppe, R.'
+_cell_length_a 17.5848(10)
+_cell_length_b 5.9676(3)
+_cell_length_c 10.6646(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.682(8)
+_cell_angle_gamma 90.
+_cell_volume 1119.05
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0952
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Pb4+ 4
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 e 0.0779(1) 0.1861(2) 0.9400(1) . 1. 0
+Pb2 Pb4+ 4 e 0.3573(1) 0.4326(2) 0.2501(1) . 1. 0
+K1 K1+ 4 e 0.5367(3) 0.4831(12) 0.3613(7) . 1. 0
+Na1 Na1+ 4 e 0.9714(6) 0.1708(20) 0.6863(12) . 1. 0
+Na2 Na1+ 4 e 0.1949(6) 0.8177(20) 0.8339(11) . 1. 0
+Na3 Na1+ 4 e 0.1345(6) 0.6619(20) 0.0800(11) . 1. 0
+Na4 Na1+ 4 e 0.5812(6) 0.4472(22) 0.0709(11) . 1. 0
+Na5 Na1+ 4 e 0.2934(6) 0.5923(20) 0.5896(12) . 1. 0
+Na6 Na1+ 4 e 0.2540(6) 0.3481(19) 0.9575(11) . 1. 0
+Na7 Na1+ 4 e 0.1780(7) 0.2156(21) 0.2065(11) . 1. 0
+O1 O2- 4 e 0.5473(10) 0.5136(33) 0.8573(21) . 1. 0
+O2 O2- 4 e 0.2608(10) 0.5443(33) 0.1517(20) . 1. 0
+O3 O2- 4 e 0.6222(10) 0.4383(36) 0.5745(21) . 1. 0
+O4 O2- 4 e 0.6678(11) 0.9069(30) 0.7283(18) . 1. 0
+O5 O2- 4 e 0.1817(11) 0.0243(33) 0.0157(21) . 1. 0
+O6 O2- 4 e 0.1382(10) 0.4841(29) 0.8832(18) . 1. 0
+O7 O2- 4 e 0.0808(11) 0.0175(32) 0.7577(18) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.0090(5) 0.0120(5) 0.0173(6) -.0008(4) 0.0014(4) 0.0002(5)
+Pb2 Pb4+ 0.0086(5) 0.0137(6) 0.0161(6) -.0005(4) 0.0017(4) 0.0004(5)
+K1 K1+ 0.0147(28) 0.0325(38) 0.0241(35) -.0029(26) 0.00000(25) -.0029(30)
+Na1 Na1+ 0.0125(46) 0.0169(51) 0.0294(57) -.0048(42) -.0003(42) -.0057(49)
+Na2 Na1+ 0.0233(49) 0.014(5) 0.0203(54) -.0100(45) 0.0045(42) -.0021(49)
+Na3 Na1+ 0.0174(49) 0.0247(56) 0.0194(54) -.0007(43) 0.0006(42) 0.0026(48)
+Na4 Na1+ 0.0146(46) 0.0254(56) 0.0176(52) 0.0019(45) -.0039(40) -.0028(50)
+Na5 Na1+ 0.0179(48) 0.0142(52) 0.0321(59) 0.0043(44) 0.0016(45) 0.0026(51)
+Na6 Na1+ 0.0124(45) 0.0163(51) 0.0239(54) 0.0026(41) 0.0010(41) 0.0064(47)
+Na7 Na1+ 0.0365(56) 0.0218(56) 0.0110(51) 0.0057(49) 0.0102(44) 0.0016(48)
+O1 O2- 0.0233(70) 0.0363(81) 0.0616(86) -.0092(65) 0.0204(70) -.0175(74)
+O2 O2- 0.0322(72) 0.0295(77) 0.0520(83) -.0118(68) -.0011(70) 0.0212(74)
+O3 O2- 0.0297(72) 0.0436(80) 0.0522(84) -.0093(72) -.0173(70) 0.0117(79)
+O4 O2- 0.0453(77) 0.0238(74) 0.0255(74) -.0168(66) 0.0146(66) -.0021(67)
+O5 O2- 0.0413(77) 0.0322(80) 0.0499(85) 0.0017(70) 0.0079(73) 0.0036(75)
+O6 O2- 0.0372(73) 0.0126(70) 0.0406(79) -.0058(62) -.0060(68) 0.0204(66)
+O7 O2- 0.0344(73) 0.0317(78) 0.0258(75) -.0144(66) 0.0094(65) -.0107(66)
+#End of TTdata_62101-ICSD

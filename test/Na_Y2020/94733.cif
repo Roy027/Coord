@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94733-ICSD
+_database_code_ICSD 94733
+_audit_creation_date 2003-10-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Disodium phyllo-bis(molybdato)dioxouranate'
+_chemical_formula_structural 'Na2 ((U O2) (Mo O4)2)'
+_chemical_formula_sum 'Mo2 Na2 O10 U1'
+_exptl_crystal_density_diffrn 4.29
+_publ_section_title
+
+;
+Crystal chemistry of uranyl molybdates. V. Topologically distinct uranyl
+dimolybdate sheets in the structures of Na2 ((U O2) (Mo O4)2) and K2 ((U O2)
+(Mo O4)2) * (H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2002 40 193 200 CAMIA6
+loop_
+_publ_author_name
+'Krivovichev, S.V.'
+'Finch, R.J.'
+'Burns, P.C.'
+_cell_length_a 7.2298(5)
+_cell_length_b 11.3240(8)
+_cell_length_c 12.0134(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 983.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+Mo6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 4 a 0.82238(4) 0.76038(3) 0.23117(3) 0.0177(1) 1. 0
+Mo1 Mo6+ 4 a 0.3355(1) 0.71338(9) 0.09927(6) 0.0124(2) 1. 0
+Mo2 Mo6+ 4 a 0.5802(1) 0.66610(9) 0.48552(6) 0.0206(2) 1. 0
+Na1 Na1+ 4 a 0.5822(6) 0.9483(4) 0.5702(4) 0.034(1) 1. 0
+Na2 Na1+ 4 a 0.4098(7) 0.9395(5) 0.3055(4) 0.044(1) 1. 0
+O1 O2- 4 a 0.790(1) 0.6035(6) 0.2488(5) 0.026(2) 1. 0
+O2 O2- 4 a 0.853(1) 0.9156(7) 0.2153(6) 0.030(2) 1. 0
+O3 O2- 4 a 0.395(1) 0.5652(9) 0.0950(6) 0.044(2) 1. 0
+O4 O2- 4 a 0.5156(8) 0.7372(9) 0.6135(5) 0.026(2) 1. 0
+O5 O2- 4 a 0.6318(8) 0.7830(7) 0.3881(5) 0.025(2) 1. 0
+O6 O2- 4 a 0.311(1) 0.7666(9) -0.0375(5) 0.047(2) 1. 0
+O7 O2- 4 a 0.775(1) 0.5805(8) 0.5097(6) 0.033(2) 1. 0
+O8 O2- 4 a 0.402(1) 0.5806(8) 0.4337(7) 0.043(2) 1. 0
+O9 O2- 4 a 0.5100(8) 0.7949(8) 0.1727(6) 0.031(2) 1. 0
+O10 O2- 4 a 0.1256(9) 0.731(1) 0.1719(7) 0.054(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ 0.0125(2) 0.0285(2) 0.0121(1) 0.0009(2) -0.00(1) 0.0008(1)
+Mo1 Mo6+ 0.0106(3) 0.0396(6) 0.0141(3) 0.0019(4) -0.0003(3) -0.0027(3)
+Mo2 Mo6+ 0.0159(4) 0.0279(5) 0.0179(3) -0.0016(4) 0.0019(3) 0.0000(4)
+Na1 Na1+ 0.032(0) 0.031(3) 0.041(2) -0.005(2) -0.009(2) -0.003(2)
+Na2 Na1+ 0.049(3) 0.045(3) 0.038(2) 0.022(3) -0.003(2) -0.011(2)
+O1 O2- 0.029(4) 0.022(4) 0.027(4) 0.004(3) -0.004(3) -0.002(3)
+O2 O2- 0.026(4) 0.030(4) 0.034(4) -0.004(3) 0.002(3) 0.003(3)
+O3 O2- 0.027(4) 0.063(7) 0.042(4) 0.004(4) -0.001(4) -0.003(5)
+O4 O2- 0.021(3) 0.042(5) 0.016(3) -0.005(4) 0.007(2) 0.000(3)
+O5 O2- 0.014(3) 0.038(5) 0.023(3) 0.006(3) 0.009(2) 0.003(3)
+O6 O2- 0.033(4) 0.091(7) 0.017(3) 0.007(6) 0.006(3) -0.002(4)
+O7 O2- 0.026(4) 0.041(5) 0.032(4) 0.009(3) 0.002(3) 0.004(4)
+O8 O2- 0.036(4) 0.041(5) 0.052(5) -0.013(4) -0.003(4) -0.001(5)
+O9 O2- 0.013(3) 0.052(6) 0.029(3) 0.004(3) -0.010(3) 0.005(4)
+O10 O2- 0.015(3) 0.101(9) 0.047(4) 0.014(5) 0.011(3) -0.015(6)
+#End of TTdata_94733-ICSD

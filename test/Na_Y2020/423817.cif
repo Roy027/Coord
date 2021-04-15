@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423817-ICSD
+_database_code_ICSD 423817
+_audit_creation_date 2013-02-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Sodium uranyl vanadate'
+_chemical_formula_structural 'Na ((U O2) (V O4))'
+_chemical_formula_sum 'Na1 O6 U1 V1'
+_chemical_name_structure_type KUO2VO4
+_chemical_name_mineral Strelkinite
+_exptl_crystal_density_diffrn 5.27
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A detailed study of the dehydration process in synthetic strelkinite, Na [(U
+O2) (V O4)] * n H2 O (n = 0,1,2)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2012 227 522
+529 ZKCMAJ
+loop_
+_publ_author_name
+'Suleimanov, E.V.'
+'Somov, N.V.'
+'Chuprunov, E.V.'
+'Mayatskikh, E.F.'
+'Depmeier, W.'
+'Alekseev, E.V.'
+_cell_length_a 6.02050(10)
+_cell_length_b 8.33650(10)
+_cell_length_c 10.4164(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.466(2)
+_cell_angle_gamma 90.
+_cell_volume 514.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0333
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+V5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 4 e 0.51478(5) 0.02108(3) 0.31743(2) 0.01481(12) 1 0
+V1 V5+ 4 e 0.3691(3) 0.35010(15) 0.45457(12) 0.0164(3) 1 0
+Na1 Na1+ 4 e -0.0362(7) 0.2090(6) 0.1750(4) 0.0377(11) 1 0
+O1 O2- 4 e 0.5598(12) 0.4362(7) 0.6039(5) 0.0214(13) 1 0
+O2 O2- 4 e 0.4559(12) 0.1526(6) 0.5069(5) 0.0209(13) 1 0
+O3 O2- 4 e 0.3743(12) 0.2895(6) 0.2850(5) 0.0189(12) 1 0
+O4 O2- 4 e 0.2261(11) -0.0388(7) 0.2706(6) 0.0208(12) 1 0
+O5 O2- 4 e 0.8046(11) 0.0802(8) 0.3589(6) 0.0240(13) 1 0
+O6 O2- 4 e 0.1127(12) 0.3622(8) 0.4757(7) 0.0288(15) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ 0.02753(19) 0.00916(16) 0.00839(15) 0.00004(10) 0.00499(11) -0.00048(8)
+V1 V5+ 0.0327(8) 0.0080(5) 0.0094(6) 0.0006(5) 0.0066(5) -0.0001(4)
+Na1 Na1+ 0.037(2) 0.040(3) 0.040(3) 0.0025(18) 0.016(2) -0.0060(17)
+O1 O2- 0.048(4) 0.008(2) 0.008(2) -0.005(3) 0.006(3) -0.0003(19)
+O2 O2- 0.048(4) 0.007(2) 0.010(2) 0.000(2) 0.011(3) 0.0002(18)
+O3 O2- 0.041(4) 0.010(2) 0.007(2) -0.002(2) 0.007(2) 0.0002(18)
+O4 O2- 0.018(3) 0.021(3) 0.021(3) 0.001(2) -0.001(2) 0.001(2)
+O5 O2- 0.026(3) 0.023(3) 0.023(3) -0.002(3) 0.005(3) -0.001(2)
+O6 O2- 0.035(4) 0.026(3) 0.027(3) 0.003(3) 0.010(3) -0.002(3)
+#End of TTdata_423817-ICSD

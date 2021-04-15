@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250424-ICSD
+_database_code_ICSD 250424
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Sodium ruthenium oxide (0.94/2/4)'
+_chemical_formula_structural 'Na0.94 (Ru2 O4)'
+_chemical_formula_sum 'Na0.94 O4 Ru2'
+_chemical_name_structure_type CaV2O4
+_exptl_crystal_density_diffrn 6.55
+_publ_section_title 'Crystal structure and properties of the phase Na1-x Ru2 O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Izvestiya Akademi Nauk, Seriya Khimicheskaya' 2006 2006 1655 1661
+IASKEA
+loop_
+_publ_author_name
+'Panin, R. V.'
+'Khasanova, N.R.'
+'Abakumov, A.M.'
+'Schnelle, W.'
+'Hadermann, J.'
+'Antipov, E.V.'
+_cell_length_a 9.2641(7)
+_cell_length_b 2.8249(3)
+_cell_length_c 11.1496(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 291.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0134
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ru3+ 3.5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.7218(7) 0.25 0.6591(6) 0.043(2) 0.94(1) 0
+Ru1 Ru3+ 4 c 0.4432(1) 0.25 0.6134(1) 0.0216(7) 1 0
+Ru2 Ru3+ 4 c 0.4145(1) 0.25 0.1038(1) 0.0186(6) 1 0
+O1 O2- 4 c 0.2084(5) 0.25 0.1555(7) 0.025(1) 1 0
+O2 O2- 4 c 0.101(1) 0.25 0.4786(5) 0.025(1) 1 0
+O3 O2- 4 c 0.512(1) 0.25 0.7804(5) 0.025(1) 1 0
+O4 O2- 4 c 0.4114(7) 0.25 0.4266(6) 0.025(1) 1 0
+#End of TTdata_250424-ICSD

@@ -1,0 +1,137 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_242241-ICSD
+_database_code_ICSD 242241
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium selenate(VI) decahydrate'
+_chemical_formula_structural 'Na2 Se O4 (H2 O)10'
+_chemical_formula_sum 'H20 Na2 O14 Se1'
+_chemical_name_structure_type Na2SO4(H2O)10
+_exptl_crystal_density_diffrn 1.61
+_cell_measurement_temperature 200.
+_publ_section_title
+
+;
+Similarities and peculiarities between the crystal structures of the hydrates
+of sodium sulfate and selenate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Science, Crystal Engineering and
+Materials
+; 2014 70 714 722 ACSBDA
+loop_
+_publ_author_name
+'Kamburov, Stoyan'
+'Schmidt, Horst'
+'Voigt, Wolfgang'
+'Balarew, Christo'
+_cell_length_a 11.6498(13)
+_cell_length_b 10.5446(9)
+_cell_length_c 13.0181(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.929(9)
+_cell_angle_gamma 90.
+_cell_volume 1521.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0238
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se6+ 4 e 0.74825(2) 0.63964(2) 0.75969(2) 0.01560(7) 1 0
+Na1 Na1+ 4 e 0.24297(6) 0.75513(6) -0.02119(5) 0.02274(15) 1 0
+Na2 Na1+ 4 e 0.25650(6) 0.88793(7) 0.23684(5) 0.02151(15) 1 0
+O1 O2- 4 e 0.14506(11) 0.71982(12) 0.11612(10) 0.0246(3) 1 0
+O2 O2- 4 e 0.35336(11) 0.78364(12) -0.14703(10) 0.0237(3) 1 0
+O3 O2- 4 e 0.38166(11) 0.89064(13) 0.11681(11) 0.0257(3) 1 0
+O4 O2- 4 e 0.11765(11) 0.60739(13) -0.15178(11) 0.0259(3) 1 0
+O5 O2- 4 e 0.37015(12) 0.56985(14) 0.05278(11) 0.0293(3) 1 0
+O6 O2- 4 e 0.13353(12) 1.04175(12) 0.11740(11) 0.0270(3) 1 0
+O7 O2- 4 e 0.11521(12) 0.93934(14) -0.08438(12) 0.0310(3) 1 0
+O8 O2- 4 e 0.63205(10) 0.69711(11) 0.66509(9) 0.0239(3) 1 0
+O9 O2- 4 e 0.76752(11) 0.71909(11) 0.87208(9) 0.0269(3) 1 0
+O10 O2- 4 e 0.72352(12) 0.49094(11) 0.78199(10) 0.0294(3) 1 0
+O11 O2- 4 e 0.86808(11) 0.65052(12) 0.71978(10) 0.0282(3) 1 0
+O12 O2- 4 e 0.37693(12) 1.04003(12) 0.36147(11) 0.0283(3) 1 0
+O13 O2- 4 e 0.90014(13) 0.65112(13) 0.08492(11) 0.0284(3) 1 0
+O14 O2- 4 e 0.59775(13) 0.85025(13) 0.94526(11) 0.0288(3) 1 0
+H1 H1+ 4 e 0.0485(11) 0.628(2) -0.1850(18) 0.042(7) 1 0
+H2 H1+ 4 e 0.110(2) 0.5352(12) -0.1324(18) 0.042(7) 1 0
+H3 H1+ 4 e 0.334(2) 0.8521(13) -0.1759(18) 0.035(7) 1 0
+H4 H1+ 4 e 0.4255(10) 0.793(2) -0.1190(18) 0.044(7) 1 0
+H5 H1+ 4 e 0.121(2) 0.9920(17) -0.1279(15) 0.041(7) 1 0
+H6 H1+ 4 e 0.128(4) 0.966(5) -0.0224(17) 0.16(2) 1 0
+H7 H1+ 4 e 0.341(2) 0.539(2) 0.0961(16) 0.048(7) 1 0
+H8 H1+ 4 e 0.4423(12) 0.558(5) 0.080(3) 0.143(17) 1 0
+H9 H1+ 4 e 0.170(2) 0.6512(14) 0.1437(19) 0.039(7) 1 0
+H10 H1+ 4 e 0.0720(9) 0.713(3) 0.100(2) 0.053(8) 1 0
+H11 H1+ 4 e 0.388(2) 0.9635(12) 0.0972(18) 0.044(7) 1 0
+H12 H1+ 4 e 0.4506(12) 0.864(2) 0.137(2) 0.057(9) 1 0
+H13 H1+ 4 e 0.0611(11) 1.050(5) 0.103(4) 0.157(19) 1 0
+H14 H1+ 4 e 0.162(2) 1.1121(13) 0.121(2) 0.038(7) 1 0
+H15 H1+ 4 e 0.362(2) 1.1151(11) 0.349(2) 0.036(7) 1 0
+H16 H1+ 4 e 0.366(3) 1.016(3) 0.4178(17) 0.104(13) 1 0
+H17 H1+ 4 e 0.6383(19) 0.8028(19) 0.9205(18) 0.041(7) 1 0
+H18 H1+ 4 e 0.618(2) 0.834(2) 1.0092(9) 0.046(7) 1 0
+H19 H1+ 4 e 0.8792(19) 0.7064(16) 0.1187(15) 0.030(6) 1 0
+H20 H1+ 4 e 0.862(2) 0.666(3) 0.0222(10) 0.048(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se6+ 0.01716(10) 0.01285(10) 0.01630(10) 0.00012(5) 0.00444(6) 0.00002(5)
+Na1 Na1+ 0.0238(3) 0.0223(3) 0.0227(3) -0.0006(3) 0.0079(3) -0.0012(3)
+Na2 Na1+ 0.0232(3) 0.0190(3) 0.0218(3) 0.0005(2) 0.0061(3) 0.0005(2)
+O1 O2- 0.0216(6) 0.0227(6) 0.0281(6) -0.0002(5) 0.0059(5) 0.0016(5)
+O2 O2- 0.0215(6) 0.0214(6) 0.0263(6) -0.0018(5) 0.0042(5) 0.0025(5)
+O3 O2- 0.0206(6) 0.0246(6) 0.0316(7) 0.0006(5) 0.0075(5) 0.0001(5)
+O4 O2- 0.0199(6) 0.0259(6) 0.0297(7) -0.0012(5) 0.0044(5) 0.0012(5)
+O5 O2- 0.0281(7) 0.0322(7) 0.0301(7) 0.0029(6) 0.0127(5) 0.0042(6)
+O6 O2- 0.0245(6) 0.0207(6) 0.0332(7) -0.0020(5) 0.0051(5) 0.0016(5)
+O7 O2- 0.0310(7) 0.0300(7) 0.0346(7) 0.0025(6) 0.0142(6) 0.0082(6)
+O8 O2- 0.0195(6) 0.0247(6) 0.0236(6) 0.0021(5) 0.0011(5) 0.0027(5)
+O9 O2- 0.0337(7) 0.0247(6) 0.0219(6) -0.0001(5) 0.0080(5) -0.0054(5)
+O10 O2- 0.0420(8) 0.0156(6) 0.0304(6) -0.0021(5) 0.0107(6) 0.0012(5)
+O11 O2- 0.0225(6) 0.0336(7) 0.0297(7) 0.0009(5) 0.0099(5) 0.0034(5)
+O12 O2- 0.0312(7) 0.0209(6) 0.0299(7) 0.0000(5) 0.0049(5) 0.0015(5)
+O13 O2- 0.0295(7) 0.0289(7) 0.0257(7) 0.0034(5) 0.0071(6) -0.0010(5)
+O14 O2- 0.0258(7) 0.0332(7) 0.0264(7) 0.0031(5) 0.0068(5) 0.0005(6)
+#End of TTdata_242241-ICSD

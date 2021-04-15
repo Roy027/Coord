@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_48116-ICSD
+_database_code_ICSD 48116
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Sodium tungstate phosphate *'
+_chemical_formula_structural 'Na1.5 P4 W8 O32'
+_chemical_formula_sum 'Na1.5 O32 P4 W8'
+_exptl_crystal_density_diffrn 5.82
+_publ_section_title
+
+;
+Two new members of a series of monoclinic sodium phosphate tungsten bronzes
+Nax P4 O8 (W O3)2m: Nax P4 W8 O32 (m= 4) and Nax P4 W12 O44 (m=6)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1984 40 573 576 ACSCEE
+loop_
+_publ_author_name
+'Benmoussa, A.'
+'Groult, D.'
+'Labbe, P.'
+'Raveau, B.'
+_cell_length_a 17.788(11)
+_cell_length_b 5.277(4)
+_cell_length_c 6.607(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.64(5)
+_cell_angle_gamma 90.
+_cell_volume 611.42
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W5+ 5.313
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W5+ 4 e 0.20591(1) 0.26064(11) 0.14025(5) . 1. 0
+W2 W5+ 4 e 0.37481(1) 0.25849(13) 0.56011(5) . 1. 0
+P1 P5+ 4 e 0.0634(1) 0.2740(5) 0.7142(3) 0.25(2) 1. 0
+O1 O2- 4 e 0.1105(5) 0.245(3) 0.9308(14) 0.91(8) 1. 0
+O2 O2- 4 e 0.0846(6) 0.067(2) 0.5751(18) 0.99(11) 1. 0
+O3 O2- 4 e 0.4266(5) 0.0416(18) 0.3689(16) 0.79(9) 1. 0
+O4 O2- 4 e 0.4794(4) 0.2684(17) 0.7410(11) 0.51(7) 1. 0
+O5 O2- 4 e 0.1505(5) 0.4829(17) 0.3021(16) 0.66(8) 1. 0
+O6 O2- 4 e 0.1619(5) -.0241(16) 0.2642(14) 0.55(8) 1. 0
+O7 O2- 4 e 0.2893(5) 0.2618(19) 0.3620(14) 0.89(8) 1. 0
+O8 O2- 4 e 0.2572(5) 0.0384(17) 0.9850(15) 0.68(9) 1. 0
+Na1 Na1+ 4 e 0.008(2) 0.225(9) 0.139(7) 2.7(5) 0.375 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W5+ 0.00490(8) 0.00446(11) 0.00419(11) 0.00002(10) -.00010(1) 0.00008(2)
+W2 W5+ 0.00476(8) 0.00383(11) 0.00422(11) 0.00011(12) 0.00011(7) -.00019(12)
+#End of TTdata_48116-ICSD

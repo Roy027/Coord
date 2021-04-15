@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71239-ICSD
+_database_code_ICSD 71239
+_audit_creation_date 1993-01-06
+_chemical_name_systematic
+'Potassium sodium titanium oxide phosphate (0.52/0.48/1/1/1)'
+_chemical_formula_structural '(Na0.48 K0.52) Ti O (P O4)'
+_chemical_formula_sum 'K0.52 Na0.48 O5 P1 Ti1'
+_chemical_name_structure_type KTiOPO4
+_exptl_crystal_density_diffrn 2.96
+_publ_section_title
+
+;
+Isomorphous substitution in non-linear optical KTiOPO4. Powder diffraction and
+magic angle spinning nuclear magnetic resonance study of (K1/2Na1/2)TiOPO4 and
+(Rb1/2Na1/2)TiOPO4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 1991 1 113 119 JMACEP
+loop_
+_publ_author_name
+'Crenell, S.J.'
+'Owen, J.J.'
+'Grey, C.P.'
+'Cheetham, A.K.'
+'Kaduk, J.A.'
+'Jarman, R.H.'
+_cell_length_a 12.7561(7)
+_cell_length_b 10.60426(6)
+_cell_length_c 6.31869(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 854.72
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P n 21 a'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+Na1+ 1
+K1+ 1
+Na1+ 1
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 4 a 0.3721(2) 0 0.4911(8) 0.0037(6) 1. 0
+Ti2 Ti4+ 4 a 0.2489(4) 0.2515(7) 0.2699(7) 0.0037(6) 1. 0
+P1 P5+ 4 a 0.4959(3) 0.2627(6) 0.3363(2) 0.0047(3) 1. 0
+P2 P5+ 4 a 0.1839(1) 0.5123(6) 0.4998(7) 0.0047(3) 1. 0
+Na1 Na1+ 4 a 0.3528(3) 0.2898(6) 0.7689(7) 0.0339(13) 0.96(7) 0
+K1 K1+ 4 a 0.3528(3) 0.2898(6) 0.7689(7) 0.0341(12) 0.04(7) 0
+Na2 Na1+ 4 a 0.1030(4) 0.0687(7) 0.6776(8) 0.0339(13) 0.001(30) 0
+K2 K1+ 4 a 0.1030(4) 0.0687(7) 0.6776(8) 0.0341(12) 0.999(30) 0
+O1 O2- 4 a 0.4810(2) 0.1521(5) 0.4939(5) 0.0080(2) 1. 0
+O2 O2- 4 a 0.5064(4) 0.3870(5) 0.4648(4) 0.0080(2) 1. 0
+O3 O2- 4 a 0.3997(2) 0.2782(6) 0.1898(4) 0.0080(2) 1. 0
+O4 O2- 4 a 0.5941(2) 0.2434(6) 0.1975(5) 0.0080(2) 1. 0
+O5 O2- 4 a 0.1171(3) 0.5377(5) 0.3031(4) 0.0080(2) 1. 0
+O6 O2- 4 a 0.1103(3) 0.4869(6) 0.6866(5) 0.0080(2) 1. 0
+O7 O2- 4 a 0.2556(3) 0.6275(6) 0.5290(6) 0.0080(2) 1. 0
+O8 O2- 4 a 0.2567(3) 0.3972(6) 0.4600(6) 0.0080(2) 1. 0
+O9 O2- 4 a 0.2253(3) 0.6409(6) -.0363(6) 0.0080(2) 1. 0
+O10 O2- 4 a 0.2242(3) 0.3855(6) 0.0296(6) 0.0080(2) 1. 0
+#End of TTdata_71239-ICSD

@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260591-ICSD
+_database_code_ICSD 260591
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Lithium sodium zinc borate (0.48/0.52/1/1)'
+_chemical_formula_structural '(Li0.48 Na0.52) Zn (B O3)'
+_chemical_formula_sum 'B1 Li0.48 Na0.52 O3 Zn1'
+_exptl_crystal_density_diffrn 3.85
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Syntheses and characterization of two alkali-metal zinc borates, alpha - Li Zn
+B O3 and Li0.48 Na0.52 Zn B O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2009 11 2086 2092 SSSCFJ
+loop_
+_publ_author_name
+'Chen Xue An'
+'Yang Chun Yan'
+'Chang Xi Nan'
+'Zang Hegui'
+'Xiao Wei Qiang'
+_cell_length_a 5.054(1)
+_cell_length_b 6.113(1)
+_cell_length_c 8.045(2)
+_cell_angle_alpha 75.73(2)
+_cell_angle_beta 89.87(3)
+_cell_angle_gamma 89.86(3)
+_cell_volume 240.88
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0646
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+Li1+ 1
+Na1+ 1
+Zn2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 i 0.1672(8) 0.7216(8) -0.4018(6) 0.0185(14) 0.53 0
+Na1 Na1+ 2 i 0.1672(8) 0.7216(8) -0.4018(6) 0.0185(14) 0.47 0
+Li2 Li1+ 2 i -0.1624(10) 1.0048(12) -0.2479(11) 0.025(2) 0.42 0
+Na2 Na1+ 2 i -0.1624(10) 1.0048(12) -0.2479(11) 0.025(2) 0.58 0
+Zn1 Zn2+ 2 i 0.65797(11) 0.46336(9) -0.28454(7) 0.0091(2) 1. 0
+Zn2 Zn2+ 2 i 0.32732(14) 0.83148(17) -0.08311(10) 0.0193(3) 1. 0
+B1 B3+ 2 i 0.1711(10) 0.3364(8) -0.0871(6) 0.0058(8) 1. 0
+B2 B3+ 2 i 0.6640(10) 0.8364(8) -0.5782(6) 0.0057(8) 1. 0
+O1 O2- 2 i 0.3036(7) 0.5084(6) -0.1969(5) 0.0084(6) 1. 0
+O2 O2- 2 i 0.8999(7) 0.3201(6) -0.1005(5) 0.0099(8) 1. 0
+O3 O2- 2 i 0.7007(7) 0.8270(7) 0.0369(5) 0.0121(9) 1. 0
+O4 O2- 2 i 0.7995(7) 0.7303(7) -0.4330(5) 0.0133(9) 1. 0
+O5 O2- 2 i 0.2055(7) 0.9997(6) -0.3016(5) 0.0083(8) 1. 0
+O6 O2- 2 i 0.5983(7) 0.2126(6) -0.4006(5) 0.0107(8) 1. 0
+#End of TTdata_260591-ICSD

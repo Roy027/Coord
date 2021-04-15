@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68466-ICSD
+_database_code_ICSD 68466
+_audit_creation_date 1991-07-10
+_chemical_name_systematic 'Sodium yttrium bis(selenate(IV))'
+_chemical_formula_structural 'Na Y (Se O3)2'
+_chemical_formula_sum 'Na1 O6 Se2 Y1'
+_chemical_name_structure_type AlFeO3
+_exptl_crystal_density_diffrn 4.14
+_publ_section_title
+
+;
+Synthesis and crystal structures of two novel selenites, NaY(SeO3)2 and
+NaLa(SeO3)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1990 46 2013 2017 ACSCEE
+loop_
+_publ_author_name
+'Morris, R.E.'
+'Hriljac, J.A.'
+'Cheetham, A.K.'
+_cell_length_a 5.397(2)
+_cell_length_b 8.525(2)
+_cell_length_c 12.765(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 587.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 c n'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 'x+1/2, y+1/2, -z+1/2'
+3 'x+1/2, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Se4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 a 0.2498(3) 0.17579(7) 0.08508(4) . 1. 0
+Se1 Se4+ 4 a -.2531(3) -.03055(8) 0.20358(4) . 1. 0
+Se2 Se4+ 4 a 0.2016(3) 0.76504(8) 0.08056(5) . 1. 0
+Na1 Na1+ 4 a 0.2149(8) 0.0069(4) 0.3806(3) . 1. 0
+O1 O2- 4 a -.0202(11) 0.2837(8) -.0253(5) . 1. 0
+O2 O2- 4 a -.0346(10) 0.5486(8) 0.2858(5) . 1. 0
+O3 O2- 4 a 0.624(1) 0.4354(6) 0.4832(4) . 1. 0
+O4 O2- 4 a 0.2986(11) 0.4061(6) 0.1732(4) . 1. 0
+O5 O2- 4 a 0.9439(10) 0.1254(7) 0.2018(5) . 1. 0
+O6 O2- 4 a 0.5068(10) 0.1504(7) 0.4850(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0054(3) 0.0060(3) 0.0101(2) -.0002(2) 0.0006(4) -.0002(2)
+Se1 Se4+ 0.0062(3) 0.0093(3) 0.0103(2) 0.0005(3) -.0006(3) -.0004(2)
+Se2 Se4+ 0.0055(3) 0.0090(3) 0.0099(3) -.0006(3) -.0001(3) 0.0004(2)
+Na1 Na1+ 0.0204(20) 0.0203(15) 0.0225(14) -.0092(16) 0.0016(17) -.0029(11)
+O1 O2- 0.0096(24) 0.0176(30) 0.0226(31) -.0027(22) -.0046(25) 0.0029(27)
+O2 O2- 0.0074(24) 0.0209(30) 0.0168(26) 0.0033(23) 0.0009(21) 0.0006(25)
+O3 O2- 0.0105(25) 0.0079(22) 0.0157(23) -.0007(20) 0.0011(21) -.0014(18)
+O4 O2- 0.0208(33) 0.0093(21) 0.0176(22) -.0013(24) 0.0066(23) -.0087(18)
+O5 O2- 0.0123(28) 0.0160(28) 0.0163(28) -.0069(22) 0.0103(23) -.0038(22)
+O6 O2- 0.0106(27) 0.0112(27) 0.0204(29) -.0003(20) 0.0084(24) 0.0007(23)
+#End of TTdata_68466-ICSD

@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_77359-ICSD
+_database_code_ICSD 77359
+_audit_creation_date 2003-04-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic
+'Sodium dipotassium hydrogencarbonate carbonate dihydrate'
+_chemical_formula_structural 'Na K2 (H C O3) (C O3) (H2 O)2'
+_chemical_formula_sum 'C2 H5 K2 Na1 O8'
+_chemical_name_structure_type NaK2H(CO3)2(H2O)2
+_exptl_crystal_density_diffrn 2.04
+_publ_section_title
+
+;
+Darstellung und Struktur der ersten gemischten Alkalimetall- hydrogencarbonate
+Na A2 (H (C O3)2) * 2(H2 O) mit A= K, Rb
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 2023 2030 ZAACAB
+loop_
+_publ_author_name
+'Adam, A.'
+'Cirpus, V.'
+_cell_length_a 9.3407(13)
+_cell_length_b 7.8931(10)
+_cell_length_c 11.421(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 842.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+K1+ 1
+O2- -2
+C4+ 4
+O2- -2
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.0398(1) 0.25 0.33748(8) . 1. 0
+K1 K1+ 8 d 0.20152(4) 0.51023(4) 0.11593(3) . 1. 0
+O1 O2- 4 c 0.2563(2) 0.25 0.4433(1) . 1. 0
+O2 O2- 4 c 0.3009(2) 0.25 0.2511(1) . 1. 0
+O3 O2- 4 c 0.4811(2) 0.25 0.3798(1) . 1. 0
+C1 C4+ 4 c 0.3390(2) 0.25 0.3569(2) . 1. 0
+O4 O2- 4 c 0.5240(2) 0.25 0.5893(1) . 1. 0
+O5 O2- 4 c 0.7585(2) 0.25 0.5542(1) . 1. 0
+O6 O2- 4 c 0.6752(2) 0.25 0.7373(1) . 1. 0
+C2 C4+ 4 c 0.6554(2) 0.25 0.6273(1) . 1. 0
+O7 O2- 8 d 0.4723(2) 0.0396(2) 0.8429(1) . 1. 0
+H1 H1+ 4 c 0.499(4) 0.25 0.458(4) 0.09(1) 1. 0
+H2 H1+ 8 d 0.413(2) 0.095(3) 0.878(2) 0.04(1) 1. 0
+H3 H1+ 8 d 0.528(2) 0.103(3) 0.810(2) 0.05(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0265(5) 0.0209(4) 0.0372(5) 0 -0.0102(4) 0
+K1 K1+ 0.0296(2) 0.0224(2) 0.0237(2) 0.0021(1) -0.0041(1) -0.0008(1)
+O1 O2- 0.017(1) 0.037(1) 0.019(1) 0 0.002(1) 0
+O2 O2- 0.024(1) 0.029(1) 0.016(1) 0 -0.004(1) 0
+O3 O2- 0.016(1) 0.047(1) 0.019(1) 0 -0.002(1) 0
+C1 C4+ 0.019(1) 0.016(1) 0.020(1) 0 -0.002(1) 0
+O4 O2- 0.018(1) 0.069(1) 0.022(1) 0 -0.005(1) 0
+O5 O2- 0.020(1) 0.037(1) 0.020(1) 0 0.001(1) 0
+O6 O2- 0.025(1) 0.036(1) 0.015(1) 0 -0.003(1) 0
+C2 C4+ 0.020(1) 0.018(1) 0.017(1) 0 -0.004(1) 0
+O7 O2- 0.035(1) 0.021(1) 0.052(1) 0.001(1) 0.016(1) 0.001(1)
+#End of TTdata_77359-ICSD

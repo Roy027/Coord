@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50396-ICSD
+_database_code_ICSD 50396
+_audit_creation_date 1999-11-30
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Disodium dicalcium tetraniobate'
+_chemical_formula_structural 'Na2 Ca2 (Nb4 O13)'
+_chemical_formula_sum 'Ca2 Na2 Nb4 O13'
+_exptl_crystal_density_diffrn 4.3
+_publ_section_title
+'Structure of layered perovskite-type Na2 Ca2 Nb4 O13 single crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 1998 108 179 183 SSIOD3
+loop_
+_publ_author_name
+'Chiba, K.'
+'Ishizawa, N.'
+'Nagai, Y.'
+'Oishi, S.'
+_cell_length_a 3.885(3)
+_cell_length_b 3.884(3)
+_cell_length_c 36.150(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 545.48
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m m m'
+_symmetry_Int_Tables_number 71
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 'x, -y, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x, -y, z'
+6 '-x, y, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 'x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 4 i 0 0 0.05491(5) . 1. 0
+Nb2 Nb5+ 4 i 0 0 0.16807(4) . 1. 0
+Ca1 Ca2+ 2 c 0.5 0.5 0 . 0.60(3) 0
+Na1 Na1+ 2 c 0.5 0.5 0 . 0.40(3) 0
+Ca2 Ca2+ 4 i 0 0 0.387(1) . 0.70(2) 0
+Na2 Na1+ 4 i 0 0 0.387(1) . 0.30(2) 0
+Na3 Na1+ 4 i 0 0 0.2779(5) . 0.5 0
+O1 O2- 2 a 0 0 0 . 1. 0
+O2 O2- 4 i 0 0 0.1051(4) . 1. 0
+O3 O2- 4 i 0 0 0.2177(4) . 1. 0
+O4 O2- 4 j 0.5 0 0.0516(5) . 1. 0
+O5 O2- 4 j 0.5 0 0.1591(5) . 1. 0
+O6 O2- 4 j 0 0.5 0.1590(5) . 1. 0
+O7 O2- 4 j 0 0.5 0.0509(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0065(3) 0.0069(4) 0.0094(6) 0 0 0
+Nb2 Nb5+ 0.0084(4) 0.0078(5) 0.0120(7) 0 0 0
+Ca1 Ca2+ 0.027(3) 0.027(3) 0.010(3) 0 0 0
+Na1 Na1+ 0.027(3) 0.027(3) 0.010(3) 0 0 0
+Ca2 Ca2+ 0.021(2) 0.021(2) 0.029(3) 0 0 0
+Na2 Na1+ 0.021(2) 0.021(2) 0.029(3) 0 0 0
+Na3 Na1+ 0.07(1) 0.08(1) 0.02(1) 0 0 0
+O1 O2- 0.11(2) 0.10(2) 0.01(1) 0 0 0
+O2 O2- 0.076(9) 0.08(1) 0.010(8) 0 0 0
+O3 O2- 0.08(1) 0.07(1) 0.021(9) 0 0 0
+O4 O2- 0.016(6) 0.17(2) 0.08(2) 0 0 0
+O5 O2- 0.009(4) 0.051(8) 0.08(1) 0 0 0
+O6 O2- 0.047(7) 0.016(6) 0.09(1) 0 0 0
+O7 O2- 0.18(2) 0.012(6) 0.13(2) 0 0 0
+#End of TTdata_50396-ICSD

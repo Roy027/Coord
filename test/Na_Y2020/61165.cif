@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61165-ICSD
+_database_code_ICSD 61165
+_audit_creation_date 1986-12-03
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Calcium trisodium pentaborate'
+_chemical_formula_structural 'Ca Na3 B5 O10'
+_chemical_formula_sum 'B5 Ca1 Na3 O10'
+_chemical_name_structure_type Na3SrB5O10
+_exptl_crystal_density_diffrn 2.44
+_cell_measurement_temperature 295.
+_publ_section_title 'Structure of Calcium Trisodium Pentaborate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1985 41 1396 1398 ACSCEE
+loop_
+_publ_author_name
+'Fayos, J.'
+'Howie, R.A.'
+'Glasser, F.P.'
+_cell_length_a 7.460(3)
+_cell_length_b 7.445(4)
+_cell_length_c 11.124(6)
+_cell_angle_alpha 120.58(4)
+_cell_angle_beta 61.94(3)
+_cell_angle_gamma 120.17(3)
+_cell_volume 440.29
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.069
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 2 i 0.7772 0.3711 -.87995 . 1. 0
+Na1 Na1+ 2 i 0.27425 -.0147 0.25011 . 1. 0
+Na2 Na1+ 2 i 0.0108 -.31351 -.54661 . 1. 0
+Na3 Na1+ 2 i 0.82612 -.02069 0.17483 . 1. 0
+O1 O2- 2 i 0.59981 0.67809 -.19076 . 1. 0
+O2 O2- 2 i 0.67468 0.35832 -.24165 . 1. 0
+O3 O2- 2 i 0.35785 0.31479 -.27533 . 1. 0
+O4 O2- 2 i 0.71367 0.43606 -.43624 . 1. 0
+O5 O2- 2 i 0.78822 0.70539 -.05588 . 1. 0
+O6 O2- 2 i 0.41028 0.1835 -.53118 . 1. 0
+O7 O2- 2 i 0.72499 1.0107 -.00263 . 1. 0
+O8 O2- 2 i 0.85722 0.39931 -.09885 . 1. 0
+O9 O2- 2 i 0.07813 0.01842 -.37353 . 1. 0
+O10 O2- 2 i 0.75831 0.331 -.68465 . 1. 0
+B1 B3+ 2 i 0.58755 0.44492 -.28765 1.088 1. 0
+B2 B3+ 2 i 0.69994 0.80456 -.08045 1.711 1. 0
+B3 B3+ 2 i 0.7713 0.48175 -.13182 1.263 1. 0
+B4 B3+ 2 i 0.27336 0.16569 -.39308 1.316 1. 0
+B5 B3+ 2 i 0.63079 0.31823 -.55462 1.369 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ca1 Ca2+ 0.00979 0.00542 0.00326 0.00075 -.00339 0.00166
+Na1 Na1+ 0.01398 0.01166 0.0908 0.00035 -.00649 0.00494
+Na2 Na1+ 0.01215 0.01394 0.00616 0.00063 -.00292 0.00098
+Na3 Na1+ 0.01789 0.01706 0.00549 0.00629 -.00459 0.0045
+O1 O2- 0.01246 0.00655 0.00667 -.00056 -.00693 0.00266
+O2 O2- 0.0111 0.01117 0.00433 0.00393 -.0039 0.00232
+O3 O2- 0.00619 0.00777 0.00323 0.00066 -.00189 0.0018
+O4 O2- 0.00659 0.01996 0.00458 -.00004 -.00191 0.00654
+O5 O2- 0.02384 0.01728 0.00517 0.0139 -.00781 -.00214
+O6 O2- 0.0113 0.01337 0.00355 0.00107 -.0036 0.00143
+O7 O2- 0.1236 0.00514 0.04207 0.01469 -.00685 -.00744
+O8 O2- 0.01037 0.01791 0.00342 0.00805 -.00135 0.0039
+O9 O2- 0.01139 0.02024 0.00776 -.00709 -.00244 -.00161
+O10 O2- 0.016 0.0235 0.00461 0.007 -.00096 0.00071
+#End of TTdata_61165-ICSD

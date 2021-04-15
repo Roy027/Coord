@@ -1,0 +1,147 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_247460-ICSD
+_database_code_ICSD 247460
+_audit_creation_date 2011-02-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic
+'Heptasodium tridecamagnesium europium(III) dodecakis(phosphate)'
+_chemical_formula_structural 'Na7 Mg13 Eu (P O4)12'
+_chemical_formula_sum 'Eu1 Mg13 Na7 O48 P12'
+_chemical_name_structure_type Na7Mg13Eu(PO4)12
+_exptl_crystal_density_diffrn 3.16
+_publ_section_title
+
+;
+Synthesis, crystal structure and optical investigation of the new phosphates:
+Na7 Mg13 Ln (P O4)12 (Ln = La, Eu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2010 183 1752 1760 JSSCBI
+loop_
+_publ_author_name
+'Jerbi, H.'
+'Hidouri, M.'
+'Glorieux, B.'
+'Darriet, J.'
+'Garcia, A.'
+'Jubera, V.'
+'Amara, M.B.'
+_cell_length_a 10.275(9)
+_cell_length_b 15.446(2)
+_cell_length_c 23.386(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3711.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+Mg2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 4 a 0 0.4552(1) 0.9995(1) 0.0076(1) 1 0
+Mg1 Mg2+ 4 a 0 0.5975(2) 0.7202(2) 0.0091(5) 1 0
+Mg2 Mg2+ 4 a 0.5 0.5615(2) 0.8697(2) 0.0066(5) 1 0
+Mg3 Mg2+ 4 a 0 0.1475(2) 0.9836(2) 0.0073(5) 1 0
+Mg4 Mg2+ 4 a 0 0.2168(2) 0.6052(2) 0.0123(5) 1 0
+Mg5 Mg2+ 8 b 0.2385(2) 0.7015(2) 0.8249(1) 0.0087(3) 1 0
+Mg6 Mg2+ 8 b 0.7686(3) 0.3596(2) 0.5694(1) 0.0311(7) 1 0
+Mg7 Mg2+ 8 b 0.6542(2) 0.3909(2) 0.7129(1) 0.0178(4) 1 0
+Mg8 Mg2+ 8 b 0.7554(2) 0.3824(2) 0.8819(1) 0.0151(4) 1 0
+Mg9 Mg2+ 8 b 0.7554(3) 0.4308(2) 0.1241(1) 0.0287(6) 0.5(1) 0
+Na1 Na1+ 8 b 0.7554(3) 0.4308(2) 0.1241(1) 0.0287(6) 0.5(2) 0
+Na2 Na1+ 4 a 0 0.9065(3) 0.2195(2) 0.0188(7) 1 0
+Na3 Na1+ 4 a 0 0.7347(3) 0.5982(2) 0.0214(8) 1 0
+Na4 Na1+ 4 a 0 0.5469(3) 0.8558(2) 0.0213(9) 1 0
+Na5 Na1+ 4 a 0.5 0.5682(2) 0.4780(2) 0.0226(8) 1 0
+Na6 Na1+ 4 a 0.5 0.2242(3) 0.9457(2) 0.033(1) 1 0
+Na7 Na1+ 8 b 0.0319(7) 0.3510(5) 0.7630(3) 0.048(3) 0.5 0
+P1 P5+ 8 b 0.7814(2) 0.5677(1) 0.9412(1) 0.0048(2) 1 0
+O1 O2- 8 b 0.8184(4) 0.6415(2) 0.9010(2) 0.0117(7) 1 0
+O2 O2- 8 b 0.6342(4) 0.5531(2) 0.9445(2) 0.0110(7) 1 0
+O3 O2- 8 b 0.8452(3) 0.5803(2) 0.0002(2) 0.0116(6) 1 0
+O4 O2- 8 b 0.8482(4) 0.4828(2) 0.9203(2) 0.0103(7) 1 0
+P2 P5+ 8 b 0.2529(2) 0.5355(1) 0.7785(1) 0.0090(2) 1 0
+O5 O2- 8 b 0.2268(5) 0.4489(3) 0.8060(2) 0.024(2) 1 0
+O6 O2- 8 b 0.2895(4) 0.5178(3) 0.7161(2) 0.0188(9) 1 0
+O7 O2- 8 b 0.1339(4) 0.5955(2) 0.7829(2) 0.0102(7) 1 0
+O8 O2- 8 b 0.3610(4) 0.5890(3) 0.8086(2) 0.0119(8) 1 0
+P3 P5+ 8 b 0.7548(2) 0.2985(1) 0.0138(1) 0.0081(3) 1 0
+O9 O2- 8 b 0.7004(4) 0.3300(3) 0.9573(2) 0.0160(8) 1 0
+O10 O2- 8 b 0.6405(4) 0.2627(3) 0.0488(2) 0.0163(8) 1 0
+O11 O2- 8 b 0.8485(4) 0.2210(2) 0.0123(2) 0.0158(8) 1 0
+O12 O2- 8 b 0.8253(4) 0.3731(2) 0.0454(2) 0.0160(8) 1 0
+P4 P5+ 8 b 0.7611(2) 0.2733(1) 0.1809(1) 0.0113(3) 1 0
+O13 O2- 8 b 0.6370(5) 0.3172(4) 0.1613(3) 0.037(2) 1 0
+O14 O2- 8 b 0.7525(6) 0.2395(3) 0.2422(2) 0.027(2) 1 0
+O15 O2- 8 b 0.8685(4) 0.3408(3) 0.1714(2) 0.0148(8) 1 0
+O16 O2- 8 b 0.7972(5) 0.1929(3) 0.1450(2) 0.021(1) 1 0
+P5 P5+ 4 a 0 0.2766(2) 0.8852(1) 0.0054(3) 1 0
+O17 O2- 4 a 0 0.3372(3) 0.9360(3) 0.012(2) 1 0
+O18 O2- 4 a 0 0.1819(3) 0.9023(2) 0.009(1) 1 0
+O19 O2- 8 b 0.8787(4) 0.2932(2) 0.8482(2) 0.0117(7) 1 0
+P6 P5+ 4 a 0.5 0.3517(2) 0.8300(1) 0.0062(3) 1 0
+O20 O2- 4 a 0.5 0.3766(4) 0.7673(3) 0.016(2) 1 0
+O21 O2- 8 b 0.3799(4) 0.2994(3) 0.8455(2) 0.0187(9) 1 0
+O22 O2- 4 a 0.5 0.4316(4) 0.8684(3) 0.031(2) 1 0
+P7 P5+ 8 b 0.9735(2) 0.4425(2) 0.6359(2) 0.0061(7) 0.5 0
+O23 O2- 4 a 0 0.4685(4) 0.6981(2) 0.013(2) 1 0
+O24 O2- 8 b 0.0248(11) 0.3526(5) 0.6228(4) 0.023(3) 0.5 0
+O25 O2- 8 b 0.9427(8) 0.5055(6) 0.5992(4) 0.017(2) 0.5 0
+O26 O2- 8 b 0.8304(7) 0.4526(6) 0.6177(4) 0.017(2) 0.5 0
+P8 P5+ 8 b 0.4825(8) 0.4699(2) 0.6004(2) 0.011(2) 0.5 0
+O27 O2- 4 a 0.5 0.4374(6) 0.6613(3) 0.027(2) 1 0
+O28 O2- 8 b 0.5516(7) 0.4080(5) 0.5590(3) 0.011(2) 0.5 0
+O29 O2- 8 b 0.6667(8) 0.4692(5) 0.5901(4) 0.012(2) 0.5 0
+O30 O2- 8 b 0.4644(10) 0.5607(6) 0.5919(5) 0.043(4) 0.5 0
+#End of TTdata_247460-ICSD

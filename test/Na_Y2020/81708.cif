@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81708-ICSD
+_database_code_ICSD 81708
+_audit_creation_date 1997-11-10
+_chemical_name_systematic 'Disodium tricopper bisphosphate oxochlorocuprate(I)'
+_chemical_formula_structural 'Na2 (Cu3 (P O4)2) (Cu O Cl)'
+_chemical_formula_sum 'Cl1 Cu4 Na2 O9 P2'
+_exptl_crystal_density_diffrn 3.99
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+A novel copper(I/II) oxophosphate chloride with a quasi-one-dimensional
+mue4-oxo-bridged copper(II) chain. Crystal structure and magnetic properties
+of (Na2 Cu(II)3 (P O4)2) (Cu(I) O Cl)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1996 35 5278 5282 INOCAJ
+loop_
+_publ_author_name
+'Etheredge, K.M.S.'
+'Hwu, S.-J.'
+_cell_length_a 13.614(2)
+_cell_length_b 10.385(2)
+_cell_length_c 6.372(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 900.88
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Cu1+ 1
+Cl1- -1
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 8 g 0.38477(6) 0.30352(7) 0.25 0.0109(2) 1. 0
+Cu2 Cu2+ 4 a 0 0 0 0.0081(3) 1. 0
+Cu3 Cu1+ 8 f 0 0.3743(2) 0.258(2) 0.052(1) 0.5 0
+Cl1 Cl1- 4 c 0.5 0.1059(2) 0.25 0.0281(6) 1. 0
+P1 P5+ 8 g 0.1682(1) 0.2046(2) 0.25 0.0093(3) 1. 0
+Na1 Na1+ 8 e 0.3064(3) 0 0.5 0.0324(1) 1. 0
+O1 O2- 4 c 0.5 0.4088(6) 0.25 0.008(1) 1. 0
+O2 O2- 8 g 0.1464(4) 0.3493(4) 0.25 0.017(1) 1. 0
+O3 O2- 8 g 0.2800(3) 0.1800(5) 0.25 0.016(1) 1. 0
+O4 O2- 16 h 0.1247(2) 0.1391(3) 0.0533(5) 0.0165(7) 1. 0
+#End of TTdata_81708-ICSD

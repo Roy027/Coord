@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68467-ICSD
+_database_code_ICSD 68467
+_audit_creation_date 1991-07-10
+_chemical_name_systematic 'Sodium lanthanum bis(selenate(IV))'
+_chemical_formula_structural 'Na La (Se O3)2'
+_chemical_formula_sum 'La1 Na1 O6 Se2'
+_chemical_name_structure_type NaLa(SeO3)2
+_exptl_crystal_density_diffrn 4.72
+_publ_section_title
+
+;
+Synthesis and crystal structures of two novel selenites, NaY(SeO3)2 and
+NaLa(SeO3)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1990 46 2013 2017 ACSCEE
+loop_
+_publ_author_name
+'Morris, R.E.'
+'Hriljac, J.A.'
+'Cheetham, A.K.'
+_cell_length_a 6.696(4)
+_cell_length_b 6.761(4)
+_cell_length_c 13.199(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.51(3)
+_cell_angle_gamma 90.
+_cell_volume 585.52
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Se4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e 0.65603(7) 0.11947(8) 0.16376(4) . 1. 0
+Se1 Se4+ 4 e 0.6044(1) 0.1649(1) 0.63881(8) . 1. 0
+Se2 Se4+ 4 e 0.8097(1) 0.1478(1) 0.43123(7) . 1. 0
+Na1 Na1+ 4 e 0.8094(7) 0.1692(8) 0.8835(4) . 1. 0
+O1 O2- 4 e 0.1457(11) 0.2195(10) 0.8403(6) . 1. 0
+O2 O2- 4 e 0.0994(13) 0.0132(11) 0.6455(7) . 1. 0
+O3 O2- 4 e 0.4968(12) 0.1813(11) 0.9662(6) . 1. 0
+O4 O2- 4 e 0.4946(11) 0.1694(11) 0.7435(6) . 1. 0
+O5 O2- 4 e 0.9243(12) 0.2063(13) 0.0580(7) . 1. 0
+O6 O2- 4 e 0.2906(12) 0.1671(12) 0.1705(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0052(3) 0.0044(3) 0.0056(3) 0.0001(2) 0.0010(2) 0.0001(2)
+Se1 Se4+ 0.0066(4) 0.0079(4) 0.0067(5) 0.0000(3) 0.0024(3) -.0005(3)
+Se2 Se4+ 0.0098(4) 0.0053(4) 0.0052(4) -.0007(3) 0.0006(3) 0.0012(3)
+Na1 Na1+ 0.0173(21) 0.0282(24) 0.0110(22) -.0100(19) 0.0002(17) -.0042(18)
+O1 O2- 0.0122(31) 0.0077(30) 0.0110(35) -.0014(25) 0.0020(26) -.0051(25)
+O2 O2- 0.0196(37) 0.005(3) 0.0240(41) -.0033(28) 0.0071(30) -.0078(29)
+O3 O2- 0.0197(37) 0.0097(30) 0.0118(36) 0.0078(28) -.0028(29) 0.0053(27)
+O4 O2- 0.0132(34) 0.0162(34) 0.0060(32) 0.0004(27) 0.0026(26) 0.0020(26)
+O5 O2- 0.0111(33) 0.0221(39) 0.0151(38) -.0079(30) 0.0034(28) -.0029(30)
+O6 O2- 0.0062(32) 0.0149(34) 0.0371(53) 0.0033(28) 0.0046(32) 0.0020(34)
+#End of TTdata_68467-ICSD

@@ -1,0 +1,123 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_418301-ICSD
+_database_code_ICSD 418301
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Trisodium bis(thiosulfato(II))aurate(I) dihydrate'
+_chemical_formula_structural 'Na3 Au (S2 O3)2 (H2 O)2'
+_chemical_formula_sum 'H4 Au1 Na3 O8 S4'
+_chemical_name_structure_type Na3Au(S2O3)2(H2O)2
+_exptl_crystal_density_diffrn 3.18
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Structural characterization of some coinage metal(I) thiosulfate complexes,
+Ma1 Mb2 (Xc) (S2 O3)d (* eS) (M1 = group 1 cation, X = univalent anion, M2 =
+Cu(I), Ag(I), S = solvent)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2008
+634 2825 2844 ZAACAB
+loop_
+_publ_author_name
+'Chan, E.J.'
+'Skelton, B.W.'
+'White, A.H.'
+_cell_length_a 5.4127(6)
+_cell_length_b 11.2970(10)
+_cell_length_c 18.134(2)
+_cell_angle_alpha 90
+_cell_angle_beta 97.929(3)
+_cell_angle_gamma 90
+_cell_volume 1098.24
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0349
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au1+ 1
+S4+ 4
+O2- -2
+S0+ 0
+S4+ 4
+O2- -2
+S0+ 0
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au1+ 4 e 0.14866(2) 0.065551(10) 0.072828(6) 0.00884(4) 1 0
+S1 S4+ 4 e 0.12161(14) 0.03404(7) 0.25861(4) 0.00617(12) 1 0
+O1 O2- 4 e -0.0324(5) -0.0184(2) 0.31130(14) 0.0109(4) 1 0
+O2 O2- 4 e 0.0929(5) 0.1627(2) 0.25410(15) 0.0107(4) 1 0
+O3 O2- 4 e 0.3830(4) -0.0011(2) 0.27751(14) 0.0095(4) 1 0
+S2 S0+ 4 e -0.03414(16) -0.03886(8) 0.15854(4) 0.00890(13) 1 0
+S3 S4+ 4 e 0.21897(14) 0.33971(7) 0.00026(4) 0.00643(12) 1 0
+O4 O2- 4 e -0.0525(5) 0.3423(2) -0.01847(15) 0.0131(5) 1 0
+O5 O2- 4 e 0.3435(5) 0.4065(2) -0.05305(15) 0.0110(4) 1 0
+O6 O2- 4 e 0.2932(5) 0.3824(2) 0.07663(13) 0.0112(4) 1 0
+S4 S0+ 4 e 0.35395(16) 0.17086(7) -0.00691(5) 0.00985(14) 1 0
+O7 O2- 4 e 0.5721(5) 0.2791(2) 0.33439(15) 0.0133(5) 1 0
+H1 H1+ 4 e 0.483 0.305 0.365 0.02 1 0
+H2 H1+ 4 e 0.711 0.319 0.344 0.02 1 0
+O8 O2- 4 e 0.3229(5) -0.2634(2) 0.33769(16) 0.0137(5) 1 0
+H3 H1+ 4 e 0.222 -0.291 0.304 0.021 1 0
+H4 H1+ 4 e 0.361 -0.312 0.371 0.021 1 0
+Na1 Na1+ 4 e 0.3491(3) 0.32381(14) 0.21629(9) 0.0132(3) 1 0
+Na2 Na1+ 4 e 0.6836(3) 0.08907(14) 0.37484(8) 0.0100(2) 1 0
+Na3 Na1+ 4 e 0.2418(3) -0.10400(15) 0.41278(8) 0.0124(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au1+ 0.01538(7) 0.00614(7) 0.00493(6) -0.00078(3) 0.00119(4) 0.00090(3)
+S1 S4+ 0.0084(3) 0.0055(3) 0.0043(3) 0.0002(2) -0.0001(2) 0.0006(2)
+O1 O2- 0.0131(10) 0.0152(12) 0.0049(10) -0.0023(8) 0.0025(8) 0.0005(8)
+O2 O2- 0.0148(10) 0.0040(10) 0.0122(11) 0.0021(8) -0.0018(8) 0.0007(8)
+O3 O2- 0.0091(9) 0.0076(10) 0.0112(10) 0.0006(7) -0.0008(8) -0.0018(8)
+S2 S0+ 0.0137(3) 0.0079(3) 0.0048(3) -0.0028(3) -0.0001(2) 0.0000(2)
+S3 S4+ 0.0092(3) 0.0059(3) 0.0040(3) -0.0002(2) 0.0003(2) 0.0004(2)
+O4 O2- 0.0097(10) 0.0150(12) 0.0141(12) 0.0000(8) -0.0003(8) 0.0019(9)
+O5 O2- 0.0163(11) 0.0080(10) 0.0095(10) -0.0009(8) 0.0045(8) 0.0020(9)
+O6 O2- 0.0192(11) 0.0094(11) 0.0047(9) 0.0013(8) 0.0009(8) -0.0015(8)
+S4 S0+ 0.0177(3) 0.0061(3) 0.0064(3) 0.0001(3) 0.0040(3) 0.0001(2)
+O7 O2- 0.0131(10) 0.0152(12) 0.0049(10) -0.0023(8) 0.0025(8) 0.0005(8)
+O8 O2- 0.0097(10) 0.0150(12) 0.0141(12) 0.0000(8) -0.0003(8) 0.0019(9)
+Na1 Na1+ 0.0138(6) 0.0099(7) 0.0159(7) 0.0002(5) 0.0016(5) 0.0039(5)
+Na2 Na1+ 0.0128(6) 0.0090(6) 0.0081(6) 0.0016(5) 0.0007(5) -0.0009(5)
+Na3 Na1+ 0.0169(7) 0.0115(7) 0.0088(6) 0.0002(5) 0.0015(5) -0.0002(5)
+#End of TTdata_418301-ICSD

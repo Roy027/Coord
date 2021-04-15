@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170916-ICSD
+_database_code_ICSD 170916
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Sodium niobium tellurium oxide (1.4/3/4.9/18)'
+_chemical_formula_structural 'Na1.40 Nb3 Te4.90 O18'
+_chemical_formula_sum 'Na1.4 Nb3 O18 Te4.9'
+_exptl_crystal_density_diffrn 5.16
+_publ_section_title
+
+;
+Mixed-metal tellurites: synthesis, structure, and characterization of Na1.4
+Nb3 Te4.9 O18 and Na Nb3 Te4 O16
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2005 44 3919 3925 INOCAJ
+loop_
+_publ_author_name
+'Ok, K.M.'
+'Halasyamani, P.S.'
+_cell_length_a 32.377(5)
+_cell_length_b 7.4541(11)
+_cell_length_c 6.5649(9)
+_cell_angle_alpha 90
+_cell_angle_beta 95.636(5)
+_cell_angle_gamma 90
+_cell_volume 1576.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0376
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te4+ 4
+Nb5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te4+ 4 i 0.24556(2) 0 0.48012(10) 0.0151(2) 0.8943(18) 0
+Te2 Te4+ 4 i 0.341993(18) 0 0.21355(9) 0.01204(17) 1 0
+Te3 Te4+ 4 i 0.439704(18) 0 -0.08031(9) 0.01371(17) 1 0
+Te4 Te4+ 4 i 0.152935(17) 0 0.74648(9) 0.01016(16) 1 0
+Te5 Te4+ 4 i 0.439189(18) 0.5 0.90285(9) 0.01235(17) 1 0
+Nb1 Nb5+ 4 e 0.25 0.25 0 0.0128(2) 1 0
+Nb2 Nb5+ 8 j 0.443123(18) 0.24852(8) 0.41540(9) 0.01168(16) 1 0
+Na1 Na1+ 8 j 0.34715(11) 0.2510(5) -0.2864(5) 0.0131(9) 0.7010(10) 0
+O1 O2- 8 j 0.31000(13) 0.1885(6) 0.0717(7) 0.0114(9) 1 0
+O2 O2- 8 j 0.23730(14) 0.1947(7) 0.2853(6) 0.0132(9) 1 0
+O3 O2- 4 i 0.23887(19) 0 0.9219(9) 0.0091(12) 1 0
+O4 O2- 8 j 0.11936(14) 0.1944(6) 0.6443(7) 0.0136(9) 1 0
+O5 O2- 4 i 0.4528(2) 0.5 0.3518(9) 0.0118(13) 1 0
+O6 O2- 8 j 0.44626(14) 0.1911(6) 0.1223(6) 0.0130(9) 1 0
+O7 O2- 4 h 0.5 0.2027(9) 0.5 0.0134(13) 1 0
+O8 O2- 8 j 0.43378(15) 0.3071(6) 0.7085(7) 0.0148(9) 1 0
+O9 O2- 4 i 0.42636(19) 0 0.4650(9) 0.0083(12) 1 0
+O10 O2- 4 i 0.3137(2) 0 0.4506(10) 0.0162(14) 1 0
+O11 O2- 4 i 0.3841(2) 0.5 0.9495(11) 0.0181(14) 1 0
+O12 O2- 4 i 0.1812(2) 0 0.4965(10) 0.0144(13) 1 0
+O13 O2- 4 i 0.3829(2) 0 -0.1203(11) 0.0163(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te4+ 0.0219(4) 0.0112(4) 0.0124(4) 0 0.0033(3) 0
+Te2 Te4+ 0.0082(3) 0.0113(3) 0.0164(3) 0 0.0005(2) 0
+Te3 Te4+ 0.0111(3) 0.0164(3) 0.0136(3) 0 0.0015(2) 0
+Te4 Te4+ 0.0070(3) 0.0076(3) 0.0153(3) 0 -0.0017(2) 0
+Te5 Te4+ 0.0114(3) 0.0134(3) 0.0124(3) 0 0.0018(2) 0
+Nb1 Nb5+ 0.0112(4) 0.0082(4) 0.0186(4) -0.0003(3) -0.0008(3) -0.0022(3)
+Nb2 Nb5+ 0.0085(3) 0.0153(3) 0.0108(3) 0.0028(2) -0.0009(2) -0.0016(2)
+Na1 Na1+ 0.0136(19) 0.012(2) 0.0131(19) 0.0006(13) -0.0010(15) 0.0053(13)
+O1 O2- 0.0073(19) 0.008(2) 0.018(2) 0.0008(17) -0.0016(16) 0.0027(18)
+O2 O2- 0.017(2) 0.015(2) 0.008(2) -0.0008(19) 0.0027(17) 0.0015(18)
+O3 O2- 0.009(3) 0.005(3) 0.012(3) 0 -0.004(2) 0
+O4 O2- 0.010(2) 0.009(2) 0.021(2) 0.0015(18) -0.0033(17) 0.0037(19)
+O5 O2- 0.015(3) 0.009(3) 0.012(3) 0 0.001(2) 0
+O6 O2- 0.022(2) 0.009(2) 0.0080(19) -0.0025(18) 0.0032(17) -0.0051(17)
+O7 O2- 0.007(3) 0.010(3) 0.022(3) 0 -0.002(2) 0
+O8 O2- 0.025(2) 0.009(2) 0.010(2) -0.0012(19) 0.0027(18) -0.0032(18)
+O9 O2- 0.010(3) 0.006(3) 0.009(3) 0 0.001(2) 0
+O10 O2- 0.018(3) 0.016(3) 0.016(3) 0 0.008(3) 0
+O11 O2- 0.011(3) 0.019(4) 0.025(4) 0 0.009(3) 0
+O12 O2- 0.011(3) 0.020(3) 0.013(3) 0 0.006(2) 0
+O13 O2- 0.009(3) 0.019(3) 0.021(3) 0 -0.001(3) 0
+#End of TTdata_170916-ICSD

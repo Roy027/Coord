@@ -1,0 +1,75 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_87833-ICSD
+_database_code_ICSD 87833
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Trisodium indium bis(phosphate(V)) - alpha'
+_chemical_formula_structural 'Na3 In (P O4)2'
+_chemical_formula_sum 'In1 Na3 O8 P2'
+_chemical_name_structure_type K3Nd(PO4)2
+_exptl_crystal_density_diffrn 3.74
+_publ_section_title 'New high-temperature modification alpha-(Na3 In (P O4)2)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk' 1999 365 61 63 DAKNEQ
+loop_
+_publ_author_name
+'Zhizhin, M.G.'
+'Komissarova, L.N.'
+'Lazoryak, B.I.'
+'Spiridonov, F.M.'
+_cell_length_a 8.6363(1)
+_cell_length_b 5.4565(1)
+_cell_length_c 7.0510(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.294(1)
+_cell_angle_gamma 90.
+_cell_volume 332.27
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 2 e 0.2492(4) 0.25 0.0010(7) 0.63(3) 1. 0
+Na1 Na1+ 2 e 0.309 0.25 0.5 0.57(8) 1. 0
+Na2 Na1+ 2 e 0.568(2) 0.25 0.284(2) 0.57(8) 1. 0
+Na3 Na1+ 2 e 0.932(2) 0.25 0.714(2) 0.57(8) 1. 0
+P1 P5+ 2 e 0.593(1) 0.25 0.779(1) 0.17(7) 1. 0
+P2 P5+ 2 e 0.908(1) 0.25 0.223(1) 0.17(7) 1. 0
+O1 O2- 2 e 0.488(2) 0.25 0.976(3) 0.31(9) 1. 0
+O2 O2- 2 e 0.511(2) 0.25 0.591(3) 0.31(9) 1. 0
+O3 O2- 4 f 0.296(1) 0.507(3) 0.219(2) 0.31(9) 1. 0
+O4 O2- 2 e 0.001(2) 0.25 0.053(2) 0.31(9) 1. 0
+O5 O2- 4 f 0.204(1) 0.532(3) 0.784(2) 0.31(9) 1. 0
+O6 O2- 2 e 0.004(2) 0.25 0.400(3) 0.31(9) 1. 0
+#End of TTdata_87833-ICSD

@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429830-ICSD
+_database_code_ICSD 429830
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Strontium sodium manganese(II) vanadate(V)'
+_chemical_formula_structural 'Sr Na2 Mn (V O4)2'
+_chemical_formula_sum 'Mn1 Na2 O8 Sr1 V2'
+_exptl_crystal_density_diffrn 3.74
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Hydrothermal synthesis of single crystals of transition metal vanadates in the
+glaserite phase
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 236 61 68 JSSCBI
+loop_
+_publ_author_name
+'Sanjeewa, Liurukara D.'
+'McMillen, Colin D.'
+'Willett, Daniel'
+'Chumanov, George'
+'Kolis, Joseph W.'
+_cell_length_a 13.823(3)
+_cell_length_b 5.5671(11)
+_cell_length_c 9.6686(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.09(3)
+_cell_angle_gamma 90.
+_cell_volume 744.03
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Na1+ 1
+Mn2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 e 0.75044(2) 0.05894(6) 0.03817(3) 0.01579(14) 1 0
+Na1 Na1+ 4 e 0.91596(11) -0.0215(3) -0.31908(16) 0.0228(3) 1 0
+Na2 Na1+ 4 e 0.58506(11) 0.0173(3) 0.34980(16) 0.0236(3) 1 0
+Mn1 Mn2+ 2 b 0.5 0. 0. 0.01104(18) 1 0
+Mn2 Mn2+ 2 a 1. 0. 0. 0.01084(18) 1 0
+V1 V5+ 4 e 0.63740(4) -0.03288(10) -0.31726(6) 0.00947(16) 1 0
+V2 V5+ 4 e 0.86318(4) -0.01962(10) 0.35089(6) 0.00948(16) 1 0
+O1 O2- 4 e 0.61926(17) -0.0035(5) -0.1419(3) 0.0185(5) 1 0
+O2 O2- 4 e 0.57664(17) 0.1869(4) -0.4064(2) 0.0179(5) 1 0
+O3 O2- 4 e 0.87643(16) -0.3053(4) 0.4175(2) 0.0157(5) 1 0
+O4 O2- 4 e 0.91325(17) 0.1894(4) 0.4602(2) 0.0172(5) 1 0
+O5 O2- 4 e 0.92429(18) -0.0111(5) 0.1965(3) 0.0190(5) 1 0
+O6 O2- 4 e 0.59193(18) -0.3050(4) -0.3684(3) 0.0207(5) 1 0
+O7 O2- 4 e 0.75370(18) -0.0169(5) -0.3616(3) 0.0229(6) 1 0
+O8 O2- 4 e 0.74803(17) 0.0553(4) 0.3169(3) 0.0198(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0118(2) 0.0199(2) 0.0156(2) 0.00039(12) -0.00018(13) -0.00345(12)
+Na1 Na1+ 0.0151(7) 0.0301(8) 0.0231(8) -0.0020(6) -0.0039(6) 0.0106(6)
+Na2 Na1+ 0.0147(7) 0.0339(8) 0.0222(8) -0.0045(6) 0.0035(6) -0.0110(6)
+Mn1 Mn2+ 0.0105(4) 0.0118(3) 0.0108(4) 0.0003(3) -0.0007(3) 0.0009(3)
+Mn2 Mn2+ 0.0102(3) 0.0120(3) 0.0103(4) 0.0009(3) -0.0003(3) 0.0001(3)
+V1 V5+ 0.0092(3) 0.0102(3) 0.0090(3) -0.00012(19) 0.0000(2) -0.00123(19)
+V2 V5+ 0.0090(3) 0.0102(3) 0.0092(3) -0.00005(19) -0.0007(2) -0.0004(2)
+O1 O2- 0.0145(12) 0.0295(14) 0.0117(12) -0.0011(10) 0.0016(10) -0.0043(10)
+O2 O2- 0.0196(12) 0.0148(12) 0.0195(13) 0.0019(10) -0.0014(10) 0.0039(9)
+O3 O2- 0.0159(11) 0.0141(11) 0.0173(12) 0.0017(9) -0.0002(9) 0.0016(9)
+O4 O2- 0.0211(12) 0.0142(11) 0.0164(12) -0.0041(10) -0.0003(10) -0.0009(9)
+O5 O2- 0.0210(13) 0.0239(13) 0.0120(12) 0.0000(10) 0.0033(10) -0.0001(10)
+O6 O2- 0.0281(13) 0.0157(12) 0.0183(13) -0.0041(10) -0.0068(11) -0.0012(10)
+O7 O2- 0.0121(12) 0.0385(15) 0.0180(14) -0.0008(11) 0.0012(10) 0.0037(11)
+O8 O2- 0.0129(12) 0.0235(13) 0.0230(14) 0.0010(10) -0.0013(10) 0.0031(10)
+#End of TTdata_429830-ICSD

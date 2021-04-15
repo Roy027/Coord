@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60964-ICSD
+_database_code_ICSD 60964
+_audit_creation_date 1988-02-22
+_chemical_name_systematic 'Sodium tetranickel triphosphate'
+_chemical_formula_structural 'Na Ni4 (P O4)3'
+_chemical_formula_sum 'Na1 Ni4 O12 P3'
+_exptl_crystal_density_diffrn 3.86
+_publ_section_title 'Disorder in the crystal structure of NaNi4(PO4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1985 60 358 365 JSSCBI
+loop_
+_publ_author_name
+'Anderson, J.B.'
+'Moring, J.'
+'Kostiner, E.'
+_cell_length_a 9.892(1)
+_cell_length_b 14.842(2)
+_cell_length_c 6.3576(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 933.4
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A m a m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.062
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y, -z'
+2 'x+1/2, -y, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x+1/2, -y, z'
+6 '-x+1/2, y, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 'x+1/2, -y+1/2, -z+1/2'
+11 'x, y+1/2, -z+1/2'
+12 '-x, -y+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, z+1/2'
+14 '-x+1/2, y+1/2, z+1/2'
+15 '-x, -y+1/2, z+1/2'
+16 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 8 f 0.5605(1) 0.1281(1) 0.5 . 1. 0
+Ni2 Ni2+ 8 g 0.25 0.2013(1) 0.7466(2) . 1. 0
+P1 P5+ 8 f 0.0327(2) 0.3132(1) 0.5 . 1. 0
+P2 P5+ 8 f 0.2916(4) 0.0220(3) 0.5 . 0.5 0
+Na1 Na1+ 4 c 0.25 0.4737(7) 0.5 . 1. 0
+O1 O2- 16 h 0.4303(6) 0.3664(4) 0.3084(7) . 1. 0
+O2 O2- 8 f 0.1116(6) 0.2208(5) 0.5 . 1. 0
+O3 O2- 8 f 0.3807(6) 0.2153(5) 0 . 1. 0
+O4 O2- 8 g 0.25 0.0703(5) 0.2983(11) . 1. 0
+O5 O2- 4 c 0.25 0.4233(6) 0 . 1. 0
+O6 O2- 8 f 0.0514(11) 0.0129(7) 0.5 . 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Ni1 Ni2+ 0.89(4) 0.87(4) 0.56(4) 0.13(3) 0 0
+Ni2 Ni2+ 0.83(4) 0.97(4) 0.62(3) 0 0 -.08(3)
+P1 P5+ 0.53(6) 0.60(7) 0.38(6) -.05(5) 0 0
+P2 P5+ 0.33(10) 0.47(12) 1.06(14) 0.09(9) 0 0
+Na1 Na1+ 10.32(82) 2.59(40) 2.92(42) 0 0 0
+O1 O2- 2.55(21) 2.02(19) 0.37(13) 0.75(17) 0.10(15) 0.46(14)
+O2 O2- 0.85(20) 0.99(23) 1.85(25) 0.27(18) 0 0
+O3 O2- 0.28(20) 2.01(29) 1.67(25) 0.19(19) 0 0
+O4 O2- 1.61(23) 0.8(2) 1.11(22) 0 0 0.08(18)
+O5 O2- 0.73(27) 0.52(2) 1.22(31) 0 0 0
+O6 O2- 0.54(35) 0.13(32) 1.71(45) 0.08(28) 0 0
+#End of TTdata_60964-ICSD

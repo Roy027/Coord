@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243399-ICSD
+_database_code_ICSD 243399
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium pentapotassium dichloride bis(dithionate)'
+_chemical_formula_structural 'Na K5 Cl2 (S2 O6)2'
+_chemical_formula_sum 'Cl2 K5 Na1 O12 S4'
+_exptl_crystal_density_diffrn 2.45
+_cell_measurement_temperature 100.
+_publ_section_title 'An unexpected oxidation: NaK5Cl2(S2O6)2 revisited'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2017 73 188 191 ACSECI
+loop_
+_publ_author_name
+'Harrison, William T.A.'
+'Plater, M. John'
+_cell_length_a 12.04210(10)
+_cell_length_b 12.04210(10)
+_cell_length_c 11.3925(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1652.05
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 4/n Z'
+_symmetry_Int_Tables_number 85
+_refine_ls_R_factor_all 0.0153
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x+1/2, -z'
+2 'y+1/2, -x, -z'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y, -x+1/2, z'
+6 '-y+1/2, x, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+K1+ 1
+S5+ 5
+O2- -2
+S5+ 5
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 c 0.25 0.25 0.01268(9) 0.0094(3) 1 0
+Na2 Na1+ 2 b 0.75 0.25 0.5 0.0084(3) 1 0
+K1 K1+ 2 a 0.75 0.25 0. 0.01621(19) 1 0
+K2 K1+ 2 c 0.25 0.25 0.51306(5) 0.01506(18) 1 0
+K3 K1+ 8 g 0.50130(4) 0.19113(2) 0.24632(3) 0.01042(8) 1 0
+K4 K1+ 8 g 0.18440(2) 0.00129(4) 0.74572(3) 0.01187(8) 1 0
+S1 S5+ 8 g 0.51535(4) 0.58649(4) 0.00758(3) 0.00962(10) 1 0
+O1 O2- 8 g 0.63276(11) 0.59544(11) -0.02005(10) 0.0160(3) 1 0
+O2 O2- 8 g 0.48827(9) 0.61202(9) 0.12870(9) 0.0163(2) 1 0
+O3 O2- 8 g 0.44243(10) 0.63754(9) -0.07768(9) 0.0190(2) 1 0
+S2 S5+ 8 g 0.08586(4) 0.51687(4) 0.49086(3) 0.00872(10) 1 0
+O4 O2- 8 g 0.10996(9) 0.48723(9) 0.37002(9) 0.0152(2) 1 0
+O5 O2- 8 g 0.09283(11) 0.63505(10) 0.51433(9) 0.0142(3) 1 0
+O6 O2- 8 g 0.13966(9) 0.44729(9) 0.57748(9) 0.0169(2) 1 0
+Cl1 Cl1- 2 c 0.25 0.25 0.77619(6) 0.00944(14) 1 0
+Cl2 Cl1- 2 c 0.25 0.25 0.25196(5) 0.00958(16) 1 0
+Cl3 Cl1- 4 f 0.25 0.75 0.26312(4) 0.00951(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0094(5) 0.0094(5) 0.0095(5) 0. 0. 0.
+Na2 Na1+ 0.0080(5) 0.0080(5) 0.0090(5) 0. 0. 0.
+K1 K1+ 0.0200(3) 0.0200(3) 0.0086(3) 0. 0. 0.
+K2 K1+ 0.0183(3) 0.0183(3) 0.0086(3) 0. 0. 0.
+K3 K1+ 0.00940(15) 0.01049(13) 0.01136(15) 0.00021(17) 0.00028(9) -0.00154(12)
+K4 K1+ 0.01177(13) 0.00978(15) 0.01406(15) -0.00037(17) -0.00130(13) 0.00016(10)
+S1 S5+ 0.0104(2) 0.0092(2) 0.00920(16) -0.00190(19) 0.00093(11) -0.00018(12)
+O1 O2- 0.0137(7) 0.0134(6) 0.0208(5) -0.0041(6) 0.0057(4) -0.0037(5)
+O2 O2- 0.0201(6) 0.0156(5) 0.0131(5) -0.0047(5) 0.0054(5) -0.0053(4)
+O3 O2- 0.0211(6) 0.0137(5) 0.0223(6) -0.0004(5) -0.0074(5) 0.0047(5)
+S2 S5+ 0.0080(2) 0.0088(2) 0.00928(16) -0.00075(18) 0.00053(12) -0.00015(12)
+O4 O2- 0.0139(5) 0.0188(6) 0.0129(5) -0.0036(5) 0.0053(4) -0.0044(4)
+O5 O2- 0.0134(7) 0.0091(6) 0.0200(5) -0.0031(5) 0.0024(4) -0.0026(4)
+O6 O2- 0.0129(5) 0.0176(6) 0.0202(5) -0.0001(5) -0.0040(4) 0.0061(5)
+Cl1 Cl1- 0.0100(2) 0.0100(2) 0.0084(3) 0. 0. 0.
+Cl2 Cl1- 0.0099(2) 0.0099(2) 0.0090(3) 0. 0. 0.
+Cl3 Cl1- 0.0107(3) 0.0093(2) 0.0085(2) 0.00012(15) 0. 0.
+#End of TTdata_243399-ICSD

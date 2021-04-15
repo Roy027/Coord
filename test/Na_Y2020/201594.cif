@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201594-ICSD
+_database_code_ICSD 201594
+_audit_creation_date 1985-08-06
+_audit_update_record 2005-10-01
+_chemical_name_systematic
+'Cobalt sodium tectotetraalumooctasilicate (1.67/0.21/1)'
+_chemical_formula_structural 'Co1.67 Na0.21 (Al4 Si8 O24)'
+_chemical_formula_sum 'Al4 Co1.67 Na0.21 O24 Si8'
+_chemical_name_structure_type Chabazite-frame
+_chemical_name_mineral 'Chabazite (Co-exchanged, dehydrated)'
+_exptl_crystal_density_diffrn 1.67
+_publ_section_title
+
+;
+Crystal structures of hydrated and dehydrated forms of a Co(II)-exchanged
+chabazite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Zeolites 1984 4 251 254 ZEOLD3
+loop_
+_publ_author_name
+'Calligaris, M.'
+'Nardin, G.'
+'Randaccio, L.'
+_cell_length_a 9.351(9)
+_cell_length_b 9.351(9)
+_cell_length_c 9.351(9)
+_cell_angle_alpha 92.56(7)
+_cell_angle_beta 92.56(7)
+_cell_angle_gamma 92.56(7)
+_cell_volume 815.14
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'R -3 m R'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -y, -x'
+2 '-z, -x, -y'
+3 '-x, -z, -y'
+4 '-y, -z, -x'
+5 '-y, -x, -z'
+6 '-x, -y, -z'
+7 'z, y, x'
+8 'z, x, y'
+9 'x, z, y'
+10 'y, z, x'
+11 'y, x, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Co2+ 2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 12 i 0.0972(1) 0.3278(1) 0.8692(1) . 0.667 0
+Al1 Al3+ 12 i 0.0972(1) 0.3278(1) 0.8692(1) . 0.333 0
+O1 O2- 6 f 0.2772(4) -.2772(4) 0 . 1. 0
+O2 O2- 6 g 0.1208(4) -.1208(4) 0.5 . 1. 0
+O3 O2- 6 h 0.2508(4) 0.2508(4) 0.8747(6) . 1. 0
+O4 O2- 6 h 0.0079(5) 0.0079(5) 0.2676(5) . 1. 0
+Co1 Co2+ 2 c 0.1579(4) 0.1579(4) 0.1579(4) . 0.38 0
+Co2 Co2+ 1 a 0 0 0 . 0.43 0
+Co3 Co2+ 12 i 0.0370(22) 0.3260(21) 0.4795(20) . 0.04 0
+Na1 Na1+ 3 e 0 0.5 0.5 . 0.07 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0212(6) 0.0139(6) 0.0265(7) 0.0023(4) 0.0040(5) 0.0016(4)
+Al1 Al3+ 0.0212(6) 0.0139(6) 0.0265(7) 0.0023(4) 0.0040(5) 0.0016(4)
+O1 O2- 0.049(2) 0.049(2) 0.034(3) -.013(2) -.004(1) -.004(1)
+O2 O2- 0.049(2) 0.049(2) 0.021(2) 0.004(2) 0.004(1) 0.004(1)
+O3 O2- 0.033(2) 0.033(2) 0.053(3) 0.009(2) 0.006(2) 0.006(2)
+O4 O2- 0.056(2) 0.056(2) 0.037(3) 0.034(3) 0.019(2) 0.019(2)
+Co1 Co2+ 0.046(1) 0.046(1) 0.046(1) 0.019(2) 0.019(2) 0.019(2)
+Co2 Co2+ 0.031(1) 0.031(1) 0.031(1) 0.008(2) 0.008(2) 0.008(2)
+Co3 Co2+ 0.060(13) 0.045(11) 0.042(11) 0.004(9) 0.011(9) 0.012(8)
+Na1 Na1+ 0.21(5) 0.13(2) 0.13(2) 0.04(3) 0.04(3) 0.06(3)
+#End of TTdata_201594-ICSD

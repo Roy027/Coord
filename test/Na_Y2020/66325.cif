@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66325-ICSD
+_database_code_ICSD 66325
+_audit_creation_date 1993-01-06
+_audit_update_record 1999-06-02
+_chemical_name_systematic 'Sodium tecto-borotrisilicate'
+_chemical_formula_structural 'Na (B Si3 O8)'
+_chemical_formula_sum 'B1 Na1 O8 Si3'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral 'Reedmergnerite low'
+_exptl_crystal_density_diffrn 2.77
+_publ_section_title
+
+;
+Tetrahedral-site occupancies in reedmergnerite and synthetic boron albite (Na
+B Si3 O8)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1992 77 76 84 AMMIAY
+loop_
+_publ_author_name
+'Fleet, M.E.'
+_cell_length_a 7.852(3)
+_cell_length_b 12.350(4)
+_cell_length_c 6.806(1)
+_cell_angle_alpha 93.37(2)
+_cell_angle_beta 116.30(3)
+_cell_angle_gamma 91.58(3)
+_cell_volume 589.59
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+Si4+ 4
+B3+ 3
+Si4+ 4
+B3+ 3
+Si4+ 4
+B3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.2640(1) 0.0079(1) 0.1335(2) . 1. 0
+B1 B3+ 4 i 0.0083(2) 0.1640(1) 0.2213(2) . 0.805(1) 0
+Si1 Si4+ 4 i 0.0083(2) 0.1640(1) 0.2213(2) . 0.195 0
+B2 B3+ 4 i 0.0075(1) 0.8097(1) 0.2158(1) . 0.014(1) 0
+Si2 Si4+ 4 i 0.0075(1) 0.8097(1) 0.2158(1) . 0.986 0
+B3 B3+ 4 i 0.7021(1) 0.1030(1) 0.3199(1) . 0.135(1) 0
+Si3 Si4+ 4 i 0.7021(1) 0.1030(1) 0.3199(1) . 0.865 0
+B4 B3+ 4 i 0.6862(1) 0.8674(1) 0.3546(1) . 0.046(1) 0
+Si4 Si4+ 4 i 0.6862(1) 0.8674(1) 0.3546(1) . 0.954 0
+O1 O2- 4 i 0.0061(2) 0.1370(1) 0.9990(2) . 1. 0
+O2 O2- 4 i 0.5961(2) 0.9839(1) 0.2765(2) . 1. 0
+O3 O2- 4 i 0.8392(2) 0.1022(1) 0.2092(2) . 1. 0
+O4 O2- 4 i 0.8177(2) 0.8363(1) 0.2365(2) . 1. 0
+O5 O2- 4 i 0.0098(2) 0.2807(1) 0.2749(2) . 1. 0
+O6 O2- 4 i 0.0298(2) 0.6801(1) 0.2110(2) . 1. 0
+O7 O2- 4 i 0.1901(2) 0.1174(1) 0.3834(2) . 1. 0
+O8 O2- 4 i 0.1917(2) 0.8680(1) 0.4209(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 1.89(4) 3.64(5) 2.62(5) 0.37(4) 0.62(4) -1.41(4)
+B1 B3+ 0.84(5) 0.73(5) 0.49(5) 0.13(4) 0.31(4) 0.07(4)
+Si1 Si4+ 0.84(5) 0.73(5) 0.49(5) 0.13(4) 0.31(4) 0.07(4)
+B2 B3+ 0.62(2) 0.54(2) 0.61(2) 0.12(2) 0.36(2) 0.11(2)
+Si2 Si4+ 0.62(2) 0.54(2) 0.61(2) 0.12(2) 0.36(2) 0.11(2)
+B3 B3+ 0.59(2) 0.40(2) 0.50(2) 0.02(2) 0.23(2) 0.03(2)
+Si3 Si4+ 0.59(2) 0.40(2) 0.50(2) 0.02(2) 0.23(2) 0.03(2)
+B4 B3+ 0.58(2) 0.72(2) 0.49(2) 0.21(2) 0.32(2) 0.17(2)
+Si4 Si4+ 0.58(2) 0.72(2) 0.49(2) 0.21(2) 0.32(2) 0.17(2)
+O1 O2- 1.62(6) 1.09(6) 0.89(5) 0.22(5) 0.76(5) 0.17(4)
+O2 O2- 0.89(5) 0.79(5) 1.01(5) 0.11(4) 0.39(4) 0.21(4)
+O3 O2- 1.62(6) 1.16(6) 1.44(6) -.34(5) 0.89(5) -.20(5)
+O4 O2- 1.14(6) 1.38(6) 1.36(6) 0.34(5) 0.76(5) 0.18(5)
+O5 O2- 1.15(6) 1.19(6) 1.23(6) 0.18(5) 0.68(5) 0.19(5)
+O6 O2- 1.22(6) 0.82(5) 1.07(6) 0.20(4) 0.36(5) 0.09(4)
+O7 O2- 1.23(6) 1.21(6) 0.84(6) 0.34(5) 0.37(5) 0.07(4)
+O8 O2- 1.22(6) 1.13(6) 0.97(6) -.04(5) 0.31(5) 0.00(5)
+#End of TTdata_66325-ICSD

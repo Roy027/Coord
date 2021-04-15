@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171917-ICSD
+_database_code_ICSD 171917
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Sodium manganese iron phosphate (1.56/1.54/1.5/3)'
+_chemical_formula_structural 'Na1.56 Mn1.538 Fe1.5 (P O4)3'
+_chemical_formula_sum 'Fe1.5 Mn1.538 Na1.56 O12 P3'
+_chemical_name_structure_type Alluaudite
+_chemical_name_mineral Alluaudite
+_exptl_crystal_density_diffrn 3.64
+_publ_section_title
+
+;
+Crystal chemistry of the hydrothermally synthesized Na2 (Mn(1-x) Fe(2+)(x))2
+Fe(3+) (P O4)3 alluaudite-type solid solution
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2005 90 653 662 AMMIAY
+loop_
+_publ_author_name
+'Hatert, F.'
+'Rebbough, L.'
+'Hermann, R.P.'
+'Fransolet, A.M.'
+'Long, G.-J.'
+'Grandjean, F.'
+_cell_length_a 11.995(3)
+_cell_length_b 12.596(4)
+_cell_length_c 6.495(2)
+_cell_angle_alpha 90
+_cell_angle_beta 114.60(3)
+_cell_angle_gamma 90
+_cell_volume 892.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0218
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn2+ 2
+Na1+ 1
+Mn2+ 2
+Fe2+ 2.91
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0. -0.013(1) 0.25 0.01267 0.678(4) 0
+Na2 Na1+ 4 b 0.5 0. 0. 0.0228 0.822(7) 0
+Mn1 Mn2+ 4 b 0.5 0. 0. 0.0228 0.178(7) 0
+Mn2 Mn2+ 4 e 0. 0.2676(4) 0.25 0.01267 0.94(1) 0
+Na3 Na1+ 4 e 0. 0.2676(4) 0.25 0.01267 0.06(1) 0
+Mn3 Mn2+ 8 f 0.2779(4) 0.6557(2) 0.3623(7) 0.0076 0.21(4) 0
+Fe1 Fe2+ 8 f 0.2779(4) 0.6557(2) 0.3623(7) 0.0076 0.75 0
+P1 P5+ 4 e 0. -0.2822(6) 0.25 0.0114 1. 0
+P2 P5+ 8 f 0.2343(5) -0.1074(4) 0.130(1) 0.0114 1. 0
+O1 O2- 8 f 0.4593(8) 0.7109(9) 0.535(2) 0.00633 1. 0
+O2 O2- 8 f 0.1043(9) 0.6383(6) 0.249(1) 0.00633 1. 0
+O3 O2- 8 f 0.3360(8) 0.6702(7) 0.115(2) 0.00633 1. 0
+O4 O2- 8 f 0.1293(8) 0.3980(7) 0.332(1) 0.00633 1. 0
+O5 O2- 8 f 0.2279(7) 0.8257(8) 0.318(2) 0.00633 1. 0
+O6 O2- 8 f 0.3262(7) 0.5017(9) 0.388(1) 0.00633 1. 0
+#End of TTdata_171917-ICSD

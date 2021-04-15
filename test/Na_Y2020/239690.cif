@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239690-ICSD
+_database_code_ICSD 239690
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium tantalate(V) - Potassium doped'
+_chemical_formula_structural 'Na Ta O3'
+_chemical_formula_sum 'Na1 O3 Ta1'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 7.07
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The impact of room temperature polymorphism in K doped Na Ta O3 on structural
+phase transition behaviour
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 238 109 112 JSSCBI
+loop_
+_publ_author_name
+'Arulnesan, Shamanthini William'
+'Kayser, Paula'
+'Kennedy, Brendan J.'
+'Knight, Kevin S.'
+_cell_length_a 5.4861(5)
+_cell_length_b 5.5304(5)
+_cell_length_c 7.8008(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 236.68
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0638
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ta5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.0028(6) 0.5184(7) 0.25 0.0109(7) 1. 0
+Ta1 Ta5+ 4 a 0 0 0 -0.0000303 1. 0
+O1 O2- 4 c -0.0654(3) -0.0107(3) 0.25 -0.00004(4) 1. 0
+O2 O2- 8 d 0.2158(2) 0.2834(2) 0.0346(2) 0.00000(3) 1. 0
+#End of TTdata_239690-ICSD

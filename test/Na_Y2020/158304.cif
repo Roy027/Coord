@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_158304-ICSD
+_database_code_ICSD 158304
+_audit_creation_date 2008-02-01
+_chemical_name_systematic
+'Potassium sodium tecto-alumotrisilicate (0.8/0.2/1) - 0.5wt.% (Eu2 O3)-doped'
+_chemical_formula_structural '(K0.8 Na0.2) (Al Si3 O8)'
+_chemical_formula_sum 'Al1 K0.8 Na0.2 O8 Si3'
+_chemical_name_structure_type Feldspar#-(MO,C12/m1)-KAlSi3O8
+_chemical_name_mineral 'Feldspar, alkaline'
+_exptl_crystal_density_diffrn 2.3
+_publ_section_title
+'Crystal structure and photoluminiscence of domestic natural alkaline feldspar'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Korean Ceramic Society' 2007 44 155 159 JKCSBW
+loop_
+_publ_author_name
+'Choi Jinho'
+'Cheon Chae Il'
+'Kim Jeong Seog'
+_cell_length_a 8.9095(1)
+_cell_length_b 13.4108(2)
+_cell_length_c 7.3704(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.61(2)
+_cell_angle_gamma 90.
+_cell_volume 794.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.2615(3) 0 0.1456(1) -1.8(1) 0.8 0
+Na1 Na1+ 4 i 0.2615(3) 0 0.1456(1) -1.8(1) 0.2 0
+Si1 Si4+ 8 j 0.0047(2) 0.2187(2) 0.2426(2) 3.9(2) 0.75 0
+Al1 Al3+ 8 j 0.0047(2) 0.2187(2) 0.2426(2) 3.9(2) 0.25 0
+Si2 Si4+ 8 j 0.7121(70) 0.0548(177) 0.3670(121) 3.5(22) 0.75 0
+Al2 Al3+ 8 j 0.7121(70) 0.0548(177) 0.3670(121) 3.55(22) 0.25 0
+O1 O2- 4 g 0. 0.2332(5) 0. -7.2(2) 1. 0
+O2 O2- 4 i 0.5809(1) 0. 0.1854(2) -3.1(0) 1. 0
+O3 O2- 8 j 0.7968(20) 0.0992(47) 0.2472(67) 3.5(0) 1. 0
+O4 O2- 8 j 0.0662(43) 0.3240(53) 0.2954(79) 0.7(10) 1. 0
+O5 O2- 8 j 0.1747(162) 0.0815(102) 0.3269(179) 5.4(56) 1. 0
+#End of TTdata_158304-ICSD

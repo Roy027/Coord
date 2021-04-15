@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37132-ICSD
+_database_code_ICSD 37132
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Tetrasodium cyclo-tetraphosphate hydrate'
+_chemical_formula_structural '(Na P O3)4 (H2 O)'
+_chemical_formula_sum 'H2 Na4 O13 P4'
+_exptl_crystal_density_diffrn 2.44
+_publ_section_title
+'Untersuchungen an Tetranatrium-cyclo-tetraphosphat(V) und seinen Hydraten'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 1983 114 699 709 MOCMB7
+loop_
+_publ_author_name
+'Wiench, D.M.'
+'Jansen, M.'
+_cell_length_a 13.654(2)
+_cell_length_b 13.475(3)
+_cell_length_c 6.291(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1157.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 a 0.5822(2) 0.1426(1) 0.1379(2) . 1. 0
+O1 O2- 4 a 0.6409(4) 0.1364(3) 0.3363(7) . 1. 0
+O2 O2- 4 a 0.5998(4) 0.0742(4) -.0400(8) . 1. 0
+P2 P5+ 4 a 0.5809(2) 0.3599(1) 0.1528(2) . 1. 0
+O3 O2- 4 a 0.6412(4) 0.3635(3) 0.3444(7) . 1. 0
+O4 O2- 4 a 0.5939(5) 0.4343(4) -.0187(8) . 1. 0
+P3 P5+ 4 a 0.3647(1) 0.3597(1) 0.1183(2) . 1. 0
+O5 O2- 4 a 0.3616(4) 0.4298(3) -.0615(7) . 1. 0
+O6 O2- 4 a 0.2909(4) 0.3688(4) 0.2921(7) . 1. 0
+P4 P5+ 4 a 0.3647(1) 0.1400(1) 0.0943(2) . 1. 0
+O7 O2- 4 a 0.3624(4) 0.0742(3) -.0960(7) . 1. 0
+O8 O2- 4 a 0.2906(4) 0.1255(3) 0.2638(7) . 1. 0
+O9 O2- 4 a 0.4687(4) 0.3605(3) 0.2357(3) . 1. 0
+O10 O2- 4 a 0.4696(4) 0.1374(3) 0.2127(6) . 1. 0
+O11 O2- 4 a 0.3617(3) 0.2519(3) 0.0067(5) . 1. 0
+O12 O2- 4 a 0.5887(3) 0.2526(4) 0.0384(5) . 1. 0
+Na1 Na1+ 4 a 0.7758(2) 0.4623(2) 0.4102(4) . 1. 0
+Na2 Na1+ 4 a 0.2778(2) 0.4593(2) 0.6090(4) . 1. 0
+Na3 Na1+ 4 a 0.6655(2) 0.2541(3) 0.6325(4) . 1. 0
+Na4 Na1+ 4 a 0.0152(3) 0.4489(2) 0.3531(5) . 1. 0
+O13 O2- 4 a 0.4849(5) 0.2412(6) 0.6280(7) . 1. 0
+H1 H1+ 4 a 0.4716(31) 0.2648(32) 0.5049(34) 0.0505(35) 1. 0
+H2 H1+ 4 a 0.4635(32) 0.2776(31) 0.7372(35) 0.0507(35) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0147(5) 0.0105(5) 0.0196(5) 0.0040(6) -.0027(6) -.0039(5)
+O1 O2- 0.0229(9) 0.0155(14) 0.0302(16) 0.0093(18) -.0086(19) 0.0043(15)
+O2 O2- 0.0268(10) 0.0216(16) 0.0323(17) 0.0059(17) 0.0003(18) -.0170(16)
+P2 P5+ 0.0140(5) 0.0084(5) 0.0195(5) -.0026(6) -.0033(6) 0.0011(5)
+O3 O2- 0.0216(9) 0.0156(14) 0.0276(15) -.0007(17) -.0104(19) 0.0020(15)
+O4 O2- 0.0289(11) 0.0225(16) 0.0352(18) -.0099(18) -.0053(20) 0.0156(16)
+P3 P5+ 0.0127(5) 0.0083(4) 0.0164(4) 0.0014(5) -.0002(5) 0.0005(4)
+O5 O2- 0.0202(9) 0.0104(13) 0.0300(16) -.0033(16) -.0062(19) 0.0095(13)
+O6 O2- 0.0258(10) 0.0248(16) 0.0271(16) 0.0008(19) -.0027(18) -.0088(16)
+P4 P5+ 0.0127(5) 0.0073(4) 0.0183(5) -.0017(6) -.0010(6) 0.0013(4)
+O7 O2- 0.0267(10) 0.0224(16) 0.0310(17) 0.0006(19) -.0074(20) -.0143(15)
+O8 O2- 0.0216(9) 0.0165(15) 0.0269(16) 0.0014(17) 0.0084(18) 0.0096(14)
+O9 O2- 0.0158(8) 0.0137(13) 0.0183(13) 0.0064(17) -.0007(16) -.0024(14)
+O10 O2- 0.0146(8) 0.0136(13) 0.0161(13) 0.0080(17) 0.0000(15) 0.0028(13)
+O11 O2- 0.0131(7) 0.0086(10) 0.0174(11) 0.0022(20) 0.0008(14) -.0003(13)
+O12 O2- 0.0166(7) 0.0149(11) 0.0180(12) 0.0025(19) 0.0002(13) -.0009(16)
+Na1 Na1+ 0.0185(6) 0.0160(9) 0.0209(10) -.0032(11) -.0021(10) -.0022(8)
+Na2 Na1+ 0.0200(7) 0.0169(9) 0.0228(10) -.0069(11) 0.0049(11) -.0010(8)
+Na3 Na1+ 0.0303(6) 0.0315(10) 0.0295(10) -.0069(15) -.0082(10) 0.0042(13)
+Na4 Na1+ 0.0429(8) 0.0368(12) 0.0487(14) -.0075(14) 0.0126(16) -.0230(12)
+O13 O2- 0.0593(13) 0.0989(26) 0.0199(16) 0.0176(29) 0.0023(20) 0.0098(25)
+#End of TTdata_37132-ICSD

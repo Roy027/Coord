@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409906-ICSD
+_database_code_ICSD 409906
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Trisodium iron(III) bis(phosphate(V))'
+_chemical_formula_structural 'Na2.88 Fe (P O4)2'
+_chemical_formula_sum 'Fe1 Na2.88 O8 P2'
+_exptl_crystal_density_diffrn 3.
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structure of trisodium iron diphosphate, Na2.88 Fe (P O4)2, a
+synthetic phosphate with hannayite-type heteropolyhedral chains
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2007 222 6
+8 ZKNSFT
+loop_
+_publ_author_name
+'Hatert, F.'
+_cell_length_a 5.3141(6)
+_cell_length_b 8.5853(9)
+_cell_length_c 8.7859(8)
+_cell_angle_alpha 114.429(9)
+_cell_angle_beta 92.327(9)
+_cell_angle_gamma 106.082(10)
+_cell_volume 345.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 i 0.09311(5) 0.74752(3) 0.26905(3) 0.01060(7) 1 0
+P1 P5+ 2 i 0.37109(9) 1.20034(6) 0.48461(5) 0.00990(9) 1 0
+P2 P5+ 2 i 0.11493(9) 0.70244(6) -0.06014(5) 0.01031(9) 1 0
+Na1 Na1+ 2 i -0.2761(2) 0.97769(13) 0.25128(13) 0.0278(2) 1 0
+Na2 Na1+ 2 i 0.3076(2) 1.14282(13) 0.12474(12) 0.0228(3) 0.881(4) 0
+Na3 Na1+ 2 i 0.503(6) 0.507(4) 0.022(2) 0.020(2) 0.25 0
+Na4 Na1+ 2 i 0.469(5) 0.480(3) -0.0590(18) 0.020(2) 0.25 0
+Na5 Na1+ 1 g 0. 1.5 0.5 0.0311(3) 1 0
+O1 O2- 2 i 0.2317(3) 1.01974(17) 0.32971(17) 0.0211(3) 1 0
+O2 O2- 2 i -0.0523(3) 0.48366(18) 0.21230(18) 0.0215(3) 1 0
+O3 O2- 2 i 0.3471(3) 1.34521(17) 0.42740(18) 0.0203(3) 1 0
+O4 O2- 2 i 0.2155(3) 0.8492(2) -0.1165(2) 0.0302(4) 1 0
+O5 O2- 2 i 0.3230(3) 0.72119(19) 0.08185(18) 0.0190(3) 1 0
+O6 O2- 2 i -0.1259(3) 0.72165(19) 0.02911(18) 0.0185(3) 1 0
+O7 O2- 2 i -0.2380(3) 0.7830(2) 0.36186(18) 0.0201(3) 1 0
+O8 O2- 2 i 0.3343(3) 0.7787(2) 0.47372(19) 0.0207(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.01095(13) 0.00936(10) 0.01040(11) 0.00292(8) 0.00277(8) 0.00350(8)
+P1 P5+ 0.0110(2) 0.00816(17) 0.00958(17) 0.00232(14) 0.00163(14) 0.00359(14)
+P2 P5+ 0.0122(2) 0.00826(16) 0.01051(18) 0.00254(14) 0.00278(14) 0.00456(14)
+Na1 Na1+ 0.0303(5) 0.0277(4) 0.0357(5) 0.0108(4) 0.0089(4) 0.0224(4)
+Na2 Na1+ 0.0286(6) 0.0249(5) 0.0181(5) 0.0127(4) 0.0032(4) 0.0100(4)
+Na3 Na1+ 0.007(4) 0.009(3) 0.032(6) 0.000(2) -0.003(4) 0.001(4)
+Na4 Na1+ 0.007(4) 0.009(3) 0.032(6) 0.000(2) -0.003(4) 0.001(4)
+Na5 Na1+ 0.0303(7) 0.0478(8) 0.0351(7) 0.0225(6) 0.0157(6) 0.0297(7)
+O1 O2- 0.0305(8) 0.0103(5) 0.0148(6) -0.0006(5) -0.0031(5) 0.0036(5)
+O2 O2- 0.0305(8) 0.0137(6) 0.0148(6) 0.0053(5) 0.0062(5) 0.0020(5)
+O3 O2- 0.0270(8) 0.0130(6) 0.0213(7) 0.0039(5) -0.0009(6) 0.0100(5)
+O4 O2- 0.0375(10) 0.0224(7) 0.0333(9) -0.0001(7) 0.0044(7) 0.0211(7)
+O5 O2- 0.0142(7) 0.0237(7) 0.0188(6) 0.0088(5) 0.0000(5) 0.0076(5)
+O6 O2- 0.0139(6) 0.0197(6) 0.0209(7) 0.0077(5) 0.0057(5) 0.0065(5)
+O7 O2- 0.0236(7) 0.0286(7) 0.0191(6) 0.0178(6) 0.0119(6) 0.0142(6)
+O8 O2- 0.0120(6) 0.0240(7) 0.0251(7) 0.0065(5) 0.0034(5) 0.0095(6)
+#End of TTdata_409906-ICSD

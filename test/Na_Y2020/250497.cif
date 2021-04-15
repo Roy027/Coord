@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250497-ICSD
+_database_code_ICSD 250497
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Sodium formate dihydrate - deuterated, HP phase'
+_chemical_formula_structural 'Na (D C O2) (D2 O)2'
+_chemical_formula_sum 'C1 D5 Na1 O4'
+_exptl_crystal_density_diffrn 1.78
+_cell_measurement_pressure 870000.
+_publ_section_title
+
+;
+A new high pressure phase of sodium formate dihydrate; an experimental and
+computational study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2007 2007 2014 2019 DTARAF
+loop_
+_publ_author_name
+'Walker, Martin'
+'Morrison, Carole A.'
+'Allan, David R.'
+'Pulham, Colin R.'
+'Marshall, William G.'
+_cell_length_a 7.6914(9)
+_cell_length_b 3.51868(27)
+_cell_length_c 8.1102(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.806(8)
+_cell_angle_gamma 90.
+_cell_volume 203.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C4+ 4
+D1- -1
+O2- -2
+D1+ 1
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.185(4) 0.296 0.6572(32) 0.00821 1. 0
+C1 C4+ 2 a 0.0931(17) 0.288(10) 0.2259(15) 0.00127 1. 0
+D1 D1- 2 a 0.0248(28) 0.446(10) 0.1018(21) 0.03565 1. 0
+O1 O2- 2 a 0.0168(20) 0.327(11) 0.3370(19) 0.01527 1. 0
+O2 O2- 2 a 0.2457(20) 0.134(9) 0.2454(25) 0.01527 1. 0
+O3 O2- 2 a 0.3522(27) 0.347(10) 0.9618(26) 0.0341 1. 0
+D2 D1+ 2 a 0.4217(31) 0.576(10) 0.0003(26) 0.04842 1. 0
+D3 D1+ 2 a 0.3033(29) 0.260(11) 0.0473(26) 0.04842 1. 0
+O4 O2- 2 a 0.3618(27) 0.784(11) 0.5892(25) 0.0341 1. 0
+D4 D1+ 2 a 0.4945(26) 0.768(11) 0.6381(25) 0.04842 1. 0
+D5 D1+ 2 a 0.3414(29) 0.908(9) 0.4797(26) 0.04842 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.008(5) 0.00821 0.00821 0. 0.00305 0.
+C1 C4+ 0.0013(26) 0.00127 0.00127 0. 0.00047 0.
+D1 D1- 0.036(6) 0.03565 0.03565 0. 0.01324 0.
+O1 O2- 0.0153(28) 0.01527 0.01527 0. 0.00567 0.
+O2 O2- 0.0153(28) 0.01527 0.01527 0. 0.00567 0.
+O3 O2- 0.034(4) 0.0341 0.0341 0. 0.01266 0.
+D2 D1+ 0.0484(34) 0.04842 0.04842 0. 0.01799 0.
+D3 D1+ 0.0484(34) 0.04842 0.04842 0. 0.01799 0.
+O4 O2- 0.034(4) 0.0341 0.0341 0. 0.01266 0.
+D4 D1+ 0.0484(34) 0.04842 0.04842 0. 0.01799 0.
+D5 D1+ 0.0484(34) 0.04842 0.04842 0. 0.01799 0.
+#End of TTdata_250497-ICSD

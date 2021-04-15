@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95869-ICSD
+_database_code_ICSD 95869
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Disodium octaborate - alpha'
+_chemical_formula_structural 'Na2 (B8 O13)'
+_chemical_formula_sum 'B8 Na2 O13'
+_chemical_name_structure_type Na2B8O13
+_exptl_crystal_density_diffrn 2.32
+_cell_measurement_temperature 573.
+_publ_section_title
+
+;
+Thermal behaviour of the rigid boron-oxygen groups in the alpha-(Na2 B8 O13)
+crystal structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2002 217 444 450 ZEKRDZ
+loop_
+_publ_author_name
+'Bubnova, R.S.'
+'Shepelev, Yu.F.'
+'Sennova, N.A.'
+'Filatov, S.K.'
+_cell_length_a 6.542(4)
+_cell_length_b 17.796(8)
+_cell_length_c 8.429(5)
+_cell_angle_alpha 90
+_cell_angle_beta 96.49(6)
+_cell_angle_gamma 90
+_cell_volume 975.03
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.4181(1) 0.36258(4) 0.03673(1) 3.07(2) 1. 0
+Na2 Na1+ 4 e 0.0410(1) 0.40056(4) 0.57656(1) 2.90(2) 1. 0
+O1 O2- 4 e 0.2764(2) 0.56218(5) 0.85262(2) 1.69(2) 1. 0
+O2 O2- 4 e 0.6112(2) 0.53337(6) 0.81759(2) 1.90(2) 1. 0
+O3 O2- 4 e 0.9474(2) 0.52183(5) 0.72977(2) 1.63(2) 1. 0
+O4 O2- 4 e 0.7079(2) 0.42704(5) 0.67430(2) 1.84(2) 1. 0
+O5 O2- 4 e 0.3565(2) 0.44217(5) 0.74370(2) 1.92(2) 1. 0
+O6 O2- 4 e 0.4234(2) 0.36765(5) 0.52393(1) 1.74(2) 1. 0
+O7 O2- 4 e 0.5109(2) 0.24050(5) 0.57629(1) 2.14(2) 1. 0
+O8 O2- 4 e 0.5392(2) 0.19102(5) 0.82900(1) 1.76(2) 1. 0
+O9 O2- 4 e 0.5310(2) 0.32548(5) 0.79375(1) 1.70(2) 1. 0
+O10 O2- 4 e 0.4030(2) 0.28213(5) 0.31434(1) 2.18(2) 1. 0
+O11 O2- 4 e 0.4068(2) 0.22873(5) 0.06932(1) 1.95(2) 1. 0
+O12 O2- 4 e 0.5232(2) 0.10463(5) 0.03634(1) 1.52(2) 1. 0
+O13 O2- 4 e 0.4417(2) 0.14801(5) 0.29639(1) 1.66(2) 1. 0
+B1 B3+ 4 e 0.4062(2) 0.51147(7) 0.80098(2) 1.17(3) 1. 0
+B2 B3+ 4 e 0.7571(2) 0.49415(7) 0.74387(2) 1.22(3) 1. 0
+B3 B3+ 4 e 0.5082(3) 0.39210(7) 0.68188(2) 1.27(3) 1. 0
+B4 B3+ 4 e 0.4463(3) 0.29767(7) 0.47245(2) 1.38(3) 1. 0
+B5 B3+ 4 e 0.5269(3) 0.25520(7) 0.73744(2) 1.30(3) 1. 0
+B6 B3+ 4 e 0.4183(3) 0.21599(8) 0.23269(2) 1.38(3) 1. 0
+B7 B3+ 4 e 0.4852(2) 0.17326(7) 0.97687(2) 1.18(3) 1. 0
+B8 B3+ 4 e 0.4384(2) 0.08178(7) 0.18587(2) 1.11(3) 1. 0
+#End of TTdata_95869-ICSD

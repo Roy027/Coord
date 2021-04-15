@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82767-ICSD
+_database_code_ICSD 82767
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Pentasodium iron(III) bis(phosphate(V)) difluoride'
+_chemical_formula_structural 'Na5 Fe (P O4)2 F2'
+_chemical_formula_sum 'F2 Fe1 Na5 O8 P2'
+_exptl_crystal_density_diffrn 3.04
+_publ_section_title 'Crystal structure of the new phosphate Na5 Fe (P O4)2 F2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk' 1996 350 499 502 DAKNEQ
+loop_
+_publ_author_name
+'Rastsvetaeva, R.K.'
+'Maksimov, B.A.'
+'Timofeeva, V.A.'
+_cell_length_a 11.643(1)
+_cell_length_b 21.7770(30)
+_cell_length_c 13.750(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3486.31
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P5+ 5
+Na1+ 1
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0 0 0 0.78(2) 1. 0
+Fe2 Fe3+ 8 c 0.0025(1) 0.2496(1) -.0068(1) 0.84(2) 1. 0
+Fe3 Fe3+ 4 b 0 0 0.5 0.80(2) 1. 0
+P1 P5+ 8 c 0.4152(1) 0.1262(1) 0.3809(1) 0.78(2) 1. 0
+P2 P5+ 8 c 0.2514(1) 0.0096(1) 0.1191(1) 0.74(2) 1. 0
+P3 P5+ 8 c 0.2472(1) 0.2582(1) 0.1222(1) 0.83(2) 1. 0
+P4 P5+ 8 c 0.4250(1) 0.3727(1) 0.3782(1) 0.80(2) 1. 0
+Na1 Na1+ 8 c 0.1687(1) 0.1321(1) 0.2527(1) 1.60(4) 1. 0
+Na2 Na1+ 8 c 0.1614(1) 0.1260(1) -.0024(1) 1.34(4) 1. 0
+Na3 Na1+ 8 c 0.4223(1) 0.1259(1) 0.1236(1) 1.34(4) 1. 0
+Na4 Na1+ 8 c 0.2652(1) 0.4987(1) 0.3719(1) 1.62(4) 1. 0
+Na5 Na1+ 8 c 0.1689(1) 0.3787(1) 0.2528(1) 1.78(4) 1. 0
+Na6 Na1+ 8 c 0.5171(1) 0.4980(1) 0.2367(1) 2.01(4) 1. 0
+Na7 Na1+ 8 c 0.5011(1) 0.2462(1) 0.2494(1) 1.46(4) 1. 0
+Na8 Na1+ 8 c 0.1650(1) 0.1173(1) 0.4986(1) 1.39(4) 1. 0
+Na9 Na1+ 8 c 0.4171(1) 0.3825(1) 0.1224(1) 1.45(4) 1. 0
+Na10 Na1+ 8 c 0.2496(1) 0.2553(1) 0.3857(1) 1.73(4) 1. 0
+F1 F1- 8 c 0.0551(1) 0.3104(1) 0.3911(1) 1.56(4) 1. 0
+F2 F1- 8 c 0.0790(1) 0.1893(1) 0.4053(1) 1.32(3) 1. 0
+F3 F1- 8 c 0.0478(1) 0.0356(1) 0.3745(1) 1.66(4) 1. 0
+F4 F1- 8 c 0.0933(1) 0.4592(1) 0.4015(1) 1.83(4) 1. 0
+O1 O2- 8 c 0.4757(2) 0.3921(1) 0.2815(1) 1.59(8) 1. 0
+O2 O2- 8 c 0.4715(2) 0.4136(1) 0.4617(1) 1.60(8) 1. 0
+O3 O2- 8 c 0.2498(2) 0.3280(1) 0.1191(1) 1.38(8) 1. 0
+O4 O2- 8 c 0.4838(2) 0.0837(1) 0.4499(2) 2.28(9) 1. 0
+O5 O2- 8 c 0.1607(2) 0.2321(1) 0.0464(1) 1.33(7) 1. 0
+O6 O2- 8 c 0.2490(2) 0.0791(2) 0.1255(1) 1.27(7) 1. 0
+O7 O2- 8 c 0.2148(2) 0.2349(1) 0.2228(2) 1.81(7) 1. 0
+O8 O2- 8 c 0.3668(2) 0.2314(1) 0.0937(2) 1.64(7) 1. 0
+O9 O2- 8 c 0.2953(2) 0.3719(1) 0.3776(1) 1.95(8) 1. 0
+O10 O2- 8 c 0.2916(2) 0.1050(1) 0.3725(1) 1.59(7) 1. 0
+O11 O2- 8 c 0.4684(2) 0.3066(1) 0.4013(2) 2.34(9) 1. 0
+O12 O2- 8 c 0.3689(2) 0.4843(1) 0.0907(1) 1.59(7) 1. 0
+O13 O2- 8 c 0.2113(2) 0.4797(1) 0.2139(1) 1.67(7) 1. 0
+O14 O2- 8 c 0.4750(2) 0.1310(1) 0.2837(1) 2.7(9) 1. 0
+O15 O2- 8 c 0.1651(2) 0.4893(1) 0.0359(1) 1.4(6) 1. 0
+O16 O2- 8 c 0.4158(2) 0.1901(1) 0.4298(2) 2.7(9) 1. 0
+#End of TTdata_82767-ICSD

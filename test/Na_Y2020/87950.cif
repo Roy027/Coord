@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_87950-ICSD
+_database_code_ICSD 87950
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Disodium dicarbonatocobaltate tetrahydrate'
+_chemical_formula_structural 'Na2 (Co (C O3)2) (H2 O)4'
+_chemical_formula_sum 'C2 H8 Co1 Na2 O10'
+_exptl_crystal_density_diffrn 2.26
+_publ_section_title
+
+;
+Synthesis, crystal structure and magnetic property of disodium
+biscarbonato-cobaltate(II) tetrahydrate, Na2 Co (C O3)2 . 4(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemical Research in Chinese Universities' 1999 15 311 316 CRCUED
+loop_
+_publ_author_name
+'Zheng, Y.-Q.'
+'Ye, Y.-H.'
+'Hu, F.-T.'
+'Peters, K.'
+'von Schnering, H.G.'
+_cell_length_a 8.566(1)
+_cell_length_b 7.146(1)
+_cell_length_c 14.387(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.59(1)
+_cell_angle_gamma 90.
+_cell_volume 872.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co2+ 2
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f -.0806(1) 0.3256(1) 0.0626(1) . 1. 0
+Co1 Co2+ 4 e 0 0.0421(1) 0.25 . 1. 0
+C1 C4+ 8 f 0.7770(3) 0.2619(3) 0.2859(1) . 1. 0
+O1 O2- 8 f 0.8736(2) 0.1676(2) 0.3456(1) . 1. 0
+O2 O2- 8 f 0.1992(2) 0.2572(3) 0.2995(1) . 1. 0
+O3 O2- 8 f 0.1617(2) 0.8510(2) 0.3146(1) . 1. 0
+O4 O2- 8 f 0.0256(3) 0.6218(3) 0.0954(1) . 1. 0
+O5 O2- 8 f 0.8136(3) 0.0293(3) 0.0066(1) . 1. 0
+H1 H1+ 8 f 0.105(5) 0.656(6) 0.123(3) 0.059(13) 1. 0
+H2 H1+ 8 f -.034(5) 0.676(6) 0.122(3) 0.058(12) 1. 0
+H3 H1+ 8 f 0.693(4) 0.530(5) -.045(2) 0.036(11) 1. 0
+H4 H1+ 8 f 0.157(4) 0.039(5) 0.036(2) 0.0323(90) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0241(5) 0.0258(5) 0.0231(5) 0.0007(4) 0.0003(4) 0.0025(4)
+Co1 Co2+ 0.0161(3) 0.0174(3) 0.0176(3) 0 0.0027(2) 0
+C1 C4+ 0.016(1) 0.016(1) 0.0193(10) -.0033(8) 0.0026(8) -.0003(8)
+O1 O2- 0.0185(8) 0.0208(8) 0.0188(8) 0.0019(7) 0.0004(6) 0.0011(6)
+O2 O2- 0.0263(9) 0.0289(9) 0.0185(8) -.0014(8) 0.0053(7) -.0003(7)
+O3 O2- 0.0195(8) 0.0213(8) 0.0233(8) 0.0043(7) 0.0054(7) 0.0011(6)
+O4 O2- 0.0248(10) 0.0318(10) 0.0276(9) -.0018(8) 0.0062(8) -.0073(8)
+O5 O2- 0.0305(10) 0.0259(10) 0.024(1) 0.0050(8) 0.0061(8) 0.0016(7)
+#End of TTdata_87950-ICSD

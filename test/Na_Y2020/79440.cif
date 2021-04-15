@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79440-ICSD
+_database_code_ICSD 79440
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Sodium dicobalt bis(selenate(IV)) hydroxide'
+_chemical_formula_structural 'Na Co2 (Se O3)2 (O H)'
+_chemical_formula_sum 'H1 Co2 Na1 O7 Se2'
+_exptl_crystal_density_diffrn 4.09
+_publ_section_title
+
+;
+Crystal structure and polarized electronic absorption spectra of Na Co2 (Se
+O3)2 (O H)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 115 360 367 JSSCBI
+loop_
+_publ_author_name
+'Wildner, M.'
+_cell_length_a 8.338(1)
+_cell_length_b 13.268(3)
+_cell_length_c 6.042(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 668.42
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co2+ 2
+Se4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.3719(2) 0.7486(1) 0.75 . 1. 0
+Co1 Co2+ 4 a 0 0 0 . 1. 0
+Co2 Co2+ 4 c 0.28762(6) 0.11291(4) 0.25 . 1. 0
+Se1 Se4+ 4 c 0.27515(5) 0.32935(3) 0.25 . 1. 0
+Se2 Se4+ 4 c 0.37988(5) 0.02516(3) 0.75 . 1. 0
+O1 O2- 4 c 0.9566(3) 0.1091(2) 0.75 . 1. 0
+O2 O2- 4 c 0.5316(4) 0.0887(2) 0.25 . 1. 0
+O3 O2- 8 d 0.8047(3) 0.2542(2) 0.9586(3) . 1. 0
+O4 O2- 8 d 0.2529(2) 0.0149(2) 0.9702(3) . 1. 0
+O5 O2- 4 c 0.4626(3) 0.6015(2) 0.25 . 1. 0
+H1 H1+ 4 c 0.518(8) 0.665(5) 0.25 0.033(16) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0206(8) 0.0223(8) 0.0236(7) 0.0025(7) 0 0
+Co1 Co2+ 0.0121(2) 0.0135(2) 0.0121(2) -.0008(2) -.0008(2) 0.0000(1)
+Co2 Co2+ 0.0114(2) 0.0132(2) 0.0148(2) -.0004(2) 0 0
+Se1 Se4+ 0.0126(2) 0.0121(2) 0.0198(2) -.0004(1) 0 0
+Se2 Se4+ 0.0098(1) 0.0139(1) 0.0138(1) -.0006(1) 0 0
+O1 O2- 0.0144(12) 0.0121(11) 0.0164(11) 0.0025(9) 0 0
+O2 O2- 0.0110(12) 0.0188(12) 0.0320(15) 0.0034(10) 0 0
+O3 O2- 0.0271(11) 0.0173(8) 0.0205(9) 0.0002(8) 0.0034(8) -.0022(7)
+O4 O2- 0.0141(8) 0.0217(10) 0.0148(7) -.0006(7) 0.0019(7) -.0034(6)
+O5 O2- 0.0134(11) 0.0130(11) 0.0154(11) -.0003(9) 0 0
+#End of TTdata_79440-ICSD

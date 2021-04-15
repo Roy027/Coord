@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_291156-ICSD
+_database_code_ICSD 291156
+_audit_creation_date 2015-08-01
+_chemical_name_systematic
+'Sodium manganese cobalt nickel oxide (0.71/0.65/0.18/0.17/2)'
+_chemical_formula_structural 'Na0.706 Mn0.65 Co0.18 Ni0.17 O2'
+_chemical_formula_sum 'Co0.18 Mn0.65 Na0.706 Ni0.17 O2'
+_chemical_name_structure_type NaxCoO2
+_exptl_crystal_density_diffrn 4.39
+_publ_section_title
+
+;
+High Capacity Positive Electrode Material for Room Temperature Na Ion Battery:
+Nax Mn2/3 Co1/6 Ni1/6 O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Electrochemical Society' 2015 162 A553 A558 JESOAN
+loop_
+_publ_author_name
+'Kataoka, Riki'
+'Mukai, Takashi'
+'Yoshizawa, Akihiro'
+'Inoue, Kenshi'
+'Kiyobayashi, Tetsu'
+'Sakai, Tetsuo'
+_cell_length_a 2.8633(10)
+_cell_length_b 2.8633(10)
+_cell_length_c 11.12504(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 78.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0152
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn3+ 3.294
+Co3+ 3.294
+Ni3+ 3.294
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 h 0.2782(24) 0.5564 0.25 1.93(17) 0.1611(37) 0
+Na2 Na1+ 2 b 0 0 0.25 1.93(17) 0.2232(98) 0
+Mn1 Mn3+ 2 a 0 0 0 0.35 0.65 0
+Co1 Co3+ 2 a 0 0 0 0.35 0.18 0
+Ni1 Ni3+ 2 a 0 0 0 1. 0.17 0
+O1 O2- 4 f 0.6667 0.3333 0.09177(27) 1. 1. 0
+#End of TTdata_291156-ICSD

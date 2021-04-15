@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_9671-ICSD
+_database_code_ICSD 9671
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Sodium iron(III) catena-silicate'
+_chemical_formula_structural 'Na Fe Si2 O6'
+_chemical_formula_sum 'Fe1 Na1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Acmite
+_exptl_crystal_density_diffrn 3.58
+_publ_section_title
+
+;
+Crystal-chemical characterization of clinopyroxenes based on eight new
+structure refinements
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Society of America, Special Paper' 1969 2 31 50 MSAPAX
+loop_
+_publ_author_name
+'Clark, J.R.'
+'Appleman, D.E.'
+'Papike, J.J.'
+_cell_length_a 9.658(2)
+_cell_length_b 8.795(2)
+_cell_length_c 5.294(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.42(2)
+_cell_angle_gamma 90.
+_cell_volume 429.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.2999(2) 0.25 . 1. 0
+Fe1 Fe3+ 4 e 0 0.89890(7) 0.25 . 1. 0
+Si1 Si4+ 8 f 0.29051(8) 0.08940(9) 0.2351(1) . 1. 0
+O1 O2- 8 f 0.1141(2) 0.0784(2) 0.1380(4) . 1. 0
+O2 O2- 8 f 0.3582(2) 0.2558(2) 0.3001(4) . 1. 0
+O3 O2- 8 f 0.3518(2) 0.0079(2) 0.0118(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0034(2) 0.0020(2) 0.0084(6) 0 -.0006(2) 0
+Fe1 Fe3+ 0.00081(5) 0.00086(5) 0.0046(2) 0 -.00010(4) 0
+Si1 Si4+ 0.00049(6) 0.00073(7) 0.0038(2) -.00004(3) -.00015(5) 0
+O1 O2- 0.0006(2) 0.0012(2) 0.0046(6) -.0001(1) -.0003(1) 0.0001(2)
+O2 O2- 0.0014(2) 0.0008(2) 0.0075(6) -.0003(1) 0.0001(2) 0
+O3 O2- 0.0011(2) 0.0019(2) 0.0051(6) 0.0001(1) 0 -.0004(2)
+#End of TTdata_9671-ICSD

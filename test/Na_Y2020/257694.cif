@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257694-ICSD
+_database_code_ICSD 257694
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium vanadium oxide'
+_chemical_formula_structural 'Na0.282 V2 O5'
+_chemical_formula_sum 'Na0.282 O5 V2'
+_exptl_crystal_density_diffrn 2.36
+_publ_section_title
+
+;
+Na0.282V2O5: A high-performance cathode material for rechargeable lithium
+batteries and sodium batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Power Sources' 2016 328 241 249 JPSODZ
+loop_
+_publ_author_name
+'Cai, Yangsheng'
+'Zhou, Jiang'
+'Fang, Guozhao'
+'Cai, Gemei'
+'Pan, Anqiang'
+'Liang, Shuquan'
+_cell_length_a 15.4054(5)
+_cell_length_b 3.6095(1)
+_cell_length_c 10.0788(3)
+_cell_angle_alpha 90
+_cell_angle_beta 109.546(2)
+_cell_angle_gamma 90
+_cell_volume 528.14
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0669
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 4 i 0.3385(1) 0 0.1030(2) 0.5 0.6667 0
+V2 V5+ 4 i 0.1156(1) 0 0.1192(2) 0.5 0.6667 0
+V3 V5+ 4 i 0.2888(1) 0 0.4099(2) 0.5 0.6667 0
+Na1 Na1+ 4 i -0.0075(5) 0 0.4032(7) 0.5 0.282 0
+O1 O2- 2 a 0 0 0 0.5 0.625 0
+O2 O2- 4 i 0.8227(5) 0 0.0656(7) 0.5 0.625 0
+O3 O2- 4 i 0.6330(6) 0 0.0813(7) 0.5 0.625 0
+O4 O2- 4 i 0.4423(5) 0 0.2359(7) 0.5 0.625 0
+O5 O2- 4 i 0.2675(5) 0 0.2266(8) 0.5 0.625 0
+O6 O2- 4 i 0.1065(5) 0 0.2780(7) 0.5 0.625 0
+O7 O2- 4 i 0.2422(5) 0 0.5710(7) 0.5 0.625 0
+O8 O2- 4 i 0.4006(5) 0 0.4790(7) 0.5 0.625 0
+#End of TTdata_257694-ICSD

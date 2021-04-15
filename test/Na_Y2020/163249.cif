@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_163249-ICSD
+_database_code_ICSD 163249
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Sodium cobalt oxide (0.71/1/2)'
+_chemical_formula_structural 'Na0.71 (Co O2)'
+_chemical_formula_sum 'Co1 Na0.71 O2'
+_chemical_name_structure_type NaCo2O4
+_exptl_crystal_density_diffrn 4.7
+_publ_section_title
+
+;
+X-ray and electron diffraction studies of superlattices and long-range
+three-dimensional Na ordering in gamma-(Nax Co O2) (x= 0.71 and 0.84)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2009 79
+014413-1 014413-11 PRBMDO
+loop_
+_publ_author_name
+'Huang, F.-T.'
+'Chu, M.-W.'
+'Shu, G.J.'
+'Sheu, H.S.'
+'Chen, C.-H.'
+'Liu, L.-K.'
+'Lee, P.A.'
+'Chou, F.C.'
+_cell_length_a 2.8287(1)
+_cell_length_b 2.8287(1)
+_cell_length_c 10.9373(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 75.79
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0695
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co3+ 3.29
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co3+ 2 a 0 0 0 0.016(1) 1. 0
+Na1 Na1+ 2 b 0 0 0.25 0.059(10) 0.21(3) 0
+Na2 Na1+ 2 d 0.3333 0.6667 0.75 0.059(10) 0.50(2) 0
+O1 O2- 4 f 0.3333 0.6667 0.0922(5) 0.022(3) 1. 0
+#End of TTdata_163249-ICSD

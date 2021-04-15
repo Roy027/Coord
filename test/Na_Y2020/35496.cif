@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35496-ICSD
+_database_code_ICSD 35496
+_audit_creation_date 1983-12-31
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Sodium tetramagnesium tris(phosphate(V))'
+_chemical_formula_structural 'Na Mg4 (P O4)3'
+_chemical_formula_sum 'Mg4 Na1 O12 P3'
+_exptl_crystal_density_diffrn 2.82
+_publ_section_title
+
+;
+La structure de l'orthophosphate triple de magnesium et de sodium, Na Mg4 (P
+O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1983 39 936 939 ACSCEE
+loop_
+_publ_author_name
+'Amara, M.B.'
+'Vlasse, M.'
+'Olazcuaga, R.'
+'le Flem, G.'
+'Hagenmuller, P.'
+_cell_length_a 9.883(2)
+_cell_length_b 6.345(2)
+_cell_length_c 15.240(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 955.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.2512(6) 0.25 0.2155(3) . 1. 0
+Mg1 Mg2+ 4 c 0.0671(2) 0.75 0.1274(2) . 1. 0
+Mg2 Mg2+ 4 c 0.4560(3) 0.75 0.1289(2) . 1. 0
+Mg3 Mg2+ 8 d 0.2530(2) 0.5007(3) 0.4471(1) . 1. 0
+P1 P5+ 4 c 0.0427(2) 0.25 0.0565(1) . 1. 0
+P2 P5+ 4 c 0.4724(4) 0.25 0.0624(1) . 1. 0
+P3 P5+ 4 c 0.2942(4) 0.75 0.2724(1) . 1. 0
+O1 O2- 4 c 0.2526(5) 0.75 0.1752(3) . 1. 0
+O2 O2- 4 c 0.4512(5) 0.75 0.2669(3) . 1. 0
+O3 O2- 8 d 0.2428(4) 0.9484(6) 0.3189(2) . 1. 0
+O4 O2- 8 d 0.4420(4) 0.4450(6) 0.1153(3) . 1. 0
+O5 O2- 4 c 0.6230(5) 0.25 0.0306(4) . 1. 0
+O6 O2- 4 c 0.3848(5) 0.25 0.9762(3) . 1. 0
+O7 O2- 8 d 0.0932(4) 0.0564(7) 0.1023(3) . 1. 0
+O8 O2- 4 c 0.8874(5) 0.25 0.0444(4) . 1. 0
+O9 O2- 4 c 0.1038(5) 0.25 0.9619(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0713(30) 0.0386(23) 0.0356(22) 0 -0.0012(25) 0
+Mg1 Mg2+ 0.0081(9) 0.0085(11) 0.0123(10) 0 0.0001(8) 0
+Mg2 Mg2+ 0.0277(13) 0.0079(11) 0.0152(11) 0 0.0054(10) 0
+Mg3 Mg2+ 0.0122(6) 0.0072(6) 0.0151(6) -0.0001(6) 0.0003(7) 0.0006(5)
+P1 P5+ 0.0096(7) 0.0052(7) 0.0103(7) 0 -0.0009(6) 0
+P2 P5+ 0.0096(6) 0.0041(7) 0.0089(7) 0 -0.0003(6) 0
+P3 P5+ 0.0083(6) 0.0099(6) 0.0081(6) 0 0.0001(5) 0
+O1 O2- 0.0089(19) 0.0164(19) 0.0101(18) 0 -0.0008(18) 0
+O2 O2- 0.0088(20) 0.0180(21) 0.010(2) 0 0.0003(17) 0
+O3 O2- 0.0213(16) 0.0191(16) 0.0136(14) 0.0041(18) -0.0001(14) -0.0028(12)
+O4 O2- 0.0254(18) 0.0072(16) 0.0205(17) 0.0002(14) 0.0012(15) -0.0023(13)
+O5 O2- 0.0094(21) 0.0134(23) 0.0217(26) 0 0.0009(19) 0
+O6 O2- 0.0127(22) 0.0177(23) 0.0132(21) 0 -0.0020(18) 0
+O7 O2- 0.0375(22) 0.0118(18) 0.0417(22) -0.0015(17) -0.0113(18) 0.0044(18)
+O8 O2- 0.0088(22) 0.0162(24) 0.0317(28) 0 0.0014(20) 0
+O9 O2- 0.0137(22) 0.0245(28) 0.0187(26) 0 0.0034(19) 0
+#End of TTdata_35496-ICSD

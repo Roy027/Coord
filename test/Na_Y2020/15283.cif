@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15283-ICSD
+_database_code_ICSD 15283
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Disodium pentairon titanium hexasilicate'
+_chemical_formula_structural 'Na2 Fe5 Ti (Si6 O20)'
+_chemical_formula_sum 'Fe5 Na2 O20 Si6 Ti1'
+_chemical_name_structure_type Aenigmatite-Na2TiFe5Si6O20
+_chemical_name_mineral Hogtuvaite
+_exptl_crystal_density_diffrn 3.84
+_publ_section_title 'The crystal structure of aenigmatite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1971 56 427 445 AMMIAY
+loop_
+_publ_author_name
+'Cannillo, E.'
+'Mazzi, F.'
+'Fang, J.H.'
+'Robinson, P.D.'
+'Ohya, Y.'
+_cell_length_a 10.406(13)
+_cell_length_b 10.813(14)
+_cell_length_c 8.926(6)
+_cell_angle_alpha 104.93(15)
+_cell_angle_beta 96.87(18)
+_cell_angle_gamma 125.32(10)
+_cell_volume 744.46
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.075
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Ti4+ 4
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 1 b 0 0 0.5 0.89(10) 1. 0
+Fe2 Fe2+ 1 c 0 0.5 0 0.85(10) 1. 0
+Fe3 Fe2+ 2 i 0.3193(6) 0.8513(4) 0.1779(4) 0.91(10) 1. 0
+Fe4 Fe2+ 2 i 0.7670(6) 0.8203(3) 0.1517(4) 0.68(10) 1. 0
+Fe5 Fe2+ 2 i 0.0952(7) 0.9382(4) 0.0522(4) 0.98(10) 1. 0
+Fe6 Fe2+ 2 i 0.5962(7) 0.9435(4) 0.0662(4) 0.82(10) 1. 0
+Ti1 Ti4+ 2 i 0.9970(9) 0.7428(4) 0.2565(5) 0.62(10) 1. 0
+Na1 Na1+ 2 i 0.2092(17) 0.6289(10) 0.3893(10) 1.33(10) 1. 0
+Na2 Na1+ 2 i 0.6627(16) 0.6127(10) 0.3733(10) 1.42(10) 1. 0
+Si1 Si4+ 2 i 0.4798(12) 0.2333(6) 0.3311(7) 0.82(10) 1. 0
+Si2 Si4+ 2 i 0.9879(13) 0.2363(6) 0.3456(7) 0.68(10) 1. 0
+Si3 Si4+ 2 i 0.7925(12) 0.3435(7) 0.2424(7) 0.84(10) 1. 0
+Si4 Si4+ 2 i 0.2782(11) 0.3364(6) 0.2257(7) 0.86(10) 1. 0
+Si5 Si4+ 2 i 0.6478(13) 0.9448(7) 0.4450(7) 0.76(10) 1. 0
+Si6 Si4+ 2 i 0.3525(11) 0.5573(6) 0.0501(7) 0.78(10) 1. 0
+O1 O2- 2 i 0.3600(31) 0.0684(17) 0.1630(17) 1.02(10) 1. 0
+O2 O2- 2 i 0.8640(29) 0.0688(18) 0.1800(18) 1.41(10) 1. 0
+O3 O2- 2 i 0.5488(29) 0.9535(17) 0.2957(18) 1.2(1) 1. 0
+O4 O2- 2 i 0.0087(28) 0.9233(17) 0.2648(17) 1.19(10) 1. 0
+O5 O2- 2 i 0.2364(28) 0.8751(17) 0.3951(18) 1.19(10) 1. 0
+O6 O2- 2 i 0.7523(28) 0.8821(17) 0.3912(18) 1.1(1) 1. 0
+O7 O2- 2 i 0.4967(27) 0.1947(17) 0.4965(17) 1.0(1) 1. 0
+O8 O2- 2 i 0.9603(28) 0.7756(16) 0.4843(17) 0.98(10) 1. 0
+O9 O2- 2 i 0.9069(28) 0.3300(18) 0.3717(18) 1.44(10) 1. 0
+O10 O2- 2 i 0.4091(25) 0.3408(15) 0.3539(16) 0.75(10) 1. 0
+O11 O2- 2 i 0.6710(29) 0.1773(18) 0.0749(18) 1.44(10) 1. 0
+O12 O2- 2 i 0.1565(27) 0.1694(16) 0.0646(17) 1.02(10) 1. 0
+O13 O2- 2 i 0.5197(27) 0.7094(17) 0.0365(17) 1.04(10) 1. 0
+O14 O2- 2 i 0.0671(27) 0.7334(16) 0.0776(16) 0.78(10) 1. 0
+O15 O2- 2 i 0.2453(32) 0.6098(18) 0.1152(19) 1.51(10) 1. 0
+O16 O2- 2 i 0.7572(29) 0.6022(18) 0.1230(18) 1.39(10) 1. 0
+O17 O2- 2 i 0.4040(27) 0.4995(16) 0.1882(17) 1.01(10) 1. 0
+O18 O2- 2 i 0.9370(27) 0.5164(17) 0.2269(17) 1.15(10) 1. 0
+O19 O2- 2 i 0.1708(26) 0.3661(16) 0.3271(16) 0.91(10) 1. 0
+O20 O2- 2 i 0.6749(26) 0.3640(16) 0.3422(16) 0.93(10) 1. 0
+#End of TTdata_15283-ICSD

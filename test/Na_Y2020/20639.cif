@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20639-ICSD
+_database_code_ICSD 20639
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Sodium barium neodymium disilicate'
+_chemical_formula_structural 'Na Ba Nd (Si2 O7)'
+_chemical_formula_sum 'Ba1 Na1 Nd1 O7 Si2'
+_exptl_crystal_density_diffrn 4.52
+_publ_section_title 'The crystal structure of diorthosilicate Na Ba Nd (Si2 O7)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1983 271 349 353 DANKAS
+loop_
+_publ_author_name
+'Baturin, S.V.'
+'Malinovskii, Yu.A.'
+'Bondareva, O.S.'
+_cell_length_a 9.3274(9)
+_cell_length_b 10.497(2)
+_cell_length_c 14.195(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1389.83
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P c a b'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y+1/2, -z+1/2'
+3 '-x+1/2, y, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y+1/2, z+1/2'
+7 'x+1/2, -y, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ba2+ 2
+Nd3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.4385(6) 0.9121(5) 0.1945(4) . 1. 0
+Ba1 Ba2+ 8 c 0.0829(1) 0.3219(1) 0.1053(1) . 1. 0
+Nd1 Nd3+ 8 c 0.1006(1) 0.9175(1) 0.1039(1) . 1. 0
+Si1 Si4+ 8 c 0.2528(4) 0.6478(3) 0.2233(2) . 1. 0
+Si2 Si4+ 8 c 0.2199(4) 0.6061(3) 0.0167(2) . 1. 0
+O1 O2- 8 c 0.2350(8) 0.8009(6) 0.2137(5) . 1. 0
+O2 O2- 8 c 0.1774(8) 0.5786(7) 0.1287(5) . 1. 0
+O3 O2- 8 c 0.4204(8) 0.6088(7) 0.2301(5) . 1. 0
+O4 O2- 8 c 0.1477(8) 0.0998(7) 0.1949(5) . 1. 0
+O5 O2- 8 c 0.3424(8) 0.9893(7) 0.0440(5) . 1. 0
+O6 O2- 8 c 0.3407(8) 0.2453(7) 0.0101(5) . 1. 0
+O7 O2- 8 c 0.3940(8) 0.6011(7) 0.0084(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0031(4) 0.0031(3) 0.0021(2) -.0001(6) -.0005(4) 0.0000(5)
+Ba1 Ba2+ 0.00251(60) 0.00199(40) 0.00113(20) -.00006(70) 0.00002(50) -.00003(60)
+Nd1 Nd3+ 0.00174(50) 0.00166(40) 0.00083(20) -.00021(60) 0.00002(5) -.00009(5)
+Si1 Si4+ 0.0019(2) 0.0017(2) 0.0007(1) 0.0002(4) -.0002(2) 0.0002(2)
+Si2 Si4+ 0.0014(2) 0.0019(2) 0.0009(1) 0.0003(3) -.0001(2) 0.0003(3)
+O1 O2- 0.0030(7) 0.0024(5) 0.0014(3) 0.000(1) 0.0008(6) 0.0005(7)
+O2 O2- 0.0040(7) 0.0035(5) 0.0004(3) -.0008(10) 0.0007(7) 0.0000(7)
+O3 O2- 0.0023(7) 0.0033(5) 0.0019(3) 0.0001(10) -.0001(7) -.0005(8)
+O4 O2- 0.0036(6) 0.0024(5) 0.0010(3) -.0002(10) 0.0000(6) -.0008(7)
+O5 O2- 0.0029(6) 0.0026(5) 0.0010(3) -.0002(10) 0.0005(6) 0.0012(7)
+O6 O2- 0.0039(6) 0.0025(5) 0.0010(3) -.0007(10) -.0010(7) 0.0002(7)
+O7 O2- 0.0033(6) 0.0024(5) 0.0009(3) 0.0006(9) -.0007(6) 0.0003(7)
+#End of TTdata_20639-ICSD

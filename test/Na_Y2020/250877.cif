@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250877-ICSD
+_database_code_ICSD 250877
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium neodymium bismuth diniobate (0.5/0.5/2.0/1)'
+_chemical_formula_structural '(Na0.5 Nd0.5 Bi2.0) Nb2 O9'
+_chemical_formula_sum 'Bi2 Na0.5 Nb2 Nd0.5 O9'
+_chemical_name_structure_type TiNbBi3O9
+_exptl_crystal_density_diffrn 7.45
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Structure, phase transition behaviors and electrical properties of Nd
+substituted Aurivillius polycrystallines Na0.5 Ndx Bi2.5-x Nb2 O9 (x = 0.1,
+0.2, 0.3, and 0.5)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 5045 5054 INOCAJ
+loop_
+_publ_author_name
+'Long, Changbai'
+'Fan, Huiqing'
+'Ren, Pengrong'
+_cell_length_a 5.46872(5)
+_cell_length_b 5.46730(5)
+_cell_length_c 24.80723(25)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 741.71
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A 21 a m'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.0785
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, y, -z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 'x, y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Na1+ 1
+Nd3+ 3
+Bi3+ 3
+Na1+ 1
+Nd3+ 3
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 a 0 0.2430(12) 0 0.0014(6) 0.152(7) 0
+Na1 Na1+ 4 a 0 0.2430(12) 0 0.0014(6) 0.4602(23) 0
+Nd1 Nd3+ 4 a 0 0.2430(12) 0 0.0014(6) 0.388(7) 0
+Bi2 Bi3+ 8 b 0.4777(10) 0.7572(4) 0.19956(4) 0.01818(20) 0.9240(35) 0
+Na2 Na1+ 8 b 0.4777(10) 0.7572(4) 0.19956(4) 0.01818(20) 0.0199(12) 0
+Nd2 Nd3+ 8 b 0.4777(10) 0.7572(4) 0.19956(4) 0.01818(20) 0.0561(33) 0
+Nb1 Nb5+ 8 b 0.4784(15) 0.7466(10) 0.41547(6) 0.0014(4) 1. 0
+O1 O2- 4 a 0.535(7) 0.208(7) 0 0.01625(25) 1. 0
+O2 O2- 8 b 0.442(6) 0.778(6) 0.3449(5) 0.01625(25) 1. 0
+O3 O2- 8 b 0.719(10) 0.011(12) 0.2485(16) 0.01625(25) 1. 0
+O4 O2- 8 b 0.668(5) 0.942(6) 0.0889(7) 0.01625(25) 1. 0
+O5 O2- 8 b 0.759(7) 0.986(9) 0.5700(7) 0.01625(25) 1. 0
+#End of TTdata_250877-ICSD

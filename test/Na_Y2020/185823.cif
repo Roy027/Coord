@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_185823-ICSD
+_database_code_ICSD 185823
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Sodium europium germanate'
+_chemical_formula_structural 'Na Eu (Ge O4)'
+_chemical_formula_sum 'Eu1 Ge1 Na1 O4'
+_chemical_name_structure_type Olivine-Mg2SiO4
+_exptl_crystal_density_diffrn 5.13
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis and pressure-induced reversible phase transition of a crystalline
+solid europium germanate Na Eu Ge O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chinese Journal of Chemistry' 2012 30 2066 2072 CJOCEV
+loop_
+_publ_author_name
+'Zhao Xinguang'
+'Wang Kai'
+'Yan Tingting'
+'Yan Yan'
+'Zou Bo'
+'Yu Jihong'
+'Xu Ruren'
+_cell_length_a 11.5733(12)
+_cell_length_b 6.5750(7)
+_cell_length_c 5.3013(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 403.4
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0212
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+Ge4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 4 c 0.27892(3) 0.75 0.00113(5) 0.00405(13) 1 0
+Ge1 Ge4+ 4 c 0.09589(6) 0.75 0.55999(13) 0.00364(16) 1 0
+O1 O2- 4 c -0.0437(4) 0.75 0.6793(9) 0.0077(9) 1 0
+O2 O2- 4 c 0.1087(4) 0.75 0.2349(9) 0.0085(9) 1 0
+O3 O2- 8 d 0.1706(3) 0.5452(5) 0.7089(6) 0.0069(6) 1 0
+Na1 Na1+ 4 a 0. 1. 0. 0.0118(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu3+ 0.00510(19) 0.00321(19) 0.0038(2) 0. -0.00024(10) 0.
+Ge1 Ge4+ 0.0052(3) 0.0037(3) 0.0021(3) 0. -0.0001(2) 0.
+O1 O2- 0.0050(19) 0.010(2) 0.008(2) 0. 0.0008(17) 0.
+O2 O2- 0.011(2) 0.010(2) 0.005(2) 0. 0.0023(17) 0.
+O3 O2- 0.0087(14) 0.0031(15) 0.0089(15) 0.0015(11) -0.0014(12) -0.0003(12)
+Na1 Na1+ 0.0146(13) 0.0109(14) 0.0099(15) 0.0038(12) -0.0010(9) -0.0019(10)
+#End of TTdata_185823-ICSD

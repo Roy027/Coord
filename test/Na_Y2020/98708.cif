@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_98708-ICSD
+_database_code_ICSD 98708
+_audit_creation_date 2005-04-01
+_chemical_name_systematic
+'Sodium potassium catena-pentaoxodisilicate (0.67/1.33/2)'
+_chemical_formula_structural 'Na0.667 K1.333 (Si2 O5)'
+_chemical_formula_sum 'K1.333 Na0.667 O5 Si2'
+_exptl_crystal_density_diffrn 2.49
+_publ_section_title
+
+;
+High pressure mixed alkali disilicates in the system Na2-x Kx Si2 O5:
+hydrothermal synthesis and crystal structures of Na K Si2 O5 - II and Na0.67
+K1.33 Si2 O5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2003 218 413 420 ZEKRDZ
+loop_
+_publ_author_name
+'Rakic, S.'
+'Kahlenberg, V.'
+'Schmidt, B.C.'
+_cell_length_a 12.731(2)
+_cell_length_b 7.321(1)
+_cell_length_c 17.827(3)
+_cell_angle_alpha 90
+_cell_angle_beta 100.85(2)
+_cell_angle_gamma 90
+_cell_volume 1631.84
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 f 0.3475(1) 0.8952(2) 0.3484(1) 0.0216(5) 1. 0
+Si2 Si4+ 8 f 0.3180(1) 0.2486(1) 0.4334(1) 0.0200(5) 1. 0
+Si3 Si4+ 8 f 0.2906(1) -0.0497(2) 0.1745(1) 0.0262(5) 1. 0
+K1 K1+ 8 f 0.6023(1) 0.1225(2) 0.4384(1) 0.0326(6) 1. 0
+K2 K1+ 8 f 0.5845(1) 0.8214(2) 0.2492(1) 0.0432(8) 1. 0
+Na1 Na1+ 8 f 0.4881(2) 0.4129(3) 0.5811(1) 0.0326(6) 1. 0
+O1 O2- 8 f 0.2812(2) -0.0369(4) 0.2649(2) 0.0291(11) 1. 0
+O2 O2- 8 f 0.4715(2) 0.8875(5) 0.3563(2) 0.0435(13) 1. 0
+O3 O2- 8 f 0.3064(2) 0.0293(4) 0.4117(2) 0.0246(10) 1. 0
+O4 O2- 8 f 0.2995(3) 0.6965(4) 0.3661(2) 0.0374(12) 1. 0
+O5 O2- 8 f 0.4354(2) 0.3158(5) 0.4575(2) 0.0435(13) 1. 0
+O6 O2- 8 f 0.4051(3) -0.0872(5) 0.1600(2) 0.0441(14) 1. 0
+O7 O2- 4 e 0.25 0.2737(6) 0.5 0.0540(23) 1. 0
+O8 O2- 8 f 0.2559(3) 0.3490(4) 0.3564(2) 0.0434(14) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ .0238(9) .0190(10) .0218(9) .0014(7) .0037(6) -.0011(7)
+Si2 Si4+ .0238(9) .0160(10) .0207(9) .0000(7) .0056(6) -.0001(7)
+Si3 Si4+ .0383(10) .0185(10) .0217(9) .0002(7) .0053(7) .0015(7)
+K1 K1+ .0296(9) .0356(11) .0322(10) .0067(7) .0045(6) .0025(7)
+K2 K1+ .0297(10) .0527(13) .0492(12) .0076(8) .0124(7) .0007(8)
+Na1 Na1+ .0523(17) .0293(17) .0338(15) .0044(12) .0174(12) .0002(11)
+O1 O2- .0382(25) .0198(25) .0296(26) .0061(20) .0073(19) .0030(20)
+O2 O2- .0282(26) .0582(36) .0434(30) .0057(23) .0047(21) -.0105(25)
+O3 O2- .0325(25) .0173(24) .0248(22) -.0017(19) .0076(18) -.0005(17)
+O4 O2- .0596(32) .0203(27) .0296(25) -.0099(23) .0014(22) .0013(20)
+O5 O2- .0246(25) .0299(31) .0753(37) .0003(20) .0073(23) -.0177(26)
+O6 O2- .0419(29) .0605(38) .0326(27) .0000(26) .0143(22) .0030(24)
+O7 O2- .0984(62) .0097(37) .0712(53) 0. .0601(47) 0.
+O8 O2- .0757(38) .0170(28) .0297(26) .0020(24) -.0101(24) .0010(20)
+#End of TTdata_98708-ICSD

@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430527-ICSD
+_database_code_ICSD 430527
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium potassium nonaoxotetravanadate(IV) dihydrate'
+_chemical_formula_structural 'Na K V4 O9 (H2 O)2'
+_chemical_formula_sum 'H4 K1 Na1 O11 V4'
+_exptl_crystal_density_diffrn 2.77
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Na K V4 O9 * 2H2O: a new 2D magnetic compound with a 1/5-depleted square
+lattice
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2016 45 5234 5239 DTARAF
+loop_
+_publ_author_name
+'Cui, Meiyan'
+'He, Zhangzhen'
+'Wang, Nannan'
+'Tang, Yingying'
+'Guo, Wenbin'
+'Zhang, Suyun'
+'Wang, Lin'
+'Xiang, Hongping'
+_cell_length_a 8.257(8)
+_cell_length_b 15.475(16)
+_cell_length_c 8.373(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.455(17)
+_cell_angle_gamma 90.
+_cell_volume 1069.84
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0438
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+Na1+ 1
+K1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 8 f 0.20676(7) 0.21022(4) 0.84364(7) 0.0100(2) 1 0
+V2 V4+ 8 f 0.09725(7) 0.29539(4) 0.53839(7) 0.0101(2) 1 0
+Na1 Na1+ 4 e 0.5 0.65237(16) 0.25 0.0222(5) 1 0
+K1 K1+ 4 e 0. 0.48708(9) 0.25 0.0263(3) 1 0
+O1 O2- 8 f 0.3947(3) 0.25148(19) 0.9608(3) 0.0126(6) 1 0
+O2 O2- 8 f 0.2913(3) 0.25407(19) 0.6450(3) 0.0122(6) 1 0
+O3 O2- 4 e 0. 0.2584(3) 0.75 0.0127(8) 1 0
+O4 O2- 8 f 0.2084(4) 0.1064(2) 0.8345(3) 0.0203(7) 1 0
+O5 O2- 8 f 0.0960(4) 0.3992(2) 0.5230(3) 0.0215(7) 1 0
+O6 O2- 8 f 0.3358(5) 0.5438(2) 0.3526(4) 0.0456(11) 1 0
+H1 H1+ 8 f 0.3753 0.4939 0.3278 0.055 1 0
+H2 H1+ 8 f 0.3089 0.5405 0.4534 0.055 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.0077(3) 0.0171(4) 0.0052(3) 0.0002(2) -0.0013(2) -0.0005(2)
+V2 V4+ 0.0068(3) 0.0166(4) 0.0068(3) 0.0004(2) -0.0007(2) 0.0008(2)
+Na1 Na1+ 0.0185(12) 0.0277(14) 0.0202(12) 0. 0.0026(9) 0.
+K1 K1+ 0.0322(8) 0.0283(8) 0.0184(6) 0. 0.0008(5) 0.
+O1 O2- 0.0077(12) 0.0266(16) 0.0034(12) 0.0005(11) -0.0017(9) -0.0027(11)
+O2 O2- 0.0074(12) 0.0210(15) 0.0083(12) 0.0013(10) 0.0005(10) -0.0004(10)
+O3 O2- 0.0080(17) 0.025(2) 0.0048(16) 0. -0.0011(13) 0.
+O4 O2- 0.0282(16) 0.0178(15) 0.0150(14) -0.0017(12) -0.0020(12) -0.0016(11)
+O5 O2- 0.0255(16) 0.0194(16) 0.0196(14) 0.0007(12) 0.0014(12) 0.0003(12)
+O6 O2- 0.070(3) 0.035(2) 0.032(2) -0.020(2) 0.0191(18) -0.0107(16)
+#End of TTdata_430527-ICSD

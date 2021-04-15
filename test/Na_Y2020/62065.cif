@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62065-ICSD
+_database_code_ICSD 62065
+_audit_creation_date 1988-02-22
+_chemical_name_systematic 'Potassium nonasodium bis(indiumtetraoxide)'
+_chemical_formula_structural 'K Na9 (In O4)2'
+_chemical_formula_sum 'In2 K1 Na9 O8'
+_exptl_crystal_density_diffrn 3.36
+_publ_section_title
+'Ein neues Oxoindat mit Inselstruktur: KNa9In2O8 = KNa9(InO4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+550 81 90 ZAACAB
+loop_
+_publ_author_name
+'Wagner, G.'
+'Hoppe, R.'
+_cell_length_a 18.024(3)
+_cell_length_b 7.295(2)
+_cell_length_c 9.079(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1193.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 c 0.2157 0.75 0.784 . 1. 0
+In2 In3+ 4 c 0.533 0.25 0.7429 . 1. 0
+K1 K1+ 4 c 0.5326(1) 0.75 0.6413(1) . 1. 0
+Na1 Na1+ 4 c 0.8534(1) 0.25 0.6786(3) . 1. 0
+Na2 Na1+ 8 d 0.3823(1) 0.5042(2) 0.5987(2) . 1. 0
+Na3 Na1+ 8 d 0.7752(1) 0.5427(2) 0.4506(2) . 1. 0
+Na4 Na1+ 8 d 0.5710(1) 0.5380(2) 0.9560(2) . 1. 0
+Na5 Na1+ 4 c 0.6977(1) 0.25 0.6744(3) . 1. 0
+Na6 Na1+ 4 c 0.6130(1) 0.25 0.1546(2) . 1. 0
+O1 O2- 4 c 0.8783(2) 0.75 0.3956(4) . 1. 0
+O2 O2- 8 d 0.7170(1) 0.0190(4) 0.2165(3) . 1. 0
+O3 O2- 4 c 0.4163(2) 0.75 0.4585(4) . 1. 0
+O4 O2- 4 c 0.6577(2) 0.75 0.9115(4) . 1. 0
+O5 O2- 4 c 0.6664(2) 0.75 0.5115(4) . 1. 0
+O6 O2- 8 d 0.4684(1) 0.0241(4) 0.7979(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.0083(2) 0.0093(2) 0.0078(1) 0 -.0007(1) 0
+In2 In3+ 0.0077(2) 0.0106(2) 0.0076(1) 0 -.0001(1) 0
+K1 K1+ 0.0164(5) 0.0309(7) 0.0222(6) 0 0.0026(4) 0
+Na1 Na1+ 0.0138(8) 0.0165(9) 0.0232(9) 0 0.0024(7) 0
+Na2 Na1+ 0.0189(6) 0.0155(7) 0.0153(6) -.0021(6) -.0021(5) 0.0003(5)
+Na3 Na1+ 0.0163(6) 0.0185(7) 0.0128(6) 0.0007(6) -.0003(5) -.0014(5)
+Na4 Na1+ 0.0140(6) 0.0154(7) 0.0168(6) -.0025(5) 0.0010(5) -.0024(6)
+Na5 Na1+ 0.0112(8) 0.0211(9) 0.0259(9) 0 -.0052(8) 0
+Na6 Na1+ 0.0187(9) 0.0237(9) 0.0145(8) 0 0.0000(7) 0
+O1 O2- 0.0092(10) 0.0154(11) 0.0122(11) 0 0.0009(10) 0
+O2 O2- 0.0149(9) 0.017(1) 0.0146(9) -.0063(9) -.0010(8) 0.0003(8)
+O3 O2- 0.0212(12) 0.0208(12) 0.0099(11) 0 0.003(1) 0
+O4 O2- 0.0156(11) 0.0178(12) 0.0136(11) 0 0.0087(10) 0
+O5 O2- 0.0228(12) 0.0171(12) 0.0140(11) 0 -.0083(10) 0
+O6 O2- 0.0127(9) 0.0162(10) 0.0121(9) -.0052(8) -.0006(7) 0.0023(8)
+#End of TTdata_62065-ICSD

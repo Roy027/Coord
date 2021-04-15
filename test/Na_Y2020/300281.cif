@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_300281-ICSD
+_database_code_ICSD 300281
+_audit_creation_date 1993-01-06
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium tetrapraseodymium nonachloride dioxide'
+_chemical_formula_structural 'Na2 Pr4 Cl9 O2'
+_chemical_formula_sum 'Cl9 Na2 O2 Pr4'
+_chemical_name_structure_type Na2Pr4Cl9O2
+_exptl_crystal_density_diffrn 3.85
+_publ_section_title
+
+;
+Na2 (Pr4 O2) Cl9, the first reduced quaternary praseodymium chloride with
+anti-SiS2 analogous Pr4/2-chains
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 85 89 ZAACAB
+loop_
+_publ_author_name
+'Mattfeld, H.'
+'Meyer, G.'
+_cell_length_a 8.122(2)
+_cell_length_b 11.341(2)
+_cell_length_c 9.376(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.51(2)
+_cell_angle_gamma 90.
+_cell_volume 828.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Pr2+ 2.75
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0.2221(8) 0.99577(66) 0.43251(66) . 1. 0
+Pr1 Pr2+ 2 e 0.5984(1) 0.25 0.82729(9) . 1. 0
+Pr2 Pr2+ 2 e 0.6144(1) 0.25 0.22116(9) . 1. 0
+Pr3 Pr2+ 4 f 0.27831(7) 0.04495(4) 0.95160(7) . 1. 0
+Cl1 Cl1- 2 e 0.2512(5) 0.25 0.14127(44) . 1. 0
+Cl2 Cl1- 2 e 0.2324(5) 0.25 0.74453(42) . 1. 0
+Cl3 Cl1- 2 e 0.6444(7) 0.25 0.53367(48) . 1. 0
+Cl4 Cl1- 4 f 0.8957(4) 0.40015(23) 0.87929(33) . 1. 0
+Cl5 Cl1- 4 f 0.5025(5) 0.99813(27) 0.29739(35) . 1. 0
+Cl6 Cl1- 4 f 0.9027(4) 0.09020(25) 0.31038(35) . 1. 0
+O1 O2- 4 f 0.5621(9) 0.12541(52) 0.01469(83) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0412(25) 0.1474(30) 0.0292(22) 0.0297(25) 0.0082(22) 0.0048(25)
+Pr1 Pr2+ 0.01417(37) 0.01560(32) 0.01431(35) 0 0.00533(30) 0
+Pr2 Pr2+ 0.01592(38) 0.01645(33) 0.01305(34) 0 0.00412(31) 0
+Pr3 Pr2+ 0.01290(26) 0.01551(22) 0.02537(29) 0.00129(20) 0.00513(23) 0.00110(22)
+Cl1 Cl1- 0.0168(15) 0.0299(16) 0.0285(17) 0 0.0082(14) 0
+Cl2 Cl1- 0.0177(16) 0.0268(15) 0.0258(17) 0 0.0030(14) 0
+Cl3 Cl1- 0.0854(26) 0.0301(17) 0.0214(16) 0 0.0226(19) 0
+Cl4 Cl1- 0.0209(12) 0.0283(12) 0.0349(14) -.00689(97) 0.0108(11) -.0087(11)
+Cl5 Cl1- 0.0557(17) 0.0320(12) 0.0274(13) -.0165(12) 0.0142(13) -.0054(11)
+Cl6 Cl1- 0.0271(14) 0.0369(13) 0.0332(14) 0.0106(11) 0.0000(12) -.0076(11)
+O1 O2- 0.0188(25) 0.0148(23) 0.0300(26) -.0037(21) 0.0059(23) 0.0014(22)
+#End of TTdata_300281-ICSD

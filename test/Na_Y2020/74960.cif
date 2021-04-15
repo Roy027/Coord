@@ -1,0 +1,133 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74960-ICSD
+_database_code_ICSD 74960
+_audit_creation_date 1995-10-17
+_chemical_name_systematic
+'Cesium disodium deuteriooxide hexakis(dideuteriohydrate)'
+_chemical_formula_structural 'Cs Na2 (O D)3 (D2 O)6'
+_chemical_formula_sum 'D15 Cs1 Na2 O9'
+_chemical_name_structure_type H15CsNa2O9
+_exptl_crystal_density_diffrn 2.25
+_cell_measurement_temperature 120.
+_publ_section_title
+
+;
+Zur Wasserstoffbrueckenbindung in CsNa2(OD)3 . 6D2O: Neutronenbeugung an einem
+Kristall bei 120K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 809 813 ZAACAB
+loop_
+_publ_author_name
+'Mootz, D.'
+'Ruetter, H.'
+'Heger, G.'
+_cell_length_a 13.86(2)
+_cell_length_b 6.070(7)
+_cell_length_c 12.41(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1044.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c a 21'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Na1+ 1
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 a 0.59922(9) 0.4205(2) 0.5 . 1. 0
+Na1 Na1+ 4 a 0.6600(1) 0.2619(3) 0.1776(2) . 1. 0
+Na2 Na1+ 4 a 0.6410(1) 0.7576(3) 0.1548(2) . 1. 0
+O1 O2- 4 a 0.91814(8) 0.7879(2) 0.1901(1) . 1. 0
+O2 O2- 4 a 0.75669(9) 0.7916(2) 0.4231(1) . 1. 0
+O3 O2- 4 a 0.4427(1) 0.8189(2) 0.3711(1) . 1. 0
+O4 O2- 4 a 0.54132(9) -.0068(2) 0.0651(1) . 1. 0
+O5 O2- 4 a 0.77351(8) 0.0192(2) 0.1040(1) . 1. 0
+O6 O2- 4 a 0.61838(8) 0.0088(2) 0.3152(1) . 1. 0
+O7 O2- 4 a 0.53747(9) 0.5266(2) 0.2494(1) . 1. 0
+O8 O2- 4 a 0.6428(1) 0.4692(2) 0.0155(1) . 1. 0
+O9 O2- 4 a 0.76515(8) 0.5386(2) 0.2430(1) . 1. 0
+D1 D1+ 4 a 0.9290(1) 0.8774(3) 0.2527(1) . 1. 0
+D2 D1+ 4 a 0.8107(1) 0.8771(3) 0.3998(2) . 1. 0
+D3 D1+ 4 a 0.3865(1) 0.8204(3) 0.3279(2) . 1. 0
+D4 D1+ 4 a 0.49202(8) 0.0774(2) 0.1048(1) . 1. 0
+D5 D1+ 4 a 0.54852(9) 0.0577(2) -.0075(1) . 1. 0
+D6 D1+ 4 a 0.82856(9) -.0596(2) 0.1375(1) . 1. 0
+D7 D1+ 4 a 0.76501(9) -.0545(2) 0.0338(1) . 1. 0
+D8 D1+ 4 a 0.66656(9) -.0712(2) 0.3594(1) . 1. 0
+D9 D1+ 4 a 0.55475(9) -.0473(2) 0.3359(1) . 1. 0
+D10 D1+ 4 a 0.48977(8) 0.4114(2) 0.2282(1) . 1. 0
+D11 D1+ 4 a 0.50094(9) 0.6321(2) 0.2945(1) . 1. 0
+D12 D1+ 4 a 0.67927(9) 0.5828(2) -.0252(1) . 1. 0
+D13 D1+ 4 a 0.61398(9) 0.3692(2) -.0379(1) . 1. 0
+D14 D1+ 4 a 0.82481(8) 0.6165(2) 0.2207(1) . 1. 0
+D15 D1+ 4 a 0.75461(9) 0.6114(2) 0.3128(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0174(5) 0.0160(5) 0.0162(6) -.0008(4) 0.0000(5) -.0003(5)
+Na1 Na1+ 0.0152(7) 0.0095(7) 0.0134(9) 0.0004(6) 0.0004(6) 0.0015(6)
+Na2 Na1+ 0.0129(7) 0.0100(7) 0.016(1) 0.0006(6) -.0019(6) 0.0005(6)
+O1 O2- 0.0149(5) 0.0158(5) 0.0172(7) -.0006(4) -.0011(4) 0.0028(4)
+O2 O2- 0.0166(5) 0.0175(5) 0.0149(6) 0.0038(4) 0.0008(4) -.0007(5)
+O3 O2- 0.0212(5) 0.0231(5) 0.0129(6) -.0068(6) 0.0051(5) -.0048(5)
+O4 O2- 0.0176(5) 0.0201(5) 0.0150(6) 0.0075(4) 0.0031(4) 0.0071(5)
+O5 O2- 0.0150(5) 0.0152(5) 0.0146(6) 0.0037(4) -.0006(4) -.0013(5)
+O6 O2- 0.0150(5) 0.0135(4) 0.0140(6) 0.0000(4) -.0002(4) 0.0043(4)
+O7 O2- 0.0149(5) 0.0145(5) 0.0234(7) -.0014(4) 0.0045(4) -.0009(5)
+O8 O2- 0.0280(6) 0.0146(5) 0.0109(6) -.0017(5) 0.0010(4) 0.0010(4)
+O9 O2- 0.0144(5) 0.0139(5) 0.0172(6) -.0023(4) -.0018(4) -.0025(4)
+D1 D1+ 0.0321(6) 0.0333(7) 0.0265(7) 0.0005(5) -.0020(5) -.0042(6)
+D2 D1+ 0.0297(6) 0.0363(7) 0.0353(8) -.0019(6) 0.0056(6) 0.0041(6)
+D3 D1+ 0.0335(7) 0.0434(8) 0.0328(8) 0.0012(6) -.0024(6) -.0013(6)
+D4 D1+ 0.0201(5) 0.0237(5) 0.0244(6) 0.0020(4) 0.0018(4) 0.0008(5)
+D5 D1+ 0.0242(5) 0.0250(5) 0.0216(6) 0.0019(4) -.0005(4) 0.0038(5)
+D6 D1+ 0.0205(5) 0.0230(5) 0.0232(6) 0.0025(4) -.0020(4) -.0001(5)
+D7 D1+ 0.0236(5) 0.0236(5) 0.0191(6) 0.0008(4) 0.0005(4) -.0004(4)
+D8 D1+ 0.0253(5) 0.0215(5) 0.0202(6) 0.0008(4) -.0025(4) 0.0014(5)
+D9 D1+ 0.0226(5) 0.0253(6) 0.0240(6) -.0015(4) 0.0024(5) 0.0014(5)
+D10 D1+ 0.0210(5) 0.0225(5) 0.0263(7) -.0014(4) 0.0019(5) -.0021(5)
+D11 D1+ 0.0256(5) 0.0215(5) 0.0233(7) -.0012(4) 0.0024(4) -.0011(5)
+D12 D1+ 0.0268(6) 0.0246(5) 0.0201(6) 0.0000(5) 0.0016(4) 0.0014(5)
+D13 D1+ 0.0283(5) 0.0239(5) 0.0222(6) -.0008(5) -.0006(5) -.0003(5)
+D14 D1+ 0.0184(5) 0.0269(5) 0.0233(6) -.0012(4) 0.0013(4) -.0022(5)
+D15 D1+ 0.0247(5) 0.0281(6) 0.0212(6) -.0005(4) 0.0010(4) 0.0003(5)
+#End of TTdata_74960-ICSD

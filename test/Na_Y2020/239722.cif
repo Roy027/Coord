@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239722-ICSD
+_database_code_ICSD 239722
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium indium tin sulfide'
+_chemical_formula_structural '(Na In Sn S4)0.5'
+_chemical_formula_sum 'In0.5 Na0.5 S2 Sn0.5'
+_exptl_crystal_density_diffrn 3.1
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Syntheses, structural variants and characterization of A In M'S4 (A = alkali
+metals, Tl; M' = Ge, Sn) compounds; facile ion-exchange reactions of layered
+Na In Sn S4 and K In Sn S4 compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 238 291 302 JSSCBI
+loop_
+_publ_author_name
+'Yohannan, Jinu P.'
+'Vidyasagar, Kanamaluru'
+_cell_length_a 3.7273(6)
+_cell_length_b 3.7273(6)
+_cell_length_c 8.5600(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 102.98
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 6/m'
+_symmetry_Int_Tables_number 175
+_refine_ls_R_factor_all 0.0559
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z'
+2 '-y, x-y, -z'
+3 'x, y, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z'
+8 'y, -x+y, z'
+9 '-x, -y, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+In3+ 3
+Sn4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 b 0. 0. 0.5 0.12(3) 0.5 0
+In1 In3+ 1 a 0. 0. 0. 0.0131(10) 0.5 0
+Sn1 Sn4+ 1 a 0. 0. 0. 0.0131(10) 0.5 0
+S1 S2- 4 h -0.3333 0.3333 0.1676(11) 0.0138(18) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.0107(11) 0.0107(11) 0.0177(16) 0.0054(6) 0. 0.
+Sn1 Sn4+ 0.0107(11) 0.0107(11) 0.0177(16) 0.0054(6) 0. 0.
+S1 S2- 0.014(3) 0.014(3) 0.012(4) 0.0072(13) 0. 0.
+#End of TTdata_239722-ICSD

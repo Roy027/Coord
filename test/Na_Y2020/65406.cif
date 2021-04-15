@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65406-ICSD
+_database_code_ICSD 65406
+_audit_creation_date 1989-12-04
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Trisodium discandium tris(phosphate(V)) - alpha'
+_chemical_formula_structural 'Na3 Sc2 (P O4)3'
+_chemical_formula_sum 'Na3 O12 P3 Sc2'
+_chemical_name_structure_type 'Nasicon low'
+_chemical_name_mineral 'Nasicon low, scandian'
+_exptl_crystal_density_diffrn 2.83
+_publ_section_title
+
+;
+Disorder of tetrahedra in Nasicon-type structure - part I. Na3 Sc2 (P O4)3:
+structures and ion-ion correlations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics and Chemistry of Solids' 1986 47 843 854 JPCSAW
+loop_
+_publ_author_name
+'Collin, G.'
+'Comes, R.'
+'Boilot, J.P.'
+'Colomban, P.'
+_cell_length_a 15.404(4)
+_cell_length_b 9.103(3)
+_cell_length_c 8.919(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 123.53
+_cell_volume 1042.53
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'B 1 1 b'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0451
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 'x, y, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P5+ 5
+Sc3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.1944(5) 0.5577(10) 0.1513(6) 0.0504(35) 1. 0
+Na2 Na1+ 4 a -.0021(6) 0.2415(12) 0.3907(3) 0.0353(30) 1. 0
+Na3 Na1+ 4 a 0.3286(5) 0.309(1) 0.4251(4) 0.0331(30) 1. 0
+P1 P5+ 4 a 0.3596(4) 0.2622(8) 0.1084(2) 0.0103(5) 1. 0
+P2 P5+ 4 a 0.6444(4) 0.7422(8) 0.8916(2) 0.0103(5) 1. 0
+P3 P5+ 4 a -.0016(4) 0.2506(8) 0.0453(1) 0.0104(10) 1. 0
+Sc1 Sc3+ 4 a 0.1019(4) 0.0556(8) 0.2462(1) 0.0082(3) 1. 0
+Sc2 Sc3+ 4 a 0.9030(4) 0.9529(8) 0.7477(1) 0.0082(3) 1. 0
+O1 O2- 4 a 0.1472(6) 0.2198(11) 0.4372(6) 0.0136(13) 1. 0
+O2 O2- 4 a 0.8538(6) 0.7828(11) 0.5612(6) 0.0136(15) 1. 0
+O3 O2- 4 a 0.4370(6) 0.0863(11) 0.4496(6) 0.0141(15) 1. 0
+O4 O2- 4 a 0.5332(6) 0.9166(11) 0.5510(6) 0.0141(15) 1. 0
+O5 O2- 4 a 0.2565(6) 0.2083(11) 0.1815(6) 0.0180(15) 1. 0
+O6 O2- 4 a 0.7481(6) 0.7899(11) 0.8231(6) 0.0180(15) 1. 0
+O7 O2- 4 a 0.3845(7) 0.1241(12) 0.1286(7) 0.0245(18) 1. 0
+O8 O2- 4 a 0.6244(7) 0.8863(12) 0.8669(7) 0.0245(18) 1. 0
+O9 O2- 4 a 0.4467(6) 0.4370(12) 0.1814(6) 0.0149(17) 1. 0
+O10 O2- 4 a 0.5591(6) 0.5676(11) 0.8208(6) 0.0149(17) 1. 0
+O11 O2- 4 a 0.0758(6) 0.2418(11) 0.1495(6) 0.0169(15) 1. 0
+O12 O2- 4 a 0.9201(6) 0.7626(11) 0.8581(7) 0.0169(15) 1. 0
+#End of TTdata_65406-ICSD

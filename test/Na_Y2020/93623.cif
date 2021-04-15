@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_93623-ICSD
+_database_code_ICSD 93623
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Neodymium sodium manganese oxide (0.98/0.02/0.91/3)'
+_chemical_formula_structural '(Nd0.98 Na0.02) (Mn0.91 O3)'
+_chemical_formula_sum 'Mn0.91 Na0.02 Nd0.98 O3'
+_chemical_name_structure_type Perovskite-GdFeO3
+_exptl_crystal_density_diffrn 6.84
+_publ_section_title
+
+;
+Synthesis, structure and magnetic properties of Ln1-x Ax Mn O3 (Ln = Pr, Nd; A
+= Na, K) from Na Cl or K Cl flux
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2001 11 2572 2579 JMACEP
+loop_
+_publ_author_name
+'Shivakumara, C.'
+'Hegde, M.S.'
+'Srinivasa, T.'
+'Vasanthacharya, N.Y.'
+'Subbanna, G.N.'
+'Lalla, N.P.'
+_cell_length_a 5.4143(7)
+_cell_length_b 5.6367(6)
+_cell_length_c 7.6263(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 232.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b n m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, z'
+2 'x, y, -z+1/2'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Na1+ 1
+Mn3+ 3.341
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 4 c -0.0099(4) 0.0535(2) 0.25 0.79 0.98 0
+Na1 Na1+ 4 c -0.0099(4) 0.0535(2) 0.25 0.79 0.02 0
+Mn1 Mn3+ 4 b 0.5 0 0 0.54 0.91 0
+O1 O2- 4 c 0.1037(3) 0.4567(6) 0.25 0.55 1. 0
+O2 O2- 8 d 0.7272(3) 0.3021(2) 0.0376(6) 0.38 1. 0
+#End of TTdata_93623-ICSD

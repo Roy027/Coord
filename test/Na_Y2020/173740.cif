@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_173740-ICSD
+_database_code_ICSD 173740
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Potassium sodium niobate (0.3/0.7/1)'
+_chemical_formula_structural '(K0.30 Na0.70) (Nb O3)'
+_chemical_formula_sum 'K0.3 Na0.7 Nb1 O3'
+_exptl_crystal_density_diffrn 4.5
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Structural study of K(x) Na(1-x) Nb O3 (KNN) for compositions in the range of
+x = 0.24 - 0.36
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2009 65 22 28
+ASBSDK
+loop_
+_publ_author_name
+'Baker, D.W.'
+'Thomas, P.A.'
+'Zhang, N.'
+'Glazer, A.M.'
+_cell_length_a 5.64304(5)
+_cell_length_b 3.93188(2)
+_cell_length_c 5.61260(5)
+_cell_angle_alpha 90
+_cell_angle_beta 89.9136(6)
+_cell_angle_gamma 90
+_cell_volume 124.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 m 1'
+_symmetry_Int_Tables_number 6
+_refine_ls_R_factor_all 0.091
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+K1+ 1
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0 0 0 0.005(3) 0.7 0
+Na2 Na1+ 1 a 0.467(4) 0 0.456(5) 0.016(3) 0.7 0
+K1 K1+ 1 a 0 0 0 0.005(3) 0.3 0
+K2 K1+ 1 a 0.467(4) 0 0.456(5) 0.016(3) 0.3 0
+Nb1 Nb5+ 1 b -0.020(2) 0.5 0.505(5) 0.0081(19) 1 0
+Nb2 Nb5+ 1 b 0.478(2) 0.5 0.004(5) 0.0077(18) 1 0
+O1 O2- 1 b 0.156(3) 0.5 0.758(5) 0.030(4) 1 0
+O2 O2- 1 b 0.687(3) 0.5 0.728(4) 0.015(4) 1 0
+O3 O2- 1 b 0.718(3) 0.5 0.231(5) 0.010(2) 1 0
+O4 O2- 1 b 0.193(3) 0.5 0.240(8) 0.017(5) 1 0
+O5 O2- 1 a 0.460(3) 0 -0.027(5) 0.012(3) 1 0
+O6 O2- 1 a -0.071(3) 0 0.516(5) 0.007(2) 1 0
+#End of TTdata_173740-ICSD

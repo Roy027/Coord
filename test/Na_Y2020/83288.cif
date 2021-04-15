@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83288-ICSD
+_database_code_ICSD 83288
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Sodium iron titanium oxide (0.79/0.8/1.2/4)'
+_chemical_formula_structural 'Na0.79 (Fe0.8 Ti1.2 O4)'
+_chemical_formula_sum 'Fe0.8 Na0.79 O4 Ti1.2'
+_chemical_name_structure_type CaV2O4-defect
+_exptl_crystal_density_diffrn 3.95
+_publ_section_title
+'Structural effects of sodium extraction on Nax Fex Ti2-x O4 single crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 1996 86 811 818 SSIOD3
+loop_
+_publ_author_name
+'Kuhn, A.'
+'Garcia-Alvarado, F.'
+'Moran, E.'
+'Alario-Franco, M.A.'
+'Amador, U.'
+_cell_length_a 9.238(2)
+_cell_length_b 2.9661(5)
+_cell_length_c 11.313(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 309.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3.012
+Ti4+ 4
+Fe3+ 3.012
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.3949(9) 0.75 0.1066(6) . 0.79(2) 0
+Fe1 Fe3+ 4 c 0.0187(3) 0.25 0.1204(3) . 0.40(2) 0
+Ti1 Ti4+ 4 c 0.0187(3) 0.25 0.1204(3) . 0.60(2) 0
+Fe2 Fe3+ 4 c 0.2298(4) 0.75 0.3396(3) . 0.40(2) 0
+Ti2 Ti4+ 4 c 0.2298(4) 0.75 0.3396(3) . 0.60(2) 0
+O1 O2- 4 c 0.1265(9) 0.75 0.1871(6) . 1. 0
+O2 O2- 4 c 0.1264(9) 0.25 0.4059(6) . 1. 0
+O3 O2- 4 c 0.3586(9) 0.25 0.2702(7) . 1. 0
+O4 O2- 4 c 0.3915(8) 0.75 0.4596(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.025(4) 0.076(7) 0.020(4) 0 0.008(3) 0
+Fe1 Fe3+ 0.004(1) 0.003(1) 0.005(1) 0 -.001(1) 0
+Ti1 Ti4+ 0.004(1) 0.003(1) 0.005(1) 0 -.001(1) 0
+Fe2 Fe3+ 0.010(2) 0.010(2) 0.011(1) 0 -.002(1) 0
+Ti2 Ti4+ 0.010(2) 0.010(2) 0.011(1) 0 -.002(1) 0
+O1 O2- 0.007(3) 0.003(3) 0.009(3) 0 -.004(3) 0
+O2 O2- 0.012(4) 0.014(4) 0.011(4) 0 0.002(3) 0
+O3 O2- 0.008(4) 0.004(3) 0.008(3) 0 0.001(3) 0
+O4 O2- 0.007(4) 0.006(3) 0.007(3) 0 -.001(3) 0
+#End of TTdata_83288-ICSD

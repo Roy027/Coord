@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69306-ICSD
+_database_code_ICSD 69306
+_audit_creation_date 1992-08-20
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium iron(III) diphosphate(V)'
+_chemical_formula_structural 'Na Fe (P2 O7)'
+_chemical_formula_sum 'Fe1 Na1 O7 P2'
+_chemical_name_structure_type Mg2P2O7
+_exptl_crystal_density_diffrn 3.3
+_cell_measurement_temperature 8.
+_publ_section_title
+'Moessbauer-effect, magnetic and neutron-diffraction study of Na Fe P2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 1990 42 25
+32 PRBMDO
+loop_
+_publ_author_name
+'Mercader, R.C.'
+'Terminiello, L.'
+'Long, G.-J.'
+'Reichel, D.G.'
+'Dickhaus, K.'
+'Zysler, R.'
+'Sanchez, R.'
+'Tovar, M.'
+_cell_length_a 7.3116(9)
+_cell_length_b 7.8526(9)
+_cell_length_c 9.5566(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.895(9)
+_cell_angle_gamma 90.
+_cell_volume 509.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.282(2) 0.473(2) 0.299(1) 1.15(24) 1. 0
+Fe1 Fe3+ 4 e 0.263(1) 0.006(1) 0.247(1) 0.51(10) 1. 0
+P1 P5+ 4 e 0.076(2) 0.255(2) 0.456(1) 0.50(25) 1. 0
+P2 P5+ 4 e 0.681(2) 0.212(2) 0.455(1) 0.50(25) 1. 0
+O1 O2- 4 e 0.874(2) 0.154(1) 0.438(1) 0.04(5) 1. 0
+O2 O2- 4 e 0.186(2) 0.288(2) 0.620(1) 0.04(5) 1. 0
+O3 O2- 4 e 0.006(2) 0.426(1) 0.359(1) 0.04(5) 1. 0
+O4 O2- 4 e 0.181(2) 0.142(1) 0.394(1) 0.04(5) 1. 0
+O5 O2- 4 e 0.537(2) 0.095(2) 0.355(1) 0.04(5) 1. 0
+O6 O2- 4 e 0.694(2) 0.208(2) 0.620(1) 0.04(5) 1. 0
+O7 O2- 4 e 0.637(2) 0.393(1) 0.396(1) 0.04(5) 1. 0
+#End of TTdata_69306-ICSD

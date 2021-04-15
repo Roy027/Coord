@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253955-ICSD
+_database_code_ICSD 253955
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium cobalt(II) gallium sulfide (3/1/1/4)'
+_chemical_formula_structural 'Na3 Co Ga S4'
+_chemical_formula_sum 'Co1 Ga1 Na3 S4'
+_exptl_crystal_density_diffrn 2.82
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Magnetically frustrated quaternary chalcogenides with interpenetrating diamond
+lattices
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 7650 7656 INOCAJ
+loop_
+_publ_author_name
+'Mohapatra, Sudip'
+'Adhikary, Amit'
+'Ghosh, Kartik'
+'Choudhury, Amitava'
+_cell_length_a 12.891(4)
+_cell_length_b 12.891(4)
+_cell_length_c 18.476(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3070.3
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'I 41/a c d Z'
+_symmetry_Int_Tables_number 142
+_refine_ls_R_factor_all 0.0322
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+3/4'
+2 '-y+3/4, x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 '-x, y+1/2, -z+1/2'
+5 '-y+3/4, -x+1/4, z+1/4'
+6 'y+1/4, -x+1/4, z+3/4'
+7 '-x, -y+1/2, z'
+8 'x, -y+1/2, z+1/2'
+9 'y+1/4, -x+3/4, -z+1/4'
+10 '-y+3/4, -x+3/4, -z+3/4'
+11 'x, -y, -z+1/2'
+12 '-x, -y, -z'
+13 '-y+3/4, x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+1/4'
+15 '-x, y, z+1/2'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+1/4'
+18 '-y+1/4, x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 '-x+1/2, y, -z'
+21 '-y+1/4, -x+3/4, z+3/4'
+22 'y+3/4, -x+3/4, z+1/4'
+23 '-x+1/2, -y, z+1/2'
+24 'x+1/2, -y, z'
+25 'y+3/4, -x+1/4, -z+3/4'
+26 '-y+1/4, -x+1/4, -z+1/4'
+27 'x+1/2, -y+1/2, -z'
+28 '-x+1/2, -y+1/2, -z+1/2'
+29 '-y+1/4, x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+3/4'
+31 '-x+1/2, y+1/2, z'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Co2+ 2
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 32 g 0.42153(4) 0.37246(4) 0.18826(3) 0.0177(2) 0.5 0
+Co1 Co2+ 32 g 0.42153(4) 0.37246(4) 0.18826(3) 0.0177(2) 0.5 0
+S1 S2- 32 g 0.54603(10) 0.45976(9) 0.12613(7) 0.0268(3) 1 0
+S2 S2- 16 e 0.33287(14) 0.5 0.25 0.0210(4) 1 0
+S3 S2- 16 d 0.5 0.25 0.26384(9) 0.0232(4) 1 0
+Na1 Na1+ 16 f 0.38390(19) 0.36610(19) 0.375 0.0388(8) 1 0
+Na2 Na1+ 32 g 0.3397(3) 0.1215(3) 0.2630(2) 0.0912(14) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0156(3) 0.0152(4) 0.0222(4) 0.0006(2) 0.0015(2) -0.0023(2)
+Co1 Co2+ 0.0156(3) 0.0152(4) 0.0222(4) 0.0006(2) 0.0015(2) -0.0023(2)
+S1 S2- 0.0251(7) 0.0171(6) 0.0381(7) 0.0001(5) 0.0125(6) -0.0007(6)
+S2 S2- 0.0156(8) 0.0200(9) 0.0273(9) 0. 0. -0.0100(8)
+S3 S2- 0.0253(10) 0.0206(10) 0.0236(9) 0.0017(7) 0. 0.
+Na1 Na1+ 0.0420(12) 0.0420(12) 0.0324(17) -0.0001(15) 0.0040(11) 0.0040(11)
+Na2 Na1+ 0.0475(18) 0.085(3) 0.141(3) -0.0392(18) 0.037(2) -0.059(2)
+#End of TTdata_253955-ICSD

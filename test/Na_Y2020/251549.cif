@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251549-ICSD
+_database_code_ICSD 251549
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium manganese iron oxide (0.62/0.5/0.5/2)'
+_chemical_formula_structural 'Na0.62 (Mn0.5 Fe0.5) O2'
+_chemical_formula_sum 'Fe0.5 Mn0.5 Na0.62 O2'
+_chemical_name_structure_type NaCo2O4
+_exptl_crystal_density_diffrn 4.03
+_publ_section_title
+
+;
+P2-NaxMn1/2Fe1/2O2 phase used as positive electrode in Na batteries:
+structural changes induced by the electrochemical (de)intercalation process
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 11197 11205 INOCAJ
+loop_
+_publ_author_name
+'Mortemard de Boisse, Benoit'
+'Carlier, Dany'
+'Guignard, Marie'
+'Bourgeois, Lydie'
+'Delmas, Claude'
+_cell_length_a 2.9405(1)
+_cell_length_b 2.9405(1)
+_cell_length_c 11.1957(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 83.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0893
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn3+ 3.76
+Fe3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0 0 0.25 1.8(7) 0.18(1) 0
+Na2 Na1+ 2 d 0.6667 0.3333 0.25 1.9(4) 0.44(2) 0
+Mn1 Mn3+ 2 a 0 0 0 0.29(3) 0.5 0
+Fe1 Fe3+ 2 a 0 0 0 0.29(3) 0.5 0
+O1 O2- 4 f 0.3333 0.6667 0.0930(6) 0.7(1) 1. 0
+#End of TTdata_251549-ICSD

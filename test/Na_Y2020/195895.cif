@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195895-ICSD
+_database_code_ICSD 195895
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Trisodium sulfate fluoride'
+_chemical_formula_structural 'Na3 (S O4) F'
+_chemical_formula_sum 'F1 Na3 O4 S1'
+_chemical_name_mineral Kogarkoite
+_exptl_crystal_density_diffrn 2.68
+_cell_measurement_temperature 423.
+_publ_section_title
+
+;
+Order-disorder phase transition in the antiperovskite-type structure of
+synthetic kogarkoite, Na3 S O4 F
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 231 42 46 JSSCBI
+loop_
+_publ_author_name
+'Avdontceva, Margarita S.'
+'Zolotarev, Andrey A.'
+'Krivovichev, Sergey V.'
+_cell_length_a 6.939(9)
+_cell_length_b 6.939(9)
+_cell_length_c 24.58(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1024.96
+_cell_formula_units_Z 9
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.0414
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S6+ 6
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 9 e 0.5 0.5 0 0.051(1) 1 0
+Na2 Na1+ 18 h 0.1800(2) 0.3600(3) 0.1089(1) 0.038(1) 1 0
+S1 S6+ 3 a 0 0 0 0.025(1) 1 0
+S2 S6+ 6 c 0.6667 0.3333 0.1176(1) 0.051(1) 1 0
+F1 F1- 6 c 0.3333 0.6667 0.0441(2) 0.051(2) 1 0
+F2 F1- 3 b 0.3333 0.6667 0.1667 0.037(2) 1 0
+O1 O2- 18 h 0.5520(4) 0.1041(7) 0.0984(2) 0.048(2) 0.81(1) 0
+O2 O2- 6 c 0.6667 0.3333 0.1768(2) 0.057(3) 0.81(1) 0
+O3 O2- 18 h 0.554(2) 0.109(3) 0.1383(7) 0.043(5) 0.19(1) 0
+O4 O2- 6 c 0.6667 0.3333 0.059(1) 0.070(10) 0.19(1) 0
+O5 O2- 6 c 0 0 0.0603(1) 0.080(5) 0.50(2) 0
+O6 O2- 18 h 0.1164(1) 0.233(2) 0.0156(1) 0.046(4) 0.30(2) 0
+O7 O2- 18 h 0.103(1) 0.206(1) -0.0299(6) 0.061(1) 0.20(2) 0
+#End of TTdata_195895-ICSD

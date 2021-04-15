@@ -1,0 +1,67 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89702-ICSD
+_database_code_ICSD 89702
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Tetrasodium ferrate(IV)'
+_chemical_formula_structural 'Na4 (Fe O4)'
+_chemical_formula_sum 'Fe1 Na4 O4'
+_chemical_name_structure_type Na4SiO4
+_exptl_crystal_density_diffrn 2.9
+_publ_section_title 'The structure of the (Fe(IV) O4)(4-) ion'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2000 39 4162 4163 ACIEF5
+loop_
+_publ_author_name
+'Weller, M.T.'
+'Hector, A.L.'
+_cell_length_a 5.76205(11)
+_cell_length_b 5.76188(10)
+_cell_length_c 8.24301(15)
+_cell_angle_alpha 87.8770(14)
+_cell_angle_beta 71.9680(14)
+_cell_angle_gamma 69.3400(12)
+_cell_volume 242.69
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.4061(11) 0.7871(10) 0.1306(7) 1.99(10) 1. 0
+Na2 Na1+ 2 i 0.7920(9) 0.2657(9) 0.4835(6) 1.11(10) 1. 0
+Na3 Na1+ 2 i 0.7521(10) 0.7702(8) 0.3342(6) 1.37(10) 1. 0
+Na4 Na1+ 2 i 0.9502(10) 0.2800(9) 0.0679(6) 1.49(10) 1. 0
+Fe1 Fe4+ 2 i 0.4083(3) 0.2786(4) 0.2482(2) 0.88(4) 1. 0
+O1 O2- 2 i 0.2429(7) 0.0979(6) 0.3938(4) 1.60(7) 1. 0
+O2 O2- 2 i 0.1650(6) 0.5031(6) 0.1708(4) 1.24(7) 1. 0
+O3 O2- 2 i 0.5630(6) 0.4729(6) 0.2998(4) 1.01(6) 1. 0
+O4 O2- 2 i 0.6901(6) 0.0282(6) 0.1164(4) 1.05(5) 1. 0
+#End of TTdata_89702-ICSD

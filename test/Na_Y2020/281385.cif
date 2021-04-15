@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281385-ICSD
+_database_code_ICSD 281385
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Disodium carbonate sesquiperhydrate'
+_chemical_formula_structural 'Na2 (C O3) (H2 O2)1.5'
+_chemical_formula_sum 'C1 H3 Na2 O6'
+_exptl_crystal_density_diffrn 2.16
+_cell_measurement_temperature 223.
+_publ_section_title 'Sodium percarbonate between 293 and 100 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2003 59 596 605
+ASBSDK
+loop_
+_publ_author_name
+'Pritchard, R.G.'
+'Islam, E.'
+_cell_length_a 6.6871(2)
+_cell_length_b 15.7473(6)
+_cell_length_c 9.1540(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 963.95
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C4+ 4
+Na1+ 1
+O2- -2
+O1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C4+ 8 c -.00323(4) 0.33784(2) 0.25101(3) 0.01270(9) 1. 0
+Na1 Na1+ 8 c 0.252019(17) 0.010841(9) 0.259377(12) 0.02086(4) 1. 0
+Na2 Na1+ 8 c 0.244250(16) 0.249544(6) -.000289(11) 0.01821(4) 1. 0
+O1 O2- 8 c -.00742(3) 0.268156(14) 0.17749(2) 0.01698(6) 1. 0
+O2 O2- 8 c 0.00348(3) 0.409614(14) 0.18393(2) 0.01711(6) 1. 0
+O3 O2- 8 c -.00561(3) 0.334717(14) 0.39111(2) 0.01753(6) 1. 0
+O4 O1- 8 c -.09835(4) 0.137977(16) 0.33923(3) 0.02185(7) 0.8787(3) 0
+O5 O1- 8 c 0.09228(4) 0.114145(16) 0.41051(3) 0.02105(7) 0.8787(3) 0
+O6 O1- 8 c -.1010(3) 0.11381(11) 0.41150(19) 0.0227(4) 0.1213(3) 0
+O7 O1- 8 c 0.0924(3) 0.13885(12) 0.3413(2) 0.0238(4) 0.1213(3) 0
+O8 O1- 8 c 0.09040(8) 0.02525(3) 0.01711(5) 0.01996(14) 0.4534(5) 0
+O9 O1- 8 c 0.02391(9) 0.03419(3) 0.05258(6) 0.03215(18) 0.4616(5) 0
+O10 O1- 8 c -.1017(2) 0.01720(15) 0.0111(3) 0.0723(13) 0.1038(6) 0
+H1 H1+ 8 c -.0532(7) 0.1815(3) 0.2788(5) 0.0401(12) 0.8787(3) 0
+H2 H1+ 8 c 0.0488(6) 0.1027(3) 0.5020(5) 0.0350(12) 0.8787(3) 0
+H3 H1+ 8 c -.0532(7) 0.1027(3) 0.5020(5) 0.0350(12) 0.1213(3) 0
+H4 H1+ 8 c 0.0488(6) 0.1815(3) 0.2788(5) 0.0401(12) 0.1213(3) 0
+H5 H1+ 8 c 0.0332(6) 0.0791(2) -.0233(4) 0.0413(13) 0.916(6) 0
+H6 H1+ 8 c -.0785(7) 0.07852(18) 0.0322(13) 0.063(17) 0.084(6) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C4+ 0.00969(15) 0.01478(16) 0.01363(15) 0.00028(11) -0.00009(10) -0.00055(11)
+Na1 Na1+ 0.01901(8) 0.01684(7) 0.02672(7) 0.00013(5) 0.00282(5) -0.00047(5)
+Na2 Na1+ 0.01573(8) 0.02125(7) 0.01765(7) -0.00038(5) 0.00061(5) -0.00274(5)
+O1 O2- 0.02127(12) 0.01473(11) 0.01494(11) -0.00087(9) 0.00037(8) -0.00185(8)
+O2 O2- 0.02219(12) 0.01382(11) 0.01533(11) -0.00002(8) 0.00062(8) 0.00145(8)
+O3 O2- 0.02343(12) 0.01626(11) 0.01290(11) -0.00054(9) -0.00012(9) -0.00016(9)
+O4 O1- 0.02303(14) 0.02121(13) 0.02130(12) -0.00344(11) -0.00625(11) 0.00341(10)
+O5 O1- 0.02283(13) 0.02454(12) 0.01579(11) 0.00614(11) 0.00037(11) 0.00196(10)
+O8 O1- 0.0224(3) 0.0199(2) 0.0175(2) -0.0020(2) -0.0063(2) -0.00209(19)
+O9 O1- 0.0657(4) 0.0128(2) 0.0180(3) -0.0023(3) -0.0059(2) -0.0002(2)
+O10 O1- 0.0302(18) 0.157(3) 0.0295(14) 0.013(2) 0.0031(12) -0.0281(18)
+#End of TTdata_281385-ICSD

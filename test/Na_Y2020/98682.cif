@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_98682-ICSD
+_database_code_ICSD 98682
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Disodium cadmium bis(selenate(VI)) dihydrate'
+_chemical_formula_structural 'Na2 Cd (Se O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Cd1 Na2 O10 Se2'
+_chemical_name_structure_type Kroehnkite-Na2Cu(SO4)2(H2O)2#Roselite
+_exptl_crystal_density_diffrn 3.58
+_publ_section_title
+
+;
+Crystal structures and crystal chemical relationships of kroehnkite- and
+collinsite-type compounds Na2 Me(2+) (X O4)2 * 2(H2 O) (X = S, Me = Mn, Cd;
+and X = Se, Me = Mn, Co, Ni, Zn, Cd) and K2 Co (Se O4)2 * 2(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2003 218 201 209 ZEKRDZ
+loop_
+_publ_author_name
+'Wildner, M.'
+'Stoilova, D.'
+_cell_length_a 6.003(1)
+_cell_length_b 13.343(1)
+_cell_length_c 5.778(1)
+_cell_angle_alpha 90
+_cell_angle_beta 105.96(1)
+_cell_angle_gamma 90
+_cell_volume 444.97
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0164
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Na1+ 1
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 2 a 0 0 0 0.0136(1) 1. 0
+Na1 Na1+ 4 e 0.5778(1) 0.1221(1) 0.2437(2) 0.0273(2) 1. 0
+Se1 Se6+ 4 e 0.23484(2) 0.11881(1) 0.57281(2) 0.0102(1) 1. 0
+O1 O2- 4 e -0.0198(2) 0.1705(1) 0.5114(2) 0.0206(2) 1. 0
+O2 O2- 4 e 0.2869(2) 0.0556(1) 0.8279(2) 0.0172(2) 1. 0
+O3 O2- 4 e 0.2499(2) 0.0394(1) 0.3592(2) 0.0204(2) 1. 0
+O4 O2- 4 e 0.4440(2) 0.1996(1) 0.5895(2) 0.0190(2) 1. 0
+O5 O2- 4 e 0.8057(2) 0.1462(1) 0.9733(2) 0.0161(2) 1. 0
+H1 H1+ 4 e 0.890(4) 0.198(2) 0.995(4) 0.020(5) 1. 0
+H2 H1+ 4 e 0.707(5) 0.155(2) 0.852(5) 0.039(7) 1. 0
+#End of TTdata_98682-ICSD

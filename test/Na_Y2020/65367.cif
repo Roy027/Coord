@@ -1,0 +1,141 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65367-ICSD
+_database_code_ICSD 65367
+_audit_creation_date 1989-12-04
+_audit_update_record 2006-04-01
+_chemical_name_systematic
+'Silver sodium tecto-dodecaalumododecasilicate (7.6/4.4/1)'
+_chemical_formula_structural 'Ag7.6 Na4.4 (Al12 Si12 O48)'
+_chemical_formula_sum 'Ag7.6 Al12 Na4.4 O48 Si12'
+_chemical_name_structure_type Zeolite-A-frame
+_chemical_name_mineral 'Zeolite 4A (Ag-exchanged, dehydrated)'
+_exptl_crystal_density_diffrn 2.09
+_publ_section_title
+
+;
+Crystal structure of fully dehydrated, partially Ag+ exchanged zeolite 4A,
+Ag7.6 Na4.4 -A. Ag+ ions prefer 6-ring sites. One Ag+ ion is reduced.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry' 1987 91 671 674 JPCHAX
+loop_
+_publ_author_name
+'Kim, Y.'
+'Seff, K.'
+_cell_length_a 12.311(1)
+_cell_length_b 12.311(1)
+_cell_length_c 12.311(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1865.86
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m -3 m'
+_symmetry_Int_Tables_number 221
+_refine_ls_R_factor_all 0.064
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+Ag1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 24 k 0 0.1841(5) 0.3711(3) . 0.5 0
+Al1 Al3+ 24 k 0 0.1841(5) 0.3711(3) . 0.5 0
+O1 O2- 12 h 0 0.2188(13) 0.5 . 1. 0
+O2 O2- 12 i 0 0.2954(9) 0.2954(9) . 1. 0
+O3 O2- 24 m 0.1118(6) 0.1118(6) 0.3390(9) . 1. 0
+Na1 Na1+ 12 i 0 0.4314(31) 0.4314(31) . 0.25 0
+Ag1 Ag1+ 8 g 0.1900(3) 0.1900(3) 0.1900(3) . 0.825 0
+Ag2 Ag1+ 6 e 0 0 0.1715(16) . 0.1666 0
+Na2 Na1+ 8 g 0.230(10) 0.230(10) 0.230(10) 10.(10) 0.175 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Si1 Si4+ 0.0020(4) 0.0027(4) 0.0014(4) 0 0 0.0000(3)
+Al1 Al3+ 0.0020(4) 0.0027(4) 0.0014(4) 0 0 0.0000(3)
+O1 O2- 0.0071(17) 0.0041(15) 0.0031(14) 0 0 0
+O2 O2- 0.0044(14) 0.0026(8) 0.0026(8) 0 0 0.0017(10)
+O3 O2- 0.0029(6) 0.0029(6) 0.0047(10) 0.0017(14) 0.001(1) 0.001(1)
+Na1 Na1+ 0.0168(74) 0.0105(39) 0.0105(39) 0 0 -.0010(47)
+Ag1 Ag1+ 0.0065(3) 0.0065(3) 0.0065(3) 0.0044(3) 0.0044(3) 0.0044(3)
+Ag2 Ag1+ 0.0045(10) 0.0045(10) 0.0037(18) 0 0 0
+#End of TTdata_65367-ICSD

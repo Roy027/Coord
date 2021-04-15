@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237768-ICSD
+_database_code_ICSD 237768
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Trisodium gadolinium tris(carbonate)'
+_chemical_formula_structural 'Na3 Gd (C O3)3'
+_chemical_formula_sum 'C3 Gd1 Na3 O9'
+_exptl_crystal_density_diffrn 3.47
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Sodium-rare earth carbonates with shorite structure and large second harmonic
+generation response
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary CrystEngComm 2014 16 4414 4421 CRECF4
+loop_
+_publ_author_name
+'Luo, Min'
+'Lin, Chensheng'
+'Zou, Guohong'
+'Ye, Ning'
+'Cheng, Wendan'
+_cell_length_a 9.926(3)
+_cell_length_b 10.992(4)
+_cell_length_c 7.120(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 776.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A m a 2'
+_symmetry_Int_Tables_number 40
+_refine_ls_R_factor_all 0.0162
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Gd3+ 3
+O2- -2
+C4+ 4
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Gd1 Gd3+ 4 b 1.25 0.77179(2) 0.01265(10) 0.00558(10) 1 0
+O1 O2- 4 b 1.25 0.8846(4) 0.3199(7) 0.0132(10) 1 0
+O2 O2- 8 c 1.3869(3) 0.8345(3) -0.2545(5) 0.0092(7) 1 0
+O3 O2- 8 c 1.3909(3) 0.6416(3) 0.2128(4) 0.0114(7) 1 0
+O4 O2- 4 b 1.25 1.0875(5) 0.3334(8) 0.0149(10) 1 0
+O5 O2- 8 c 1.4894(3) 0.8045(4) 0.0959(6) 0.0147(8) 1 0
+O6 O2- 4 b 1.25 0.9907(4) 0.0565(6) 0.0097(12) 1 0
+C1 C4+ 4 b 1.25 0.9877(6) 0.2412(10) 0.0074(13) 1 0
+C2 C4+ 8 c 1.5005(4) 0.7957(4) -0.3123(8) 0.0072(9) 1 0
+Na1 Na1+ 4 b 1.25 0.9819(2) 0.6260(4) 0.0114(6) 1 0
+Na2 Na1+ 4 a 1.5 1. 0.9448(4) 0.0130(6) 1 0
+Na3 Na1+ 4 b 1.25 0.70621(16) 0.5105(10) 0.0026(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Gd1 Gd3+ 0.00459(14) 0.00619(15) 0.00595(14) 0. 0. 0.0004(2)
+O1 O2- 0.025(3) 0.009(3) 0.005(2) 0. 0. 0.0032(19)
+O2 O2- 0.0057(15) 0.0125(17) 0.0093(17) 0.0017(13) 0.0025(12) 0.0014(13)
+O3 O2- 0.0065(16) 0.0110(16) 0.0166(19) -0.0038(13) -0.0035(12) 0.0046(14)
+O4 O2- 0.022(3) 0.011(3) 0.012(2) 0. 0. -0.0025(19)
+O5 O2- 0.0115(18) 0.0138(18) 0.019(2) -0.0029(14) -0.0043(13) 0.0121(16)
+O6 O2- 0.016(2) 0.007(2) 0.006(3) 0. 0. 0.0024(15)
+C1 C4+ 0.002(3) 0.010(3) 0.010(4) 0. 0. -0.001(2)
+C2 C4+ 0.010(2) 0.006(2) 0.005(3) -0.0011(16) -0.0010(15) 0.0042(19)
+Na1 Na1+ 0.0106(13) 0.0100(14) 0.0135(16) 0. 0. 0.0029(11)
+Na2 Na1+ 0.0122(14) 0.0116(14) 0.0151(14) -0.0020(9) 0. 0.
+#End of TTdata_237768-ICSD

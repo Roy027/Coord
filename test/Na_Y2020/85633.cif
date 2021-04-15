@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85633-ICSD
+_database_code_ICSD 85633
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Decasodium tetracobaltate(II)'
+_chemical_formula_structural 'Na10 Co4 O9'
+_chemical_formula_sum 'Co4 Na10 O9'
+_chemical_name_structure_type Na10Co4O9
+_exptl_crystal_density_diffrn 3.07
+_publ_section_title
+
+;
+Synthesis, structures, magnetic properties, and absorption spectra of the
+alkaline oxocobaltates(II) : Li6 Co O4, Na4 Co O3, and Na10 Co4 O9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1998 10 3196 3201 CMATEX
+loop_
+_publ_author_name
+'Moeller, A.'
+_cell_length_a 8.363(2)
+_cell_length_b 8.468(2)
+_cell_length_c 11.372(2)
+_cell_angle_alpha 86.552(9)
+_cell_angle_beta 70.26(1)
+_cell_angle_gamma 61.260(9)
+_cell_volume 659.51
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 i 0.0639(2) 0.0322(2) 0.6431(1) 0.0164(3) 1. 0
+Co2 Co2+ 2 i 0.5761(2) 0.7536(2) 0.8509(1) 0.0174(3) 1. 0
+Co3 Co2+ 2 i 0.2921(2) 0.1865(2) 0.8579(1) 0.0163(3) 1. 0
+Co4 Co2+ 2 i 0.7594(2) 0.4609(2) 0.6500(1) 0.0176(3) 1. 0
+Na1 Na1+ 2 i 0.3476(5) 0.5800(5) 0.6268(3) 0.0239(3) 1. 0
+Na2 Na1+ 2 i 0.8580(5) 0.3257(5) 0.8834(3) 0.0243(9) 1. 0
+Na3 Na1+ 2 i 0.4985(5) 0.8843(5) 0.6076(3) 0.0215(8) 1. 0
+Na4 Na1+ 2 i 0.0063(2) 0.6311(5) 0.8561(3) 0.0204(8) 1. 0
+Na5 Na1+ 2 i 0.1543(5) 0.8868(5) 0.8864(3) 0.0217(8) 1. 0
+Na6 Na1+ 2 i 0.1708(5) 0.3431(5) 0.6299(3) 0.0219(8) 1. 0
+Na7 Na1+ 2 i 0.4759(4) 0.4250(5) 0.8783(3) 0.0211(8) 1. 0
+Na8 Na1+ 2 i 0.3735(5) 0.8363(5) 0.3640(3) 0.0253(9) 1. 0
+Na9 Na1+ 2 i 0.1016(5) 0.2247(5) 0.3803(3) 0.0262(9) 1. 0
+Na10 Na1+ 2 i 0.7380(5) 0.0258(5) 0.8841(3) 0.0230(8) 1. 0
+O1 O2- 2 i 0.5501(7) 0.9691(7) 0.7884(5) 0.0214(14) 1. 0
+O2 O2- 2 i 0.8023(7) 0.2428(7) 0.7144(5) 0.0224(14) 1. 0
+O3 O2- 2 i 0.2509(7) 0.0667(8) 0.5272(5) 0.0224(15) 1. 0
+O4 O2- 2 i 0.0617(7) 0.8424(7) 0.7247(5) 0.0202(13) 1. 0
+O5 O2- 2 i 0.3995(7) 0.7084(7) 0.9658(5) 0.0179(13) 1. 0
+O6 O2- 2 i 0.3085(7) 0.3720(7) 0.7736(5) 0.0216(13) 1. 0
+O7 O2- 2 i 0.0920(7) 0.1674(7) 0.9721(4) 0.0165(13) 1. 0
+O8 O2- 2 i 0.8375(7) 0.5653(7) 0.7528(5) 0.0176(12) 1. 0
+O9 O2- 2 i 0.6503(7) 0.5695(7) 0.5386(5) 0.0214(13) 1. 0
+#End of TTdata_85633-ICSD

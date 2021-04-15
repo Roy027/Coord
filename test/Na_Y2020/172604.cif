@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_172604-ICSD
+_database_code_ICSD 172604
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Sodium dimanganese(III,IV) oxide'
+_chemical_formula_structural 'Na Mn2 O4'
+_chemical_formula_sum 'Mn2 Na1 O4'
+_chemical_name_structure_type CaV2O4
+_exptl_crystal_density_diffrn 4.64
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+High pressure synthesis and crystal structure analysis of Na Mn2 O4 with the
+calcium ferrite-type structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2006 179 169 174 JSSCBI
+loop_
+_publ_author_name
+'Akimoto, J.'
+'Awaka, J.'
+'Kijima, K.'
+'Takahashi, Y.'
+'Maruta, Y.'
+'Tokiwa, K.'
+'Watanabe, T.'
+_cell_length_a 8.9055(18)
+_cell_length_b 11.0825(22)
+_cell_length_c 2.8524(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 281.52
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y, -z+1/2'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn3+ 3.5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.24670(13) 0.33975(10) 0.25 0.0109(5) 1. 0
+Mn1 Mn3+ 4 c 0.06764(6) 0.11327(4) 0.25 0.00691(17) 1. 0
+Mn2 Mn3+ 4 c 0.08285(5) 0.59752(4) 0.25 0.00612(16) 1. 0
+O1 O2- 4 c 0.2925(3) 0.6541(2) 0.25 0.0113(10) 1. 0
+O2 O2- 4 c 0.3817(3) 0.9803(2) 0.25 0.0121(10) 1. 0
+O3 O2- 4 c 0.4735(3) 0.1982(2) 0.25 0.0110(10) 1. 0
+O4 O2- 4 c 0.0729(3) 0.9146(2) 0.25 0.0104(9) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0091(5) 0.0116(5) 0.0121(5) -0.0020(4) 0 0
+Mn1 Mn3+ 0.00792(16) 0.00877(17) 0.00405(18) -0.00212(14) 0 0
+Mn2 Mn3+ 0.00697(16) 0.00735(15) 0.00404(18) 0.00062(13) 0 0
+O1 O2- 0.0090(9) 0.0155(11) 0.0093(10) 0.0017(8) 0 0
+O2 O2- 0.0151(11) 0.0123(10) 0.0089(10) -0.0025(8) 0 0
+O3 O2- 0.0165(11) 0.0077(8) 0.0089(10) -0.0016(8) 0 0
+O4 O2- 0.0104(9) 0.0124(9) 0.0084(10) -0.0020(8) 0 0
+#End of TTdata_172604-ICSD

@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_63015-ICSD
+_database_code_ICSD 63015
+_audit_creation_date 1989-06-19
+_chemical_name_systematic 'Potassium sodium hydroxo oxo borate hydrate * /3)'
+_chemical_formula_structural 'K1.67 Na0.33 B4 O5 (O H)4 (H2 O)3'
+_chemical_formula_sum 'H10 B4 K1.67 Na0.33 O12'
+_exptl_crystal_density_diffrn 1.82
+_publ_section_title
+
+;
+Crystal and molecular structure of a mixed alkalitetraborate trihydrate K1.67
+Na 0.33 B4 O5 (O H)4 (H2 O)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1988 183 51 61 ZEKRDZ
+loop_
+_publ_author_name
+'Smykalla, C.'
+'Behm, H.'
+_cell_length_a 11.278(8)
+_cell_length_b 11.278(8)
+_cell_length_c 15.806(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1741.07
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -6 2 c'
+_symmetry_Int_Tables_number 190
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+K1+ 1
+O2- -2
+B3+ 3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 6 h 0.52492(27) -.07839(23) 0.75 0.0412(10) 0.634(2) 0
+K2 K1+ 2 b 0 0 0.75 0.0436(7) 1. 0
+K3 K1+ 2 c 0.3333 0.6667 0.25 0.0182(4) 1. 0
+Na1 Na1+ 2 a 0 0 0.5 0.030(1) 1. 0
+K4 K1+ 6 h 0.66553(9) 0.00980(37) 0.25 0.0400(12) 0.366(2) 0
+O1 O2- 6 g 0.53275(23) 0 0 0.0097(8) 1. 0
+O2 O2- 12 i 0.36639(23) -.04758(20) 0.60868(11) 0.0162(7) 1. 0
+O3 O2- 12 i 0.29458(21) -.16002(22) 0.47419(13) 0.0164(7) 1. 0
+O4 O2- 12 i 0.86835(23) 0.46417(23) 0.87038(12) 0.0155(8) 1. 0
+O5 O2- 12 i 0.59233(27) -.15621(24) 0.90375(15) 0.0256(10) 1. 0
+O6 O2- 12 i 0.18935(35) 0.12337(36) 0.90264(24) 0.0415(13) 1. 0
+O7 O2- 6 h 0.26937(76) 0.06644(96) 0.25 0.0427(40) 0.634(2) 0
+O8 O2- 6 h 0.6765(26) -.2304(16) 0.25 0.092(12) 0.366(2) 0
+B1 B3+ 12 i 0.93730(29) 0.42809(31) 0.93394(19) 0.0107(10) 1. 0
+B2 B3+ 12 i 0.27458(33) -.15223(32) 0.55914(20) 0.0149(11) 1. 0
+H1 H1+ 12 i 0.189(6) -.335(6) 0.119(3) 0.048(16) 1. 0
+H2 H1+ 12 i 0.412 0.311 0.058 0.126(33) 1. 0
+H3 H1+ 12 i 0.821(6) 0.034(6) 0.084(4) 0.065(16) 1. 0
+H4 H1+ 12 i 0.082(11) -.116(12) 0.057(5) 0.134(42) 1. 0
+H5 H1+ 12 i 0.916(8) 0.241(7) 0.205(4) 0.031(19) 1. 0
+#End of TTdata_63015-ICSD

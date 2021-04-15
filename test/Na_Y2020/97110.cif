@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97110-ICSD
+_database_code_ICSD 97110
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Disodium phyllo-disilcate - C'
+_chemical_formula_structural 'Na2 (Si2 O5)'
+_chemical_formula_sum 'Na2 O5 Si2'
+_exptl_crystal_density_diffrn 2.55
+_publ_section_title
+
+;
+Structural characterization of high-pressure C-(Na2 Si2 O5) by single-crystal
+diffraction and (29)Si MAS NMR
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2002 29 477 484 PCMIDU
+loop_
+_publ_author_name
+'Rakic, S.'
+'Kahlenberg, V.'
+'Weidenthaler, C.'
+'Zibrowius, B.'
+_cell_length_a 4.8521(4)
+_cell_length_b 23.9793(16)
+_cell_length_c 8.1410(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90.15(1)
+_cell_angle_gamma 90
+_cell_volume 947.2
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0261
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 4 e 0.2961(2) 0.36325(4) 0.1966(1) 0.0146(2) 1. 0
+Si2 Si4+ 4 e 0.6843(2) 0.34077(4) 0.6429(1) 0.0145(2) 1. 0
+Si3 Si4+ 4 e 0.1831(2) 0.40821(4) 0.5373(1) 0.0145(2) 1. 0
+Si4 Si4+ 4 e 0.7948(2) 0.38941(4) -0.0185(1) 0.0152(2) 1. 0
+Na1 Na1+ 4 e 0.2299(3) 0.26138(6) 0.5247(2) 0.0244(3) 1. 0
+Na2 Na1+ 4 e 0.2743(3) 0.51408(5) 0.3548(2) 0.0215(3) 1. 0
+Na3 Na1+ 4 e 0.2534(3) 0.47281(5) 0.8981(2) 0.0225(3) 1. 0
+Na4 Na1+ 4 e 0.7548(3) 0.28108(5) 0.2783(2) 0.0229(4) 1. 0
+O1 O2- 4 e 0.1210(4) 0.3844(1) 0.0352(3) 0.0195(5) 1. 0
+O2 O2- 4 e 0.2339(4) 0.3015(1) 0.2523(3) 0.0199(6) 1. 0
+O3 O2- 4 e 0.6209(4) 0.3690(1) 0.1429(3) 0.0184(5) 1. 0
+O4 O2- 4 e 0.2440(4) 0.4105(1) 0.3392(3) 0.0182(5) 1. 0
+O5 O2- 4 e 0.7431(4) 0.3414(1) 0.8410(3) 0.0192(5) 1. 0
+O6 O2- 4 e 0.7456(4) 0.2819(1) 0.5655(3) 0.0184(5) 1. 0
+O7 O2- 4 e 0.3573(4) 0.3561(1) 0.6162(3) 0.0182(5) 1. 0
+O8 O2- 4 e 0.8577(4) 0.3920(1) 0.5597(3) 0.0180(5) 1. 0
+O9 O2- 4 e 0.2452(4) 0.4667(1) 0.6166(3) 0.0183(5) 1. 0
+O10 O2- 4 e 0.7336(4) 0.4511(1) -0.0767(3) 0.0195(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0136(4) 0.0166(5) 0.0135(5) 0.0002(4) 0.0012(3) -.0002(4)
+Si2 Si4+ 0.0134(5) 0.0156(5) 0.0145(5) 0.0002(4) -.0001(4) 0.0000(4)
+Si3 Si4+ 0.0132(5) 0.0156(5) 0.0147(5) 0.0002(4) 0.0008(4) 0.0003(4)
+Si4 Si4+ 0.0135(5) 0.0183(5) 0.0137(5) -.0001(4) -.0002(4) -.0003(4)
+Na1 Na1+ 0.0240(8) 0.0246(7) 0.0247(8) -.0009(8) -.0008(6) 0.0049(6)
+Na2 Na1+ 0.0215(7) 0.0208(7) 0.0221(8) -.0001(4) 0.0015(6) 0.0024(6)
+Na3 Na1+ 0.0219(7) 0.0248(8) 0.0208(8) -.0018(6) 0.0002(6) -.0031(6)
+Na4 Na1+ 0.0211(7) 0.0266(8) 0.0209(8) 0.0006(6) 0.0005(6) -.0027(6)
+O1 O2- 0.0165(12) 0.0243(12) 0.0176(13) -.0006(10) 0.0010(9) 0.0021(10)
+O2 O2- 0.0196(12) 0.0195(12) 0.0206(14) -.0007(9) -.0002(10) -.0018(10)
+O3 O2- 0.0172(12) 0.0221(12) 0.0159(12) -.0002(9) -.0011(9) 0.0006(10)
+O4 O2- 0.0204(12) 0.0182(12) 0.0159(13) -.0002(9) 0.0022(9) -.0002(10)
+O5 O2- 0.0220(12) 0.0189(12) 0.0166(13) -.0005(10) -.0006(9) 0.0015(10)
+O6 O2- 0.0194(12) 0.0179(12) 0.0179(14) 0.0001(9) 0.0002(9) -.0002(10)
+O7 O2- 0.0160(12) 0.0187(12) 0.0199(13) -.0004(9) -.0001(9) 0.0020(10)
+O8 O2- 0.0189(12) 0.0172(12) 0.0180(13) 0.0004(9) 0.0011(9) 0.0012(10)
+O9 O2- 0.0196(12) 0.0203(12) 0.0149(13) -.0004(10) 0.0002(10) -.0005(10)
+O10 O2- 0.0198(12) 0.0192(12) 0.0195(13) 0.0022(9) -.0002(9) -.0006(10)
+#End of TTdata_97110-ICSD

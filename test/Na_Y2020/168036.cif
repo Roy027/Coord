@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_168036-ICSD
+_database_code_ICSD 168036
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Sodium cadmium iron phosphate (1.99/0.76/2/3)'
+_chemical_formula_structural 'Na1.99 Cd0.76 Fe2 (P O4)3'
+_chemical_formula_sum 'Cd0.76 Fe2 Na1.99 O12 P3'
+_chemical_name_structure_type Alluaudite
+_chemical_name_mineral Unnamed_Alluaudite
+_exptl_crystal_density_diffrn 3.87
+_publ_section_title
+
+;
+An X-ray Rietveld and infrared spectral study of the Na2 (Mn1-x Mx(2+)) Fe(2+)
+Fe(3+) (P O4)3 (x= 0 to 1 and M(2+)= Mg, Cd) alluaudite-type solid solutions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2010 95 844 852 AMMIAY
+loop_
+_publ_author_name
+'Rondeux, M.'
+'Hatert, F.'
+_cell_length_a 12.144(2)
+_cell_length_b 12.612(2)
+_cell_length_c 6.490(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.38(1)
+_cell_angle_gamma 90.
+_cell_volume 905.37
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0227
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cd2+ 2
+Na1+ 1
+Fe2+ 2.745
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 -0.0125(8) 0.25 1. 0.752(14) 0
+Na2 Na1+ 4 b 0.5 0 0 1. 0.906(4) 0
+Cd1 Cd2+ 4 b 0.5 0 0 1. 0.094(4) 0
+Cd2 Cd2+ 4 e 0 0.2689(2) 0.25 1. 0.670(8) 0
+Na3 Na1+ 4 e 0 0.2689(2) 0.25 1. 0.330(8) 0
+Fe1 Fe2+ 8 f 0.2758(3) 0.6569(2) 0.3598(5) 1. 1. 0
+P1 P5+ 4 e 0 -0.2780(5) 0.25 1.5(1) 1. 0
+P2 P5+ 8 f 0.2393(4) -0.1029(4) 0.1346(9) 1.5(1) 1. 0
+O1 O2- 8 f 0.4548(8) 0.7040(7) 0.540(1) 1.9(2) 1. 0
+O2 O2- 8 f 0.0976(7) 0.6456(6) 0.230(1) 1.9(2) 1. 0
+O3 O2- 8 f 0.3208(7) 0.6568(6) 0.102(1) 1.9(2) 1. 0
+O4 O2- 8 f 0.1239(7) 0.4143(6) 0.321(1) 1.9(2) 1. 0
+O5 O2- 8 f 0.2344(7) 0.8251(7) 0.332(2) 1.9(2) 1. 0
+O6 O2- 8 f 0.3271(6) 0.5029(7) 0.386(1) 1.9(2) 1. 0
+#End of TTdata_168036-ICSD

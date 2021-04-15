@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243836-ICSD
+_database_code_ICSD 243836
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium bismuth cadmium titanate(IV)'
+_chemical_formula_structural '((Na Bi)0.5 Ti O3)0.4 (Cd Ti O3)0.6'
+_chemical_formula_sum 'Bi0.2 Cd0.6 Na0.2 O3 Ti1'
+_exptl_crystal_density_diffrn 6.16
+_publ_section_title
+
+;
+Novel octahedral tilt system a+b+c+ in (1 - x)Na0.5Bi0.5TiO3-xCdTiO3 solid
+solutions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Science' 2017 52 7149 7157 JMTSAS
+loop_
+_publ_author_name
+'Ignatans, R.'
+'Dunce, M.'
+'Birks, E.'
+'Sternberg, A.'
+_cell_length_a 7.64794(10)
+_cell_length_b 7.665550(99)
+_cell_length_c 7.712358(77)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 452.15
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I m m 2'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0131
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Bi3+ 3
+Cd2+ 2
+Na1+ 1
+Bi3+ 3
+Cd2+ 2
+Na1+ 1
+Bi3+ 3
+Cd2+ 2
+Na1+ 1
+Bi3+ 3
+Cd2+ 2
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0 1.582(13) 0.2 0
+Bi1 Bi3+ 2 a 0 0 0 1.582(13) 0.2 0
+Cd1 Cd2+ 2 a 0 0 0 1.582(13) 0.6 0
+Na2 Na1+ 2 a 0 0 0.53633(85) 1.582(13) 0.2 0
+Bi2 Bi3+ 2 a 0 0 0.53633(85) 1.582(13) 0.2 0
+Cd2 Cd2+ 2 a 0 0 0.53633(85) 1.582(13) 0.6 0
+Na3 Na1+ 2 b 0 0.5 0.02520(53) 1.582(13) 0.2 0
+Bi3 Bi3+ 2 b 0 0.5 0.02520(53) 1.582(13) 0.2 0
+Cd3 Cd2+ 2 b 0 0.5 0.02520(53) 1.582(13) 0.6 0
+Na4 Na1+ 2 b 0 0.5 0.49148(83) 1.582(13) 0.2 0
+Bi4 Bi3+ 2 b 0 0.5 0.49148(83) 1.582(13) 0.2 0
+Cd4 Cd2+ 2 b 0 0.5 0.49148(83) 1.582(13) 0.6 0
+Ti1 Ti4+ 8 e 0.25944(53) 0.24280(33) 0.25159(59) 0.112(29) 1. 0
+O1 O2- 8 e 0.2085(12) 0.2887(12) -0.01245(74) 1.761(66) 1. 0
+O2 O2- 4 c 0.2806(12) 0 0.19602(83) 1.761(66) 1. 0
+O3 O2- 4 c 0.2892(10) 0 0.7567(25) 1.761(66) 1. 0
+O4 O2- 4 d 0 0.77521(99) 0.3257(11) 1.761(66) 1. 0
+O5 O2- 4 d 0 0.7832(10) 0.7494(21) 1.761(66) 1. 0
+#End of TTdata_243836-ICSD

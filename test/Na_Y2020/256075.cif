@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_256075-ICSD
+_database_code_ICSD 256075
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Sodium tin bismuth sulfide (1.04/1.84/5.11/10)'
+_chemical_formula_structural 'Na1.04 Sn1.84 Bi5.11 S10'
+_chemical_formula_sum 'Bi5.11 Na1.04 S10 Sn1.84'
+_exptl_crystal_density_diffrn 6.
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Quaternary pavonites A1+xSn2-xBi5+xS10 (A+ = Li+, Na+). Site occupancy
+disorder defines electronic structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 2260 2268 INOCAJ
+loop_
+_publ_author_name
+'Khoury, Jason F.'
+'Hao, Shiqiang'
+'Stoumpos, Constantinos C.'
+'Yao, Zhenpeng'
+'Malliakas, Christos D.'
+'Aydemir, Umut'
+'Slade, Tyler J.'
+'Snyder, G.Jeffrey'
+'Wolverton, Chris'
+'Kanatzidis, Mercouri G.'
+_cell_length_a 13.311(3)
+_cell_length_b 4.0470(8)
+_cell_length_c 16.794(3)
+_cell_angle_alpha 90
+_cell_angle_beta 93.64(3)
+_cell_angle_gamma 90
+_cell_volume 902.86
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0675
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Sn2+ 2
+Bi3+ 3
+Sn2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 i 0.23816(12) 1. 0.11388(11) 0.0171(7) 0.844(15) 0
+Na1 Na1+ 4 i 0.23816(12) 1. 0.11388(11) 0.0171(7) 0.156(15) 0
+Bi2 Bi3+ 4 i 0.47020(13) 0.5 0.21494(11) 0.0178(7) 0.839(15) 0
+Na2 Na1+ 4 i 0.47020(13) 0.5 0.21494(11) 0.0178(7) 0.161(15) 0
+Bi3 Bi3+ 4 i 0.71807(16) 0. 0.38646(14) 0.0293(8) 0.794(14) 0
+Na3 Na1+ 4 i 0.71807(16) 0. 0.38646(14) 0.0293(8) 0.206(14) 0
+Sn1 Sn2+ 2 c 0.5 0.5 0.5 0.0153(9) 0.84 0
+Bi4 Bi3+ 2 c 0.5 0.5 0.5 0.0153(9) 0.16 0
+Sn2 Sn2+ 2 b 0. 0.5 0. 0.0200(11) 1 0
+S1 S2- 4 i 0.3678(6) 0.5 0.0537(6) 0.0138(19) 1 0
+S2 S2- 4 i 0.6490(7) 0. 0.5304(6) 0.015(2) 1 0
+S3 S2- 4 i 0.5806(8) 0.5 0.3546(6) 0.023(2) 1 0
+S4 S2- 4 i 0.1066(8) 0.5 0.1571(8) 0.030(3) 1 0
+S5 S2- 4 i 0.3418(7) 1. 0.2557(6) 0.019(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0150(9) 0.0156(10) 0.0208(11) 0. 0.0029(6) 0.
+Na1 Na1+ 0.0150(9) 0.0156(10) 0.0208(11) 0. 0.0029(6) 0.
+Bi2 Bi3+ 0.0204(10) 0.0141(10) 0.0194(11) 0. 0.0058(7) 0.
+Na2 Na1+ 0.0204(10) 0.0141(10) 0.0194(11) 0. 0.0058(7) 0.
+Bi3 Bi3+ 0.0285(12) 0.0276(13) 0.0329(14) 0. 0.0096(8) 0.
+Na3 Na1+ 0.0285(12) 0.0276(13) 0.0329(14) 0. 0.0096(8) 0.
+Sn1 Sn2+ 0.0158(16) 0.0103(17) 0.0189(18) 0. -0.0066(12) 0.
+Bi4 Bi3+ 0.0158(16) 0.0103(17) 0.0189(18) 0. -0.0066(12) 0.
+Sn2 Sn2+ 0.0166(18) 0.018(2) 0.026(2) 0. 0.0037(15) 0.
+S1 S2- 0.012(4) 0.014(5) 0.015(5) 0. 0.002(3) 0.
+S2 S2- 0.017(4) 0.014(5) 0.015(5) 0. 0.000(3) 0.
+S3 S2- 0.025(5) 0.018(5) 0.023(6) 0. -0.010(4) 0.
+S4 S2- 0.026(5) 0.020(6) 0.046(8) 0. 0.021(5) 0.
+S5 S2- 0.016(4) 0.025(6) 0.017(5) 0. 0.004(4) 0.
+#End of TTdata_256075-ICSD

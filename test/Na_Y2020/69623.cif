@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69623-ICSD
+_database_code_ICSD 69623
+_audit_creation_date 1992-08-20
+_chemical_name_systematic 'Sodium hexafluorogermanate'
+_chemical_formula_structural 'Na2 (Ge F6)'
+_chemical_formula_sum 'F6 Ge1 Na2'
+_chemical_name_structure_type Na2SiF6
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title
+
+;
+Zur Synthese von Einkristallen komplexer Fluoride der Halbmetalle auf
+trockenem Wege: Li2(GeF6) und Na2(GeF6)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1990
+582 111 120 ZAACAB
+loop_
+_publ_author_name
+'Averdunk, F.'
+'Hoppe, R.'
+_cell_length_a 9.0576(6)
+_cell_length_b 9.0576(6)
+_cell_length_c 5.1071(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 362.85
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 3 2 1'
+_symmetry_Int_Tables_number 150
+_refine_ls_R_factor_all 0.092
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 1 a 0 0 0 . 1. 0
+Ge2 Ge4+ 2 d 0.3333 0.6667 0.4954(2) . 1. 0
+Na1 Na1+ 3 f 0.7134(4) 0 0.5 . 1. 0
+Na2 Na1+ 3 e 0.3779(4) 0 0 . 1. 0
+F1 F1- 6 g 0.4798(5) 0.2218(6) 0.3012(7) . 1. 0
+F2 F1- 6 g 0.4089(6) 0.5572(6) 0.2945(7) . 1. 0
+F3 F1- 6 g 0.1864(5) 0.0820(6) 0.8012(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0131(4) 0.0131(4) 0.0177(7) 0.0066(12) 0 0
+Ge2 Ge4+ 0.0127(3) 0.0127(3) 0.0152(4) 0.0063(1) 0 0
+Na1 Na1+ 0.0187(12) 0.0149(14) 0.0305(16) 0.0075(7) -.0029(7) -.0057(13)
+Na2 Na1+ 0.0148(11) 0.0190(14) 0.0152(13) 0.0095(7) 0.0008(6) 0.0016(12)
+F1 F1- 0.0172(13) 0.0190(16) 0.0286(14) 0.0101(12) 0.0057(12) -.0004(14)
+F2 F1- 0.0359(17) 0.0273(16) 0.0269(14) 0.0230(13) 0.0060(14) 0.0017(14)
+F3 F1- 0.0237(14) 0.0341(16) 0.0298(14) 0.0132(14) 0.0126(12) 0.0222(16)
+#End of TTdata_69623-ICSD

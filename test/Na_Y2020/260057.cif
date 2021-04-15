@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260057-ICSD
+_database_code_ICSD 260057
+_audit_creation_date 2009-02-01
+_chemical_name_systematic
+'Disodium tricopper(II) tetrakis(selenate(IV)) tetrahydrate'
+_chemical_formula_structural 'Na2 Cu3 (Se O3)4 (H2 O)4'
+_chemical_formula_sum 'H8 Cu3 Na2 O16 Se4'
+_exptl_crystal_density_diffrn 3.66
+_cell_measurement_temperature 296.
+_publ_section_title 'Disodium tricopper(II) tetrakis[selenate(IV)] tetrahydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2008 64
+i78 i78 ACSEBH
+loop_
+_publ_author_name
+'Liu Wei'
+'Zhang Lan'
+'Hu Kai'
+'Cao Li Xin'
+'Su Ge'
+'Zhao Jing Tai'
+_cell_length_a 5.2218(5)
+_cell_length_b 8.9863(6)
+_cell_length_c 15.7960(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.071(4)
+_cell_angle_gamma 90.
+_cell_volume 740.74
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0328
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+Cu2+ 2
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 4 e 0.20254(7) 0.28287(4) 0.09687(2) 0.01090(10) 1 0
+Se2 Se4+ 4 e -0.79415(7) 0.53958(5) 0.27304(2) 0.01476(11) 1 0
+Cu1 Cu2+ 2 a 0. 0. 0. 0.01381(14) 1 0
+Cu2 Cu2+ 4 e -0.29891(8) 0.42910(6) 0.17116(3) 0.01266(11) 1 0
+O1 O2- 4 e -1.0733(5) 0.4403(4) 0.27181(18) 0.0207(6) 1 0
+O2 O2- 4 e -0.0088(5) 0.4276(3) 0.09497(18) 0.0153(5) 1 0
+O3 O2- 4 e -0.5831(5) 0.4016(3) 0.24757(18) 0.0165(5) 1 0
+O4 O2- 4 e 0.1289(6) 0.2058(3) 0.00011(18) 0.0166(5) 1 0
+O5 O2- 4 e -0.3653(7) 0.6725(4) 0.1392(2) 0.0209(6) 1 0
+O6 O2- 4 e 0.2781(6) -0.0756(4) 0.07804(19) 0.0199(6) 1 0
+O7 O2- 4 e 0.4702(5) 0.3793(3) 0.07309(17) 0.0149(5) 1 0
+O8 O2- 4 e -0.7371(6) 0.5600(4) 0.3773(2) 0.0272(7) 1 0
+Na1 Na1+ 4 e 0.7415(3) 0.3619(2) -0.04070(11) 0.0226(4) 1 0
+H1 H1+ 4 e -0.277(15) 0.707(9) 0.104(5) 0.05 1 0
+H2 H1+ 4 e -0.372(14) 0.748(9) 0.174(5) 0.05 1 0
+H3 H1+ 4 e 0.226(15) -0.063(9) 0.131(5) 0.05 1 0
+H4 H1+ 4 e 0.437(15) -0.049(9) 0.088(5) 0.05 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se4+ 0.01040(17) 0.01286(18) 0.00949(17) -0.00189(12) 0.00133(12)
+-0.00064(12)
+Se2 Se4+ 0.01172(18) 0.0176(2) 0.01500(18) 0.00083(13) 0.00180(13) -0.00071(14)
+Cu1 Cu2+ 0.0139(3) 0.0124(3) 0.0149(3) -0.0023(2) -0.0030(2) -0.0004(2)
+Cu2 Cu2+ 0.0085(2) 0.0195(2) 0.0101(2) 0.00022(17) 0.00143(15) -0.00087(17)
+O1 O2- 0.0097(12) 0.0415(19) 0.0110(12) -0.0042(12) 0.0007(10) -0.0034(12)
+O2 O2- 0.0107(12) 0.0208(14) 0.0146(12) 0.0036(10) 0.0042(10) 0.0019(11)
+O3 O2- 0.0137(12) 0.0207(14) 0.0152(12) 0.0002(11) 0.0044(10) 0.0009(11)
+O4 O2- 0.0211(14) 0.0166(13) 0.0121(12) -0.0080(11) 0.0015(10) -0.0022(10)
+O5 O2- 0.0298(16) 0.0117(14) 0.0215(15) -0.0011(12) 0.0048(13) -0.0013(11)
+O6 O2- 0.0177(14) 0.0280(17) 0.0138(13) 0.0011(12) -0.0030(11) -0.0043(12)
+O7 O2- 0.0099(11) 0.0215(14) 0.0135(12) -0.0054(10) 0.0010(9) -0.0021(11)
+O8 O2- 0.0190(14) 0.045(2) 0.0176(14) -0.0028(14) 0.0012(12) -0.0149(14)
+Na1 Na1+ 0.0193(8) 0.0307(10) 0.0177(8) 0.0015(7) 0.0015(6) 0.0005(7)
+#End of TTdata_260057-ICSD

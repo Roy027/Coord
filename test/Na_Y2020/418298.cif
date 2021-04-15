@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_418298-ICSD
+_database_code_ICSD 418298
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Sodium thiosulfato(II)argentate(I) monohydrate'
+_chemical_formula_structural 'Na Ag (S2 O3) (H2 O)'
+_chemical_formula_sum 'H2 Ag1 Na1 O4 S2'
+_chemical_name_structure_type NaAgS2O3H2O
+_exptl_crystal_density_diffrn 3.2
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Structural characterization of some coinage metal(I) thiosulfate complexes,
+Ma1 Mb2 (Xc) (S2 O3)d (* eS) (M1 = group 1 cation, X = univalent anion, M2 =
+Cu(I), Ag(I), S = solvent)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2008
+634 2825 2844 ZAACAB
+loop_
+_publ_author_name
+'Chan, E.J.'
+'Skelton, B.W.'
+'White, A.H.'
+_cell_length_a 7.7614(3)
+_cell_length_b 9.1009(4)
+_cell_length_c 7.7219(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.5910(10)
+_cell_angle_gamma 90.
+_cell_volume 541.84
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 c 1'
+_symmetry_Int_Tables_number 7
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ag1+ 1
+S4+ 4
+S0+ 0
+O2- -2
+S4+ 4
+S0+ 0
+O2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ag1 Ag1+ 2 a 1. .04860(3) 1. .02053(10) 1. 0
+Ag2 Ag1+ 2 a .49191(4) -.06231(3) .70094(5) .01766(10) 1. 0
+S1 S4+ 2 a .66941(9) .29809(7) .89612(9) .0096(2) 1. 0
+S2 S0+ 2 a .67828(10) .07726(8) .95322(10) .0124(2) 1. 0
+O1 O2- 2 a .7037(3) .3172(3) .7145(3) .0145(8) 1. 0
+O2 O2- 2 a .4933(3) .3492(3) .9168(3) .0140(8) 1. 0
+O3 O2- 2 a .7994(3) .3702(3) 1.0180(3) .0163(8) 1. 0
+S3 S4+ 2 a .17331(9) -.29672(7) .86203(9) .0105(2) 1. 0
+S4 S0+ 2 a .18896(10) -.07954(8) .79054(11) .0134(2) 1. 0
+O4 O2- 2 a .2035(3) -.3850(2) .7086(3) .0146(8) 1. 0
+O5 O2- 2 a .3065(3) -.3208(3) 1.0084(3) .0159(8) 1. 0
+O6 O2- 2 a -.0017(3) -.3235(3) .9087(3) .0169(8) 1. 0
+Na1 Na1+ 2 a .95861(18) .44424(14) .67343(18) .0141(5) 1. 0
+Na2 Na1+ 2 a .46555(17) -.48802(15) .66357(17) .0142(5) 1. 0
+O7 O2- 2 a 1.1292(3) .2866(3) .8577(3) .0160(8) 1. 0
+O8 O2- 2 a .6272(3) -.3043(3) .8372(3) .0148(8) 1. 0
+H1 H1+ 2 a 1.13363 .29208 .96832 .024 1. 0
+H2 H1+ 2 a 1.225 .28948 .82995 .024 1. 0
+H3 H1+ 2 a .62084 -.29654 .94492 .022 1. 0
+H4 H1+ 2 a .73773 -.29763 .8154 .022 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag1 Ag1+ .01648(10) .01538(10) .02946(13) .00209(8) .00145(8) -.00377(8)
+Ag2 Ag1+ .01886(10) .01456(9) .02039(10) -.00089(7) .00579(8) -.00176(7)
+S1 S4+ .0092(2) .0099(2) .0097(2) -.00058(18) .00136(18) -.00015(17)
+S2 S0+ .0129(2) .0093(2) .0153(3) -.0002(2) .0027(2) -.0003(2)
+O1 O2- .0144(8) .0189(10) .0109(8) -.0009(7) .0041(6) .0027(6)
+O2 O2- .0122(8) .0146(8) .0154(8) .0027(7) .0032(7) .0001(6)
+O3 O2- .0162(9) .0139(9) .0176(9) -.0037(7) -.0028(7) -.0028(7)
+S3 S4+ .0096(2) .0100(2) .0119(2) -.0001(2) .00170(18) .00130(18)
+S4 S0+ .0149(3) .0096(2) .0161(3) .0010(2) .0036(2) .0008(2)
+O4 O2- .0170(9) .0111(8) .0160(8) .0008(7) .0031(7) -.0019(6)
+O5 O2- .0133(8) .0192(10) .0145(9) .0013(7) -.0019(7) .0038(7)
+O6 O2- .0115(8) .0209(10) .0189(9) -.0011(7) .0040(7) .0047(8)
+Na1 Na1+ .0133(5) .0133(5) .0153(5) -.0009(4) .0002(4) .0016(4)
+Na2 Na1+ .0149(5) .0133(5) .0140(5) .0010(4) .0005(4) .0013(4)
+O7 O2- .0133(8) .0150(9) .0197(9) -.0005(7) .0017(7) .0023(7)
+O8 O2- .0142(8) .0167(9) .0139(8) .0003(7) .0028(7) .0016(6)
+#End of TTdata_418298-ICSD

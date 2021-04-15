@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249782-ICSD
+_database_code_ICSD 249782
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Sodium sulfate octahydrate'
+_chemical_formula_structural 'Na2 (S O4) (H2 O)8'
+_chemical_formula_sum 'H16 Na2 O12 S1'
+_exptl_crystal_density_diffrn 1.81
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+In situ characterization of elusive salt hydrates - The crystal structures of
+the heptahydrate and octahydrate of sodium sulfate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2008 130 17795 17800 JACSAT
+loop_
+_publ_author_name
+'Oswald, I.D.H.'
+'Hamilton, A.'
+'Hall, C.'
+'Marshall, W.G.'
+'Prior, T.J.'
+'Pulham, C.R.'
+_cell_length_a 7.8865(14)
+_cell_length_b 8.096(8)
+_cell_length_c 8.2521(13)
+_cell_angle_alpha 85.73(3)
+_cell_angle_beta 86.239(15)
+_cell_angle_gamma 88.59(3)
+_cell_volume 524.19
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0725
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+S6+ 6
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0. 0. 0. 0.0226(14) 1. 0
+O1 O2- 2 i 0.3022(7) -0.009(2) 0.0232(7) 0.0236(17) 1. 0
+O2 O2- 2 i -0.0137(7) 0.2940(19) 0.0016(7) 0.0211(17) 1. 0
+O3 O2- 2 i 0.0059(7) -0.015(2) 0.2987(7) 0.0267(17) 1. 0
+O4 O2- 2 i 0.3226(7) 0.116(2) 0.6949(7) 0.0235(17) 1. 0
+O5 O2- 2 i 0.3907(7) 0.177(2) 0.2870(7) 0.0235(17) 1. 0
+O6 O2- 2 i 0.7277(8) 0.201(2) 0.5584(8) 0.036(2) 1. 0
+O7 O2- 2 i 0.3697(7) 0.446(2) 0.3940(6) 0.0175(15) 1. 0
+O8 O2- 2 i 0.2791(8) 0.673(2) 0.7691(7) 0.032(2) 1. 0
+O9 O2- 2 i 0.5328(8) 0.312(2) 0.9043(7) 0.0271(18) 1. 0
+O10 O2- 2 i 0.0579(7) 0.405(2) 0.6830(7) 0.0248(17) 1. 0
+S1 S6+ 2 i 0.2890(2) 0.3287(7) 0.2970(2) 0.0132(8) 1. 0
+O11 O2- 2 i 0.1169(7) 0.290(2) 0.3693(7) 0.0223(17) 1. 0
+O12 O2- 2 i 0.2732(7) 0.411(2) 0.1292(6) 0.0189(17) 1. 0
+Na2 Na1+ 1 f 0.5 0. 0.5 0.0255(14) 1. 0
+Na3 Na1+ 2 i 0.3651(4) 0.4096(12) 0.6794(4) 0.0225(11) 1. 0
+H1 H1+ 2 i 0.3491 0.06 0.7914 0.0399 1. 0
+H2 H1+ 2 i 0.3642 0.7472 0.7569 0.0412 1. 0
+H3 H1+ 2 i 0.4583 0.3326 0.976 0.0451 1. 0
+H4 H1+ 2 i 0.0299 0.0883 0.3101 0.0341 1. 0
+H5 H1+ 2 i 0.2015 0.687 0.8394 0.054 1. 0
+H6 H1+ 2 i 0.0726 -0.0804 0.3458 0.0422 1. 0
+H7 H1+ 2 i 0.2169 0.1044 0.6797 0.0399 1. 0
+H8 H1+ 2 i 0.5913 0.3949 0.9314 0.05 1. 0
+H9 H1+ 2 i 0.3093 0.0599 0.0958 0.05 1. 0
+H10 H1+ 2 i 0.0713 0.3295 0.0384 0.05 1. 0
+H11 H1+ 2 i 0.3346 -0.1104 0.082 0.05 1. 0
+H12 H1+ 2 i -0.0219 0.3564 -0.098 0.05 1. 0
+H13 H1+ 2 i -0.0062 0.491 0.673 0.05 1. 0
+H14 H1+ 2 i 0.7259 0.2385 0.4628 0.05 1. 0
+H15 H1+ 2 i 0.0501 0.3691 0.5832 0.05 1. 0
+H16 H1+ 2 i 0.7119 0.2979 0.5918 0.05 1. 0
+#End of TTdata_249782-ICSD

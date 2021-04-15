@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37021-ICSD
+_database_code_ICSD 37021
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Sodium phosphate hemihydrate'
+_chemical_formula_structural 'Na3 P O4 (H2 O).5'
+_chemical_formula_sum 'H1 Na3 O4.5 P1'
+_exptl_crystal_density_diffrn 2.66
+_publ_section_title 'Crystal Structure of Na3 P O4 (H2 O).5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1983 46 193 196 JSSCBI
+loop_
+_publ_author_name
+'Averbuch-Pouchot, M.T.'
+'Durif, A.'
+_cell_length_a 9.631(3)
+_cell_length_b 5.416(2)
+_cell_length_c 16.938(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.60(5)
+_cell_angle_gamma 90.
+_cell_volume 862.23
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 8 f 0.15691(4) 0.38662(7) 0.11307(2) . 1. 0
+Na1 Na1+ 8 f 0.18100(8) 0.5305(1) 0.95193(4) . 1. 0
+Na2 Na1+ 8 f 0.00084(9) 0.0973(2) 0.59730(5) . 1. 0
+Na3 Na1+ 8 f 0.64975(7) 0.1680(1) 0.78490(4) . 1. 0
+O1 O2- 4 e 0 0.9551(3) 0.25 . 1. 0
+O2 O2- 8 f 0.1013(1) 0.2354(2) 0.03580(7) . 1. 0
+O3 O2- 8 f 0.0324(1) 0.5265(2) 0.64902(7) . 1. 0
+O4 O2- 8 f 0.7564(1) 0.2800(2) 0.67431(7) . 1. 0
+O5 O2- 8 f 0.7412(1) 0.1124(2) 0.09349(7) . 1. 0
+H1 H1+ 8 f 0.429(3) 0.357(6) 0.229(2) 3.1 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+P1 P5+ 0.00201(2) 0.00548(7) 0.00068(1) -.0002(1) 0.00025(1) 0.00003(6)
+Na1 Na1+ 0.00498(6) 0.0105(2) 0.00098(2) -.0023(2) 0.00021(6) 0.0006(1)
+Na2 Na1+ 0.00688(8) 0.0122(2) 0.00142(2) 0.00285(20) 0.00049(7) -.00015(10)
+Na3 Na1+ 0.00377(6) 0.0110(2) 0.00092(2) 0.0004(2) 0.00036(5) 0.00015(10)
+O1 O2- 0.00397(15) 0.0081(4) 0.00217(6) 0 0.00016(16) 0
+O2 O2- 0.00512(11) 0.0090(3) 0.00085(3) -.00245(30) 0.00037(9) -.00055(20)
+O3 O2- 0.00283(9) 0.0149(3) 0.00110(3) -.00185(30) 0.000645(80) -.0004(2)
+O4 O2- 0.00343(9) 0.0111(3) 0.00125(3) -.00215(30) 0.00026(9) -.00105(20)
+O5 O2- 0.00499(10) 0.0092(3) 0.00098(3) -.0035(3) 0.000375(90) 0.00015(20)
+#End of TTdata_37021-ICSD

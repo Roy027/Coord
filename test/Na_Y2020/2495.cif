@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2495-ICSD
+_database_code_ICSD 2495
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium hydrogen cyanamide'
+_chemical_formula_structural 'Na H N C N'
+_chemical_formula_sum 'C1 H1 N2 Na1'
+_exptl_crystal_density_diffrn 1.79
+_publ_section_title
+
+;
+Alkali metal salts of cyanamide: crystal and anion structure of the monosodium
+salt of cyanamide
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Research, Synopses' 1978 1978 432 433 JRPSDC
+loop_
+_publ_author_name
+'Barker, M.G.'
+'Harper, A.'
+'Hubberstey, P.'
+_cell_length_a 3.531(3)
+_cell_length_b 10.358(5)
+_cell_length_c 6.486(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 237.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c m'
+_symmetry_Int_Tables_number 57
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, y+1/2, z'
+3 'x, y, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+N3- -3
+C4+ 4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.2378(2) 0.25 0 . 1. 0
+N1 N3- 4 d 0.6967(4) 0.3450(1) 0.25 . 1. 0
+N2 N3- 4 d 0.8870(4) 0.5736(1) 0.25 . 1. 0
+C1 C4+ 4 d 0.7991(4) 0.4538(1) 0.25 . 1. 0
+H1 H1+ 4 d 0.14(1) 0.580(3) 0.25 0.13 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0273(3) 0.0224(3) 0.0193(3) 0 0 0.0001(2)
+N1 N3- 0.0236(5) 0.0193(5) 0.0267(5) -.0021(4) 0 0
+N2 N3- 0.0281(5) 0.0153(4) 0.0286(6) -.0001(4) 0 0
+C1 C4+ 0.0183(5) 0.0182(5) 0.0172(5) 0.0026(4) 0 0
+#End of TTdata_2495-ICSD

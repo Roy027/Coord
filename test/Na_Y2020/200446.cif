@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200446-ICSD
+_database_code_ICSD 200446
+_audit_creation_date 1980-01-01
+_audit_update_record 1998-06-29
+_chemical_name_systematic 'Sodium potassium alumosilicate *'
+_chemical_formula_structural 'K0.24 Na6.00 Al6.24 Si9.76 O32'
+_chemical_formula_sum 'Al6.24 K0.24 Na6 O32 Si9.76'
+_chemical_name_structure_type KNa3Al4(SiO4)4
+_chemical_name_mineral 'Nepheline (Si-rich)'
+_exptl_crystal_density_diffrn 2.55
+_publ_section_title
+'The crystal chemistry of silica-rich, alkali-deficient nepheline'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Contributions to Mineralogy and Petrology' 1978 66 311 318 CMPEAP
+loop_
+_publ_author_name
+'Dollase, W.A.'
+'Thomas, W.M.'
+_cell_length_a 9.964(10)
+_cell_length_b 9.964(10)
+_cell_length_c 8.360(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 718.79
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.063
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 a 0 0 0.24(1) 2. 0.125(3) 0
+Na1 Na1+ 6 c 0.9965(11) 0.4418(9) 0.2446(19) 2. 1. 0
+Si1 Si4+ 2 b 0.33333 0.66667 0.4426(20) 1. 0.61 0
+Al1 Al3+ 2 b 0.33333 0.66667 0.4426(20) 1. 0.39 0
+Si2 Si4+ 2 b 0.33333 0.66667 0.0561(20) 1. 0.61 0
+Al2 Al3+ 2 b 0.33333 0.66667 0.0561(20) 1. 0.39 0
+Si3 Si4+ 6 c 0.0938(9) 0.3310(13) 0.5638 1. 0.61 0
+Al3 Al3+ 6 c 0.0938(9) 0.3310(13) 0.5638 1. 0.39 0
+Si4 Si4+ 6 c 0.0941(10) 0.3320(16) 0.9370(7) 1. 0.61 0
+Al4 Al3+ 6 c 0.0941(10) 0.3320(16) 0.9370(7) 1. 0.39 0
+O1 O2- 6 c 0.280(4) 0.632(8) 0.249(6) 2. 0.33 0
+O2 O2- 6 c 0.0288(16) 0.3151(17) 0.7462(27) 2. 1. 0
+O3 O2- 6 c 0.1717(24) 0.5192(23) 0.9728(22) 2. 1. 0
+O4 O2- 6 c 0.1706(23) 0.5138(25) 0.4826(20) 2. 1. 0
+O5 O2- 6 c 0.2340(29) 0.2870(24) 0.5600(31) 2. 1. 0
+O6 O2- 6 c 0.2248(27) 0.2742(25) 0.9414(32) 2. 1. 0
+#End of TTdata_200446-ICSD

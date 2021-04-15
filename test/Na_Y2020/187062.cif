@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_187062-ICSD
+_database_code_ICSD 187062
+_audit_creation_date 2013-08-01
+_chemical_name_systematic
+'Bismuth lanthanum sodium niobium oxide (2/0.5/0.5/2/9)'
+_chemical_formula_structural '(Bi2 La0.5 Na0.5) (Nb2 O9)'
+_chemical_formula_sum 'Bi2 La0.5 Na0.5 Nb2 O9'
+_chemical_name_structure_type TiNbBi3O9
+_exptl_crystal_density_diffrn 7.36
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Effect of lanthanum and tungsten co-substitution on the structure and
+properties of new Aurivillius oxides Na0.5 La0.5 Bi2 Nb2-x Wx O9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary CrystEngComm 2012 14 7201 7208 CRECF4
+loop_
+_publ_author_name
+'Long, Changbai'
+'Fan, Huiqing'
+'Li, Mengmeng'
+'Li, Qiang'
+_cell_length_a 5.49254(12)
+_cell_length_b 5.47896(13)
+_cell_length_c 24.8632(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 748.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A 21 a m'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.0876
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 'x+1/2, -y, -z'
+3 'x, y, -z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 'x, y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+La3+ 3
+Bi3+ 3
+Na1+ 1
+La3+ 3
+Bi3+ 3
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0. 0.2397(14) 0. 0.0060(7) 0.4538(24) 0
+La1 La3+ 4 a 0. 0.2397(14) 0. 0.0060(7) 0.361(7) 0
+Bi1 Bi3+ 4 a 0. 0.2397(14) 0. 0.0060(7) 0.185(7) 0
+Na2 Na1+ 8 b 0.5087(8) 0.7342(4) 0.20003(5) 0.02046(22) 0.0231(12) 0
+La2 La3+ 8 b 0.5087(8) 0.7342(4) 0.20003(5) 0.02046(22) 0.0693(33) 0
+Bi2 Bi3+ 8 b 0.5087(8) 0.7342(4) 0.20003(5) 0.02046(22) 0.9076(35) 0
+Nb1 Nb5+ 8 b 0.4807(8) 0.7473(12) 0.41520(7) 0.0046(5) 1. 0
+O1 O2- 4 a 0.448(6) 0.222(9) 0. 0.0229(28) 1. 0
+O2 O2- 8 b 0.455(5) 0.796(5) 0.3449(6) 0.0229(28) 1. 0
+O3 O2- 8 b 0.756(12) -0.024(10) 0.2450(12) 0.0229(28) 1. 0
+O4 O2- 8 b 0.672(5) 0.992(6) 0.0871(7) 0.0229(28) 1. 0
+O5 O2- 8 b 0.761(9) 0.971(7) 0.5724(6) 0.0229(28) 1. 0
+#End of TTdata_187062-ICSD

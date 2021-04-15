@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240263-ICSD
+_database_code_ICSD 240263
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Sodium vanadium oxide phosphate - beta'
+_chemical_formula_structural 'Na4 (V O) (P O4)2'
+_chemical_formula_sum 'Na4 O9 P2 V1'
+_exptl_crystal_density_diffrn 2.84
+_publ_section_title
+
+;
+Crystal Structure, Polymorphism and Properties of the New Vanadylphosphate
+Na4VO(PO4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2004 16 1048 1055 CMATEX
+loop_
+_publ_author_name
+'Panin, R. V.'
+'Shpanchenko, R.V.'
+'Mironov, A.V.'
+'Velikodny, Y A.'
+'Antipov, E.V.'
+'Hadermann, J.'
+'Tarnopolsky, V.A.'
+'Yaroslavtsev, A.B.'
+'Kaul, E.E.'
+'Geibel, C.'
+_cell_length_a 16.0068(15)
+_cell_length_b 14.5129(8)
+_cell_length_c 7.0231(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1631.5
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.0294
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 8 c 0.733825(19) 0.24046(2) 0.71882(4) 0.00654(7) 1 0
+P1 P5+ 8 c 0.37241(3) 0.13897(3) 0.50111(7) 0.00719(11) 1 0
+P2 P5+ 8 c 0.11951(3) 0.10868(3) 0.49849(7) 0.00650(11) 1 0
+Na1 Na1+ 8 c 0.88239(5) 0.13791(6) 0.49664(12) 0.0139(2) 1 0
+Na2 Na1+ 8 c 0.52511(6) 0.24540(6) 0.25623(11) 0.0165(2) 1 0
+Na3 Na1+ 8 c 0.49538(6) 0.99419(6) 0.26968(14) 0.0200(3) 1 0
+Na4 Na1+ 8 c 0.72534(6) 0.02381(7) 0.31389(15) 0.0276(3) 1 0
+O1 O2- 8 c 0.02405(8) 0.10267(10) 0.49132(19) 0.0132(4) 1 0
+O2 O2- 8 c 0.31685(9) 0.15150(10) 0.68029(18) 0.0121(4) 1 0
+O3 O2- 8 c 0.31941(9) 0.15884(10) 0.31916(19) 0.0119(3) 1 0
+O4 O2- 8 c 0.40109(10) 0.03937(11) 0.4998(2) 0.0167(4) 1 0
+O5 O2- 8 c 0.15989(9) 0.01397(10) 0.4957(2) 0.0132(4) 1 0
+O6 O2- 8 c 0.14266(9) 0.16382(10) 0.67933(19) 0.0109(3) 1 0
+O7 O2- 8 c 0.14765(8) 0.16353(10) 0.31989(18) 0.0100(3) 1 0
+O8 O2- 8 c 0.73830(8) 0.20007(10) 0.50109(17) 0.0093(3) 1 0
+O9 O2- 8 c 0.44440(10) 0.20707(12) 0.5086(2) 0.0192(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.00665(13) 0.00802(12) 0.00496(12) 0.00019(10) 0.00008(9) 0.00080(10)
+P1 P5+ 0.00642(19) 0.00924(19) 0.00591(19) 0.00152(14) 0.00022(15) -0.00004(15)
+P2 P5+ 0.00625(18) 0.00676(18) 0.00650(19) -0.00087(14) -0.00021(15)
+-0.00007(15)
+Na1 Na1+ 0.0109(3) 0.0134(4) 0.0174(4) 0.0003(3) 0.0001(3) 0.0002(3)
+Na2 Na1+ 0.0111(4) 0.0232(4) 0.0152(4) -0.0001(3) 0.0003(3) -0.0007(3)
+Na3 Na1+ 0.0220(5) 0.0240(4) 0.0139(4) 0.0062(4) -0.0006(3) -0.0026(4)
+Na4 Na1+ 0.0264(5) 0.0280(5) 0.0283(6) -0.0075(4) -0.0143(4) 0.0117(4)
+O1 O2- 0.0071(5) 0.0168(7) 0.0157(7) -0.0022(5) -0.0002(5) 0.0000(5)
+O2 O2- 0.0131(6) 0.0152(6) 0.0080(6) 0.0048(5) 0.0027(5) 0.0007(5)
+O3 O2- 0.0124(6) 0.0156(6) 0.0077(6) 0.0057(5) -0.0018(4) -0.0002(5)
+O4 O2- 0.0215(7) 0.0151(7) 0.0133(6) 0.0089(6) 0.0020(6) 0.0012(5)
+O5 O2- 0.0157(6) 0.0096(6) 0.0144(6) 0.0019(5) -0.0010(5) -0.0003(5)
+O6 O2- 0.0118(6) 0.0124(6) 0.0085(6) -0.0036(5) -0.0003(5) -0.0028(4)
+O7 O2- 0.0111(6) 0.0112(6) 0.0076(6) -0.0036(5) -0.0003(4) 0.0019(4)
+O8 O2- 0.0116(6) 0.0111(6) 0.0052(5) 0.0003(5) 0.0000(5) 0.0000(4)
+O9 O2- 0.0137(6) 0.0256(8) 0.0183(8) -0.0083(6) 0.0002(6) -0.0011(6)
+#End of TTdata_240263-ICSD

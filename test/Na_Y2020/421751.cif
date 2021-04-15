@@ -1,0 +1,149 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421751-ICSD
+_database_code_ICSD 421751
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Sodium dithulium 41-oxopentadecatantalate'
+_chemical_formula_structural 'Na Tm2 O41 Ta15'
+_chemical_formula_sum 'Na1 O41 Ta15 Tm2'
+_exptl_crystal_density_diffrn 8.26
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Two Ta O5 - rich alkali-metal lanthanide(III) oxotantalates(V): K2 La Ta5 O15
+and Na Tm2 Ta15 O41
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 1865 1869 ZAACAB
+loop_
+_publ_author_name
+'Janka, O.'
+'Mueller-Bunz, H.'
+'Schleid, T.'
+_cell_length_a 12.6143(7)
+_cell_length_b 30.803(2)
+_cell_length_c 3.8605(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1500.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b a m'
+_symmetry_Int_Tables_number 55
+_refine_ls_R_factor_all 0.0486
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 'x+1/2, -y+1/2, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Tm3+ 3
+Na1+ 1
+Tm3+ 3
+Ta5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0. 0.5 0.5 0.0253(19) 0.622(14) 0
+Tm1 Tm3+ 2 d 0. 0.5 0.5 0.0253(19) 0.378(14) 0
+Na2 Na1+ 4 h 0.02272(14) 0.20099(6) 0.5 0.0225(7) 0.240(10) 0
+Tm2 Tm3+ 4 h 0.02272(14) 0.20099(6) 0.5 0.0225(7) 0.760(10) 0
+Ta1 Ta5+ 2 a 0. 0. 0. 0.0224(4) 1 0
+Ta2 Ta5+ 4 g 0.27428(9) 0.26993(4) 0. 0.0178(3) 1 0
+Ta3 Ta5+ 4 g 0.16504(9) 0.37000(4) 0. 0.0191(3) 1 0
+Ta4 Ta5+ 4 g 0.49241(9) 0.21115(4) 0. 0.0194(3) 1 0
+Ta5 Ta5+ 4 g 0.21103(9) 0.47550(4) 0. 0.0189(3) 1 0
+Ta6 Ta5+ 4 g 0.42412(9) 0.38298(4) 0. 0.0181(3) 1 0
+Ta7 Ta5+ 4 g 0.42853(9) 0.08510(4) 0. 0.0198(3) 1 0
+Ta8 Ta5+ 4 g 0.20994(9) 0.16467(4) 0. 0.0196(3) 1 0
+O1 O2- 2 b 0. 0. 0.5 0.024(7) 1 0
+O2 O2- 4 g 0.4948(17) 0.4348(8) 0. 0.028(6) 1 0
+O3 O2- 4 g 0.1605(18) 0.0025(8) 0. 0.029(6) 1 0
+O4 O2- 4 g 0.3090(16) 0.3342(7) 0. 0.016(5) 1 0
+O5 O2- 4 g 0.1404(19) 0.3065(8) 0. 0.038(7) 1 0
+O6 O2- 4 g 0.4379(18) 0.2709(7) 0. 0.024(5) 1 0
+O7 O2- 4 g 0.1445(18) 0.2276(7) 0. 0.033(7) 1 0
+O8 O2- 4 g 0.3323(17) 0.2030(8) 0. 0.023(5) 1 0
+O9 O2- 4 g 0.0845(16) 0.4287(7) 0. 0.017(5) 1 0
+O10 O2- 4 g 0.2868(17) 0.4192(7) 0. 0.018(5) 1 0
+O11 O2- 4 g 0.4966(16) 0.1467(7) 0. 0.017(5) 1 0
+O12 O2- 4 g 0.3949(18) 0.0230(7) 0. 0.022(5) 1 0
+O13 O2- 4 g 0.0484(17) 0.1542(9) 0. 0.036(7) 1 0
+O14 O2- 4 g 0.2876(19) 0.1118(8) 0. 0.035(6) 1 0
+O15 O2- 4 h 0.2838(18) 0.2689(8) 0.5 0.031(6) 1 0
+O16 O2- 4 h 0.1585(17) 0.3699(7) 0.5 0.020(5) 1 0
+O17 O2- 4 h 0.0059(18) 0.2788(8) 0.5 0.029(6) 1 0
+O18 O2- 4 h 0.1941(19) 0.4767(8) 0.5 0.033(6) 1 0
+O19 O2- 4 h 0.4268(17) 0.3707(9) 0.5 0.029(6) 1 0
+O20 O2- 4 h 0.4253(19) 0.0835(9) 0.5 0.039(7) 1 0
+O21 O2- 4 h 0.1858(19) 0.1655(9) 0.5 0.029(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.021(3) 0.041(3) 0.014(3) -0.0052(18) 0. 0.
+Tm1 Tm3+ 0.021(3) 0.041(3) 0.014(3) -0.0052(18) 0. 0.
+Na2 Na1+ 0.0282(11) 0.0274(10) 0.0119(12) 0.0023(7) 0. 0.
+Tm2 Tm3+ 0.0282(11) 0.0274(10) 0.0119(12) 0.0023(7) 0. 0.
+Ta1 Ta5+ 0.0187(8) 0.0255(9) 0.0230(12) 0.0011(6) 0. 0.
+Ta2 Ta5+ 0.0155(6) 0.0269(7) 0.0111(8) 0.0009(4) 0. 0.
+Ta3 Ta5+ 0.0150(5) 0.0251(6) 0.0173(8) 0.0007(4) 0. 0.
+Ta4 Ta5+ 0.0165(6) 0.0298(7) 0.0120(7) 0.0009(4) 0. 0.
+Ta5 Ta5+ 0.0171(6) 0.0252(6) 0.0144(8) 0.0001(4) 0. 0.
+Ta6 Ta5+ 0.0159(6) 0.0252(6) 0.0131(8) 0.0006(4) 0. 0.
+Ta7 Ta5+ 0.0169(6) 0.0283(6) 0.0140(8) -0.0002(5) 0. 0.
+Ta8 Ta5+ 0.0188(6) 0.0275(6) 0.0125(8) -0.0010(5) 0. 0.
+O1 O2- 0.034(17) 0.023(15) 0.02(2) 0.002(13) 0. 0.
+O2 O2- 0.017(10) 0.032(13) 0.036(17) -0.002(9) 0. 0.
+O3 O2- 0.024(11) 0.031(12) 0.031(17) -0.007(9) 0. 0.
+O4 O2- 0.015(8) 0.027(10) 0.016(13) 0.002(7) 0. 0.
+O5 O2- 0.067(18) 0.026(12) 0.020(18) -0.011(12) 0. 0.
+O6 O2- 0.037(13) 0.035(12) 0.016(13) 0.021(10) 0. 0.
+O7 O2- 0.024(11) 0.020(11) 0.06(2) -0.016(9) 0. 0.
+O8 O2- 0.025(11) 0.043(13) 0.017(12) 0.014(10) 0. 0.
+O9 O2- 0.017(8) 0.030(11) 0.018(14) 0.006(7) 0. 0.
+O10 O2- 0.032(11) 0.015(9) 0.012(14) -0.002(8) 0. 0.
+O11 O2- 0.015(8) 0.028(10) 0.021(14) -0.001(7) 0. 0.
+O12 O2- 0.030(12) 0.021(10) 0.015(14) -0.013(9) 0. 0.
+O13 O2- 0.016(10) 0.08(2) 0.017(16) 0.002(11) 0. 0.
+O14 O2- 0.056(16) 0.028(12) 0.020(17) -0.005(11) 0. 0.
+O15 O2- 0.028(13) 0.037(14) 0.027(18) 0.000(10) 0. 0.
+O16 O2- 0.024(10) 0.029(11) 0.017(13) 0.003(9) 0. 0.
+O17 O2- 0.024(11) 0.026(11) 0.035(17) -0.007(9) 0. 0.
+O18 O2- 0.045(15) 0.036(13) 0.018(16) -0.022(11) 0. 0.
+O19 O2- 0.016(10) 0.045(14) 0.027(17) 0.007(9) 0. 0.
+O20 O2- 0.039(15) 0.057(17) 0.020(18) -0.021(13) 0. 0.
+O21 O2- 0.038(13) 0.040(13) 0.016(14) 0.010(11) 0. 0.
+#End of TTdata_421751-ICSD

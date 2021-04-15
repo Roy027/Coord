@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure, and the U.S. Secretary of
+#Commerce on behalf of the United States.  All rights reserved.
+data_642996-ICSD
+_database_code_ICSD 642996
+_audit_creation_date 2008-07-07
+_audit_update_record 2018-02-01
+_chemical_name_systematic 'Manganese hexasodium sulfide'
+_chemical_formula_structural 'Mn Na6 S4'
+_chemical_formula_sum 'Mn1 Na6 S4'
+_chemical_name_structure_type K6HgS4
+_exptl_crystal_density_diffrn 2.17
+_publ_section_title
+
+;
+Zusammenhaenge zwischen Struktur und magnetischen Eigenschaften von
+Manganverbindungen mit tetraedrisch koordiniertem Mn(II)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1988 182 47 49 ZEKRDZ
+loop_
+_publ_author_name
+'Bronger, W.'
+'Balk-Hardtdegen, H.'
+'Mueller, P.'
+_cell_length_a 9.036(4)
+_cell_length_b 9.036(4)
+_cell_length_c 6.960(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 492.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+Na1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 2 b 0.3333 0.6667 0.25 . 1 0
+Na1 Na1+ 6 c 0.14533(8) 0.85467(8) 0.5378(2) . 1 0
+Na2 Na1+ 6 c 0.53243(8) 0.46757(8) 0.3671(2) . 1 0
+S1 S2- 2 b 0.3333 0.6667 0.5992(2) . 1 0
+S2 S2- 6 c 0.18567(3) 0.81433(3) 0.1412(1) . 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 Mn2+ .0126(1) .0126(1) .0136(2) .0126(1) 0 0
+Na1 Na1+ .0194(2) .0194(2) .0309(5) .0051(3) .0025(2) -.0025(2)
+Na2 Na1+ .0287(2) .0287(2) .0212(4) .0165(3) -.0005(2) .0005(2)
+S1 S2- .0195(2) .0195(2) .0125(3) .0195(2) 0 0
+S2 S2- .0160(1) .0160(1) .0183(2) .0097(1) -.0011(1) .0011(1)
+#End of TTdata_642996-ICSD

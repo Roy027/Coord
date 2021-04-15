@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_244410-ICSD
+_database_code_ICSD 244410
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium manganese germanate'
+_chemical_formula_structural 'Na2 Mn Ge O4'
+_chemical_formula_sum 'Ge1 Mn1 Na2 O4'
+_chemical_name_structure_type Li2BeSiO4
+_exptl_crystal_density_diffrn 3.55
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+A2MnXO4 family (A = Li, Na, Ag; X = Si, Ge). Structural and magnetic
+properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 14023 14039 INOCAJ
+loop_
+_publ_author_name
+'Nalbandyan, Vladimir B.'
+'Zvereva, Elena A.'
+'Shukaev, Igor L.'
+'Gordon, Elijah'
+'Politaev, Vladimir V.'
+'Whangbo, Myung-Hwan'
+'Petrenko, Aleksandr A.'
+'Denisov, Roman S.'
+'Markina, Maria M.'
+'Tzschoppe, Michael'
+'Bukhteev, Kirill Yu.'
+'Klingeler, Ruediger'
+'Vasiliev, Alexander N.'
+_cell_length_a 7.16427(8)
+_cell_length_b 5.72970(7)
+_cell_length_c 5.40710(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.1087(21)
+_cell_angle_gamma 90.
+_cell_volume 221.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 n 1'
+_symmetry_Int_Tables_number 7
+_refine_ls_R_factor_all 0.0673
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+Ge4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 2 a -0.0003(8) 0.17346(29) -0.0012(17) 0.0083(4) 1. 0
+Ge1 Ge4+ 2 a 0.24619(17) 0.68844(23) 0.0043(5) 0.02906 1. 0
+Na1 Na1+ 2 a 0.2594(4) 0.3288(6) 0.4855(7) 0.0171(11) 1. 0
+Na2 Na1+ 2 a 0.49538(23) 0.1902(7) -0.0072(8) 0.0193(11) 1. 0
+O1 O2- 2 a 0.53288(29) 0.1839(12) 0.4333(6) 0.01 1. 0
+O2 O2- 2 a 0.77799(32) 0.2961(14) -0.1406(6) 0.0167(28) 1. 0
+O3 O2- 2 a 0.21461(31) 0.4119(12) 0.9059(7) 0.0357(31) 1. 0
+O4 O2- 2 a 0.94194(32) 0.1857(18) 0.3300(6) 0.044(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0208(7) 0.0290(7) 0.0374(7) -0.0039(15) 0.0260(12) 0.0172(17)
+#End of TTdata_244410-ICSD

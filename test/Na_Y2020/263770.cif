@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_263770-ICSD
+_database_code_ICSD 263770
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Sodium cesium trimolybdate'
+_chemical_formula_structural 'Na Cs Mo3 O10'
+_chemical_formula_sum 'Cs1 Mo3 Na1 O10'
+_chemical_name_structure_type NaRbMo3O10
+_exptl_crystal_density_diffrn 4.36
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Four alkali metal molybdates with two types of Mo-O chains, ABMo3O10 (A = Li,
+B = Rb; A = Li, Na, K, B = Cs): synthesis, structure comparison and optical
+properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Nouveau Journal de Chimie' 2018 42 10879 10884 NJCHD4
+loop_
+_publ_author_name
+'Han, Shujuan'
+'Zhang, Bingbing'
+'Tong, Tinghao'
+'Yang, Zhihua'
+'Pan, Shilie'
+_cell_length_a 7.750(5)
+_cell_length_b 7.612(5)
+_cell_length_c 15.600(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 920.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0246
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cs1+ 1
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.0574(4) 0.25 0.27797(18) 0.0206(6) 1 0
+Cs1 Cs1+ 4 c 0.14463(6) 0.25 0.64892(3) 0.02191(14) 1 0
+Mo1 Mo6+ 4 c -0.26711(7) 0.25 0.44335(4) 0.01038(15) 1 0
+Mo2 Mo6+ 8 d 0.60951(5) -0.00122(5) 0.60060(3) 0.01008(12) 1 0
+O1 O2- 4 c -0.3844(6) 0.25 0.5743(3) 0.0123(10) 1 0
+O2 O2- 8 d -0.3466(4) 0.0138(4) 0.4642(2) 0.0115(7) 1 0
+O3 O2- 8 d 0.8189(4) -0.0329(4) 0.6299(2) 0.0191(8) 1 0
+O4 O2- 8 d 0.5038(5) 0.0289(4) 0.6959(2) 0.0199(8) 1 0
+O5 O2- 4 c 0.5572(6) -0.25 0.5858(3) 0.0127(10) 1 0
+O6 O2- 4 c -0.0689(6) 0.25 0.4883(3) 0.0180(11) 1 0
+O7 O2- 4 c -0.2292(6) 0.25 0.3334(3) 0.0168(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0209(15) 0.0231(16) 0.0178(15) 0. -0.0007(12) 0.
+Cs1 Cs1+ 0.0227(3) 0.0224(3) 0.0206(3) 0. 0.0036(2) 0.
+Mo1 Mo6+ 0.0111(3) 0.0094(3) 0.0106(3) 0. 0.0012(2) 0.
+Mo2 Mo6+ 0.0144(2) 0.0072(2) 0.0087(2) -0.00107(15) -0.00136(16) 0.00058(16)
+O1 O2- 0.020(3) 0.009(2) 0.008(2) 0. 0.0058(19) 0.
+O2 O2- 0.0163(17) 0.0076(16) 0.0105(16) 0.0013(13) 0.0011(14) 0.0001(13)
+O3 O2- 0.0158(19) 0.0173(19) 0.024(2) 0.0016(15) -0.0059(15) 0.0040(16)
+O4 O2- 0.027(2) 0.0168(19) 0.0155(19) -0.0010(16) 0.0039(16) -0.0025(15)
+O5 O2- 0.013(2) 0.006(2) 0.019(3) 0. -0.0036(19) 0.
+O6 O2- 0.010(2) 0.025(3) 0.019(3) 0. -0.002(2) 0.
+O7 O2- 0.018(3) 0.019(3) 0.013(2) 0. 0.005(2) 0.
+#End of TTdata_263770-ICSD

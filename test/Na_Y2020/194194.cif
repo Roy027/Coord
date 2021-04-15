@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194194-ICSD
+_database_code_ICSD 194194
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium selenate sesquihydrate'
+_chemical_formula_structural 'Na2 (Se O4) (H2 O)1.5'
+_chemical_formula_sum 'H3 Na2 O5.5 Se1'
+_exptl_crystal_density_diffrn 2.8
+_cell_measurement_temperature 100.
+_publ_section_title
+'Crystal structure of Na2 Se O4 * 1.5 (H2 O) and Na2 Se O4 * 10 (H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2014 70 54
+57 ACSEBH
+loop_
+_publ_author_name
+'Weil, Matthias'
+'Bonneau, Barbara'
+_cell_length_a 6.7533(8)
+_cell_length_b 8.6299(10)
+_cell_length_c 35.206(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2051.81
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'F 2 d d'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 'x+1/4, y+1/4, -z+1/4'
+3 'x, -y, -z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 'x+1/4, y+3/4, -z+3/4'
+7 'x, -y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 'x+3/4, y+1/4, -z+3/4'
+11 'x+1/2, -y, -z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 'x+3/4, y+3/4, -z+1/4'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se6+ 16 b 0.45783(6) 0.26019(2) 0.188204(5) 0.00624(5) 1 0
+Na1 Na1+ 16 b 0.94725(16) 0.40728(9) 0.15499(2) 0.01065(16) 1 0
+Na2 Na1+ 16 b 0.14581(15) 0.04335(11) 0.24656(3) 0.01009(18) 1 0
+O1 O2- 16 b 0.6662(2) 0.35383(19) 0.19642(4) 0.0091(3) 1 0
+O2 O2- 16 b 0.4372(3) 0.11507(17) 0.21780(4) 0.0097(3) 1 0
+O3 O2- 16 b 0.4561(3) 0.18930(16) 0.14509(4) 0.0096(3) 1 0
+O4 O2- 16 b 0.2752(2) 0.38446(19) 0.19358(5) 0.0095(3) 1 0
+O5 O2- 16 b 0.9382(3) 0.13500(18) 0.14734(4) 0.0119(3) 1 0
+O6 O2- 8 a 0.9204(3) 0.25 0.25 0.0122(5) 1 0
+H1 H1+ 16 b 0.898(5) 0.076(3) 0.1639(7) 0.033(6) 1 0
+H2 H1+ 16 b 1.026(4) 0.088(4) 0.1364(8) 0.033(6) 1 0
+H3 H1+ 16 b 0.844(4) 0.232(4) 0.2676(7) 0.033(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Se1 Se6+ 0.00707(8) 0.00585(8) 0.00581(7) -0.00002(8) 0.00015(9) -0.00019(7)
+Na1 Na1+ 0.0128(4) 0.0089(4) 0.0103(4) -0.0009(4) 0.0007(4) 0.0004(3)
+Na2 Na1+ 0.0106(4) 0.0103(4) 0.0094(4) -0.0018(3) 0.0014(3) -0.0007(3)
+O1 O2- 0.0081(8) 0.0091(7) 0.0100(7) -0.0028(6) 0.0001(6) -0.0007(6)
+O2 O2- 0.0106(8) 0.0081(6) 0.0106(6) -0.0013(6) -0.0004(6) 0.0046(5)
+O3 O2- 0.0128(7) 0.0093(6) 0.0068(6) -0.0010(8) -0.0005(7) -0.0033(5)
+O4 O2- 0.0101(7) 0.0093(7) 0.0091(7) 0.0035(6) 0.0010(6) -0.0011(6)
+O5 O2- 0.0131(9) 0.0096(7) 0.0129(7) 0.0004(7) 0.0036(7) 0.0014(5)
+O6 O2- 0.0112(15) 0.0156(11) 0.0097(9) 0. 0. 0.0036(8)
+#End of TTdata_194194-ICSD

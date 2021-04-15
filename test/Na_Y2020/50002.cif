@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50002-ICSD
+_database_code_ICSD 50002
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Pentacesium sodium decanitridotetratungstate'
+_chemical_formula_structural 'Cs5 (Na (W4 N10))'
+_chemical_formula_sum 'Cs5 N10 Na1 W4'
+_exptl_crystal_density_diffrn 6.14
+_publ_section_title
+'Cs5 (Na (W4 N10)): The first framework nitridotungstate(VI)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 881 884 ZAACAB
+loop_
+_publ_author_name
+'Niewa, R.'
+'Jacobs, H.'
+_cell_length_a 13.926(3)
+_cell_length_b 13.926(3)
+_cell_length_c 8.723(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1691.68
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41'
+_symmetry_Int_Tables_number 80
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'y+1/2, -x, z+3/4'
+6 '-y+1/2, x, z+3/4'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Cs1+ 1
+Na1+ 1
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 b 0.20887(8) 0.10399(8) 0.279 . 1. 0
+W2 W6+ 8 b 0.39518(8) 0.70656(7) 0.2505(1) . 1. 0
+Cs1 Cs1+ 8 b 0.0994(2) 0.3237(2) 0.0558(4) . 1. 0
+Cs2 Cs1+ 8 b 0.0988(2) 0.8110(1) 0.2328(3) . 1. 0
+Cs3 Cs1+ 4 a 0.5 0 0.2527(5) . 1. 0
+Na1 Na1+ 4 a 0 0 0.000(3) 1.2(2) 1. 0
+N1 N3- 8 b 0.102(2) 0.093(2) 0.157(4) 2.1(5) 1. 0
+N2 N3- 8 b 0.133(2) 0.537(2) 0.132(4) 2.2(5) 1. 0
+N3 N3- 8 b 0.299(2) 0.180(2) 0.172(4) 2.0(5) 1. 0
+N4 N3- 8 b 0.315(2) 0.633(2) 0.125(4) 2.1(5) 1. 0
+N5 N3- 8 b 0.480(2) 0.771(2) 0.121(4) 2.2(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0132(3) 0.0067(3) 0.0133(4) -.0008(4) 0.0055(4) 0.0013(4)
+W2 W6+ 0.0093(3) 0.0090(3) 0.0132(4) -.0020(4) -.0007(4) 0.0017(4)
+Cs1 Cs1+ 0.031(1) 0.0267(9) 0.043(2) 0.001(1) 0.004(1) 0.011(1)
+Cs2 Cs1+ 0.0235(8) 0.0185(7) 0.0195(9) 0.0008(7) -.005(1) -.0005(8)
+Cs3 Cs1+ 0.0188(9) 0.026(1) 0.008(1) -.002(2) 0 0
+#End of TTdata_50002-ICSD

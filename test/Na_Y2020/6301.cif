@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6301-ICSD
+_database_code_ICSD 6301
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium dithorium tris(phosphate(V))'
+_chemical_formula_structural 'Na Th2 (P O4)3'
+_chemical_formula_sum 'Na1 O12 P3 Th2'
+_chemical_name_structure_type NaTh2(PO4)3
+_exptl_crystal_density_diffrn 5.43
+_publ_section_title
+'The crystal structure of a new ferroelectric compound, Na Th2 (P O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganica Chimica Acta' 1970 4 571 576 ICHAA3
+loop_
+_publ_author_name
+'Matkovic, B.'
+'Kojic-Prodic, B.'
+'Sljukic, M.'
+'Topic, M.'
+'Willett, R.D.'
+'Pullen, F.'
+_cell_length_a 17.37(2)
+_cell_length_b 6.81(1)
+_cell_length_c 8.13(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.05(16)
+_cell_angle_gamma 90.
+_cell_volume 943.87
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.062
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Th4+ 4
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Th1 Th4+ 8 f 0.1530(1) 0.0924(1) 0.0365(1) . 1. 0
+Na1 Na1+ 8 f 0.0184(31) 0.3883(83) 0.3482(64) 7.5 0.5 0
+P1 P5+ 8 f 0.3120(4) 0.0828(10) 0.3130(8) . 1. 0
+P2 P5+ 4 e 0 -.1041(14) 0.25 . 1. 0
+O1 O2- 8 f 0.0752(11) 0.0297(31) 0.2530(26) 1.5 1. 0
+O2 O2- 8 f -.0240(13) -.2231(38) 0.0889(30) 2.2 1. 0
+O3 O2- 8 f 0.227(1) 0.0517(26) 0.3310(21) 0.6 1. 0
+O4 O2- 8 f 0.3619(10) -.1017(28) 0.3392(23) 0.9 1. 0
+O5 O2- 8 f 0.2998(9) 0.1502(26) 0.1249(20) 0.5 1. 0
+O6 O2- 8 f 0.3486(11) 0.2644(34) 0.4127(26) 1.7 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Th1 Th4+ 0.0005(1) 0.0026(2) 0.0032(1) 0 0.0007(1) 0.0001(1)
+P1 P5+ 0.0010(2) 0.0030(12) 0.0022(8) -.0007(4) 0.0007(3) 0.0003(9)
+P2 P5+ 0.0007(3) 0.0037(18) 0.0080(15) 0 0.0008(5) 0
+#End of TTdata_6301-ICSD

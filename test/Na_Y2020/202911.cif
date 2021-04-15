@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202911-ICSD
+_database_code_ICSD 202911
+_audit_creation_date 1990-06-08
+_chemical_name_systematic 'Sodium trivanadium trisphosphate'
+_chemical_formula_structural 'Na V3 (P3 O12)'
+_chemical_formula_sum 'Na1 O12 P3 V3'
+_chemical_name_structure_type SrFe3(PO4)3
+_exptl_crystal_density_diffrn 3.42
+_publ_section_title
+
+;
+Synthesis and Crystal Structure of Na V3 P3 O12: A Stuffed Structure of
+alpha-Cr P O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1989 79 232 237 JSSCBI
+loop_
+_publ_author_name
+'Kinomura, N.'
+'Matsui, N.'
+'Kumada, N.'
+'Muto, F.'
+_cell_length_a 10.488(2)
+_cell_length_b 13.213(3)
+_cell_length_c 6.455(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 894.52
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I m m a'
+_symmetry_Int_Tables_number 74
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 '-x, -y+1/2, z'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y+1/2, z'
+6 'x, y+1/2, -z'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y, -z+1/2'
+10 '-x+1/2, -y, z+1/2'
+11 '-x+1/2, y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y, z+1/2'
+14 'x+1/2, y, -z+1/2'
+15 'x+1/2, -y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+V2+ 2.667
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.25 0.4005(12) . 1. 0
+V1 V2+ 4 a 0 0 0 . 1. 0
+V2 V2+ 8 g 0.25 0.6345(1) 0.25 . 1. 0
+P1 P5+ 4 e 0 0.25 0.9167(5) . 1. 0
+P2 P5+ 8 g 0.25 0.4264(1) 0.25 . 1. 0
+O1 O2- 8 h 0 0.6544(4) 0.9538(9) . 1. 0
+O2 O2- 8 i 0.8817(6) 0.25 0.7686(11) . 1. 0
+O3 O2- 16 j 0.2841(6) 0.3639(3) 0.0615(7) . 1. 0
+O4 O2- 16 j 0.1394(3) 0.5054(3) 0.2017(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0511(51) 0.0483(48) 0.0167(31) 0 0 0
+V1 V2+ 0.0028(5) 0.0069(6) 0.0071(6) 0 0 0.0000(6)
+V2 V2+ 0.0039(4) 0.0066(4) 0.0078(5) 0 -.0008(4) 0
+P1 P5+ 0.0061(10) 0.0097(10) 0.0089(11) 0 0 0
+P2 P5+ 0.0067(6) 0.0085(6) 0.0094(7) 0 -.0010(6) 0
+O1 O2- 0.0128(22) 0.0045(18) 0.0116(22) 0 0 0.0006(17)
+O2 O2- 0.0083(20) 0.0195(23) 0.0125(26) 0 -.0042(20) 0
+O3 O2- 0.0111(4) 0.0148(17) 0.0132(16) -.0011(14) 0.0028(13) 0.0040(15)
+O4 O2- 0.0064(11) 0.0101(13) 0.0120(15) -.0003(13) -.002(1) -.0023(12)
+#End of TTdata_202911-ICSD

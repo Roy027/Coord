@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249611-ICSD
+_database_code_ICSD 249611
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium europium(II) polythioarsenate(III) *'
+_chemical_formula_structural 'Na0.66 Eu2.86 As4.54 S10'
+_chemical_formula_sum 'As4.54 Eu2.86 Na0.66 S10'
+_exptl_crystal_density_diffrn 4.53
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Eu3 (As S4)2 and Ax Eu3-y As5-z S10 (A = Li,Na): Compounds with simple and
+complex thioarsenate building blocks
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2007 46 8466 8468 INOCAJ
+loop_
+_publ_author_name
+'Bera, T.K.'
+'Iyer, R.G.'
+'Malliakas, C.D.'
+'Kanatzidis, M.G.'
+_cell_length_a 8.4300(6)
+_cell_length_b 7.8040(4)
+_cell_length_c 25.139(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.226(6)
+_cell_angle_gamma 90.
+_cell_volume 1627.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0449
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu2+ 2
+As3+ 3
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu2+ 4 e 0.08531(8) 0.61677(8) 0.43054(2) 0.00977(12) 0.86 0
+Eu2 Eu2+ 4 e 0.52724(6) 0.26764(6) 0.29908(2) 0.00877(11) 1 0
+Eu3 Eu2+ 4 e 0.02580(6) 0.26844(6) 0.296053(19) 0.00816(11) 1 0
+As1 As3+ 4 e 0.70661(12) 0.33699(13) 0.16171(4) 0.00783(19) 1 0
+As2 As3+ 4 e 0.25544(13) 0.31876(13) 0.15110(4) 0.0095(2) 1 0
+As3 As3+ 4 e 0.14310(12) 0.65698(13) 0.06226(4) 0.00807(19) 1 0
+As4 As3+ 4 e 0.29747(19) 0.15357(17) 0.45170(6) 0.0166(3) 0.84 0
+As5 As3+ 4 e 0.4244(3) 0.0353(3) 0.04833(11) 0.0142(5) 0.508(4) 0
+As6 As3+ 4 e 0.4182(9) 0.0461(10) 0.0713(3) 0.0142(5) 0.192(4) 0
+S1 S2- 4 e 0.0868(3) 0.6609(3) 0.31695(10) 0.0084(4) 1 0
+S2 S2- 4 e 0.4952(3) 0.1664(3) 0.17858(11) 0.0106(5) 1 0
+S3 S2- 4 e 0.7397(3) 0.4972(3) 0.23640(10) 0.0086(4) 1 0
+S4 S2- 4 e 0.2488(3) 0.4705(3) 0.22500(9) 0.0078(4) 1 0
+S5 S2- 4 e 0.3714(3) 0.5069(3) 0.10102(10) 0.0085(4) 1 0
+S6 S2- 4 e 0.0453(3) 0.0055(3) 0.40368(11) 0.0117(5) 1 0
+S7 S2- 4 e 0.1745(3) 0.6239(3) 0.61990(10) 0.0098(4) 1 0
+S8 S2- 4 e 0.3078(3) 0.3395(3) 0.38526(10) 0.0125(5) 1 0
+S9 S2- 4 e 0.1699(3) 0.1795(3) 0.00423(10) 0.0126(5) 1 0
+S10 S2- 4 e 0.5918(4) 0.2042(4) 0.00849(13) 0.0186(6) 1 0
+Na1 Na1+ 4 e 0.3554(13) 0.0653(11) 0.4644(3) 0.0166(3) 0.51 0
+Na2 Na1+ 4 e 0.08531(8) 0.61677(8) 0.43054(2) 0.00977(12) 0.14 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu2+ 0.0112(2) 0.0113(2) 0.0069(2) -0.0006(2) 0.0018(2) 0.0001(2)
+Eu2 Eu2+ 0.0074(2) 0.0081(2) 0.0108(2) -0.00029(18) 0.00171(18) 0.00081(17)
+Eu3 Eu2+ 0.0073(2) 0.0089(2) 0.0082(2) 0.00056(18) 0.00128(18) -0.00181(16)
+As1 As3+ 0.0073(4) 0.0090(4) 0.0072(4) -0.0004(4) 0.0013(4) -0.0004(3)
+As2 As3+ 0.0130(5) 0.0082(4) 0.0079(4) -0.0025(4) 0.0032(4) -0.0015(3)
+As3 As3+ 0.0072(4) 0.0108(4) 0.0061(4) -0.0004(4) 0.0009(3) 0.0007(3)
+As4 As3+ 0.0300(7) 0.0098(6) 0.0134(6) 0.0128(6) 0.0127(6) 0.0085(5)
+As5 As3+ 0.0101(8) 0.0247(10) 0.0084(14) 0.0005(8) 0.0035(10) -0.0019(11)
+As6 As3+ 0.0101(8) 0.0247(10) 0.0084(14) 0.0005(8) 0.0035(10) -0.0019(11)
+S1 S2- 0.0098(10) 0.0077(10) 0.0081(10) -0.0007(9) 0.0028(8) 0.0002(8)
+S2 S2- 0.0073(10) 0.0082(10) 0.0167(12) 0.0004(9) 0.0031(9) 0.0003(9)
+S3 S2- 0.0094(10) 0.0080(10) 0.0082(10) -0.0005(9) 0.0013(9) -0.0013(8)
+S4 S2- 0.0095(10) 0.0072(10) 0.0069(10) 0.0017(9) 0.0019(8) -0.0005(8)
+S5 S2- 0.0070(10) 0.0096(10) 0.0098(10) 0.0002(9) 0.0036(8) 0.0010(8)
+S6 S2- 0.0094(11) 0.0098(11) 0.0160(12) 0.0025(9) 0.0026(9) 0.0013(9)
+S7 S2- 0.0101(10) 0.0092(10) 0.0099(10) -0.0003(9) 0.0010(9) 0.0005(8)
+S8 S2- 0.0127(11) 0.0143(11) 0.0094(10) -0.0019(10) -0.0010(9) 0.0041(9)
+S9 S2- 0.0160(12) 0.0121(11) 0.0095(11) -0.0044(10) 0.0015(9) 0.0004(9)
+S10 S2- 0.0159(12) 0.0171(13) 0.0219(13) -0.0049(11) 0.0006(11) 0.0042(11)
+Na1 Na1+ 0.0300(7) 0.0098(6) 0.0134(6) 0.0128(6) 0.0127(6) 0.0085(5)
+Na2 Na1+ 0.0112(2) 0.0113(2) 0.0069(2) -0.0006(2) 0.0018(2) 0.0001(2)
+#End of TTdata_249611-ICSD

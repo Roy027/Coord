@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426002-ICSD
+_database_code_ICSD 426002
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Sodium heptafluorodiantimonate(III) hydrate'
+_chemical_formula_structural 'Na Sb2 F7 (H2 O)'
+_chemical_formula_sum 'H2 F7 Na1 O1 Sb2'
+_exptl_crystal_density_diffrn 4.05
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Synthesis, crystal structure, and properties of sodium
+heptafluorodiantimonate(III) hydrate (Na Sb2 F7 * H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Fluorine Chemistry' 2013 156 298 302 JFLCAR
+loop_
+_publ_author_name
+'Zemnukhova, L.A.'
+'Udovenko, A.A.'
+'Makarenko, N.V.'
+'Fedorishcheva, G.A.'
+'Kavun, V.Ya.'
+'Slobodyuk, A.B.'
+'Didenko, N.A.'
+_cell_length_a 5.35900(10)
+_cell_length_b 9.5432(2)
+_cell_length_c 13.4775(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.9930(10)
+_cell_angle_gamma 90.
+_cell_volume 685.49
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0211
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb3+ 3
+Na1+ 1
+F1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb3+ 4 e 0.787253(15) 0.334560(9) 0.476053(6) 0.00938(3) 1 0
+Sb2 Sb3+ 4 e 0.378163(15) 0.299197(9) 0.208172(6) 0.00896(3) 1 0
+Na1 Na1+ 4 e 0.24225(14) 0.05989(8) 0.42466(5) 0.01371(10) 1 0
+F1 F1- 4 e 1.0081(2) 0.32360(14) 0.37265(8) 0.01752(17) 1 0
+F2 F1- 4 e 1.1025(2) 0.39403(14) 0.56123(9) 0.01942(18) 1 0
+F3 F1- 4 e 0.90565(19) 0.14681(10) 0.51001(8) 0.01363(13) 1 0
+F4 F1- 4 e 0.4254(2) 0.39615(13) 0.08111(7) 0.01578(15) 1 0
+F5 F1- 4 e 0.6948(2) 0.21291(12) 0.17762(9) 0.01695(17) 1 0
+F6 F1- 4 e 0.5717(2) 0.45309(11) 0.26907(9) 0.01607(16) 1 0
+F7 F1- 4 e 0.5339(2) 0.21454(11) 0.36407(8) 0.01470(14) 1 0
+O1 O2- 4 e 0.0572(2) 0.50693(13) 0.21180(9) 0.01464(16) 1 0
+H1 H1+ 4 e 0.1509 0.5628 0.232 0.035(12) 1 0
+H2 H1+ 4 e -0.021 0.4796 0.2498 0.041(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 Sb3+ 0.01001(4) 0.00927(4) 0.00868(4) 0.00047(2) 0.00015(2) 0.00042(2)
+Sb2 Sb3+ 0.00912(4) 0.00958(4) 0.00813(4) -0.00154(2) 0.00067(2) 0.00050(2)
+Na1 Na1+ 0.0130(2) 0.0151(2) 0.0127(2) -0.0023(2) -0.00028(18) 0.0005(2)
+F1 F1- 0.0149(4) 0.0242(5) 0.0141(4) -0.0008(3) 0.0048(3) 0.0025(3)
+F2 F1- 0.0193(4) 0.0185(4) 0.0185(4) -0.0063(3) -0.0069(3) 0.0022(3)
+F3 F1- 0.0143(3) 0.0104(3) 0.0164(3) 0.0019(2) 0.0022(3) 0.0029(3)
+F4 F1- 0.0149(3) 0.0205(4) 0.0119(3) -0.0014(3) 0.0011(3) 0.0064(3)
+F5 F1- 0.0171(4) 0.0181(4) 0.0167(4) 0.0063(3) 0.0066(3) 0.0041(3)
+F6 F1- 0.0130(3) 0.0113(3) 0.0226(4) -0.0029(3) -0.0042(3) -0.0012(3)
+F7 F1- 0.0151(3) 0.0145(3) 0.0141(3) -0.0033(3) -0.0001(3) 0.0008(3)
+O1 O2- 0.0144(4) 0.0159(4) 0.0135(4) -0.0034(3) 0.0008(3) -0.0002(3)
+#End of TTdata_426002-ICSD

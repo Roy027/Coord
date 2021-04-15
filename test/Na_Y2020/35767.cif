@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35767-ICSD
+_database_code_ICSD 35767
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Magnesium disodium sulfate(IV) dihydrate'
+_chemical_formula_structural 'Na2 Mg (S O3)2 (H2 O)2'
+_chemical_formula_sum 'H4 Mg1 Na2 O8 S2'
+_exptl_crystal_density_diffrn 2.25
+_publ_section_title
+
+;
+Na2 Mg (S O3) * 2 H2 O. Ein neues ternaeres Magnesiumsulfit. Kristallstruktur,
+schwingungsspektroskopische und thermoanalytische Untersuchungen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1983
+507 199 205 ZAACAB
+loop_
+_publ_author_name
+'Lutz, H.D.'
+'Buchmeier, W.'
+_cell_length_a 7.524(1)
+_cell_length_b 5.903(1)
+_cell_length_c 5.178(1)
+_cell_angle_alpha 106.25(1)
+_cell_angle_beta 109.80(1)
+_cell_angle_gamma 101.49(1)
+_cell_volume 196.43
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Na1+ 1
+S4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 1 h 0.5 0.5 0.5 . 1. 0
+Na1 Na1+ 2 i 0.67569(9) 0.0037(1) 0.3450(1) . 1. 0
+S1 S4+ 2 i 0.26223(4) 0.60747(5) 0.92557(6) . 1. 0
+O1 O2- 2 i 0.3648(1) 0.7038(2) 0.2651(2) . 1. 0
+O2 O2- 2 i 0.1440(1) 0.7831(2) 0.8614(2) . 1. 0
+O3 O2- 2 i 0.4352(1) 0.6867(2) 0.8403(2) . 1. 0
+O4 O2- 2 i 0.2310(1) 0.2045(2) 0.3201(2) . 1. 0
+H1 H1+ 2 i 0.083(4) 0.205(5) 0.256(6) 4. 1. 0
+H2 H1+ 2 i 0.207(4) 0.076(5) 0.191(6) 4. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.0127(2) 0.0113(2) 0.0098(2) 0.0057(1) 0.0062(1) 0.0050(1)
+Na1 Na1+ 0.0233(2) 0.0193(2) 0.0190(2) 0.0080(2) 0.0108(1) 0.0110(1)
+S1 S4+ 0.01342(7) 0.01048(7) 0.00968(7) 0.00484(6) 0.00546(6) 0.0396(6)
+O1 O2- 0.0196(3) 0.0163(3) 0.0096(2) 0.0097(2) 0.0074(2) 0.0066(2)
+O2 O2- 0.0147(2) 0.0201(3) 0.0165(3) 0.0104(2) 0.0061(2) 0.0087(2)
+O3 O2- 0.0178(2) 0.0164(3) 0.0135(2) 0.0088(2) 0.0106(2) 0.0069(2)
+O4 O2- 0.0134(3) 0.0145(3) 0.0160(3) 0.0053(2) 0.0054(2) 0.0039(2)
+#End of TTdata_35767-ICSD

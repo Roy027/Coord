@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_99121-ICSD
+_database_code_ICSD 99121
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Sodium nonapraseodymium hexakis(germanate) dioxide'
+_chemical_formula_structural 'Na Pr9 (Ge O4)6 O2'
+_chemical_formula_sum 'Ge6 Na1 O26 Pr9'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 6.01
+_publ_section_title
+
+;
+Synthesis, structural characterization and magnetic properties of Na RE9 (Ge
+O4)6 O2 (RE = Nd, Pr)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2004 366 76 80 JALCEU
+loop_
+_publ_author_name
+'Emirdag-Eanes, M.'
+'Pennington, W.T.'
+'Kolis, J.W.'
+_cell_length_a 9.802(1)
+_cell_length_b 9.802(1)
+_cell_length_c 7.116(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 592.1
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pr3+ 3
+Na1+ 1
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pr1 Pr3+ 6 h 0.7647(1) 0.7538(1) 0.25 0.005(1) 1. 0
+Pr2 Pr3+ 4 f 0.6667 0.3333 -0.0001(2) 0.008(1) 0.75 0
+Na1 Na1+ 4 f 0.6667 0.3333 -0.0001(2) 0.04(2) 0.25 0
+Ge1 Ge4+ 6 h 0.5997(2) 0.9741(2) 0.25 0.038(4) 1. 0
+O1 O2- 6 h 0.6893(15) 0.1766(15) 0.25 0.018(3) 1. 0
+O2 O2- 6 h 0.3979(15) 0.8760(14) 0.25 0.021(3) 1. 0
+O3 O2- 12 i 0.6522(15) 0.9045(15) 0.057(2) 0.043(3) 1. 0
+O4 O2- 2 a 0 0 0.25 0.19(4) 1. 0
+#End of TTdata_99121-ICSD

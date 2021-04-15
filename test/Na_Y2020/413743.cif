@@ -1,0 +1,124 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413743-ICSD
+_database_code_ICSD 413743
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Pentaamminesodium rubidiumtris(ammonium)triselenide'
+_chemical_formula_structural 'Na (N H3)5 Rb Se3 (N H3)3'
+_chemical_formula_sum 'H24 N8 Na1 Rb1 Se3'
+_exptl_crystal_density_diffrn 1.88
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+Synthesis and Crystal Structure of Tetraamminelithium-Rubidiumtriselenide, Li
+(N H3)4 Rb Se3 and Pentaamminesodium-Rubidiumtriselenide-Ammonia (1/3), Na (N
+H3)5 Rb Se3 * 3(N H3)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 2005 136 119 125 MOCMB7
+loop_
+_publ_author_name
+'Hanauer, T.'
+'Kraus, F.'
+'Korber, N.'
+_cell_length_a 7.4453(4)
+_cell_length_b 9.8923(7)
+_cell_length_c 23.0640(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1698.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0262
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Se0+ -0.67
+Na1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 c 0.39660(4) 0.25 0.249210(15) 0.02357(10) 1 0
+Se1 Se0+ 4 c 0.52005(5) 0.25 0.401652(15) 0.02128(10) 1 0
+Se2 Se0+ 8 d 0.64190(3) 0.05717(2) 0.355682(11) 0.02072(9) 1 0
+Na1 Na1+ 4 c 0.83529(19) 0.25 0.52966(7) 0.0262(3) 1 0
+N1 N3- 4 c 0.9955(4) 0.25 0.43127(13) 0.0232(6) 1 0
+H1 H1+ 8 d 0.9397 0.309 0.4069 0.028 0.5 0
+H2 H1+ 8 d 0.9918 0.1654 0.4158 0.028 0.5 0
+H3 H1+ 8 d 1.1119 0.2756 0.4362 0.028 0.5 0
+N2 N3- 4 c 0.9412(5) -0.25 0.39067(15) 0.0302(7) 1 0
+H4 H1+ 8 d 0.9978 -0.2341 0.3564 0.036 0.5 0
+H5 H1+ 8 d 0.8583 -0.1841 0.3972 0.036 0.5 0
+H6 H1+ 8 d 0.8855 -0.3318 0.3892 0.036 0.5 0
+N3 N3- 8 d 0.7689(3) 0.0056(2) 0.51149(10) 0.0262(5) 1 0
+H7 H1+ 8 d 0.6864 -0.024 0.5377 0.031 1 0
+H8 H1+ 8 d 0.8717 -0.0434 0.5152 0.031 1 0
+H9 H1+ 8 d 0.7245 -0.0045 0.475 0.031 1 0
+N4 N3- 4 c 0.4938(7) -0.25 0.26556(18) 0.0431(10) 1 0
+N5 N3- 4 c 0.4689(5) -0.25 0.42945(18) 0.0280(7) 1 0
+N6 N3- 8 d 0.1502(4) 0.0399(3) 0.31402(12) 0.0297(5) 1 0
+H10 H1+ 8 d 0.504(5) -0.181(3) 0.4104(15) 0.036(9) 1 0
+H11 H1+ 8 d 0.069(6) 0.022(4) 0.3418(18) 0.048(10) 1 0
+H12 H1+ 4 c 0.520(8) -0.25 0.460(3) 0.049(17) 1 0
+H13 H1+ 8 d 0.143(5) -0.037(4) 0.2929(17) 0.043(10) 1 0
+H14 H1+ 4 c 0.365(8) -0.25 0.255(2) 0.053(17) 1 0
+H15 H1+ 8 d 0.509(6) -0.179(4) 0.2871(18) 0.064(13) 1 0
+H16 H1+ 8 d 0.251(8) 0.020(5) 0.336(2) 0.095(18) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.01595(17) 0.03057(19) 0.02417(19) 0. -0.00169(14) 0.
+Se1 Se0+ 0.01936(18) 0.02340(18) 0.02107(18) 0. 0.00242(14) 0.
+Se2 Se0+ 0.02255(15) 0.01615(13) 0.02347(15) -0.00139(8) -0.00257(10) 0.00158(9)
+Na1 Na1+ 0.0241(7) 0.0216(7) 0.0328(8) 0. 0.0054(6) 0.
+N1 N3- 0.0178(15) 0.0234(14) 0.0283(16) 0. -0.0013(13) 0.
+N2 N3- 0.0296(17) 0.0237(15) 0.0371(19) 0. 0.0029(15) 0.
+N3 N3- 0.0248(11) 0.0243(11) 0.0294(13) 0.0016(9) -0.0002(10) 0.0026(9)
+N4 N3- 0.060(3) 0.037(2) 0.033(2) 0. 0.007(2) 0.
+N5 N3- 0.0325(19) 0.0219(16) 0.0295(19) 0. 0.0079(17) 0.
+N6 N3- 0.0284(13) 0.0331(13) 0.0275(13) -0.0030(10) 0.0015(11) -0.0042(11)
+#End of TTdata_413743-ICSD

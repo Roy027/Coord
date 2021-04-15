@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200835-ICSD
+_database_code_ICSD 200835
+_audit_creation_date 1980-12-31
+_audit_update_record 2000-12-16
+_chemical_name_systematic 'Sodium rhenium sulfide (2/3/6)'
+_chemical_formula_structural 'Na2 (Re3 S6)'
+_chemical_formula_sum 'Na2 Re3 S6'
+_chemical_name_structure_type Na2Re3S6
+_exptl_crystal_density_diffrn 6.09
+_publ_section_title
+'Na2 Re3 S6 und K2 Re3 S6, zwei Thiorhenate mit (Re6 S8) - Clustern'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1980 76 73 79 JCOMAH
+loop_
+_publ_author_name
+'Bronger, W.'
+'Spangenberg, M.'
+_cell_length_a 15.830(8)
+_cell_length_b 9.582(4)
+_cell_length_c 11.472(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.41(4)
+_cell_angle_gamma 90.
+_cell_volume 1738.57
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re3+ 3
+S2- -2
+S1- -1
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re3+ 8 f 0.1554(1) 0.1455(2) 0.4676(1) . 1. 0
+Re2 Re3+ 8 f 0.2972(1) 0.1822(2) 0.3666(1) . 1. 0
+Re3 Re3+ 8 f 0.2028(1) 0.3969(2) 0.4149(1) . 1. 0
+S1 S2- 8 f 0.1617(6) 0.081(1) 0.6672(8) . 1. 0
+S2 S2- 8 f 0.2501(6) 0.455(1) 0.0752(8) . 1. 0
+S3 S2- 8 f 0.3387(6) 0.271(1) 0.7309(7) . 1. 0
+S4 S2- 8 f 0.4256(5) 0.151(1) 0.4862(7) . 1. 0
+S5 S1- 8 f 0.0293(6) 0.992(1) 0.9199(8) . 1. 0
+S6 S2- 8 f 0.3648(5) 0.097(1) 0.1907(7) . 1. 0
+Na1 Na1+ 4 e 0 0.425(2) 0.25 . 1. 0
+Na2 Na1+ 4 e 0 0.789(3) 0.25 . 1. 0
+Na3 Na1+ 8 f 0.378(1) 0.271(2) 0.989(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re3+ 0.0146(5) 0.0187(6) 0.0106(5) -.0006(5) 0.0039(4) -.0001(5)
+Re2 Re3+ 0.0152(5) 0.0168(5) 0.0103(5) -.0002(5) 0.0047(4) -.0001(5)
+Re3 Re3+ 0.0138(5) 0.0184(6) 0.0113(5) 0.0011(5) 0.0046(4) 0.0003(5)
+S1 S2- 0.026(4) 0.020(4) 0.016(3) -.003(4) 0.008(3) 0.003(3)
+S2 S2- 0.025(4) 0.012(4) 0.022(4) 0.002(3) 0.004(3) 0.004(3)
+S3 S2- 0.018(4) 0.026(4) 0.010(3) -.001(3) 0.004(3) -.004(3)
+S4 S2- 0.019(3) 0.020(4) 0.016(3) -.001(3) 0.009(3) -.003(3)
+S5 S1- 0.025(4) 0.039(6) 0.018(4) 0.007(4) 0.011(3) 0.006(4)
+S6 S2- 0.021(4) 0.021(4) 0.016(3) -.006(3) 0.009(3) -.009(3)
+Na1 Na1+ 0.05(2) 0.04(2) 0.08(2) 0 0.00(2) 0
+Na2 Na1+ 0.03(1) 0.02(1) 0.04(1) 0 -.01(1) 0
+Na3 Na1+ 0.04(1) 0.05(1) 0.05(1) -.01(1) -.01(1) 0.00(1)
+#End of TTdata_200835-ICSD

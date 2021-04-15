@@ -1,0 +1,150 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194132-ICSD
+_database_code_ICSD 194132
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Bismuth sodium oxide chloride (6/1/7.5/4)'
+_chemical_formula_structural 'Bi6 Na O7.5 Cl4'
+_chemical_formula_sum 'Bi6 Cl4 Na1 O7.5'
+_exptl_crystal_density_diffrn 7.49
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Multidimensional open-frameworks: combinations of one-dimensional channels and
+two-dimensional layers in novel Bi/M oxo-chlorides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 528 536 INOCAJ
+loop_
+_publ_author_name
+'Lue, Minfeng'
+'Aliev, Almaz'
+'Olchowka, Jacob'
+'Colmont, Marie'
+'Huve, Marielle'
+'Wickleder, Claudia'
+'Mentre, Olivier'
+_cell_length_a 3.85170(10)
+_cell_length_b 45.4530(9)
+_cell_length_c 15.5814(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2727.85
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0215
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 8 f 0.5 0.245102(6) 0.099667(18) 0.00894(7) 1 0
+Bi2 Bi3+ 8 f 0 0.179950(6) 0.039450(19) 0.00999(7) 1 0
+Bi3 Bi3+ 8 f -0.5 0.042056(6) 0.003437(18) 0.01044(7) 1 0
+Bi4 Bi3+ 4 c 0.5 0.164457(10) 0.25 0.02157(13) 1 0
+Bi5 Bi3+ 8 f 0 0.092413(7) -0.12725(2) 0.00930(9) 0.8541(12) 0
+Na1 Na1+ 8 f 0 0.092413(7) -0.12725(2) 0.00930(9) 0.1459(12) 0
+Bi6 Bi3+ 8 f 0 0.09400(9) 0.1260(6) 0.0120(7) 0.34(3) 0
+Bi7 Bi3+ 8 f 0 0.1014(3) 0.1423(4) 0.0305(10) 0.66(3) 0
+Bi8 Bi3+ 4 c -0.5 0.043138(12) 0.25 0.00904(15) 0.6712(17) 0
+Na2 Na1+ 4 c -0.5 0.043138(12) 0.25 0.00904(15) 0.3288(17) 0
+Bi9 Bi3+ 4 c -0.5 0.040624(12) -0.25 0.00875(16) 0.6205(16) 0
+Na3 Na1+ 4 c -0.5 0.040624(12) -0.25 0.00875(16) 0.3795(16) 0
+Na4 Na1+ 4 c -0.5 0.32204(13) 0.25 0.0309(18) 1 0
+Cl1 Cl1- 4 c 0 0.22666(6) 0.25 0.0164(7) 1 0
+Cl2 Cl1- 8 f 0.5 0.12730(4) -0.00257(13) 0.0165(5) 1 0
+Cl3 Cl1- 8 f 0 0.30043(5) 0.12789(14) 0.0200(6) 1 0
+Cl4 Cl1- 4 c 0 0.37168(6) 0.25 0.0190(8) 1 0
+Cl5 Cl1- 8 f 0 0.00066(5) 0.12738(14) 0.0206(6) 1 0
+O1 O2- 8 f 0.5 0.19693(11) 0.0937(3) 0.0098(14) 1 0
+O2 O2- 4 c 0 0.06644(18) -0.25 0.016(2) 1 0
+O3 O2- 8 f 0 0.23301(11) 0.0336(3) 0.0091(14) 1 0
+O4 O2- 8 f 0 0.15577(11) 0.1565(4) 0.0142(15) 1 0
+O5 O2- 8 f -0.5 0.06708(12) 0.1228(3) 0.0119(15) 1 0
+O6 O2- 8 f -0.5 0.06622(12) -0.1234(3) 0.0131(15) 1 0
+O7 O2- 4 c 0 0.06824(16) 0.25 0.012(2) 1 0
+O8 O2- 8 f 0 0.06652(12) -0.0034(3) 0.0129(16) 1 0
+O9 O2- 8 g -0.427(3) 0.1169(2) 0.25 0.028(5) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.00806(11) 0.00951(12) 0.00924(13) 0 0 -0.00034(10)
+Bi2 Bi3+ 0.00845(11) 0.01033(12) 0.01119(13) 0 0 -0.00175(10)
+Bi3 Bi3+ 0.00973(12) 0.01010(13) 0.01149(14) 0 0 -0.00017(10)
+Bi4 Bi3+ 0.0390(3) 0.01048(19) 0.0152(2) 0 0 0
+Bi5 Bi3+ 0.00921(14) 0.00964(15) 0.00906(16) 0 0 0.00002(11)
+Na1 Na1+ 0.00921(14) 0.00964(15) 0.00906(16) 0 0 0.00002(11)
+Bi6 Bi3+ 0.0183(7) 0.0054(15) 0.0123(12) 0 0 -0.0005(7)
+Bi7 Bi3+ 0.0268(4) 0.049(3) 0.0153(9) 0 0 0.0126(14)
+Bi8 Bi3+ 0.0083(2) 0.0087(3) 0.0102(3) 0 0 0
+Na2 Na1+ 0.0083(2) 0.0087(3) 0.0102(3) 0 0 0
+Bi9 Bi3+ 0.0082(3) 0.0087(3) 0.0093(3) 0 0 0
+Na3 Na1+ 0.0082(3) 0.0087(3) 0.0093(3) 0 0 0
+Na4 Na1+ 0.027(3) 0.035(3) 0.030(3) 0 0 0
+Cl1 Cl1- 0.0162(12) 0.0200(13) 0.0130(13) 0 0 0
+Cl2 Cl1- 0.0161(9) 0.0141(9) 0.0194(10) 0 0 -0.0013(7)
+Cl3 Cl1- 0.0210(9) 0.0195(10) 0.0194(11) 0 0 -0.0025(8)
+Cl4 Cl1- 0.0195(13) 0.0171(13) 0.0203(15) 0 0 0
+Cl5 Cl1- 0.0203(10) 0.0217(11) 0.0199(11) 0 0 0.0005(8)
+O1 O2- 0.008(2) 0.011(2) 0.010(3) 0 0 0.000(2)
+O2 O2- 0.020(4) 0.018(4) 0.010(4) 0 0 0
+O3 O2- 0.010(2) 0.009(2) 0.009(2) 0 0 0.002(2)
+O4 O2- 0.022(3) 0.009(2) 0.011(3) 0 0 -0.001(2)
+O5 O2- 0.012(2) 0.011(2) 0.013(3) 0 0 -0.003(2)
+O6 O2- 0.010(2) 0.016(3) 0.013(3) 0 0 0.006(2)
+O7 O2- 0.016(4) 0.012(4) 0.007(4) 0 0 0
+O8 O2- 0.010(2) 0.017(3) 0.012(3) 0 0 0.002(2)
+O9 O2- 0.015(9) 0.011(5) 0.060(9) 0.005(4) 0 0
+#End of TTdata_194132-ICSD

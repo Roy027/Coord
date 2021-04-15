@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_244234-ICSD
+_database_code_ICSD 244234
+_audit_creation_date 2018-02-01
+_chemical_name_systematic
+catena-poly[[diaquasodium(I)]-mu-oxalato-[diaquairon(III)]-mu-oxalato]
+_chemical_formula_structural 'Na Fe (C2 O4)2 (H2 O)4'
+_chemical_formula_sum 'C4 H8 Fe1 Na1 O12'
+_exptl_crystal_density_diffrn 2.08
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+The new one-dimensional coordination polymer
+catena-poly[[diaquasodium(I)]-mu-oxalato-[diaquairon(III)]-mu-oxalato]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Structural Chemistry' 2016 72 243
+250 ACSCGG
+loop_
+_publ_author_name
+'Benhacine, Mohamed Al Amine'
+'Hamadene, Malika'
+'Bouacida, Sofiane'
+'Merazig, Hocine'
+_cell_length_a 9.8572(9)
+_cell_length_b 9.8572(9)
+_cell_length_c 10.7595(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1045.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41'
+_symmetry_Int_Tables_number 80
+_refine_ls_R_factor_all 0.0285
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'y+1/2, -x, z+3/4'
+6 '-y+1/2, x, z+3/4'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+C3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0. 0.5 0.24930(4) 0.02613(14) 1 0
+Na1 Na1+ 4 a 0.5 0.5 -0.0057(2) 0.0326(3) 1 0
+O1 O2- 8 b 0.3034(2) 0.3674(2) 0.03667(19) 0.0370(5) 1 0
+O2 O2- 8 b -0.0682(2) 0.6217(3) 0.3906(2) 0.0431(6) 1 0
+H1 H1+ 8 b -0.022 0.6245 0.4558 0.065 1 0
+H2 H1+ 8 b -0.1488 0.647 0.3991 0.065 1 0
+O3 O2- 8 b 0.1051(2) 0.3790(2) 0.13547(18) 0.0328(5) 1 0
+O4 O2- 8 b 0.3741(2) 0.6051(2) -0.16968(19) 0.0378(6) 1 0
+H3 H1+ 8 b 0.2991 0.615 -0.1344 0.057 1 0
+H4 H1+ 8 b 0.397 0.6755 -0.2071 0.057 1 0
+O5 O2- 8 b 0.3698(2) 0.6130(2) 0.14568(19) 0.0336(5) 1 0
+O6 O2- 8 b 0.16580(19) 0.6123(2) 0.2348(2) 0.0295(4) 1 0
+C1 C3+ 8 b 0.2232(3) 0.4232(3) 0.1054(2) 0.0265(6) 1 0
+C2 C3+ 8 b 0.2591(3) 0.5624(3) 0.1659(2) 0.0252(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0202(3) 0.0308(3) 0.0274(2) -0.0046(3) 0. 0.
+Na1 Na1+ 0.0222(9) 0.0442(10) 0.0312(7) 0.0028(8) 0. 0.
+O1 O2- 0.0332(13) 0.0379(13) 0.0400(10) 0.0005(11) 0.0035(9) -0.0106(9)
+O2 O2- 0.0322(14) 0.0607(16) 0.0362(10) 0.0145(11) 0.0010(9) -0.0100(10)
+O3 O2- 0.0285(12) 0.0336(13) 0.0362(10) -0.0105(10) 0.0028(9) -0.0078(9)
+O4 O2- 0.0405(15) 0.0348(13) 0.0380(11) 0.0043(10) 0.0064(9) 0.0041(9)
+O5 O2- 0.0246(12) 0.0331(13) 0.0431(10) -0.0097(9) 0.0063(9) -0.0039(9)
+O6 O2- 0.0233(10) 0.0307(11) 0.0344(9) -0.0049(8) 0.0031(9) -0.0085(8)
+C1 C3+ 0.0279(16) 0.0257(16) 0.0258(12) -0.0055(12) -0.0019(10) 0.0003(10)
+C2 C3+ 0.0250(15) 0.0270(15) 0.0236(11) -0.0050(11) -0.0015(10) 0.0008(9)
+#End of TTdata_244234-ICSD

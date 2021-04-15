@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_48118-ICSD
+_database_code_ICSD 48118
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Potassium tetrasodium tetraoxogallate'
+_chemical_formula_structural 'K Na4 (Ga O4)'
+_chemical_formula_sum 'Ga1 K1 Na4 O4'
+_chemical_name_structure_type Na5FeO4
+_exptl_crystal_density_diffrn 3.01
+_publ_section_title
+'Zur Kenntnis der Na5 (Ga O4)-Verwandtschaft: K Na4 (Ga O4) und Cs K4 (Ga O4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+511 201 211 ZAACAB
+loop_
+_publ_author_name
+'Koehler, J.'
+'Hoppe, R.'
+_cell_length_a 10.461(2)
+_cell_length_b 5.963(1)
+_cell_length_c 18.711(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1167.17
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.0829
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Na1+ 1
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 8 c 0.0371(1) 0.2971(2) 0.1284(1) . 1. 0
+Na1 Na1+ 8 c 0.0565(4) 0.0988(7) 0.9333(2) . 1. 0
+Na2 Na1+ 8 c 0.3038(4) 0.3895(7) 0.1438(2) . 1. 0
+Na3 Na1+ 8 c 0.1754(4) 0.00788(7) 0.3221(2) . 1. 0
+Na4 Na1+ 8 c 0.0746(4) 0.5654(7) 0.2515(3) . 1. 0
+K1 K1+ 8 c 0.1561(2) 0.5906(4) 0.9958(1) . 1. 0
+O1 O2- 8 c 0.0367(7) 0.6079(11) 0.1244(4) . 1. 0
+O2 O2- 8 c 0.3665(6) 0.1973(11) 0.3643(4) . 1. 0
+O3 O2- 8 c 0.3847(7) 0.6666(11) 0.0500(4) . 1. 0
+O4 O2- 8 c 0.3720(7) 0.7117(12) 0.2088(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0039(4) 0.0055(4) 0.0089(5) -.0007(5) -.0005(5) -.0006(5)
+Na1 Na1+ 0.0138(21) 0.0138(19) 0.0238(22) -.0008(17) -.0020(18) 0.0015(17)
+Na2 Na1+ 0.0088(19) 0.0146(19) 0.0343(25) -.0023(19) 0.0023(19) -.0030(17)
+Na3 Na1+ 0.0112(20) 0.0186(21) 0.0191(21) 0.0035(17) -.0007(17) -.0019(17)
+Na4 Na1+ 0.0244(24) 0.0267(23) 0.00196(20) -.0063(21) -.0041(19) 0.0052(19)
+K1 K1+ 0.0125(11) 0.0217(13) 0.0167(12) 0.0053(10) -.0026(10) -.0053(10)
+O1 O2- 0.0185(31) 0.0084(28) 0.0176(31) 0.0078(28) 0.0070(33) 0.0003(30)
+O2 O2- 0.0116(29) 0.0076(28) 0.0188(34) -.00016(31) -.0017(28) -.0007(29)
+O3 O2- 0.0099(31) 0.0117(33) 0.0127(31) -.0071(27) -.0035(28) 0.0018(26)
+O4 O2- 0.007(3) 0.0129(30) 0.0223(35) -.0026(30) -.0017(28) -.0013(29)
+#End of TTdata_48118-ICSD

@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14048-ICSD
+_database_code_ICSD 14048
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium cadmium phosphate(V)'
+_chemical_formula_structural 'Na Cd (P O4)'
+_chemical_formula_sum 'Cd1 Na1 O4 P1'
+_exptl_crystal_density_diffrn 4.3
+_publ_section_title 'The crystal structure of Na Cd P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Report of the Research Laboratory of Engineering Materials, Tokyo Institute of
+Technology
+; 1979 4 43 48 RRLTDF
+loop_
+_publ_author_name
+'Hata, M.'
+'Okada, K.'
+'Akao, M.'
+'Aoki, H.'
+'Iwai, S.I.'
+_cell_length_a 6.500(1)
+_cell_length_b 10.842(1)
+_cell_length_c 5.051(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 355.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 n b'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, z+1/2'
+3 'x+1/2, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 4 a 0.25 0.2142(1) 0.0145(1) . 1. 0
+Na1 Na1+ 4 a -.0009(2) 0.4948(9) 0.0006(2) . 1. 0
+P1 P5+ 4 a 0.2431(4) 0.3962(1) 0.5673(2) . 1. 0
+O1 O2- 4 a 0.2564(4) 0.3928(3) 0.2644(5) . 1. 0
+O2 O2- 4 a -.0602(10) -.3347(5) -.6971(15) . 1. 0
+O3 O2- 4 a 0.2449(14) 0.0290(2) 0.8272(6) . 1. 0
+O4 O2- 4 a 0.0638(9) 0.3230(5) 0.6835(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd2+ 0.0068 0.0057 0.0074 0.0003 0.0006 0.0003
+Na1 Na1+ 0.0122 0.015 0.0112 0.0037 0.0019 -.0002
+P1 P5+ 0.0039 0.0051 0.005 -.0003 -.0011 0.0001
+O1 O2- 0.0124 0.0095 0.0055 -.0008 0.0035 -.0007
+O2 O2- 0.0096 0.0046 0.0079 -.0019 0.0004 0.0004
+O3 O2- 0.0114 0.0046 0.0098 0.003 0.0003 -.0002
+O4 O2- 0.0065 0.0096 0.0079 -.0042 -.0012 -.0005
+#End of TTdata_14048-ICSD

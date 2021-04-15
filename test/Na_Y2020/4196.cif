@@ -1,0 +1,75 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_4196-ICSD
+_database_code_ICSD 4196
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Tetrasodium cobaltate(IV)'
+_chemical_formula_structural 'Na4 (Co O4)'
+_chemical_formula_sum 'Co1 Na4 O4'
+_exptl_crystal_density_diffrn 2.88
+_publ_section_title 'Die Kristallstruktur von Na4 Co O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1975
+417 35 40 ZAACAB
+loop_
+_publ_author_name
+'Jansen, M.'
+_cell_length_a 8.65(8)
+_cell_length_b 5.70(2)
+_cell_length_c 6.4
+_cell_angle_alpha 123.9
+_cell_angle_beta 98.1
+_cell_angle_gamma 99.2
+_cell_volume 248.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0.9208(6) 0.0942(9) 0.5719(9) 0.93 1. 0
+Na2 Na1+ 1 a 0.1399(7) 0.6234(9) 0.1107(10) 0.99 1. 0
+Na3 Na1+ 1 a 0.5668(7) 0.7793(11) 0.7629(10) 1.05 1. 0
+Na4 Na1+ 1 a 0.7335(8) 0.4369(11) 0.9154(10) 1.03 1. 0
+Na5 Na1+ 1 a 0.3130(7) 0.2323(10) 0.6778(11) 1.18 1. 0
+Na6 Na1+ 1 a 0.7616(8) 0.4041(12) 0.3870(11) 1.03 1. 0
+Na7 Na1+ 1 a 0.3494(9) 0.2467(10) 0.2105(11) 1.04 1. 0
+Na8 Na1+ 1 a 0.1743(7) 0.6555(12) 0.6367(10) 0.9 1. 0
+Co1 Co4+ 1 a 0.9941(2) 0.0026(3) 0.0026(3) 0.39 1. 0
+Co2 Co4+ 1 a 0.5021(2) 0.8747(3) 0.3152(3) 0.42 1. 0
+O1 O2- 1 a 0.6779(12) 0.7479(14) 0.3211(15) 0.84 1. 0
+O2 O2- 1 a 0.5474(11) 0.2715(16) 0.5194(14) 0.75 1. 0
+O3 O2- 1 a 0.3946(13) 0.7460(14) 0.9929(15) 0.91 1. 0
+O4 O2- 1 a 0.3697(12) 0.7556(15) 0.4471(16) 0.71 1. 0
+O5 O2- 1 a 0.1096(14) 0.1268(16) 0.3230(13) 0.89 1. 0
+O6 O2- 1 a 0.9380(11) 0.6004(13) 0.7947(17) 0.93 1. 0
+O7 O2- 1 a 0.8260(12) 0.1435(13) 0.0113(16) 0.78 1. 0
+O8 O2- 1 a 0.1357(13) 0.1162(16) 0.8615(15) 0.65 1. 0
+#End of TTdata_4196-ICSD

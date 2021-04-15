@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412964-ICSD
+_database_code_ICSD 412964
+_audit_creation_date 2005-04-01
+_chemical_name_systematic
+'Tetrasodium calcium tetrairon(III) hexakis(phosphate(V))'
+_chemical_formula_structural 'Na4 Ca Fe4 (P O4)6'
+_chemical_formula_sum 'Ca1 Fe4 Na4 O24 P6'
+_chemical_name_structure_type Alluaudite
+_exptl_crystal_density_diffrn 3.47
+_publ_section_title
+
+;
+Characterization by X-ray diffraction, magnetic susceptibility and Mossbauer
+spectroscopy of a new alluaudite-like phosphate: Na4 Ca Fe4 (P O4)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 55 60 JSSCBI
+loop_
+_publ_author_name
+'Hidouri, M.'
+'Lajmi, B.'
+'Wattiaux, A.'
+'Fournes, L.'
+'Darriet, J.'
+'Amara, M.B.'
+_cell_length_a 12.099(5)
+_cell_length_b 12.480(5)
+_cell_length_c 6.404(2)
+_cell_angle_alpha 90
+_cell_angle_beta 113.77(3)
+_cell_angle_gamma 90
+_cell_volume 884.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 8 f 0.2240(1) 0.1559(1) 0.1400(1) 0.007(1) 1. 0
+Na1 Na1+ 4 e 0. 0.2650(1) 0.25 0.015(1) 0.5 0
+Ca1 Ca2+ 4 e 0. 0.2650(1) 0.25 0.015(1) 0.5 0
+Na2 Na1+ 4 b 0.5 0 0 0.010(1) 1. 0
+Na3 Na1+ 4 e 0 0.0070(4) 0.75 0.035(1) 0.5 0
+P1 P5+ 4 e 0 0.2752(1) 0.75 0.005(1) 1. 0
+P2 P5+ 8 f 0.2456(1) -.1034(1) 0.1335(1) 0.006(1) 1. 0
+O1 O2- 8 f 0.0525(2) 0.2038(2) 0.9632(3) 0.009(1) 1. 0
+O2 O2- 8 f 0.0962(2) 0.3498(2) 0.7284(3) 0.010(1) 1. 0
+O3 O2- 8 f 0.3767(2) -.0869(2) 0.1825(3) 0.015(1) 1. 0
+O4 O2- 8 f 0.1812(2) 0.0043(2) 0.1209(3) 0.012(1) 1. 0
+O5 O2- 8 f 0.1788(2) -.1620(2) -.0953(3) 0.009(1) 1. 0
+O6 O2- 8 f 0.2340(2) -.1738(2) 0.3263(3) 0.008(1) 1. 0
+#End of TTdata_412964-ICSD

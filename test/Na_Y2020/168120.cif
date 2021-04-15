@@ -1,0 +1,131 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_168120-ICSD
+_database_code_ICSD 168120
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Disodium beryllotetrasilicate 3.77-hydrate'
+_chemical_formula_structural 'Na2 (Be Si4 O10) (H2 O)3.77'
+_chemical_formula_sum 'H7.54 Be1 Na2 O13.77 Si4'
+_chemical_name_mineral Nabesite
+_exptl_crystal_density_diffrn 2.24
+_cell_measurement_temperature 120.
+_publ_section_title
+
+;
+Combined single-crystal x-ray and neutron powder diffraction structure
+analysis exemplified through full structure determinations of framework and
+layer beryllate minerals
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2010 95 519 526 AMMIAY
+loop_
+_publ_author_name
+'Armstrong, J.A.'
+'Friis, H.'
+'Lieb, A.'
+'Finch, A.A.'
+'Weller, M.T.'
+_cell_length_a 9.7175(5)
+_cell_length_b 10.1361(5)
+_cell_length_c 11.8878(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1170.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.0068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Be2+ 2
+Si4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.02305(4) 0.19135(4) 0.81969(4) 0.0124 1. 0
+Na2 Na1+ 4 a 0.36397(4) 0.25068(4) 0.74081(4) 0.01603 1. 0
+Be1 Be2+ 4 a 0.2419(2) 0.2631(2) 0.25732(9) 0.00681 1. 0
+Si1 Si4+ 4 a 0.07752(3) 0.35377(3) 0.06705(2) 0.00566 1. 0
+Si2 Si4+ 4 a 0.40206(3) 0.36422(3) 0.44736(2) 0.00574 1. 0
+Si3 Si4+ 4 a 0.28527(3) 0.14862(3) 0.03361(2) 0.00577 1. 0
+Si4 Si4+ 4 a 0.20469(3) 0.14805(3) 0.48034(2) 0.00574 1. 0
+O1 O2- 4 a 0.11450(7) 0.34306(6) 0.19655(5) 0.00713 1. 0
+O2 O2- 4 a 0.11804(7) 0.49547(5) 0.01178(5) 0.00873 1. 0
+O3 O2- 4 a -0.08718(6) 0.33002(6) 0.05361(5) 0.00797 1. 0
+O4 O2- 4 a 0.15832(7) 0.24267(6) -0.00831(5) 0.00693 1. 0
+O5 O2- 4 a 0.34677(7) 0.36601(6) 0.32177(5) 0.00707 1. 0
+O6 O2- 4 a 0.56498(7) 0.32750(6) 0.44779(5) 0.00871 1. 0
+O7 O2- 4 a 0.31877(6) 0.25543(6) 0.52376(5) 0.00667 1. 0
+O8 O2- 4 a 0.32601(7) 0.18187(6) 0.15891(5) 0.00755 1. 0
+O9 O2- 4 a 0.23591(7) -0.00391(6) 0.01777(5) 0.00805 1. 0
+O10 O2- 4 a 0.18103(7) 0.15696(6) 0.34853(5) 0.0084 1. 0
+O11 O2- 4 a 0.21315(8) 0.07221(7) 0.76340(5) 0.00648 0.931(3) 0
+O12 O2- 4 a 0.15355(7) 0.37184(6) 0.74025(5) 0.00968 0.953(3) 0
+O13 O2- 4 a -0.06814(8) 0.02190(7) 0.95231(6) 0.013 0.951(3) 0
+O14 O2- 4 a 0.47553(7) 0.43982(7) 0.80646(6) 0.00976 0.931(3) 0
+H1 H1+ 4 a 0.250(2) 0.003(1) 0.807(1) 0.055(4) 0.931(3) 0
+H2 H1+ 4 a 0.181(2) 0.030(2) 0.6983(8) 0.076(6) 0.931(3) 0
+H3 H1+ 4 a 0.158(2) 0.4514(7) 0.781(1) 0.055(4) 0.953(3) 0
+H4 H1+ 4 a 0.099(2) 0.384(2) 0.6757(9) 0.092(6) 0.953(3) 0
+H5 H1+ 4 a -0.1577(6) 0.021(2) -0.018(2) 0.079(6) 0.951(3) 0
+H6 H1+ 4 a -0.015(2) 0.018(2) 0.018(1) 0.116(7) 0.951(3) 0
+H7 H1+ 4 a 0.442(2) 0.5172(6) 0.7727(9) 0.025(3) 0.931(3) 0
+H8 H1+ 4 a 0.5524(9) 0.426(2) 0.7601(9) 0.051(4) 0.931(3) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0102(2) 0.0127(2) 0.0144(2) 0.0019(2) -0.0014(2) -0.0038(2)
+Na2 Na1+ 0.0176(3) 0.0124(2) 0.0180(3) 0.0005(2) -0.0016(2) 0.0009(2)
+Be1 Be2+ 0.0061(6) 0.0074(6) 0.0070(6) 0.0010(4) -0.0018(5) 0.0005(4)
+Si1 Si4+ 0.0055(2) 0.0049(2) 0.0066(2) 0.00038(9) -0.0005(1) 0.0004(1)
+Si2 Si4+ 0.0058(2) 0.0047(2) 0.0067(2) -0.00062(9) -0.00018(9) -0.0004(1)
+Si3 Si4+ 0.0056(2) 0.0049(2) 0.0067(2) 0.00025(9) -0.0001(1) -0.00018(9)
+Si4 Si4+ 0.0057(2) 0.0048(2) 0.0067(2) -0.00071(9) -0.0002(1) 0.00014(9)
+O1 O2- 0.0069(4) 0.0066(4) 0.0079(4) 0.0014(3) -0.0012(3) -0.0004(3)
+O2 O2- 0.0110(4) 0.0059(4) 0.0093(4) 0.0001(3) -0.0001(3) 0.0008(3)
+O3 O2- 0.0071(4) 0.0090(4) 0.0079(4) -0.0001(3) 0.0000(3) 0.0008(3)
+O4 O2- 0.0080(4) 0.0060(4) 0.0068(4) 0.0003(3) -0.0005(3) -0.0002(3)
+O5 O2- 0.0077(4) 0.0051(3) 0.0084(3) -0.0009(3) -0.0010(3) 0.0001(3)
+O6 O2- 0.0072(4) 0.0104(4) 0.0086(4) 0.0002(3) -0.0002(3) -0.0018(3)
+O7 O2- 0.0078(4) 0.0055(4) 0.0067(4) 0.0001(3) -0.0001(3) -0.0003(3)
+O8 O2- 0.0071(4) 0.0073(4) 0.0082(4) 0.0012(3) -0.0006(3) -0.0000(3)
+O9 O2- 0.0082(4) 0.0067(4) 0.0093(4) -0.0005(3) 0.0011(3) -0.0005(3)
+O10 O2- 0.0090(4) 0.0077(4) 0.0085(4) -0.0018(3) -0.0014(3) 0.0003(3)
+O11 O2- 0.0110(4) 0.0039(4) 0.0045(4) 0.0035(3) -0.0027(3) -0.0008(3)
+O12 O2- 0.0149(4) 0.0065(4) 0.0077(4) 0.0006(3) -0.0021(3) -0.0016(3)
+O13 O2- 0.0136(5) 0.0127(4) 0.0127(4) -0.0032(3) -0.0024(4) 0.0007(4)
+O14 O2- 0.0109(4) 0.0074(4) 0.0110(4) 0.0025(3) 0.0002(4) 0.0059(3)
+#End of TTdata_168120-ICSD

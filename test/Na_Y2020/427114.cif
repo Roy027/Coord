@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427114-ICSD
+_database_code_ICSD 427114
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Dilead(II) sodium periodate'
+_chemical_formula_structural 'Pb2 Na I O6'
+_chemical_formula_sum 'I1 Na1 O6 Pb2'
+_chemical_name_structure_type Perovskite-Na3AlF6
+_exptl_crystal_density_diffrn 7.83
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis and crystal structures of a stable, a metastable and a high
+temperature modification of Pb2NaIO6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 3184 3189 ZAACAB
+loop_
+_publ_author_name
+'Kubel, Frank'
+'Pantazi, Mariana'
+'Wandl, Nicole'
+'Hagemann, Hans'
+_cell_length_a 5.90398(16)
+_cell_length_b 5.75255(15)
+_cell_length_c 10.1104(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 125.3406(15)
+_cell_angle_gamma 90.
+_cell_volume 280.1
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+I7+ 7
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 4 e 0.2565(4) 0.4938(4) 0.25450(13) 0.0238(4) 1. 0
+I1 I7+ 2 d 0.5 0 0.5 0.0070(5) 1. 0
+Na1 Na1+ 2 a 0 0 0 0.017(2) 1. 0
+O1 O2- 4 e 0.1921(21) 0.037(3) 0.2540(11) 0.047(2) 1. 0
+O2 O2- 4 e 0.3398(22) 0.2420(20) 0.0454(15) 0.047(2) 1. 0
+O3 O2- 4 e 0.281(3) 0.7245(20) 0.0310(23) 0.047(2) 1. 0
+#End of TTdata_427114-ICSD

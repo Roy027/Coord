@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1939-ICSD
+_database_code_ICSD 1939
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Trisodium cyclo-pentaoxodihydroxotriborate'
+_chemical_formula_structural 'Na3 (B3 O5 (O H)2)'
+_chemical_formula_sum 'H2 B3 Na3 O7'
+_exptl_crystal_density_diffrn 2.35
+_publ_section_title 'The crystal structure of Na3 B3 O5 (O H)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 1993 1997 ACBCAR
+loop_
+_publ_author_name
+'Corazza, E.'
+'Menchetti, S.'
+'Sabelli, C.'
+_cell_length_a 8.923(1)
+_cell_length_b 7.152(1)
+_cell_length_c 9.548(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 609.33
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 d 0.27174(7) 0.50189(9) 0.30250(7) . 1. 0
+Na2 Na1+ 4 c 0.53606(11) 0.75 0.33138(10) . 1. 0
+B1 B3+ 4 c 0.51456(28) 0.25 0.21562(25) . 1. 0
+B2 B3+ 4 c 0.59687(28) 0.25 -.04128(27) . 1. 0
+B3 B3+ 4 c 0.32457(27) 0.25 0.01941(26) . 1. 0
+O1 O2- 8 d 0.53287(13) 0.41888(16) 0.30500(11) . 1. 0
+O2 O2- 4 c 0.36184(17) 0.25 0.15959(16) . 1. 0
+O3 O2- 4 c 0.62712(17) 0.25 0.10239(16) . 1. 0
+O4 O2- 4 c 0.70061(18) 0.25 -.13946(17) . 1. 0
+O5 O2- 4 c 0.44165(17) 0.25 -.07923(16) . 1. 0
+O6 O2- 4 c 0.18312(16) 0.25 -.02559(16) . 1. 0
+H1 H1+ 8 d 0.578(2) 0.392(3) 0.374(2) 2. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00338(8) 0.00575(12) 0.00381(7) -.00036(8) -.00005(6) -.00051(8)
+Na2 Na1+ 0.00355(11) 0.00597(18) 0.00433(11) 0 0.00065(9) 0
+B1 B3+ 0.00220(27) 0.00502(44) 0.00171(23) 0 -.00017(21) 0
+B2 B3+ 0.00270(27) 0.00355(41) 0.00265(24) 0 0.00010(21) 0
+B3 B3+ 0.00263(27) 0.00353(41) 0.00243(25) 0 0.00002(21) 0
+O1 O2- 0.00346(13) 0.00496(20) 0.00266(11) 0.00023(14) -.00064(10) -.00031(13)
+O2 O2- 0.00206(17) 0.00739(31) 0.00198(16) 0 -.00016(14) 0
+O3 O2- 0.00222(17) 0.00765(31) 0.00205(15) 0 0.00022(14) 0
+O4 O2- 0.00349(19) 0.00751(32) 0.00280(17) 0 0.00087(15) 0
+O5 O2- 0.00266(19) 0.01247(37) 0.00191(17) 0 0.00010(14) 0
+O6 O2- 0.00236(18) 0.00772(31) 0.00236(17) 0 -.00029(14) 0
+#End of TTdata_1939-ICSD

@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_192203-ICSD
+_database_code_ICSD 192203
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium potassium aluminosilicate (3/0.71/4)'
+_chemical_formula_structural 'Na3 K0.71 (Al Si O4)4'
+_chemical_formula_sum 'Al4 K0.71 Na3 O16 Si4'
+_chemical_name_structure_type KNa3Al4(SiO4)4
+_chemical_name_mineral Nepheline
+_exptl_crystal_density_diffrn 2.63
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Nephelines from the Somma-Vesuvius volcanic complex (Southern Italy):
+crystal-chemical, structural and genetic investigations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogy and Petrology' 2014 108 71 90 MIPEE9
+loop_
+_publ_author_name
+'Balassone, Giuseppina'
+'Kahlenberg, Volker'
+'Altomare, Angela'
+'Mormone, Angela'
+'Rizzi, Rosanna'
+'Saviano, Michele'
+'Mondillo, Nicola'
+_cell_length_a 9.9856(2)
+_cell_length_b 9.9856(2)
+_cell_length_c 8.3765(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 723.33
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0361
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 a 0 0 0.5087(2) 0.0209(3) 0.709(4) 0
+Na1 Na1+ 6 c 0.44608(8) 0.44303(7) 0.5152(2) 0.01811(14) 1 0
+Al1 Al3+ 2 b 0.3333 0.6667 0.70851(13) 0.00888(19) 1 0
+Si1 Si4+ 2 b 0.3333 0.6667 0.31965(12) 0.00917(17) 1 0
+Si2 Si4+ 6 c 0.24072(6) 0.33431(6) 0.82917(5) 0.00830(12) 1 0
+Al2 Al3+ 6 c 0.23939(7) 0.33199(7) 0.20244(6) 0.00818(14) 1 0
+O1 O2- 6 c 0.2929(9) 0.6634(19) 0.5089(8) 0.0280(11) 0.33 0
+O2 O2- 6 c 0.70894(14) 0.68273(18) 0.5086(3) 0.0221(3) 1 0
+O3 O2- 6 c 0.3504(2) 0.5240(2) 0.2580(4) 0.0305(5) 1 0
+O4 O2- 6 c 0.3492(2) 0.5103(2) 0.7707(4) 0.0259(4) 1 0
+O5 O2- 6 c 0.28751(19) 0.22682(18) 0.3311(2) 0.0129(3) 1 0
+O6 O2- 6 c 0.26746(18) 0.22418(19) 0.7082(3) 0.0156(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0166(3) 0.0166(3) 0.0295(5) 0.00832(14) 0 0
+Na1 Na1+ 0.0188(3) 0.0144(3) 0.0150(3) 0.0037(2) -0.0005(5) -0.0013(5)
+Al1 Al3+ 0.0084(3) 0.0084(3) 0.0098(5) 0.00421(13) 0 0
+Si1 Si4+ 0.0091(2) 0.0091(2) 0.0094(4) 0.00454(11) 0 0
+Si2 Si4+ 0.0075(2) 0.0079(2) 0.0105(3) 0.00457(16) -0.0003(2) -0.0001(2)
+Al2 Al3+ 0.0065(2) 0.0074(2) 0.0113(3) 0.00396(18) 0.0003(2) 0.0004(2)
+O1 O2- 0.036(5) 0.041(2) 0.0095(12) 0.022(5) -0.001(3) 0.001(4)
+O2 O2- 0.0160(5) 0.0441(7) 0.0111(5) 0.0189(5) 0.0001(7) 0.0000(9)
+O3 O2- 0.0103(7) 0.0082(7) 0.0741(15) 0.0055(6) -0.0028(8) -0.0074(8)
+O4 O2- 0.0116(7) 0.0070(6) 0.0597(12) 0.0051(6) 0.0086(7) 0.0078(7)
+O5 O2- 0.0173(6) 0.0121(6) 0.0136(6) 0.0106(5) 0.0004(6) 0.0006(6)
+O6 O2- 0.0190(7) 0.0156(6) 0.0180(7) 0.0132(6) -0.0032(6) -0.0047(6)
+#End of TTdata_192203-ICSD

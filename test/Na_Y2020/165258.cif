@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_165258-ICSD
+_database_code_ICSD 165258
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Sodium gold sulfide'
+_chemical_formula_structural 'Na Au S'
+_chemical_formula_sum 'Au1 Na1 S1'
+_exptl_crystal_density_diffrn 6.1
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Flux synthesis of Li Au S and Na Au S: "Chicken-wire-like" layer formation by
+interweaving of (Au S)n(n-) threads. Comparison with alpha-(Hg S) and A Au S
+(A = K, Rb)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1998 37 5583 5587 INOCAJ
+loop_
+_publ_author_name
+'Axtell, E.A.'
+'Liao Ju Hsiou'
+'Kanatzidis, M.G.'
+_cell_length_a 14.658(5)
+_cell_length_b 21.043(7)
+_cell_length_c 7.118(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2195.53
+_cell_formula_units_Z 32
+_symmetry_space_group_name_H-M 'C c c a Z'
+_symmetry_Int_Tables_number 68
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 '-x+1/2, y+1/2, -z+1/2'
+3 'x+1/2, -y, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z'
+6 'x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y, z+1/2'
+8 'x, y, z'
+9 'x+1/2, y, -z'
+10 '-x, y, -z+1/2'
+11 'x, -y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z'
+13 '-x+1/2, -y, z'
+14 'x, -y, z+1/2'
+15 '-x, y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au1+ 1
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au1+ 16 i 0.1180(2) 0.3733(2) 0.2196(5) 2.1(1) 1. 0
+Au2 Au1+ 8 g 0 0.25 0.465(1) 2.7(4) 1. 0
+Au3 Au1+ 8 d 0 0.5 0 2.1(3) 1. 0
+S1 S2- 16 i 0.128(6) 0.313(1) 0.491(3) 2.(1) 1. 0
+S2 S2- 16 i 0.129(5) 0.440(1) -0.040(3) 2.(1) 1. 0
+Na1 Na1+ 8 e 0.249(4) 0.25 0.75 3.(3) 1. 0
+Na2 Na1+ 8 f 0 0.138(2) 0.75 2.(2) 1. 0
+Na3 Na1+ 16 i 0.691(3) 0.066(2) 0.092(4) 2.(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au1+ 0.023(2) 0.028(2) 0.028(2) 0.001(2) -0.001(2) 0.003(2)
+Au2 Au1+ 0.040(7) 0.031(3) 0.031(4) -0.001(4) 0. 0.
+Au3 Au1+ 0.016(5) 0.026(3) 0.037(4) 0.002(3) -0.005(3) -0.004(2)
+S1 S2- 0.02(2) 0.03(1) 0.03(1) -0.01(2) 0.00(1) -0.006(9)
+S2 S2- 0.02(2) 0.02(1) 0.04(1) -0.00(2) -0.01(3) 0.001(9)
+Na1 Na1+ 0.05(4) 0.07(3) 0.01(3) 0. 0. -0.00(2)
+Na2 Na1+ 0.03(3) 0.04(3) 0.03(3) 0. -0.01(3) 0.
+Na3 Na1+ 0.01(2) 0.05(2) 0.02(2) -0.00(2) 0.01(2) -0.00(2)
+#End of TTdata_165258-ICSD

@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39901-ICSD
+_database_code_ICSD 39901
+_audit_creation_date 1996-04-22
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Tetrasodium titanium bis(phosphate(V)) oxide'
+_chemical_formula_structural 'Na4 Ti (P O4)2 O'
+_chemical_formula_sum 'Na4 O9 P2 Ti1'
+_exptl_crystal_density_diffrn 2.79
+_publ_section_title
+'Crystal structure of modulated monoclinic Na4 Ti P2 O9 phase at 293 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1995 40 611 625 KRISAJ
+loop_
+_publ_author_name
+'Bolotina, N.B.'
+'Maksimov, B.A.'
+'Petricek, V.'
+'Simonov, V.I.'
+_cell_length_a 13.331(1)
+_cell_length_b 7.541(1)
+_cell_length_c 35.245(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 144.45(2)
+_cell_angle_gamma 90.
+_cell_volume 2060.03
+_cell_formula_units_Z 10
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.073
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 4 g 0.4962(3) 0.4766(3) 0.0987(1) 1.4(2) 1. 0
+Ti2 Ti4+ 4 g 0.4977(3) 0.4607(3) 0.2999(1) 1.5(2) 1. 0
+Ti3 Ti4+ 2 b 0.5 0.5 0.5 1.4(2) 1. 0
+P1 P5+ 4 g 0.2391(3) 0.2088(3) 0.1684(1) 0.5(2) 1. 0
+P2 P5+ 4 g 0.2583(3) 0.2175(3) 0.3771(1) 0.4(2) 1. 0
+P3 P5+ 4 g 0.2510(3) 0.2622(3) 0.5738(1) 0.5(2) 1. 0
+P4 P5+ 4 g 0.2321(3) 0.2860(3) 0.7654(1) 0.4(2) 1. 0
+P5 P5+ 4 g 0.2189(3) 0.2584(3) 0.9592(1) 0.6(2) 1. 0
+O1 O2- 4 g 0.5012(9) 0.5908(9) 0.0516(3) 0.7(6) 1. 0
+O2 O2- 2 f 0.5 0.562(1) 0.25 0.8(8) 1. 0
+O3 O2- 4 g 0.490(1) 0.6387(9) 0.6458(4) 0.7(6) 1. 0
+O4 O2- 4 g 0.6569(9) 0.6647(9) 0.1657(3) 0.7(6) 1. 0
+O5 O2- 4 g 0.650(1) 0.661(1) 0.3612(3) 0.9(6) 1. 0
+O6 O2- 4 g 0.641(1) 0.7089(9) 0.5570(3) 1.1(6) 1. 0
+O7 O2- 4 g 0.652(1) 0.7275(9) 0.7634(4) 1.0(6) 1. 0
+O8 O2- 4 g 0.663(1) 0.7083(9) 0.9689(3) 0.8(6) 1. 0
+O9 O2- 4 g 0.2960(9) 0.6253(9) 0.0517(3) 0.7(6) 1. 0
+O10 O2- 4 g 0.292(1) 0.602(1) 0.2491(4) 1.1(6) 1. 0
+O11 O2- 4 g 0.287(1) 0.631(1) 0.4455(4) 1.1(6) 1. 0
+O12 O2- 4 g 0.2916(9) 0.6837(9) 0.6488(3) 1.0(6) 1. 0
+O13 O2- 4 g 0.3021(8) 0.6709(9) 0.8547(3) 0.9(5) 1. 0
+O14 O2- 4 g 0.282(1) 0.0150(9) 0.1770(4) 1.2(6) 1. 0
+O15 O2- 4 g 0.314(1) 0.0277(9) 0.3883(3) 0.9(6) 1. 0
+O16 O2- 4 g 0.315(1) 0.0728(9) 0.5876(4) 1.1(6) 1. 0
+O17 O2- 4 g 0.257(1) 0.0916(9) 0.7642(4) 1.1(7) 1. 0
+O18 O2- 4 g 0.229(1) 0.065(1) 0.9525(4) 2.4(8) 1. 0
+O19 O2- 4 g 0.059(1) 0.716(1) 0.0220(4) 1.0(6) 1. 0
+O20 O2- 4 g 0.0458(9) 0.666(1) 0.2158(3) 1.1(6) 1. 0
+O21 O2- 4 g 0.040(1) 0.676(1) 0.4128(4) 1.3(6) 1. 0
+O22 O2- 4 g 0.053(1) 0.754(1) 0.6187(4) 1.1(6) 1. 0
+O23 O2- 4 g 0.069(1) 0.761(1) 0.8260(4) 1.1(6) 1. 0
+Na1 Na1+ 4 g 0.5712(8) 0.0483(8) 0.1374(3) 3.2(6) 1. 0
+Na2 Na1+ 4 g 0.4950(7) -.0165(7) 0.2990(2) 2.0(5) 1. 0
+Na3 Na1+ 2 d 0.5 0 0.5 1.3(6) 1. 0
+Na4 Na1+ 4 g 0.0038(7) 0.4594(5) 0.1523(3) 1.4(4) 1. 0
+Na5 Na1+ 4 g 0.0081(6) 0.5262(7) 0.5519(2) 1.5(4) 1. 0
+Na6 Na1+ 2 e 0 0.5792(9) 0.75 1.7(6) 1. 0
+Na7 Na1+ 4 g 0.2075(6) 0.1982(6) 0.0545(3) 1.9(4) 1. 0
+Na8 Na1+ 4 g 0.2469(7) 0.2104(7) 0.4797(3) 2.8(5) 1. 0
+Na9 Na1+ 4 g 0.2375(6) 0.2711(6) 0.6672(2) 1.5(4) 1. 0
+Na10 Na1+ 4 g 0.2282(5) 0.2541(6) 0.8610(2) 1.1(3) 1. 0
+Na11 Na1+ 4 g 0.0214(7) 0.0200(6) 0.1601(2) 1.8(5) 1. 0
+#End of TTdata_39901-ICSD

@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2829-ICSD
+_database_code_ICSD 2829
+_audit_creation_date 1980-01-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Sodium rubidium dichromate'
+_chemical_formula_structural 'Na Rb Cr2 O7'
+_chemical_formula_sum 'Cr2 Na1 O7 Rb1'
+_chemical_name_structure_type NaRbCr2O7
+_exptl_crystal_density_diffrn 2.98
+_publ_section_title 'Sodium rubidium dichromate and sodium cesium dichromate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1972 28 2880 2882 ACBCAR
+loop_
+_publ_author_name
+'Panagiotopoulos, N.C.'
+'Brown, I.D.'
+_cell_length_a 12.947(15)
+_cell_length_b 11.133(11)
+_cell_length_c 10.037(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.42(8)
+_cell_angle_gamma 90.
+_cell_volume 1444.15
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr6+ 6
+O2- -2
+Cr6+ 6
+O2- -2
+Na1+ 1
+Rb1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr6+ 4 e 0.1579(1) 0.1037(2) 0.3862(2) . 1. 0
+Cr2 Cr6+ 4 e -.0032(1) -.0952(2) 0.2545(2) . 1. 0
+O1 O2- 4 e 0.1294(8) 0.2195(9) 0.4705(10) . 1. 0
+O2 O2- 4 e 0.2025(7) 0.1393(10) 0.2450(9) . 1. 0
+O3 O2- 4 e 0.2424(8) 0.0265(9) 0.4705(10) . 1. 0
+O4 O2- 4 e -.1275(7) -.0812(9) 0.2396(10) . 1. 0
+O5 O2- 4 e 0.0314(8) -.2247(9) 0.3155(10) . 1. 0
+O6 O2- 4 e 0.0441(7) -.0781(9) 0.1099(9) . 1. 0
+O7 O2- 4 e 0.0432(8) 0.0178(11) 0.3644(9) . 1. 0
+Cr3 Cr6+ 4 e 0.4398(1) 0.2710(2) 0.4696(2) . 1. 0
+Cr4 Cr6+ 4 e 0.6642(1) 0.3644(2) 0.6089(2) . 1. 0
+O8 O2- 4 e 0.3332(7) 0.3204(10) 0.5189(11) . 1. 0
+O9 O2- 4 e 0.4592(8) 0.1341(9) 0.5228(10) . 1. 0
+O10 O2- 4 e 0.4354(8) 0.2717(11) 0.3069(9) . 1. 0
+O11 O2- 4 e 0.6671(9) 0.4575(10) 0.7315(11) . 1. 0
+O12 O2- 4 e 0.7408(8) 0.4056(11) 0.4972(11) . 1. 0
+O13 O2- 4 e 0.6960(8) 0.2321(9) 0.6596(12) . 1. 0
+O14 O2- 4 e 0.5364(8) 0.3666(10) 0.5368(12) . 1. 0
+Na1 Na1+ 4 e 0.1521(4) 0.0765(5) 0.0161(5) . 1. 0
+Na2 Na1+ 4 e 0.2817(4) 0.3440(5) 0.1800(5) . 1. 0
+Rb1 Rb1+ 4 e 0.1483(1) 0.6833(1) 0.0862(1) . 1. 0
+Rb2 Rb1+ 4 e 0.4171(1) -.0087(1) 0.2603(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr6+ 0.0215(9) 0.0199(11) 0.0197(10) -.0034(9) 0.0010(7) -.0018(8)
+Cr2 Cr6+ 0.0146(8) 0.0280(11) 0.0209(9) -.0015(9) -.0019(7) -.0009(9)
+O1 O2- 0.0466(57) 0.0340(58) 0.0393(58) 0.0005(48) 0.0048(45) -.0133(49)
+O2 O2- 0.0379(53) 0.0573(68) 0.0202(47) -.0102(51) 0.0029(40) 0.0072(49)
+O3 O2- 0.0420(57) 0.0398(68) 0.0375(53) 0.0058(50) -.0049(43) 0.0244(50)
+O4 O2- 0.0203(42) 0.0398(58) 0.0402(56) -.0073(44) 0.0017(37) 0.0002(50)
+O5 O2- 0.0435(57) 0.0401(60) 0.0360(55) 0.0151(51) 0.0003(44) 0.0091(48)
+O6 O2- 0.0332(52) 0.0356(58) 0.0329(55) -.0060(46) 0.0058(42) 0.0014(48)
+O7 O2- 0.0353(54) 0.0762(82) 0.0267(49) -.0288(58) 0.0072(41) -.0223(56)
+Cr3 Cr6+ 0.0182(9) 0.0243(11) 0.020(1) -.0001(9) -.0034(7) 0.0014(9)
+Cr4 Cr6+ 0.0192(9) 0.0146(11) 0.0284(11) -.0036(9) -.0028(8) -.0012(9)
+O8 O2- 0.0331(52) 0.0537(70) 0.0545(66) -.0007(50) 0.0135(48) 0.0067(59)
+O9 O2- 0.0531(62) 0.021(5) 0.0348(55) -.0122(49) -.0134(46) 0.0031(46)
+O10 O2- 0.0567(65) 0.0628(76) 0.0186(46) 0.0086(59) -.0017(43) 0.0077(50)
+O11 O2- 0.0686(73) 0.0334(61) 0.0456(63) -.0031(57) -.0090(54) -.0185(54)
+O12 O2- 0.0508(65) 0.0524(74) 0.0452(69) 0.0056(58) 0.0230(53) 0.0003(58)
+O13 O2- 0.0424(55) 0.0307(56) 0.0617(72) -.0015(49) 0.0028(50) 0.0201(57)
+O14 O2- 0.0361(56) 0.0304(59) 0.0798(85) -.0019(49) -.0321(55) 0.0056(60)
+Na1 Na1+ 0.0345(27) 0.0264(29) 0.0291(27) 0.0018(24) -.0064(21) 0.0033(24)
+Na2 Na1+ 0.0343(27) 0.0308(30) 0.0344(29) 0.0098(24) 0.0012(22) 0.0007(25)
+Rb1 Rb1+ 0.0369(7) 0.0274(7) 0.0338(7) 0.0012(6) 0.0024(5) -.0036(6)
+Rb2 Rb1+ 0.0329(6) 0.0275(7) 0.0338(7) 0.0036(6) 0.0014(5) 0.0003(6)
+#End of TTdata_2829-ICSD

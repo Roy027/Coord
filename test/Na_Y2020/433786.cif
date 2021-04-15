@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_433786-ICSD
+_database_code_ICSD 433786
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Trisodium hexafluorogallate'
+_chemical_formula_structural 'Na3 Ga F6'
+_chemical_formula_sum 'F6 Ga1 Na3'
+_chemical_name_structure_type Perovskite-Na3AlF6
+_exptl_crystal_density_diffrn 3.43
+_cell_measurement_temperature 293.
+_publ_section_title
+'Na3GaF6 - A crystal chemical and solid state NMR spectroscopic study'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2018 233 479
+487 ZKCMAJ
+loop_
+_publ_author_name
+'Boehnisch, David'
+'Seidel, Stefan'
+'Benndorf, Christopher'
+'Jansen, Thomas'
+'Funke, Lena'
+'Hoffmann, Rolf-Dieter'
+'Heletta, Lukas'
+'Stahl, Juliane'
+'Johrendt, Dirk'
+'Eckert, Hellmut'
+'Juestel, Thomas'
+'Poettgen, Rainer'
+_cell_length_a 5.4693(3)
+_cell_length_b 5.6735(3)
+_cell_length_c 9.5674(5)
+_cell_angle_alpha 90
+_cell_angle_beta 124.53(2)
+_cell_angle_gamma 90
+_cell_volume 244.57
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0193
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Na1+ 1
+F1- -1
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 2 a 0 0 0 0.01602(9) 1 0
+Na1 Na1+ 2 d 0.5 0 0.5 0.0230(4) 1 0
+F1 F1- 4 e 0.1126(3) 0.0514(2) 0.22394(14) 0.0265(5) 1 0
+Na2 Na1+ 4 e 0.2669(2) 0.44587(16) 0.25334(12) 0.0316(4) 1 0
+F2 F1- 4 e 0.2310(3) 0.7225(2) 0.06736(16) 0.0290(5) 1 0
+F3 F1- 4 e 0.3328(3) 0.1743(2) 0.04987(16) 0.0287(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.01565(10) 0.01597(10) 0.01612(10) -0.00018(11) 0.00881(8)
+-0.00008(11)
+Na1 Na1+ 0.0244(4) 0.0224(4) 0.0227(4) 0.0017(5) 0.0136(3) 0.0006(5)
+F1 F1- 0.0294(6) 0.0308(6) 0.0189(5) -0.0022(4) 0.0133(4) -0.0026(4)
+Na2 Na1+ 0.0317(4) 0.0285(4) 0.0363(5) -0.0028(3) 0.0202(4) -0.0004(3)
+F2 F1- 0.0327(6) 0.0235(5) 0.0347(6) 0.0099(4) 0.0215(5) 0.0070(4)
+F3 F1- 0.0218(5) 0.0279(5) 0.0332(6) -0.0058(4) 0.0137(5) 0.0029(4)
+#End of TTdata_433786-ICSD

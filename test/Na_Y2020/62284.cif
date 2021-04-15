@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62284-ICSD
+_database_code_ICSD 62284
+_audit_creation_date 1988-07-15
+_audit_update_record 1993-07-06
+_chemical_name_systematic '15-sodium triyttrium(III) cyclo-dodecasilicate'
+_chemical_formula_structural 'Na15 Y3 (Si12 O36)'
+_chemical_formula_sum 'Na15 O36 Si12 Y3'
+_chemical_name_structure_type Na15Y3Si12O36
+_exptl_crystal_density_diffrn 2.87
+_publ_section_title 'Twinning in crystals of Na5 Y Si4 O12'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1986 31 244 247 KRISAJ
+loop_
+_publ_author_name
+'Merinov, B.V.'
+'Maksimov, B.A.'
+'Sirota, M.I.'
+_cell_length_a 22.035(1)
+_cell_length_b 22.035(1)
+_cell_length_c 12.604(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 5299.87
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Si4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 18 e 0 0.75069(3) 0.75 0.38 1. 0
+Si1 Si4+ 36 f 0.90210(7) 0.55038(7) 0.35636(11) 0.38 1. 0
+Si2 Si4+ 36 f 0.57798(8) 0.15131(7) 0.71042(11) 0.39(2) 1. 0
+O1 O2- 36 f 0.90414(19) 0.59616(20) 0.25707(30) 1.08(2) 1. 0
+O2 O2- 36 f 0.07247(17) 0.20753(18) 0.01302(28) 1.05(2) 1. 0
+O3 O2- 36 f 0.23465(16) 0.61546(22) 0.29584(29) 1.25(2) 1. 0
+O4 O2- 36 f 0.91162(18) 0.27176(18) 0.24731(30) 0.76(2) 1. 0
+O5 O2- 36 f 0.88666(18) 0.46978(18) 0.11016(27) 0.91(7) 1. 0
+O6 O2- 36 f 0.87860(17) 0.36675(19) 0.22152(28) 0.92(7) 1. 0
+Na1 Na1+ 36 f 0.07222(12) 0.13992(10) 0.85960(19) 1.22(7) 1. 0
+Na2 Na1+ 6 b 0 0 0 0.65(8) 1. 0
+Na3 Na1+ 6 a 0 0 0.75 1.12(8) 1. 0
+Na4 Na1+ 18 e 0.27542(18) 0 0.75 2.92(9) 1. 0
+Na5 Na1+ 36 f 0.33725(51) 0.18826(45) 0.28222(71) 2.89(22) 0.3333 0
+Na6 Na1+ 36 f 0.32864(50) 0.15733(50) 0.13386(57) 2.90(18) 0.3333 0
+#End of TTdata_62284-ICSD

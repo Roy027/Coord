@@ -1,0 +1,128 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66562-ICSD
+_database_code_ICSD 66562
+_audit_creation_date 1994-01-19
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium cadmium aluminium oxide (1/.1/11/17.1)'
+_chemical_formula_structural 'Na1 Cd.11 Al11 O17.11'
+_chemical_formula_sum 'Al11 Cd0.11 Na1 O17.11'
+_chemical_name_structure_type NaAl11O17
+_exptl_crystal_density_diffrn 3.3
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Structural aspects of the Na+ -> Cd2+ ion-exchange process in Na+ beta-alumina
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1991 47 635 643
+ASBSDK
+loop_
+_publ_author_name
+'Edstroem, K.'
+'Thomas, J.O.'
+'Farrington, G.C.'
+_cell_length_a 5.5921(9)
+_cell_length_b 5.5921(9)
+_cell_length_c 22.526(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 610.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cd2+ 2
+O2- -2
+Al3+ 3
+O2- -2
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0.6667 0.3333 0.25 . 0.723 0
+Na2 Na1+ 6 h 0.8970(13) 0.1030(13) 0.25 . 0.095 0
+Cd1 Cd2+ 6 h 0.7876(20) 0.2124(20) 0.25 . 0.035 0
+O1 O2- 2 c 0.3333 0.6667 0.25 . 1. 0
+Al1 Al3+ 12 k -.16771(2) -.33542(4) 0.10643(1) . 0.963 0
+Al2 Al3+ 4 f 0.3333 0.6667 0.02479(2) . 1. 0
+Al3 Al3+ 4 f 0.3333 0.6667 0.17564(1) . 1. 0
+Al4 Al3+ 2 a 0 0 0 . 1. 0
+O2 O2- 12 k 0.15730(5) 0.3146(1) 0.04999(2) . 1. 0
+O3 O2- 12 k 0.50311(5) 0.49689(5) 0.14640(2) . 1. 0
+O4 O2- 4 f 0.6667 0.3333 0.05545(4) . 1. 0
+O5 O2- 4 e 0 0 0.14223(4) . 1. 0
+Al5 Al3+ 12 k -.16365(60) -.3273(12) 0.17496(27) . 0.037 0
+O6 O2- 6 h 0.8333 0.1667 0.25 0.003 0.037 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.1304(30) 0.1304(30) 0.00158(9) 0.0652(15) 0 0
+Na2 Na1+ 0.1338(34) 0.1338(34) 0.00039(4) -.0400(48) 0 0
+Cd1 Cd2+ 0.159(11) 0.159(11) 0.00123(15) -0.068(11) 0 0
+O1 O2- 0.0501(9) 0.0501(9) 0.00016(2) 0.02505(45) 0 0
+Al1 Al3+ 0.00403(6) 0.00328(8) 0.00022 0.00164(4) 0.00002(1) 0.00003(1)
+Al2 Al3+ 0.00318(8) 0.00318(8) 0.00016(1) 0.00159(4) 0 0
+Al3 Al3+ 0.00588(9) 0.00588(9) 0.00017(1) 0.00294(4) 0 0
+Al4 Al3+ 0.00373(10) 0.00373(10) 0.00017(1) 0.00186(5) 0 0
+O2 O2- 0.00494(1) 0.00310(13) 0.00020(1) 0.00155(7) -.00002(1) -.00003(2)
+O3 O2- 0.00393(10) 0.00393(10) 0.00033(1) 0.00152(11) 0.00005(1) -.00005(1)
+O4 O2- 0.00480(15) 0.00480(15) 0.00015(1) 0.00240(8) 0 0
+O5 O2- 0.00354(14) 0.00354(14) 0.00023(1) 0.00177(7) 0 0
+Al5 Al3+ 0.00403(6) 0.00328(8) 0.00022 0.00164(4) 0.00002(1) 0.00003(1)
+#End of TTdata_66562-ICSD

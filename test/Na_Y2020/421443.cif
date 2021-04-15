@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421443-ICSD
+_database_code_ICSD 421443
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium trineodymium germanium heptasulfide'
+_chemical_formula_structural 'Na Nd3 Ge S7'
+_chemical_formula_sum 'Ge1 Na1 Nd3 S7'
+_chemical_name_structure_type La3CuSiS7
+_exptl_crystal_density_diffrn 4.91
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Alkali-metal thiogermanates: sodium channels and variations on the La3 Cu Si
+S7 structure type
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 1055 1065 INOCAJ
+loop_
+_publ_author_name
+'Choudhury, Amitava'
+'Dorhout, Peter K.'
+_cell_length_a 10.0820(4)
+_cell_length_b 10.0820(4)
+_cell_length_c 5.7897(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 509.65
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0275
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Na1+ 1
+Ge4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 6 c 0.12917(4) 0.35649(4) 0.7518(3) 0.01318(16) 1 0
+Na1 Na1+ 2 a 0. 0. 0.4815(18) 0.0308(14) 1 0
+Ge1 Ge4+ 2 b 0.3333 0.6667 0.3333 0.0087(3) 1 0
+S1 S2- 2 b 0.3333 0.6667 0.9582(6) 0.0112(6) 1 0
+S2 S2- 6 c 0.8415(2) 0.0912(2) 0.7288(5) 0.0165(4) 1 0
+S3 S2- 6 c 0.4801(2) 0.8979(2) 0.4860(4) 0.0103(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nd1 Nd3+ 0.0108(2) 0.0132(2) 0.0166(2) 0.00678(15) 0.00144(19) 0.0004(2)
+Na1 Na1+ 0.0259(18) 0.0259(18) 0.041(4) 0.0129(9) 0. 0.
+Ge1 Ge4+ 0.0087(4) 0.0087(4) 0.0087(6) 0.00434(18) 0. 0.
+S1 S2- 0.0127(9) 0.0127(9) 0.0082(15) 0.0064(5) 0. 0.
+S2 S2- 0.0149(8) 0.0103(8) 0.0173(9) 0.0012(6) -0.0053(9) -0.0008(9)
+S3 S2- 0.0089(8) 0.0089(8) 0.0105(8) 0.0024(7) 0.0001(7) -0.0002(7)
+#End of TTdata_421443-ICSD

@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59748-ICSD
+_database_code_ICSD 59748
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Disodium octaborate - beta'
+_chemical_formula_structural 'Na2 (B8 O13)'
+_chemical_formula_sum 'B8 Na2 O13'
+_chemical_name_structure_type Ag2B8O13
+_exptl_crystal_density_diffrn 2.39
+_cell_measurement_temperature 298.
+_publ_section_title
+'Crystal structure of a new form of sodium octoborate beta-Na2 B8 O13'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 168 316 321 JSSCBI
+loop_
+_publ_author_name
+'Penin, N.'
+'Touboul, M.'
+'Nowogrocki, G.'
+_cell_length_a 11.731(4)
+_cell_length_b 7.880(3)
+_cell_length_c 10.410(4)
+_cell_angle_alpha 90
+_cell_angle_beta 99.883(6)
+_cell_angle_gamma 90
+_cell_volume 948.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0444
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+B3+ 3
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 e -.0286(1) .2826(2) .4854(1) .023(1) 1. 0
+O2 O2- 4 e .1151(1) .0824(2) .5562(1) .022(1) 1. 0
+O3 O2- 4 e .2646(1) -.1145(2) .6314(1) .023(1) 1. 0
+O4 O2- 4 e .2326(1) -.0309(2) .4120(1) .024(1) 1. 0
+O5 O2- 4 e .0886(1) .1807(2) .3365(1) .027(1) 1. 0
+O6 O2- 4 e .2492(1) .1294(2) .2237(1) .022(1) 1. 0
+O7 O2- 4 e .1776(1) -.0235(2) .0302(1) .024(1) 1. 0
+O8 O2- 4 e .5820(1) .2492(2) -.2706(1) .021(1) 1. 0
+O9 O2- 4 e .0935(1) -.0762(2) .2183(1) .027(1) 1. 0
+O10 O2- 4 e .3428(1) .1514(2) .0413(1) .024(1) 1. 0
+O11 O2- 4 e .4679(1) .1870(2) -.1083(1) .022(1) 1. 0
+O12 O2- 4 e .4462(1) .0312(2) -.3090(1) .019(1) 1. 0
+O13 O2- 4 e .3211(1) -.0221(2) -.1500(1) .021(1) 1. 0
+B1 B3+ 4 e .0587(2) .1819(3) .4558(2) .019(1) 1. 0
+B2 B3+ 4 e .2063(2) -.0197(3) .5327(2) .019(1) 1. 0
+B3 B3+ 4 e .1677(2) .0520(3) .2968(2) .022(1) 1. 0
+B4 B3+ 4 e .2569(2) .0855(3) .1012(2) .018(1) 1. 0
+B5 B3+ 4 e .1002(2) -.1079(3) .0928(2) .020(1) 1. 0
+B6 B3+ 4 e .3741(2) .1030(3) -.0748(2) .019(1) 1. 0
+B7 B3+ 4 e .4977(2) .1573(3) -.2319(2) .017(1) 1. 0
+B8 B3+ 4 e .3644(2) -.0868(3) -.2661(2) .017(1) 1. 0
+Na1 Na1+ 4 e .1141(2) .0011(12) -.2157(2) .039(1) .648(19) 0
+Na2 Na1+ 4 e .1155(5) -.0980(30) -.1973(7) .049(3) .352(19) 0
+Na3 Na1+ 4 e .4254(3) -.1143(7) .4688(2) .035(1) .498(9) 0
+Na4 Na1+ 4 e .3744(5) -.21110(8) .4669(2) .050(2) .502(9) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.027(1) 0.032(1) 0.013(1) 0.006(1) 0.007(1) .000(1)
+O2 O2- 0.025(1) 0.033(1) 0.009(1) 0.006(1) 0.005(1) 0.001(1)
+O3 O2- 0.026(1) 0.027(1) 0.015(1) -.002(1) -.003(1) 0.002(1)
+O4 O2- 0.026(1) 0.034(1) 0.012(1) 0.008(1) 0.006(1) 0.002(1)
+O5 O2- 0.032(1) 0.038(1) 0.012(1) 0.012(1) 0.010(1) 0.005(1)
+O6 O2- 0.028(1) 0.030(1) 0.010(1) -.003(1) 0.008(1) -.004(1)
+O7 O2- 0.030(1) 0.031(1) 0.013(1) -.010(1) 0.009(1) -.003(1)
+O8 O2- 0.024(1) 0.024(1) 0.015(1) -.005(1) 0.007(1) -.004(1)
+O9 O2- 0.030(1) 0.041(1) 0.011(1) -.008(1) 0.008(1) -.001(1)
+O10 O2- 0.028(1) 0.033(1) 0.014(1) -.007(1) 0.010(1) -.008(1)
+O11 O2- 0.024(1) 0.032(1) 0.011(1) -.006(1) 0.007(1) -.005(1)
+O12 O2- 0.024(1) 0.023(1) 0.011(1) -.003(1) 0.006(1) -.00(1)
+O13 O2- 0.023(1) 0.026(1) 0.015(1) -.004(1) 0.009(1) -.007(1)
+B1 B3+ 0.022(1) 0.025(1) 0.012(1) .000(1) 0.005(1) -.000(1)
+B2 B3+ 0.020(1) 0.024(1) 0.011(1) -.003(1) 0.001(1) -.002(1)
+B3 B3+ 0.024(1) 0.033(1) 0.009(1) 0.004(1) 0.005(1) 0.001(1)
+B4 B3+ 0.024(1) 0.022(1) 0.009(1) 0.002(1) 0.005(1) -.000(1)
+B5 B3+ 0.023(1) 0.026(1) 0.011(1) -.001(1) 0.005(1) 0.001(1)
+B6 B3+ 0.021(1) 0.024(1) 0.011(1) -.001(1) 0.004(1) -.002(1)
+B7 B3+ 0.020(1) 0.020(1) 0.012(1) 0.002(1) 0.003(1) .000(1)
+B8 B3+ 0.022(1) 0.019(1) 0.010(1) 0.002(1) 0.004(1) -.002(1)
+Na1 Na1+ 0.029(1) 0.071(4) 0.018(1) 0.002(1) 0.005(1) -.011(1)
+Na2 Na1+ 0.037(2) 0.083(9) 0.028(2) -.013(3) 0.010(2) -.022(3)
+Na3 Na1+ 0.037(2) 0.055(2) 0.012(1) 0.017(2) 0.005(1) .000(1)
+Na4 Na1+ 0.070(3) 0.067(3) 0.013(1) 0.042(3) 0.003(1) -.002(1)
+#End of TTdata_59748-ICSD

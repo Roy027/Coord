@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_54048-ICSD
+_database_code_ICSD 54048
+_audit_creation_date 1999-06-02
+_chemical_name_systematic
+'Sodium potassium aluminium germanium oxide (0.78/0.19/0.97/ 1.03/4) - beta'
+_chemical_formula_structural '(Na0.78 K0.19) (Al0.97 Ge1.03 O4)'
+_chemical_formula_sum 'Al0.97 Ge1.03 K0.19 Na0.78 O4'
+_chemical_name_structure_type KNa3Al4(SiO4)4
+_exptl_crystal_density_diffrn 3.31
+_publ_section_title
+'Monoclinic and hexagonal nepheline structures of (Na3/4 K1/4) Al Ge O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1998 54 211 220
+ASBSDK
+loop_
+_publ_author_name
+'Hammond, R.P.'
+'Barbier, J.'
+_cell_length_a 10.164(2)
+_cell_length_b 10.164(2)
+_cell_length_c 8.540(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 764.04
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0411
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 a 0 0 0.9975(9) 0.0436(9) 0.9925 0
+Na1 Na1+ 2 a 0 0 0.9975(9) 0.0436(9) 0.0075 0
+Na2 Na1+ 6 c 0.9945(3) 0.4380(3) 0.9964(4) 0.0300(5) 1. 0
+Al1 Al3+ 2 b 0.3333 0.6667 0.1866(5) 0.0115(8) 0.97 0
+Ge1 Ge4+ 2 b 0.3333 0.6667 0.1866(5) 0.0115(8) 0.03 0
+Al2 Al3+ 6 c 0.0897(3) 0.3325(5) 0.6810(2) 0.0130(3) 0.97 0
+Ge2 Ge4+ 6 c 0.0897(3) 0.3325(5) 0.6810(2) 0.0130(3) 0.03 0
+Ge3 Ge4+ 2 b 0.3333 0.6667 0.8000(3) 0.0176(3) 1. 0
+Ge4 Ge4+ 6 c 0.08990(9) 0.3336(2) 0.30804(9) 0.01645(11) 1. 0
+O1 O2- 6 c 0.2664(12) 0.6124(13) 0.9948(21) 0.027(3) 0.3333 0
+O2 O2- 6 c 0.0158(5) 0.3147(6) 0.4953(6) 0.0434(13) 1. 0
+O3 O2- 6 c 0.1643(7) 0.5186(7) 0.7401(9) 0.056(3) 1. 0
+O4 O2- 6 c 0.1639(7) 0.5181(6) 0.2510(9) 0.052(3) 1. 0
+O5 O2- 6 c 0.2232(4) 0.2751(5) 0.3141(12) 0.0253(13) 1. 0
+O6 O2- 6 c 0.2254(6) 0.2762(6) 0.6756(7) 0.0239(14) 1. 0
+#End of TTdata_54048-ICSD

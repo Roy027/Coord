@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61696-ICSD
+_database_code_ICSD 61696
+_audit_creation_date 1986-12-03
+_audit_update_record 2015-08-01
+_chemical_name_systematic 'Sodium triiron tris(phosphate(V))'
+_chemical_formula_structural 'Na Fe3 (P O4)3'
+_chemical_formula_sum 'Fe3 Na1 O12 P3'
+_chemical_name_mineral Ferroalluaudite
+_exptl_crystal_density_diffrn 3.6
+_publ_section_title
+
+;
+Synthesis of open-framework transition-metal phosphates using organometallic
+precursors in acidic media. preparation and structural characterization of Fe5
+P4 O20 H10 and Na Fe3 P3 O12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1986 25 2279 2280 INOCAJ
+loop_
+_publ_author_name
+'Corbin, D.R.'
+'Whitney, J.F.'
+'Fultz, W.C.'
+'Stucky, G.D.'
+'Eddy, M.M.'
+'Cheetham, A.K.'
+_cell_length_a 11.998(1)
+_cell_length_b 12.328(1)
+_cell_length_c 6.500(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.185(6)
+_cell_angle_gamma 90.
+_cell_volume 877.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P4+ 4.67
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 8 f 0.78904(4) 0.83999(4) -.12791(7) . 1. 0
+Fe2 Fe3+ 4 e 0.5 0.78329(5) 0.25 . 1. 0
+P1 P4+ 8 f 0.78365(7) 0.88869(6) 0.38621(12) . 1. 0
+P2 P4+ 4 e 0.5 0.81971(9) -.25 . 1. 0
+Na1 Na1+ 4 e 0 0.9709(3) 0.25 . 1. 0
+O1 O2- 8 f 0.7855(2) 0.8205(2) 0.1928(3) . 1. 0
+O2 O2- 8 f 0.6451(2) 0.9085(2) 0.3436(4) . 1. 0
+O3 O2- 8 f 0.8460(2) 0.8286(2) 0.6107(4) . 1. 0
+O4 O2- 8 f 0.8456(2) 0.9975(2) 0.3987(4) . 1. 0
+O5 O2- 8 f 0.6070(2) 0.8941(2) -.2321(4) . 1. 0
+O6 O2- 8 f 0.5348(2) 0.7483(2) -.0381(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0116(2) 0.0078(2) 0.0104(2) 0.0004(2) 0.0068(2) 0.0001(2)
+Fe2 Fe3+ 0.0101(3) 0.0106(3) 0.0107(3) 0 0.0063(2) 0
+P1 P4+ 0.0087(4) 0.0073(4) 0.0074(4) 0.0003(3) 0.0039(3) -0.0010(3)
+P2 P4+ 0.0073(5) 0.0077(5) 0.0064(5) 0 0.0026(4) 0
+Na1 Na1+ 0.0166(10) 0.1068(26) 0.0151(11) 0 0.0044(9) 0
+O1 O2- 0.0107(10) 0.0103(11) 0.085(10) 0.0004(8) 0.0042(8) -0.0010(8)
+O2 O2- 0.0088(10) 0.0093(10) 0.0156(11) 0.0005(8) 0.0060(9) 0.0010(9)
+O3 O2- 0.0119(10) 0.0116(11) 0.0074(10) 0.0019(9) 0.0039(8) 0.0015(8)
+O4 O2- 0.0121(10) 0.0085(10) 0.0132(11) -0.0011(8) 0.0061 0.0000(9)
+O5 O2- 0.0089(10) 0.0095(10) 0.0147(11) -0.0019(9) 0.0048(9) 0.0003(9)
+O6 O2- 0.010(1) 0.0121(10) 0.0085(10) 0.0003(9) 0.0043(8) 0.0020(9)
+#End of TTdata_61696-ICSD

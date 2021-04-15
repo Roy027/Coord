@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_391376-ICSD
+_database_code_ICSD 391376
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Hexaaquanickel disodium bis(sulfate(VI))'
+_chemical_formula_structural '(Ni (H2 O)6) (Na (S O4))2'
+_chemical_formula_sum 'H12 Na2 Ni1 O14 S2'
+_chemical_name_structure_type 'Picromerite-(NH4)2Mg(SO4)2(H2O)6(e9 a)'
+_exptl_crystal_density_diffrn 2.02
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Hydrothermal synthesis, structure and thermal property of a 2-dimensional
+network: sodium sulfate (Ni (H2 O)6 (Na S O4)2)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Structural Chemistry' 2006 17 519 523 STCHES
+loop_
+_publ_author_name
+'Zhao Pusu'
+'Jian Fangfang'
+'Bai Zhengshuai'
+'Zheng Jian'
+'Zhuang Ruirui'
+_cell_length_a 6.1820(12)
+_cell_length_b 12.316(3)
+_cell_length_c 9.0890(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.03(3)
+_cell_angle_gamma 90.
+_cell_volume 665.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0335
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+O2- -2
+S6+ 6
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 2 b 0.5 0. 0. 0.0165(2) 1 0
+O1 O2- 4 e 0.4646(4) 0.1105(2) 0.1634(3) 0.0238(5) 1 0
+O2 O2- 4 e 0.6615(4) -0.1092(2) 0.1670(3) 0.0252(6) 1 0
+O3 O2- 4 e 0.8014(4) 0.0664(2) 0.0017(3) 0.0232(5) 1 0
+S1 S6+ 4 e 1.23226(14) -0.13619(7) 0.40928(9) 0.0207(2) 1 0
+O4 O2- 4 e 1.2718(6) -0.0750(3) 0.5520(3) 0.0444(8) 1 0
+O5 O2- 4 e 1.1191(4) -0.0649(2) 0.2806(3) 0.0259(6) 1 0
+O6 O2- 4 e 1.4471(4) -0.1762(2) 0.3877(3) 0.0309(6) 1 0
+O7 O2- 4 e 1.0828(5) -0.2289(2) 0.4122(4) 0.0361(7) 1 0
+Na1 Na1+ 4 e 1.1547(2) 0.15121(12) 0.36708(16) 0.0256(3) 1 0
+H1 H1+ 4 e 0.555(6) 0.099(4) 0.251(3) 0.039(13) 1 0
+H2 H1+ 4 e 0.830(8) 0.057(4) -0.083(3) 0.040(13) 1 0
+H3 H1+ 4 e 0.496(8) 0.1749(16) 0.143(5) 0.037(13) 1 0
+H4 H1+ 4 e 0.824(9) 0.1329(14) 0.027(5) 0.044(14) 1 0
+H5 H1+ 4 e 0.616(9) -0.118(5) 0.246(4) 0.055(16) 1 0
+H6 H1+ 4 e 0.788(5) -0.079(5) 0.208(6) 0.064(18) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0135(3) 0.0187(3) 0.0169(3) -0.0004(2) 0.0036(2) 0.0009(2)
+O1 O2- 0.0254(13) 0.0245(13) 0.0218(13) -0.0018(10) 0.0069(10) -0.0016(10)
+O2 O2- 0.0198(12) 0.0291(13) 0.0244(13) 0.0000(10) 0.0024(10) 0.0064(10)
+O3 O2- 0.0194(12) 0.0248(13) 0.0278(13) -0.0027(10) 0.0105(10) -0.0022(10)
+S1 S6+ 0.0188(4) 0.0224(4) 0.0196(4) 0.0028(3) 0.0031(3) 0.0032(3)
+O4 O2- 0.0254(13) 0.0245(13) 0.0218(13) -0.0018(10) 0.0069(10) -0.0016(10)
+O5 O2- 0.0198(12) 0.0291(13) 0.0244(13) 0.0000(10) 0.0024(10) 0.0064(10)
+O6 O2- 0.0194(12) 0.0248(13) 0.0278(13) -0.0027(10) 0.0105(10) -0.0022(10)
+O7 O2- 0.0270(14) 0.0287(14) 0.0532(18) -0.0010(11) 0.0121(13) 0.0116(13)
+Na1 Na1+ 0.0219(7) 0.0281(7) 0.0285(7) 0.0008(6) 0.0096(6) -0.0019(6)
+#End of TTdata_391376-ICSD

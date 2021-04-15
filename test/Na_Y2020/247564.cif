@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_247564-ICSD
+_database_code_ICSD 247564
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Disodium nickel bis(hydrogenphosphate(III))'
+_chemical_formula_structural 'Na2 Ni (H P O3)2'
+_chemical_formula_sum 'H2 Na2 Ni1 O6 P2'
+_chemical_name_structure_type Na2Fe(HPO3)2
+_exptl_crystal_density_diffrn 3.01
+_cell_measurement_temperature 173.
+_publ_section_title
+'Crystal structure and magnetic properties of Na2 Ni (H P O3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2010 183 2650 2655 JSSCBI
+loop_
+_publ_author_name
+'Maalej, W.'
+'Vilminot, S.'
+'Elaoud, Z.'
+'Mhiri, T.'
+'Kurmoo, M.'
+_cell_length_a 11.9886(3)
+_cell_length_b 5.3671(2)
+_cell_length_c 9.0764(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 584.01
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0185
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+P3+ 3
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 c 0.33892(2) 0.25 0.63616(3) 0.00612(10) 1. 0
+P1 P3+ 4 c 0.48199(5) -0.25 0.62377(6) 0.00588(13) 1. 0
+P2 P3+ 4 c 0.31492(5) 0.25 0.99986(6) 0.00644(13) 1. 0
+Na1 Na1+ 4 c 0.59438(8) 0.25 0.77733(11) 0.0120(2) 1. 0
+Na2 Na1+ 4 c 0.22103(8) 0.25 0.32509(10) 0.0129(2) 1. 0
+O1 O2- 8 d 0.44849(9) -0.0168(2) 0.70973(12) 0.0098(2) 1. 0
+O2 O2- 4 c 0.26757(14) 0.25 0.84445(17) 0.0112(3) 1. 0
+O3 O2- 8 d 0.21425(10) -0.0137(2) 0.58414(13) 0.0140(3) 1. 0
+O4 O2- 4 c 0.39618(13) 0.25 0.42205(17) 0.0099(3) 1. 0
+H1 H1+ 4 c 0.435(2) 0.25 0.996(3) 0.002 1. 0
+H2 H1+ 4 c 0.421(2) -0.25 0.503(3) 0.002(6) 1. 0
+#End of TTdata_247564-ICSD

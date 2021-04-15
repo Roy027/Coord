@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281508-ICSD
+_database_code_ICSD 281508
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Tetrasodium calcium bis(cyclotriphosphate(V))'
+_chemical_formula_structural 'Na4 Ca (P3 O9)2'
+_chemical_formula_sum 'Ca1 Na4 O18 P6'
+_chemical_name_structure_type Ca3Y2(Si3O9)2
+_exptl_crystal_density_diffrn 2.71
+_publ_section_title
+
+;
+Structure of calcium tetrasodium bis-cyclotriphosphate Ca Na4 (P3 O9)2 by
+X-ray diffraction and solid-state NMR
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Chemical Society, Dalton Transactions' 2002 2002 1800
+1805 JCSDAA
+loop_
+_publ_author_name
+'Abrahams, I.'
+'Hawkes, G.E.'
+'Ahmed, A.'
+'Franks, K.'
+'Knowles, J.C.'
+'Bodart, P.R.'
+'Nunes, T.'
+_cell_length_a 13.069(2)
+_cell_length_b 8.054(2)
+_cell_length_c 14.164(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.60(2)
+_cell_angle_gamma 90.
+_cell_volume 1486.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0455
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 e 0.5 0.12189(17) 0.75 0.0164(4) 1. 0
+P1 P5+ 8 f 0.59259(8) 0.44869(16) 0.61506(8) 0.0151(3) 1. 0
+P2 P5+ 8 f 0.72812(8) 0.63760(16) 0.74811(8) 0.0159(3) 1. 0
+P3 P5+ 8 f 0.58656(8) 0.80764(16) 0.61116(8) 0.0155(4) 1. 0
+Na1 Na1+ 8 f 0.66300(16) 0.1221(3) 0.4555(2) 0.0424(7) 1. 0
+Na2 Na1+ 8 f 0.66603(13) 0.6251(3) 0.41597(13) 0.0227(5) 1. 0
+O1 O2- 8 f 0.5123(2) 0.3252(4) 0.6333(2) 0.0216(8) 1. 0
+O2 O2- 8 f 0.6597(2) 0.4199(5) 0.5380(2) 0.0216(8) 1. 0
+O3 O2- 8 f 0.5355(2) 0.6265(4) 0.6001(2) 0.0174(7) 1. 0
+O4 O2- 8 f 0.6596(2) 0.4799(4) 0.7131(2) 0.0192(8) 1. 0
+O5 O2- 8 f 0.8232(2) 0.6411(4) 0.6969(2) 0.0208(8) 1. 0
+O6 O2- 8 f 0.7345(3) 0.6387(4) 0.8516(2) 0.0237(8) 1. 0
+O7 O2- 8 f 0.6554(2) 0.7884(4) 0.7097(2) 0.0192(8) 1. 0
+O8 O2- 8 f 0.5026(2) 0.9246(4) 0.6276(2) 0.0204(8) 1. 0
+O9 O2- 8 f 0.6537(2) 0.8396(4) 0.5345(2) 0.0208(8) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0064(6) 0.0211(8) 0.0225(7) 0 0.0054(5) 0
+P1 P5+ 0.0059(6) 0.0182(7) 0.0218(7) -0.0016(5) 0.0050(5) 0.0010(5)
+P2 P5+ 0.0061(6) 0.0210(7) 0.0215(6) -0.0020(5) 0.0057(4) 0.0005(5)
+P3 P5+ 0.0050(6) 0.0198(7) 0.0225(7) 0.0012(5) 0.0052(5) -0.0008(5)
+Na1 Na1+ 0.0125(10) 0.0455(16) 0.0694(17) 0.0006(11) 0.0041(10) 0.0092(12)
+Na2 Na1+ 0.0123(10) 0.0288(12) 0.0279(10) -0.0007(9) 0.0069(8) 0.0015(8)
+O1 O2- 0.0090(16) 0.029(2) 0.0263(18) -0.0049(15) 0.0022(13) 0.0047(15)
+O2 O2- 0.0130(16) 0.027(2) 0.0257(17) 0.0001(15) 0.0085(13) -0.0011(15)
+O3 O2- 0.0061(15) 0.0164(18) 0.0301(18) -0.0010(13) 0.0029(13) 0.0009(14)
+O4 O2- 0.0106(15) 0.0239(19) 0.0231(18) -0.0011(14) 0.0006(13) 0.0023(14)
+O5 O2- 0.0067(15) 0.0250(19) 0.0321(19) -0.0034(14) 0.0099(13) 0.0036(15)
+O6 O2- 0.0191(17) 0.0257(19) 0.0265(18) -0.0018(16) 0.0030(14) 0.0011(15)
+O7 O2- 0.0100(15) 0.0231(19) 0.0244(18) 0.0012(15) 0.0006(13) -0.0022(14)
+O8 O2- 0.0100(16) 0.0230(18) 0.0287(18) 0.0070(15) 0.0052(13) -0.0033(15)
+O9 O2- 0.0118(16) 0.027(2) 0.0250(18) -0.0020(15) 0.0092(13) 0.0012(14)
+#End of TTdata_281508-ICSD

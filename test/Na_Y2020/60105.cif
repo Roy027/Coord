@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60105-ICSD
+_database_code_ICSD 60105
+_audit_creation_date 1986-04-14
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium gallium disilicate'
+_chemical_formula_structural 'Na Ga (Si2 O6)'
+_chemical_formula_sum 'Ga1 Na1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_exptl_crystal_density_diffrn 3.91
+_publ_section_title 'The crystal structure of Na Ga Si2 O6 pyroxene'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ganseki Kobutsu Kosho Gakkaishi' 1983 78 159 163 GKKGA2
+loop_
+_publ_author_name
+'Ohashi, H.'
+'Fujita, T.'
+'Osawa, T.'
+_cell_length_a 9.557(5)
+_cell_length_b 8.679(4)
+_cell_length_c 5.260(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.68(2)
+_cell_angle_gamma 90.
+_cell_volume 415.68
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 4 e 0 0.90185(9) 0.25 . 1. 0
+Na1 Na1+ 4 e 0 0.30092(37) 0.25 . 1. 0
+Si1 Si4+ 8 f 0.29118(15) 0.09090(17) 0.23209(27) . 1. 0
+O1 O2- 8 f 0.11169(37) 0.07719(42) 0.13123(65) . 1. 0
+O2 O2- 8 f 0.35818(38) 0.25953(42) 0.30113(67) . 1. 0
+O3 O2- 8 f 0.35222(39) 0.00977(42) 0.00702(72) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ga1 Ga3+ 0.00013(8) 0.00074(9) 0.00075(27) 0 -.00002(11) 0
+Na1 Na1+ 0.00263(37) 0.00207(40) 0.0081(12) 0 -.00060(54) 0
+Si1 Si4+ 0.00010(14) 0.00085(16) 0.00284(45) -.00003(12) 0.00027(20) 0
+O1 O2- 0.00032(37) 0.00099(42) 0.0034(12) -.00021(32) -.00011(55) 0.00058(57)
+O2 O2- 0.00040(37) 0.00117(42) 0.0048(13) -.00051(33) 0.00035(56) 0.00057(60)
+O3 O2- 0.00046(37) 0.00179(42) 0.0014(11) 0.00023(34) 0.00030(53) 0.00028(58)
+#End of TTdata_60105-ICSD

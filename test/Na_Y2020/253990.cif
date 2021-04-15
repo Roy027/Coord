@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253990-ICSD
+_database_code_ICSD 253990
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium ytterbium cobalt tungsten oxide (1/1/1/1/6)'
+_chemical_formula_structural 'Na Yb Co W O6'
+_chemical_formula_sum 'Co1 Na1 O6 W1 Yb1'
+_chemical_name_structure_type Ca3UO6
+_exptl_crystal_density_diffrn 7.82
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Structural study of a doubly ordered perovskite family NaLnCoWO6 (Ln = Y, La,
+Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Yb): Hybrid Improper Ferroelectricity in
+nine new members
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 8478 8489 INOCAJ
+loop_
+_publ_author_name
+'Zuo, Peng'
+'Colin, Claire V.'
+'Klein, Holger'
+'Bordet, Pierre'
+'Suard, Emmanuelle'
+'Elkaim, Erik'
+'Darie, Celine'
+_cell_length_a 5.306924(5)
+_cell_length_b 5.507267(5)
+_cell_length_c 7.767839(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.28147(7)
+_cell_angle_gamma 90.
+_cell_volume 227.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.0859
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Yb3+ 3
+Co2+ 2
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.2497(12) 0.7854(10) 0.0054(7) 0.0048(14) 1. 0
+Yb1 Yb3+ 2 a 0.26761(16) 0.6828(2) 0.50033(10) 0.00558(16) 1. 0
+Co1 Co2+ 2 a 0.7487(5) 0.7406(9) 0.2510(3) 0.0045(5) 1. 0
+W1 W6+ 2 a 0.76328(13) 0.75 0.76318(7) 0.00488(13) 1. 0
+O1 O2- 2 a 0.5624(20) 0.4672(18) 0.6721(15) 0.0068(9) 1. 0
+O2 O2- 2 a 0.5356(18) 0.4437(19) 0.3226(14) 0.0068(9) 1. 0
+O3 O2- 2 a -0.0479(19) 0.0666(18) 0.2247(13) 0.0068(9) 1. 0
+O4 O2- 2 a -0.0813(20) 0.0443(18) 0.7747(14) 0.0068(9) 1. 0
+O5 O2- 2 a 0.8594(17) 0.8022(17) 0.5056(12) 0.0068(9) 1. 0
+O6 O2- 2 a 0.6689(14) 0.7257(19) -0.0149(11) 0.0068(9) 1. 0
+#End of TTdata_253990-ICSD

@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_279595-ICSD
+_database_code_ICSD 279595
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Disodium thiosulfate(VI) pentahydrate'
+_chemical_formula_structural 'Na2 (S2 O3) (H2 O)5'
+_chemical_formula_sum 'H10 Na2 O8 S2'
+_chemical_name_structure_type Na2S2O3(H2O)5
+_exptl_crystal_density_diffrn 1.76
+_publ_section_title 'Rerefinement of sodium thiosulfate pentahydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2001 57 67
+69 ACSEBH
+loop_
+_publ_author_name
+'Prasad, S.M.'
+'Rani, A.'
+_cell_length_a 5.947(1)
+_cell_length_b 21.5740(20)
+_cell_length_c 7.526(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.82(1)
+_cell_angle_gamma 90.
+_cell_volume 937.64
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S2- -2
+S6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S2- 4 e 0.10195(6) 0.06813(2) 0.10657(5) . 1. 0
+S2 S6+ 4 e 0.14816(5) 0.14150(2) 0.27735(4) . 1. 0
+Na1 Na1+ 4 e 0.72332(9) 0.15883(3) 0.57405(7) . 1. 0
+Na2 Na1+ 4 e 0.25417(9) 0.09162(3) 0.71538(8) . 1. 0
+O1 O2- 4 e 0.3378(2) 0.12783(5) 0.43492(14) . 1. 0
+O2 O2- 4 e -.0670(2) 0.15331(5) 0.33426(15) . 1. 0
+O3 O2- 4 e 0.2029(2) 0.19531(4) 0.17411(14) . 1. 0
+O4 O2- 4 e 0.6228(2) 0.26513(5) 0.5974(2) . 1. 0
+H1 H1+ 4 e 0.711(4) 0.2831(10) 0.668(3) 0.037(5) 1. 0
+H2 H1+ 4 e 0.505(5) 0.2723(10) 0.618(3) 0.058(7) 1. 0
+O5 O2- 4 e 1.0904(2) 0.18611(5) 0.7782(2) . 1. 0
+H3 H1+ 4 e 0.105(3) 0.1873(9) 0.888(3) 0.039(5) 1. 0
+H4 H1+ 4 e 0.130(4) 0.2195(10) 0.750(3) 0.044(6) 1. 0
+O6 O2- 4 e 0.6149(2) 0.13221(6) 0.8563(2) . 1. 0
+H5 H1+ 4 e 0.729(4) 0.1137(11) 0.914(3) 0.055(6) 1. 0
+H6 H1+ 4 e 0.620(4) 0.1617(10) 0.927(3) 0.045(6) 1. 0
+O7 O2- 4 e 0.8634(2) 0.05229(5) 0.6093(2) . 1. 0
+H7 H1+ 4 e 0.855(4) 0.0254(10) 0.672(3) 0.044(6) 1. 0
+H8 H1+ 4 e 0.802(4) 0.0409(11) 0.503(4) 0.054(6) 1. 0
+O8 O2- 4 e 0.6465(2) 0.01482(5) 0.2468(2) . 1. 0
+H9 H1+ 4 e 0.532(5) 0.0301(10) 0.211(3) 0.050(6) 1. 0
+H10 H1+ 4 e 0.731(5) 0.0331(12) 0.191(4) 0.070(8) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S2- 0.0240(2) 0.0230(2) 0.0276(2) -.00089(12) 0.00505(14) -.00195(13)
+S2 S6+ 0.0127(2) 0.0233(2) 0.0213(2) -.00003(10) 0.00475(13) 0.00066(11)
+Na1 Na1+ 0.0188(3) 0.0330(3) 0.0304(3) 0.0010(2) 0.0064(2) 0.0009(2)
+Na2 Na1+ 0.0211(3) 0.0296(3) 0.0432(4) -.0008(2) 0.0059(2) -.0018(2)
+O1 O2- 0.0221(5) 0.0457(6) 0.0291(5) -.0001(4) -.0043(4) -.0014(5)
+O2 O2- 0.0221(5) 0.0425(6) 0.0355(6) 0.0052(4) 0.0169(4) 0.0022(5)
+O3 O2- 0.0330(6) 0.0233(5) 0.0356(6) -.0034(4) 0.0163(4) 0.0000(4)
+O4 O2- 0.0205(6) 0.0377(6) 0.0467(7) 0.0004(5) 0.0061(5) -.0041(5)
+O5 O2- 0.0285(5) 0.0271(6) 0.0289(6) -.0041(4) 0.0068(4) 0.0021(4)
+O6 O2- 0.0201(6) 0.0414(6) 0.0326(6) 0.0016(4) 0.0035(4) -.0028(5)
+O7 O2- 0.0322(6) 0.0288(6) 0.0343(6) -.0014(4) 0.0045(5) 0.0026(5)
+O8 O2- 0.0224(6) 0.0351(6) 0.0489(7) 0.0035(5) 0.0100(5) 0.0053(5)
+#End of TTdata_279595-ICSD

@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79868-ICSD
+_database_code_ICSD 79868
+_audit_creation_date 1996-10-14
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Disodium copper diphosphate(V)'
+_chemical_formula_structural 'Na2 Cu (P2 O7)'
+_chemical_formula_sum 'Cu1 Na2 O7 P2'
+_chemical_name_structure_type Na2PdP2O7
+_exptl_crystal_density_diffrn 3.07
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis of a new layered sodium copper(II) pyrophosphate, Na2 Cu P2 O7, via
+an eutectic halide flux
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1995 34 1495 1499 INOCAJ
+loop_
+_publ_author_name
+'Etheredge, K.M.S.'
+'Hwu, S.-J.'
+_cell_length_a 14.715(1)
+_cell_length_b 5.704(2)
+_cell_length_c 8.066(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.14(1)
+_cell_angle_gamma 90.
+_cell_volume 612.88
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 a 0 0 0 0.90(2) 1. 0
+P1 P5+ 8 f 0.39521(4) 0.15897(9) 0.15585(6) 0.66(2) 1. 0
+Na1 Na1+ 8 f 0.22924(7) 0.1402(1) 0.2991(1) 1.20(3) 1. 0
+O1 O2- 4 e 0.5 0.0181(3) 0.25 0.84(8) 1. 0
+O2 O2- 8 f 0.1877(1) 0.4839(2) 0.3982(2) 1.02(5) 1. 0
+O3 O2- 8 f 0.3930(1) 0.3324(3) 0.2992(2) 1.28(5) 1. 0
+O4 O2- 8 f 0.1020(1) 0.2129(3) 0.0077(2) 1.27(5) 1. 0
+#End of TTdata_79868-ICSD

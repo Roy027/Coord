@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79020-ICSD
+_database_code_ICSD 79020
+_audit_creation_date 1996-04-22
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Sodium niobium sulphide (0.64/1/2)'
+_chemical_formula_structural 'Na0.64 Nb S2.04'
+_chemical_formula_sum 'Na0.64 Nb1 S2.04'
+_chemical_name_structure_type NaxNbS2
+_exptl_crystal_density_diffrn 4.06
+_publ_section_title
+
+;
+The preparation of non-hydrated alkali metal niobium disulphide single
+crystals
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1995 30 57 63 MRBUAC
+loop_
+_publ_author_name
+'Gareh, J.E.'
+'Barker, M.G.'
+'Begley, M.J.'
+_cell_length_a 3.352(1)
+_cell_length_b 3.352(1)
+_cell_length_c 14.552(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 141.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Nb3+ 3.44
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0.3333 0.6667 -.01(3) . 0.32(2) 0
+Nb1 Nb3+ 2 c 0.3333 0.6667 0.25 . 1. 0
+S1 S2- 4 e 0 0 0.3565(3) . 1.02(1) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.058(16) 0.058(16) 0.03(1) 0.029(8) 0 0
+Nb1 Nb3+ 0.0018(18) 0.0018(18) 0.025(2) 0.0009(9) 0 0
+S1 S2- 0.003(2) 0.003(2) 0.027(3) 0.0015(10) 0 0
+#End of TTdata_79020-ICSD

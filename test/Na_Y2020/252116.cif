@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252116-ICSD
+_database_code_ICSD 252116
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Gadolinium sodium bis(sulfate) aqua'
+_chemical_formula_structural '(Gd Na (S O4)2 (H2 O))'
+_chemical_formula_sum 'H2 Gd1 Na1 O9 S2'
+_chemical_name_structure_type CeNa(SO4)2H2O
+_exptl_crystal_density_diffrn 3.71
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Three rare Ln-Na heterometallic 3D polymers based on sulfate anion: Syntheses,
+structures, and luminescence properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry Communications' 2016 63 16 19 ICCOFP
+loop_
+_publ_author_name
+'Zhai, Bin'
+'Li, Zhongyi'
+'Zhang, Chi'
+'Zhang, Fuli'
+'Zhang, Xiangfei'
+'Zhang, Fuqiang'
+'Cao, Guangxiu'
+'Li, Suzhi'
+'Yang, Xiaoyan'
+_cell_length_a 6.8817(10)
+_cell_length_b 6.8817(10)
+_cell_length_c 12.765(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 523.53
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+_refine_ls_R_factor_all 0.0121
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+2/3'
+2 '-x, -x+y, -z+1/3'
+3 'y, x, -z'
+4 '-x+y, -x, z+2/3'
+5 '-y, x-y, z+1/3'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Gd3+ 3
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Gd1 Gd3+ 3 b 1. 0.56423(3) 0.1667 0.00872(7) 1 0
+Na1 Na1+ 3 a 0.5323(2) 0. 0.3333 0.0120(3) 1 0
+S1 S6+ 6 c 0.98728(11) 0.54500(11) 0.40913(4) 0.00850(12) 1 0
+O1 O2- 6 c 0.8305(3) 0.5861(4) 0.47007(15) 0.0153(4) 1 0
+O2 O2- 6 c 1.1266(4) 0.5058(4) 0.48320(15) 0.0152(5) 1 0
+O3 O2- 6 c 1.1280(3) 0.7407(3) 0.34157(14) 0.0139(4) 1 0
+O4 O2- 6 c 0.8664(4) 0.3549(4) 0.33603(13) 0.0145(5) 1 0
+O5 O2- 3 b 1. 0.9160(6) 0.1667 0.0449(14) 1 0
+H1 H1+ 6 c 0.909(7) 0.937(9) 0.129(3) 0.054 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Gd1 Gd3+ 0.00813(13) 0.00927(9) 0.00838(9) 0.00407(7) -0.00018(7) -0.00009(4)
+Na1 Na1+ 0.0139(6) 0.0056(8) 0.0139(7) 0.0028(4) -0.0008(3) -0.0015(6)
+S1 S6+ 0.0075(3) 0.0098(3) 0.0084(3) 0.0045(3) 0.0006(2) 0.0004(2)
+O1 O2- 0.0136(10) 0.0183(11) 0.0179(10) 0.0108(9) 0.0050(8) -0.0007(8)
+O2 O2- 0.0129(13) 0.0213(15) 0.0134(8) 0.0101(12) -0.0027(8) 0.0023(8)
+O3 O2- 0.0121(10) 0.0105(10) 0.0135(8) 0.0014(8) 0.0027(7) 0.0032(7)
+O4 O2- 0.0149(11) 0.0131(10) 0.0124(9) 0.0046(9) -0.0005(8) -0.0013(6)
+O5 O2- 0.023(3) 0.0167(16) 0.097(4) 0.0114(14) -0.023(2) -0.0113(12)
+#End of TTdata_252116-ICSD

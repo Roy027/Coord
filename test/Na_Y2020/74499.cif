@@ -1,0 +1,70 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74499-ICSD
+_database_code_ICSD 74499
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Disodium dithiomercurate'
+_chemical_formula_structural 'Na2 (Hg S2)'
+_chemical_formula_sum 'Hg1 Na2 S2'
+_exptl_crystal_density_diffrn 4.17
+_publ_section_title
+'Na2HgS2 und K2HgS2, zwei Thiomercurate mit isolierten Anionen'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+1992 47 491 496 ZNBSEN
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Prager, K.'
+_cell_length_a 18.240(20)
+_cell_length_b 7.494(5)
+_cell_length_c 7.237(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 989.23
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Hg2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.5558(4) 0.270(1) 0.498(1) 2.4(2) 1. 0
+Na2 Na1+ 8 c 0.6972(4) 0.454(1) 0.170(1) 2.7(2) 1. 0
+Hg1 Hg2+ 8 c 0.38988(4) 0.1523(1) 0.7275(1) 1.81(1) 1. 0
+S1 S2- 8 c 0.5502(3) 0.9228(7) 0.7431(7) 1.84(8) 1. 0
+S2 S2- 8 c 0.6774(3) 0.3910(7) 0.7964(7) 2.09(9) 1. 0
+#End of TTdata_74499-ICSD

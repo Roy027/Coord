@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65179-ICSD
+_database_code_ICSD 65179
+_audit_creation_date 1989-12-04
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium undecafluoroargento(II)dizirconate'
+_chemical_formula_structural 'Na (Ag Zr2 F11)'
+_chemical_formula_sum 'Ag1 F11 Na1 Zr2'
+_chemical_name_structure_type AgNaZr2F11
+_exptl_crystal_density_diffrn 3.86
+_publ_section_title
+
+;
+Neue komplexe Fluoride mit Ag2+ und Pd2+: Na M(II) Zr2 F11 (M(II)= Ag, Pd) und
+Ag Pd Zr2 F11
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+553 205 211 ZAACAB
+loop_
+_publ_author_name
+'Mueller, B.G.'
+_cell_length_a 7.809(3)
+_cell_length_b 5.700(2)
+_cell_length_c 5.832(2)
+_cell_angle_alpha 106.17(3)
+_cell_angle_beta 111.58(3)
+_cell_angle_gamma 96.62(3)
+_cell_volume 224.85
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ag2+ 2
+Zr4+ 4
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0 0 0 . 1. 0
+Ag1 Ag2+ 1 f 0.5 0 0.5 . 1. 0
+Zr1 Zr4+ 2 i 0.2311(1) 0.5042(2) 0.7359(2) . 1. 0
+F1 F1- 1 e 0.5 0.5 0 . 1. 0
+F2 F1- 2 i 0.3462(10) 0.7313(12) 0.6012(13) . 1. 0
+F3 F1- 2 i 0.3136(7) 0.222(1) 0.5190(9) . 1. 0
+F4 F1- 2 i 0.7144(8) 0.204(1) 0.9431(10) . 1. 0
+F5 F1- 2 i 0.1106(9) 0.2627(11) 0.8416(11) . 1. 0
+F6 F1- 2 i 0.0108(7) 0.3366(9) 0.3448(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0451(21) 0.0121(19) 0.0249(18) 0.0073(16) 0.0263(17) 0.0040(16)
+Ag1 Ag2+ 0.0116(8) 0.0092(7) 0.107(7) 0.0037(7) 0.0060(6) 0.0023(6)
+Zr1 Zr4+ 0.0048(7) 0.0072(6) 0.0082(6) 0.0034(7) 0.0020(5) 0.0035(5)
+F1 F1- 0.0161(18) 0.0212(19) 0.0217(18) 0.0053(15) 0.0058(16) 0.0037(17)
+F2 F1- 0.0295(19) 0.0292(18) 0.0392(17) -.0023(16) 0.0182(15) 0.0185(15)
+F3 F1- 0.0273(17) 0.0289(18) 0.0269(17) 0.0194(16) 0.0110(15) 0.0051(16)
+F4 F1- 0.0251(18) 0.0337(18) 0.0150(17) 0.0145(14) -.0027(15) -.0040(16)
+F5 F1- 0.0327(19) 0.0344(19) 0.0407(19) 0.0045(15) 0.0220(16) 0.0225(17)
+F6 F1- 0.0171(17) 0.0265(18) 0.0155(17) 0.0143(15) 0.0060(14) -.0005(15)
+#End of TTdata_65179-ICSD

@@ -1,0 +1,71 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_154355-ICSD
+_database_code_ICSD 154355
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Disodium squarate'
+_chemical_formula_structural 'Na2 (C4 O4)'
+_chemical_formula_sum 'C4 Na2 O4'
+_exptl_crystal_density_diffrn 2.13
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+The crystal structures of solvent-free alkali-metal squarates from powder
+diffraction data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2005 220 954 961 ZEKRDZ
+loop_
+_publ_author_name
+'Dinnebier, R.E.'
+'Nuss, H.'
+'Jansen, M.'
+_cell_length_a 3.4925(1)
+_cell_length_b 6.8152(1)
+_cell_length_c 10.3525(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.56(1)
+_cell_angle_gamma 90.
+_cell_volume 246.32
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0914
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C1+ 1.5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.7059(5) 0.0604(3) 0.3487(2) 0.0303(8) 1. 0
+C1 C1+ 4 e 0.1013(2) -0.0177(1) 0.0946(1) 0.0191(7) 1. 0
+C2 C1+ 4 e 0.1068(2) 0.1424(1) -0.0005(1) 0.0191(7) 1. 0
+O1 O2- 4 e 0.2226(6) -0.0389(3) 0.2078(2) 0.0191(7) 1. 0
+O2 O2- 4 e 0.2346(5) 0.3127(3) -0.0011(2) 0.0191(7) 1. 0
+#End of TTdata_154355-ICSD

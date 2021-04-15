@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2100-ICSD
+_database_code_ICSD 2100
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Disodium fluorotrioxophosphate(V) - beta'
+_chemical_formula_structural 'Na2 (P O3 F)'
+_chemical_formula_sum 'F1 Na2 O3 P1'
+_chemical_name_structure_type Na2PO3F
+_exptl_crystal_density_diffrn 2.67
+_publ_section_title
+
+;
+Etudes structurales de composes oxyfluores du P(V) II. Structure      
+cristalline de  Na2 P O3 F  beta
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1974 30 1565 1569 ACBCAR
+loop_
+_publ_author_name
+'Durand, J.'
+'le Cot, L.'
+'Galigne, J.L.'
+_cell_length_a 5.416(3)
+_cell_length_b 6.929(4)
+_cell_length_c 19.079(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 715.99
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P5+ 5
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.2459(13) 0.4219(8) 0.0470(2) . 1. 0
+Na2 Na1+ 4 a 0.2837(11) 0.0601(7) 0.1924(2) . 1. 0
+Na3 Na1+ 4 a 0.2626(13) 0.7769(7) 0.3679(2) . 1. 0
+Na4 Na1+ 4 a 0.2547(13) 0.2851(7) 0.3772(2) . 1. 0
+P1 P5+ 4 a 0.1958(6) 0.5276(4) 0.2118(1) . 1. 0
+P2 P5+ 4 a 0.2427(7) -.0203(4) 0.0316(1) . 1. 0
+O1 O2- 4 a 0.2749(18) 0.5216(12) 0.2865(4) . 1. 0
+O2 O2- 4 a 0.3114(20) 0.3816(12) 0.1637(4) . 1. 0
+O3 O2- 4 a -.0780(16) 0.5505(16) 0.2004(5) . 1. 0
+O4 O2- 4 a 0.0234 0.0581(26) 0.0702(6) . 1. 0
+O5 O2- 4 a 0.2322(26) -.0073(14) -.0455(4) . 1. 0
+O6 O2- 4 a 0.4808(18) 0.0326(19) 0.0661(5) . 1. 0
+F1 F1- 4 a 0.3112(18) 0.7298(10) 0.1847(4) . 1. 0
+F2 F1- 4 a 0.2237(28) -.2470(11) 0.0446(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0269(20) 0.0119(9) 0.0016(1) -.0006(16) 0.0002(3) -.0003(4)
+Na2 Na1+ 0.0232(17) 0.0083(8) 0.0016(1) 0.0002(13) -.0001(3) 0.0008(4)
+Na3 Na1+ 0.0205(19) 0.0100(9) 0.0013(1) 0.0005(14) -.0005(2) 0.0001(4)
+Na4 Na1+ 0.0219(21) 0.0102(9) 0.0014(1) -.0030(15) 0.0004(2) -.0001(4)
+P1 P5+ 0.0133(9) 0.0058(5) 0.0009(1) -.0001(6) -.0001(1) 0.000004(2)
+P2 P5+ 0.0135(9) 0.0066(5) 0.0011(1) -.0002(7) -.0002(1) 0.0001(2)
+O1 O2- 0.0229(28) 0.0071(14) 0.0012(1) -.0013(22) -.0003(4) -.0012(7)
+O2 O2- 0.0218(32) 0.0071(15) 0.0015(2) 0.0009(21) -.0005(4) 0.0010(7)
+O3 O2- 0.0131(25) 0.0125(18) 0.0022(2) 0.0016(22) -.0001(6) -.0013(10)
+O4 O2- 0.0144(31) 0.0288(33) 0.0046(4) 0.0004(33) -.0071(11) 0.0013(10)
+O5 O2- 0.04331 0.0126(17) 0.0014(2) -.0001(30) 0.0008(5) -.0009(8)
+O6 O2- 0.0144(27) 0.0159(24) 0.00022(2) -.0014(24) -.0023(7) -.0009(7)
+F1 F1- 0.0287(31) 0.0057(12) 0.0020(2) -.0023(19) 0.0009(7) 0.0003(4)
+F2 F1- 0.0679(58) 0.0088(14) 0.0027(2) -.0085(31) 0.0013(4) -.0034(12)
+#End of TTdata_2100-ICSD

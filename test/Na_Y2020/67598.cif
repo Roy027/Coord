@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67598-ICSD
+_database_code_ICSD 67598
+_audit_creation_date 1993-08-22
+_chemical_name_systematic 'Tetrabarium triruthenium(V) sodium oxide'
+_chemical_formula_structural 'Ba4 Ru3 Na O12'
+_chemical_formula_sum 'Ba4 Na1 O12 Ru3'
+_chemical_name_structure_type Perovskite-LiBa4Nb3O12(hP40)
+_exptl_crystal_density_diffrn 6.29
+_publ_section_title
+
+;
+The Crystal Structure and Electronic Properties of Ba4Ru3MO12 (M = Li, Na, Mg,
+Zn)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1992 101 161 172 JSSCBI
+loop_
+_publ_author_name
+'Battle, P.D.'
+'Kim, S.-H.'
+'Powell, A.V.'
+_cell_length_a 5.8142(1)
+_cell_length_b 5.8142(1)
+_cell_length_c 19.2643(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 563.98
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.0429
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Na1+ 1
+Ru5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 2 a 0 0 0 0.62(3) 1. 0
+Ba2 Ba2+ 2 b 0.3333 0.6667 0.1229(5) 0.62(3) 1. 0
+Ba3 Ba2+ 2 b 0.3333 0.6667 0.3706(5) 0.62(3) 1. 0
+Ba4 Ba2+ 2 b 0.3333 0.6667 0.7465(5) 0.62(3) 1. 0
+Na1 Na1+ 2 b 0.3333 0.6667 0.5595(7) 0.63(5) 1. 0
+Ru1 Ru5+ 2 b 0.3333 0.6667 0.9366(5) 0.63(5) 1. 0
+Ru2 Ru5+ 2 a 0 0 0.3203(6) 0.71(4) 1. 0
+Ru3 Ru5+ 2 a 0 0 0.1824(5) 0.71(4) 1. 0
+O1 O2- 6 c 0.4876(3) 0.5124(3) -.0097(5) 0.62(2) 1. 0
+O2 O2- 6 c 0.8442(4) 0.1558(4) 0.1287(5) 0.62(2) 1. 0
+O3 O2- 6 c 0.8345(4) 0.1656(4) 0.3725(5) 0.62(2) 1. 0
+O4 O2- 6 c 0.8479(2) 0.1521(2) 0.7532(5) 0.62(3) 1. 0
+#End of TTdata_67598-ICSD

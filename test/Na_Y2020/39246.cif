@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39246-ICSD
+_database_code_ICSD 39246
+_audit_creation_date 1990-12-27
+_audit_update_record 2019-02-01
+_chemical_name_systematic 'Trirubidium trisodium discandium hexakis(molybdate)'
+_chemical_formula_structural 'Rb3 Na3 Sc2 (Mo O4)6'
+_chemical_formula_sum 'Mo6 Na3 O24 Rb3 Sc2'
+_chemical_name_structure_type Rb3Na3Sc2(MoO4)6
+_exptl_crystal_density_diffrn 3.63
+_publ_section_title 'Crystal structure of Rb3 Na3 Sc2 (Mo O4)6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1990 35 625 629 KRISAJ
+loop_
+_publ_author_name
+'Tursina, A.I.'
+'Efremov, V.A.'
+'Gasanov, Yu.M.'
+'Trunov, V.K.'
+_cell_length_a 10.795(2)
+_cell_length_b 12.497(3)
+_cell_length_c 18.652(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2516.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P c c a'
+_symmetry_Int_Tables_number 54
+_refine_ls_R_factor_all 0.063
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y, z+1/2'
+3 'x+1/2, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y, -z+1/2'
+7 '-x+1/2, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Rb1+ 1
+Sc3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 8 f 0.2175(2) 0.8030(2) 0.28713(9) 1.11(3) 1. 0
+Mo2 Mo6+ 8 f 0.5810(2) 0.8591(2) 0.4129(1) 1.46(3) 1. 0
+Mo3 Mo6+ 8 f 0.4533(2) 0.4694(2) 0.12034(8) 0.95(3) 1. 0
+Rb1 Rb1+ 4 d 0.75 0 0.5655(2) 2.73(8) 1. 0
+Rb2 Rb1+ 8 f 0.7793(2) 0.6577(2) 0.5376(1) 2.12(4) 1. 0
+Sc1 Sc3+ 4 e 0.25 0.5 0.2850(3) 1.4(1) 1. 0
+Sc2 Sc3+ 8 f 0.5717(4) 0.1636(4) 0.3995(3) 0.81(9) 0.50(7) 0
+Na1 Na1+ 8 f 0.5717(4) 0.1636(4) 0.3995(3) 0.81(9) 0.50(7) 0
+Na2 Na1+ 4 c 0.5 0.673(1) 0.25 1.6(2) 1. 0
+Na3 Na1+ 4 c 0.5 0.008(1) 0.75 2.1(3) 1. 0
+O1 O2- 8 f 0.336(1) 0.892(1) 0.2954(9) 2.7(4) 1. 0
+O2 O2- 8 f 0.127(1) 0.818(1) 0.3644(7) 2.1(3) 1. 0
+O3 O2- 8 f 0.124(1) 0.835(1) 0.2133(8) 2.7(4) 1. 0
+O4 O2- 8 f 0.276(2) 0.667(1) 0.2867(8) 2.6(3) 1. 0
+O5 O2- 8 f 0.552(2) 0.766(2) 0.347(1) 5.5(4) 1. 0
+O6 O2- 8 f 0.552(1) 0.987(1) 0.3816(8) 2.7(3) 1. 0
+O7 O2- 8 f 0.480(2) 0.835(2) 0.484(1) 4.2(5) 1. 0
+O8 O2- 8 f 0.737(2) 0.849(1) 0.4418(9) 3.1(4) 1. 0
+O9 O2- 8 f 0.400(2) 0.551(1) 0.0537(8) 2.9(4) 1. 0
+O10 O2- 8 f 0.418(1) 0.336(1) 0.0962(9) 2.8(4) 1. 0
+O11 O2- 8 f 0.386(1) 0.507(1) 0.2032(7) 2.0(3) 1. 0
+O12 O2- 8 f 0.615(1) 0.486(1) 0.1309(7) 2.5(4) 1. 0
+#End of TTdata_39246-ICSD

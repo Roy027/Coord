@@ -1,0 +1,64 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_196058-ICSD
+_database_code_ICSD 196058
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Natrium iridium trioxide'
+_chemical_formula_structural 'Na Ir O3'
+_chemical_formula_sum 'Ir1 Na1 O3'
+_exptl_crystal_density_diffrn 6.98
+_cell_measurement_temperature 297.
+_publ_section_title
+'New honeycomb iridium(V) oxides: Na Ir O3 and Sr3 Ca Ir2 O9'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2015 44 20344 20351 DTARAF
+loop_
+_publ_author_name
+'Wallace, David C.'
+'McQueen, Tyrel M.'
+_cell_length_a 5.2808(3)
+_cell_length_b 5.2870(3)
+_cell_length_c 6.0014(3)
+_cell_angle_alpha 90.002(9)
+_cell_angle_beta 115.762(6)
+_cell_angle_gamma 60.112(5)
+_cell_volume 125.7
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir5+ 2 i 0.1641(5) 0.1562(6) 0.0098(2) 0.16(2) 1. 0
+Na1 Na1+ 1 e 0.5 0.5 0. 0.47(9) 1. 0
+Na2 Na1+ 2 i 0.210(4) 0.663(4) 0.563(2) 0.47(9) 0.5 0
+O1 O2- 2 i 0.948(2) 0.468(2) 0.153(2) 1.1(1) 1. 0
+O2 O2- 2 i 0.239(2) 0.844(2) 0.206(2) 1.1(1) 1. 0
+O3 O2- 2 i 0.639(3) 0.103(3) 0.190(2) 1.1(1) 1. 0
+#End of TTdata_196058-ICSD

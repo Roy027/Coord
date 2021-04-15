@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_21835-ICSD
+_database_code_ICSD 21835
+_audit_creation_date 2019-08-01
+_chemical_name_systematic
+'Sodium nonalanthanum hexakis(germanate) dioxide : Nd,Ho-doped'
+_chemical_formula_structural 'Na (La8.875 Nd0.125) (Ge O4)6 O2'
+_chemical_formula_sum 'Ge6 La8.875 Na1 Nd0.125 O26'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 5.74
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Nd3+,Ho3+-Codoped apatite-related NaLa9(GeO4)6O2 phosphors for the near- and
+middle-infrared region
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2018 47 14041 14051 DTARAF
+loop_
+_publ_author_name
+'Baklanova, Yana V.'
+'Lipina, Olga A.'
+'Enyashin, Andrey N.'
+'Surat, Ludmila L.'
+'Tyutyunnik, Alexander P.'
+'Tarakina, Nadezda V.'
+'Fortes, A. Dominic'
+'Chufarov, Alexander Yu.'
+'Gorbatov, Evgeny V.'
+'Zubkov, Vladimir G.'
+_cell_length_a 9.88903(6)
+_cell_length_b 9.88903(6)
+_cell_length_c 7.25602(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 614.51
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0298
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Na1+ 1
+La3+ 3
+Ge4+ 4
+O2- -2
+Nd3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 f 0.33333 0.66666 -0.00052(13) 0.00918 0.7396 0
+Na1 Na1+ 4 f 0.33333 0.66666 -0.00052(13) 0.00918 0.25 0
+La2 La3+ 6 h 0.24175(6) 0.01243(8) 0.25 0.00376 0.9861 0
+Ge1 Ge4+ 6 h 0.37354(7) 0.40133(7) 0.25 0.00379 1. 0
+O1 O2- 6 h 0.48858(10) 0.31495(10) 0.25 0.01376 1. 0
+O2 O2- 6 h 0.52442(10) 0.39596(10) 0.75 0.01194 1. 0
+O3 O2- 12 i 0.24763(8) 0.33958(9) 0.43834(7) 0.03193 1. 0
+O4 O2- 2 a 0. 0. 0.25 0.02287 1. 0
+Nd1 Nd3+ 4 f 0.33333 0.66667 -0.00052(13) 0.00918 0.0104 0
+Nd2 Nd3+ 6 h 0.24175(6) 0.01243(8) 0.25 0.00376 0.0139 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.00730(30) 0.00730(30) 0.0129(5) 0.00363(15) 0. 0.
+Na1 Na1+ 0.00730(30) 0.00730(30) 0.0129(5) 0.00363(15) 0. 0.
+La2 La3+ 0.0039(4) 0.00226(33) 0.00311(25) 0.00006(31) 0. 0.
+Ge1 Ge4+ 0.00326(33) 0.00533(32) 0.00422(28) 0.00323(29) 0. 0.
+O1 O2- 0.0150(6) 0.0283(6) 0.0071(5) 0.0176(5) 0. 0.
+O2 O2- 0.0034(5) 0.0066(5) 0.0231(6) 0.0005(4) 0. 0.
+O3 O2- 0.0152(4) 0.0761(6) 0.01175(33) 0.0283(4) 0.01102(32) 0.0268(4)
+O4 O2- 0.0072(5) 0.0072(5) 0.0541(13) 0.00360(26) 0. 0.
+Nd1 Nd3+ 0.00730(30) 0.00730(30) 0.0129(5) 0.00363(15) 0. 0.
+Nd2 Nd3+ 0.0039(4) 0.00226(33) 0.00311(25) 0.00006(31) 0. 0.
+#End of TTdata_21835-ICSD

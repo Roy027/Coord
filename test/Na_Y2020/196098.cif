@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_196098-ICSD
+_database_code_ICSD 196098
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Lithium-0.80 sodium-0.20 iron hexaoxodigermanate'
+_chemical_formula_structural '(Li0.80 Na0.20) Fe (Ge2 O6)'
+_chemical_formula_sum 'Fe1 Ge2 Li0.8 Na0.2 O6'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_chemical_name_mineral 'Clinopyroxene - (Li,Na,Fe,Ge)'
+_exptl_crystal_density_diffrn 4.54
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The (Na,Li) Fe Ge2 O6 clinopyroxene-type series: a temperature-dependent
+single-crystal X-ray diffraction and (57)Fe Moessbauer spectroscopic study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2016 43 1 22 PCMIDU
+loop_
+_publ_author_name
+'Redhammer, Guenther J.'
+'Tippelt, Gerold'
+_cell_length_a 9.9217(5)
+_cell_length_b 8.8326(6)
+_cell_length_c 5.4201(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.746(3)
+_cell_angle_gamma 90.
+_cell_volume 449.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0202
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+Fe3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.2604(3) 0.4742(4) 0.7308(6) 0.0223(12) 0.802(7) 0
+Na1 Na1+ 4 e 0.2604(3) 0.4742(4) 0.7308(6) 0.0223(12) 0.198(7) 0
+Fe1 Fe3+ 4 e 0.25066(4) 0.65131(4) 0.22048(8) 0.00750(11) 1. 0
+Ge1 Ge4+ 4 e 0.04372(3) 0.34227(4) 0.26954(6) 0.00799(10) 1 0
+Ge2 Ge4+ 4 e 0.54914(3) 0.84066(3) 0.23123(6) 0.00783(10) 1 0
+O1 O2- 4 e -0.1423(2) 0.3315(2) 0.1671(4) 0.0090(4) 1 0
+O2 O2- 4 e 0.1124(2) 0.5220(2) 0.2832(4) 0.0147(5) 1 0
+O3 O2- 4 e 0.1143(2) 0.2845(2) 0.5964(4) 0.0131(4) 1 0
+O4 O2- 4 e 0.3622(2) 0.8320(2) 0.1102(4) 0.0099(4) 1 0
+O5 O2- 4 e 0.6234(2) 1.0090(2) 0.3675(4) 0.0141(5) 1 0
+O6 O2- 4 e 0.6133(2) 0.7007(2) 0.4720(4) 0.0130(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.019(2) 0.029(2) 0.0168(19) -0.0081(15) 0.0032(14) -0.0032(15)
+Na1 Na1+ 0.019(2) 0.029(2) 0.0168(19) -0.0081(15) 0.0032(14) -0.0032(15)
+Fe1 Fe3+ 0.0074(2) 0.0075(2) 0.0077(2) -0.00005(17) 0.00255(16) 0.00028(16)
+Ge1 Ge4+ 0.00729(17) 0.00921(18) 0.00784(16) -0.00129(12) 0.00296(12)
+-0.00032(11)
+Ge2 Ge4+ 0.00749(17) 0.00840(17) 0.00768(16) -0.00113(12) 0.00256(11)
+-0.00054(11)
+O1 O2- 0.0072(10) 0.0116(11) 0.0074(10) -0.0017(8) 0.0014(7) 0.0003(8)
+O2 O2- 0.0167(11) 0.0115(11) 0.0176(11) -0.0048(9) 0.0080(9) -0.0007(9)
+O3 O2- 0.0129(11) 0.0183(11) 0.0088(10) -0.0005(9) 0.0046(8) 0.0037(9)
+O4 O2- 0.0078(10) 0.0112(11) 0.0099(10) -0.0013(8) 0.0019(8) 0.0002(8)
+O5 O2- 0.0159(11) 0.0119(11) 0.0179(11) -0.0068(9) 0.0100(9) -0.0055(9)
+O6 O2- 0.0113(11) 0.0186(12) 0.0103(11) 0.0026(9) 0.0053(9) 0.0057(9)
+#End of TTdata_196098-ICSD

@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_308311-ICSD
+_database_code_ICSD 308311
+_audit_creation_date 2010-02-01
+_chemical_name_systematic
+'Samarium potassium sodium tantalum oxide (4/2/2/2/13)'
+_chemical_formula_structural 'Sm4 K2 Na2 Ta2 O13'
+_chemical_formula_sum 'K2 Na2 O13 Sm4 Ta2'
+_chemical_name_structure_type K2Na2Gd4Nb2O13
+_exptl_crystal_density_diffrn 6.23
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Crystal growth, structural properties, and photophysical characterization of
+Ln4 Na2 K2 M2 O13 (M = Nb, Ta; Ln = Nd, Sm, Eu, Gd)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2009 48 8220 8226 INOCAJ
+loop_
+_publ_author_name
+'Jagau, T.C.'
+'Roof, I.P.'
+'Smith, M.D.'
+'zur Loye, H.C.'
+_cell_length_a 24.1867(17)
+_cell_length_b 5.6795(4)
+_cell_length_c 11.2396(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.520(2)
+_cell_angle_gamma 90.
+_cell_volume 1381.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0366
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sm3+ 3
+Ta5+ 5
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sm1 Sm3+ 8 f 0.437135(16) 0.04381(6) 0.55101(3) 0.00709(7) 1 0
+Sm2 Sm3+ 8 f 0.062763(16) 0.03485(6) 0.17328(3) 0.00734(7) 1 0
+Ta1 Ta5+ 8 f 0.348987(12) 0.03337(5) 0.21774(3) 0.00677(6) 1 0
+K1 K1+ 8 f 0.25078(9) 0.0515(3) 0.36705(18) 0.0188(3) 1 0
+Na1 Na1+ 8 f 0.15919(14) 0.0367(5) 0.0237(3) 0.0108(5) 1 0
+O1 O2- 8 f 0.3675(2) 0.2747(8) 0.3577(5) 0.0089(9) 1 0
+O2 O2- 8 f 0.3646(2) 0.2241(9) 0.6223(5) 0.0106(10) 1 0
+O3 O2- 8 f 0.1311(2) 0.3096(9) 0.1386(5) 0.0099(9) 1 0
+O4 O2- 8 f 0.2650(2) 0.0620(10) 0.1241(6) 0.0160(11) 1 0
+O5 O2- 4 e 0. 0.2415(13) 0.25 0.0112(14) 1 0
+O6 O2- 8 f 0.3987(2) -0.2299(9) 0.6596(5) 0.0101(10) 1 0
+O7 O2- 8 f 0.5012(2) 0.2511(8) 0.4770(5) 0.0078(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sm1 Sm3+ 0.00750(14) 0.00661(14) 0.00770(14) -0.00052(12) 0.00388(12)
+-0.00045(12)
+Sm2 Sm3+ 0.00758(14) 0.00603(14) 0.00833(14) 0.00052(12) 0.00349(12)
+-0.00020(12)
+Ta1 Ta5+ 0.00644(11) 0.00627(11) 0.00740(12) -0.00001(9) 0.00293(9) -0.00011(10)
+K1 K1+ 0.0248(9) 0.0154(7) 0.0203(8) 0.0004(7) 0.0136(7) 0.0015(6)
+Na1 Na1+ 0.0137(14) 0.0069(12) 0.0118(14) -0.0034(11) 0.0056(12) -0.0011(11)
+O1 O2- 0.009(2) 0.003(2) 0.014(2) -0.0011(17) 0.0052(19) -0.0024(17)
+O2 O2- 0.013(2) 0.008(2) 0.012(2) 0.0021(18) 0.007(2) 0.0007(18)
+O3 O2- 0.014(2) 0.008(2) 0.008(2) -0.0005(18) 0.0052(19) 0.0017(17)
+O4 O2- 0.009(2) 0.019(3) 0.019(3) 0.000(2) 0.006(2) -0.002(2)
+O5 O2- 0.013(3) 0.010(3) 0.010(3) 0. 0.005(3) 0.
+O6 O2- 0.013(2) 0.007(2) 0.013(2) -0.0004(17) 0.009(2) 0.0005(18)
+O7 O2- 0.010(2) 0.005(2) 0.010(2) 0.0027(17) 0.0050(19) -0.0002(17)
+#End of TTdata_308311-ICSD

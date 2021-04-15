@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_64961-ICSD
+_database_code_ICSD 64961
+_audit_creation_date 1998-06-26
+_audit_update_record 2007-08-01
+_chemical_name_systematic
+'Potassium sodium tecto-alumotrisilicate (0.93/0.07/1)'
+_chemical_formula_structural '(K0.93 Na0.07) (Al Si3 O8)'
+_chemical_formula_sum 'Al1 K0.93 Na0.07 O8 Si3'
+_chemical_name_structure_type Feldspar#-(MO,C12/m1)-KAlSi3O8
+_chemical_name_mineral 'Sanidine low'
+_exptl_crystal_density_diffrn 2.55
+_publ_section_title
+'Silizium/Aluminium-Ordnung und Kristallperfektion von Sanidinen'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Kernforschungszentrum Karlsruhe, [Bericht] KfK' 1985 3984 1 50 KKBRAY
+loop_
+_publ_author_name
+'Gering, E.'
+_cell_length_a 8.578(1)
+_cell_length_b 12.978(2)
+_cell_length_c 7.204(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.02(2)
+_cell_angle_gamma 90.
+_cell_volume 720.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.28542(6) 0 0.13794(7) . 0.93 0
+Na1 Na1+ 4 i 0.28542(6) 0 0.13794(7) . 0.07 0
+Al1 Al3+ 8 j 0.00941(2) 0.18486(1) 0.22426(2) . 0.384(11) 0
+Si1 Si4+ 8 j 0.00941(2) 0.18486(1) 0.22426(2) . 0.616 0
+Al2 Al3+ 8 j 0.20920(2) 0.38228(1) 0.34453(2) . 0.116 0
+Si2 Si4+ 8 j 0.20920(2) 0.38228(1) 0.34453(2) . 0.884 0
+O1 O2- 4 g 0 0.14566(6) 0 . 1. 0
+O2 O2- 4 i 0.63855(10) 0 0.28559(10) . 1. 0
+O3 O2- 8 j 0.82650(7) 0.14642(5) 0.22747(8) . 1. 0
+O4 O2- 8 j 0.03523(7) 0.31194(4) 0.25940(7) . 1. 0
+O5 O2- 8 j 0.18093(7) 0.12581(4) 0.40759(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0193(2) 0.0338(3) 0.0283(3) 0 0.0064(2) 0
+Na1 Na1+ 0.0193(2) 0.0338(3) 0.0283(3) 0 0.0064(2) 0
+Al1 Al3+ 0.0143(1) 0.0124(1) 0.0109(1) -0.0023(1) 0.0059(1) -0.0015(1)
+Si1 Si4+ 0.0143(1) 0.0124(1) 0.0109(1) -0.0023(1) 0.0059(1) -0.0015(1)
+Al2 Al3+ 0.0129(1) 0.0098(1) 0.0117(1) 0.0000(1) 0.0049(1) -0.0004(1)
+Si2 Si4+ 0.0129(1) 0.0098(1) 0.0117(1) 0.0000(1) 0.0049(1) -0.0004(1)
+O1 O2- 0.0261(3) 0.0191(2) 0.0213(3) 0 0.0106(2) 0
+O2 O2- 0.0221(3) 0.0121(2) 0.0213(3) 0 0.0031(2) 0
+O3 O2- 0.0242(2) 0.0309(2) 0.0273(2) -0.0024(2) 0.0168(2) 0.0021(2)
+O4 O2- 0.0181(2) 0.0177(2) 0.0208(2) -0.0030(2) 0.0062(1) -0.0031(1)
+O5 O2- 0.0223(2) 0.0196(2) 0.0132(1) 0.0014(2) 0.0026(1) 0.0015(1)
+#End of TTdata_64961-ICSD

@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72201-ICSD
+_database_code_ICSD 72201
+_audit_creation_date 1994-01-19
+_chemical_name_systematic 'Sodium titanium tin(IV) tris(phosphate)'
+_chemical_formula_structural 'Na (Ti Sn) (P O4)3'
+_chemical_formula_sum 'Na1 O12 P3 Sn1 Ti1'
+_chemical_name_structure_type NaZr2(PO4)3
+_exptl_crystal_density_diffrn 3.39
+_publ_section_title
+
+;
+Synthesis and structural study of NaTi2(PO4)3NaSn2(PO4)3 solid solutions. I.
+The effect of composition on lattice parameters
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1992 27 603 610 MRBUAC
+loop_
+_publ_author_name
+'Carrasco, M.P.'
+'Guillem, M.C.'
+'Alamo, J.'
+_cell_length_a 8.5302(2)
+_cell_length_b 8.5302(2)
+_cell_length_c 22.1053(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1392.98
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+Sn4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 b 0 0 0 . 1. 0
+Ti1 Ti4+ 12 c 0 0 0.1456(1) . 0.5 0
+Sn1 Sn4+ 12 c 0 0 0.1456(1) . 0.5 0
+P1 P5+ 18 e 0.2882(5) 0 0.25 . 1. 0
+O1 O2- 36 f 0.1784(8) -.0306(10) 0.1933(3) . 1. 0
+O2 O2- 36 f 0.1906(7) 0.1652(7) 0.0885(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.009(1) 0.009(1) 0.0006(3) 0.0045(8) 0 0
+Ti1 Ti4+ 0.0008(1) 0.0008(1) 0.00012(3) 0.0004(8) 0 0
+Sn1 Sn4+ 0.0008(1) 0.0008(1) 0.00012(3) 0.0004(8) 0 0
+P1 P5+ 0.002(1) 0.004(9) 0.0004(1) 0.0008(7) 0.0002(1) 0.0004(2)
+O1 O2- 0.003(1) 0.009(2) 0.0007(2) 0.004(2) 0.0007(5) 0.0000(5)
+O2 O2- 0.001(1) 0.001(1) 0.0003(2) -.004(1) 0.0009(5) 0.0006(4)
+#End of TTdata_72201-ICSD

@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237487-ICSD
+_database_code_ICSD 237487
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium lanthanum iron tungstate(VI)'
+_chemical_formula_structural 'Na La Fe W O6'
+_chemical_formula_sum 'Fe1 La1 Na1 O6 W1'
+_chemical_name_structure_type Ca3UO6
+_exptl_crystal_density_diffrn 6.75
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Polar and magnetic layered A-site and rock salt B-site-ordered Na Ln Fe W O6
+(Ln = La, Nd) perovskites
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 12482 12490 INOCAJ
+loop_
+_publ_author_name
+'Retuerto, M.'
+'Li, M. R.'
+'Ignatov, A.'
+'Croft, M.'
+'Ramanujachary, K.V.'
+'Chi, S.'
+'Hodges, J.P.'
+'Dachraoui, W.'
+'Hadermann, J.'
+'Tran, T. Thao'
+'Halasyamani, P. Shiv'
+'Grams, C.P.'
+'Hemberger, J.'
+'Greenblatt, M.'
+_cell_length_a 5.5616(4)
+_cell_length_b 5.5617(4)
+_cell_length_c 7.9163(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.177(5)
+_cell_angle_gamma 90
+_cell_volume 244.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.0198
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+La3+ 3
+Fe2+ 2
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.2792(6) 0.4830(8) 0.5023(4) 0.19(1) 1. 0
+La1 La3+ 2 a 0.2532(3) 0.50373(7) 0.0008(3) 0.19(1) 1. 0
+Fe1 Fe2+ 2 a 0.2487(2) 0.0050(5) 0.7452(2) 0.112(6) 1. 0
+W1 W6+ 2 a 0.2521(4) 0.0003(6) 0.2607(2) 0.112(6) 1. 0
+O1 O2- 2 a 0.0282(5) 0.2690(7) 0.2011(3) 1.125(9) 1. 0
+O2 O2- 2 a 0.0039(6) 0.2799(6) 0.7936(3) 1.125(9) 1. 0
+O3 O2- 2 a 0.4706(5) 0.2792(6) 0.2514(3) 1.125(9) 1. 0
+O4 O2- 2 a 0.4901(6) 0.2927(7) 0.7138(2) 1.125(9) 1. 0
+O5 O2- 2 a 0.3170(3) 0.0069(7) 0.0011(3) 1.125(9) 1. 0
+O6 O2- 2 a 0.2154(4) 0.0539(5) 0.4932(3) 1.125(9) 1. 0
+#End of TTdata_237487-ICSD

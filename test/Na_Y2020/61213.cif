@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61213-ICSD
+_database_code_ICSD 61213
+_audit_creation_date 1986-12-03
+_audit_update_record 2006-10-01
+_chemical_name_systematic 'Sodium dizinc hydroxide bis(sulfate(VI)) hydrate'
+_chemical_formula_structural 'Na Zn2 (O H) (S O3)2 (H2 O)'
+_chemical_formula_sum 'H3 Na1 O8 S2 Zn2'
+_chemical_name_structure_type NaMgOH(SO3)2H2O
+_exptl_crystal_density_diffrn 3.22
+_publ_section_title
+
+;
+Kristallstrukturen von Na Mg2 O H (S O3)2 (H2 O), Na Mn2 O H (S O3)2 (H2 O),
+Na Fe2 O H (S O3)2 (H2 O), Na Co2 O H (S O3)2 (H2 O) und Na Zn2 O H (S O3)2
+(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B: Anorganische Chemie, Organische
+Chemie
+; 1986 41 852 858 ZNBAD2
+loop_
+_publ_author_name
+'Buchmeier, W.'
+'Engelen, B.'
+'Lutz, H.D.'
+_cell_length_a 8.874(1)
+_cell_length_b 7.852(1)
+_cell_length_c 6.299(1)
+_cell_angle_alpha 112.27(1)
+_cell_angle_beta 109.67(1)
+_cell_angle_gamma 99.66(1)
+_cell_volume 359.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+S4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 1 d 0.5 0 0 . 1. 0
+Zn2 Zn2+ 1 f 0.5 0 0.5 . 1. 0
+Zn3 Zn2+ 2 i 0.19289(4) 0.16886(5) 0.18248(6) . 1. 0
+Na1 Na1+ 2 i 0.9109(2) 0.1752(3) 0.5572(3) . 1. 0
+S1 S4+ 2 i 0.84572(8) 0.2977(1) 0.0639(1) . 1. 0
+S2 S4+ 2 i 0.70030(9) -.2556(1) 0.2379(1) . 1. 0
+O1 O2- 2 i 0.7278(3) 0.2529(4) 0.1793(4) . 1. 0
+O2 O2- 2 i 0.2675(3) -.2510(3) 0.2099(4) . 1. 0
+O3 O2- 2 i -.0733(3) 0.1378(3) 0.0298(5) . 1. 0
+O4 O2- 2 i 0.6303(3) -.0839(3) 0.2697(4) . 1. 0
+O5 O2- 2 i 0.1597(3) 0.1798(4) 0.4939(4) . 1. 0
+O6 O2- 2 i 0.1941(3) 0.2398(4) -.0985(4) . 1. 0
+O7 O2- 2 i 0.4302(2) 0.1436(3) 0.2878(4) . 1. 0
+O8 O2- 2 i 0.2920(3) 0.4844(4) 0.4004(4) . 1. 0
+H1 H1+ 2 i 0.491(5) 0.252(6) 0.368(8) . 1. 0
+H2 H1+ 2 i 0.273(6) 0.525(6) 0.299(8) . 1. 0
+H3 H1+ 2 i 0.277(6) 0.531(7) 0.523(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0149(1) 0.0196(2) 0.0108(1) 0.0085(1) 0.00816(9) 0.0072(1)
+Zn2 Zn2+ 0.0147(1) 0.0199(2) 0.0131(1) 0.0090(1) 0.00920(9) 0.0096(1)
+Zn3 Zn2+ 0.01413(9) 0.0176(1) 0.01154(1) 0.0734(8) 0.0737(7) 0.0683(7)
+Na1 Na1+ 0.0192(5) 0.0271(6) 0.0399(7) 0.0087(5) 0.0163(4) 0.0102(5)
+S1 S4+ 0.0129(2) 0.0130(2) 0.0114(2) 0.0045(2) 0.0065(1) 0.0044(1)
+S2 S4+ 0.0138(2) 0.0140(2) 0.0131(2) 0.0047(2) 0.0059(1) 0.0052(2)
+O1 O2- 0.0207(7) 0.0203(8) 0.0156(6) 0.0037(7) 0.0128(4) 0.0045(6)
+O2 O2- 0.0170(7) 0.0203(7) 0.0144(6) 0.0050(6) 0.0056(5) 0.0094(5)
+O3 O2- 0.0138(6) 0.0174(7) 0.0215(8) 0.0082(6) 0.0054(6) 0.0047(6)
+O4 O2- 0.0198(6) 0.0234(7) 0.0160(5) 0.0147(5) 0.0122(4) 0.0114(5)
+O5 O2- 0.0202(7) 0.039(1) 0.0133(6) 0.0140(7) 0.0100(5) 0.0144(5)
+O6 O2- 0.0363(8) 0.054(1) 0.0245(6) 0.0323(7) 0.0249(5) 0.0277(6)
+O7 O2- 0.0124(6) 0.0132(6) 0.0119(5) 0.0052(5) 0.0068(4) 0.0050(4)
+O8 O2- 0.0304(9) 0.0170(7) 0.0163(6) 0.0086(7) 0.0124(6) 0.0064(5)
+#End of TTdata_61213-ICSD

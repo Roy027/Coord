@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72298-ICSD
+_database_code_ICSD 72298
+_audit_creation_date 1994-01-19
+_chemical_name_systematic 'Pentasodium niobate'
+_chemical_formula_structural 'Na5 (Nb O5)'
+_chemical_formula_sum 'Na5 Nb1 O5'
+_chemical_name_structure_type Na5NbO5
+_exptl_crystal_density_diffrn 3.09
+_publ_section_title
+
+;
+Zur Kenntnis 'Kationen-reicher' Tantalate und Niobate. Ueber Na5TaO5 und
+Na5NbO5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1992
+614 38 46 ZAACAB
+loop_
+_publ_author_name
+'Hoppe, R.'
+'Wehrum, G.'
+_cell_length_a 6.291(1)
+_cell_length_b 10.244(2)
+_cell_length_c 10.042(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.80(2)
+_cell_angle_gamma 90.
+_cell_volume 619.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.086
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 4 e 0 0.0925(1) 0.25 . 1. 0
+Na1 Na1+ 4 e 0 0.6681(6) 0.25 . 1. 0
+Na2 Na1+ 8 f 0.1694(7) 0.6147(4) 0.5508(5) . 1. 0
+Na3 Na1+ 8 f 0.1676(8) 0.8434(5) 0.0788(5) . 1. 0
+O1 O2- 8 f 0.7959(12) 0.6073(7) 0.3940(7) . 1. 0
+O2 O2- 8 f 0.6301(13) 0.6699(9) 0.1188(9) . 1. 0
+O3 O2- 4 e 0 0.0919(11) 0.75 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0053(5) 0.0059(5) 0.0060(5) 0 0.0008(3) 0
+Na1 Na1+ 0.0139(29) 0.0135(28) 0.0079(26) 0 0.0030(22) 0
+Na2 Na1+ 0.0116(19) 0.0134(22) 0.0208(22) 0.0022(17) 0.0031(17) 0.0013(16)
+Na3 Na1+ 0.0187(24) 0.0202(23) 0.0171(25) 0.0008(18) 0.006(2) -.0004(18)
+O1 O2- 0.0142(33) 0.0126(34) 0.0118(30) -.0019(29) 0.0059(27) 0.0012(28)
+O2 O2- 0.0108(36) 0.0324(46) 0.0147(38) 0.0095(33) 0.0039(30) -.0069(32)
+O3 O2- 0.0119(42) 0.0143(42) 0.0040(37) 0 0.0028(33) 0
+#End of TTdata_72298-ICSD

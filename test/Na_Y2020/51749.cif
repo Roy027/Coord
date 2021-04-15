@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51749-ICSD
+_database_code_ICSD 51749
+_audit_creation_date 2003-10-01
+_chemical_name_systematic
+'Sodium calcium sulfate(VI) chloride (6.39/3.61/6/1.61)'
+_chemical_formula_structural 'Na6.39 Ca3.61 (S O4)6 Cl1.61'
+_chemical_formula_sum 'Ca3.61 Cl1.61 Na6.39 O24 S6'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 2.85
+_publ_section_title
+
+;
+The solid solution series of the sulfate apatite system Na6.45 Ca3.55 (S O4)6
+(F(x) Cl(1-x))1.55
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 163 398 405 JSSCBI
+loop_
+_publ_author_name
+'Piotrowski, A.'
+'Kahlenberg, V.'
+'Fischer, R.X.'
+_cell_length_a 9.5423(1)
+_cell_length_b 9.5423(1)
+_cell_length_c 6.8429(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 539.61
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0445
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+S6+ 6
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 h 0.2474(1) 0.9896(1) 0.25 0.0258(3) 0.488(3) 0
+Ca1 Ca2+ 6 h 0.2474(1) 0.9896(1) 0.25 0.0258(3) 0.512(3) 0
+Na2 Na1+ 4 f 0.3333 0.6667 0.0030(2) 0.0204(6) 0.864(4) 0
+Ca2 Ca2+ 4 f 0.3333 0.6667 0.0030(2) 0.0204(6) 0.136(4) 0
+S1 S6+ 6 h 0.3997(1) 0.3703(1) 0.25 0.0141(2) 1. 0
+O1 O2- 6 h 0.3287(4) 0.4759(4) 0.25 0.0290(6) 1. 0
+O2 O2- 6 h 0.5757(4) 0.4654(4) 0.25 0.0465(10) 1. 0
+O3 O2- 12 i 0.3493(3) 0.2663(4) 0.0776(4) 0.0526(8) 1. 0
+Cl1 Cl1- 2 b 0. 0. 0. 0.0324(27) 0.240(2) 0
+Cl2 Cl1- 4 e 0. 0. 0.0880(20) 0.0269(30) 0.147(4) 0
+Cl3 Cl1- 4 e 0. 0. 0.1695(34) 0.0493(40) 0.135(4) 0
+#End of TTdata_51749-ICSD

@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417853-ICSD
+_database_code_ICSD 417853
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Sodium potassium tris(pentaoxotriborate)'
+_chemical_formula_structural 'Na (Na.17 K.83)2 (B3 O5)3'
+_chemical_formula_sum 'B9 K1.66 Na1.34 O15'
+_chemical_name_structure_type KB3O5
+_exptl_crystal_density_diffrn 2.34
+_publ_section_title
+
+;
+X-ray powder diffraction studies and thermal behaviour of Na K2 B9 O15, Na
+(Na.17 K.83)2 B9 O15 and (Na.80 K.20) K2 B9 O15
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2006 179 2954 2963 JSSCBI
+loop_
+_publ_author_name
+'Bubnova, R.'
+'Albert, B.'
+'Georgievskaya, M.'
+'Krzhizhanovskaya, M.'
+'Hofmann, K.'
+'Filatov, S.'
+_cell_length_a 9.0559(1)
+_cell_length_b 6.6170(1)
+_cell_length_c 20.5833(4)
+_cell_angle_alpha 90
+_cell_angle_beta 94.228(2)
+_cell_angle_gamma 90
+_cell_volume 1230.05
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+K1+ 1
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 e 0.4109(3) 0.1798(4) 0.8803(1) 2.68(2) 0.83(1) 0
+Na1 Na1+ 4 e 0.4109(3) 0.1798(4) 0.8803(1) 2.68(2) 0.17(1) 0
+K2 K1+ 4 e 0.2145(3) 0.1951(4) 1.0316(1) 2.79(2) 0.83(1) 0
+Na2 Na1+ 4 e 0.2145(3) 0.1951(4) 1.0316(1) 2.79(2) 0.17(1) 0
+Na3 Na1+ 4 e 0.0694(5) 0.5115(7) 0.7563(2) 2.96(2) 1. 0
+O1 O2- 4 e 0.3461(7) 0.7898(11) 1.0352(3) 1.78(5) 1. 0
+O2 O2- 4 e 0.2272(8) 0.8820(12) 0.9316(4) 1.78(5) 1. 0
+O3 O2- 4 e 0.0765(8) 0.6615(11) 0.8747(3) 1.78(5) 1. 0
+O4 O2- 4 e 0.4732(8) 0.7672(11) 0.9369(3) 1.78(5) 1. 0
+O5 O2- 4 e 0.2637(8) 0.5600(11) 0.9575(3) 1.78(5) 1. 0
+O6 O2- 4 e 0.6225(7) 0.7835(11) 0.8483(3) 1.78(5) 1. 0
+O7 O2- 4 e 0.5277(8) 0.6226(12) 0.7508(3) 1.78(5) 1. 0
+O8 O2- 4 e 0.6842(9) 0.9111(11) 0.7487(3) 1.78(5) 1. 0
+O9 O2- 4 e 0.7884(8) 0.5855(12) 0.7820(3) 1.78(5) 1. 0
+O10 O2- 4 e 0.3986(8) 0.5992(11) 0.8366(4) 1.78(5) 1. 0
+O11 O2- 4 e 0.0743(8) 0.7052(12) 1.1799(3) 1.78(5) 1. 0
+O12 O2- 4 e 0.1225(9) 0.3100(12) 0.9037(3) 1.78(5) 1. 0
+O13 O2- 4 e 0.0333(9) 0.9893(12) 0.8551(3) 1.78(5) 1. 0
+O14 O2- 4 e 0.2937(8) 0.6195(11) 1.1307(4) 1.78(5) 1. 0
+O15 O2- 4 e 0.1122(8) 0.8133(12) 1.0745(3) 1.78(5) 1. 0
+B1 B3+ 4 e 0.6558 0.7251 0.7826 1.8(2) 1. 0
+B2 B3+ 4 e 0.193 0.5802 1.1756 1.8(2) 1. 0
+B3 B3+ 4 e 0.0078 0.8046 1.1239 1.8(2) 1. 0
+B4 B3+ 4 e 0.1133 0.8448 0.8869 1.8(2) 1. 0
+B5 B3+ 4 e 0.3315 0.7504 0.9634 1.8(2) 1. 0
+B6 B3+ 4 e 0.2513 0.7417 1.0798 1.8(2) 1. 0
+B7 B3+ 4 e 0.1546 0.5123 0.9117 1.8(2) 1. 0
+B8 B3+ 4 e 0.4985 0.717 0.8739 1.8(2) 1. 0
+B9 B3+ 4 e 0.4161 0.5157 0.779 1.8(2) 1. 0
+#End of TTdata_417853-ICSD

@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237306-ICSD
+_database_code_ICSD 237306
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium dibarium tricopper pentasulfide'
+_chemical_formula_structural 'Na Ba2 Cu3 S5'
+_chemical_formula_sum 'Ba2 Cu3 Na1 S5'
+_exptl_crystal_density_diffrn 4.59
+_cell_measurement_temperature 293.
+_publ_section_title 'Na Ba2 Cu3 S5: A doped p - type degenerate semiconductor'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 7210 7217 INOCAJ
+loop_
+_publ_author_name
+'Sturza, Mihai'
+'Han, Fei'
+'Shoemaker, Daniel P.'
+'Malliakas, Christos D.'
+'Chung, Duck Young'
+'Jin, Hosub'
+'Freeman, Arthur J.'
+'Kanatzidis, Mercouri G.'
+_cell_length_a 16.5363(17)
+_cell_length_b 5.5374(5)
+_cell_length_c 10.3717(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.535(8)
+_cell_angle_gamma 90.
+_cell_volume 939.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0336
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Cu1+ 1.67
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 i 0.26367(2) 0. 0.30237(4) 0.01360(15) 1 0
+Ba2 Ba2+ 4 i 0.45800(2) -0.5 0.29062(4) 0.01397(15) 1 0
+Cu1 Cu1+ 4 g 0.5 -0.23879(17) 0. 0.0197(2) 1 0
+Cu2 Cu1+ 8 j 0.16882(3) 0.25549(13) -0.00965(7) 0.02068(17) 1 0
+S1 S2- 4 i 0.09764(8) 0. 0.12142(16) 0.0116(3) 1 0
+S2 S2- 4 i 0.26128(8) -0.5 0.14746(15) 0.0121(3) 1 0
+S3 S2- 4 i 0.42997(8) 0. 0.14893(16) 0.0124(3) 1 0
+S4 S2- 8 j 0.12409(7) 0.1906(2) 0.47079(12) 0.0174(2) 1 0
+Na1 Na1+ 4 i 0.39389(16) 0. 0.7630(3) 0.0210(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0106(2) 0.0127(2) 0.0172(2) 0. 0.00101(14) 0.
+Ba2 Ba2+ 0.0120(2) 0.0132(2) 0.0172(2) 0. 0.00377(14) 0.
+Cu1 Cu1+ 0.0177(4) 0.0182(4) 0.0223(4) 0. 0.0007(3) 0.
+Cu2 Cu1+ 0.0183(3) 0.0201(3) 0.0241(3) -0.0001(2) 0.0046(2) 0.0016(3)
+S1 S2- 0.0077(6) 0.0120(7) 0.0151(7) 0. 0.0015(5) 0.
+S2 S2- 0.0103(6) 0.0098(7) 0.0163(7) 0. 0.0023(5) 0.
+S3 S2- 0.0101(6) 0.0110(7) 0.0162(7) 0. 0.0024(5) 0.
+S4 S2- 0.0178(5) 0.0174(6) 0.0168(5) -0.0040(4) 0.0023(4) -0.0019(5)
+Na1 Na1+ 0.0147(12) 0.0217(15) 0.0273(15) 0. 0.0056(10) 0.
+#End of TTdata_237306-ICSD

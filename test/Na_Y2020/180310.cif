@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_180310-ICSD
+_database_code_ICSD 180310
+_audit_creation_date 2011-08-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Sodium iron digermanate'
+_chemical_formula_structural 'Na Fe (Ge2 O6)'
+_chemical_formula_sum 'Fe1 Ge2 Na1 O6'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_exptl_crystal_density_diffrn 4.54
+_cell_measurement_temperature 2.5
+_publ_section_title
+
+;
+Nuclear and incommensurate magnetic structure of Na Fe Ge2 O6 between 5 K and
+298 K and new data on multiferroic Na Fe Si2 O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2011 38 139 157 PCMIDU
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Senyshyn, A.'
+'Meven, M.'
+'Roth, G.'
+'Prinz, S.'
+'Pachler, A.'
+'Tippelt, G.'
+'Pietzonka, C.'
+'Treutmann, W.'
+'Hoelzel, M.'
+'Pedersen, B.'
+'Amthauer, G.'
+_cell_length_a 9.9929(7)
+_cell_length_b 8.9194(7)
+_cell_length_c 5.5148(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.563(1)
+_cell_angle_gamma 90.
+_cell_volume 468.63
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0555
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3004(4) 0.25 0.0052(12) 1. 0
+Fe1 Fe3+ 4 e 0 0.9038(1) 0.25 0.0011(4) 1. 0
+Ge1 Ge4+ 8 f 0.2881(2) 0.0939(1) 0.2299(2) 0.0010(3) 1. 0
+O1 O2- 8 f 0.1053(2) 0.0807(2) 0.1303(3) 0.0022(3) 1. 0
+O2 O2- 8 f 0.3567(2) 0.2715(2) 0.2995(2) 0.0031(3) 1. 0
+O3 O2- 8 f 0.3616(2) 0.0070(2) 0.0147(2) 0.0028(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0055(12) 0.0049(12) 0.0059(16) 0. 0.0012(11) 0.
+Fe1 Fe3+ 0.0010(5) 0.0010(5) 0.0024(6) 0. 0.0001(3) 0.
+Ge1 Ge4+ 0.0010(4) 0.0012(4) 0.0011(4) -0.0003(3) 0.0008(3) -0.0004(4)
+O1 O2- 0.0015(5) 0.0019(5) 0.0029(6) -0.0010(4) 0.0004(4) 0.0005(4)
+O2 O2- 0.0026(6) 0.0018(4) 0.0056(4) -0.0017(4) 0.0022(4) -0.0007(3)
+O3 O2- 0.0017(5) 0.0043(4) 0.0029(4) -0.0000(3) 0.0014(4) -0.0014(4)
+#End of TTdata_180310-ICSD

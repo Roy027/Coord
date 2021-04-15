@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156234-ICSD
+_database_code_ICSD 156234
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Disodium zirconium tetrasilicate'
+_chemical_formula_structural 'Na2 Zr (Si4 O11)'
+_chemical_formula_sum 'Na2 O11 Si4 Zr1'
+_chemical_name_mineral Vlasovite
+_exptl_crystal_density_diffrn 3.01
+_publ_section_title
+
+;
+Vlasovite, Na2 Zr (Si4 O11), from the Kipawa alkaline coomplex, Quebec,
+Canada: crystal-structure refinement and infrared spectroscopy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2006 44 1349 1356 CAMIA6
+loop_
+_publ_author_name
+'Sokolova, E.'
+'Hawthorne, F.C.'
+'Ball, N.A.'
+'Mitchell, R.H.'
+'della Ventura, G.'
+_cell_length_a 11.0390(5)
+_cell_length_b 10.0980(3)
+_cell_length_c 8.5677(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.313(1)
+_cell_angle_gamma 90.
+_cell_volume 939.63
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 4 c 0.25 0.25 0 0.01173(9) 1. 0
+Na1 Na1+ 4 e 0 0.07593(13) 0.75 0.0304(4) 1. 0
+Na2 Na1+ 4 e 0 0.3985(2) 0.75 0.0448(6) 0.82 0
+Na3 Na1+ 8 f 0.9851(12) 0.4308(15) 0.834(2) 0.0448(8) 0.09 0
+Si1 Si4+ 8 f 0.26448(4) 0.07231(4) 0.63875(5) 0.01306(11) 1. 0
+Si2 Si4+ 8 f 0.04996(4) 0.21676(5) 0.42721(5) 0.01386(11) 1. 0
+O1 O2- 4 e 0 0.16001(19) 0.25 0.0207(4) 1. 0
+O2 O2- 8 f 0.14362(14) 0.10274(16) 0.50471(18) 0.0291(3) 1. 0
+O3 O2- 8 f 0.11547(14) 0.35857(15) 0.4155(2) 0.0291(3) 1. 0
+O4 O2- 8 f 0.05651(13) 0.23057(14) 0.97038(17) 0.0200(3) 1. 0
+O5 O2- 8 f 0.23987(14) 0.13443(14) 0.80125(16) 0.0244(3) 1. 0
+O6 O2- 8 f 0.28874(12) 0.08336(12) 0.14471(15) 0.0179(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zr1 Zr4+ 0.01314(13) 0.01159(13) 0.01088(13) 0.00069(6) 0.00323(8) -0.00015(6)
+Na1 Na1+ 0.0406(8) 0.0229(6) 0.0308(7) 0. 0.0151(5) 0.
+Na2 Na1+ 0.0265(9) 0.0312(10) 0.068(2) 0. -0.0140(10) 0.
+Na3 Na1+ 0.0265(9) 0.0312(10) 0.068(2) 0. -0.0140(10) 0.
+Si1 Si4+ 0.0143(2) 0.0123(2) 0.0126(2) 0.00067(14) 0.00227(15) -0.00110(15)
+Si2 Si4+ 0.0120(2) 0.0161(2) 0.0135(2) 0.00001(16) 0.00238(16) -0.00019(16)
+O1 O2- 0.0265(9) 0.0209(9) 0.0133(8) 0. -0.0001(7) 0.
+O2 O2- 0.0260(7) 0.0284(7) 0.0281(7) 0.0125(6) -0.0083(6) -0.0041(6)
+O3 O2- 0.0286(7) 0.0220(7) 0.0411(8) -0.0104(6) 0.0182(6) -0.0070(6)
+O4 O2- 0.0156(6) 0.0249(6) 0.0206(6) 0.0001(5) 0.0065(5) 0.0016(5)
+O5 O2- 0.0384(8) 0.0192(6) 0.0173(6) 0.0006(5) 0.0091(5) -0.0052(5)
+O6 O2- 0.0225(6) 0.0128(5) 0.0180(6) -0.0014(4) 0.0022(5) 0.0019(4)
+#End of TTdata_156234-ICSD

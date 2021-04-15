@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1973-ICSD
+_database_code_ICSD 1973
+_audit_creation_date 1980-01-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Diaqauadisodium bicyclo-hydroxooctaoxopentaborate'
+_chemical_formula_structural '(Na (H2 O))2 (B5 O8 (O H))'
+_chemical_formula_sum 'H5 B5 Na2 O11'
+_chemical_name_structure_type Na2(H2O)2B5O8OH
+_chemical_name_mineral Nasinite
+_exptl_crystal_density_diffrn 2.13
+_publ_section_title 'The crystal structure of nasinite, Na2 B5 O8 (O H) (H2 O)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 2405 2410 ACBCAR
+loop_
+_publ_author_name
+'Corazza, E.'
+'Menchetti, S.'
+'Sabelli, C.'
+_cell_length_a 12.015(2)
+_cell_length_b 6.518(1)
+_cell_length_c 11.173(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 875.
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.072
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+B3+ 3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.4715(1) 0.6484(2) 0.5 . 1. 0
+Na2 Na1+ 4 a 0.2465(1) 0.4734(2) 0.1767(2) . 1. 0
+O1 O2- 4 a 0.0998(1) 0.5155(2) 0.5492(2) . 1. 0
+O2 O2- 4 a 0.2931(1) 0.5794(2) 0.5942(2) . 1. 0
+O3 O2- 4 a 0.1663(1) 0.1812(2) 0.2904(2) . 1. 0
+O4 O2- 4 a 0.0399(1) 0.2024(2) 0.4553(2) . 1. 0
+O5 O2- 4 a 0.2364(1) 0.2664(2) 0.4892(2) . 1. 0
+O6 O2- 4 a 0.2354(1) -.4080(2) 0.3933(2) . 1. 0
+O7 O2- 4 a 0.1723(1) -.0715(2) 0.4511(2) . 1. 0
+O8 O2- 4 a -.0867(2) 0.4314(3) 0.5511(2) . 1. 0
+O9 O2- 4 a 0.2384(2) -.1528(3) 0.2542(2) . 1. 0
+O10 O2- 4 a 0.5715(2) 0.6639(4) 0.7026(3) . 1. 0
+O11 O2- 4 a 0.4772(2) 0.7935(6) 0.3045(3) . 1. 0
+B1 B3+ 4 a 0.2165(2) 0.4839(4) 0.5064(3) . 1. 0
+B2 B3+ 4 a 0.1568(2) 0.1485(4) 0.4217(3) . 1. 0
+B3 B3+ 4 a 0.0191(2) 0.3792(4) 0.5162(3) . 1. 0
+B4 B3+ 4 a 0.2034(2) 0.0372(4) 0.2135(3) . 1. 0
+B5 B3+ 4 a 0.2141(2) -.2086(4) 0.3723(2) . 1. 0
+H1 H1+ 4 a -.133(2) 0.362(4) 0.533(3) 2.5(7) 1. 0
+H2 H1+ 4 a 0.569(3) 0.791(7) 0.666(4) 8.50(12) 1. 0
+H3 H1+ 4 a 0.532(3) 0.663(7) 0.757(4) 6.00(14) 1. 0
+H4 H1+ 4 a 0.418(3) 0.786(7) 0.271(4) 7.80(13) 1. 0
+H5 H1+ 4 a 0.524(4) 0.828(7) 0.264(4) 9.10(14) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00403(8) 0.01403(27) 0.00595(10) 0.00102(13) 0.00174(8) 0.00192(15)
+Na2 Na1+ 0.00411(7) 0.01066(23) 0.00453(9) 0.00056(12) -.00042(7) 0.00012(14)
+O1 O2- 0.00174(10) 0.00589(35) 0.00332(13) -.00026(15) 0.00029(10) -.00182(19)
+O2 O2- 0.00235(11) 0.00524(36) 0.00179(11) -.00091(16) -.00038(10) 0.00024(17)
+O3 O2- 0.00359(12) 0.00478(33) 0.00154(11) 0.00115(17) -.00007(10) 0.00011(16)
+O4 O2- 0.0017(1) 0.00652(34) 0.00327(13) -.00024(16) 0.00018(10) -.00143(19)
+O5 O2- 0.00170(9) 0.00381(30) 0.00241(11) 0.00008(14) -.00034(9) -.00006(18)
+O6 O2- 0.00340(12) 0.00446(32) 0.00166(11) 0.00067(16) 0.00018(10) 0.00000(16)
+O7 O2- 0.00291(11) 0.00386(32) 0.00177(11) 0.0004(16) 0.00024(10) 0.00017(17)
+O8 O2- 0.00172(11) 0.01406(49) 0.00847(21) -.00057(19) 0.00074(13) -.00697(29)
+O9 O2- 0.00470(14) 0.00602(35) 0.00192(12) 0.00223(19) 0.00097(11) 0.00091(19)
+O10 O2- 0.00466(15) 0.01706(56) 0.00601(20) 0.00089(25) 0.00200(15) 0.00288(30)
+O11 O2- 0.00427(19) 0.0496(12) 0.00668(23) -.00078(40) -.00055(18) 0.00798(47)
+B1 B3+ 0.00164(14) 0.00388(48) 0.00172(17) -.00014(22) -.00024(14) -.00011(26)
+B2 B3+ 0.00202(15) 0.00419(47) 0.00156(16) 0.00024(23) 0.00001(14) -.00007(24)
+B3 B3+ 0.00190(16) 0.00652(52) 0.00231(19) 0.00014(25) 0.00010(14) -.00026(28)
+B4 B3+ 0.0011(13) 0.00468(49) 0.00195(17) -.00002(23) -.00009(14) 0.00016(26)
+B5 B3+ 0.00173(15) 0.00531(54) 0.00169(18) 0.00015(23) -.00016(14) 0.00015(26)
+#End of TTdata_1973-ICSD

@@ -1,0 +1,74 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_174433-ICSD
+_database_code_ICSD 174433
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Sodium chromium digermanate'
+_chemical_formula_structural 'Na Cr Ge2 O6'
+_chemical_formula_sum 'Cr1 Ge2 Na1 O6'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_exptl_crystal_density_diffrn 4.49
+_cell_measurement_temperature 293.
+_publ_section_title 'Crystal structures of Cr-based magnetic pyroxenes'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2010 12 676 679 SSSCFJ
+loop_
+_publ_author_name
+'Matsushita, Y.'
+'Izumi, F.'
+'Isobe, M.'
+'Ueda, Y.'
+_cell_length_a 9.99812(6)
+_cell_length_b 8.92264(5)
+_cell_length_c 5.50414(4)
+_cell_angle_alpha 90
+_cell_angle_beta 107.5709(4)
+_cell_angle_gamma 90
+_cell_volume 468.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.016
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cr3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3025(3) 0.25 .93(6) 1. 0
+Cr1 Cr3+ 4 e 0 0.9122(1) 0.25 .19(2) 1. 0
+Ge1 Ge4+ 8 f 0.29066(5) 0.09638(5) 0.22754(9) .15(1) 1. 0
+O1 O2- 8 f 0.1047(2) 0.0808(3) 0.1303(4) .16(5) 1. 0
+O2 O2- 8 f 0.3612(3) 0.0094(2) 0.0062(6) .34(5) 1. 0
+O3 O2- 8 f 0.3609(2) 0.2743(3) 0.3105(4) .19(6) 1. 0
+#End of TTdata_174433-ICSD

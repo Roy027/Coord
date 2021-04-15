@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14163-ICSD
+_database_code_ICSD 14163
+_audit_creation_date 1980-12-31
+_audit_update_record 1999-06-02
+_chemical_name_systematic 'Pentasodium nickel(III) oxide'
+_chemical_formula_structural 'Na5 Ni O4'
+_chemical_formula_sum 'Na5 Ni1 O4'
+_chemical_name_structure_type Na5FeO4
+_exptl_crystal_density_diffrn 2.89
+_publ_section_title 'Na5 Ni O4, das erste Oxoniccolat(III) mit Inselstruktur'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1980
+462 61 70 ZAACAB
+loop_
+_publ_author_name
+'Zentgraf, H.'
+'Hoppe, R.'
+_cell_length_a 10.22(6)
+_cell_length_b 5.94(3)
+_cell_length_c 17.98
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1091.51
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.051
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ni3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.1714(2) 0.1011(4) 0.8279(1) . 1. 0
+Na2 Na1+ 8 c 0.0624(2) 0.0812(4) 0.4344(1) . 1. 0
+Na3 Na1+ 8 c 0.4176(2) 0.1057(4) 0.7505(1) . 1. 0
+Na4 Na1+ 8 c 0.3431(2) 0.0867(4) 0.5010(1) . 1. 0
+Na5 Na1+ 8 c 0.2972(2) 0.0736(3) 0.1376(1) . 1. 0
+Ni1 Ni3+ 8 c 0.0393(1) 0.1762(1) 0.1241 . 1. 0
+O1 O2- 8 c 0.3629(3) 0.2642(6) 0.3745(2) . 1. 0
+O2 O2- 8 c 0.1277(4) 0.2645(6) 0.2116(2) . 1. 0
+O3 O2- 8 c 0.1308(4) 0.1978(6) 0.5458(2) . 1. 0
+O4 O2- 8 c 0.4528(3) 0.1353(6) 0.6201(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0128(9) 0.0197(10) 0.0177(10) -.0031(8) -.0027(8) 0.0045(8)
+Na2 Na1+ 0.0316(13) 0.0131(10) 0.0187(10) 0.0064(9) -.0074(9) -.0023(8)
+Na3 Na1+ 0.0197(10) 0.0216(10) 0.0166(9) -.0062(9) 0.0030(9) -.0065(9)
+Na4 Na1+ 0.0194(10) 0.0211(11) 0.0178(10) 0.0021(9) 0.0005(9) 0.0031(9)
+Na5 Na1+ 0.0158(10) 0.0133(9) 0.0218(10) 0.0019(8) 0.0012(8) -.0002(8)
+Ni1 Ni3+ 0.0089(2) 0.0081(2) 0.0105(2) -.0001(2) -.0003(2) 0.0001(2)
+O1 O2- 0.0109(13) 0.0109(13) 0.0171(15) 0.0034(12) -.0039(15) -.0014(13)
+O2 O2- 0.0195(18) 0.0130(16) 0.0088(15) -.0033(14) -.0019(13) -.0011(12)
+O3 O2- 0.0181(17) 0.0135(16) 0.0108(15) 0.0014(14) 0.0023(13) -.0018(13)
+O4 O2- 0.0169(16) 0.0073(13) 0.0175(16) 0.0007(12) 0.0008(15) 0.0017(12)
+#End of TTdata_14163-ICSD

@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_159112-ICSD
+_database_code_ICSD 159112
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium dicobalt bis(sulfate(VI)) hydroxide hydrate'
+_chemical_formula_structural 'Na Co2 (S O4)2 ((H2 O) (O H))'
+_chemical_formula_sum 'H3 Co2 Na1 O10 S2'
+_chemical_name_structure_type NaCu2OH(SO4)2H2O
+_chemical_name_mineral Unnamed_Natrochalcite
+_exptl_crystal_density_diffrn 3.34
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal chemistry of synthetic Co- and Ni-analogues of natrochalcite - the
+shortest known hydrogen bonds among mineral-type compounds. Part I:
+single-crystal X-ray structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2007 19 805 816 EJMIER
+loop_
+_publ_author_name
+'Krickl, R.'
+'Wildner, M.'
+_cell_length_a 8.677(1)
+_cell_length_b 6.317(1)
+_cell_length_c 7.396(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.40(1)
+_cell_angle_gamma 90.
+_cell_volume 366.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0217
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co2+ 2
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0 0.5 0.5 0.0297(3) 1. 0
+Co1 Co2+ 4 e 0.25 0.25 0 0.0081(1) 1. 0
+S1 S6+ 4 i 0.09526(4) 0 0.29462(5) 0.0068(1) 1. 0
+O1 O2- 4 i 0.19383(14) 0 0.16814(17) 0.0109(2) 1. 0
+O2 O2- 4 i 0.21857(15) 0 0.50265(16) 0.0142(2) 1. 0
+O3 O2- 8 j -0.01275(9) 0.19296(12) 0.24614(11) 0.0108(1) 1. 0
+O4 O2- 4 i 0.15474(13) 0.5 0.08685(16) 0.0086(2) 1. 0
+H1 H1+ 4 i 0.057(6) 0.5 0.034(9) 0.019(10) 0.5 0
+H2 H1+ 4 i 0.183(5) 0.5 0.193(6) 0.040(8) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0145(5) 0.0504(8) 0.0232(5) 0. 0.0071(4) 0.
+Co1 Co2+ 0.0075(1) 0.0064(1) 0.0100(1) 0.0004(1) 0.0035(1) -0.0003(1)
+S1 S6+ 0.0056(1) 0.0073(1) 0.0066(1) 0. 0.0019(1) 0.
+O1 O2- 0.0131(4) 0.0098(4) 0.0140(4) 0. 0.0098(3) 0.
+O2 O2- 0.0115(4) 0.0180(5) 0.0078(4) 0. -0.0009(3) 0.
+O3 O2- 0.0084(3) 0.0088(3) 0.0131(3) 0.0020(2) 0.0028(2) -0.0003(2)
+O4 O2- 0.0074(3) 0.0085(4) 0.0103(4) 0. 0.0042(3) 0.
+#End of TTdata_159112-ICSD

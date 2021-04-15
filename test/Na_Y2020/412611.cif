@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412611-ICSD
+_database_code_ICSD 412611
+_audit_creation_date 2004-04-01
+_chemical_name_systematic
+'Tetrasodium dimagnesium tetrakis(dihydrogendiphosphate(V)) octahydrate'
+_chemical_formula_structural 'Na4 Mg2 (H2 P2 O7)4 (H2 O)8'
+_chemical_formula_sum 'H24 Mg2 Na4 O36 P8'
+_chemical_name_structure_type Na2Co(H2P2O7)2(H2O)2
+_exptl_crystal_density_diffrn 2.12
+_publ_section_title
+
+;
+Crystal structure and vibrational spectra of tetrasodium dimagnesium
+dihydrogen diphosphate octahydrate Na4 Mg2 (H2 P2 O7)4 * 8(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2003 172 160 165 JSSCBI
+loop_
+_publ_author_name
+'Harcharras, M.'
+'Ennaciri, A.'
+'Assaaoudi, H.'
+'Mattei, G.'
+'D'Orazio, V.'
+'Moliterni, A.G.G.'
+'Capitelli, F.'
+_cell_length_a 8.0445(3)
+_cell_length_b 11.5244(5)
+_cell_length_c 9.0825(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.1401(18)
+_cell_angle_gamma 90.
+_cell_volume 774.28
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0294
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 2 e 0.46894(10) -.75 0.73493(9) 0.01444(17) 1. 0
+Na1 Na1+ 2 e 0.24387(14) -.25 0.90990(12) 0.0273(2) 1. 0
+Na2 Na1+ 2 e -.01255(13) -.25 0.44631(13) 0.0269(2) 1. 0
+P1 P5+ 4 f 0.29602(6) -.48990(4) 0.64937(5) 0.01552(11) 1. 0
+P2 P5+ 4 f 0.68940(5) -.50230(3) 0.82906(5) 0.01503(11) 1. 0
+O1 O2- 4 f 0.2496(2) -.43836(12) 0.78621(16) 0.0260(3) 1. 0
+O2 O2- 4 f 0.50439(16) -.45403(11) 0.69384(15) 0.0239(3) 1. 0
+O3 O2- 4 f 0.28258(15) -.61939(10) 0.64326(14) 0.0189(2) 1. 0
+O4 O2- 4 f 0.19546(17) -.42251(11) 0.49941(14) 0.0241(3) 1. 0
+O5 O2- 4 f 0.83033(17) -.47112(12) 0.75814(16) 0.0229(3) 1. 0
+O6 O2- 4 f 0.73176(18) -.43385(11) 0.97972(15) 0.0248(3) 1. 0
+O7 O2- 4 f 0.67025(15) -.6303(1) 0.84495(14) 0.0195(2) 1. 0
+O8 O2- 2 e 0.5641(2) -.25 1.0442(2) 0.0201(4) 1. 0
+O9 O2- 2 e -.0398(3) -.25 0.7060(3) 0.0288(4) 1. 0
+O10 O2- 2 e 0.0037(3) -.25 0.1977(3) 0.0402(5) 1. 0
+O11 O2- 2 e 0.5247(3) -.75 0.5293(3) 0.0301(5) 1. 0
+H1 H1+ 4 f 0.244(4) -.482(3) 0.846(3) 0.054(9) 1. 0
+H2 H1+ 4 f 0.817(3) -.506(2) 0.681(3) 0.035(7) 1. 0
+H3 H1+ 4 f 0.603(3) -.3047(18) 1.021(3) 0.035(7) 1. 0
+H4 H1+ 4 f -.089(4) -.302(2) 0.714(3) 0.057(9) 1. 0
+H5 H1+ 4 f -.0604 -.3133 0.1214 0.08 1. 0
+H6 H1+ 4 f 0.566(4) -.701(2) 0.507(4) 0.077(11) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.0170(4) 0.0105(4) 0.0160(4) 0 0.0066(3) 0
+Na1 Na1+ 0.0310(5) 0.0230(5) 0.0223(5) 0 0.0044(4) 0
+Na2 Na1+ 0.0245(5) 0.0271(6) 0.0279(5) 0 0.0089(4) 0
+P1 P5+ 0.0206(2) 0.0126(2) 0.0146(2) 0.00278(15) 0.00829(16) 0.00162(14)
+P2 P5+ 0.0194(2) 0.0115(2) 0.0168(2) -0.00146(14) 0.00988(17) -0.00051(14)
+O1 O2- 0.0448(8) 0.0184(7) 0.0222(7) 0.0059(5) 0.0210(6) 0.0016(5)
+O2 O2- 0.0229(6) 0.0190(6) 0.0295(7) -0.0008(5) 0.0099(5) 0.0079(5)
+O3 O2- 0.0194(6) 0.0135(5) 0.0221(6) 0.0014(4) 0.0064(5) 0.0004(4)
+O4 O2- 0.0330(7) 0.0211(6) 0.0179(6) 0.0087(5) 0.0097(5) 0.0053(5)
+O5 O2- 0.0271(6) 0.0242(7) 0.0230(7) -0.0074(5) 0.0158(6) -0.0043(5)
+O6 O2- 0.0396(7) 0.0178(6) 0.0207(6) -0.0006(5) 0.0158(6) -0.0040(5)
+O7 O2- 0.0215(6) 0.0121(6) 0.0237(6) -0.0016(4) 0.0076(5) 0.0011(4)
+O8 O2- 0.0274(9) 0.0129(8) 0.0253(9) 0 0.0161(8) 0
+O9 O2- 0.0281(10) 0.0182(10) 0.0392(11) 0 0.0121(9) 0
+O10 O2- 0.0349(11) 0.0508(15) 0.0358(12) 0 0.0149(10) 0
+O11 O2- 0.0523(13) 0.0186(10) 0.0317(10) 0 0.0296(10) 0
+#End of TTdata_412611-ICSD

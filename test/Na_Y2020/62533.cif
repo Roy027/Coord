@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62533-ICSD
+_database_code_ICSD 62533
+_audit_creation_date 1988-02-22
+_chemical_name_systematic 'Trisodium vanadate trihydrate'
+_chemical_formula_structural 'Na3 (V O4) (H2 O)3'
+_chemical_formula_sum 'H6 Na3 O7 V1'
+_exptl_crystal_density_diffrn 2.43
+_publ_section_title 'Die Struktur des Trinatriumvanadattrihydrats.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 1030 1032 ACSCEE
+loop_
+_publ_author_name
+'Kato, K.'
+'Takayama Muromachi, E.'
+_cell_length_a 8.5099(3)
+_cell_length_b 8.5099(3)
+_cell_length_c 7.7876(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 488.41
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R 3 H'
+_symmetry_Int_Tables_number 146
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+4 '-x+y+2/3, -x+1/3, z+1/3'
+5 '-y+2/3, x-y+1/3, z+1/3'
+6 'x+2/3, y+1/3, z+1/3'
+7 '-x+y+1/3, -x+2/3, z+2/3'
+8 '-y+1/3, x-y+2/3, z+2/3'
+9 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+V5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 9 b 0.10110(7) 0.64996(18) 0.07713(15) . 1. 0
+V1 V5+ 3 a 0 0 0 . 1. 0
+O1 O2- 3 a 0 0 0.21770(33) . 1. 0
+O2 O2- 9 b 0.13335(19) 0.21469(18) -.08283(19) . 1. 0
+O3 O2- 9 b 0.31006(29) 0.87379(28) 0.27244(24) . 1. 0
+H1 H1+ 9 b 0.372(4) 0.875(4) 0.364(5) 0.0127 1. 0
+H2 H1+ 9 b 0.331 0.997 0.275 0.038 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00848(26) 0.00608(22) 0.00569(21) 0.00355(20) -.00098(15) 0.00020(16)
+V1 V5+ 0.00337(5) 0.00337 0.00279(7) 0.00169 0 0
+O1 O2- 0.00682(27) 0.00682 0.00366(36) 0.00341 0 0
+O2 O2- 0.00508(23) 0.00427(23) 0.00487(21) 0.00192(20) -.00042(18) 0.00029(17)
+O3 O2- 0.00574(36) 0.00481(31) 0.00436(30) 0.00257(29) 0.00008(25) 0.00011(23)
+#End of TTdata_62533-ICSD

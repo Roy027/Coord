@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411243-ICSD
+_database_code_ICSD 411243
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Tetrasodium trinitridorhenate(V)'
+_chemical_formula_structural 'Na4 (Re N3)'
+_chemical_formula_sum 'N3 Na4 Re1'
+_chemical_name_structure_type Na4FeO3
+_exptl_crystal_density_diffrn 4.01
+_publ_section_title 'Na4 Re N3, das erste Alkalimetall-Nitridorhenat(V)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2000
+626 892 896 ZAACAB
+loop_
+_publ_author_name
+'Chaushli, A.'
+'Wickleder, C.'
+'Jacobs, H.'
+_cell_length_a 10.903(2)
+_cell_length_b 6.022(1)
+_cell_length_c 8.944(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.57(3)
+_cell_angle_gamma 90.
+_cell_volume 529.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re5+ 5
+Na1+ 1
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re5+ 4 a 0 0.1417(1) 0.25 . 1. 0
+Na1 Na1+ 4 a 0.3018(7) 0.3283(12) 0.3645(9) . 1. 0
+Na2 Na1+ 4 a 0.1959(7) 0.1753(11) 0.6341(9) . 1. 0
+Na3 Na1+ 4 a 0.3889(7) 0.1595(12) 0.0316(12) . 1. 0
+Na4 Na1+ 4 a 0.6084(7) 0.1592(12) 0.4656(13) . 1. 0
+N1 N3- 4 a 0.3409(11) 0.498(2) 0.1448(15) . 1. 0
+N2 N3- 4 a 0.1574(10) 0.0009(19) 0.3619(15) . 1. 0
+N3 N3- 4 a 0.0359(5) 0.4082(9) 0.1796(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re5+ 0.0214(1) 0.0116(1) 0.0140(1) -.0011(1) 0.0021(1) 0.0024(1)
+Na1 Na1+ 0.029(3) 0.030(3) 0.035(3) -.003(2) 0.014(4) 0.007(2)
+Na2 Na1+ 0.029(3) 0.047(3) 0.030(3) -.003(2) 0.011(2) 0.017(2)
+Na3 Na1+ 0.021(3) 0.035(3) 0.079(5) -.027(3) 0.018(3) 0.001(2)
+Na4 Na1+ 0.022(2) 0.030(3) 0.066(5) 0.021(3) 0.019(3) 0.005(2)
+N1 N3- 0.019(3) 0.024(4) 0.039(5) 0.003(3) 0.009(3) 0.002(3)
+N2 N3- 0.014(3) 0.022(4) 0.043(5) -.009(3) 0.004(3) 0.004(3)
+N3 N3- 0.027(2) 0.023(2) 0.035(2) 0.009(2) 0.011(2) 0.005(2)
+#End of TTdata_411243-ICSD

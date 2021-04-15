@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_87806-ICSD
+_database_code_ICSD 87806
+_audit_creation_date 2001-07-16
+_chemical_name_systematic
+'Tetrasodium pentanickel bis(phosphate(V)) bis(diphosphate(V))'
+_chemical_formula_structural 'Na4 Ni5 (P O4)2 (P2 O7)2'
+_chemical_formula_sum 'Na4 Ni5 O22 P6'
+_exptl_crystal_density_diffrn 3.61
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Crystal structure, magnetic properties, and ionic conductivity of a new
+mixed-anion phosphate Na4 Ni5 (P O4)2 (P2 O7)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1999 11 2673 2679 CMATEX
+loop_
+_publ_author_name
+'Sanz, F.'
+'Parada, C.'
+'Rojo, J.M.'
+'Ruiz Valero, C.'
+_cell_length_a 12.544(2)
+_cell_length_b 6.596(1)
+_cell_length_c 10.572(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.731(3)
+_cell_angle_gamma 90.
+_cell_volume 849.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.093
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 e 0.6667(2) 0.0085(3) 0.1962(1) 0.015(1) 1. 0
+Ni2 Ni2+ 2 a 0 0 0 0.014(1) 1. 0
+Ni3 Ni2+ 4 e 0.8672(2) 0.2403(3) 0.2178(2) 0.014(1) 1. 0
+P1 P5+ 4 e 0.5820(3) 0.7991(6) -.0914(3) 0.017(1) 1. 0
+P2 P5+ 4 e 0.0851(3) 0.2367(5) 0.2737(3) 0.013(1) 1. 0
+P3 P5+ 4 e 0.7448(3) 0.1133(6) -.0671(3) 0.014(1) 1. 0
+Na1 Na1+ 4 e 0.8434(6) -.0880(9) 0.4581(5) 0.031(2) 1. 0
+Na2 Na1+ 4 e 0.6479(5) 0.4828(8) 0.1343(5) 0.018(1) 1. 0
+O1 O2- 4 e 0.8399(7) -.0812(13) 0.2341(7) 0.011(2) 1. 0
+O2 O2- 4 e 0.0008(8) 0.2141(13) 0.1384(8) 0.015(2) 1. 0
+O3 O2- 4 e 0.6091(8) 0.7996(15) 0.0563(8) 0.020(3) 1. 0
+O4 O2- 4 e 0.8470(8) 0.5532(13) 0.1803(7) 0.018(3) 1. 0
+O5 O2- 4 e 0.6418(9) 0.8706(15) 0.3597(8) 0.021(3) 1. 0
+O6 O2- 4 e 0.5369(8) 0.1964(13) 0.1534(8) 0.014(2) 1. 0
+O7 O2- 4 e 0.0046(8) 0.2693(12) 0.3658(7) 0.011(2) 1. 0
+O8 O2- 4 e 0.1654(8) 0.0446(13) 0.0483(8) 0.014(2) 1. 0
+O9 O2- 4 e 0.6296(8) 0.0129(15) 0.8654(8) 0.019(3) 1. 0
+O10 O2- 4 e 0.7574(8) 0.2236(14) 0.3343(8) 0.016(2) 1. 0
+O11 O2- 4 e 0.7339(8) 0.2066(13) 0.0608(8) 0.013(2) 1. 0
+#End of TTdata_87806-ICSD

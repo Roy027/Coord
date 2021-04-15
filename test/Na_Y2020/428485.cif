@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428485-ICSD
+_database_code_ICSD 428485
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium-0.5 europium-4.5 tris(tetraoxosilicate) oxide'
+_chemical_formula_structural '(Na0.5 Eu4.5) (Si O4)3 O'
+_chemical_formula_sum 'Eu4.5 Na0.5 O13 Si3'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 6.14
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Photoluminescent and magnetic properties of lanthanide containing apatites:
+Nax Ln10-x (Si O4)6 O2-y Fy, Cax Ln10-x (Si O4)6 O2-y Fy (Ln = Eu, Gd, and
+Sm), Gd9.34 (Si O4)6 O2, and K1.32 Pr8.68 (Si O4)6 O1.36 F0.64
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 876 884 INOCAJ
+loop_
+_publ_author_name
+'Latshaw, Allison M.'
+'Hughey, Kendall D.'
+'Smith, Mark D.'
+'Yeon, Jeongho'
+'zur Loye, Hans-Conrad'
+_cell_length_a 9.44340(10)
+_cell_length_b 9.44340(10)
+_cell_length_c 6.9150(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 534.05
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0222
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+Na1+ 1
+Eu3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 4 f 0.3333 0.6667 0.00007(7) 0.01189(16) 0.748(3) 0
+Na1 Na1+ 4 f 0.3333 0.6667 0.00007(7) 0.01189(16) 0.252(3) 0
+Eu2 Eu3+ 6 h 0.24197(3) 0.00914(3) 0.25 0.00901(11) 1 0
+Si1 Si4+ 6 h 0.37152(18) 0.39926(18) 0.25 0.0066(3) 1 0
+O1 O2- 6 h 0.1240(5) 0.5265(5) 0.25 0.0133(8) 1 0
+O2 O2- 6 h 0.4860(6) 0.3180(6) 0.25 0.0160(9) 1 0
+O3 O2- 12 i 0.2503(4) 0.3399(5) 0.0644(5) 0.0228(8) 1 0
+O4 O2- 2 a 0. 0. 0.25 0.0168(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu3+ 0.01066(18) 0.01066(18) 0.0143(2) 0.00533(9) 0. 0.
+Na1 Na1+ 0.01066(18) 0.01066(18) 0.0143(2) 0.00533(9) 0. 0.
+Eu2 Eu3+ 0.00840(15) 0.00840(15) 0.00931(14) 0.00352(10) 0. 0.
+Si1 Si4+ 0.0063(6) 0.0062(6) 0.0076(6) 0.0034(5) 0. 0.
+O1 O2- 0.0120(19) 0.0091(18) 0.021(2) 0.0070(16) 0. 0.
+O2 O2- 0.016(2) 0.025(2) 0.015(2) 0.0165(19) 0. 0.
+O3 O2- 0.0146(15) 0.043(2) 0.0143(15) 0.0168(15) -0.0061(12) -0.0140(15)
+O4 O2- 0.0075(18) 0.0075(18) 0.035(5) 0.0038(9) 0. 0.
+#End of TTdata_428485-ICSD

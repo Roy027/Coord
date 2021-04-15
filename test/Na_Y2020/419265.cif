@@ -1,0 +1,133 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419265-ICSD
+_database_code_ICSD 419265
+_audit_creation_date 2009-02-01
+_chemical_name_systematic
+
+;
+Decapotassium hentriacontatin(II) hexakis(hydrogenphosphate)
+hexakis(diphosphate) dodecakis(phosphate)
+;
+_chemical_formula_structural 'Na10 Sn31 (H P O4)6 (P2 O7)6 (P O4)12'
+_chemical_formula_sum 'H6 Na10 O114 P30 Sn31'
+_exptl_crystal_density_diffrn 4.04
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis and characterization of alkali-metal tin(II) phosphates: Na10 Sn31
+(H P O4)6 (P2 O7)6 (P O4)12 and K2 Sn (P2 O7)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2008 10 1485 1490 SSSCFJ
+loop_
+_publ_author_name
+'Weng Shengfeng'
+'Chen Kueibo'
+'Lee Chishen'
+_cell_length_a 9.6445(13)
+_cell_length_b 9.6445(13)
+_cell_length_c 34.059(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2743.61
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -6 2 c'
+_symmetry_Int_Tables_number 190
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn2+ 12 i 0.07998(10) 0.67217(10) 0.155774(19) 0.02988(19) 1 0
+Sn2 Sn2+ 12 i -0.40743(6) 0.68339(6) 0.054426(15) 0.01379(13) 1 0
+Sn3 Sn2+ 4 f -0.3333 0.3333 0.19625(6) 0.0174(6) 0.545(5) 0
+Sn4 Sn2+ 6 h -0.3965(2) 0.6894(2) 0.25 0.0310(5) 0.593(4) 0
+Sn5 Sn2+ 4 f -0.3333 0.3333 0.09960(14) 0.0316(15) 0.282(5) 0
+P1 P5+ 12 i -0.6586(3) 0.2698(2) 0.03917(6) 0.0110(4) 1 0
+P2 P5+ 6 h -0.0453(5) 0.6564(5) 0.25 0.0267(8) 1 0
+P3 P5+ 12 i -0.2565(3) 0.6828(3) 0.14871(6) 0.0131(4) 1 0
+Na1 Na1+ 4 e 0. 1. 0.20332(17) 0.0262(14) 1 0
+Na2 Na1+ 4 e 1. 1. 0.09543(17) 0.0229(14) 1 0
+Na3 Na1+ 2 a 0. 0. 0. 0.0128(16) 1 0
+O1 O2- 12 i -0.2780(8) 0.7365(8) 0.10798(16) 0.0271(14) 1 0
+O2 O2- 12 i -0.0759(9) 0.7621(12) 0.1561(2) 0.050(3) 1 0
+O3 O2- 12 i -0.2105(7) 0.9539(7) 0.04817(15) 0.0133(10) 1 0
+O4 O2- 12 i -0.2370(6) 0.6347(7) 0.02741(16) 0.0157(11) 1 0
+O5 O2- 12 i -0.1617(11) 0.3368(10) 0.1515(2) 0.040(2) 1 0
+O6 O2- 6 h 0.0376(14) 0.8364(13) 0.25 0.031(2) 1 0
+O7 O2- 6 g -0.6207(8) 0.3793(8) 0. 0.0110(14) 1 0
+O8 O2- 12 i -0.5386(8) 0.3801(8) 0.06908(17) 0.0228(14) 1 0
+O9 O2- 12 i 0.0033(14) 0.5961(9) 0.21401(18) 0.047(2) 1 0
+O10 O2- 12 i -0.3281(8) 0.7488(7) 0.17933(16) 0.0194(13) 1 0
+O11 O2- 6 h -0.230(3) 0.585(2) 0.25 0.091(6) 1 0
+H1 H1+ 6 h -0.303(17) 0.514(17) 0.25 0.02 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn2+ 0.0314(4) 0.0477(5) 0.0148(3) 0.0230(3) 0.0059(3) 0.0056(3)
+Sn2 Sn2+ 0.0130(3) 0.0165(3) 0.0132(2) 0.0084(2) -0.0007(2) -0.00151(19)
+Sn3 Sn2+ 0.0165(7) 0.0165(7) 0.0193(9) 0.0083(3) 0. 0.
+Sn4 Sn2+ 0.0284(9) 0.0186(8) 0.0398(9) 0.0071(7) 0. 0.
+Sn5 Sn2+ 0.0260(16) 0.0260(16) 0.043(3) 0.0130(8) 0. 0.
+P1 P5+ 0.0146(9) 0.0098(9) 0.0078(8) 0.0055(8) -0.0027(7) -0.0010(7)
+P2 P5+ 0.0185(16) 0.035(2) 0.0101(13) 0.0014(14) 0. 0.
+P3 P5+ 0.0119(10) 0.0167(10) 0.0107(8) 0.0072(8) -0.0005(7) -0.0014(7)
+Na1 Na1+ 0.035(2) 0.035(2) 0.008(3) 0.0177(12) 0. 0.
+Na2 Na1+ 0.025(2) 0.025(2) 0.018(3) 0.0126(11) 0. 0.
+Na3 Na1+ 0.016(2) 0.016(2) 0.007(3) 0.0078(12) 0. 0.
+O1 O2- 0.041(4) 0.034(4) 0.008(3) 0.019(3) -0.005(2) 0.001(2)
+O2 O2- 0.026(4) 0.081(7) 0.033(4) 0.020(5) -0.005(3) -0.016(4)
+O3 O2- 0.013(3) 0.010(2) 0.016(2) 0.005(2) -0.002(2) 0.000(2)
+O4 O2- 0.013(2) 0.021(3) 0.014(2) 0.010(2) 0.001(2) -0.003(2)
+O6 O2- 0.055(7) 0.033(6) 0.018(4) 0.032(5) 0. 0.
+O7 O2- 0.009(2) 0.009(2) 0.013(3) 0.003(3) -0.0037(15) 0.0037(15)
+O8 O2- 0.033(4) 0.021(3) 0.018(3) 0.016(3) -0.009(3) -0.004(2)
+O9 O2- 0.095(7) 0.025(4) 0.014(3) 0.025(4) 0.015(4) 0.007(3)
+O10 O2- 0.031(3) 0.023(3) 0.010(2) 0.017(3) 0.005(2) -0.001(2)
+#End of TTdata_419265-ICSD

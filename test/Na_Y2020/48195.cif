@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_48195-ICSD
+_database_code_ICSD 48195
+_audit_creation_date 1986-04-14
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium dihydrogensilicate tetrahydrate'
+_chemical_formula_structural 'Na2 H2 Si O4 (H2 O)4'
+_chemical_formula_sum 'H10 Na2 O8 Si1'
+_chemical_name_structure_type Na2H2SiO4(H2O)4
+_exptl_crystal_density_diffrn 1.78
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Location and Anisotropic Refinement of Atoms in Disodium Dihydrogensilicate
+Tetrahydrate, Na2 H2 Si O4 (H2 O)4 by Neutron Diffraction; Hydrogen Bonding at
+173 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1985 41 638 641 ACSCEE
+loop_
+_publ_author_name
+'Schmid, R.L.'
+'Felsche, J.'
+_cell_length_a 7.916(2)
+_cell_length_b 9.558(2)
+_cell_length_c 6.643(1)
+_cell_angle_alpha 70.13(2)
+_cell_angle_beta 104.83(2)
+_cell_angle_gamma 122.56(2)
+_cell_volume 396.71
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.6080(2) 0.1506(2) 0.1865(2) . 1. 0
+Na2 Na1+ 2 i 0.6513(2) 0.3384(2) 0.6315(2) . 1. 0
+Si1 Si4+ 2 i 0.2688(2) 0.2330(1) 0.9701(2) . 1. 0
+O1 O2- 2 i 0.2594(1) 0.0776(1) 0.1721(1) . 1. 0
+O2 O2- 2 i 0.2098(1) 0.3567(1) 0.0107(1) . 1. 0
+O3 O2- 2 i 0.1281(1) 0.1508(1) 0.7618(1) . 1. 0
+O4 O2- 2 i 0.4967(1) 0.3434(1) 0.8866(1) . 1. 0
+O5 O2- 2 i 0.7899(1) 0.3877(1) 0.3282(1) . 1. 0
+O6 O2- 2 i 0.1339(1) 0.3739(1) 0.3683(2) . 1. 0
+O7 O2- 2 i 0.3538(1) 0.0789(1) 0.5828(1) . 1. 0
+O8 O2- 2 i 0.7923(1) 0.1957(1) 0.9214(1) . 1. 0
+H1 H1+ 2 i -.0161(3) 0.0627(2) 0.7836(3) . 1. 0
+H2 H1+ 2 i 0.5919(3) 0.4556(2) 0.9211(3) . 1. 0
+H3 H1+ 2 i 0.7986(3) 0.4880(2) 0.2103(3) . 1. 0
+H4 H1+ 2 i 0.9196(3) 0.3941(2) 0.3470(3) . 1. 0
+H5 H1+ 2 i 0.1566(3) 0.3477(2) 0.2495(3) . 1. 0
+H6 H1+ 2 i 0.1323(3) 0.2892(2) 0.5013(3) . 1. 0
+H7 H1+ 2 i 0.3103(3) 0.0795(2) 0.4278(3) . 1. 0
+H8 H1+ 2 i 0.2580(3) 0.0874(2) 0.6368(3) . 1. 0
+H9 H1+ 2 i 0.7742(3) 0.0945(2) 0.8878(3) . 1. 0
+H10 H1+ 2 i 0.9379(3) 0.2600(2) 0.9576(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0158(7) 0.0146(7) 0.0163(7) -.0039(5) 0.0023(5) 0.0091(6)
+Na2 Na1+ 0.0157(7) 0.0133(7) 0.0150(7) -.0040(5) 0.0055(5) 0.0058(6)
+Si1 Si4+ 0.0069(5) 0.0065(5) 0.0071(5) -.0021(4) 0.0020(4) 0.0031(4)
+O1 O2- 0.0115(4) 0.0087(4) 0.0083(4) -.0015(3) 0.0014(4) 0.0046(3)
+O2 O2- 0.0105(4) 0.0094(4) 0.0122(4) -.0037(3) 0.0030(3) 0.0055(3)
+O3 O2- 0.0093(5) 0.0114(4) 0.0080(4) -.0038(3) 0.0011(3) 0.0038(3)
+O4 O2- 0.0076(4) 0.0117(4) 0.0158(4) -.0060(3) 0.0047(3) 0.0023(3)
+O5 O2- 0.0145(5) 0.0149(5) 0.0130(5) -.0033(4) 0.0033(4) 0.0067(4)
+O6 O2- 0.0191(5) 0.0140(4) 0.0125(5) -.0008(4) 0.0060(4) 0.0095(4)
+O7 O2- 0.0136(4) 0.0164(4) 0.0117(5) -.0049(3) 0.0008(4) 0.0083(4)
+O8 O2- 0.0131(6) 0.0150(4) 0.0181(5) -.0049(4) 0.0027(4) 0.0087(4)
+H1 H1+ 0.0169(9) 0.0206(7) 0.0205(8) -.0053(6) 0.0026(6) 0.0059(8)
+H2 H1+ 0.0200(8) 0.0176(8) 0.0279(8) -.0085(7) 0.0053(6) 0.0059(7)
+H3 H1+ 0.0272(9) 0.0229(8) 0.0243(8) -.0037(8) 0.0047(7) 0.0116(7)
+H4 H1+ 0.0211(9) 0.0303(9) 0.0291(9) -.0055(7) 0.0027(7) 0.0133(7)
+H5 H1+ 0.0285(9) 0.0248(8) 0.0235(8) -.0073(7) 0.0066(7) 0.0136(7)
+H6 H1+ 0.0309(9) 0.0234(8) 0.0221(9) -.0008(8) 0.0051(7) 0.0141(7)
+H7 H1+ 0.0247(8) 0.0262(8) 0.0186(8) -.0068(6) 0.0012(6) 0.0130(7)
+H8 H1+ 0.0264(9) 0.0347(9) 0.0261(8) -.0087(7) 0.0067(7) 0.0177(8)
+H9 H1+ 0.0240(8) 0.0231(8) 0.0299(8) -.0101(7) 0.0032(7) 0.0122(7)
+H10 H1+ 0.021(1) 0.0258(8) 0.0311(9) -.0106(7) 0.0007(7) 0.0105(8)
+#End of TTdata_48195-ICSD

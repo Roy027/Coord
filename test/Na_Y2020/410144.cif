@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410144-ICSD
+_database_code_ICSD 410144
+_audit_creation_date 2001-07-16
+_chemical_name_systematic
+'Sodium tecto-hexaalumohexasilicate carbonate (7.88/1/0.93)'
+_chemical_formula_structural 'Na7.88 (Al6 Si6 O24) (C O3)0.93'
+_chemical_formula_sum 'C0.93 Al6 Na7.88 O26.79 Si6'
+_chemical_name_mineral 'Sodalite (dehydrated)'
+_exptl_crystal_density_diffrn 2.15
+_publ_section_title
+
+;
+Structural study of Na8 (Al Si O4)6 (C O3)x (H C O O)2-2x (H2 O)4x, 0.2<= x<=
+1, synthesized in organic solvents: Order and disorder of carbonate and
+formate anions in sodalite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous Materials' 1999 28 335 351 MCMTEV
+loop_
+_publ_author_name
+'Fechtelkord, M.'
+_cell_length_a 9.0223(2)
+_cell_length_b 9.0223
+_cell_length_c 9.0223
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 734.43
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 2 3'
+_symmetry_Int_Tables_number 195
+_refine_ls_R_factor_all 0.0247
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -x, y'
+2 '-y, -z, x'
+3 '-x, -y, z'
+4 '-z, x, -y'
+5 '-y, z, -x'
+6 '-x, y, -z'
+7 'z, -x, -y'
+8 'y, -z, -x'
+9 'x, -y, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+Al3+ 3
+O2- -2
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.197(1) 0.197(1) 0.197(1) 0.05(1) 0.91(4) 0
+Na2 Na1+ 4 e 0.679(2) 0.679(2) 0.679(2) 0.03(2) 0.47(3) 0
+Na3 Na1+ 4 e 0.769(2) 0.769(2) 0.769(2) 0.016(1) 0.59(3) 0
+Si1 Si4+ 6 g 0.243(9) 0 0.5 0.009(1) 1. 0
+Al1 Al3+ 6 h 0.253(9) 0.5 0 0.009(1) 1. 0
+O1 O2- 12 j 0.148(8) 0.149(8) 0.450(4) 0.018(3) 1. 0
+O2 O2- 12 j 0.639(8) 0.654(7) 0.955(4) 0.018(3) 1. 0
+C1 C4+ 1 a 0 0 0 0.04(3) 0.93(2) 0
+O3 O2- 12 j 0.06(2) 0.933(5) 0.11(1) 0.01(2) 0.233(6) 0
+#End of TTdata_410144-ICSD

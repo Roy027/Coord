@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79502-ICSD
+_database_code_ICSD 79502
+_audit_creation_date 1996-10-14
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Sodium chromium titanium oxide (1.72/1.71/6.29/16)'
+_chemical_formula_structural 'Na1.72 (Cr1.71 Ti6.29) O16'
+_chemical_formula_sum 'Cr1.71 Na1.72 O16 Ti6.29'
+_chemical_name_structure_type BaCsxAl2Ti6O16
+_chemical_name_mineral 'Priderite (Na-,Cr-exchanged)'
+_exptl_crystal_density_diffrn 3.81
+_publ_section_title
+
+;
+Nax Crx Ti8-x O16, priderite with sodium ions in the tunnel structural study
+for stability and Na ion transport
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 116 296 299 JSSCBI
+loop_
+_publ_author_name
+'Michiue, Y.'
+'Watanabe, M.'
+_cell_length_a 10.058(1)
+_cell_length_b 10.058(1)
+_cell_length_c 2.957(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 299.14
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, -z+1/2'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+1/2, -x+1/2, z+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+Cr3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 h 0.072(2) 0.014(3) 0.5 4.3(1) 0.110(5) 0
+Na2 Na1+ 4 e 0 0 0.203(10) 7.00(14) 0.16(4) 0
+Na3 Na1+ 2 a 0 0 0 5.30(53) 0.10(8) 0
+Ti1 Ti4+ 8 h 0.35161(4) 0.16876(5) 0 0.64(1) 0.786(3) 0
+Cr1 Cr3+ 8 h 0.35161(4) 0.16876(5) 0 0.64(1) 0.214(3) 0
+O1 O2- 8 h 0.1545(2) 0.2029(2) 0 0.59(5) 1. 0
+O2 O2- 8 h 0.5429(2) 0.1643(2) 0 0.67(5) 1. 0
+#End of TTdata_79502-ICSD

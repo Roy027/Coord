@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_264323-ICSD
+_database_code_ICSD 264323
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Sodium tetralead tetratellurate(IV) fluoride'
+_chemical_formula_structural 'Na Pb4 Te4 O12 F'
+_chemical_formula_sum 'F1 Na1 O12 Pb4 Te4'
+_exptl_crystal_density_diffrn 7.11
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synergetic influence of alkali-metal and lone-pair cations on frameworks of
+tellurites
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 5406 5412 INOCAJ
+loop_
+_publ_author_name
+'Chen, Yi-Gang'
+'Yang, Nan'
+'Yao, Xiao-Ni'
+'Li, Cheng-Bo'
+'Guo, Yao'
+'Zhang, Xian-Ming'
+_cell_length_a 12.6160(5)
+_cell_length_b 12.6160(5)
+_cell_length_c 4.6159(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 734.68
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n Z'
+_symmetry_Int_Tables_number 85
+_refine_ls_R_factor_all 0.0218
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x+1/2, -z'
+2 'y+1/2, -x, -z'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y, -x+1/2, z'
+6 '-y+1/2, x, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+O2- -2
+F1- -1
+Na1+ 1
+O2- -2
+Te4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 8 g 0.91965(2) 0.60541(2) 0.23370(5) 0.02007(15) 1 0
+O1 O2- 8 g 0.9129(3) 0.4715(3) -0.1764(10) 0.0245(8) 1 0
+O2 O2- 8 g 0.7137(3) 0.5573(3) -0.1682(8) 0.0224(6) 1 0
+F1 F1- 2 c 0.7500(3) 0.7500(3) 0.2618(8) 0.0224(6) 1 0
+Na1 Na1+ 2 c 0.75 0.75 -0.2435(9) 0.0224(6) 1 0
+O3 O2- 8 g 0.7652(4) 0.4325(4) -0.6378(10) 0.0335(10) 1 0
+Te1 Te4+ 8 g 0.77386(3) 0.42348(3) -0.23752(7) 0.01529(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.01643(18) 0.01715(18) 0.0266(2) 0.00302(8) 0.00171(6) 0.00198(6)
+O1 O2- 0.0116(17) 0.022(2) 0.040(2) 0.0015(15) -0.0005(17) -0.0050(19)
+O2 O2- 0.0242(18) 0.0141(15) 0.0288(15) 0.0071(14) 0.0076(18) 0.0036(17)
+F1 F1- 0.0242(18) 0.0141(15) 0.0288(15) 0.0071(14) 0.0076(18) 0.0036(17)
+Na1 Na1+ 0.0242(18) 0.0141(15) 0.0288(15) 0.0071(14) 0.0076(18) 0.0036(17)
+O3 O2- 0.044(3) 0.036(2) 0.020(2) -0.0034(19) -0.0058(19) -0.0011(18)
+Te1 Te4+ 0.0121(2) 0.0138(2) 0.0199(3) -0.00134(13) -0.00161(10) 0.00050(10)
+#End of TTdata_264323-ICSD

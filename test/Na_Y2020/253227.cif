@@ -1,0 +1,133 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253227-ICSD
+_database_code_ICSD 253227
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Calcium-7.29 sodium-0.71 tetrakis(silicate) *'
+_chemical_formula_structural '(Ca7.29 Na0.71) (Si O4)4'
+_chemical_formula_sum 'Ca7.29 Na0.71 O16 Si4'
+_chemical_name_mineral Flamite
+_exptl_crystal_density_diffrn 3.23
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The crystal structure of flamite and its relation to Ca2SiO4 polymorphs and
+nagelschmidtite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2015 27 755 769 EJMIER
+loop_
+_publ_author_name
+'Gfeller, Frank'
+'Widmer, Remo'
+'Krueger, Biljana'
+'Galuskin, Evgeny V.'
+'Galuskina, Irina O.'
+'Armbruster, Thomas'
+_cell_length_a 9.3845(6)
+_cell_length_b 21.7310(14)
+_cell_length_c 6.8346(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1393.81
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.0899
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, z+1/2'
+2 '-x, -y+1/2, z+1/2'
+3 'x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 2 a 0.8704(9) 0. 0.7782(11) 0.0007(16) 1 0
+Si2 Si4+ 4 b 0.1724(8) 0.2517(3) 0.2421(9) 0.0077(13) 1 0
+Si3 Si4+ 2 a 0.2040(11) 0. 0.1976(13) 0.0070(17) 1 0
+Si4 Si4+ 4 b 0.3526(9) 0.1219(3) 0.7857(11) 0.0197(17) 1 0
+Si5 Si4+ 4 b 0.6962(8) 0.1288(3) 0.2985(10) 0.0121(13) 1 0
+Ca1 Ca2+ 2 a 0.2101(9) 0. 0.6531(11) 0.0150(15) 1 0
+Ca2 Ca2+ 2 a 0.8743(13) 0. 0.2044(14) 0.020(4) 0.50(8) 0
+Na1 Na1+ 2 a 0.8743(13) 0. 0.2044(14) 0.020(4) 0.50(8) 0
+Ca3 Ca2+ 4 b 0.3492(8) 0.1266(3) 0.3401(11) 0.024(3) 0.72(6) 0
+Na2 Na1+ 4 b 0.3492(8) 0.1266(3) 0.3401(11) 0.024(3) 0.28(6) 0
+Ca4 Ca2+ 4 b 0.6993(7) 0.1153(2) 0.8478(10) 0.0299(17) 1 0
+Ca5 Ca2+ 4 b 0.1764(6) 0.2426(2) 0.6880(8) 0.0188(13) 1 0
+Ca6 Ca2+ 2 a 0.4949(8) 0. 0.0005(12) 0.0138(15) 1 0
+Ca7 Ca2+ 2 a 0.5788(8) 0. 0.4930(12) 0.0150(16) 1 0
+Ca8 Ca2+ 4 b 0.4622(6) 0.2392(2) 0.0227(7) 0.011(2) 0.83(5) 0
+Na3 Na1+ 4 b 0.4622(6) 0.2392(2) 0.0227(7) 0.011(2) 0.17(5) 0
+Ca9 Ca2+ 4 b 0.0647(6) 0.1326(2) 0.0228(9) 0.0147(11) 1 0
+Ca10 Ca2+ 4 b 0.9855(6) 0.1177(2) 0.5153(10) 0.0182(12) 1 0
+O1 O2- 2 a 0.702(2) 0. 0.784(3) 0.008(4) 1 0
+O2 O2- 2 a 0.948(2) 0. 0.563(3) 0.008(4) 1 0
+O3 O2- 4 b 0.9201(16) 0.0607(6) 0.891(2) 0.009(3) 1 0
+O4 O2- 4 b 0.189(2) 0.2351(8) 0.012(3) 0.024(4) 1 0
+O5 O2- 4 b 0.1280(19) 0.1946(8) 0.379(3) 0.021(4) 1 0
+O6 O2- 4 b 0.052(2) 0.3063(8) 0.267(3) 0.025(4) 1 0
+O7 O2- 4 b 0.3222(18) 0.2752(6) 0.340(2) 0.011(3) 1 0
+O8 O2- 2 a 0.353(4) 0. 0.325(5) 0.054(10) 1 0
+O9 O2- 4 b 0.123(2) 0.9391(8) 0.273(3) 0.030(5) 1 0
+O10 O2- 2 a 0.247(2) 0. 0.975(3) 0.005(4) 1 0
+O11 O2- 4 b 0.3937(18) 0.1880(7) 0.696(2) 0.015(3) 1 0
+O12 O2- 4 b 0.366(4) 0.1280(15) 0.005(5) 0.086(9) 1 0
+O13 O2- 4 b 0.445(2) 0.0677(10) 0.703(3) 0.040(5) 1 0
+O14 O2- 4 b 0.193(3) 0.1104(9) 0.718(4) 0.036(5) 1 0
+O15 O2- 4 b 0.735(2) 0.1033(8) 0.510(3) 0.027(4) 1 0
+O16 O2- 4 b 0.5845(16) 0.1824(6) 0.290(2) 0.005(3) 1 0
+O17 O2- 4 b 0.641(2) 0.0664(9) 0.201(3) 0.036(5) 1 0
+O18 O2- 4 b 0.849(2) 0.1502(8) 0.201(3) 0.023(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca2 Ca2+ 0.021(7) 0.038(6) 0.001(5) 0. -0.004(4) 0.
+Na1 Na1+ 0.021(7) 0.038(6) 0.001(5) 0. -0.004(4) 0.
+Ca3 Ca2+ 0.017(4) 0.009(3) 0.047(5) 0.001(2) -0.008(3) 0.012(3)
+Na2 Na1+ 0.017(4) 0.009(3) 0.047(5) 0.001(2) -0.008(3) 0.012(3)
+Ca4 Ca2+ 0.026(4) 0.010(2) 0.054(4) 0.006(2) 0.030(3) -0.003(2)
+Ca5 Ca2+ 0.013(3) 0.023(3) 0.020(3) -0.006(2) 0.012(2) -0.012(2)
+Ca6 Ca2+ 0.015(4) 0.016(3) 0.010(3) 0. 0.002(3) 0.
+Ca7 Ca2+ 0.013(4) 0.019(3) 0.013(3) 0. -0.004(3) 0.
+Ca8 Ca2+ 0.010(4) 0.013(3) 0.009(3) -0.0043(18) 0.000(2) -0.0041(19)
+Na3 Na1+ 0.010(4) 0.013(3) 0.009(3) -0.0043(18) 0.000(2) -0.0041(19)
+Ca9 Ca2+ 0.008(3) 0.010(2) 0.025(3) -0.0001(16) -0.001(2) 0.0032(19)
+Ca10 Ca2+ 0.011(3) 0.017(2) 0.027(3) -0.0031(19) 0.004(2) -0.010(2)
+#End of TTdata_253227-ICSD

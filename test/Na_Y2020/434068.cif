@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_434068-ICSD
+_database_code_ICSD 434068
+_audit_creation_date 2019-08-01
+_chemical_name_systematic 'Cesium tetrasodium tetrakis(molybdato)-cobaltate'
+_chemical_formula_structural 'Na3.21 Cs0.37 Co1.21 (Mo O4)3'
+_chemical_formula_sum 'Co1.21 Cs0.37 Mo3 Na3.21 O12'
+_exptl_crystal_density_diffrn 3.83
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis, structure, and conductivity of alluaudite-related phases in the
+Na2MoO4-Cs2MoO4-CoMoO4 system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2019 2019 277 286 EJICFO
+loop_
+_publ_author_name
+'Yudin, Vasiliy N.'
+'Zolotova, Evgeniya S.'
+'Solodovnikov, Sergey F.'
+'Solodovnikova, Zoya A.'
+'Korolkov, Iliya V.'
+'Stefanovich, Sergey Yu.'
+'Kuchumov, Boris M.'
+_cell_length_a 13.0917(8)
+_cell_length_b 13.5443(8)
+_cell_length_c 7.1217(4)
+_cell_angle_alpha 90
+_cell_angle_beta 112.331(2)
+_cell_angle_gamma 90
+_cell_volume 1168.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0367
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Cs1+ 1
+Na1+ 1
+Co2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 e 0. 0.78260(5) 0.25 0.02292(19) 1 0
+Mo2 Mo6+ 8 f 0.24144(6) 0.60942(4) 0.13008(8) 0.0339(2) 1 0
+Cs1 Cs1+ 4 e 0. 0.50162(11) 0.25 0.0506(6) 0.371(2) 0
+Na1 Na1+ 4 e 0. 0.50162(11) 0.25 0.0506(6) 0.418(3) 0
+Na2 Na1+ 4 a 0. 0. 0. 0.0513(12) 1 0
+Na3 Na1+ 4 e 0. 0.2375(3) 0.25 0.0392(10) 1 0
+Co1 Co2+ 8 f 0.28079(9) 0.83778(7) 0.37188(15) 0.0185(2) 0.6051(14) 0
+Na4 Na1+ 8 f 0.28079(9) 0.83778(7) 0.37188(15) 0.0185(2) 0.3949(14) 0
+O1 O2- 8 f 0.1032(5) 0.8636(4) 0.2421(8) 0.0445(13) 1 0
+O2 O2- 8 f 0.0452(4) 0.7084(3) 0.4712(7) 0.0322(10) 1 0
+O3 O2- 8 f 0.3816(5) 0.5910(4) 0.1889(8) 0.0478(14) 1 0
+O4 O2- 8 f 0.1783(8) 0.4940(4) 0.1139(10) 0.078(2) 1 0
+O5 O2- 8 f 0.1772(4) 0.6689(3) -0.1057(7) 0.0365(11) 1 0
+O6 O2- 8 f 0.2252(4) 0.6788(4) 0.3291(7) 0.0358(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0338(4) 0.0168(3) 0.0172(3) 0. 0.0085(3) 0.
+Mo2 Mo6+ 0.0658(5) 0.0209(3) 0.0193(3) -0.0035(3) 0.0210(3) -0.0002(2)
+Cs1 Cs1+ 0.0238(8) 0.0327(8) 0.0767(13) 0. -0.0018(7) 0.
+Na1 Na1+ 0.0238(8) 0.0327(8) 0.0767(13) 0. -0.0018(7) 0.
+Na2 Na1+ 0.086(4) 0.0226(19) 0.030(2) -0.004(2) 0.005(2) 0.0020(16)
+Na3 Na1+ 0.058(3) 0.0297(19) 0.047(2) 0. 0.039(2) 0.
+Co1 Co2+ 0.0260(6) 0.0180(5) 0.0128(5) -0.0009(4) 0.0087(4) 0.0015(4)
+Na4 Na1+ 0.0260(6) 0.0180(5) 0.0128(5) -0.0009(4) 0.0087(4) 0.0015(4)
+O1 O2- 0.050(3) 0.034(3) 0.040(3) -0.008(2) 0.007(2) 0.016(2)
+O2 O2- 0.044(3) 0.030(2) 0.027(2) -0.001(2) 0.018(2) 0.0053(19)
+O3 O2- 0.074(4) 0.033(3) 0.046(3) 0.022(3) 0.033(3) 0.016(2)
+O4 O2- 0.155(8) 0.036(3) 0.049(4) -0.029(4) 0.046(4) 0.002(3)
+O5 O2- 0.056(3) 0.029(2) 0.022(2) 0.001(2) 0.011(2) -0.0027(18)
+O6 O2- 0.045(3) 0.042(3) 0.026(2) -0.007(2) 0.018(2) -0.002(2)
+#End of TTdata_434068-ICSD

@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35420-ICSD
+_database_code_ICSD 35420
+_audit_creation_date 1983-12-31
+_chemical_name_systematic
+'Sodium bis(trihydroxostannate(II)) oxotetrahydroxodistannate(II)'
+_chemical_formula_structural 'Na4 (Sn (O H)3)2 (Sn2 O (O H)4)'
+_chemical_formula_sum 'H10 Na4 O11 Sn4'
+_exptl_crystal_density_diffrn 3.21
+_publ_section_title
+
+;
+Ueber die Natriumoxohydroxostannate(II) Na4 (Sn4 O (O H)10) und Na2 (Sn2 O (O
+H)4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1983
+499 117 129 ZAACAB
+loop_
+_publ_author_name
+'von Schnering, H.G.'
+'Nesper, R.'
+'Pelshenke, H.'
+_cell_length_a 15.224(5)
+_cell_length_b 8.300(2)
+_cell_length_c 12.760(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.8(2)
+_cell_angle_gamma 90.
+_cell_volume 1558.85
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn2+ 4 e 0.0759(1) 0.4105(3) 0.8023(2) . 1. 0
+Sn2 Sn2+ 4 e 0.3429(1) 0.3110(3) 0.8570(2) . 1. 0
+Sn3 Sn2+ 4 e 0.3178(1) 0.4054(3) 0.5330(2) . 1. 0
+Sn4 Sn2+ 4 e 0.0827(1) 0.3060(3) 0.1363(2) . 1. 0
+Na1 Na1+ 4 e 0.069(1) 0.416(2) 0.411(1) 0.0423(34) 1. 0
+Na2 Na1+ 4 e 0.214(1) 0.056(2) 0.409(1) 0.0334(33) 1. 0
+Na3 Na1+ 4 e 0.512(1) 0.357(1) 0.095(1) 0.0261(28) 1. 0
+Na4 Na1+ 4 e 0.356(1) 0.205(2) 0.252(1) 0.0376(31) 1. 0
+O1 O2- 4 e 0.007(1) 0.191(3) 0.783(2) 0.0267(52) 1. 0
+O2 O2- 4 e 0.045(1) 0.479(2) 0.228(2) 0.0222(48) 1. 0
+O3 O2- 4 e 0.060(1) 0.420(3) 0.635(2) 0.0357(52) 1. 0
+O4 O2- 4 e 0.349(1) 0.321(3) 0.023(2) 0.0312(53) 1. 0
+O5 O2- 4 e 0.483(1) 0.344(2) 0.905(2) 0.0251(51) 1. 0
+O6 O2- 4 e 0.170(1) 0.061(3) 0.653(2) 0.0367(63) 1. 0
+O7 O2- 4 e 0.257(1) 0.042(3) 0.098(2) 0.0422(64) 1. 0
+O8 O2- 4 e 0.196(1) 0.295(3) 0.524(2) 0.0408(63) 1. 0
+O9 O2- 4 e 0.346(1) 0.230(3) 0.431(2) 0.0343(58) 1. 0
+O10 O2- 4 e 0.096(1) 0.133(3) 0.257(2) 0.0350(63) 1. 0
+O11 O2- 4 e 0.221(1) 0.367(3) 0.199(2) 0.0442(63) 1. 0
+H1 H1+ 4 e -.031 0.191 0.836 0.0400(63) 1. 0
+H2 H1+ 4 e 0.105 0.384 0.594 0.0400(63) 1. 0
+H3 H1+ 4 e 0.304 0.285 0.063 0.0400(63) 1. 0
+H4 H1+ 4 e 0.522 0.344 0.852 0.0400(63) 1. 0
+H5 H1+ 4 e 0.206 0.092 0.602 0.0400(63) 1. 0
+H6 H1+ 4 e 0.218 0.042 0.151 0.0400(63) 1. 0
+H7 H1+ 4 e 0.151 0.258 0.564 0.0400(63) 1. 0
+H8 H1+ 4 e 0.391 0.194 0.39 0.0400(63) 1. 0
+H9 H1+ 4 e 0.144 0.132 0.215 0.0400(63) 1. 0
+H10 H1+ 4 e 0.262 0.333 0.154 0.0400(63) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn2+ 0.0201(10) 0.0319(12) 0.0291(10) 0.0022(9) 0.0061(7) -.0026(10)
+Sn2 Sn2+ 0.0272(10) 0.0275(12) 0.0272(10) -.0029(9) 0.0044(8) -.0052(10)
+Sn3 Sn2+ 0.0266(10) 0.0433(14) 0.0277(11) -.0028(10) 0.0052(8) -.0071(11)
+Sn4 Sn2+ 0.0272(10) 0.0352(12) 0.0298(11) 0.0035(10) 0.0099(8) -.0051(10)
+#End of TTdata_35420-ICSD

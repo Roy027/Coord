@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280361-ICSD
+_database_code_ICSD 280361
+_audit_creation_date 2002-04-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium nitrate(III)'
+_chemical_formula_structural 'Na (N O2)'
+_chemical_formula_sum 'N1 Na1 O2'
+_chemical_name_structure_type NaNO2
+_exptl_crystal_density_diffrn 2.2
+_cell_measurement_temperature 30.
+_publ_section_title
+
+;
+X-ray study of deformation density and spontaneous polarization in
+ferroelectric Na N O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2000 56 11 16
+ASBSDK
+loop_
+_publ_author_name
+'Gohda, T.'
+'Ichikawa, M.'
+'Gustafsson, T.'
+'Olovsson, I.'
+_cell_length_a 3.5024(6)
+_cell_length_b 5.5209(5)
+_cell_length_c 5.3789(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 104.01
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I m 2 m'
+_symmetry_Int_Tables_number 44
+_refine_ls_R_factor_all 0.0084
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, -z'
+2 '-x, y, z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 'x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+N3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0.58833(4) 0 . 1. 0
+N1 N3+ 2 a 0 0.12277(4) 0 . 1. 0
+O1 O2- 4 c 0 0 0.19646(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.00623(3) 0.00538(3) 0.00559(3) 0 0 0
+N1 N3+ 0.00836(4) 0.00461(5) 0.00490(4) 0 0 0
+O1 O2- 0.00886(4) 0.00706(5) 0.00462(4) 0 0 0.00076(4)
+#End of TTdata_280361-ICSD

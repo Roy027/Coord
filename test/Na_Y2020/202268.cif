@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202268-ICSD
+_database_code_ICSD 202268
+_audit_creation_date 1988-12-19
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium molybdenum oxide (0.9/6/17)'
+_chemical_formula_structural 'Na0.9 Mo6 O17'
+_chemical_formula_sum 'Mo6 Na0.9 O17'
+_exptl_crystal_density_diffrn 4.2
+_publ_section_title
+
+;
+Structure determination of low-dimensional conductor sodium molybdenum purple
+bronze Na.9 Mo6 O17
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1987 69 67 75 JSSCBI
+loop_
+_publ_author_name
+'Onoda, M.'
+'Masuda, Y.'
+'Sato, M.'
+_cell_length_a 12.983(2)
+_cell_length_b 5.518(1)
+_cell_length_c 9.591(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.94(1)
+_cell_angle_gamma 90.
+_cell_volume 687.1
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'A 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo5+ 5.517
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo5+ 4 c 0.07480(3) 0.01729(13) 0.33344(3) . 1. 0
+Mo2 Mo5+ 4 c 0.23141(3) 0.02064(12) 0.00009(3) . 1. 0
+Mo3 Mo5+ 4 c 0.38666(3) 0 0.66694(3) . 1. 0
+Na1 Na1+ 2 b 0.5 0.4738(10) 0.5 . 0.899(1) 0
+O1 O2- 2 a 0 0.0094(13) 0.5 . 1. 0
+O2 O2- 4 c 0.16707(32) 0.03378(98) 0.16497(31) . 1. 0
+O3 O2- 4 c 0.34399(30) 0.4962(12) 0.3424(3) . 1. 0
+O4 O2- 4 c 0.48286(32) 0.03877(80) 0.33638(48) . 1. 0
+O5 O2- 4 c 0.00591(49) 0.2575(19) 0.75096(57) . 1. 0
+O6 O2- 4 c 0.16009(42) 0.28694(80) 0.41846(50) . 1. 0
+O7 O2- 4 c 0.17436(38) 0.27726(84) 0.91762(48) . 1. 0
+O8 O2- 4 c 0.33118(48) 0.24911(98) 0.57933(51) . 1. 0
+O9 O2- 4 c 0.35363(41) 0.22557(85) 0.07745(52) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo5+ 0.0060(2) 0.0056(2) 0.0046(1) 0.0000(1) 0.0000(1) 0.0000(1)
+Mo2 Mo5+ 0.0048(2) 0.0045(2) 0.0060(1) -.0003(1) 0.0000(1) -.0001(1)
+Mo3 Mo5+ 0.0060(2) 0.0073(2) 0.0050(1) 0.0000(2) 0.0000(1) 0.0000(1)
+Na1 Na1+ 0.0105(15) 0.0284(21) 0.0374(21) 0 -.0013(13) 0
+O1 O2- 0.0138(20) 0.0112(22) 0.0048(14) 0 -.0006(13) 0
+O2 O2- 0.0146(15) 0.014(2) 0.0137(14) -.0009(17) 0.0089(12) 0.0005(13)
+O3 O2- 0.0241(20) 0.0191(20) 0.0100(12) 0.0013(22) 0.0093(12) -.0003(16)
+O4 O2- 0.0090(16) 0.0179(21) 0.0047(23) 0.0047(17) 0.0005(16) 0.0047(19)
+O5 O2- 0.0086(15) 0.0102(15) 0.0071(10) -.0017(13) -.0017(9) -.0023(11)
+O6 O2- 0.014(2) 0.0073(16) 0.0213(19) -.0030(15) -.0070(16) -.0026(14)
+O7 O2- 0.0104(19) 0.0091(16) 0.0158(16) 0.0043(15) -.0026(14) 0.0026(13)
+O8 O2- 0.0307(31) 0.0177(20) 0.0100(16) 0.0116(21) -.0014(17) 0.0022(14)
+O9 O2- 0.0123(9) 0.0133(17) 0.0166(17) -.0019(16) -.0055(14) -.0024(14)
+#End of TTdata_202268-ICSD

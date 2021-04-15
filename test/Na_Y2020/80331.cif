@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80331-ICSD
+_database_code_ICSD 80331
+_audit_creation_date 1997-05-13
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Trisodium dialuminium tris(arsenate(V)) - alpha'
+_chemical_formula_structural 'Na3 Al2 (As O4)3'
+_chemical_formula_sum 'Al2 As3 Na3 O12'
+_exptl_crystal_density_diffrn 3.8
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Crystal structure of Na7 Fe4 (As O4)6 and alpha-Na3 Al2 (As O4)3,two sodium
+ion conductors structurally related to II-Na3 Fe2 (As O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 118 33 42 JSSCBI
+loop_
+_publ_author_name
+'Masquelier, C.'
+'d'Yvoire, F.'
+'Collin, G.'
+_cell_length_a 14.576(6)
+_cell_length_b 13.409(6)
+_cell_length_c 9.728(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.95(4)
+_cell_angle_gamma 90.
+_cell_volume 1887.36
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.2512(5) 0.751(1) 0.2378(8) 1.44(22) 1. 0
+Na2 Na1+ 4 c 0.1844(5) 0.544(1) 0.2673(7) 1.26(24) 1. 0
+Na3 Na1+ 4 c 0.7984(5) 0.499(1) 0.173(1) 2.39(26) 1. 0
+Na4 Na1+ 4 c 0.0998(6) 0.862(1) 0.075(1) 1.92(40) 1. 0
+Na5 Na1+ 4 c 0.9002(6) 0.132(1) 0.4092(9) 1.19(31) 1. 0
+Na6 Na1+ 4 c 0.8132(5) 0.359(1) 0.5166(8) 1.96(30) 1. 0
+Al1 Al3+ 2 b 0 0.750(1) 0.5 0.56(4) 1. 0
+Al2 Al3+ 2 a 0 0.250(1) 0 0.56(4) 1. 0
+Al3 Al3+ 2 b 0 0.529(1) 0.5 0.82(14) 1. 0
+Al4 Al3+ 2 a 0 0.469(1) 0 0.53(12) 1. 0
+Al5 Al3+ 4 c 0.3877(4) 0.357(1) 0.2805(6) 0.60(8) 1. 0
+Al6 Al3+ 4 c 0.6095(4) 0.638(1) 0.2229(6) 0.58(9) 1. 0
+As1 As5+ 4 c 0.1938(1) 0.644(1) 0.5741(2) 0.60(6) 1. 0
+As2 As5+ 4 c 0.8082(1) 0.348(1) -.0827(2) 0.57(6) 1. 0
+As3 As5+ 4 c 0.4994(1) 0.162(1) 0.1990(2) 0.53(7) 1. 0
+As4 As5+ 4 c 0.4933(1) 0.832(1) 0.2974(2) 0.58(7) 1. 0
+As5 As5+ 4 c 0.1069(1) 0.934(1) 0.4053(2) 0.65(7) 1. 0
+As6 As5+ 4 c 0.8923(1) 0.058(1) 0.0909(2) 0.53(6) 1. 0
+O1 O2- 4 c 0.1282(9) 0.542(2) 0.570(1) 0.76(9) 1. 0
+O2 O2- 4 c 0.8782(9) 0.451(2) -.087(1) 0.76(9) 1. 0
+O3 O2- 4 c 0.4156(9) 0.251(2) 0.169(1) 0.84(8) 1. 0
+O4 O2- 4 c 0.5762(9) 0.746(2) 0.336(1) 0.84(8) 1. 0
+O5 O2- 4 c 0.1302(9) 0.949(2) 0.577(1) 0.68(8) 1. 0
+O6 O2- 4 c 0.8728(9) 0.042(2) -.084(1) 0.68(8) 1. 0
+O7 O2- 4 c 0.0384(9) 0.435(2) 0.374(1) 0.71(9) 1. 0
+O8 O2- 4 c 0.9599(9) 0.551(2) 0.130(1) 0.71(9) 1. 0
+O9 O2- 4 c 0.9277(9) 0.946(2) 0.153(1) 0.72(9) 1. 0
+O10 O2- 4 c 0.0675(9) 0.050(2) 0.354(1) 0.72(9) 1. 0
+O11 O2- 4 c 0.7406(9) 0.360(2) 0.765(1) 0.84(9) 1. 0
+O12 O2- 4 c 0.2666(9) 0.640(2) 0.720(1) 0.84(9) 1. 0
+O13 O2- 4 c 0.0221(9) 0.643(2) 0.378(1) 0.73(7) 1. 0
+O14 O2- 4 c 0.9760(9) 0.351(2) 0.119(1) 0.73(7) 1. 0
+O15 O2- 4 c 0.0187(9) 0.848(2) 0.369(1) 0.67(8) 1. 0
+O16 O2- 4 c 0.9814(9) 0.145(2) 0.126(1) 0.67(8) 1. 0
+O17 O2- 4 c 0.625(1) 0.249(2) 0.576(1) 0.60(8) 1. 0
+O18 O2- 4 c 0.376(1) 0.740(2) -.083(1) 0.60(8) 1. 0
+O19 O2- 4 c 0.2488(8) 0.655(2) 0.438(1) 0.91(10) 1. 0
+O20 O2- 4 c 0.7535(8) 0.356(2) 0.055(1) 0.91(10) 1. 0
+O21 O2- 4 c 0.601(1) 0.195(2) 0.152(1) 1.02(9) 1. 0
+O22 O2- 4 c 0.397(1) 0.796(2) 0.352(1) 1.02(9) 1. 0
+O23 O2- 4 c 0.196(1) 0.899(2) 0.326(1) 0.99(9) 1. 0
+O24 O2- 4 c 0.807(1) 0.101(2) 0.165(1) 0.99(9) 1. 0
+#End of TTdata_80331-ICSD

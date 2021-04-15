@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409522-ICSD
+_database_code_ICSD 409522
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium scandium diborate'
+_chemical_formula_structural 'Na Sc (B2 O5)'
+_chemical_formula_sum 'B2 Na1 O5 Sc1'
+_exptl_crystal_density_diffrn 2.83
+_publ_section_title 'Crystal structure of sodium scandium borate, Na Sc B2 O5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2001 216 35
+35 ZKNSFT
+loop_
+_publ_author_name
+'Becker, P.'
+'Held, P.'
+_cell_length_a 7.2339(6)
+_cell_length_b 9.7966(6)
+_cell_length_c 5.9233(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 71.483(8)
+_cell_angle_gamma 90.
+_cell_volume 398.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0205
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 4 e 0.24575(3) 0.67238(2) 0.71655(4) . 1. 0
+Na1 Na1+ 4 e 0.22134(9) 0.08058(7) 0.79938(11) . 1. 0
+O1 O2- 4 e 0.07882(14) 0.49932(10) 0.72081(17) . 1. 0
+O2 O2- 4 e 0.61363(14) 0.33078(9) 0.66002(17) . 1. 0
+O3 O2- 4 e 0.44750(14) 0.54184(10) 0.76843(18) . 1. 0
+O4 O2- 4 e -.06591(14) 0.29465(10) 0.92462(17) . 1. 0
+O5 O2- 4 e 0.26952(15) 0.33074(10) 0.8436(2) . 1. 0
+B1 B3+ 4 e 0.0901(2) 0.38022(14) 0.8293(2) . 1. 0
+B2 B3+ 4 e 0.4457(2) 0.40532(15) 0.7551(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc3+ 0.00629(13) 0.00618(13) 0.00674(13) 0.00009(7) -.00265(8) -.00008(7)
+Na1 Na1+ 0.0126(3) 0.0232(3) 0.0193(3) -.0012(2) -.0075(2) 0.0028(2)
+O1 O2- 0.0101(4) 0.0089(4) 0.0122(4) -.0015(3) -.0055(3) 0.0016(3)
+O2 O2- 0.0083(4) 0.0102(4) 0.0087(4) 0.0029(3) -.0019(3) 0.0007(3)
+O3 O2- 0.0101(4) 0.0091(4) 0.0181(5) 0.0019(3) -.0071(4) -.0013(3)
+O4 O2- 0.0086(4) 0.0100(4) 0.0084(4) -.0026(3) -.0023(3) -.0007(3)
+O5 O2- 0.0074(4) 0.0112(5) 0.0234(5) -.0001(3) -.0037(4) 0.0057(4)
+B1 B3+ 0.0080(6) 0.0094(6) 0.0079(5) -.0003(5) -.0021(5) -.0012(4)
+B2 B3+ 0.0075(6) 0.0102(6) 0.0087(6) 0.0007(5) -.0030(5) 0.0009(5)
+#End of TTdata_409522-ICSD

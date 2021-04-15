@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59606-ICSD
+_database_code_ICSD 59606
+_audit_creation_date 2005-04-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium cobalt oxide (0.67/1/2)'
+_chemical_formula_structural 'Na0.672 (Co O2)'
+_chemical_formula_sum 'Co1 Na0.672 O2'
+_chemical_name_structure_type NaxCoO2(mS7)
+_exptl_crystal_density_diffrn 4.66
+_cell_measurement_temperature 10.
+_publ_section_title
+
+;
+Crystal structure, electric and magnetic properties of layered cobaltite
+beta-Na(x) Co O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 166 177 181 JSSCBI
+loop_
+_publ_author_name
+'Ono, Y.'
+'Ishikawa, R.'
+'Miyazaki, Y.'
+'Ishii, Y.'
+'Morii, Y.'
+'Kajitani, T.'
+_cell_length_a 4.9003(4)
+_cell_length_b 2.8274(2)
+_cell_length_c 5.6968(5)
+_cell_angle_alpha 90
+_cell_angle_beta 106.014(5)
+_cell_angle_gamma 90
+_cell_volume 75.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0254
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co3+ 3.328
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 j .811(2) .084(5) .495(3) .5(3) .168(3) 0
+Co1 Co3+ 2 a 0 0 0 .3(1) 1 0
+O1 O2- 4 i .3891(5) 0 .1793(3) .10(4) 1 0
+#End of TTdata_59606-ICSD

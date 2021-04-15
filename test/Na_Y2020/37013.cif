@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37013-ICSD
+_database_code_ICSD 37013
+_audit_creation_date 1982-12-31
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Sodium iron(III) diphosphate(V) - HT, II'
+_chemical_formula_structural 'Na Fe (P2 O7)'
+_chemical_formula_sum 'Fe1 Na1 O7 P2'
+_chemical_name_structure_type Mg2P2O7
+_exptl_crystal_density_diffrn 3.26
+_publ_section_title 'The pyrophosphate Na Fe P2 O7: A cage structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1982 45 389 395 JSSCBI
+loop_
+_publ_author_name
+'Gabelica-Robert, M.'
+'Goreaud, M.'
+'Labbe, P.'
+'Raveau, B.'
+_cell_length_a 7.3244(13)
+_cell_length_b 7.9045(7)
+_cell_length_c 9.5745(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.858(13)
+_cell_angle_gamma 90.
+_cell_volume 514.47
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.28768(18) 0.47768(18) 0.29340(15) . 1. 0
+Fe1 Fe3+ 4 e 0.25959(3) 0.00883(3) 0.24937(3) . 1. 0
+P1 P5+ 4 e 0.07355(6) 0.25412(5) 0.45559(4) . 1. 0
+P2 P5+ 4 e 0.67295(6) 0.21144(5) 0.45472(5) . 1. 0
+O1 O2- 4 e 0.87705(18) 0.15348(17) 0.44124(16) . 1. 0
+O2 O2- 4 e 0.18939(21) 0.28450(17) 0.62093(14) . 1. 0
+O3 O2- 4 e 0.01146(18) 0.41546(16) 0.36353(15) . 1. 0
+O4 O2- 4 e 0.18136(22) 0.13467(19) 0.39169(16) . 1. 0
+O5 O2- 4 e 0.53313(19) 0.08587(18) 0.35008(15) . 1. 0
+O6 O2- 4 e 0.69212(21) 0.20154(17) 0.61750(14) . 1. 0
+O7 O2- 4 e 0.63560(19) 0.39363(16) 0.39793(15) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.01897(47) 0.02535(51) 0.02517(56) 0.00226(38) 0.01272(43) 0.01093(42)
+Fe1 Fe3+ 0.00454(8) 0.00411(6) 0.00334(5) -0.00020(6) 0.00185(7) -0.00031(12)
+P1 P5+ 0.00389(14) 0.00399(13) 0.00288(14) 0.00032(12) 0.00163(11) -0.00031(12)
+P2 P5+ 0.00405(14) 0.00437(13) 0.00320(14) -0.00041(9) 0.00146(11) 0.00061(11)
+O1 O2- 0.00446(41) 0.00620(38) 0.01221(51) -0.00020(31) 0.00419(39) 0.00100(35)
+O2 O2- 0.01294(52) 0.00643(38) 0.00413(42) 0.00023(34) 0.00028(38) -0.00188(35)
+O3 O2- 0.00606(41) 0.00608(38) 0.00752(47) 0.00108(32) 0.00178(36) 0.00322(35)
+O4 O2- 0.01294(52) 0.00953(44) 0.00896(47) 0.00375(38) 0.00806(43) -0.00119(38)
+O5 O2- 0.00530(41) 0.00918(41) 0.00864(47) -0.00326(35) 0.00153(36) -0.00330(38)
+O6 O2- 0.01291(47) 0.00665(38) 0.00390(42) 0.00064(35) 0.00398(39) 0.00153(31)
+O7 O2- 0.00932(47) 0.00541(38) 0.00864(47) 0.00185(32) 0.00554(39) 0.00337(34)
+#End of TTdata_37013-ICSD

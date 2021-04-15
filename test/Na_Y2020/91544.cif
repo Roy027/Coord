@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_91544-ICSD
+_database_code_ICSD 91544
+_audit_creation_date 2002-10-01
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Disodium manganese(III) cyclo-pentaphosphate(V)'
+_chemical_formula_structural 'Na2 Mn (P5 O15)'
+_chemical_formula_sum 'Mn1 Na2 O15 P5'
+_exptl_crystal_density_diffrn 2.76
+_publ_section_title
+'Sodium-manganese cyclopentaphosphate: synthesis and crystal structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 2000 45 625 628 KRISAJ
+loop_
+_publ_author_name
+'Murashova, E.V.'
+'Chudinova, N.N.'
+_cell_length_a 5.1768(6)
+_cell_length_b 13.541(2)
+_cell_length_c 8.771(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.61(1)
+_cell_angle_gamma 90.
+_cell_volume 597.57
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn3+ 3
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn3+ 2 d 0.5 0.5 0.5 0.659(9) 1. 0
+Na1 Na1+ 4 f 0.0781(3) 0.3910(1) 0.1291(1) 1.73(2) 1. 0
+P1 P5+ 4 f 0.3499(1) 0.42147(5) 0.8095(1) 0.74(1) 1. 0
+P2 P5+ 4 f -.0176(1) 0.35938(4) 0.5127(1) 0.66(1) 1. 0
+P3 P5+ 2 e 0.5438(2) 0.25 0.0050(1) 0.83(2) 1. 0
+O1 O2- 4 f 0.4929(4) 0.4869(1) 0.7157(2) 1.01(3) 1. 0
+O2 O2- 4 f 0.2163(4) 0.4698(1) 0.9190(2) 1.15(3) 1. 0
+O3 O2- 4 f 0.5607(4) 0.3414(1) 0.8874(2) 1.19(3) 1. 0
+O4 O2- 4 f 0.1382(4) 0.3554(1) 0.6897(2) 1.26(3) 1. 0
+O5 O2- 4 f 0.6934(4) 0.3787(1) 0.5067(2) 1.11(3) 1. 0
+O6 O2- 4 f 0.1204(4) 0.4226(1) 0.4181(2) 0.92(3) 1. 0
+O7 O2- 2 e 0.0082(5) 0.25 0.4581(3) 0.81(4) 1. 0
+O8 O2- 2 e 0.2834(6) 0.25 0.0451(3) 1.46(5) 1. 0
+O9 O2- 2 e 0.7936(6) 0.25 0.1254(3) 1.44(5) 1. 0
+#End of TTdata_91544-ICSD

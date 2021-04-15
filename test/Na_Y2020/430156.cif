@@ -1,0 +1,127 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430156-ICSD
+_database_code_ICSD 430156
+_audit_creation_date 2017-08-01
+_chemical_name_systematic
+'Dodecasodium octasulfido bis(disulfido) tetracobaltate(II)'
+_chemical_formula_structural 'Na12 (Co2 S5 (S2)) (Co2 S3 (S2))'
+_chemical_formula_sum 'Co4 Na12 S12'
+_exptl_crystal_density_diffrn 2.59
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, crystal and electronic structure of the new sodium chain sulfido
+cobaltates(II), Na3CoS3 and Na5[CoS2]2(Br)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+2016 71 1177 1189 ZNBSEN
+loop_
+_publ_author_name
+'Stueble, Pirmin'
+'Kaegi, Jan P.'
+'Roehr, Caroline'
+_cell_length_a 8.8424(2)
+_cell_length_b 21.7738(5)
+_cell_length_c 11.9320(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2297.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.0205
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co2+ 2
+S2- -2
+S1- -1.5
+Co3+ 3
+S2- -2
+S1- -1.5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0. 0.23195(9) 0.75393(19) 0.0348(5) 1 0
+Na2 Na1+ 4 a 0. 0.56700(9) 0.07258(17) 0.0292(4) 1 0
+Na3 Na1+ 8 b 0.22024(14) 0.21726(6) 0.45409(13) 0.0339(3) 1 0
+Na4 Na1+ 8 b 0.22592(12) 0.17246(6) 0.17106(12) 0.0261(2) 1 0
+Na5 Na1+ 8 b 0.23505(15) 0.41955(6) 0.16545(12) 0.0285(3) 1 0
+Na6 Na1+ 8 b 0.29427(11) 0.37627(6) 0.42259(11) 0.0221(2) 1 0
+Na7 Na1+ 8 b 0.29732(13) 0.03698(6) 0.36524(13) 0.0303(3) 1 0
+Co1 Co2+ 4 a 0. 0.04654(3) 0.22191(4) 0.01569(12) 1 0
+Co2 Co2+ 4 a 0. 0.00903(3) 0.00954(5) 0.01658(12) 1 0
+S1 S2- 8 b 0.20462(7) 0.04352(3) 0.10844(6) 0.01610(15) 1 0
+S2 S2- 4 a 0. 0.04123(5) 0.82836(10) 0.0193(2) 1 0
+S3 S1- 4 a 0. 0.12877(5) 0.34277(11) 0.0264(2) 1 0
+S4 S1- 4 a 0. 0.09809(5) 0.51032(11) 0.0287(3) 1 0
+Co3 Co3+ 4 a 0. 0.33289(2) 0.34362(5) 0.01482(11) 1 0
+Co4 Co3+ 4 a 0. 0.29242(2) 0.11895(4) 0.01480(12) 1 0
+S5 S2- 8 b 0.20367(7) 0.29615(3) 0.23975(6) 0.01543(15) 1 0
+S6 S2- 4 a 0. 0.30486(5) 0.53128(9) 0.0186(2) 1 0
+S7 S2- 4 a 0. 0.44032(5) 0.33244(10) 0.0183(2) 1 0
+S8 S2- 4 a 0. 0.20926(5) 0.00429(10) 0.0175(2) 1 0
+S9 S1- 4 a 0. 0.38100(5) 0.00001(10) 0.0233(2) 1 0
+S10 S1- 4 a 0. 0.64020(5) 0.32543(10) 0.0223(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0135(7) 0.0376(11) 0.0533(14) 0. 0. 0.0084(10)
+Na2 Na1+ 0.0127(7) 0.0357(11) 0.0393(11) 0. 0. 0.0073(9)
+Na3 Na1+ 0.0293(6) 0.0301(7) 0.0423(9) 0.0013(6) -0.0072(6) -0.0068(7)
+Na4 Na1+ 0.0302(5) 0.0205(6) 0.0276(6) 0.0007(6) -0.0017(6) -0.0026(5)
+Na5 Na1+ 0.0374(6) 0.0211(6) 0.0270(7) -0.0042(5) 0.0024(5) 0.0025(6)
+Na6 Na1+ 0.0213(5) 0.0216(6) 0.0232(6) -0.0013(5) -0.0029(5) -0.0026(5)
+Na7 Na1+ 0.0225(5) 0.0255(7) 0.0427(9) -0.0004(5) -0.0034(6) -0.0033(7)
+Co1 Co2+ 0.0124(2) 0.0202(3) 0.0145(3) 0. 0. 0.0006(2)
+Co2 Co2+ 0.0131(2) 0.0195(3) 0.0171(3) 0. 0. -0.0016(2)
+S1 S2- 0.0108(3) 0.0189(4) 0.0187(4) -0.0017(2) 0.0007(2) 0.0022(3)
+S2 S2- 0.0217(4) 0.0204(6) 0.0159(5) 0. 0. -0.0042(5)
+S3 S1- 0.0392(5) 0.0189(6) 0.0211(6) 0. 0. 0.0003(5)
+S4 S1- 0.0445(6) 0.0208(6) 0.0208(6) 0. 0. -0.0006(5)
+Co3 Co3+ 0.01114(19) 0.0170(3) 0.0163(3) 0. 0. -0.0009(2)
+Co4 Co3+ 0.0118(2) 0.0170(3) 0.0157(3) 0. 0. -0.0023(2)
+S5 S2- 0.0109(3) 0.0167(4) 0.0187(4) 0.0020(2) -0.0008(3) -0.0028(3)
+S6 S2- 0.0183(4) 0.0208(6) 0.0166(6) 0. 0. 0.0001(4)
+S7 S2- 0.0169(4) 0.0156(5) 0.0225(6) 0. 0. -0.0025(5)
+S8 S2- 0.0162(4) 0.0176(5) 0.0189(6) 0. 0. -0.0034(5)
+S9 S1- 0.0312(5) 0.0197(6) 0.0191(6) 0. 0. 0.0003(5)
+S10 S1- 0.0276(5) 0.0209(6) 0.0185(6) 0. 0. -0.0016(5)
+#End of TTdata_430156-ICSD

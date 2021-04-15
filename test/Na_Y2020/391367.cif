@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_391367-ICSD
+_database_code_ICSD 391367
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Hexacesium disodium hexaniobate octadecahydrate'
+_chemical_formula_structural 'Cs6 Na2 (Nb6 O19) (H2 O)18'
+_chemical_formula_sum 'H36 Cs6 Na2 Nb6 O37'
+_exptl_crystal_density_diffrn 3.23
+_cell_measurement_temperature 168.
+_publ_section_title
+
+;
+Solid-state structures and solution behavior of alkali salts of the (Nb6
+O19)(8-) Lindqvist ion
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Cluster Science' 2006 17 197 219 JCSCEB
+loop_
+_publ_author_name
+'Nyman, M.'
+'Alam, T.M.'
+'Bonhomme, F.'
+'Rodriguez, M.A.'
+'Frazer, C.S.'
+'Welk, M.E.'
+_cell_length_a 12.609(2)
+_cell_length_b 12.609(2)
+_cell_length_c 22.745(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 3131.68
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0178
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Na1+ 1
+Nb5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 18 f 0.35401(2) 0.97232(2) -0.086104(10) 0.02314(11) 1 0
+Na1 Na1+ 6 c 0.3333 0.6667 -0.05193(10) 0.0179(5) 1 0
+Nb1 Nb5+ 18 f 0.00019(3) 0.84694(3) -0.060226(12) 0.01013(11) 1 0
+O1 O2- 3 a 0. 0. 0. 0.0098(11) 1 0
+O2 O2- 18 f 0.1256(2) 0.8736(2) 0.00036(9) 0.0123(5) 1 0
+O3 O2- 18 f 0.0033(2) 0.7322(2) -0.10545(10) 0.0176(5) 1 0
+O4 O2- 18 f -0.1260(2) 0.8737(2) -0.09840(9) 0.0126(5) 1 0
+O5 O2- 18 f 0.1838(2) 0.6679(3) -0.11530(11) 0.0233(6) 1 0
+O6 O2- 18 f 0.2486(3) 0.7510(3) 0.01363(12) 0.0354(7) 1 0
+O7 O2- 18 f -0.1564(3) 0.5033(2) -0.13025(13) 0.0273(6) 1 0
+H1 H1+ 18 f 0.193(4) 0.663(4) -0.1519(6) 0.040(6) 1 0
+H2 H1+ 18 f 0.127(3) 0.684(4) -0.1091(17) 0.040(6) 1 0
+H3 H1+ 18 f 0.207(4) 0.786(4) 0.0096(18) 0.040(6) 1 0
+H4 H1+ 18 f 0.293(4) 0.778(4) 0.0441(13) 0.040(6) 1 0
+H5 H1+ 18 f -0.211(3) 0.510(3) -0.1489(18) 0.040(6) 1 0
+H6 H1+ 18 f -0.102(3) 0.5753(17) -0.121(2) 0.040(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.02173(15) 0.02394(15) 0.02547(15) 0.01270(11) 0.00604(9) 0.00467(9)
+Na1 Na1+ 0.0172(7) 0.0172(7) 0.0193(12) 0.0086(4) 0. 0.
+Nb1 Nb5+ 0.01096(17) 0.01016(17) 0.00960(16) 0.00553(12) 0.00004(10)
+-0.00110(11)
+O1 O2- 0.0105(16) 0.0105(16) 0.008(2) 0.0053(8) 0. 0.
+O2 O2- 0.0128(11) 0.0134(11) 0.0117(11) 0.0074(10) -0.0016(9) -0.0010(9)
+O3 O2- 0.0202(13) 0.0174(12) 0.0171(12) 0.0108(11) -0.0001(10) -0.0032(10)
+O4 O2- 0.0119(11) 0.0139(11) 0.0109(11) 0.0054(9) -0.0011(9) -0.0005(9)
+O5 O2- 0.0273(15) 0.0376(16) 0.0134(12) 0.0226(13) 0.0000(11) -0.0012(11)
+O6 O2- 0.054(2) 0.057(2) 0.0219(14) 0.0484(18) -0.0061(14) -0.0075(14)
+O7 O2- 0.0263(15) 0.0199(14) 0.0322(15) 0.0090(12) -0.0035(12) -0.0021(12)
+#End of TTdata_391367-ICSD

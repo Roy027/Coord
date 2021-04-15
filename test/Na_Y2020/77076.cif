@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_77076-ICSD
+_database_code_ICSD 77076
+_audit_creation_date 2003-04-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic
+'Tetrasodium titanium bis(phosphate(V)) oxide - basic structure'
+_chemical_formula_structural 'Na4 Ti (P O4)2 O'
+_chemical_formula_sum 'Na4 O9 P2 Ti1'
+_chemical_name_structure_type Na4Ti(PO4)2O
+_exptl_crystal_density_diffrn 2.79
+_publ_section_title
+'Crystal structure of modulated monoclinic Na4 Ti P2 O9 phase at 293 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1995 40 611 625 KRISAJ
+loop_
+_publ_author_name
+'Bolotina, N.B.'
+'Maksimov, B.A.'
+'Petricek, V.'
+'Simonov, V.I.'
+_cell_length_a 13.331(1)
+_cell_length_b 7.541(1)
+_cell_length_c 7.049(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 144.45(2)
+_cell_angle_gamma 90.
+_cell_volume 412.01
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.073
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 2 b 0.5 0.5 0.5 1.4(2) 1. 0
+P1 P5+ 4 g 0.2399 0.2466 0.8451 0.5(2) 1. 0
+O1 O2- 2 f 0.5 0.6042 0.25 0.7(8) 1. 0
+O2 O2- 4 g 0.6524 0.6939 0.8162 0.9(6) 1. 0
+O3 O2- 4 g 0.2935 0.6428 0.2494 1.0(6) 1. 0
+O4 O2- 4 g 0.2794 0.0541 0.8692 1.5(6) 1. 0
+O5 O2- 4 g 0.0438 0.7142 0.095 1.1(6) 1. 0
+Na1 Na1+ 2 d 0.5 0 0.5 2.3(6) 1. 0
+Na2 Na1+ 2 e 0 0.51 0.75 1.5(6) 1. 0
+Na3 Na1+ 4 g 0.23 0.2207 0.3336 1.8(4) 0.76 0
+Na4 Na1+ 2 e 0 0.0194 0.75 1.8(5) 0.48 0
+#End of TTdata_77076-ICSD

@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78049-ICSD
+_database_code_ICSD 78049
+_audit_creation_date 1995-10-17
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Sodium trioxonitridotungstate'
+_chemical_formula_structural 'Na3 (W O3 N)'
+_chemical_formula_sum 'N1 Na3 O3 W1'
+_chemical_name_structure_type Enargite-Cu3AsS4
+_exptl_crystal_density_diffrn 4.07
+_publ_section_title
+'The synthesis and structural characterization of Na3 W O3 N'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1994 108 73 79 JSSCBI
+loop_
+_publ_author_name
+'Elder, S.H.'
+'DiSalvo, F.J.'
+'Parise, J.B.'
+'Hriljac, J.A.'
+'Richardson, J.W.jr.'
+_cell_length_a 7.2481(3)
+_cell_length_b 6.2728(3)
+_cell_length_c 5.6493(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 256.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.0286
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 2 a 0 0.828(1) 0 0.022(1) 1. 0
+Na1 Na1+ 2 a 0.5 0.842(1) 0.9800(8) 0.035(2) 1. 0
+Na2 Na1+ 4 b 0.2456(4) 0.3326(7) 0.9758(7) 0.029(1) 1. 0
+O1 O2- 2 a 0 0.1021(3) 0.8960(7) 0.032(1) 0.75 0
+N1 N3- 2 a 0 0.1021(3) 0.8960(7) 0.032(1) 0.25 0
+O2 O2- 2 a 0.5 0.1752(6) 0.8139(6) 0.036(1) 0.75 0
+N2 N3- 2 a 0.5 0.1752(6) 0.8139(6) 0.036(1) 0.25 0
+O3 O2- 4 b 0.2054(2) 0.6919(2) 0.8988(5) 0.022(1) 0.75 0
+N3 N3- 4 b 0.2054(2) 0.6919(2) 0.8988(5) 0.022(1) 0.25 0
+#End of TTdata_78049-ICSD

@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_256032-ICSD
+_database_code_ICSD 256032
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Sodium pentafluoridotitanate(IV) hydrogenfluoride'
+_chemical_formula_structural 'Na (Ti F5) (H F)'
+_chemical_formula_sum 'H1 F6 Na1 Ti1'
+_exptl_crystal_density_diffrn 2.46
+_cell_measurement_temperature 200.
+_publ_section_title
+'Increasing structural dimensionality of alkali metal fluoridotitanates(IV)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 1976 1987 INOCAJ
+loop_
+_publ_author_name
+'Shlyapnikov, Igor M.'
+'Goreshnik, Evgeny A.'
+'Mazej, Zoran'
+_cell_length_a 15.1768(9)
+_cell_length_b 6.4171(3)
+_cell_length_c 10.8580(7)
+_cell_angle_alpha 90
+_cell_angle_beta 108.266(2)
+_cell_angle_gamma 90
+_cell_volume 1004.18
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0415
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+Na1+ 1
+F1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 8 f 0.90215(3) 0.52982(8) 0.33239(5) 0.0159(3) 1 0
+Na1 Na1+ 4 e 1 -0.0079(3) 0.25 0.0237(4) 1 0
+Na2 Na1+ 4 c 0.75 0.75 0 0.0236(4) 1 0
+F1 F1- 8 f 1.11709(16) -0.0282(3) 0.4575(2) 0.0316(5) 1 0
+F2 F1- 8 f 0.92190(15) 0.2607(3) 0.3049(2) 0.0312(5) 1 0
+F3 F1- 4 b 1 0.5 0.5 0.0359(8) 1 0
+F4 F1- 8 f 0.81832(17) 0.4891(3) 0.4122(2) 0.0361(6) 1 0
+F5 F1- 8 f 0.91280(13) 0.8181(3) 0.36873(19) 0.0273(5) 1 0
+F6 F1- 8 f 0.81777(16) 0.5738(4) 0.1793(2) 0.0415(6) 1 0
+F7 F1- 4 e 1 0.5989(4) 0.25 0.0301(6) 1 0
+H1 H1+ 8 f 1.1088 0.053 0.5254 0.036 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti1 Ti4+ 0.0193(4) 0.0138(3) 0.0158(3) 0.00062(16) 0.0073(2) 0.00202(16)
+Na1 Na1+ 0.0299(10) 0.0178(8) 0.0256(9) 0 0.0119(8) 0
+Na2 Na1+ 0.0270(9) 0.0231(9) 0.0221(8) 0.0066(7) 0.0095(7) 0.0017(7)
+F1 F1- 0.0347(11) 0.0339(11) 0.0275(10) 0.0046(8) 0.0116(9) -0.0068(8)
+F2 F1- 0.0440(11) 0.0145(9) 0.0408(11) -0.0005(8) 0.0216(9) -0.0016(8)
+F3 F1- 0.0350(17) 0.0394(16) 0.0239(14) -0.0018(12) -0.0044(13) 0.0056(11)
+F4 F1- 0.0369(13) 0.0326(11) 0.0512(14) -0.0008(8) 0.0316(11) 0.0072(9)
+F5 F1- 0.0377(11) 0.0148(9) 0.0361(10) 0.0000(7) 0.0213(8) -0.0023(7)
+F6 F1- 0.0435(13) 0.0442(13) 0.0262(10) 0.0000(10) -0.0043(9) 0.0105(9)
+F7 F1- 0.0406(16) 0.0198(13) 0.0424(15) 0 0.0310(13) 0
+#End of TTdata_256032-ICSD

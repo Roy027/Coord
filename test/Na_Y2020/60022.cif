@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60022-ICSD
+_database_code_ICSD 60022
+_audit_creation_date 1986-04-14
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium thiosulfate(VI) - alpha'
+_chemical_formula_structural 'Na2 (S2 O3)'
+_chemical_formula_sum 'Na2 O3 S2'
+_chemical_name_structure_type Na2S2O3
+_exptl_crystal_density_diffrn 2.41
+_cell_measurement_temperature 120.
+_publ_section_title 'Refinement of sodium thiosulfate, Na2 S2 O3 at 120 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1984 40 1785 1787 ACSCEE
+loop_
+_publ_author_name
+'Teng, S.T.'
+'Fuess, H.'
+'Bats, J.W.'
+_cell_length_a 6.401(1)
+_cell_length_b 8.100(2)
+_cell_length_c 8.474(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.88(2)
+_cell_angle_gamma 90.
+_cell_volume 436.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S2- -2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.29706(6) 0.62396(4) 0.08575(4) . 1. 0
+Na2 Na1+ 4 e 0.37673(5) 0.30411(4) 0.45416(4) . 1. 0
+S1 S2- 4 e 0.52324(3) 0.10651(2) 0.21126(2) . 1. 0
+S2 S6+ 4 e 0.29660(3) -.04671(2) 0.26607(2) . 1. 0
+O1 O2- 4 e 0.17577(9) 0.03720(7) 0.38049(6) . 1. 0
+O2 O2- 4 e 0.38604(9) -.20144(7) 0.33624(6) . 1. 0
+O3 O2- 4 e 0.16248(9) -.08546(7) 0.11608(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0094(1) 0.0126(1) 0.0122(1) 0.0001(1) 0.0010(1) -0.0033(1)
+Na2 Na1+ 0.0090(1) 0.0115(1) 0.0084(1) 0.0009(1) 0.00080(9) -0.00166(9)
+S1 S2- 0.00872(7) 0.01050(7) 0.00778(6) -0.00286(5) 0.00164(5) -0.00089(5)
+S2 S6+ 0.00605(6) 0.00654(6) 0.00523(5) 0.00048(5) 0.00066(4) 0.00012(4)
+O1 O2- 0.0121(2) 0.0098(2) 0.0102(2) 0.0022(2) 0.0058(2) -0.0003(2)
+O2 O2- 0.0104(2) 0.0079(2) 0.0102(2) 0.0025(2) -0.0002(2) 0.0016(1)
+O3 O2- 0.0088(2) 0.0143(2) 0.0066(2) -0.0027(2) -0.0017(1) 0.0012(2)
+#End of TTdata_60022-ICSD

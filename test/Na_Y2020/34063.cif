@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34063-ICSD
+_database_code_ICSD 34063
+_audit_creation_date 1980-01-01
+_audit_update_record 1984-11-02
+_chemical_name_systematic 'Sodium calcium aluminium disilicate'
+_chemical_formula_structural 'Na Ca Al Si2 O7'
+_chemical_formula_sum 'Al1 Ca1 Na1 O7 Si2'
+_chemical_name_structure_type Melilite-Ca2MgSi2O7
+_exptl_crystal_density_diffrn 2.91
+_publ_section_title
+
+;
+Synthese und roentgenographische Untersuchung der beiden mit den Mililithen
+isotypen Silikate (Na Ca) Al (Si2 O7) und (Na Ca) Ga (Si2 O)7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Anzeiger der Oesterreichischen Akademie der Wissenschaften,
+Mathematisch-Naturwissenschaftliche Klasse
+; 1968 105 361 364 OSAWA8
+loop_
+_publ_author_name
+'Schichl, H.'
+'Raaz, F.'
+_cell_length_a 7.636(4)
+_cell_length_b 7.636(4)
+_cell_length_c 5.046(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 294.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 m'
+_symmetry_Int_Tables_number 113
+_refine_ls_R_factor_all 0.0478
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y, -x, -z'
+3 'y+1/2, x+1/2, z'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Si4+ 4
+Ca2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 2 a 0 0 0 1.01 1. 0
+Si1 Si4+ 4 e 0.3574(5) 0.8574(5) 0.9535(5) 1.13 1. 0
+Ca1 Ca2+ 4 e 0.1625(7) 0.6625(7) 0.5111(8) 1.19 0.5 0
+Na1 Na1+ 4 e 0.1625(7) 0.6625(7) 0.5111(8) 1.19 0.5 0
+O1 O2- 2 c 0 0.5 0.1761(20) 1.24 1. 0
+O2 O2- 4 e 0.3568(14) 0.8568(14) 0.2659(14) 1.45 1. 0
+O3 O2- 8 f 0.0853(6) 0.1729(6) 0.1839(13) 1.56 1. 0
+#End of TTdata_34063-ICSD

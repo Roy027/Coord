@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94459-ICSD
+_database_code_ICSD 94459
+_audit_creation_date 2003-10-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Sodium phyllo-undecafluorotitano(II)dihafnate'
+_chemical_formula_structural 'Na (Ti Hf2 F11)'
+_chemical_formula_sum 'F11 Hf2 Na1 Ti1'
+_exptl_crystal_density_diffrn 5.07
+_publ_section_title 'Neue Fluorozirconate und -hafnate mit V(2+) und Ti(2+)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2001
+627 2344 2350 ZAACAB
+loop_
+_publ_author_name
+'Schmidt, R.'
+'Kraus, M.'
+'Mueller, B.G.'
+_cell_length_a 9.177(5)
+_cell_length_b 6.857(5)
+_cell_length_c 7.524(5)
+_cell_angle_alpha 90
+_cell_angle_beta 118.28(6)
+_cell_angle_gamma 90
+_cell_volume 416.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0435
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti2+ 2
+Hf4+ 4
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0 . 1. 0
+Ti1 Ti2+ 2 c 0 0 0.5 . 1. 0
+Hf1 Hf4+ 4 i 0.49778(7) 0 0.23870(9) . 1. 0
+F1 F1- 4 i 0.3601(19) 0 0.4189(19) . 0.5 0
+F2 F1- 4 g 0 0.3336(11) 0 . 1. 0
+F3 F1- 4 i 0.2486(11) 0 0.6530(13) . 1. 0
+F4 F1- 4 i 0.2633(14) 0 0.0708(18) . 1. 0
+F5 F1- 8 j 0.00916(76) 0.20860(76) 0.31347(86) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.04428(615) 0.01262(367) 0.08367(780) 0. 0.02879(579) 0.
+Ti1 Ti2+ 0.01329(105) 0.01444(106) 0.01740(98) 0. 0.00895(84) 0.
+Hf1 Hf4+ 0.01742(21) 0.01156(19) 0.03998(29) 0. 0.01890(19) 0.
+F1 F1- 0.02276(647) 0.02055(624) 0.01785(526) 0. 0.01249(481) 0.
+F2 F1- 0.05383(570) 0.01040(286) 0.05187(466) 0. 0.04412(457) 0.
+F3 F1- 0.02258(371) 0.04030(491) 0.02785(352) 0. 0.00868(289) 0.
+F4 F1- 0.02976(506) 0.03851(607) 0.05933(633) 0. -0.00702(486) 0.
+F5 F1- 0.03095(277) 0.01246(201) 0.03353(237) 0.00169(210) 0.01684(214)
+0.00002(182)
+#End of TTdata_94459-ICSD

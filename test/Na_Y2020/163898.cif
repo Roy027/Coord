@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_163898-ICSD
+_database_code_ICSD 163898
+_audit_creation_date 2009-08-01
+_chemical_name_systematic
+'Sodium magnesium aluminium silicon catena-disilicate (0.99/0.17/0.70/0.14/1)'
+_chemical_formula_structural '(Mg0.16 Al0.70 Si0.14) (Na0.99 Mg0.01) (Si2 O6)'
+_chemical_formula_sum 'Al0.7 Mg0.17 Na0.99 O6 Si2.14'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Unnamed_Clinopyroxene
+_exptl_crystal_density_diffrn 3.32
+_publ_section_title
+
+;
+X-ray diffraction and Raman spectroscopic study of clinopyroxenes with
+six-coordinated Si in the Na (Mg0.5 Si0.5) Si2 O6 - Na Al Si2 O6 system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2009 94 942 949 AMMIAY
+loop_
+_publ_author_name
+'Yang He Xiong'
+'Konzett, J.'
+'Frost, D.J.'
+'Downs, R.T.'
+_cell_length_a 9.4373(4)
+_cell_length_b 8.5804(3)
+_cell_length_c 5.2348(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.647(3)
+_cell_angle_gamma 90.
+_cell_volume 403.94
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.019
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.2998(1) 0.25 0.0126(2) 0.99 0
+Mg1 Mg2+ 4 e 0 0.2998(1) 0.25 0.0126(2) 0.01 0
+Mg2 Mg2+ 4 e 0 0.9056(1) 0.25 0.0047(3) 0.16 0
+Al1 Al3+ 4 e 0 0.9056(1) 0.25 0.0047(3) 0.7 0
+Si1 Si4+ 4 e 0 0.9056(1) 0.25 0.0047(3) 0.14 0
+Si2 Si4+ 8 f 0.2905(1) 0.0930(1) 0.2291(1) 0.0057(1) 1. 0
+O1 O2- 8 f 0.1094(1) 0.0764(1) 0.1289(2) 0.0097(2) 1. 0
+O2 O2- 8 f 0.3609(1) 0.2628(1) 0.2953(2) 0.0104(2) 1. 0
+O3 O2- 8 f 0.3536(1) 0.0074(1) 0.0074(2) 0.0090(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0158(4) 0.0087(3) 0.0102(4) 0. -0.0010(2) 0.
+Mg1 Mg2+ 0.0158(4) 0.0087(3) 0.0102(4) 0. -0.0010(2) 0.
+Mg2 Mg2+ 0.0045(3) 0.0050(3) 0.0044(3) 0. 0.0009(2) 0.
+Al1 Al3+ 0.0045(3) 0.0050(3) 0.0044(3) 0. 0.0009(2) 0.
+Si1 Si4+ 0.0045(3) 0.0050(3) 0.0044(3) 0. 0.0009(2) 0.
+Si2 Si4+ 0.0051(1) 0.0065(1) 0.0054(2) -0.0002(1) 0.0013(1) -0.0004(1)
+O1 O2- 0.0052(3) 0.0120(3) 0.0112(4) 0.0002(2) 0.0015(3) -0.0022(3)
+O2 O2- 0.0126(3) 0.0074(3) 0.0108(3) -0.0019(2) 0.0030(3) -0.0006(2)
+O3 O2- 0.0080(3) 0.0119(3) 0.0071(3) 0.0009(2) 0.0025(3) -0.0025(2)
+#End of TTdata_163898-ICSD

@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37142-ICSD
+_database_code_ICSD 37142
+_audit_creation_date 1983-12-31
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Disodium hydrogenphosphate(V)'
+_chemical_formula_structural 'Na2 (H P O4)'
+_chemical_formula_sum 'H1 Na2 O4 P1'
+_chemical_name_mineral Nahpoite
+_exptl_crystal_density_diffrn 2.58
+_publ_section_title 'Kristallstruktur von wasserfreiem Na2 H P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1983
+501 95 101 ZAACAB
+loop_
+_publ_author_name
+'Wiench, D.M.'
+'Jansen, M.'
+_cell_length_a 5.451(1)
+_cell_length_b 6.847(2)
+_cell_length_c 5.473(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.34(1)
+_cell_angle_gamma 90.
+_cell_volume 183.06
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.09
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0 . 1. 0
+Na2 Na1+ 2 e 0.3876(15) 0.25 0.7757(16) . 1. 0
+P1 P5+ 2 e 0.6623(8) 0.25 0.3822(8) . 1. 0
+O1 O2- 2 e 0.3525(22) 0.25 0.2144(23) . 1. 0
+O2 O2- 2 e 0.7701(20) 0.25 0.6875(19) . 1. 0
+O3 O2- 4 f 0.7842(16) 0.4337(12) 0.3001(16) . 1. 0
+H1 H1+ 4 f 0.6496(54) 0.4612(54) 0.1081(41) 0.0295(56) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0262(28) 0.0095(24) 0.0148(24) 0.0096(22) 0.0114(23) 0.0114(21)
+Na2 Na1+ 0.0335(34) 0.0299(32) 0.0406(35) 0 0.0194(29) 0
+P1 P5+ 0.0111(16) 0.0056(14) 0.0077(15) 0 0.0046(13) 0
+O1 O2- 0.0228(41) 0.0105(38) 0.0288(42) 0 -.0031(37) 0
+O2 O2- 0.0227(40) 0.0070(35) 0.0100(35) 0 0.0039(33) 0
+O3 O2- 0.0300(34) 0.0138(30) 0.0191(29) -.0006(28) 0.0132(27) 0.0081(27)
+#End of TTdata_37142-ICSD

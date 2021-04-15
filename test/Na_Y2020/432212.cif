@@ -1,0 +1,132 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432212-ICSD
+_database_code_ICSD 432212
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Heptasodium hexasulfidoferrate(II)ferrate(III)'
+_chemical_formula_structural 'Na7 (Fe2 S6)'
+_chemical_formula_sum 'Fe2 Na7 S6'
+_chemical_name_structure_type Tl4ZrS4
+_exptl_crystal_density_diffrn 2.44
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Na7[Fe2S6], Na2[FeS2] and Na2[FeSe2]. New 'reduced' sodium chalcogenido
+ferrates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2018 258 416 430 JSSCBI
+loop_
+_publ_author_name
+'Stueble, Pirmin'
+'Peschke, Simon'
+'Johrendt, Dirk'
+'Roehr, Caroline'
+_cell_length_a 7.6415(2)
+_cell_length_b 11.5370(2)
+_cell_length_c 12.7258(3)
+_cell_angle_alpha 62.3325(7)
+_cell_angle_beta 72.8345(8)
+_cell_angle_gamma 84.6394(8)
+_cell_volume 948.1
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0185
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe2+ 2.5
+S2- -2
+Fe2+ 2.5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0. 0. 0. 0.01414(11) 1 0
+Na2 Na1+ 2 i 0.36932(6) 0.47142(4) 0.65078(4) 0.01068(7) 1 0
+Na3 Na1+ 2 i 0.42788(6) 0.15536(4) 0.94341(4) 0.01008(7) 1 0
+Na4 Na1+ 2 i 0.72313(5) 0.26828(4) 0.02276(4) 0.01034(7) 1 0
+Na5 Na1+ 2 i 0.36912(6) 0.79209(4) 0.34869(4) 0.01082(7) 1 0
+Na6 Na1+ 2 i 0.06308(6) 0.47059(4) 0.20289(4) 0.00979(7) 1 0
+Na7 Na1+ 2 i 0.01316(6) 0.25791(4) 0.72318(4) 0.01083(7) 1 0
+Na8 Na1+ 2 i 0.37925(6) 0.48577(4) 0.89012(4) 0.01202(7) 1 0
+Na9 Na1+ 2 i 0.00185(6) 0.83244(4) 0.58585(4) 0.01249(7) 1 0
+Na10 Na1+ 2 i 0.27439(6) 0.01010(4) 0.66760(4) 0.01308(7) 1 0
+Na11 Na1+ 2 i 0.49896(7) 0.21327(5) 0.38384(5) 0.02016(10) 1 0
+Fe1 Fe2+ 2 i 0.18419(2) 0.48188(2) 0.43653(2) 0.00608(2) 1 0
+S1 S2- 2 i -0.09032(3) 0.38999(2) 0.45880(2) 0.00736(3) 1 0
+S2 S2- 2 i 0.35407(3) 0.31822(2) 0.53801(2) 0.00804(3) 1 0
+S3 S2- 2 i 0.33171(3) 0.61960(2) 0.23228(2) 0.00768(3) 1 0
+Fe2 Fe2+ 2 i 0.33930(2) 0.08441(2) 0.23007(2) 0.00606(2) 1 0
+Fe3 Fe2+ 2 i 0.08333(2) 0.23225(2) 0.10935(2) 0.00625(2) 1 0
+S4 S2- 2 i 0.09906(3) 0.00310(2) 0.20276(2) 0.00814(4) 1 0
+S5 S2- 2 i 0.33625(3) 0.31314(2) 0.13557(2) 0.00745(3) 1 0
+S6 S2- 2 i 0.60228(3) 0.01678(2) 0.13695(2) 0.00752(3) 1 0
+S7 S2- 2 i 0.30234(3) -0.00026(2) 0.43695(2) 0.00795(3) 1 0
+S8 S2- 2 i 0.82229(3) 0.29529(2) 0.20860(2) 0.00793(3) 1 0
+S9 S2- 2 i 0.11260(3) 0.29902(2) 0.90333(2) 0.00786(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0160(3) 0.0161(3) 0.0120(2) 0.0013(2) -0.0058(2) -0.0068(2)
+Na2 Na1+ 0.01009(16) 0.01248(17) 0.01060(16) 0.00037(13) -0.00367(13)
+-0.00576(14)
+Na3 Na1+ 0.01141(16) 0.00956(16) 0.01028(16) 0.00119(12) -0.00384(13)
+-0.00504(13)
+Na4 Na1+ 0.00974(16) 0.00985(17) 0.01075(16) -0.00102(12) -0.00254(13)
+-0.00412(14)
+Na5 Na1+ 0.01088(16) 0.00877(17) 0.01123(16) -0.00051(13) -0.00288(14)
+-0.00328(14)
+Na6 Na1+ 0.01048(16) 0.00842(16) 0.00994(16) 0.00061(12) -0.00196(13)
+-0.00438(13)
+Na7 Na1+ 0.01109(16) 0.00988(17) 0.01086(16) -0.00021(13) -0.00203(14)
+-0.00475(14)
+Na8 Na1+ 0.01543(18) 0.01069(17) 0.00963(16) 0.00415(13) -0.00431(14)
+-0.00460(14)
+Na9 Na1+ 0.01183(17) 0.00902(17) 0.01402(18) 0.00093(13) -0.00202(14)
+-0.00425(14)
+Na10 Na1+ 0.01218(17) 0.0177(2) 0.01092(17) 0.00150(14) -0.00395(14)
+-0.00752(15)
+Na11 Na1+ 0.0185(2) 0.0184(2) 0.0218(2) -0.00927(16) 0.00916(17) -0.01479(18)
+Fe1 Fe2+ 0.00617(5) 0.00584(5) 0.00580(5) 0.00027(4) -0.00156(4) -0.00242(4)
+S1 S2- 0.00712(8) 0.00751(8) 0.00795(8) -0.00049(6) -0.00126(6) -0.00432(7)
+S2 S2- 0.00817(8) 0.00782(8) 0.00842(8) 0.00210(6) -0.00311(7) -0.00382(7)
+S3 S2- 0.00761(8) 0.00780(8) 0.00640(8) -0.00056(6) -0.00093(6) -0.00272(7)
+Fe2 Fe2+ 0.00655(5) 0.00581(5) 0.00572(5) 0.00045(4) -0.00174(4) -0.00260(4)
+Fe3 Fe2+ 0.00623(5) 0.00645(5) 0.00605(5) 0.00036(4) -0.00168(4) -0.00292(4)
+S4 S2- 0.00842(8) 0.00643(8) 0.00983(8) -0.00017(6) -0.00370(7) -0.00321(7)
+S5 S2- 0.00762(8) 0.00607(8) 0.00872(8) 0.00040(6) -0.00280(6) -0.00318(7)
+S6 S2- 0.00753(8) 0.00757(8) 0.00793(8) 0.00074(6) -0.00183(6) -0.00421(7)
+S7 S2- 0.00942(8) 0.00781(8) 0.00613(7) -0.00016(6) -0.00218(6) -0.00272(7)
+S8 S2- 0.00676(8) 0.00879(8) 0.00834(8) 0.00063(6) -0.00151(6) -0.00445(7)
+S9 S2- 0.00836(8) 0.00860(8) 0.00643(8) 0.00097(6) -0.00252(6) -0.00314(7)
+#End of TTdata_432212-ICSD

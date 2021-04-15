@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89653-ICSD
+_database_code_ICSD 89653
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Disodium manganese(III) fluoride'
+_chemical_formula_structural 'Na2 Mn F5'
+_chemical_formula_sum 'F5 Mn1 Na2'
+_chemical_name_structure_type Ca2UO5
+_exptl_crystal_density_diffrn 3.27
+_cell_measurement_pressure 23400000.
+_publ_section_title
+
+;
+Single crystal X-ray diffraction studies of Na2 Mn F5 at high hydrostatic
+pressures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1999 214 259 263 ZEKRDZ
+loop_
+_publ_author_name
+'Carlson, S.'
+'Xu, Y.'
+'Norrestam, R.'
+_cell_length_a 7.615(3)
+_cell_length_b 5.152(2)
+_cell_length_c 10.741(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.29(6)
+_cell_angle_gamma 90.
+_cell_volume 397.74
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.084
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn3+ 3
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn3+ 2 a 0 0 0 0.0134(10) 1. 0
+Mn2 Mn3+ 2 b 0.5 0 0 0.0126(10) 1. 0
+Na1 Na1+ 4 e 0.151(2) -.0129(2) 0.362(2) 0.0269(18) 1. 0
+Na2 Na1+ 4 e 0.3428(17) 0.4301(13) 0.182(2) 0.0220(18) 1. 0
+F1 F1- 4 e 0.056(3) 0.1556(18) 0.172(3) 0.022(3) 1. 0
+F2 F1- 4 e 0.883(3) 0.3002(18) -.081(3) 0.023(3) 1. 0
+F3 F1- 4 e 0.259(3) 0.1611(17) 0.013(3) 0.014(2) 1. 0
+F4 F1- 4 e 0.621(3) 0.2106(17) 0.143(3) 0.019(3) 1. 0
+F5 F1- 4 e 0.500(2) 0.2575(17) 0.884(3) 0.019(3) 1. 0
+#End of TTdata_89653-ICSD

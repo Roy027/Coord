@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15619-ICSD
+_database_code_ICSD 15619
+_audit_creation_date 1981-12-31
+_audit_update_record 2009-08-01
+_chemical_name_systematic 'Magnesium disodium silicate'
+_chemical_formula_structural 'Mg Na2 (Si O4)'
+_chemical_formula_sum 'Mg1 Na2 O4 Si1'
+_chemical_name_structure_type Li2BeSiO4
+_exptl_crystal_density_diffrn 2.66
+_publ_section_title
+
+;
+Structure of magnesium disodium silicate Na2 Mg Si O4 and ionic conductivity
+in tetrahedral structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1981 37 1483 1491 ACBCAR
+loop_
+_publ_author_name
+'Baur, W.H.'
+'Ohta, T.'
+'Shannon, R.D.'
+_cell_length_a 7.015(2)
+_cell_length_b 5.484
+_cell_length_c 5.260(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.97(1)
+_cell_angle_gamma 90.
+_cell_volume 202.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 n 1'
+_symmetry_Int_Tables_number 7
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Mg2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 2 a 0.24768(5) 0.68748(4) 0.00561(7) . 1. 0
+Mg1 Mg2+ 2 a 0 0.18612(6) 0 . 1. 0
+Na1 Na1+ 2 a 0.7499(1) 0.6718(1) 0.98468(13) . 1. 0
+Na2 Na1+ 2 a 0.49469(9) 0.18565(9) 0.98922(14) . 1. 0
+O1 O2- 2 a 0.71678(11) 0.60026(12) 0.43548(17) . 1. 0
+O2 O2- 2 a 0.27791(11) 0.71452(15) 0.31204(15) . 1. 0
+O3 O2- 2 a 0.55832(11) 0.15553(14) 0.42645(17) . 1. 0
+O4 O2- 2 a 0.93827(12) 0.21182(14) 0.36245(16) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0067(1) 0.0066(1) 0.0054(1) -.0003(1) -.0002(2) -.0001(1)
+Mg1 Mg2+ 0.0081(1) 0.0082(1) 0.0074(1) 0.0003(1) -.0002(2) -.0002(1)
+Na1 Na1+ 0.0138(2) 0.0164(2) 0.0158(2) 0.0001(2) -.0007(3) -.0012(2)
+Na2 Na1+ 0.0117(2) 0.0142(2) 0.0144(2) 0.0007(1) -.0002(3) -.0002(2)
+O1 O2- 0.0100(2) 0.0070(2) 0.0145(3) 0.0010(2) 0.0003(2) 0.0011(2)
+O2 O2- 0.0109(2) 0.0173(3) 0.0053(2) -.0017(2) -.0003(2) -.0007(2)
+O3 O2- 0.0102(2) 0.0088(2) 0.0125(3) -.0026(2) -.0023(2) 0.0011(2)
+O4 O2- 0.0105(2) 0.0133(2) 0.0087(2) 0.0031(2) 0.0023(2) 0.0000(2)
+#End of TTdata_15619-ICSD

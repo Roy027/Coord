@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280291-ICSD
+_database_code_ICSD 280291
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium disulfato(VI)hexahydroxotrivanadate'
+_chemical_formula_structural 'Na (V3 (S O4)2 (O H)6)'
+_chemical_formula_sum 'H6 Na1 O14 S2 V3'
+_chemical_name_structure_type KAl3(SO4)2(OH)6
+_exptl_crystal_density_diffrn 3.02
+_publ_section_title 'Sodium trivanadium(III) bis(sulfate) hexahydroxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2000 56 1294 1295 ACSCEE
+loop_
+_publ_author_name
+'Dobley, A.'
+'Zavalii, P.Yu.'
+'Whittingham, M.S.'
+_cell_length_a 7.2821(6)
+_cell_length_b 7.2821(6)
+_cell_length_c 16.8890(20)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 775.62
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.0271
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+V3+ 3
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 3 a 0 0 0 . 1. 0
+V1 V3+ 9 d 0.8333 0.1667 0.1667 . 1. 0
+S1 S6+ 6 c 0.6667 0.3333 0.02351(7) . 1. 0
+O1 O2- 18 h 1.12675(18) 0.2535(4) 0.13318(13) . 1. 0
+O2 O2- 18 h 0.77717(17) 0.22283(17) 0.05270(12) . 1. 0
+O3 O2- 6 c 0.6667 0.3333 -.0627(2) . 1. 0
+H1 H1+ 18 h 1.167(3) 0.334(6) 0.114(3) 0.015 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.094(3) 0.094(3) 0.027(2) 0.0469(16) 0 0
+V1 V3+ 0.0076(3) 0.0076(3) 0.0102(4) 0.0046(3) -.00007(12) 0.00007(12)
+S1 S6+ 0.0084(4) 0.0084(4) 0.0061(5) 0.00418(19) 0 0
+O1 O2- 0.0086(7) 0.0101(11) 0.0168(10) 0.0050(6) 0.0030(4) 0.0060(9)
+O2 O2- 0.0170(8) 0.0170(8) 0.0109(9) 0.0127(9) -.0006(4) 0.0006(4)
+O3 O2- 0.0153(11) 0.0153(11) 0.0057(15) 0.0077(6) 0 0
+#End of TTdata_280291-ICSD

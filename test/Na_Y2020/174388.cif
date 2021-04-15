@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_174388-ICSD
+_database_code_ICSD 174388
+_audit_creation_date 2011-02-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Sodium lanthanum magnesium tellurium hexaoxide'
+_chemical_formula_structural 'Na La Mg Te O6'
+_chemical_formula_sum 'La1 Mg1 Na1 O6 Te1'
+_chemical_name_structure_type NaLaMgWO6
+_exptl_crystal_density_diffrn 5.59
+_publ_section_title
+
+;
+Investigations into structure and properties of ordered perovskites, layered
+perovskites, and defect pyrochlores
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dissertation Ohio State University' 2006 2006 1 161 THOSUY
+loop_
+_publ_author_name
+'Knapp, M.C.'
+_cell_length_a 5.5679(3)
+_cell_length_b 5.5564(2)
+_cell_length_c 7.8669(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.036(6)
+_cell_angle_gamma 90
+_cell_volume 243.38
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0738
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+La3+ 3
+Na1+ 1
+La3+ 3
+Mg2+ 2
+Te6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 e 0.756(2) 0.25 0.007(2) 0.0110(6) 0.61(1) 0
+La1 La3+ 2 e 0.756(2) 0.25 0.007(2) 0.0110(6) 0.39(1) 0
+Na2 Na1+ 2 e 0.744(2) 0.25 0.493(2) 0.0110(6) 0.39(1) 0
+La2 La3+ 2 e 0.744(2) 0.25 0.493(2) 0.0110(6) 0.61(1) 0
+Mg1 Mg2+ 2 e 0.255(2) 0.25 0.251(1) 0.0071(3) 1. 0
+Te1 Te6+ 2 e 0.253(2) 0.25 0.744(1) 0.0071(3) 1. 0
+O1 O2- 2 e 0.314(1) 0.25 0.0103(8) 0.001(1) 1. 0
+O2 O2- 2 e 0.195(1) 0.25 0.4997(8) 0.011(2) 1. 0
+O3 O2- 4 f 0.521(2) 0.019(2) 0.696(1) 0.031(2) 1. 0
+O4 O2- 4 f -0.026(2) 0.014(2) 0.780(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O4 O2- 0.013(4) 0.039(4) 0.018(3) 0 0 0
+#End of TTdata_174388-ICSD

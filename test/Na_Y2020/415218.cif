@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_415218-ICSD
+_database_code_ICSD 415218
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Trisodium trithio monooxo orthovanadate(V) - alpha'
+_chemical_formula_structural 'Na3 (V S3 O)'
+_chemical_formula_sum 'Na3 O1 S3 V1'
+_chemical_name_structure_type Eu3As3TaO
+_exptl_crystal_density_diffrn 2.29
+_publ_section_title
+
+;
+Gemischte Thio/Oxo-Orthovanadate Na3[VSxO4-x] (x=2, 3): Darstellung -
+Strukturen - Eigenschaften
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+2005 60 479 490 ZNBSEN
+loop_
+_publ_author_name
+'Schnabel, S.'
+'Roehr, C.'
+_cell_length_a 5.895(3)
+_cell_length_b 9.628(5)
+_cell_length_c 11.866(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 673.48
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0634
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+S2- -2
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 4 c 0.34266(14) 0.25 0.45271(7) 0.0170(3) 1 0
+S1 S2- 4 c 0.2457(2) 0.25 0.63080(11) 0.0228(4) 1 0
+S2 S2- 8 d 0.22871(17) 0.06100(12) 0.37371(9) 0.0265(3) 1 0
+O1 O2- 4 c 0.1246(6) 0.25 0.0519(3) 0.0206(8) 1 0
+Na1 Na1+ 8 d 0.2509(3) 0.04460(19) 0.13030(15) 0.0326(5) 1 0
+Na2 Na1+ 4 c 0.2608(4) 0.25 0.86763(19) 0.0301(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V5+ 0.0163(5) 0.0163(5) 0.0185(5) 0. 0.0006(3) 0.
+S1 S2- 0.0280(8) 0.0235(8) 0.0170(7) 0. 0.0048(5) 0.
+S2 S2- 0.0273(5) 0.0250(6) 0.0272(6) -0.0044(4) -0.0014(4) -0.0062(4)
+O1 O2- 0.0137(17) 0.025(2) 0.0227(19) 0. -0.0023(14) 0.
+Na1 Na1+ 0.0360(10) 0.0251(11) 0.0367(11) 0.0036(7) -0.0041(8) 0.0069(8)
+Na2 Na1+ 0.0325(13) 0.0368(16) 0.0211(13) 0. 0.0038(10) 0.
+#End of TTdata_415218-ICSD

@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56292-ICSD
+_database_code_ICSD 56292
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium iron phosphate(V)'
+_chemical_formula_structural 'Na Fe (P O4)'
+_chemical_formula_sum 'Fe1 Na1 O4 P1'
+_chemical_name_structure_type Olivine-Mg2SiO4
+_chemical_name_mineral Maricite
+_exptl_crystal_density_diffrn 3.69
+_publ_section_title
+'Electron densitiy distribution and chemical bond in maricite Na Fe P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Vestnik Moskovskogo Universiteta, Seriya 4: Geologiya' 1992 47 46 56
+VMUGAR
+loop_
+_publ_author_name
+'Yakubovich, O.V.'
+'Belokoneva, E.L.'
+'Tsirel'son, V.G. (Tsirelson, V.G.)'
+'Urusov, V.S.'
+_cell_length_a 9.001(8)
+_cell_length_b 6.874(3)
+_cell_length_c 5.052(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 312.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 a 0 0 0 . 1. 0
+P1 P5+ 4 c 0.17585(4) 0.25 0.46447(8) . 1. 0
+Na1 Na1+ 4 c 0.34999(9) 0.25 0.9702(2) . 1. 0
+O1 O2- 8 d 0.1212(1) 0.0682(1) 0.3177(2) . 1. 0
+O2 O2- 4 c 0.3486(1) 0.25 0.4561(2) . 1. 0
+O3 O2- 4 c 0.1154(1) 0.25 0.7507(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Fe1 Fe2+ 0.57(1) 0.65(1) 0.61(1) 0.16(1) -.29(1) -.23(1)
+P1 P5+ 0.33(1) 0.46(1) 0.32(1) 0 -.03(1) 0
+Na1 Na1+ 0.97(2) 1.16(2) 0.77(20) 0 -.03(2) 0
+O1 O2- 0.95(1) 0.70(1) 0.78(2) -.16(1) -.31(1) -.13(1)
+O2 O2- 0.34(2) 0.73(2) 0.75(2) 0 0.00(2) 0
+O3 O2- 0.69(2) 0.47(2) 0.47(2) 0 0.14(2) 0
+#End of TTdata_56292-ICSD

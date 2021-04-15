@@ -1,0 +1,175 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_91531-ICSD
+_database_code_ICSD 91531
+_audit_creation_date 2002-10-01
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Sodium tellurium tecto-alumosilicate *'
+_chemical_formula_structural 'Na36 Te38.1 (Al96 Si96 O384)'
+_chemical_formula_sum 'Al96 Na36 O384 Si96 Te38.1'
+_chemical_name_structure_type Faujasite-Fd3--frame
+_chemical_name_mineral 'Zeolite X (Te-adsorbate)'
+_exptl_crystal_density_diffrn 1.79
+_publ_section_title
+'Structure of selenium and tellurium clusters in cavities of NaX zeolite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 2000 45 27 31 KRISAJ
+loop_
+_publ_author_name
+'Smolin, Yu.I.'
+'Shepelev, Yu.F.'
+'Lapshin, A.E.'
+'Vasil'eva, E.A. (Vasileva, E.A.)'
+_cell_length_a 25.14(1)
+_cell_length_b 25.14(1)
+_cell_length_c 25.14(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 15888.97
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'F d -3 Z'
+_symmetry_Int_Tables_number 203
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, x+3/4, y+3/4'
+2 'z+3/4, x+3/4, -y'
+3 'z+3/4, -x, y+3/4'
+4 '-z, -x, -y'
+5 'y+3/4, -z, x+3/4'
+6 '-y, z+3/4, x+3/4'
+7 'y+3/4, z+3/4, -x'
+8 '-y, -z, -x'
+9 'x+3/4, y+3/4, -z'
+10 'x+3/4, -y, z+3/4'
+11 '-x, y+3/4, z+3/4'
+12 '-x, -y, -z'
+13 'z, -x+1/4, -y+1/4'
+14 '-z+1/4, -x+1/4, y'
+15 '-z+1/4, x, -y+1/4'
+16 'z, x, y'
+17 '-y+1/4, z, -x+1/4'
+18 'y, -z+1/4, -x+1/4'
+19 '-y+1/4, -z+1/4, x'
+20 'y, z, x'
+21 '-x+1/4, -y+1/4, z'
+22 '-x+1/4, y, -z+1/4'
+23 'x, -y+1/4, -z+1/4'
+24 'x, y, z'
+25 '-z, x+1/4, y+1/4'
+26 'z+3/4, x+1/4, -y+1/2'
+27 'z+3/4, -x+1/2, y+1/4'
+28 '-z, -x+1/2, -y+1/2'
+29 'y+3/4, -z+1/2, x+1/4'
+30 '-y, z+1/4, x+1/4'
+31 'y+3/4, z+1/4, -x+1/2'
+32 '-y, -z+1/2, -x+1/2'
+33 'x+3/4, y+1/4, -z+1/2'
+34 'x+3/4, -y+1/2, z+1/4'
+35 '-x, y+1/4, z+1/4'
+36 '-x, -y+1/2, -z+1/2'
+37 'z, -x+3/4, -y+3/4'
+38 '-z+1/4, -x+3/4, y+1/2'
+39 '-z+1/4, x+1/2, -y+3/4'
+40 'z, x+1/2, y+1/2'
+41 '-y+1/4, z+1/2, -x+3/4'
+42 'y, -z+3/4, -x+3/4'
+43 '-y+1/4, -z+3/4, x+1/2'
+44 'y, z+1/2, x+1/2'
+45 '-x+1/4, -y+3/4, z+1/2'
+46 '-x+1/4, y+1/2, -z+3/4'
+47 'x, -y+3/4, -z+3/4'
+48 'x, y+1/2, z+1/2'
+49 '-z+1/2, x+3/4, y+1/4'
+50 'z+1/4, x+3/4, -y+1/2'
+51 'z+1/4, -x, y+1/4'
+52 '-z+1/2, -x, -y+1/2'
+53 'y+1/4, -z, x+1/4'
+54 '-y+1/2, z+3/4, x+1/4'
+55 'y+1/4, z+3/4, -x+1/2'
+56 '-y+1/2, -z, -x+1/2'
+57 'x+1/4, y+3/4, -z+1/2'
+58 'x+1/4, -y, z+1/4'
+59 '-x+1/2, y+3/4, z+1/4'
+60 '-x+1/2, -y, -z+1/2'
+61 'z+1/2, -x+1/4, -y+3/4'
+62 '-z+3/4, -x+1/4, y+1/2'
+63 '-z+3/4, x, -y+3/4'
+64 'z+1/2, x, y+1/2'
+65 '-y+3/4, z, -x+3/4'
+66 'y+1/2, -z+1/4, -x+3/4'
+67 '-y+3/4, -z+1/4, x+1/2'
+68 'y+1/2, z, x+1/2'
+69 '-x+3/4, -y+1/4, z+1/2'
+70 '-x+3/4, y, -z+3/4'
+71 'x+1/2, -y+1/4, -z+3/4'
+72 'x+1/2, y, z+1/2'
+73 '-z+1/2, x+1/4, y+3/4'
+74 'z+1/4, x+1/4, -y'
+75 'z+1/4, -x+1/2, y+3/4'
+76 '-z+1/2, -x+1/2, -y'
+77 'y+1/4, -z+1/2, x+3/4'
+78 '-y+1/2, z+1/4, x+3/4'
+79 'y+1/4, z+1/4, -x'
+80 '-y+1/2, -z+1/2, -x'
+81 'x+1/4, y+1/4, -z'
+82 'x+1/4, -y+1/2, z+3/4'
+83 '-x+1/2, y+1/4, z+3/4'
+84 '-x+1/2, -y+1/2, -z'
+85 'z+1/2, -x+3/4, -y+1/4'
+86 '-z+3/4, -x+3/4, y'
+87 '-z+3/4, x+1/2, -y+1/4'
+88 'z+1/2, x+1/2, y'
+89 '-y+3/4, z+1/2, -x+1/4'
+90 'y+1/2, -z+3/4, -x+1/4'
+91 '-y+3/4, -z+3/4, x'
+92 'y+1/2, z+1/2, x'
+93 '-x+3/4, -y+3/4, z'
+94 '-x+3/4, y+1/2, -z+1/4'
+95 'x+1/2, -y+3/4, -z+1/4'
+96 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Te1+ 1.574
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 96 g 0.9476(4) 0.0349(3) 0.1234(6) 0.7(2) 1. 0
+Al1 Al3+ 96 g 0.9456(4) 0.1223(6) 0.0368(4) 1.2(3) 1. 0
+O1 O2- 96 g 0.895(1) 0.999(1) 0.107(1) 2.0(6) 1. 0
+O2 O2- 96 g 0.995(1) 0.996(1) 0.144(1) 1.2(5) 1. 0
+O3 O2- 96 g 0.181(1) 0.072(2) 0.284(1) 3.0(7) 1. 0
+O4 O2- 96 g 0.929(2) 0.074(2) 0.174(2) 4.6(8) 1. 0
+Te1 Te1+ 32 e 0.079(2) 0.079(2) 0.079(2) 5.(1) 0.128(12) 0
+Te2 Te1+ 32 e 0.186(2) 0.186(2) 0.186(2) 5.(2) 0.137(19) 0
+Te3 Te1+ 96 g 0.490(2) 0.491(2) 0.386(2) 4.5(7) 0.106(7) 0
+Te4 Te1+ 32 e 0.403(2) 0.403(2) 0.403(2) 6.(2) 0.106(16) 0
+Te5 Te1+ 96 g 0.046(6) 0.067(6) 0.438(7) 9.(4) 0.042(10) 0
+Te6 Te1+ 48 f 0.125 0.125 0.817(3) 4.(1) 0.081(10) 0
+Te7 Te1+ 96 g 0.279(4) 0.026(4) 0.852(4) 6.(2) 0.052(8) 0
+Te8 Te1+ 32 e 0.436(2) 0.436(2) 0.436(2) 7.(3) 0.097(19) 0
+Na1 Na1+ 32 e 0.232(1) 0.232(1) 0.232(1) 5.3(8) 1.031(94) 0
+Na2 Na1+ 16 c 0 0 0 1.(3) 0.188(62) 0
+#End of TTdata_91531-ICSD

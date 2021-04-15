@@ -1,0 +1,69 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34072-ICSD
+_database_code_ICSD 34072
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Disodium beryllium silicate - LT'
+_chemical_formula_structural 'Na2 Be (Si O4)'
+_chemical_formula_sum 'Be1 Na2 O4 Si1'
+_chemical_name_structure_type Na2BeSiO4(LT)
+_exptl_crystal_density_diffrn 2.75
+_publ_section_title 'Kristallicheskaya struktura Na,Be-ortosilikata'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1974 218 335 338 DANKAS
+loop_
+_publ_author_name
+'Plakhov, G.F.'
+_cell_length_a 7.220(2)
+_cell_length_b 9.933(3)
+_cell_length_c 4.960(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.05(3)
+_cell_volume 355.71
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 1 21/b'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 '-x, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Be2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 4 e 0.2785 0.3423 0.1562 0.25(3) 1. 0
+Be1 Be2+ 4 e 0.501 0.087 0.157 0.53(3) 1. 0
+Na1 Na1+ 4 e 0.002 0.11 0.209 0.91(3) 1. 0
+Na2 Na1+ 4 e 0.736 0.36 0.183 0.98(3) 1. 0
+O1 O2- 4 e 0.062 0.375 0.234 0.64(3) 1. 0
+O2 O2- 4 e 0.318 0.183 0.205 0.58(3) 1. 0
+O3 O2- 4 e 0.437 0.426 0.333 0.48(3) 1. 0
+O4 O2- 4 e 0.685 0.12 0.34 0.65(3) 1. 0
+#End of TTdata_34072-ICSD

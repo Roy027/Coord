@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239626-ICSD
+_database_code_ICSD 239626
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium magnesium iron tris(molybdate(VI))'
+_chemical_formula_structural 'Na Mg Fe (Mo O4)3'
+_chemical_formula_sum 'Fe1 Mg1 Mo3 Na1 O12'
+_exptl_crystal_density_diffrn 3.79
+_cell_measurement_temperature 293.
+_publ_section_title 'Synthesis and crystal structure of Na Mg Fe (Mo O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2016 72 864 867 ACSECI
+loop_
+_publ_author_name
+'Mhiri, Manel'
+'Badri, Abdessalem'
+'Amara, Mongi Ben'
+_cell_length_a 6.900(4)
+_cell_length_b 6.9280(10)
+_cell_length_c 11.0550(10)
+_cell_angle_alpha 80.240(10)
+_cell_angle_beta 83.55(2)
+_cell_angle_gamma 80.22(3)
+_cell_volume 511.34
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+Fe3+ 3
+Mg2+ 2
+Fe3+ 3
+Mo6+ 6
+O2- -2
+Mo6+ 6
+O2- -2
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.8586(4) 0.5914(4) 0.8148(4) 0.0757(12) 1 0
+Mg1 Mg2+ 2 i 0.81520(10) 0.17030(10) 0.50854(8) 0.00851(16) 0.7558(7) 0
+Fe1 Fe3+ 2 i 0.81520(10) 0.17030(10) 0.50854(8) 0.00851(16) 0.2442(7) 0
+Mg2 Mg2+ 2 i 0.77528(8) 0.77491(8) 0.11025(5) 0.00785(12) 0.2442(7) 0
+Fe2 Fe3+ 2 i 0.77528(8) 0.77491(8) 0.11025(5) 0.00785(12) 0.7558(7) 0
+Mo1 Mo6+ 2 i 0.75910(4) 0.10066(4) 0.85110(2) 0.00799(8) 1 0
+O1 O2- 2 i 0.8166(4) 0.8508(4) 0.9264(2) 0.0125(5) 1 0
+O2 O2- 2 i 0.9297(4) 0.2547(4) 0.8737(3) 0.0146(5) 1 0
+O3 O2- 2 i 0.5170(4) 0.2053(4) 0.8938(3) 0.0158(5) 1 0
+O4 O2- 2 i 0.7784(5) 0.0889(4) 0.6953(2) 0.0185(5) 1 0
+Mo2 Mo6+ 2 i 0.70522(4) 0.28318(4) 0.18835(3) 0.00950(8) 1 0
+O5 O2- 2 i 0.4579(4) 0.3458(5) 0.2289(3) 0.0232(6) 1 0
+O6 O2- 2 i 0.7436(4) 0.0675(4) 0.1148(3) 0.0185(5) 1 0
+O7 O2- 2 i 0.8372(4) 0.2322(4) 0.3205(2) 0.0173(5) 1 0
+O8 O2- 2 i 0.8015(4) 0.4878(4) 0.0918(2) 0.0148(5) 1 0
+Mo3 Mo6+ 2 i 0.27372(4) 0.29658(4) 0.54507(2) 0.00732(8) 1 0
+O9 O2- 2 i 0.1224(4) 0.1328(4) 0.5056(2) 0.0113(4) 1 0
+O10 O2- 2 i 0.2458(5) 0.2976(4) 0.7045(2) 0.0194(5) 1 0
+O11 O2- 2 i 0.5183(4) 0.2083(4) 0.5042(3) 0.0172(5) 1 0
+O12 O2- 2 i 0.2067(4) 0.5383(4) 0.4690(3) 0.0153(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0293(12) 0.0255(11) 0.186(4) 0.0089(9) -0.0496(18) -0.0429(17)
+Mg1 Mg2+ 0.0079(4) 0.0081(4) 0.0091(4) -0.0007(3) -0.0018(3) 0.0001(3)
+Fe1 Fe3+ 0.0079(4) 0.0081(4) 0.0091(4) -0.0007(3) -0.0018(3) 0.0001(3)
+Mg2 Mg2+ 0.0080(2) 0.0073(2) 0.0079(2) -0.00174(18) -0.00177(18) 0.00103(18)
+Fe2 Fe3+ 0.0080(2) 0.0073(2) 0.0079(2) -0.00174(18) -0.00177(18) 0.00103(18)
+Mo1 Mo6+ 0.00697(13) 0.00870(13) 0.00770(13) -0.00175(9) -0.00095(9) 0.00122(9)
+O1 O2- 0.0163(12) 0.0106(11) 0.0094(11) -0.0013(9) -0.0021(9) 0.0019(8)
+O2 O2- 0.0112(11) 0.0152(12) 0.0182(12) -0.0052(9) -0.0040(9) 0.0003(10)
+O3 O2- 0.0090(11) 0.0178(12) 0.0194(13) -0.0009(9) -0.0016(9) -0.0005(10)
+O4 O2- 0.0258(14) 0.0185(13) 0.0092(11) -0.0021(11) -0.0017(10) 0.0018(10)
+Mo2 Mo6+ 0.01041(14) 0.00802(13) 0.00985(13) -0.00235(9) -0.00173(9) 0.00076(9)
+O5 O2- 0.0133(12) 0.0295(16) 0.0261(15) -0.0028(11) -0.0017(11) -0.0026(12)
+O6 O2- 0.0226(14) 0.0110(12) 0.0229(14) -0.0050(10) -0.0032(11) -0.0017(10)
+O7 O2- 0.0192(13) 0.0188(13) 0.0125(12) -0.0009(10) -0.0033(10) 0.0005(10)
+O8 O2- 0.0203(13) 0.0100(11) 0.0129(11) -0.0016(9) 0.0019(9) -0.0012(9)
+Mo3 Mo6+ 0.00771(13) 0.00787(13) 0.00674(13) -0.00290(9) -0.00105(9) -0.00015(9)
+O9 O2- 0.0093(10) 0.0089(10) 0.0167(12) -0.0027(8) -0.0026(9) -0.0027(9)
+O10 O2- 0.0266(15) 0.0239(14) 0.0088(11) -0.0081(11) -0.0019(10) -0.0010(10)
+O11 O2- 0.0107(11) 0.0198(13) 0.0212(13) -0.0025(10) -0.0018(10) -0.0025(10)
+O12 O2- 0.0189(13) 0.0086(11) 0.0179(12) -0.0027(9) -0.0027(10) 0.0008(9)
+#End of TTdata_239626-ICSD

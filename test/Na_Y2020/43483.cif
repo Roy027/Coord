@@ -1,0 +1,72 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_43483-ICSD
+_database_code_ICSD 43483
+_audit_creation_date 2000-07-15
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium nitrate(V)'
+_chemical_formula_structural 'Na (N O3)'
+_chemical_formula_sum 'N1 Na1 O3'
+_chemical_name_structure_type Calcite-CaCO3(hR10)
+_chemical_name_mineral Nitratine
+_exptl_crystal_density_diffrn 2.28
+_publ_section_title 'The "correct model" for sodium nitrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Annales Academiae Scientiarum Fennicae, Series A6: Physica' 1962 94 1
+34 AAFPA4
+loop_
+_publ_author_name
+'Elliott, N.'
+_cell_length_a 6.3108(1)
+_cell_length_b 6.3108
+_cell_length_c 6.3108
+_cell_angle_alpha 47.267
+_cell_angle_beta 47.267
+_cell_angle_gamma 47.267
+_cell_volume 124.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'R -3 c R'
+_symmetry_Int_Tables_number 167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -z+1/2, -y+1/2'
+2 '-z+1/2, -y+1/2, -x+1/2'
+3 '-y+1/2, -x+1/2, -z+1/2'
+4 'x+1/2, z+1/2, y+1/2'
+5 'z+1/2, y+1/2, x+1/2'
+6 'y+1/2, x+1/2, z+1/2'
+7 '-z, -x, -y'
+8 '-y, -z, -x'
+9 '-x, -y, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+N5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0 0 0 0.63(4) 1. 0
+N1 N5+ 2 a 0.25 0.25 0.25 0.48(6) 1. 0
+O1 O2- 6 e 0.0067(6) 0.4933 0.25 0.91(5) 1. 0
+#End of TTdata_43483-ICSD
