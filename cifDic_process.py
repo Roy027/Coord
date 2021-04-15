@@ -22,6 +22,7 @@ with open("./output/cifDic_0413.json") as json_file:
 
 headers = ['Cif','Name','Site','CN','OS', 'Period', 'Group','SDofBV','Angles']
 df = pd.DataFrame.from_records(Angle_table,columns=headers)
+# %%
 
 CN4_df = df[df['CN']==4]
 Angles = CN4_df['Angles'].tolist()
