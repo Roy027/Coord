@@ -8,13 +8,16 @@ import json
 import time
 from datetime import datetime
 
-#save_address = "../test/cifDic_20210407.npy"
+# Check the following addresses before running the script
+FileNames = 'test/Na_Y2020/*.cif'
+SaveAddress = '../test/Na_cifDic_Y2020.json'
 
 print("Start time:", datetime.now())
 
 cwd = os.getcwd()
 cwd_exe =os.path.join(cwd,'softBV0405.exe')
-all_files = glob.glob(os.path.join(cwd[:-4],'test/Combine/*.cif'))
+all_files = glob.glob(os.path.join(cwd[:-4],FileNames))
+file_num = len(all_files)
 
 # Fuction to return database_unitary dataframe
 def UnitaryDF():
@@ -143,9 +146,9 @@ uni_df = UnitaryDF()
 
 # Main process to fill cifDic
 cifDic = {}
-for cif in all_files:
+for i,cif in enumerate(all_files):
     cif_name =cif.split("\\")[-1]
-    print("Currently proccessing:", cif_name, ";  Current Time:", datetime.now())
+    print("Currently proccessing:", cif_name, " Status:", i, "/", file_num," Current Time:", datetime.now())
     cifDic[cif_name] = {}
     process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd, capture_output=True)
     stdout = str(process.stdout, "utf-8")
@@ -157,8 +160,8 @@ for cif in all_files:
     cifDic[cif_name]['Name'] = name
 print("Processing Done!")
 
-with open('../test/cifDic_0412.json', 'w') as fp:
+with open(SaveAddress, 'w') as fp:
     json.dump(cifDic,fp)
 
-print("Saved to file")
+print("Saved to file:",SaveAddress)
     
