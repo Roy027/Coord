@@ -10,7 +10,7 @@ from datetime import datetime
 
 # Check the following addresses before running the script
 FileNames = 'test/Na_Y2020/*.cif'
-SaveAddress = '../test/Na_cifDic_Y2020.json'
+SaveAddress = '../output/Na_Y2020_cifDic.json'
 
 print("Start time:", datetime.now())
 
