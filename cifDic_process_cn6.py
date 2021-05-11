@@ -34,7 +34,7 @@ def PlanesToProducts(Planes):
             dots.append(dot)
     return dots
 
-# %%
+
 def resultForDots(cif):
     max_angle = 15
     cn_num = 6.0
@@ -95,9 +95,15 @@ with open('.\output\dotResult_1.csv',mode='w') as dotfile:
                 file_writer.writerow(towrite)
 
 # %%
-a = np.array([[1,2,3],[2,3,4]])
-np.float32(a)
-for i in range(2):
-    a[i] = a[i]/np.linalg.norm(a[i])
-
+# to check individual cif files
+functionResults = resultForDots('200026.cif')
+row = ['Hexagonal Pyrimidal']
+row.append(functionResults[0])
+l = len(functionResults)
+for i in range(l//2):
+    siteinfo = [functionResults[i*2+1],functionResults[i*2+2]]
+    towrite = []
+    towrite.append(row)
+    towrite.extend(siteinfo)
+    print(towrite)
 # %%
