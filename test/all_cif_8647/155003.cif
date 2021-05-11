@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_155003-ICSD
+_database_code_ICSD 155003
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Sodium aluminium silicon oxide (6.41/6.41/9.59/32)'
+_chemical_formula_structural 'Na6.41 (Al6.41 Si9.59 O32)'
+_chemical_formula_sum 'Al6.41 Na6.41 O32 Si9.59'
+_chemical_name_mineral 'Nepheline, sodian'
+_exptl_crystal_density_diffrn 2.55
+_publ_section_title
+
+;
+Structural characterization of pure Na-nephelines synthesized by zeolite
+conversion route
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics and Chemistry of Solids' 2004 65 1623 1633 JPCSAW
+loop_
+_publ_author_name
+'Dimitrijevic, R.'
+'Dondur, V.'
+'Vulic, P.'
+'Markovic, S.'
+'Macura, S.'
+_cell_length_a 9.9700(5)
+_cell_length_b 9.9700(5)
+_cell_length_c 8.3418(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 718.09
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0335
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 2 b 0.3333 0.6667 0.4329 1.80(5) 1. 0
+Al1 Al3+ 2 b 0.3333 0.6667 0.050(2) 1.80(5) 0.801 0
+Si2 Si4+ 2 b 0.3333 0.6667 0.050(2) 1.80(5) 0.199 0
+Al2 Al3+ 6 c 0.332(2) 0.237(2) 0.056(5) 1.80(5) 0.801 0
+Si3 Si4+ 6 c 0.332(2) 0.237(2) 0.056(5) 1.80(5) 0.199 0
+Si4 Si4+ 6 c 0.328(2) 0.233(2) 0.429(5) 1.80(5) 1. 0
+Na1 Na1+ 6 c 0.5601(9) 0.5565(9) 0.238(5) 2.9(2) 0.952(5) 0
+Na2 Na1+ 6 c 0.00(1) 0.064(9) 0.27(1) 2.9(2) 0.115(5) 0
+O1 O2- 6 c 0.618(7) 0.33(1) 0.733(7) 3.2(2) 0.333 0
+O2 O2- 6 c 0.321(1) 0.286(1) 0.243(7) 3.2(2) 1. 0
+O3 O2- 6 c 0.513(2) 0.340(5) 0.458(5) 3.2(2) 1. 0
+O4 O2- 6 c 0.515(2) 0.346(2) -0.025(5) 3.2(2) 1. 0
+O5 O2- 6 c 0.227(5) 0.283(5) 0.542(5) 3.2(2) 1. 0
+O6 O2- 6 c 0.228(5) 0.276(5) -0.073(5) 3.2(2) 1. 0
+#End of TTdata_155003-ICSD

@@ -1,4 +1,4 @@
-function centroids = computeCentroids(X, idx, K)
+function centroids = computeCentroids(X, idx, K, P_Centroids)
 %COMPUTECENTROIDS returns the new centroids by computing the means of the 
 %data points assigned to each centroid.
 %   centroids = COMPUTECENTROIDS(X, idx, K) returns the new centroids by 
@@ -25,7 +25,9 @@ centroids = zeros(K, n);
 %
 % Note: You can use a for-loop over the centroids to compute this.
 %
-for i= 1:K
+centroids(1,:) = P_Centroids(1,:);
+
+for i= 2:K
   sel = find(idx==i);
   centroids(i,:)=mean(X(sel,:),1);
 endfor

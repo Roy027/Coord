@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34871-ICSD
+_database_code_ICSD 34871
+_audit_creation_date 1980-01-01
+_audit_update_record 1999-06-02
+_chemical_name_systematic 'Sodium tecto-alumotrisilicate'
+_chemical_formula_structural 'Na Al Si3 O8'
+_chemical_formula_sum 'Al1 Na1 O8 Si3'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral 'Albite low'
+_exptl_crystal_density_diffrn 2.56
+_cell_measurement_temperature 1023.
+_publ_section_title
+
+;
+A high-temperature study of the thermal expansion and the anisotropy of the
+sodium atom in low albite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1977 62 921 931 AMMIAY
+loop_
+_publ_author_name
+'Winter, J.K.'
+'Ghose, S.'
+'Okamura, F.P.'
+_cell_length_a 8.242(1)
+_cell_length_b 12.841(2)
+_cell_length_c 7.176(1)
+_cell_angle_alpha 93.69(1)
+_cell_angle_beta 116.27(1)
+_cell_angle_gamma 87.62(1)
+_cell_volume 679.55
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.2759(2) 0.9882(2) 0.1466(3) . 1. 0
+Al1 Al3+ 4 i 0.0094(1) 0.1727(1) 0.2102(1) . 1. 0
+Si1 Si4+ 4 i 0.0051(1) 0.8198(1) 0.2372(1) . 1. 0
+Si2 Si4+ 4 i 0.6974(1) 0.1124(1) 0.3221(1) . 1. 0
+Si3 Si4+ 4 i 0.6886(1) 0.8826(1) 0.3605(1) . 1. 0
+O1 O2- 4 i 0.0049(3) 0.1359(1) 0.9703(3) . 1. 0
+O2 O2- 4 i 0.6038(2) 0.9993(1) 0.2841(3) . 1. 0
+O3 O2- 4 i 0.8140(3) 0.1186(1) 0.1967(3) . 1. 0
+O4 O2- 4 i 0.8233(3) 0.8520(2) 0.2555(4) . 1. 0
+O5 O2- 4 i 0.0203(2) 0.3062(1) 0.2696(3) . 1. 0
+O6 O2- 4 i 0.0275(2) 0.6940(1) 0.2413(3) . 1. 0
+O7 O2- 4 i 0.2029(3) 0.1119(1) 0.3921(3) . 1. 0
+O8 O2- 4 i 0.1808(3) 0.8694(2) 0.4301(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0184(3) 0.0174(2) 0.0487(7) -.0024(2) 0.0105(4) -.0131(3)
+Al1 Al3+ 0.0089(1) 0.0026(1) 0.0092(1) -.0008(1) 0.0040(1) 0.0002(1)
+Si1 Si4+ 0.0082(1) 0.0024(1) 0.0084(1) 0.0007(1) 0.0039(1) 0.0005(1)
+Si2 Si4+ 0.0075(1) 0.0020(1) 0.0109(1) -.0004(1) 0.0032(1) 0.0002(1)
+Si3 Si4+ 0.0074(1) 0.0020(1) 0.0113(1) 0.0002(1) 0.0036(1) 0.0006(1)
+O1 O2- 0.0198(4) 0.0048(1) 0.0108(4) -.0004(2) 0.0086(3) 0.0009(2)
+O2 O2- 0.0090(3) 0.0021(1) 0.0189(4) -.0001(1) 0.0034(3) 0.0012(1)
+O3 O2- 0.0136(4) 0.0056(1) 0.0226(5) -.0027(2) 0.0111(4) -.0008(2)
+O4 O2- 0.0154(4) 0.0065(2) 0.0307(7) 0.0029(2) 0.0155(5) 0.0011(3)
+O5 O2- 0.0123(3) 0.0018(1) 0.0231(5) -.0017(1) 0.0062(3) -.0009(2)
+O6 O2- 0.0123(3) 0.0027(1) 0.0220(5) 0.0015(1) 0.0050(3) 0.0010(2)
+O7 O2- 0.0147(4) 0.0050(1) 0.0124(4) 0.0013(2) 0.0018(3) 0.0013(2)
+O8 O2- 0.0162(4) 0.0053(1) 0.0124(4) -.0020(2) 0.0004(3) -.0008(2)
+#End of TTdata_34871-ICSD

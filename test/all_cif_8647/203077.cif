@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_203077-ICSD
+_database_code_ICSD 203077
+_audit_creation_date 1990-12-27
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Sodium titanium oxide (2.08/4/9)'
+_chemical_formula_structural 'Na2.08 Ti4 O9'
+_chemical_formula_sum 'Na2.08 O9 Ti4'
+_exptl_crystal_density_diffrn 3.61
+_publ_section_title 'A large tunnel structure of triclinic Na2 Ti4 O9'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1989 83 132 139 JSSCBI
+loop_
+_publ_author_name
+'Akimoto, J.'
+'Takei, H.'
+_cell_length_a 10.653(4)
+_cell_length_b 11.647(3)
+_cell_length_c 2.9392(6)
+_cell_angle_alpha 97.25(3)
+_cell_angle_beta 90.00(11)
+_cell_angle_gamma 102.44(2)
+_cell_volume 353.13
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti3+ 3.98
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.5974(3) 0.2731(3) 0.137(1) . 0.97(1) 0
+Na2 Na1+ 2 i 0.3068(7) 0.1484(6) 0.073(4) . 0.48(1) 0
+Na3 Na1+ 2 i 0.1041(6) 0.2814(5) 0.640(3) . 0.63(1) 0
+Ti1 Ti3+ 1 a 0 0 0 . 1. 0
+Ti2 Ti3+ 2 i 0.3745(1) 0.4464(1) 0.7232(4) . 1. 0
+Ti3 Ti3+ 2 i 0.8791(1) 0.4302(1) 0.7151(4) . 1. 0
+Ti4 Ti3+ 2 i 0.8090(1) 0.1216(1) 0.5609(4) . 1. 0
+Ti5 Ti3+ 1 d 0.5 0 0 . 1. 0
+O1 O2- 2 i 0.9394(4) 0.1491(4) 0.075(1) . 1. 0
+O2 O2- 2 i 0.1233(4) 0.0461(4) 0.523(1) . 1. 0
+O3 O2- 2 i 0.6947(4) 0.0617(4) 0.030(1) . 1. 0
+O4 O2- 2 i 0.3186(4) 0.3442(4) 0.172(2) . 1. 0
+O5 O2- 2 i 0.9918(4) 0.4066(4) 0.204(1) 0.22 1. 0
+O6 O2- 2 i 0.7812(4) 0.4837(4) 0.242(1) . 1. 0
+O7 O2- 2 i 0.4878(4) 0.1119(4) 0.555(1) . 1. 0
+O8 O2- 2 i 0.7829(4) 0.2738(4) 0.637(1) 0.36 1. 0
+O9 O2- 2 i 0.5528(4) 0.4305(4) 0.715(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0038(3) 0.0011(2) 0.034(4) 0.0003(2) -.0001(8) 0.0009(7)
+Na2 Na1+ 0.0020(7) 0.0015(6) 0.33(3) 0.0003(5) -.001(3) 0.000(3)
+Na3 Na1+ 0.0038(6) 0.0025(5) 0.28(2) 0.0004(4) 0.000(3) 0.002(2)
+Ti1 Ti3+ 0.0024(1) 0.0016(1) 0.011(2) 0.0015(1) 0.0008(4) 0.0012(3)
+Ti2 Ti3+ 0.00094(9) 0.00073(7) 0.009(1) 0.00030(6) 0.0000(2) 0.0006(2)
+Ti3 Ti3+ 0.00102(9) 0.00090(7) 0.006(1) 0.00001(6) -.0002(2) 0.0005(2)
+Ti4 Ti3+ 0.00103(8) 0.00079(7) 0.006(1) 0.00020(6) 0.0000(2) 0.0006(2)
+Ti5 Ti3+ 0.0016(2) 0.0025(1) 0.089(3) -.0013(1) -.0008(5) 0.0016(5)
+O1 O2- 0.0005(3) 0.0003(3) 0.020(4) 0.0003(2) 0.0000(9) 0.0006(9)
+O2 O2- 0.0004(3) 0.0012(3) 0.016(4) 0.0000(3) 0.0001(9) 0.0005(9)
+O3 O2- 0.0005(3) 0.0007(3) 0.017(4) -.0001(2) 0.0000(9) 0.0009(9)
+O4 O2- 0.0015(4) 0.0003(3) 0.018(5) -.0001(3) 0.000(1) 0.0005(9)
+O6 O2- 0.0004(3) 0.0011(3) 0.013(4) 0.0006(2) -.0002(9) 0.0008(9)
+O7 O2- 0.0013(4) 0.0004(3) 0.018(5) 0.0001(3) 0.000(1) 0.0003(9)
+O9 O2- 0.0006(3) 0.0005(3) 0.010(4) 0.0001(2) -.0002(9) 0.0004(9)
+#End of TTdata_203077-ICSD

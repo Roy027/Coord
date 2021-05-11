@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243930-ICSD
+_database_code_ICSD 243930
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Disodium diiron disilicate'
+_chemical_formula_structural 'Na2 Fe2 Si2 O7'
+_chemical_formula_sum 'Fe2 Na2 O7 Si2'
+_exptl_crystal_density_diffrn 3.37
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Sodium Iron(II) pyrosilicate Na2Fe2Si2O7: a potential cathode material in the
+Na2O-FeO-SiO2 system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2017 29 4361 4366 CMATEX
+loop_
+_publ_author_name
+'Panigrahi, Abhishek'
+'Nishimura, Shin-ichi'
+'Shimada, Tatau'
+'Watanabe, Eriko'
+'Zhao, Wenwen'
+'Oyama, Gosuke'
+'Yamada, Atsuo'
+_cell_length_a 9.07499(8)
+_cell_length_b 12.91082(12)
+_cell_length_c 5.48835(4)
+_cell_angle_alpha 90
+_cell_angle_beta 91.9854(5)
+_cell_angle_gamma 90
+_cell_volume 642.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0565
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 e 0.21832(12) 0.49708(9) 0.7999(2) 1.01(3) 1 0
+Fe2 Fe2+ 4 e 0.36170(12) 0.42178(9) 0.3446(2) 1.12(3) 1 0
+Si1 Si4+ 4 e 0.0335(2) 0.13357(17) 0.3791(4) 0.99(4) 1 0
+Si2 Si4+ 4 e 0.0528(2) 0.36027(17) 0.2296(4) 0.73(5) 1 0
+Na1 Na1+ 4 e 0.3780(3) 0.1189(2) 0.2097(5) 1.85(7) 1 0
+Na2 Na1+ 4 e 0.2016(3) 0.2595(2) 0.7673(5) 1.69(7) 1 0
+O1 O2- 4 e 0.3891(4) 0.3960(3) 0.7133(8) 0.76(4) 1 0
+O2 O2- 4 e 0.0905(4) 0.3919(3) 0.9532(7) 0.76(4) 1 0
+O3 O2- 4 e 0.1450(5) 0.4293(3) 0.4242(7) 0.76(4) 1 0
+O4 O2- 4 e 0.3736(5) 0.1323(3) 0.7732(8) 0.76(4) 1 0
+O5 O2- 4 e 0.4936(5) 0.3323(3) 0.1503(8) 0.76(4) 1 0
+O6 O2- 4 e 0.1073(5) 0.2390(4) 0.2607(7) 0.76(4) 1 0
+O7 O2- 4 e 0.1575(4) 0.0472(3) 0.3754(7) 0.76(4) 1 0
+#End of TTdata_243930-ICSD

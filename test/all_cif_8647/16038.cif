@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16038-ICSD
+_database_code_ICSD 16038
+_audit_creation_date 1980-01-01
+_audit_update_record 1991-04-17
+_chemical_name_systematic
+'Disodium pentacobalt tetrakis(molybdate) tetrachloride'
+_chemical_formula_structural 'Na2 Co5 (Mo O4)4 Cl4'
+_chemical_formula_sum 'Cl4 Co5 Mo4 Na2 O16'
+_exptl_crystal_density_diffrn 3.92
+_publ_section_title
+'The refinement of the crystal structure of Na2 Co5 Mo4 Cl4 O16'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1970 26 449 451 ACBCAR
+loop_
+_publ_author_name
+'Smith, G.W.'
+'Melsom, B.G.A.'
+_cell_length_a 10.706(3)
+_cell_length_b 8.852(2)
+_cell_length_c 10.663(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.75(1)
+_cell_angle_gamma 90.
+_cell_volume 951.08
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.096
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Co2+ 2
+Na1+ 1
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 i 0.0396(1) 0 0.1913(1) . 1.015(7) 0
+Mo2 Mo6+ 4 i 0.4466(1) 0 0.1532(1) . 1.019(7) 0
+Co1 Co2+ 8 j 0.2644(1) 0.1790(1) 0.8654(1) . 0.980(7) 0
+Co2 Co2+ 2 c 0 0 0.5 . 1.004(16) 0
+Na1 Na1+ 4 i 0.326(1) 0 0.4918(10) . 1.023(42) 0
+Cl1 Cl1- 8 j 0.1650(3) 0.1964(3) 0.6242(2) . 0.977(13) 0
+O1 O2- 8 j 0.3523(7) 0.1629(8) 0.0845(7) 0.934 1. 0
+O2 O2- 8 j 0.1025(8) 0.1621(9) 0.1399(7) 1.085 1. 0
+O3 O2- 4 i 0.1404(10) 0 0.8715(10) 0.871 1. 0
+O4 O2- 4 i 0.3936(10) 0 0.8717(10) 0.872 1. 0
+O5 O2- 4 i 0.4767(12) 0 0.3218(12) 1.241 1. 0
+O6 O2- 4 i 0.0955(12) 0 0.3675(12) 1.212 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Mo1 Mo6+ 0.0009(1) 0.0016(1) 0.0010(1) 0 0.0006(1) 0
+Mo2 Mo6+ 0.0008(1) 0.0014(1) 0.0016(1) 0 0.0008(1) 0
+Co1 Co2+ 0.0012(1) 0.0017(1) 0.0017(1) -.0002(2) 0.0012(1) 0.0001(2)
+Co2 Co2+ 0.0020(2) 0.0039(3) 0.0019(2) 0 0.0016(3) 0
+Na1 Na1+ 0.0048(8) 0.0115(3) 0.0051(8) 0 -.0012(13) 0
+Cl1 Cl1- 0.0035(2) 0.0042(3) 0.0021(1) -.0003(3) 0.0012(3) -.0020(3)
+#End of TTdata_16038-ICSD

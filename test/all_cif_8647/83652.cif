@@ -1,0 +1,102 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83652-ICSD
+_database_code_ICSD 83652
+_audit_creation_date 1998-06-26
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Lithium zinc phosphate(V)'
+_chemical_formula_structural 'Li Zn (P O4)'
+_chemical_formula_sum 'Li1 O4 P1 Zn1'
+_chemical_name_structure_type LiGaSiO4
+_exptl_crystal_density_diffrn 3.42
+_publ_section_title
+
+;
+A new form of lithium zinc phosphate with an ordered phenakite structure, Li
+Zn P O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1996 52 1601 1603 ACSCEE
+loop_
+_publ_author_name
+'Bu Xianhui'
+'Gier, T.E.'
+'Stucky, G.D.'
+_cell_length_a 13.628(3)
+_cell_length_b 13.628(3)
+_cell_length_c 9.096(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1463.
+_cell_formula_units_Z 18
+_symmetry_space_group_name_H-M 'R 3 H'
+_symmetry_Int_Tables_number 146
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+4 '-x+y+2/3, -x+1/3, z+1/3'
+5 '-y+2/3, x-y+1/3, z+1/3'
+6 'x+2/3, y+1/3, z+1/3'
+7 '-x+y+1/3, -x+2/3, z+2/3'
+8 '-y+1/3, x-y+2/3, z+2/3'
+9 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Li1+ 1
+P5+ 5
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 9 b 0.45329(9) 0.13974(8) 0.08343 . 1. 0
+Zn2 Zn2+ 9 b 0.54174(9) 0.86049(8) 0.91446(11) . 1. 0
+Li1 Li1+ 9 b 0.3484(15) 0.8727(17) 0.081(5) 0.029(6) 1. 0
+P1 P5+ 9 b 0.65327(15) 0.12304(19) -.0845(4) . 1. 0
+P2 P5+ 9 b 0.1976(2) 0.98708(17) 0.0844(4) . 1. 0
+Li2 Li1+ 9 b 0.6459(13) 0.1202(12) 0.243(4) 0.022(5) 1. 0
+O1 O2- 9 b 0.5884(5) 0.1252(5) 0.0528(7) 0.0171(14) 1. 0
+O2 O2- 9 b 0.4050(4) 0.8696(5) 0.8908(7) 0.0169(14) 1. 0
+O3 O2- 9 b 0.3136(5) -.0067(5) 0.0844(7) 0.0184(15) 1. 0
+O4 O2- 9 b 0.6640(5) 0.0156(5) -.0818(8) 0.0140(15) 1. 0
+O5 O2- 9 b 0.5573(5) 0.1136(5) 0.4159(7) 0.0185(14) 1. 0
+O6 O2- 9 b 0.4605(4) 0.2038(5) 0.2795(7) 0.0153(14) 1. 0
+O7 O2- 9 b 0.5925(5) 0.1278(5) 0.7765(7) 0.0171(15) 1. 0
+O8 O2- 9 b 0.4521(5) 0.2259(5) -.0836(6) 0.0147(13) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0139(7) 0.0156(7) 0.0135(8) 0.0076(9) 0.0004(7) 0.009(8)
+Zn2 Zn2+ 0.0151(7) 0.0146(7) 0.0131(8) 0.0074(9) -.0001(7) -.0002(8)
+P1 P5+ 0.011(1) 0.013(2) 0.011(2) 0.005(1) 0.0010(9) 0.0000(9)
+P2 P5+ 0.013(2) 0.013(2) 0.011(2) 0.006(1) -.0003(10) 0.0003(8)
+#End of TTdata_83652-ICSD

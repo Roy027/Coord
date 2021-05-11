@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202073-ICSD
+_database_code_ICSD 202073
+_audit_creation_date 1988-12-19
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Tetrapotassium disodium tellurate'
+_chemical_formula_structural 'K4 Na2 (Te O6)'
+_chemical_formula_sum 'K4 Na2 O6 Te1'
+_exptl_crystal_density_diffrn 3.54
+_publ_section_title 'Neue Oxotellurate(VI): K4 Na2 (Te O6)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1986 125 223 231 JCOMAH
+loop_
+_publ_author_name
+'Untenecker, H.'
+'Hoppe, R.'
+_cell_length_a 7.255(2)
+_cell_length_b 9.833(1)
+_cell_length_c 6.665(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 122.74(2)
+_cell_angle_gamma 90.
+_cell_volume 399.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.094
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te6+ 6
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te6+ 2 a 0 0 0 . 1. 0
+K1 K1+ 4 e 0.5140(3) 0.8231(2) 0.4988(4) . 1. 0
+K2 K1+ 4 e 0.2462(3) 0.4867(2) 0.3169(3) . 1. 0
+Na1 Na1+ 4 e 0.2315(8) 0.7427(5) 0.0093(9) . 1. 0
+O1 O2- 4 e 0.8100(8) 0.4957(7) 0.1094(9) . 1. 0
+O2 O2- 4 e 0.5604(10) 0.3673(7) 0.2521(10) . 1. 0
+O3 O2- 4 e 0.0603(10) 0.8535(6) 0.2207(11) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te6+ 0.0060(2) 0.0068(2) 0.0079(2) -.0011(3) 0.0041(2) -.0002(2)
+K1 K1+ 0.0111(6) 0.0187(6) 0.0141(6) 0.0012(7) 0.0066(5) 0.0012(8)
+K2 K1+ 0.0176(7) 0.0306(11) 0.0189(7) 0.0013(7) 0.0111(6) -.0008(8)
+Na1 Na1+ 0.028(2) 0.0215(18) 0.0200(17) 0.0090(15) 0.0002(8) -.0015(14)
+O1 O2- 0.0108(18) 0.0159(22) 0.0177(22) -.0021(25) 0.0062(17) -.0097(28)
+O2 O2- 0.0136(25) 0.0258(31) 0.0019(22) 0.0010(23) -.0002(9) 0.0030(22)
+O3 O2- 0.0168(26) 0.0116(23) 0.0131(27) 0.0103(20) 0.0079(23) -.0011(21)
+#End of TTdata_202073-ICSD

@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250786-ICSD
+_database_code_ICSD 250786
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium gold(III) tetrakis(iodate(V)) - alpha'
+_chemical_formula_structural 'Na Au (I O3)4'
+_chemical_formula_sum 'Au1 I4 Na1 O12'
+_exptl_crystal_density_diffrn 5.47
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Explorations of a series of second order nonlinear optical materials based on
+monovalent metal gold(III) iodates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 11551 11562 INOCAJ
+loop_
+_publ_author_name
+'Huang, Chao'
+'Hu, Chun-Li'
+'Xu, Xiang'
+'Yang, Bing-Ping'
+'Mao, Jiang-Gao'
+_cell_length_a 5.4792(5)
+_cell_length_b 7.0445(5)
+_cell_length_c 8.1951(9)
+_cell_angle_alpha 105.837(8)
+_cell_angle_beta 95.241(8)
+_cell_angle_gamma 110.269(8)
+_cell_volume 279.34
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Au3+ 3
+I5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a -0.3124(18) 0.1142(15) 1.1757(13) 0.0329(18) 1 0
+Au1 Au3+ 1 a 0.91377(9) 0.12166(8) 0.64227(7) 0.01106(18) 1 0
+I1 I5+ 1 a 1.32327(17) 0.46232(15) 1.02325(13) 0.0117(2) 1 0
+I2 I5+ 1 a 1.01839(17) -0.18004(14) 0.86859(13) 0.0124(2) 1 0
+I3 I5+ 1 a 1.01801(17) -0.24322(14) 0.33870(13) 0.0115(2) 1 0
+I4 I5+ 1 a 1.39840(17) 0.42293(14) 0.50895(13) 0.0128(2) 1 0
+O1 O2- 1 a 1.336(2) 0.7307(17) 1.0573(17) 0.019(3) 1 0
+O2 O2- 1 a 1.173(2) 0.420(2) 1.2048(17) 0.023(3) 1 0
+O3 O2- 1 a 0.996(2) 0.3420(18) 0.8719(17) 0.017(2) 1 0
+O4 O2- 1 a 0.868(2) -0.1637(18) 1.0556(16) 0.018(2) 1 0
+O5 O2- 1 a 1.297(2) 0.076(2) 0.9384(18) 0.023(3) 1 0
+O6 O2- 1 a 0.775(2) -0.1051(18) 0.7453(15) 0.017(3) 1 0
+O7 O2- 1 a 0.803(2) -0.0902(19) 0.4053(16) 0.018(2) 1 0
+O8 O2- 1 a 0.731(2) -0.491(2) 0.2653(18) 0.023(3) 1 0
+O9 O2- 1 a 1.153(3) -0.2388(19) 0.5490(17) 0.021(3) 1 0
+O10 O2- 1 a 1.038(2) 0.3442(18) 0.5300(16) 0.015(2) 1 0
+O11 O2- 1 a 1.539(2) 0.4545(19) 0.7258(16) 0.021(3) 1 0
+O12 O2- 1 a 1.396(2) 0.1636(17) 0.3961(16) 0.021(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.030(4) 0.029(4) 0.038(5) 0.013(3) 0.005(3) 0.007(4)
+Au1 Au3+ 0.0130(3) 0.0117(3) 0.0081(3) 0.0045(2) 0.0013(2) 0.0032(2)
+I1 I5+ 0.0128(5) 0.0147(5) 0.0070(5) 0.0065(4) 0.0004(4) 0.0014(4)
+I2 I5+ 0.0145(5) 0.0138(5) 0.0088(5) 0.0047(4) 0.0023(4) 0.0044(4)
+I3 I5+ 0.0123(4) 0.0124(4) 0.0076(5) 0.0033(4) 0.0011(4) 0.0020(4)
+I4 I5+ 0.0153(5) 0.0116(5) 0.0098(5) 0.0031(4) 0.0016(4) 0.0041(4)
+O1 O2- 0.018(6) 0.013(5) 0.015(7) -0.001(4) -0.002(5) -0.002(5)
+O2 O2- 0.018(6) 0.040(7) 0.014(7) 0.015(6) 0.006(5) 0.009(6)
+O3 O2- 0.016(3) 0.017(3) 0.015(4) 0.006(3) 0.002(3) 0.001(3)
+O4 O2- 0.017(3) 0.020(3) 0.015(4) 0.007(2) 0.006(3) 0.004(3)
+O5 O2- 0.015(6) 0.023(6) 0.028(8) 0.002(5) -0.003(5) 0.015(6)
+O6 O2- 0.017(5) 0.019(6) 0.006(6) 0.001(5) -0.007(4) 0.002(5)
+O7 O2- 0.018(3) 0.020(3) 0.016(4) 0.009(3) 0.001(3) 0.003(3)
+O8 O2- 0.011(5) 0.028(6) 0.028(8) 0.001(5) 0.008(5) 0.016(6)
+O9 O2- 0.033(6) 0.015(5) 0.011(7) 0.008(5) 0.001(5) 0.002(5)
+O10 O2- 0.018(5) 0.021(6) 0.014(7) 0.010(5) 0.003(4) 0.014(5)
+O11 O2- 0.022(6) 0.019(6) 0.007(7) -0.006(5) -0.004(5) 0.005(5)
+O12 O2- 0.026(7) 0.016(6) 0.021(8) 0.010(5) 0.008(5) 0.002(5)
+#End of TTdata_250786-ICSD

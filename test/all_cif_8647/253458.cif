@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253458-ICSD
+_database_code_ICSD 253458
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium iridate(V)'
+_chemical_formula_structural 'Na Ir O3'
+_chemical_formula_sum 'Ir1 Na1 O3'
+_exptl_crystal_density_diffrn 6.96
+_publ_section_title
+
+;
+Strong oxygen participation in the redox governing the structural and
+electrochemical properties of Na-rich layered oxide Na2IrO3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2016 28 8278 8288 CMATEX
+loop_
+_publ_author_name
+'Perez, Arnaud J.'
+'Batuk, Dmitry'
+'Saubanere, Matthieu'
+'Rousse, Gwenaelle'
+'Foix, Dominique'
+'McCalla, Eric'
+'Berg, Erik J.'
+'Dugas, Romain'
+'Bos, Karel H.W. van den'
+'Doublet, Marie-Liesse'
+'Gonbeau, Danielle'
+'Abakumov, Artem M.'
+'Tendeloo, Gustaaf van'
+'Tarascon, Jean-Marie'
+_cell_length_a 5.2913(7)
+_cell_length_b 5.2842(7)
+_cell_length_c 6.0468(9)
+_cell_angle_alpha 115.840(16)
+_cell_angle_beta 90.479(12)
+_cell_angle_gamma 120.069(14)
+_cell_volume 125.98
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Ir5+ 5
+Na1+ 1
+Ir5+ 5
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 2 i 0.133(4) 0.522(7) 0.212(4) 0.02 1. 0
+O2 O2- 2 i 0.701(3) 0.722(4) 0.183(4) . 1. 0
+O3 O2- 2 i 0.431(5) 0.160(6) 0.217(4) 0.011 1. 0
+Ir1 Ir5+ 2 i 0.349(3) 0.678(4) -0.011(2) 0.004 0.839 0
+Na1 Na1+ 1 a 0. 0. 0. 1. 0. 0
+Ir2 Ir5+ 1 a 0. 0. 0. 0.00444 0.322 0
+Na2 Na1+ 2 i 0.868(3) 0.734(6) 0.5944(17) . 1. 0
+Na3 Na1+ 1 f 0.5 0. 0.5 1. 0. 0
+#End of TTdata_253458-ICSD

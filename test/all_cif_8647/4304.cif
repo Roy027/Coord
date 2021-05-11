@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_4304-ICSD
+_database_code_ICSD 4304
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-04-13
+_chemical_name_systematic 'Disodium cobalt sulfate tetrahydrate'
+_chemical_formula_structural 'Na2 Co (S O4)2 (H2 O)4'
+_chemical_formula_sum 'H8 Co1 Na2 O12 S2'
+_chemical_name_structure_type Bloedite
+_exptl_crystal_density_diffrn 2.41
+_publ_section_title
+
+;
+Neutron diffraction study of the crystal structure of cobalt astrakhanite  Na2
+Co (S O4)2 (H2 O)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1975 20 293 296 KRISAJ
+loop_
+_publ_author_name
+'Bukin, V.I.'
+'Nozik, Yu.Z.'
+_cell_length_a 11.083(4)
+_cell_length_b 8.426(1)
+_cell_length_c 5.534(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.35(7)
+_cell_angle_gamma 90.
+_cell_volume 508.39
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 a 0 0 0 1.07 1. 0
+Na1 Na1+ 4 e 0.3621(11) 0.0687(15) 0.1283(49) 1.53 1. 0
+S1 S6+ 4 e 0.1373(10) 0.2859(16) 0.3775(40) 1.65 1. 0
+O1 O2- 4 e 0.2660(6) 0.2710(9) 0.3448(23) 1.94 1. 0
+O2 O2- 4 e 0.0790(7) 0.4143(8) 0.1985(50) 1.5 1. 0
+O3 O2- 4 e 0.0731(7) 0.1320(8) 0.3172(32) 1.41 1. 0
+O4 O2- 4 e 0.1311(7) 0.3294(10) 0.6282(27) 1.49 1. 0
+O5 O2- 4 e 0.1626(6) 0.0388(8) 0.8712(24) 2.03 1. 0
+O6 O2- 4 e 0.4187(7) 0.2855(7) 0.8222(25) 0.65 1. 0
+H1 H1+ 4 e 0.3181(14) 0.4427(17) 0.2198(88) 3.01 1. 0
+H2 H1+ 4 e 0.3438(16) 0.6356(20) 0.2292(60) 3.28 1. 0
+H3 H1+ 4 e 0.3577(18) 0.3031(20) 0.6791(69) 3.39 1. 0
+H4 H1+ 4 e 0.4769(16) 0.2182(21) 0.7650(57) 3.6 1. 0
+#End of TTdata_4304-ICSD

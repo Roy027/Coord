@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_33719-ICSD
+_database_code_ICSD 33719
+_audit_creation_date 1991-07-10
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Trisodium phosphate(V) - T'
+_chemical_formula_structural 'Na3 (P O4)'
+_chemical_formula_sum 'Na3 O4 P1'
+_chemical_name_structure_type Na3PO4(tP64)
+_exptl_crystal_density_diffrn 2.74
+_publ_section_title
+
+;
+Bestimmung der Kristallstruktur von T - Na3 P O4 mit Roentgen- und
+Neutronenpulvertechniken
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1990 192 233 243 ZEKRDZ
+loop_
+_publ_author_name
+'Lissel, E.'
+'Jansen, M.'
+'Jansen, E.'
+'Will, G.'
+_cell_length_a 10.81(1)
+_cell_length_b 10.81(1)
+_cell_length_c 6.81(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 795.79
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P -4 21 c'
+_symmetry_Int_Tables_number 114
+_refine_ls_R_factor_all 0.08
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 'y, -x, -z'
+3 '-y+1/2, -x+1/2, z+1/2'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 8 e 0.264(1) -.014(1) 0.230(1) 0.016(2) 1. 0
+O1 O2- 8 e 0.165(1) -.082(1) 0.356(1) 0.018(1) 1. 0
+O2 O2- 8 e 0.374(1) -.104(1) 0.207(1) 0.018(1) 1. 0
+O3 O2- 8 e 0.210(1) 0.017(1) 0.024(1) 0.018(1) 1. 0
+O4 O2- 8 e 0.305(1) 0.105(1) 0.333(1) 0.018(1) 1. 0
+Na1 Na1+ 8 e 0.260(1) 0.036(1) 0.689(2) 0.010(2) 1. 0
+Na2 Na1+ 8 e 0.216(1) 0.243(1) 0.036(2) 0.010(2) 1. 0
+Na3 Na1+ 2 a 0 0 0 0.010(2) 1. 0
+Na4 Na1+ 2 b 0 0 0.5 0.010(2) 1. 0
+Na5 Na1+ 4 d 0 0.5 0.039(3) 0.010(2) 1. 0
+#End of TTdata_33719-ICSD

@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280943-ICSD
+_database_code_ICSD 280943
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium cobalt hydrogendiphosphate(V)'
+_chemical_formula_structural 'Na Co (H P2 O7)'
+_chemical_formula_sum 'H1 Co1 Na1 O7 P2'
+_chemical_name_structure_type NaNiHP2O7
+_exptl_crystal_density_diffrn 3.26
+_publ_section_title 'Sodium cobalt(II) hydrogendiphosphate, Na Co H P2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2002 58
+108 110 ACSEBH
+loop_
+_publ_author_name
+'Guesmi, A.'
+'Driss, A.'
+_cell_length_a 6.5629(7)
+_cell_length_b 6.643(1)
+_cell_length_c 6.5309(6)
+_cell_angle_alpha 112.60(1)
+_cell_angle_beta 87.935(8)
+_cell_angle_gamma 96.14(1)
+_cell_volume 261.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0185
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 i 0.14557(4) 0.38935(4) 0.28318(4) 0.00892(13) 1. 0
+P1 P5+ 2 i 0.12068(8) 0.86406(9) 0.16792(9) 0.00787(15) 1. 0
+P2 P5+ 2 i 0.64276(8) 0.28014(8) 0.25330(8) 0.00711(15) 1. 0
+Na1 Na1+ 2 i 0.6582(18) 0.7594(10) 0.302(3) 0.0242(18) 0.65(5) 0
+Na2 Na1+ 2 i 0.613(3) 0.7404(13) 0.221(5) 0.023(3) 0.35(5) 0
+O1 O2- 2 i 0.8274(2) 0.4464(2) 0.3630(2) 0.0099(3) 1. 0
+O2 O2- 2 i 0.1139(2) 0.0960(3) 0.3312(3) 0.0124(3) 1. 0
+O3 O2- 2 i 0.4643(2) 0.3913(3) 0.2215(3) 0.0130(3) 1. 0
+O4 O2- 2 i 0.2102(3) 0.7202(3) 0.2764(3) 0.0128(3) 1. 0
+O5 O2- 2 i 0.9229(2) 0.7475(3) 0.0489(2) 0.0116(3) 1. 0
+O6 O2- 2 i 0.7117(2) 0.1209(3) 0.0136(2) 0.0111(3) 1. 0
+O7 O2- 2 i 0.5890(2) 0.1272(3) 0.3791(2) 0.0111(3) 1. 0
+H1 H1+ 2 i 0.262(6) 0.780(6) 0.397(3) 0.05 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.00891(18) 0.00918(18) 0.00716(18) 0.00045(11) -0.00017(11)
+0.00158(12)
+P1 P5+ 0.0088(3) 0.0080(3) 0.0060(2) 0.00102(19) 0.00036(19) 0.0019(2)
+P2 P5+ 0.0075(3) 0.0071(3) 0.0060(3) 0.00080(19) 0.00021(18) 0.0017(2)
+Na1 Na1+ 0.026(2) 0.0162(11) 0.031(4) 0.0057(11) 0.014(3) 0.0093(16)
+Na2 Na1+ 0.020(3) 0.0145(18) 0.032(8) 0.0007(18) 0.012(4) 0.008(3)
+O1 O2- 0.0091(7) 0.0098(7) 0.0080(7) -0.0018(6) 0.0003(5) 0.0012(6)
+O2 O2- 0.0162(8) 0.0093(7) 0.0102(7) 0.0025(6) 0.0036(6) 0.0020(6)
+O3 O2- 0.0098(7) 0.0137(7) 0.0163(8) 0.0022(6) 0.0003(6) 0.0064(6)
+O4 O2- 0.0186(8) 0.0101(7) 0.0101(7) 0.0014(6) -0.0041(6) 0.0040(6)
+O5 O2- 0.0104(7) 0.0157(8) 0.0077(7) 0.0003(6) -0.0008(6) 0.0035(6)
+O6 O2- 0.0118(7) 0.0108(7) 0.0070(7) -0.0008(6) 0.0027(5) 0.0003(6)
+O7 O2- 0.0138(7) 0.0113(7) 0.0094(7) -0.0011(6) -0.0015(6) 0.0056(6)
+#End of TTdata_280943-ICSD

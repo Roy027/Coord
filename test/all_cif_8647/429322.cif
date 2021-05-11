@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429322-ICSD
+_database_code_ICSD 429322
+_audit_creation_date 2016-02-01
+_chemical_name_systematic
+'Pentasodium tetraneodymium tetrakis(tetraoxosilicate) fluoride'
+_chemical_formula_structural 'Na5 Nd4 (Si O4)4 F'
+_chemical_formula_sum 'F1 Na5 Nd4 O16 Si4'
+_chemical_name_structure_type (NaYSiO4)4NaF
+_exptl_crystal_density_diffrn 4.6
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+A5 RE4 X (T O4)4 crystal growth and photoluminescence. Fluoride flux synthesis
+of sodium and potassium rare earth silicate oxyfluorides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary CrystEngComm 2015 17 4654 4661 CRECF4
+loop_
+_publ_author_name
+'Latshaw, Allison M.'
+'Wilkins, Branford O.'
+'Hughey, Kendall D.'
+'Yeon, Jeongho'
+'Williams, Derek E.'
+'Tran, T. Thao'
+'Halasyamanib, P. Shiv'
+'Loye, Hans-Conrad zur'
+_cell_length_a 11.9435(2)
+_cell_length_b 11.9435(2)
+_cell_length_c 5.45910(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 778.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.0097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Si4+ 4
+Na1+ 1
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 8 g 0.815419(10) 0.117081(10) 0.01756(3) 0.00759(6) 1 0
+Si1 Si4+ 8 g 0.60160(6) 0.25284(5) -0.00804(17) 0.00706(14) 1 0
+Na1 Na1+ 8 g 0.39502(9) 0.08933(9) 0.0081(3) 0.0193(2) 1 0
+Na2 Na1+ 2 b 0.5 0.5 0. 0.0259(6) 1 0
+F1 F1- 2 a 0. 0. 0. 0.0156(7) 1 0
+O1 O2- 8 g 0.60630(15) 0.11676(15) 0.0153(4) 0.0124(4) 1 0
+O2 O2- 8 g 0.54638(19) 0.3096(2) 0.2325(4) 0.0130(4) 1 0
+O3 O2- 8 g 0.53630(19) 0.2913(2) -0.2543(4) 0.0137(4) 1 0
+O4 O2- 8 g 0.73015(15) 0.29842(15) -0.0459(4) 0.0113(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nd1 Nd3+ 0.00707(8) 0.00665(8) 0.00905(8) -0.00028(4) 0.00007(5) -0.00036(5)
+Si1 Si4+ 0.0075(3) 0.0076(3) 0.0061(3) 0.0003(2) 0.0005(3) 0.0001(3)
+Na1 Na1+ 0.0154(5) 0.0163(5) 0.0261(7) 0.0007(4) 0.0000(6) -0.0015(6)
+Na2 Na1+ 0.0211(7) 0.0211(7) 0.0353(16) 0. 0. 0.
+F1 F1- 0.0116(8) 0.0116(8) 0.024(2) 0. 0. 0.
+O1 O2- 0.0105(8) 0.0087(7) 0.0179(11) -0.0002(6) -0.0022(9) 0.0005(8)
+O2 O2- 0.0099(10) 0.0201(12) 0.0090(9) -0.0002(9) 0.0013(8) -0.0039(8)
+O3 O2- 0.0113(11) 0.0203(12) 0.0094(10) -0.0012(8) -0.0014(8) 0.0047(8)
+O4 O2- 0.0096(8) 0.0100(8) 0.0141(9) -0.0011(6) -0.0004(8) 0.0002(7)
+#End of TTdata_429322-ICSD

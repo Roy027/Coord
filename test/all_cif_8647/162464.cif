@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_162464-ICSD
+_database_code_ICSD 162464
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Disodium dioxodihydroxosilicate octahydrate'
+_chemical_formula_structural 'Na2 (Si O2 (O H)2) (H2 O)8'
+_chemical_formula_sum 'H18 Na2 O12 Si1'
+_chemical_name_structure_type Na2H2SiO4(H2O)8
+_chemical_name_mineral Chesnokovite
+_exptl_crystal_density_diffrn 1.64
+_publ_section_title
+
+;
+Chesnokovite, Na2 (Si O2 (O H)2) * 8(H2 O), the first natural sodium
+orthosilicate from the Lovozero alkaline massif, Kola peninsula, Russia :
+description and crystal structure of a new mineral
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ukrainyie Doklady Kristallografii' 2007 136 25 39 DMY013
+loop_
+_publ_author_name
+'Pekov, I.V.'
+'Chukanov, N.V.'
+'Zadov, A.E.'
+'Zubkova, N.V.'
+'Pushcharovsky, D.Yu.'
+_cell_length_a 11.7119(6)
+_cell_length_b 16.973(1)
+_cell_length_c 11.5652(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2299.
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I b c a'
+_symmetry_Int_Tables_number 73
+_refine_ls_R_factor_all 0.0174
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 'x+1/2, -y, z'
+3 '-x, y, z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z'
+6 '-x+1/2, y, -z'
+7 'x, -y, -z+1/2'
+8 'x, y, z'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 c 0.3770(16) 0 0.25 0.028(3) 1. 0
+Na1 Na1+ 16 f 0.1244(10) 0.1817(6) 0.4143(6) 0.038(3) 1. 0
+O1 O2- 16 f 0.2898(14) 0.0540(12) 0.1696(12) 0.039(6) 1. 0
+O2 O2- 16 f 0.4469(12) 0.0541(12) 0.3319(12) 0.030(5) 1. 0
+O3 O2- 16 f 0.119(2) 0.0379(10) 0.4339(14) 0.033(5) 1. 0
+O4 O2- 16 f 0.1122(18) 0.1649(10) 0.2061(12) 0.025(5) 1. 0
+O5 O2- 16 f 0.4140(14) 0.1755(12) 0.0536(12) 0.044(6) 1. 0
+O6 O2- 16 f 0.3215(12) 0.1905(12) 0.3848(16) 0.047(8) 1. 0
+H1 H1+ 16 f 0.27(2) 0.016(9) 0.11(2) 0.1 1. 0
+H2 H1+ 16 f 0.09(3) 0.035(14) 0.49(2) 0.1 1. 0
+H3 H1+ 16 f 0.04(2) 0.013(15) 0.39(2) 0.1 1. 0
+H4 H1+ 16 f 0.05(2) 0.138(17) 0.209(19) 0.1 1. 0
+H5 H1+ 16 f 0.17(2) 0.134(15) 0.205(19) 0.1 1. 0
+H6 H1+ 16 f 0.37(2) 0.133(12) 0.093(17) 0.1 1. 0
+H7 H1+ 16 f 0.40(2) 0.167(11) -0.027(16) 0.1 1. 0
+H8 H1+ 16 f 0.38(2) 0.159(13) 0.365(18) 0.1 1. 0
+H9 H1+ 16 f 0.35(2) 0.238(14) 0.339(18) 0.1 1. 0
+#End of TTdata_162464-ICSD

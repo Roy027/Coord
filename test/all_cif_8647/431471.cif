@@ -1,0 +1,138 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431471-ICSD
+_database_code_ICSD 431471
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium trinitroso-triammino-ruthenate(II) trihydrate'
+_chemical_formula_structural 'Na (Ru (N H3)3 (N O2)3) (H2 O)3'
+_chemical_formula_sum 'H15 N6 Na1 O9 Ru1'
+_exptl_crystal_density_diffrn 2.08
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Triammine fac and mer coordination for ruthenium-nitrosyl complexes: synthesis
+and characterization of [RuNO(NH3)3Cl2]Cl
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2017 2017 971 978 EJICFO
+loop_
+_publ_author_name
+'Vorobyev, Vasily'
+'Emelyanov, Vyacheslav A.'
+'Plusnina, Olga A.'
+'Makarov, Edgar M.'
+'Baidina, Iraida A.'
+'Smolentsev, Anton I.'
+'Tkachev, Sergey V.'
+'Asanova, Tatyana I.'
+_cell_length_a 6.0824(2)
+_cell_length_b 19.4031(4)
+_cell_length_c 9.9788(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.6550(10)
+_cell_angle_gamma 90.
+_cell_volume 1173.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0173
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru2+ 2
+N3+ 3
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+O2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ru1 Ru2+ 4 e 0.48863(2) 0.160051(6) 0.016270(12) 0.01442(5) 1 0
+N1 N3+ 4 e 0.3423(2) 0.10851(7) 0.15493(14) 0.0195(3) 1 0
+N2 N3+ 4 e 0.3039(2) 0.24592(7) 0.02987(14) 0.0191(3) 1 0
+N3 N3+ 4 e 0.2748(2) 0.12264(7) -0.13045(14) 0.0195(3) 1 0
+N4 N3- 4 e 0.7212(2) 0.19769(8) 0.17174(15) 0.0223(3) 1 0
+H1 H1+ 4 e 0.6918 0.2416 0.1887 0.033 1 0
+H2 H1+ 4 e 0.8569 0.1943 0.1452 0.033 1 0
+H3 H1+ 4 e 0.7114 0.1728 0.246 0.033 1 0
+N5 N3- 4 e 0.7059(2) 0.07507(8) -0.01040(16) 0.0256(3) 1 0
+H4 H1+ 4 e 0.6708 0.0402 0.0416 0.038 1 0
+H5 H1+ 4 e 0.8445 0.0879 0.0122 0.038 1 0
+H6 H1+ 4 e 0.6929 0.0618 -0.0961 0.038 1 0
+N6 N3- 4 e 0.6677(3) 0.21360(8) -0.12948(15) 0.0276(3) 1 0
+H7 H1+ 4 e 0.8109 0.2042 -0.115 0.041 1 0
+H8 H1+ 4 e 0.6468 0.2588 -0.1218 0.041 1 0
+H9 H1+ 4 e 0.6195 0.2 -0.2118 0.041 1 0
+O1 O2- 4 e 0.1395(2) 0.09976(8) 0.15661(15) 0.0391(4) 1 0
+O2 O2- 4 e 0.4599(2) 0.08034(7) 0.25230(13) 0.0291(3) 1 0
+O3 O2- 4 e 0.1013(2) 0.24641(7) 0.04639(17) 0.0379(4) 1 0
+O4 O2- 4 e 0.3898(2) 0.30328(7) 0.01727(18) 0.0429(4) 1 0
+O5 O2- 4 e 0.1657(3) 0.16066(7) -0.21223(15) 0.0425(4) 1 0
+O6 O2- 4 e 0.2440(3) 0.06004(7) -0.14747(17) 0.0484(4) 1 0
+Na1 Na1+ 4 e 0.03134(12) 0.08416(4) 0.60059(7) 0.02791(16) 1 0
+O7 O2- 4 e -0.0926(3) 0.04456(8) 0.37386(15) 0.0310(3) 1 0
+O8 O2- 4 e 0.3697(3) 0.12455(9) 0.51082(17) 0.0353(3) 1 0
+O9 O2- 4 e -0.3093(3) 0.05363(9) 0.67746(18) 0.0383(4) 1 0
+H10 H1+ 4 e -0.209(5) 0.0534(14) 0.348(3) 0.050(9) 1 0
+H11 H1+ 4 e -0.015(5) 0.0576(14) 0.320(3) 0.055(9) 1 0
+H12 H1+ 4 e 0.385(4) 0.1116(14) 0.439(3) 0.045(8) 1 0
+H13 H1+ 4 e 0.446(4) 0.1588(13) 0.521(2) 0.040(7) 1 0
+H14 H1+ 4 e -0.352(5) 0.0145(15) 0.695(3) 0.051(8) 1 0
+H15 H1+ 4 e -0.406(5) 0.0682(16) 0.635(3) 0.063(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ru1 Ru2+ 0.01162(7) 0.01619(7) 0.01532(8) -0.00132(5) 0.00029(5) 0.00015(4)
+N1 N3+ 0.0169(7) 0.0210(7) 0.0203(7) -0.0004(5) 0.0003(5) 0.0019(5)
+N2 N3+ 0.0187(7) 0.0201(7) 0.0184(7) -0.0006(5) 0.0002(5) -0.0011(5)
+N3 N3+ 0.0191(7) 0.0194(7) 0.0199(7) -0.0018(6) 0.0008(6) -0.0004(5)
+N4 N3- 0.0180(7) 0.0248(8) 0.0234(7) -0.0029(6) -0.0017(6) -0.0036(6)
+N5 N3- 0.0222(8) 0.0265(8) 0.0279(8) 0.0040(6) 0.0007(6) -0.0034(6)
+N6 N3- 0.0212(8) 0.0360(9) 0.0258(8) -0.0042(6) 0.0036(6) 0.0064(6)
+O1 O2- 0.0167(6) 0.0575(10) 0.0430(9) -0.0067(6) 0.0020(6) 0.0224(7)
+O2 O2- 0.0248(7) 0.0358(7) 0.0261(7) 0.0015(6) -0.0021(5) 0.0129(5)
+O3 O2- 0.0199(7) 0.0308(8) 0.0644(10) 0.0050(6) 0.0126(7) 0.0030(7)
+O4 O2- 0.0334(8) 0.0179(7) 0.0777(12) -0.0051(6) 0.0063(8) -0.0033(7)
+O5 O2- 0.0566(10) 0.0306(8) 0.0355(8) -0.0019(7) -0.0261(7) 0.0068(6)
+O6 O2- 0.0618(11) 0.0208(7) 0.0572(10) -0.0062(7) -0.0288(8) -0.0045(6)
+Na1 Na1+ 0.0263(4) 0.0280(4) 0.0296(4) -0.0040(3) 0.0029(3) -0.0044(3)
+O7 O2- 0.0280(8) 0.0363(8) 0.0287(8) 0.0021(6) 0.0013(7) -0.0002(6)
+O8 O2- 0.0316(8) 0.0400(9) 0.0349(9) -0.0056(7) 0.0067(7) -0.0036(7)
+O9 O2- 0.0291(8) 0.0391(9) 0.0466(10) -0.0023(7) 0.0032(7) 0.0102(7)
+#End of TTdata_431471-ICSD

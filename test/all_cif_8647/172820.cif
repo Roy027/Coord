@@ -1,0 +1,130 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_172820-ICSD
+_database_code_ICSD 172820
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Trisodium terbium(III) catena-silicate trihydrate'
+_chemical_formula_structural 'Na3 Tb Si3 O9 (H2 O)3'
+_chemical_formula_sum 'H6 Na3 O12 Si3 Tb1'
+_exptl_crystal_density_diffrn 3.04
+_publ_section_title
+
+;
+Na3 Tb Si3 O9.3H2 O: A new luminescent microporous terbium(III) silicate
+containing helical sechser silicate chains and 9-ring channels
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2006 18 5637 5639 CMATEX
+loop_
+_publ_author_name
+'Wang Guang Mei'
+'Li Jiyang'
+'Yu Jihong'
+'Chen Peng'
+'Pan Qinhe'
+'Son Hongwei'
+'Xu Ruren'
+_cell_length_a 7.0280(14)
+_cell_length_b 11.757(2)
+_cell_length_c 13.503(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1115.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.0172
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tb3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tb1 Tb3+ 4 a -0.14432(3) 0.511403(15) 0.301248(15) 0.00757(5) 1 0
+Si1 Si4+ 4 a 0.34867(18) 0.53797(8) 0.36270(8) 0.0082(2) 1 0
+Si2 Si4+ 4 a -0.11147(15) 0.48716(10) 0.03645(7) 0.0079(2) 1 0
+Si3 Si4+ 4 a -0.1214(2) 0.26163(9) 0.15491(9) 0.0085(2) 1 0
+Na1 Na1+ 4 a 0.1515(4) 0.26833(15) 0.33786(14) 0.0185(4) 1 0
+Na2 Na1+ 4 a 0.2277(3) 0.6230(2) 0.09912(19) 0.0308(5) 1 0
+Na3 Na1+ 4 a -0.2761(15) 0.7870(7) 0.4377(7) 0.019(3) 0.72(9) 0
+Na4 Na1+ 4 a -0.334(14) 0.777(4) 0.418(5) 0.067(11) 0.28(9) 0
+O1 O2- 4 a 0.0792(5) 0.1986(3) 0.1713(2) 0.0120(7) 1 0
+O2 O2- 4 a -0.1887(5) 0.3270(3) 0.2529(2) 0.0138(7) 1 0
+O3 O2- 4 a -0.0998(4) 0.5587(3) 0.1377(2) 0.0110(6) 1 0
+O4 O2- 4 a -0.4696(4) 0.5428(3) 0.2894(2) 0.0138(6) 1 0
+O5 O2- 4 a 0.0823(4) 0.5137(3) -0.0291(2) 0.0106(6) 1 0
+O6 O2- 4 a -0.2840(5) 0.1720(3) 0.1138(2) 0.0117(6) 1 0
+O7 O2- 4 a 0.1676(4) 0.4687(2) 0.3237(2) 0.0141(6) 1 0
+O8 O2- 4 a -0.0995(5) 0.3487(2) 0.0593(2) 0.0125(7) 1 0
+O9 O2- 4 a -0.2033(4) 0.4891(3) 0.4701(2) 0.0136(6) 1 0
+O10 O2- 4 a 0.0653(7) 0.7770(4) 0.0231(3) 0.0305(10) 1 0
+H1 H1+ 4 a 0.049(11) 0.771(7) -0.044(6) 0.05(2) 1 0
+H2 H1+ 4 a 0.105(11) 0.856(6) 0.017(6) 0.05(2) 1 0
+O11 O2- 4 a 0.4899(5) 0.2324(3) 0.3219(3) 0.0222(8) 1 0
+H3 H1+ 4 a 0.500(13) 0.173(5) 0.281(5) 0.08(3) 1 0
+H4 H1+ 4 a 0.579(10) 0.269(5) 0.286(5) 0.037(18) 1 0
+O12 O2- 4 a 0.4219(6) 0.4539(3) 0.1060(3) 0.0235(8) 1 0
+H5 H1+ 4 a 0.462(8) 0.469(5) 0.163(4) 0.018(15) 1 0
+H6 H1+ 4 a 0.508(17) 0.487(14) 0.066(9) 0.25(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tb1 Tb3+ 0.00780(8) 0.00730(8) 0.00761(8) -0.00017(8) 0.00005(8) -0.00086(8)
+Si1 Si4+ 0.0079(5) 0.0075(5) 0.0092(5) 0.0007(5) -0.0003(5) 0.0003(4)
+Si2 Si4+ 0.0097(5) 0.0075(5) 0.0064(5) 0.0004(5) -0.0001(4) -0.0001(4)
+Si3 Si4+ 0.0116(7) 0.0057(5) 0.0081(5) -0.0002(5) -0.0005(5) 0.0006(4)
+Na1 Na1+ 0.0215(10) 0.0143(8) 0.0196(9) 0.0015(10) 0.0014(10) -0.0022(7)
+Na2 Na1+ 0.0215(11) 0.0301(12) 0.0409(14) -0.0028(9) -0.0098(10) -0.0040(11)
+Na3 Na1+ 0.024(4) 0.022(4) 0.010(3) 0.011(3) 0.0083(18) 0.003(2)
+Na4 Na1+ 0.08(3) 0.076(13) 0.045(13) 0.044(15) 0.014(19) 0.036(9)
+O1 O2- 0.0125(15) 0.0089(14) 0.0147(16) 0.0016(12) 0.0008(12) 0.0014(11)
+O2 O2- 0.0179(18) 0.0118(15) 0.0116(16) -0.0012(12) 0.0007(13) -0.0041(12)
+O3 O2- 0.0180(17) 0.0099(14) 0.0052(13) -0.0006(12) 0.0008(12) -0.0043(11)
+O4 O2- 0.0110(14) 0.0155(15) 0.0148(17) 0.0018(11) 0.0018(13) 0.0009(13)
+O5 O2- 0.0104(13) 0.0099(14) 0.0115(13) -0.0016(13) 0.0017(10) -0.0006(13)
+O6 O2- 0.0140(15) 0.0089(14) 0.0120(16) -0.0015(12) -0.0012(13) 0.0005(12)
+O7 O2- 0.0116(14) 0.0119(14) 0.0188(17) 0.0026(12) -0.0022(12) -0.0025(11)
+O8 O2- 0.0196(18) 0.0077(14) 0.0101(14) 0.0002(12) 0.0006(13) 0.0013(11)
+O9 O2- 0.0092(13) 0.0171(16) 0.0146(15) 0.0023(14) 0.0019(10) 0.0018(15)
+O10 O2- 0.048(3) 0.022(2) 0.021(2) -0.0105(18) 0.0071(19) -0.0014(16)
+O11 O2- 0.0216(19) 0.0215(19) 0.023(2) -0.0061(15) 0.0096(15) -0.0074(15)
+O12 O2- 0.0224(18) 0.032(2) 0.0162(18) -0.0063(16) -0.0011(15) -0.0018(16)
+#End of TTdata_172820-ICSD

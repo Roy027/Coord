@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427207-ICSD
+_database_code_ICSD 427207
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium tetrabarium decasulfidotrigermanate chloride'
+_chemical_formula_structural 'Na Ba4 (Ge3 S10) Cl'
+_chemical_formula_sum 'Ba4 Cl1 Ge3 Na1 S10'
+_exptl_crystal_density_diffrn 3.82
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Noncentrosymmetric chalcohalide Na Ba4 Ge3 S10 Cl with large band gap and IR
+NLO response
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Journal of Materials Chemistry C: Materials for Optical and Electronic Devices
+; 2014 2 4590 4596 JMCCCX
+loop_
+_publ_author_name
+'Feng, Kai'
+'Kang, Lei'
+'Lin, Zheshuai'
+'Yao, Jiyong'
+'Wu, Yicheng'
+_cell_length_a 9.7653(2)
+_cell_length_b 9.7653(2)
+_cell_length_c 12.0581(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 995.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0424
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Na1+ 1
+Ge4+ 4
+S2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 6 c 0.66062(11) 0.91700(11) 0.86686(10) 0.0357(4) 1 0
+Ba2 Ba2+ 2 b 0.3333 0.6667 0.54849(12) 0.0220(4) 1 0
+Na1 Na1+ 2 a 0. 1. 0.6110(11) 0.042(3) 1 0
+Ge1 Ge4+ 6 c 0.44669(13) 1.11847(13) 0.70162(11) 0.0125(3) 1 0
+S1 S2- 6 c 0.6620(4) 1.1143(4) 0.6362(3) 0.0209(8) 1 0
+S2 S2- 6 c 0.4231(4) 1.0881(4) 0.8785(3) 0.0240(8) 1 0
+S3 S2- 6 c 0.2493(4) 0.9329(4) 0.6105(3) 0.0199(8) 1 0
+S4 S2- 2 b 0.3333 0.6667 0.8043(6) 0.0280(15) 1 0
+Cl1 Cl1- 2 a 1. 1. 0.8601(9) 0.0407(19) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0335(6) 0.0358(6) 0.0378(6) 0.0173(4) -0.0071(5) -0.0061(5)
+Ba2 Ba2+ 0.0246(5) 0.0246(5) 0.0168(7) 0.0123(3) 0. 0.
+Na1 Na1+ 0.042(4) 0.042(4) 0.042(7) 0.0209(19) 0. 0.
+Ge1 Ge4+ 0.0112(6) 0.0121(6) 0.0141(8) 0.0058(5) -0.0034(5) -0.0050(5)
+S1 S2- 0.0178(16) 0.0174(16) 0.0275(19) 0.0087(14) 0.0011(13) -0.0079(14)
+S2 S2- 0.0227(17) 0.0240(17) 0.0111(17) 0.0010(13) -0.0037(14) -0.0068(13)
+S3 S2- 0.0152(16) 0.0191(18) 0.024(2) 0.0072(14) -0.0067(12) -0.0139(13)
+S4 S2- 0.031(2) 0.031(2) 0.023(4) 0.0153(12) 0. 0.
+Cl1 Cl1- 0.0207(18) 0.0207(18) 0.081(6) 0.0104(9) 0. 0.
+#End of TTdata_427207-ICSD

@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_620-ICSD
+_database_code_ICSD 620
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Trisodium erbium bis(vanadate) - alpha'
+_chemical_formula_structural 'Na3 Er (V O4)2'
+_chemical_formula_sum 'Er1 Na3 O8 V2'
+_exptl_crystal_density_diffrn 4.02
+_publ_section_title
+'Crystal structure of the sodium erbium orthovanadate alpha-Na3 Er (V O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1976 32 2799 2802 ACBCAR
+loop_
+_publ_author_name
+'Salmon, R.'
+'Parent, C.'
+'le Flem, G.'
+'Vlasse, M.'
+_cell_length_a 5.490(5)
+_cell_length_b 9.739(8)
+_cell_length_c 7.215(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.07(5)
+_cell_angle_gamma 90.
+_cell_volume 385.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Er3+ 3
+V5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Er1 Er3+ 2 d 0.5 0 0 . 1. 0
+V1 V5+ 4 e 0.0169(2) 0.1825(1) 0.2236(1) . 1. 0
+Na1 Na1+ 2 c 0.5 0 0.5 . 1. 0
+Na2 Na1+ 4 e 0.5099(6) 0.3567(3) 0.2091(5) . 1. 0
+O1 O2- 4 e 0.0589(8) 0.3577(4) 0.2576(6) . 1. 0
+O2 O2- 4 e 0.1404(9) 0.0997(5) 0.4048(7) . 1. 0
+O3 O2- 4 e 0.1684(9) 0.1327(5) 0.0328(7) . 1. 0
+O4 O2- 4 e 0.7122(8) 0.1361(5) 0.2000(7) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Er1 Er3+ 0.00431(7) 0.00142(2) 0.00327(4) -.00005(3) -.00008(3) -.00007(4)
+V1 V5+ 0.00351(17) 0.00124(6) 0.00360(11) 0.00005(4) -.00007(5) -.00027(7)
+Na1 Na1+ 0.02114(155) 0.00884(59) 0.01289(93) 0.00863(104) -.01140(99)
+-.00761(76)
+Na2 Na1+ 0.01034(78) 0.00384(26) 0.00927(54) 0.00114(39) 0.00154(51) -.00051(33)
+O1 O2- 0.00954(111) 0.00145(30) 0.00458(61) -.00057(23) 0.00089(32) -.00053(34)
+O2 O2- 0.00908(116) 0.00293(39) 0.00770(78) 0.00082(54) -.00101(38) 0.00170(46)
+O3 O2- 0.00852(111) 0.00324(38) 0.00590(69) 0.00155(55) 0.00150(69) -.00086(43)
+O4 O2- 0.00467(94) 0.00217(33) 0.00744(72) -.00088(5) -.00022(32) -.00111(40)
+#End of TTdata_620-ICSD

@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78342-ICSD
+_database_code_ICSD 78342
+_audit_creation_date 1996-04-22
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Sodium vanadium catena-disilicate'
+_chemical_formula_structural 'Na V (Si2 O6)'
+_chemical_formula_sum 'Na1 O6 Si2 V1'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Natalyite
+_exptl_crystal_density_diffrn 3.52
+_cell_measurement_temperature 296.
+_publ_section_title 'Na V Si2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1994 50 1652 1655 ACSCEE
+loop_
+_publ_author_name
+'Ohashi, H.'
+'Osawa, T.'
+'Sato, A.'
+_cell_length_a 9.6339(4)
+_cell_length_b 8.7413(2)
+_cell_length_c 5.2960(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.905(2)
+_cell_angle_gamma 90.
+_cell_volume 426.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+V3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.30140(9) 0.25 0.0120(1) 1. 0
+V1 V3+ 4 e 0 0.90506(3) 0.25 0.00385(3) 1. 0
+Si1 Si4+ 8 f 0.29177(3) 0.09057(3) 0.23925(5) 0.00390(4) 1. 0
+O1 O2- 8 f 0.11532(8) 0.07946(9) 0.1440(1) 0.0053(1) 1. 0
+O2 O2- 8 f 0.36103(8) 0.25688(9) 0.3054(1) 0.0071(1) 1. 0
+O3 O2- 8 f 0.35238(8) 0.00921(9) 0.0132(1) 0.0067(1) 1. 0
+#End of TTdata_78342-ICSD

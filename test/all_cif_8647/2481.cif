@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2481-ICSD
+_database_code_ICSD 2481
+_audit_creation_date 1980-01-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium catena-dithioantimonate(III) - alpha'
+_chemical_formula_structural 'Na (Sb S2)'
+_chemical_formula_sum 'Na1 S2 Sb1'
+_chemical_name_structure_type KFeS2
+_exptl_crystal_density_diffrn 3.62
+_publ_section_title
+
+;
+Structure des composes Na Sb S2 alpha et Na Sb S2 beta. Etude de l'influence
+de la paire electronique E de l'antimoine III dans la transition Na Sb S2
+alpha a Na Sb S2 beta
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1978
+446 159 168 ZAACAB
+loop_
+_publ_author_name
+'Olivier Fourcade, J.'
+'Philippot, E.'
+'Maurin, M.'
+_cell_length_a 8.232(1)
+_cell_length_b 8.252(2)
+_cell_length_c 6.836(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 124.28(1)
+_cell_angle_gamma 90.
+_cell_volume 383.71
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb3+ 3
+Na1+ 1
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sb1 Sb3+ 4 e 0 0.6027(1) 0.25 . 1. 0
+Na1 Na1+ 4 e 0 0.1336(6) 0.25 . 1. 0
+S1 S2- 8 f 0.2203(2) 0.4118(2) 0.2404(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 Sb3+ 0.0247(3) 0.0148(3) 0.0237(5) 0 0.0159(3) 0
+Na1 Na1+ 0.031 0.025(2) 0.026(3) 0 0.012(3) 0
+S1 S2- 0.020(1) 0.018(1) 0.014(1) 0.003(1) 0.009(1) 0.002(1)
+#End of TTdata_2481-ICSD

@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_151884-ICSD
+_database_code_ICSD 151884
+_audit_creation_date 2006-10-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Trisodium dilanthanum tris(borate)'
+_chemical_formula_structural 'Na3 La2 (B O3)3'
+_chemical_formula_sum 'B3 La2 Na3 O9'
+_exptl_crystal_density_diffrn 4.05
+_publ_section_title
+'Crystal structure of sodium lanthanum borate Na3 La2 (B O3)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Rengong Jingti Xuebao' 2004 33 490 495 RJXUEN
+loop_
+_publ_author_name
+'Zhang Guochun'
+'Li Yun-Ge'
+'Fu Pei Zhen'
+'Pan Shilie'
+'Chang Feng'
+'Wu Xicheng'
+_cell_length_a 5.1580(10)
+_cell_length_b 11.350(2)
+_cell_length_c 7.3230(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 428.71
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'A m m 2'
+_symmetry_Int_Tables_number 38
+_refine_ls_R_factor_all 0.0232
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Na1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 d 0 0.7133(1) 0.6691 0.005(1) 1. 0
+Na1 Na1+ 2 a 0 0.5 0.0449(10) 0.014(2) 1. 0
+Na2 Na1+ 2 b 0.5 0.5 0.7767(10) 0.009(1) 1. 0
+Na3 Na1+ 2 b 0.5 0.5 0.367(3) 0.129(11) 1. 0
+B1 B3+ 2 a 0 0.5 0.441(4) 0.011(4) 1. 0
+B2 B3+ 4 e 0.5 0.7879(11) 0.499(3) 0.012(4) 1. 0
+O1 O2- 2 a 0 0.5 0.6307(19) 0.020(4) 1. 0
+O2 O2- 4 e 0.5 0.6845(16) 0.579(3) 0.037(3) 1. 0
+O3 O2- 8 f 0.2657(11) 0.8419(5) 0.4579(8) 0.011(1) 1. 0
+O4 O2- 4 d 0 0.3969(9) 0.3497(15) 0.044(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.007(1) 0.005(1) 0.002(1) 0. 0. 0.001(1)
+Na1 Na1+ 0.013(4) 0.018(3) 0.011(4) 0. 0. 0.
+Na2 Na1+ 0.006(3) 0.008(3) 0.012(3) 0. 0. 0.
+Na3 Na1+ 0.018(6) 0.300(40) 0.067(10) 0. 0. 0.
+B1 B3+ 0.008(9) 0.009(11) 0.016(10) 0. 0. 0.
+B2 B3+ 0.007(7) 0.019(9) 0.011(8) 0. 0. 0.011(7)
+O1 O2- 0.036(8) 0.001(4) 0.023(12) 0. 0. 0.
+O2 O2- 0.014(5) 0.042(6) 0.056(10) 0. 0. 0.020(10)
+O3 O2- 0.003(2) 0.020(4) 0.009(3) 0.004(2) 0.002(2) 0.005(2)
+O4 O2- 0.118(12) 0.004(5) 0.010(4) 0. 0. -0.001(5)
+#End of TTdata_151884-ICSD

@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_108352-ICSD
+_database_code_ICSD 108352
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Sodium alumo-silicate (8.85/7.85/8.15/32) - HT'
+_chemical_formula_structural 'Na7.85 Al7.85 Si8.15 O32'
+_chemical_formula_sum 'Al7.85 Na7.85 O32 Si8.15'
+_chemical_name_mineral Nepheline
+_exptl_crystal_density_diffrn 2.61
+_cell_measurement_temperature 473.
+_publ_section_title
+'On the high temperature behaviour of monoclinic trinepheline'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Neues Jahrbuch fuer Mineralogie, Geologie und Palaeontologie, Abhandlungen,
+Abteilung A: Mineralogie, Petrographie
+; 2012 189 197 206 NJGAAY
+loop_
+_publ_author_name
+'Vulic, Pedrag'
+'Kahlenberg, V.'
+_cell_length_a 9.977(2)
+_cell_length_b 9.977(2)
+_cell_length_c 8.354(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 720.15
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0405
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 c 0.0306(18) 0.0412(17) 0.5160(30) .071(4) .308 0
+Na2 Na1+ 6 c 0.4461(1) 0.4450(1) 0.5136(6) .036(1) 1. 0
+Si1 Si4+ 2 b 0.3333 0.6667 0.7096(3) .015(1) .02 0
+Si2 Si4+ 2 b 0.3333 0.6667 0.3169(3) .016(1) 1. 0
+Si3 Si4+ 6 c 0.3313(1) 0.0936(1) 0.3295(1) .014(1) 1. 0
+Si4 Si4+ 6 c 0.2374(1) 0.3300(1) 0.2017(1) .015(1) .02 0
+Al1 Al3+ 2 b 0.3333 0.6667 0.7096(3) .015(1) .98 0
+Al2 Al3+ 6 c 0.2374(1) 0.3300(1) 0.2017(1) .015(1) .98 0
+O1 O2- 6 c 0.353(6) 0.654(11) 0.510(2) .042(6) .333 0
+O2 O2- 6 c 0.3091(2) 0.0223(2) 0.5117(7) .029(1) 1. 0
+O3 O2- 6 c 0.3477(4) 0.5219(3) 0.2541(8) .037(1) 1. 0
+O4 O2- 6 c 0.3454(4) 0.5083(3) 0.7749(7) .033(1) 1. 0
+O5 O2- 6 c 0.2821(4) 0.2249(4) 0.3355(6) .024(1) 1. 0
+O6 O2- 6 c 0.2621(4) 0.2223(4) 0.7075(6) .024(1) 1. 0
+#End of TTdata_108352-ICSD

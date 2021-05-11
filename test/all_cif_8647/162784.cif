@@ -1,0 +1,86 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_162784-ICSD
+_database_code_ICSD 162784
+_audit_creation_date 2009-08-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Lithium yttrium tetrakis(phosphate(V))'
+_chemical_formula_structural 'Li Y (P O3)4'
+_chemical_formula_sum 'Li1 O12 P4 Y1'
+_chemical_name_structure_type LiYb(PO3)4
+_exptl_crystal_density_diffrn 3.11
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Syntheses, crystal structures and characterizations of Li M (P O3)4 (M= Y, Dy)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Molecular Structure' 2008 892 8 12 JMOSB4
+loop_
+_publ_author_name
+'Zhao Dan'
+'Zhang Hao'
+'Huang Shu Ping'
+'Fang Ming'
+'Zhang Wei Long'
+'Yang Song Ling'
+'Cheng Wen Dan'
+_cell_length_a 16.236(5)
+_cell_length_b 7.0183(16)
+_cell_length_c 9.548(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 125.98(3)
+_cell_angle_gamma 90.
+_cell_volume 880.42
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0202
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Y3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.5 0.2943(8) 0.25 0.0122(12) 1. 0
+Y1 Y3+ 4 e 0 0.29695(4) 0.25 0.00499(14) 1. 0
+P1 P5+ 8 f 0.36249(4) 0.44829(8) 0.34045(7) 0.00486(16) 1. 0
+P2 P5+ 8 f 0.14647(4) 0.34979(8) 0.09709(7) 0.00483(16) 1. 0
+O1 O2- 8 f 0.38703(14) 0.2847(2) 0.4574(2) 0.0096(4) 1. 0
+O2 O2- 8 f 0.15711(13) 0.1258(2) 0.0795(2) 0.0084(3) 1. 0
+O3 O2- 8 f 0.25535(12) 0.4217(2) 0.15812(19) 0.0085(3) 1. 0
+O4 O2- 8 f 0.12780(13) 0.3840(2) 0.2296(2) 0.0094(3) 1. 0
+O5 O2- 8 f 0.43489(12) 0.4976(2) 0.2975(2) 0.0082(3) 1. 0
+O6 O2- 8 f 0.07078(12) 0.4159(2) -0.08350(19) 0.0086(3) 1. 0
+#End of TTdata_162784-ICSD

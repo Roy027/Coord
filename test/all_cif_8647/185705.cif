@@ -1,0 +1,94 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_185705-ICSD
+_database_code_ICSD 185705
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Lithium aluminium digermanate'
+_chemical_formula_structural 'Li Al (Ge2 O6)'
+_chemical_formula_sum 'Al1 Ge2 Li1 O6'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_chemical_name_mineral Unnamed_Pyroxene
+_exptl_crystal_density_diffrn 4.34
+_cell_measurement_temperature 295.
+_publ_section_title
+'Synthetic Li Al Ge 2O6: the first pyroxene with P21/n symmetry'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 2012 97 1213 1218 AMMIAY
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Nestola, F.'
+'Miletich, R.'
+_cell_length_a 9.9015(11)
+_cell_length_b 8.4047(9)
+_cell_length_c 5.4036(5)
+_cell_angle_alpha 90
+_cell_angle_beta 110.637(9)
+_cell_angle_gamma 90
+_cell_volume 420.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0326
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Al3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.5054(5) 0.2831(6) 0.7996(9) 0.017(1) 1. 0
+Al1 Al3+ 4 e 0.49535(7) 0.08642(8) 0.2467(2) 0.0014(1) 1. 0
+Ge1 Ge4+ 4 e 0.29282(3) 0.58271(3) 0.72816(6) 0.00605(6) 1. 0
+Ge2 Ge4+ 4 e 0.28091 0.38669(3) 0.22912(5) 0.00529(6) 1. 0
+O1 O2- 4 e 0.1045(2) 0.5728(2) 0.6457(3) 0.00607(3) 1. 0
+O2 O2- 4 e 0.3611(2) 0.5068(2) 0.0581(4) 0.0087(3) 1. 0
+O3 O2- 4 e 0.3876(2) 0.7570(2) 0.7990(4) 0.0094(3) 1. 0
+O4 O2- 4 e 0.3581(2) 0.4358(2) 0.5658(4) 0.0080(3) 1. 0
+O5 O2- 4 e 0.0914(2) 0.4019(2) 0.1275(3) 0.0069(3) 1. 0
+O6 O2- 4 e 0.3264(2) 0.1907(2) 0.2155(4) 0.0105(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.017(3) 0.017(2) 0.014(2) 0.003(2) 0.002(2) 0.005(2)
+Al1 Al3+ 0.0004(2) 0.0017(3) 0.0023(3) 0.0003(2) 0.0006(2) -0.0003(2)
+Ge1 Ge4+ 0.0048(1) 0.0060(1) 0.0083(1) -0.00147(8) 0.00337(9) -0.0015(1)
+Ge2 Ge4+ 0.0043(1) 0.0061(1) 0.0059(1) 0.00064(8) 0.00222(9) -0.0001(1)
+O1 O2- 0.0040(6) 0.0086(7) 0.0045(8) -0.0006(6) 0.0001(6) 0.0005(6)
+O2 O2- 0.0070(7) 0.0118(7) 0.0069(9) -0.0015(6) 0.0023(7) 0.0023(7)
+O3 O2- 0.0091(8) 0.0084(7) 0.0106(9) -0.0036(6) 0.0035(7) -0.0007(7)
+O4 O2- 0.0080(7) 0.0093(7) 0.0057(8) 0.0021(6) 0.0010(6) -0.0021(6)
+O5 O2- 0.0030(6) 0.0093(7) 0.0078(9) 0.0002(5) 0.0014(6) -0.0006(6)
+O6 O2- 0.0092(7) 0.0065(7) 0.019(1) 0.0023(6) 0.0093(7) 0.0003(7)
+#End of TTdata_185705-ICSD

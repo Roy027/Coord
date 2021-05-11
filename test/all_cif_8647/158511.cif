@@ -1,0 +1,81 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_158511-ICSD
+_database_code_ICSD 158511
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Lithium aluminium catena-disilicate'
+_chemical_formula_structural 'Li Al (Si2 O6)'
+_chemical_formula_sum 'Al1 Li1 O6 Si2'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_chemical_name_mineral Spodumene
+_exptl_crystal_density_diffrn 3.29
+_cell_measurement_temperature 293.
+_cell_measurement_pressure 3342000.
+_publ_section_title
+
+;
+Displacive phase transitions in C-centred clinopyroxenes: spodumene, Li Sc Si2
+O6 and Zn Si O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2000 27 719 731 PCMIDU
+loop_
+_publ_author_name
+'Arlt, T.'
+'Angel, R.J.'
+_cell_length_a 9.3114(5)
+_cell_length_b 8.3614(7)
+_cell_length_c 5.1100(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.274(5)
+_cell_angle_gamma 90.
+_cell_volume 375.55
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Li1+ 1
+Si4+ 4
+O2- -2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 e 0.2497(3) 0.6561(4) 0.2234(4) 0.32(3) 1. 0
+Li1 Li1+ 4 e 0.2563(17) 0.016(2) 0.230(3) 2.2(2) 1. 0
+Si1 Si4+ 4 e 0.0466(2) 0.3440(3) 0.2738(3) 0.32(3) 1. 0
+O1 O2- 4 e 0.8616(5) 0.3316(8) 0.1661(8) 0.36(7) 1. 0
+O2 O2- 4 e 0.1175(5) 0.5175(8) 0.2875(8) 0.53(9) 1. 0
+O3 O2- 4 e 0.1086(6) 0.2813(7) 0.5914(9) 0.34(8) 1. 0
+Si2 Si4+ 4 e 0.5505(2) 0.8426(3) 0.2364(3) 0.35(3) 1. 0
+O4 O2- 4 e 0.3628(5) 0.8297(8) 0.1126(8) 0.32(7) 1. 0
+O5 O2- 4 e 0.6215(5) 0.0084(8) 0.3520(8) 0.58(9) 1. 0
+O6 O2- 4 e 0.6102(5) 0.7126(8) 0.4845(9) 0.58(9) 1. 0
+#End of TTdata_158511-ICSD

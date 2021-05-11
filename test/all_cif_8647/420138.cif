@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_420138-ICSD
+_database_code_ICSD 420138
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Sodium vanadate(III) - LT'
+_chemical_formula_structural 'Na (V O2)'
+_chemical_formula_sum 'Na1 O2 V1'
+_chemical_name_structure_type NaNiO2(mS8)
+_exptl_crystal_density_diffrn 4.21
+_cell_measurement_temperature 91.5
+_publ_section_title 'Successive orbital ordering transitions in Na V O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review Letters' 2008 101 166402-1 166402-4 PRLTAO
+loop_
+_publ_author_name
+'McQueen, T.M.'
+'Stephens, P.W.'
+'Huang, Q.'
+'Klimczuk, T.'
+'Ronning, F.'
+'Cava, R.J.'
+_cell_length_a 5.1758(1)
+_cell_length_b 3.0078(1)
+_cell_length_c 5.6340(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.629(1)
+_cell_angle_gamma 90.
+_cell_volume 83.59
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+V3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0. 0. 0. 0.01112 1. 0
+V1 V3+ 2 d 0. 0.5 0.5 0.008 1. 0
+O1 O2- 4 i 0.2368(7) 0. 0.6989(5) 0.00782 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0163(18) 0.0070(14) 0.0087(20) 0. 0.0017(17) 0.
+V1 V3+ 0.0100(9) 0.0046(7) 0.0082(9) 0. 0.0010(8) 0.
+O1 O2- 0.0097(20) 0.0087(16) 0.0054(28) 0. 0.0028(20) 0.
+#End of TTdata_420138-ICSD

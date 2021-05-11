@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24781-ICSD
+_database_code_ICSD 24781
+_audit_creation_date 1982-12-31
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Sodium potassium tellurate(IV) trihydrate'
+_chemical_formula_structural 'Na K (Te O3) (H2 O)3'
+_chemical_formula_sum 'H6 K1 Na1 O6 Te1'
+_chemical_name_structure_type NaKTeO3(H2O)3
+_exptl_crystal_density_diffrn 2.9
+_publ_section_title
+
+;
+Etude du tellurite mixte de sodium et de potassium a trois molecules d'eau: Na
+K Te O3 (H2 O)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 703 706 ACBCAR
+loop_
+_publ_author_name
+'Daniel, F.'
+'Moret, J.'
+'Maurin, M.'
+'Philippot, E.'
+_cell_length_a 6.550(3)
+_cell_length_b 6.550(3)
+_cell_length_c 8.980(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 333.65
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+K1+ 1
+Te4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0.3333 0.6667 0.3011(15) . 1. 0
+K1 K1+ 2 b 0.6667 0.3333 0.2236(10) . 1. 0
+Te1 Te4+ 2 a 0 0 0.25 . 1. 0
+O1 O2- 6 c 0.0966(16) 0.8129(16) 0.1586(13) . 1. 0
+O2 O2- 6 c 0.0049(13) 0.4535(23) 0.4566(19) . 1. 0
+H1 H1+ 6 c 0.43 0.1 0.5 4. 1. 0
+H2 H1+ 6 c 0.58 0.02 0.47 4. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.034(2) 0.034(2) 0.025(6) 0.017(1) 0 0
+K1 K1+ 0.038(2) 0.038(2) 0.013(3) 0.019(1) 0 0
+Te1 Te4+ 0.0175(5) 0.0175(5) 0.0161(6) 0.0088(3) 0 0
+O1 O2- 0.017(4) 0.022(4) 0.024(4) 0.014(2) 0.002(2) 0.002(4)
+O2 O2- 0.023(5) 0.017(5) 0.029(5) 0.011(2) 0.008(3) 0.002(4)
+#End of TTdata_24781-ICSD

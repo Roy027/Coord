@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262512-ICSD
+_database_code_ICSD 262512
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Trisodium tetraniobium triarsenic nonadecaoxide'
+_chemical_formula_structural 'Na3 Nb4 As3 O19'
+_chemical_formula_sum 'As3 Na3 Nb4 O19'
+_exptl_crystal_density_diffrn 4.02
+_cell_measurement_temperature 298.
+_publ_section_title 'Non-centrosymmetric Na3 Nb4 As3 O19'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2012 68
+i25 i26 ACSEBH
+loop_
+_publ_author_name
+'Cherif, S.F.'
+'Hizaoui, K.'
+'Zid, M.F.'
+'Driss, A.'
+_cell_length_a 13.014(2)
+_cell_length_b 24.170(3)
+_cell_length_c 5.0880(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1600.42
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.0288
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+As5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 8 c 0.09989(4) 0.61182(2) 0.98822(12) 0.00837(14) 1 0
+Nb2 Nb5+ 4 b 0.5 0.55734(4) 0.75 0.0191(2) 1 0
+Nb3 Nb5+ 4 b 0.5 0.66841(3) 0.25 0.0147(2) 1 0
+As1 As5+ 8 c 0.28249(5) 0.61930(3) 0.51616(17) 0.00926(16) 1 0
+As2 As5+ 4 b 0. 0.73103(4) 0.25 0.0116(2) 1 0
+Na1 Na1+ 4 a 0.2677(4) 0.5 0. 0.066(3) 0.937(16) 0
+Na2 Na1+ 4 a 0.0494(12) 0.5 0.5 0.044(4) 0.68(3) 0
+Na3 Na1+ 4 a 0.184(4) 0.5 0.5 0.027(18) 0.092(18) 0
+Na4 Na1+ 4 a 0.105(7) 0.5 0.5 0.029(17) 0.11(3) 0
+Na5 Na1+ 8 c 0.771(3) 0.7465(10) 0.753(13) 0.014(11) 0.12(2) 0
+Na6 Na1+ 8 c 0.742(4) 0.7414(15) 0.629(18) 0.022(14) 0.11(3) 0
+Na7 Na1+ 8 c 0.7659(13) 0.7594(7) 0.006(11) 0.010(5) 0.191(16) 0
+Na8 Na1+ 8 c 0.7726(19) 0.7525(11) 0.892(12) 0.018(8) 0.17(2) 0
+O1 O2- 8 c 0.3557(4) 0.6722(2) 0.3978(9) 0.0126(11) 1 0
+O2 O2- 4 b 0. 0.4110(3) 0.75 0.0139(14) 1 0
+O3 O2- 8 c 0.2178(4) 0.64941(19) 0.7635(11) 0.0148(10) 1 0
+O4 O2- 8 c 0.1043(4) 0.6949(2) 0.1612(10) 0.0151(10) 1 0
+O5 O2- 8 c 0.2132(4) 0.5923(2) 0.2719(12) 0.0156(11) 1 0
+O6 O2- 8 c 0.6461(4) 0.56446(17) 0.8803(9) 0.0096(10) 1 0
+O7 O2- 4 a 0.4590(5) 0.5 0. 0.0149(14) 1 0
+O8 O2- 8 c 0.1235(4) 0.5478(2) 0.8340(10) 0.0151(10) 1 0
+O9 O2- 8 c -0.0435(4) 0.7711(2) 0.0017(15) 0.0264(14) 1 0
+O10 O2- 4 b 0. 0.6408(3) 0.75 0.0150(15) 1 0
+O11 O2- 8 c 0.4634(4) 0.61482(19) 0.0053(14) 0.0234(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0069(3) 0.0093(3) 0.0089(3) -0.00043(19) 0.0005(4) -0.0009(2)
+Nb2 Nb5+ 0.0102(4) 0.0107(4) 0.0364(6) 0. -0.0103(5) 0.
+Nb3 Nb5+ 0.0139(4) 0.0088(4) 0.0212(4) 0. 0.0098(4) 0.
+As1 As5+ 0.0060(3) 0.0116(3) 0.0101(4) 0.0003(2) 0.0005(3) 0.0015(3)
+As2 As5+ 0.0091(5) 0.0072(4) 0.0186(5) 0. -0.0002(5) 0.
+Na1 Na1+ 0.012(3) 0.036(4) 0.150(8) 0. 0. 0.036(6)
+Na2 Na1+ 0.045(8) 0.024(4) 0.063(7) 0. 0. -0.026(5)
+O1 O2- 0.007(2) 0.015(3) 0.015(3) 0.000(2) -0.0004(19) 0.004(2)
+O2 O2- 0.010(3) 0.020(3) 0.012(3) 0. -0.006(3) 0.
+O3 O2- 0.013(2) 0.014(2) 0.017(3) -0.0008(19) 0.004(3) -0.003(2)
+O4 O2- 0.008(2) 0.015(2) 0.022(3) 0.000(2) -0.001(2) -0.005(2)
+O5 O2- 0.010(2) 0.018(2) 0.019(3) -0.002(2) -0.007(2) 0.000(2)
+O6 O2- 0.011(2) 0.002(2) 0.016(3) -0.0010(19) -0.005(2) 0.0001(18)
+O7 O2- 0.012(3) 0.012(3) 0.020(4) 0. 0. 0.009(4)
+O8 O2- 0.016(2) 0.010(2) 0.020(2) 0.002(2) 0.001(2) -0.006(2)
+O9 O2- 0.016(3) 0.022(3) 0.041(4) -0.003(2) -0.001(3) 0.025(3)
+O10 O2- 0.014(3) 0.016(3) 0.015(4) 0. -0.005(4) 0.
+O11 O2- 0.011(2) 0.023(3) 0.037(3) -0.0011(18) -0.004(3) -0.016(4)
+#End of TTdata_262512-ICSD

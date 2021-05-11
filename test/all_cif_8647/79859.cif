@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79859-ICSD
+_database_code_ICSD 79859
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Sodium dibismuth triantimony(V) oxide'
+_chemical_formula_structural 'Na Bi2 Sb3 O11'
+_chemical_formula_sum 'Bi2 Na1 O11 Sb3'
+_chemical_name_structure_type Ru3Bi3O11
+_exptl_crystal_density_diffrn 7.63
+_publ_section_title
+'Na Bi2 Sb3 O11: an ordered structure related to the cubic K Sb O3 type'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1995 32 495
+504 EJSCE5
+loop_
+_publ_author_name
+'Champarnaud-Mesjard, J.C.'
+'Frit, B.'
+'Aftati, A.'
+'El Farissi, M.'
+_cell_length_a 9.4919(2)
+_cell_length_b 9.4919(2)
+_cell_length_c 9.4919(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 855.18
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n -3 Z'
+_symmetry_Int_Tables_number 201
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, x+1/2, y+1/2'
+2 'z+1/2, x+1/2, -y'
+3 'z+1/2, -x, y+1/2'
+4 '-z, -x, -y'
+5 'y+1/2, -z, x+1/2'
+6 '-y, z+1/2, x+1/2'
+7 'y+1/2, z+1/2, -x'
+8 '-y, -z, -x'
+9 'x+1/2, y+1/2, -z'
+10 'x+1/2, -y, z+1/2'
+11 '-x, y+1/2, z+1/2'
+12 '-x, -y, -z'
+13 'z, -x+1/2, -y+1/2'
+14 '-z+1/2, -x+1/2, y'
+15 '-z+1/2, x, -y+1/2'
+16 'z, x, y'
+17 '-y+1/2, z, -x+1/2'
+18 'y, -z+1/2, -x+1/2'
+19 '-y+1/2, -z+1/2, x'
+20 'y, z, x'
+21 '-x+1/2, -y+1/2, z'
+22 '-x+1/2, y, -z+1/2'
+23 'x, -y+1/2, -z+1/2'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Bi3+ 3
+Sb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0 0 0 0.21(18) 1. 0
+Bi1 Bi3+ 8 e 0.37648(6) 0.37648(6) 0.37648(6) 0.59(2) 1. 0
+Sb1 Sb5+ 12 g 0.5893(1) 0.75 0.25 0.23(2) 1. 0
+O1 O2- 24 h 0.5430(11) 0.2537(8) 0.5881(9) 0.81(23) 1. 0
+O2 O2- 12 f 0.6104(11) 0.25 0.25 0.78(29) 1. 0
+O3 O2- 8 e 0.1444(9) 0.1444(9) 0.1444(9) 1.44(34) 1. 0
+#End of TTdata_79859-ICSD

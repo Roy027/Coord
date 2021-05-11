@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248412-ICSD
+_database_code_ICSD 248412
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Sodium cobalt telluride oxide (5/16/6/36)'
+_chemical_formula_structural 'Na5 Co15.5 Te6 O36'
+_chemical_formula_sum 'Co15.5 Na5 O36 Te6'
+_exptl_crystal_density_diffrn 5.7
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, structure, and magnetic properties of the novel sodium cobalt
+tellurate Na5Co15.5Te6O36
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2014 211 63 68 JSSCBI
+loop_
+_publ_author_name
+'Shan, Yue Jin'
+'Yoshioka, Yuta'
+'Wakeshima, Makoto'
+'Tezuka, Keitaro'
+'Imoto, Hideo'
+_cell_length_a 9.359(3)
+_cell_length_b 9.359(3)
+_cell_length_c 9.097(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 690.06
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Na1+ 1
+Co2+ 2
+Te6+ 6
+Co2+ 2
+Na1+ 1
+Co2+ 2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 6 h 0.8841(7) 0.1746(7) 0.25 0.0097(12) 1 0
+O2 O2- 12 i 0.6100(5) 0.1341(5) 0.1003(5) 0.0097(9) 1 0
+O3 O2- 12 i 0.6866(6) -0.1078(5) 0.0927(5) 0.0106(9) 1 0
+O4 O2- 6 h 0.4165(7) -0.1311(8) 0.25 0.0142(13) 1 0
+Na1 Na1+ 4 e 0 0 -0.344(18) 0.11(4) 0.54(14) 0
+Co1 Co2+ 12 i 0.34381(10) -0.00660(9) 0.08778(9) 0.0072(3) 1 0
+Te1 Te6+ 6 h 0.65608(6) 0.00984(6) 0.25 0.0053(2) 1 0
+Co2 Co2+ 2 d 0.6667 0.3333 0.25 0.0075(4) 1 0
+Na2 Na1+ 2 b 0 0 0 0.10(11) 0.3(3) 0
+Co3 Co2+ 4 f 0.3333 -0.3333 0.0819(3) 0.0106(10) 0.374(15) 0
+Na3 Na1+ 4 f 0.3333 -0.3333 0.0819(3) 0.0106(10) 0.626(15) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.006(3) 0.012(3) 0.008(3) 0.001(2) 0 0
+O2 O2- 0.0111(19) 0.012(2) 0.008(2) 0.0073(16) 0.0003(16) 0.0017(16)
+O3 O2- 0.015(2) 0.0102(19) 0.007(2) 0.0072(17) -0.0010(16) -0.0017(16)
+O4 O2- 0.005(3) 0.011(3) 0.024(4) 0.003(2) 0 0
+Na1 Na1+ 0.026(5) 0.026(5) 0.28(13) 0.013(3) 0 0
+Co1 Co2+ 0.0071(4) 0.0076(4) 0.0064(5) 0.0033(3) -0.0001(3) 0.0002(3)
+Te1 Te6+ 0.0051(3) 0.0051(3) 0.0054(4) 0.0024(2) 0 0
+Co2 Co2+ 0.0081(6) 0.0081(6) 0.0062(9) 0.0041(3) 0 0
+Na2 Na1+ 0.033(15) 0.033(15) 0.2(3) 0.016(8) 0 0
+Co3 Co2+ 0.0121(11) 0.0121(11) 0.0076(15) 0.0060(5) 0 0
+Na3 Na1+ 0.0121(11) 0.0121(11) 0.0076(15) 0.0060(5) 0 0
+#End of TTdata_248412-ICSD

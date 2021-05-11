@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80927-ICSD
+_database_code_ICSD 80927
+_audit_creation_date 1997-05-13
+_chemical_name_systematic
+'Sodium strontium titanium niobium oxide (0.7/0.3/0.3/0.7/3)'
+_chemical_formula_structural '(Na0.7 Sr0.3) (Ti0.3 Nb0.7) O3'
+_chemical_formula_sum 'Na0.7 Nb0.7 O3 Sr0.3 Ti0.3'
+_exptl_crystal_density_diffrn 4.73
+_cell_measurement_temperature 12.
+_publ_section_title
+
+;
+X-ray powder diffraction structural phase-transition study of (Na0.7 Sr0.3)
+(Ti0.3 Nb0.7) O3 using the Rietveld method of analysis
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Han'guk Chaelyo Hakhoechi' 1995 5 748 753 HCHAEU
+loop_
+_publ_author_name
+'Chung, H.-T.'
+'Kim, H.-G.'
+_cell_length_a 7.8022(22)
+_cell_length_b 7.8068(21)
+_cell_length_c 7.8304(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 476.95
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sr2+ 2
+Na1+ 1
+Sr2+ 2
+Ti4+ 4
+Nb5+ 5
+Ti4+ 4
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.250(24) 0.25 0.251(12) 0.528(82) 0.7 0
+Sr1 Sr2+ 4 c 0.250(24) 0.25 0.251(12) 0.528(82) 0.3 0
+Na2 Na1+ 4 c 0.251(14) 0.25 0.752(12) 0.528(82) 0.7 0
+Sr2 Sr2+ 4 c 0.251(14) 0.25 0.752(12) 0.528(82) 0.3 0
+Ti1 Ti4+ 4 a 0 0 0 0.581(46) 0.3 0
+Nb1 Nb5+ 4 a 0 0 0 0.581(46) 0.7 0
+Ti2 Ti4+ 4 b 0 0 0.5 0.581(46) 0.3 0
+Nb2 Nb5+ 4 b 0 0 0.5 0.581(46) 0.7 0
+O1 O2- 8 d 0.246(10) -.028(17) -.020(7) 0.56(25) 1. 0
+O2 O2- 8 d 0.010(14) -.007(17) 0.770(64) 0.56(25) 1. 0
+O3 O2- 4 c 0.023(26) 0.25 0.002(20) 0.56(25) 1. 0
+O4 O2- 4 c -.033(23) 0.25 0.522(13) 0.56(25) 1. 0
+#End of TTdata_80927-ICSD

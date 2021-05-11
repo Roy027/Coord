@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412844-ICSD
+_database_code_ICSD 412844
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Sodium nickel diiron tris(phosphate)'
+_chemical_formula_structural 'Na1.28 Ni0.86 Fe2 (P O4)3'
+_chemical_formula_sum 'Fe2 Na1.28 Ni0.86 O12 P3'
+_exptl_crystal_density_diffrn 3.55
+_publ_section_title
+'Synthesis and crystal structure of Na1.28 Ni0.86 Fe2 (P O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Crystallography' 2004 34 669 672 JCCYEV
+loop_
+_publ_author_name
+'Hidouri, M.'
+'Lajmi, B.'
+'Driss, A.'
+'Ben Amara, M.'
+_cell_length_a 6.438(2)
+_cell_length_b 10.515(3)
+_cell_length_c 13.166(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 891.28
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b m m'
+_symmetry_Int_Tables_number 74
+_refine_ls_R_factor_all 0.0313
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z+1/2'
+2 'x, -y, -z+1/2'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x, y, -z+1/2'
+6 '-x, y, z+1/2'
+7 '-x, y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y+1/2, z'
+10 'x+1/2, -y+1/2, -z'
+11 'x+1/2, -y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, y+1/2, -z'
+14 '-x+1/2, y+1/2, z'
+15 '-x+1/2, y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Ni2+ 2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 8 g 0.25 0.25 0.63503(4) 0.0052(2) 1 0
+Ni1 Ni2+ 4 a 0.5 0.5 0.5 0.0070(3) 0.8615(18) 0
+P1 P5+ 8 g 0.25 0.25 0.42783(8) 0.0080(3) 1 0
+O1 O2- 16 j 0.0608(4) 0.2840(2) 0.36469(14) 0.0126(5) 1 0
+O2 O2- 16 j 0.2115(3) 0.13829(18) 0.50702(16) 0.0099(4) 1 0
+P2 P5+ 4 e 0.0851(2) 0. 0.75 0.0076(4) 1 0
+O3 O2- 8 h -0.0470(5) 0. 0.6538(2) 0.0125(6) 1 0
+O4 O2- 8 i 0.2315(5) 0.1187(3) 0.75 0.0108(6) 1 0
+Na1 Na1+ 4 e -0.4026(6) 0. 0.75 0.0598(13) 1 0
+Na2 Na1+ 4 b 0.5 0. 0.5 0.048(4) 0.277(4) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0061(4) 0.0062(4) 0.0033(3) -0.00058(19) 0. 0.
+Ni1 Ni2+ 0.0096(5) 0.0061(4) 0.0053(4) 0. 0.0011(3) 0.
+P1 P5+ 0.0076(6) 0.0100(5) 0.0064(5) -0.0004(3) 0. 0.
+O1 O2- 0.0114(11) 0.0169(11) 0.0094(11) 0.0010(10) -0.0026(8) 0.0024(8)
+O2 O2- 0.0108(10) 0.0106(9) 0.0084(9) -0.0026(9) -0.0009(8) 0.0013(8)
+P2 P5+ 0.0093(8) 0.0078(6) 0.0058(7) 0. 0. 0.
+O3 O2- 0.0163(15) 0.0126(13) 0.0088(13) 0. -0.0026(12) 0.
+O4 O2- 0.0123(14) 0.0093(13) 0.0109(14) -0.0023(11) 0. 0.
+Na1 Na1+ 0.0172(19) 0.075(3) 0.087(4) 0. 0. 0.
+Na2 Na1+ 0.010(5) 0.020(5) 0.113(13) 0. 0.002(7) 0.
+#End of TTdata_412844-ICSD

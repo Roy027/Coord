@@ -1,0 +1,101 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251822-ICSD
+_database_code_ICSD 251822
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Lithium iron(III) bis(hydrogenphosphate(III))'
+_chemical_formula_structural 'Li Fe (H P O3)2'
+_chemical_formula_sum 'H2 Fe1 Li1 O6 P2'
+_exptl_crystal_density_diffrn 2.64
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Phosphite as polyanion-based cathode for Li-ion battery: synthesis, structure,
+and electrochemistry of LiFe(HPO3)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 6566 6572 INOCAJ
+loop_
+_publ_author_name
+'Yaghoobnejad Asl, Hooman'
+'Choudhury, Amitava'
+_cell_length_a 10.5936(14)
+_cell_length_b 10.5936(14)
+_cell_length_c 9.9714(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1119.03
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I -4 2 d'
+_symmetry_Int_Tables_number 122
+_refine_ls_R_factor_all 0.0251
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x+1/2, z+1/4'
+2 'y, -x, -z'
+3 'y, x+1/2, z+1/4'
+4 '-y, x, -z'
+5 'x, -y+1/2, -z+1/4'
+6 '-x, -y, z'
+7 '-x, y+1/2, -z+1/4'
+8 'x, y, z'
+9 '-y+1/2, -x, z+3/4'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'y+1/2, x, z+3/4'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y, -z+3/4'
+14 '-x+1/2, -y+1/2, z+1/2'
+15 '-x+1/2, y, -z+3/4'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P3+ 3
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 8 d 0.28194(5) 0.25 0.125 0.00799(16) 1 0
+P1 P3+ 16 e 0.44629(7) 0.25114(9) 0.40133(7) 0.0113(2) 1 0
+O1 O2- 16 e 0.3444(2) 0.1902(2) 0.4886(2) 0.0135(5) 1 0
+O2 O2- 16 e 0.4259(2) 0.2121(2) 0.2543(2) 0.0131(5) 1 0
+O3 O2- 16 e 0.5774(2) 0.2164(3) 0.4483(2) 0.0148(5) 1 0
+Li1 Li1+ 8 d 0.5627(8) 0.25 0.125 0.0239(19) 1 0
+H1 H1+ 16 e 0.444(4) 0.3736(17) 0.409(4) 0.007(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0086(3) 0.0081(3) 0.0072(3) 0. 0. 0.0004(3)
+P1 P3+ 0.0100(3) 0.0141(4) 0.0099(4) 0.0002(4) 0.0003(3) -0.0001(3)
+O1 O2- 0.0106(12) 0.0167(12) 0.0133(12) 0.0006(9) 0.0029(9) -0.0014(10)
+O2 O2- 0.0100(11) 0.0200(13) 0.0092(10) 0.0024(9) -0.0016(9) -0.0014(9)
+O3 O2- 0.0075(10) 0.0245(14) 0.0123(11) 0.0000(10) -0.0001(9) 0.0023(9)
+Li1 Li1+ 0.017(4) 0.039(5) 0.016(4) 0. 0. -0.006(4)
+#End of TTdata_251822-ICSD

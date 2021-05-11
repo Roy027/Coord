@@ -1,0 +1,183 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_422264-ICSD
+_database_code_ICSD 422264
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Sodium thiogallate hydrate *'
+_chemical_formula_structural 'Na5 (Ga4 S) (Ga S4)3 (H2 O)6'
+_chemical_formula_sum 'H12 Ga7 Na5 O6 S13'
+_exptl_crystal_density_diffrn 2.76
+_cell_measurement_temperature 290.
+_publ_section_title
+
+;
+Na5 (Ga4 S) (Ga S4)3 Â· 6 H2 O: A three-dimensional thiogallate containing a
+novel octahedral building block
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2011 13 1137 1142 SSSCFJ
+loop_
+_publ_author_name
+'Rumble, J.'
+'Vaqueiro, P.'
+_cell_length_a 17.577(4)
+_cell_length_b 17.577(4)
+_cell_length_c 17.577(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 5430.43
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F -4 3 c'
+_symmetry_Int_Tables_number 219
+_refine_ls_R_factor_all 0.0319
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, y, -x+1/2'
+2 '-y, x, -z+1/2'
+3 '-x, z, -y+1/2'
+4 'z, -y, -x+1/2'
+5 'y, -x, -z+1/2'
+6 'x, -z, -y+1/2'
+7 '-z, -y, x+1/2'
+8 '-y, -x, z+1/2'
+9 '-x, -z, y+1/2'
+10 'z, y, x+1/2'
+11 'y, x, z+1/2'
+12 'x, z, y+1/2'
+13 '-z, -x, y'
+14 '-y, -z, x'
+15 '-x, -y, z'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 '-z, x, -y'
+20 '-y, z, -x'
+21 '-x, y, -z'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+25 '-z, y+1/2, -x'
+26 '-y, x+1/2, -z'
+27 '-x, z+1/2, -y'
+28 'z, -y+1/2, -x'
+29 'y, -x+1/2, -z'
+30 'x, -z+1/2, -y'
+31 '-z, -y+1/2, x'
+32 '-y, -x+1/2, z'
+33 '-x, -z+1/2, y'
+34 'z, y+1/2, x'
+35 'y, x+1/2, z'
+36 'x, z+1/2, y'
+37 '-z, -x+1/2, y+1/2'
+38 '-y, -z+1/2, x+1/2'
+39 '-x, -y+1/2, z+1/2'
+40 'z, -x+1/2, -y+1/2'
+41 'y, -z+1/2, -x+1/2'
+42 'x, -y+1/2, -z+1/2'
+43 '-z, x+1/2, -y+1/2'
+44 '-y, z+1/2, -x+1/2'
+45 '-x, y+1/2, -z+1/2'
+46 'z, x+1/2, y+1/2'
+47 'y, z+1/2, x+1/2'
+48 'x, y+1/2, z+1/2'
+49 '-z+1/2, y, -x'
+50 '-y+1/2, x, -z'
+51 '-x+1/2, z, -y'
+52 'z+1/2, -y, -x'
+53 'y+1/2, -x, -z'
+54 'x+1/2, -z, -y'
+55 '-z+1/2, -y, x'
+56 '-y+1/2, -x, z'
+57 '-x+1/2, -z, y'
+58 'z+1/2, y, x'
+59 'y+1/2, x, z'
+60 'x+1/2, z, y'
+61 '-z+1/2, -x, y+1/2'
+62 '-y+1/2, -z, x+1/2'
+63 '-x+1/2, -y, z+1/2'
+64 'z+1/2, -x, -y+1/2'
+65 'y+1/2, -z, -x+1/2'
+66 'x+1/2, -y, -z+1/2'
+67 '-z+1/2, x, -y+1/2'
+68 '-y+1/2, z, -x+1/2'
+69 '-x+1/2, y, -z+1/2'
+70 'z+1/2, x, y+1/2'
+71 'y+1/2, z, x+1/2'
+72 'x+1/2, y, z+1/2'
+73 '-z+1/2, y+1/2, -x+1/2'
+74 '-y+1/2, x+1/2, -z+1/2'
+75 '-x+1/2, z+1/2, -y+1/2'
+76 'z+1/2, -y+1/2, -x+1/2'
+77 'y+1/2, -x+1/2, -z+1/2'
+78 'x+1/2, -z+1/2, -y+1/2'
+79 '-z+1/2, -y+1/2, x+1/2'
+80 '-y+1/2, -x+1/2, z+1/2'
+81 '-x+1/2, -z+1/2, y+1/2'
+82 'z+1/2, y+1/2, x+1/2'
+83 'y+1/2, x+1/2, z+1/2'
+84 'x+1/2, z+1/2, y+1/2'
+85 '-z+1/2, -x+1/2, y'
+86 '-y+1/2, -z+1/2, x'
+87 '-x+1/2, -y+1/2, z'
+88 'z+1/2, -x+1/2, -y'
+89 'y+1/2, -z+1/2, -x'
+90 'x+1/2, -y+1/2, -z'
+91 '-z+1/2, x+1/2, -y'
+92 '-y+1/2, z+1/2, -x'
+93 '-x+1/2, y+1/2, -z'
+94 'z+1/2, x+1/2, y'
+95 'y+1/2, z+1/2, x'
+96 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+S2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 24 c 0. 0.25 0.25 0.0145 1. 0
+Ga2 Ga3+ 32 e 0.17157(6) 0.17157(6) 0.32843(6) 0.0136 1. 0
+S1 S2- 96 h 0.06842(15) 0.14021(14) 0.25982(15) 0.0162 1. 0
+S2 S2- 8 b 0.25 0.25 0.25 0.0148 1. 0
+Na1 Na1+ 32 e 0.1057(2) 0.1057(2) 0.1057(2) 0.039 1. 0
+Na2 Na1+ 8 a 0. 0. 0. 0.0234 1. 0
+O1 O2- 48 f 0. 0. 0.1326(6) 0.0333 1. 0
+H1 H1+ 96 h -0.0158 0.041 0.1579 0.05 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0115(10) 0.0160(6) 0.0160(6) 0. 0. 0.
+Ga2 Ga3+ 0.0136(4) 0.0136(4) 0.0136(4) 0.0001(5) -0.0001(5) -0.0001(5)
+S1 S2- 0.0122(13) 0.0138(13) 0.0227(16) 0.0014(9) -0.0035(13) -0.0017(11)
+S2 S2- 0.0148(15) 0.0148(15) 0.0148(15) 0. 0. 0.
+Na1 Na1+ 0.039(2) 0.039(2) 0.039(2) -0.007(2) -0.007(2) -0.007(2)
+Na2 Na1+ 0.023(3) 0.023(3) 0.023(3) 0. 0. 0.
+O1 O2- 0.068(15) 0.010(9) 0.022(6) 0.012(5) 0. 0.
+#End of TTdata_422264-ICSD

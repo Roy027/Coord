@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253954-ICSD
+_database_code_ICSD 253954
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium iron(II) gallium sulfide (3/1/1/4)'
+_chemical_formula_structural 'Na3 Fe Ga S4'
+_chemical_formula_sum 'Fe1 Ga1 Na3 S4'
+_exptl_crystal_density_diffrn 2.8
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Magnetically frustrated quaternary chalcogenides with interpenetrating diamond
+lattices
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 7650 7656 INOCAJ
+loop_
+_publ_author_name
+'Mohapatra, Sudip'
+'Adhikary, Amit'
+'Ghosh, Kartik'
+'Choudhury, Amitava'
+_cell_length_a 12.832(4)
+_cell_length_b 12.832(4)
+_cell_length_c 18.632(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3067.94
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'I 41/a c d Z'
+_symmetry_Int_Tables_number 142
+_refine_ls_R_factor_all 0.0423
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+3/4'
+2 '-y+3/4, x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 '-x, y+1/2, -z+1/2'
+5 '-y+3/4, -x+1/4, z+1/4'
+6 'y+1/4, -x+1/4, z+3/4'
+7 '-x, -y+1/2, z'
+8 'x, -y+1/2, z+1/2'
+9 'y+1/4, -x+3/4, -z+1/4'
+10 '-y+3/4, -x+3/4, -z+3/4'
+11 'x, -y, -z+1/2'
+12 '-x, -y, -z'
+13 '-y+3/4, x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+1/4'
+15 '-x, y, z+1/2'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+1/4'
+18 '-y+1/4, x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 '-x+1/2, y, -z'
+21 '-y+1/4, -x+3/4, z+3/4'
+22 'y+3/4, -x+3/4, z+1/4'
+23 '-x+1/2, -y, z+1/2'
+24 'x+1/2, -y, z'
+25 'y+3/4, -x+1/4, -z+3/4'
+26 '-y+1/4, -x+1/4, -z+1/4'
+27 'x+1/2, -y+1/2, -z'
+28 '-x+1/2, -y+1/2, -z+1/2'
+29 '-y+1/4, x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+3/4'
+31 '-x+1/2, y+1/2, z'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Fe2+ 2
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 32 g 0.42150(5) 0.37163(4) 0.18818(3) 0.0184(2) 0.5 0
+Fe1 Fe2+ 32 g 0.42150(5) 0.37163(4) 0.18818(3) 0.0184(2) 0.5 0
+S1 S2- 32 g 0.54529(12) 0.46020(10) 0.12572(9) 0.0343(4) 1 0
+S2 S2- 16 e 0.33340(14) 0.5 0.25 0.0231(4) 1 0
+S3 S2- 16 d 0.5 0.25 0.26409(10) 0.0297(5) 1 0
+Na1 Na1+ 16 f 0.3834(2) 0.3666(2) 0.375 0.0413(9) 1 0
+Na2 Na1+ 32 g 0.3409(4) 0.1197(4) 0.2639(3) 0.114(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.0178(3) 0.0157(3) 0.0218(4) 0.0002(2) 0.0021(2) -0.0024(2)
+Fe1 Fe2+ 0.0178(3) 0.0157(3) 0.0218(4) 0.0002(2) 0.0021(2) -0.0024(2)
+S1 S2- 0.0327(7) 0.0188(6) 0.0514(9) -0.0006(5) 0.0232(7) -0.0016(6)
+S2 S2- 0.0185(8) 0.0225(9) 0.0284(9) 0. 0. -0.0111(7)
+S3 S2- 0.0344(11) 0.0279(10) 0.0267(10) 0.0050(8) 0. 0.
+Na1 Na1+ 0.0455(13) 0.0455(13) 0.0328(19) -0.0001(16) 0.0053(12) 0.0053(12)
+Na2 Na1+ 0.066(3) 0.138(5) 0.138(4) -0.057(3) 0.037(3) -0.057(4)
+#End of TTdata_253954-ICSD

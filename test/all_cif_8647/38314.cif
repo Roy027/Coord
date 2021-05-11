@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38314-ICSD
+_database_code_ICSD 38314
+_audit_creation_date 1984-12-31
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Lithium sodium niobate'
+_chemical_formula_structural 'Na (Nb O3)'
+_chemical_formula_sum 'Na1 Nb1 O3'
+_chemical_name_mineral 'Lueshite low'
+_exptl_crystal_density_diffrn 4.62
+_publ_section_title
+'Structure cristalline a 295 K de la phase ferroelectrique Li0.02 Na0.98 Nb O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1984 51 176 182 JSSCBI
+loop_
+_publ_author_name
+'von der Muehll, R.'
+'Sadel, A.'
+'Hagenmuller, P.'
+_cell_length_a 5.494(3)
+_cell_length_b 15.461(6)
+_cell_length_c 5.551(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 471.52
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P c 21 b'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.057
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, y+1/2, -z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.2438(10) 0.1204(10) 0.7149(11) . 1. 0
+Na2 Na1+ 4 a 0.2415(8) 0.3728(11) 0.7732(18) . 1. 0
+Nb1 Nb5+ 4 a 0.2565(1) 0 0.2232(1) . 1. 0
+Nb2 Nb5+ 4 a 0.2540(2) 0.2502(2) 0.2292(3) . 1. 0
+O1 O2- 4 a 0.459(1) 0.0054(10) 0.5506(12) . 1. 0
+O2 O2- 4 a 0.0327(10) -.0132(10) -.0186(16) . 1. 0
+O3 O2- 4 a 0.0331(11) 0.2645(5) 0.0358(10) . 1. 0
+O4 O2- 4 a 0.5364(10) 0.2299(5) 0.4603(10) . 1. 0
+O5 O2- 4 a 0.3124(12) -.1273(9) 0.2738(13) . 1. 0
+O6 O2- 4 a 0.1871(12) 0.1229(12) 0.2649(12) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 1.28(20) 0.23(20) 1.23(16) 0.23(16) 1.02(10) 0.4(2)
+Na2 Na1+ 0.8(2) 0.24(4) 0.56(10) 0.0(1) 0.0(1) 0.0(1)
+Nb1 Nb5+ 0.24(4) 0.38(5) 0.10(3) 0.07(3) -.09(1) 0.00(4)
+Nb2 Nb5+ 0.48(5) 0.30(5) 0.35(5) 0.00(2) 0.24(2) 0.00(4)
+O1 O2- 1.10(2) 3.5(5) 0.2(1) 0.5(3) 0.0(1) 0.6(2)
+O2 O2- 1.6(3) 3.2(6) 0.8(1) 0.15(3) 1.1(2) 0.0(2)
+O3 O2- 0.2(1) 0.4(1) 0.1(1) 0.0(1) 0.0(1) 0.1(1)
+O4 O2- 0.1(1) 0.1(1) 0.1(1) 0.0(1) -.02(1) 0.0(1)
+O5 O2- 0.8(2) 0.4(2) 0.1(1) 0.0(1) 0.0(1) 0.1(2)
+O6 O2- 1.0(2) 0.2(1) 0.6(1) 0.0(1) 0.0(1) 0.0(2)
+#End of TTdata_38314-ICSD

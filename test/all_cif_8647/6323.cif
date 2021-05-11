@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6323-ICSD
+_database_code_ICSD 6323
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium strontium germanate *'
+_chemical_formula_structural 'Na4 Sr Ge3 (Ge O4)3 O3'
+_chemical_formula_sum 'Ge6 Na4 O15 Sr1'
+_exptl_crystal_density_diffrn 4.66
+_publ_section_title
+'Crystal structure of alkali strontium germanate Na4 Sr Ge3 (Ge O4)3 O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1974 19 867 869 KRISAJ
+loop_
+_publ_author_name
+'Nadezhina, T.N.'
+'Pobedimskaya, E.A.'
+'Belov, N.V.'
+_cell_length_a 10.937(4)
+_cell_length_b 10.937(4)
+_cell_length_c 5.879(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 609.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Ge4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 2 d 0.6666 0.3333 0.25 0.21 1. 0
+Ge1 Ge4+ 6 g 0.5 0 0 -.11 1. 0
+Ge2 Ge4+ 6 h 0.2129 0.3884 0.25 -.15 1. 0
+Na1 Na1+ 2 b 0 0 0 0.24 1. 0
+Na2 Na1+ 6 h 0.2841 0.1236 0.25 0.95 1. 0
+O1 O2- 12 i 0.4682 0.1547 0 0.32 1. 0
+O2 O2- 6 h 0.2065 0.082 0.75 0.55 1. 0
+O3 O2- 6 h 0.6396 0.0875 0.75 0.14 1. 0
+O4 O2- 6 h 0.6136 0.0768 0.25 -.14 1. 0
+#End of TTdata_6323-ICSD

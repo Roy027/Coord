@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_417020-ICSD
+_database_code_ICSD 417020
+_audit_creation_date 2011-02-01
+_chemical_name_systematic
+'Barium sodium fluride chloride bromide (6.9/0.2/12/0.6/1.4)'
+_chemical_formula_structural 'Ba6.86 Na0.2 F12 (Br1.4 Cl0.6)'
+_chemical_formula_sum 'Ba6.86 Br1.4 Cl0.6 F12 Na0.2'
+_chemical_name_structure_type Ba7F12Cl2(distorted)
+_exptl_crystal_density_diffrn 5.25
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Calcium free solid solutions in the system Ba7 F12 Cl2-x Brx (x<1.5), a single
+component white phosphor host
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Crystallography' 2007 37 469 472 JCCYEV
+loop_
+_publ_author_name
+'Penhouet, T.'
+'Hagemann, H.'
+'Kubel, F.'
+'Rief, A.'
+_cell_length_a 10.6155(9)
+_cell_length_b 10.6155(9)
+_cell_length_c 4.2355(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 413.35
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+F1- -1
+Cl1- -1
+Br1- -1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 6 h .400750(17) .294852(17) .25 .01320(5) 1. 0
+Ba2 Ba2+ 2 a . . .25 .01533(14) .4296(14) 0
+F1 F1- 6 h .1127(5) .2122(4) .25 .003 .5 0
+F2 F1- 6 h .1498(6) .2730(4) .25 .003 .5 0
+F3 F1- 6 h .43286(16) .05731(16) .25 .035 1. 0
+Cl1 Cl1- 2 c .33333 .66666 .25 .003 .299(4) 0
+Br1 Br1- 2 c .33333 .66666 .25 .003 .701(4) 0
+Na1 Na1+ 2 b . . . .003 .100(5) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ .01529(10) .01481(10) .01147(9) .00921(7) . .
+Ba2 Ba2+ .0108(3) .0108(3) .0446(6) .00541(14) . .
+F1 F1- .010(2) .011(2) .0323(12) .001(2) . .
+F2 F1- .010(2) .011(2) .0323(12) .001(2) . .
+F3 F1- .0159(8) .0181(8) .0152(8) .0059(7) . .
+Cl1 Cl1- .0166(2) .0166(2) .0133(3) .00831(12) . .
+Br1 Br1- .0166(2) .0166(2) .0133(3) .00831(12) . .
+Na1 Na1+ .0108(3) .0108(3) .0446(6) .00541(14) . .
+#End of TTdata_417020-ICSD

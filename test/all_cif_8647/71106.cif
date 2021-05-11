@@ -1,0 +1,135 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71106-ICSD
+_database_code_ICSD 71106
+_audit_creation_date 1993-01-06
+_audit_update_record 2015-08-01
+_chemical_name_systematic 'Sodium tecto-alumosilicodigermanate'
+_chemical_formula_structural 'Na (Al Si Ge2 O8)'
+_chemical_formula_sum 'Al1 Ge2 Na1 O8 Si1'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral Albite-Ge
+_exptl_crystal_density_diffrn 3.28
+_publ_section_title 'Order and anti-order in Ge-substituted alkali feldspars'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 1991 3 739 749 EJMIER
+loop_
+_publ_author_name
+'Kroll, H.'
+'Floegel, J.'
+'Breit, U.'
+'Loens, J.'
+'Pentinghaus, H.'
+_cell_length_a 8.3258(7)
+_cell_length_b 13.1590(6)
+_cell_length_c 7.2734(5)
+_cell_angle_alpha 94.172(5)
+_cell_angle_beta 116.306(4)
+_cell_angle_gamma 90.693(6)
+_cell_volume 711.57
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Si4+ 4
+Ge4+ 4
+Al3+ 3
+Si4+ 4
+Ge4+ 4
+Al3+ 3
+Si4+ 4
+Ge4+ 4
+Al3+ 3
+Si4+ 4
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.2731(13) 0.0154(4) 0.1247(5) 7.09 0.2 0
+Na2 Na1+ 4 i 0.2746(12) -.0259(7) 0.1777(15) 1.95 0.2 0
+Na3 Na1+ 4 i 0.2887(13) 0.0407(7) 0.1000(17) 0.96 0.2 0
+Na4 Na1+ 4 i 0.2706(13) 0.0275(8) 0.1056(19) 0.86 0.2 0
+Na5 Na1+ 4 i 0.2622(11) 0.0017(6) 0.1385(14) 0.95 0.2 0
+Al1 Al3+ 4 i 0.00923(5) 0.16045(3) 0.21214(6) 0.8 0.27(5) 0
+Si1 Si4+ 4 i 0.00923(5) 0.16045(3) 0.21214(6) 0.8 0.19(5) 0
+Ge1 Ge4+ 4 i 0.00923(5) 0.16045(3) 0.21214(6) 0.8 0.540(4) 0
+Al2 Al3+ 4 i 0.00296(6) 0.81312(3) 0.23009(7) 0.78 0.29(3) 0
+Si2 Si4+ 4 i 0.00296(6) 0.81312(3) 0.23009(7) 0.78 0.34(3) 0
+Ge2 Ge4+ 4 i 0.00296(6) 0.81312(3) 0.23009(7) 0.78 0.37(1) 0
+Al3 Al3+ 4 i 0.68842(5) 0.10611(3) 0.31510(6) 0.81 0.21(3) 0
+Si3 Si4+ 4 i 0.68842(5) 0.10611(3) 0.31510(6) 0.81 0.26(3) 0
+Ge3 Ge4+ 4 i 0.68842(5) 0.10611(3) 0.31510(6) 0.81 0.531(2) 0
+Al4 Al3+ 4 i 0.67885(5) 0.87556(3) 0.35525(6) 0.8 0.23(3) 0
+Si4 Si4+ 4 i 0.67885(5) 0.87556(3) 0.35525(6) 0.8 0.21(3) 0
+Ge4 Ge4+ 4 i 0.67885(5) 0.87556(3) 0.35525(6) 0.8 0.556(2) 0
+O1 O2- 4 i 0.0073(3) 0.1298(2) 0.9792(3) 1.66 1. 0
+O2 O2- 4 i 0.5807(3) 0.9887(2) 0.2735(3) 1.31 1. 0
+O3 O2- 4 i 0.8185(3) 0.0970(2) 0.1877(4) 1.76 1. 0
+O4 O2- 4 i 0.8116(4) 0.8407(2) 0.2444(5) 2.41 1. 0
+O5 O2- 4 i 0.0057(3) 0.2867(2) 0.2830(4) 1.44 1. 0
+O6 O2- 4 i 0.0182(3) 0.6839(2) 0.2049(4) 1.64 1. 0
+O7 O2- 4 i 0.2011(3) 0.1077(2) 0.3810(3) 1.54 1. 0
+O8 O2- 4 i 0.1892(4) 0.8660(2) 0.4314(4) 2.05 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0071(3) 0.0189(4) 0.0371(7) 0.0040(3) 0.0020(1) 0.0208(7)
+Na2 Na1+ 0.00859(3) 0.00278(9) 0.01134(38) 0.00027(1) 0.00439(15) 0.00052(2)
+Na3 Na1+ 0.00424(29) 0.00137(9) 0.00560(38) 0.00013(1) 0.00217(15) 0.00026(2)
+Na4 Na1+ 0.00377(29) 0.00122(9) 0.00498(38) 0.00012(1) 0.00193(15) 0.00023(2)
+Na5 Na1+ 0.00420(29) 0.00136(9) 0.00554(38) 0.00013(1) 0.00215(15) 0.00025(2)
+Al1 Al3+ 0.00400(5) 0.00126(2) 0.00386(7) -.00012(2) 0.00184(4) 0.00021(2)
+Si1 Si4+ 0.00400(5) 0.00126(2) 0.00386(7) -.00012(2) 0.00184(4) 0.00021(2)
+Ge1 Ge4+ 0.00400(5) 0.00126(2) 0.00386(7) -.00012(2) 0.00184(4) 0.00021(2)
+Al2 Al3+ 0.00368(6) 0.00130(2) 0.00374(8) 0.00058(2) 0.00162(5) 0.00044(3)
+Si2 Si4+ 0.00368(6) 0.00130(2) 0.00374(8) 0.00058(2) 0.00162(5) 0.00044(3)
+Ge2 Ge4+ 0.00368(6) 0.00130(2) 0.00374(8) 0.00058(2) 0.00162(5) 0.00044(3)
+Al3 Al3+ 0.00326(5) 0.00096(2) 0.00544(7) -.00001(2) 0.00135(4) 0.00023(2)
+Si3 Si4+ 0.00326(5) 0.00096(2) 0.00544(7) -.00001(2) 0.00135(4) 0.00023(2)
+Ge3 Ge4+ 0.00326(5) 0.00096(2) 0.00544(7) -.00001(2) 0.00135(4) 0.00023(2)
+Al4 Al3+ 0.00352(5) 0.00099(2) 0.00527(7) 0.00034(2) 0.00158(4) 0.00056(2)
+Si4 Si4+ 0.00352(5) 0.00099(2) 0.00527(7) 0.00034(2) 0.00158(4) 0.00056(2)
+Ge4 Ge4+ 0.00352(5) 0.00099(2) 0.00527(7) 0.00034(2) 0.00158(4) 0.00056(2)
+O1 O2- 0.0109(4) 0.0026(2) 0.0061(3) 0.0007(2) 0.0051(3) 0.0008(2)
+O2 O2- 0.0053(3) 0.0015(1) 0.0089(4) 0.0002(1) 0.0020(2) 0.0008(2)
+O3 O2- 0.0073(4) 0.0026(1) 0.0133(5) -.0012(1) 0.0067(3) -.0013(2)
+O4 O2- 0.0083(4) 0.0045(2) 0.0176(7) 0.0020(2) 0.0085(4) 0.0012(3)
+O5 O2- 0.0064(3) 0.0015(1) 0.0105(4) -.0003(1) 0.0034(3) -.0003(1)
+O6 O2- 0.0069(3) 0.0017(1) 0.0100(4) 0.0008(1) 0.0016(5) 0.0002(2)
+O7 O2- 0.0074(3) 0.0022(1) 0.0056(3) 0.0010(1) 0.0005(3) 0.0005(1)
+O8 O2- 0.0086(3) 0.0025(2) 0.0084(4) -.0005(2) -.0011(3) -.0005(2)
+#End of TTdata_71106-ICSD

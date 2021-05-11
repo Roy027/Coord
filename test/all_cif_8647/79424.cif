@@ -1,0 +1,71 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79424-ICSD
+_database_code_ICSD 79424
+_audit_creation_date 1996-10-14
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Disodium phyllo-uranate(VI) - beta'
+_chemical_formula_structural 'Na2 (U O4)'
+_chemical_formula_sum 'Na2 O4 U1'
+_chemical_name_structure_type Ca2RuO4
+_exptl_crystal_density_diffrn 5.68
+_cell_measurement_temperature 295.
+_publ_section_title
+'alpha- and beta-Na2 U O4: structural and thermochemical relationships'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 115 299 304 JSSCBI
+loop_
+_publ_author_name
+'Cordfunke, E.H.P.'
+'Ijdo, D.J.W.'
+_cell_length_a 5.8079(3)
+_cell_length_b 5.9753(3)
+_cell_length_c 11.7179(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 406.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.0192
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+U6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.0026(6) 0.0550(7) 0.3363(4) 1.39(11) 1. 0
+U1 U6+ 4 a 0 0 0 0.30(7) 1. 0
+O1 O2- 8 c 0.2947(5) 0.2080(4) -.0450(2) 0.94(8) 1. 0
+O2 O2- 8 c 0.1077(3) -.0320(5) 0.1534(2) 1.13(8) 1. 0
+#End of TTdata_79424-ICSD

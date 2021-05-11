@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253581-ICSD
+_database_code_ICSD 253581
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Trisodium cobalt(II) decaoxo-pentaborate'
+_chemical_formula_structural 'Na3 Co B5 O10'
+_chemical_formula_sum 'B5 Co1 Na3 O10'
+_chemical_name_structure_type K3CdB5O10
+_exptl_crystal_density_diffrn 2.65
+_publ_section_title
+
+;
+Synthesis, structure, and electrochemical properties of Na3MB5O10 (M = Fe, Co)
+containing M2+ in tetrahedral coordination
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 12775 12782 INOCAJ
+loop_
+_publ_author_name
+'Strauss, Florian'
+'Rousse, Gwenaelle'
+'Sougrati, Moulay Tahar'
+'Dalla Corte, Daniel Alves'
+'Courty, Matthieu'
+'Dominko, Robert'
+'Tarascon, Jean-Marie'
+_cell_length_a 6.65143(6)
+_cell_length_b 18.20986(15)
+_cell_length_c 7.80513(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.7922(3)
+_cell_angle_gamma 90.
+_cell_volume 858.23
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.068
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 e 0.4939(2) 0.09529(6) 0.12098(16) 0.0123(3) 1. 0
+Na1 Na1+ 4 e 1.0215(5) 0.06927(15) 0.1537(4) 0.0166(9) 1. 0
+Na2 Na1+ 4 e 0.5356(5) 0.07254(15) -0.2968(4) 0.0285(11) 1. 0
+Na3 Na1+ 4 e 0.2007(5) 0.24423(14) -0.0962(4) 0.0108(4) 1. 0
+O1 O2- 4 e 0.3823(8) 0.3659(3) -0.0583(6) 0.0108(4) 1. 0
+O2 O2- 4 e 0.6864(8) 0.1334(2) 0.0034(6) 0.0108(4) 1. 0
+O3 O2- 4 e 0.6234(8) 0.0399(2) 0.3567(6) 0.0108(4) 1. 0
+O4 O2- 4 e 0.2150(8) 0.1274(3) -0.2604(7) 0.0108(4) 1. 0
+O5 O2- 4 e 0.2346(8) 0.1406(2) -0.5577(7) 0.0108(4) 1. 0
+O6 O2- 4 e 0.2213(8) 0.0375(2) -0.0479(6) 0.0108(4) 1. 0
+O7 O2- 4 e 0.1189(7) 0.2431(3) -0.4250(6) 0.0108(4) 1. 0
+O8 O2- 4 e 1.0892(9) -0.0428(2) 0.3356(7) 0.0108(4) 1. 0
+O9 O2- 4 e 0.3217(8) 0.1712(2) 0.1747(6) 0.0108(4) 1. 0
+O10 O2- 4 e -0.2189(8) 0.2304(2) -0.1428(7) 0.0108(4) 1. 0
+B1 B3+ 4 e 0.7050(15) 0.2127(5) -0.0092(14) 0.008(3) 1. 0
+B2 B3+ 4 e 0.1191(16) 0.0766(4) -0.2204(12) 0.007(3) 1. 0
+B3 B3+ 4 e 0.1200(19) 0.1643(6) -0.4531(14) 0.025(3) 1. 0
+B4 B3+ 4 e 0.2734(16) 0.1881(6) 0.3233(13) 0.022(3) 1. 0
+B5 B3+ 4 e 0.8089(15) 0.0738(5) 0.4832(12) 0.006(2) 1. 0
+#End of TTdata_253581-ICSD

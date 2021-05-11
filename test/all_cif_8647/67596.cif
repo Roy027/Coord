@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67596-ICSD
+_database_code_ICSD 67596
+_audit_creation_date 1993-08-22
+_chemical_name_systematic 'Sodium phyllo-heptaniobotetraphosphate (3.04/1)'
+_chemical_formula_structural 'Na3.04 (Nb7 P4 O29)'
+_chemical_formula_sum 'Na3.04 Nb7 O29 P4'
+_exptl_crystal_density_diffrn 3.77
+_publ_section_title
+
+;
+Na4-xNb7P4O29: A Phosphate Niobium Bronze Intergrowth of the Members M=3 snd
+M=4 of the MPTB's Series Nax(NbO3)2m(PO2)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1992 101 137 144 JSSCBI
+loop_
+_publ_author_name
+'Benabbas, A.'
+'Leligny, H.'
+'Borel, M.M.'
+'Grandin, A.'
+'Leclaire, A.'
+'Raveau, B.'
+_cell_length_a 32.850(4)
+_cell_length_b 5.3484(4)
+_cell_length_c 13.252(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.79(1)
+_cell_angle_gamma 90.
+_cell_volume 2306.82
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 4 a 0 0 0 0.73(2) 1. 0
+Nb2 Nb5+ 8 f 0.3183(3) 0.5011(4) 0.02287(7) 0.43(1) 1. 0
+Nb3 Nb5+ 8 f 0.22724(3) 0.4785(3) 0.32190(8) 0.48(1) 1. 0
+Nb4 Nb5+ 8 f 0.04595(2) 0.4973(4) 0.17911(7) 0.50(1) 1. 0
+P1 P5+ 8 f 0.14822(8) 0.487(1) 0.1205(2) 0.47(4) 1. 0
+P2 P5+ 8 f 0.42169(7) 0.503(1) 0.1525(2) 0.39(3) 1. 0
+Na1 Na1+ 8 f 0.1318(2) 0.507(2) 0.3634(4) 1.28(9) 1. 0
+Na2 Na1+ 8 f -.0976(4) 0.009(4) -.0995(9) 2.0(2) 0.52 0
+O1 O2- 8 f -.0468(3) -.025(3) 0.0780(8) 1.6(2) 1. 0
+O2 O2- 8 f 0.0270(4) -.286(2) 0.0731(9) 1.2(2) 1. 0
+O3 O2- 8 f 0.0299(4) 0.207(2) 0.1076(8) 1.2(2) 1. 0
+O4 O2- 8 f 0.3791(3) 0.459(2) 0.0956(8) 1.1(2) 1. 0
+O5 O2- 8 f 0.3066(3) 0.730(2) 0.1235(8) 0.8(2) 1. 0
+O6 O2- 8 f 0.3024(3) 0.227(2) 0.0847(7) 0.6(1) 1. 0
+O7 O2- 8 f 0.2710(3) 0.564(2) -.0695(7) 0.7(1) 1. 0
+O8 O2- 8 f 0.3401(3) 0.278(2) -.0883(7) 0.8(1) 1. 0
+O9 O2- 8 f 0.3482(3) 0.821(2) -.0378(7) 1.0(2) 1. 0
+O10 O2- 8 f 0.1737(3) 0.562(2) 0.2216(8) 1.0(2) 1. 0
+O11 O2- 8 f 0.2478(3) 0.291(2) 0.2264(7) 0.9(1) 1. 0
+O12 O2- 4 e 0 0.515(5) 0.25 1.6(3) 1. 0
+O13 O2- 8 f 0.1029(3) 0.480(3) 0.1375(7) 1.2(2) 1. 0
+O14 O2- 8 f 0.0722(4) 0.798(2) 0.2645(9) 1.4(2) 1. 0
+O15 O2- 8 f 0.0755(4) 0.264(2) 0.3037(8) 1.1(2) 1. 0
+#End of TTdata_67596-ICSD

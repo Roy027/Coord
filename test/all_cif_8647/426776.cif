@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426776-ICSD
+_database_code_ICSD 426776
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium cesium tetrahydroxodecaborate'
+_chemical_formula_structural 'Na Cs (B10 O14 (O H)4)'
+_chemical_formula_sum 'H4 B10 Cs1 Na1 O18'
+_exptl_crystal_density_diffrn 2.5
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, characterization, and thermochemical property of a novel mixed
+alkali metal borate: Na Cs [B10 O14 (O H)4]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Thermal Analysis and Calorimetry' 2014 116 1019 1025 JTACF7
+loop_
+_publ_author_name
+'Li, Lian-Qing'
+'Song, Qing'
+'Li, Ping'
+'Huang, Hong-Sheng'
+'Liu, Zhi-Hong'
+_cell_length_a 7.6588(3)
+_cell_length_b 9.0074(3)
+_cell_length_c 11.8708(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.682(3)
+_cell_angle_gamma 90.
+_cell_volume 738.01
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0189
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Cs1+ 1
+O2- -2
+B3+ 3
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 g 0.6394(3) 0.0113(2) 0.34771(19) 0.0145(5) 1 0
+Cs1 Cs1+ 2 f 0.5 0.32620(4) 0.75 0.02756(19) 1 0
+O2 O2- 4 g -0.0120(3) 0.6822(2) 0.3467(2) 0.0149(5) 1 0
+O3 O2- 4 g 0.6100(3) 0.1526(2) 0.5090(2) 0.0145(5) 1 0
+O4 O2- 4 g 0.3879(3) 0.3412(2) 0.4714(2) 0.0158(5) 1 0
+O5 O2- 4 g 0.3927(3) 0.2054(2) 0.2980(2) 0.0172(5) 1 0
+O6 O2- 4 g 0.2149(3) 0.5302(2) 0.50949(19) 0.0140(5) 1 0
+O7 O2- 4 g 0.1719(3) 0.4897(2) 0.3009(2) 0.0164(5) 1 0
+O8 O2- 4 g 0.0632(4) 0.7343(3) 0.5561(3) 0.0172(6) 1 0
+O9 O2- 4 g 0.8387(3) -0.0339(3) 0.5647(2) 0.0177(6) 1 0
+B1 B3+ 2 f 0.5 0.1065(6) 0.25 0.0142(11) 1 0
+B2 B3+ 4 g 0.0879(5) 0.6481(4) 0.4692(4) 0.0133(8) 1 0
+B3 B3+ 4 g 0.2546(5) 0.4522(4) 0.4216(3) 0.0134(8) 1 0
+B4 B3+ 4 g 0.4586(5) 0.2328(4) 0.4203(3) 0.0131(8) 1 0
+B5 B3+ 2 e 0. 0.5850(6) 0.25 0.0128(11) 1 0
+B6 B3+ 4 g 0.6959(5) 0.0414(4) 0.4693(3) 0.0124(8) 1 0
+Na1 Na1+ 4 g 0.0600(5) 0.9189(3) 0.2472(4) 0.0479(13) 0.5 0
+H1 H1+ 4 g 0.888(6) -0.094(4) 0.550(4) 0.016(12) 1 0
+H2 H1+ 4 g 0.124(6) 0.719(4) 0.616(4) 0.013(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0199(12) 0.0125(11) 0.0101(12) 0.0035(10) 0.0055(9) 0.0001(9)
+Cs1 Cs1+ 0.0335(3) 0.0331(3) 0.0130(2) 0. 0.00710(16) 0.
+O2 O2- 0.0161(12) 0.0132(12) 0.0105(13) 0.0039(10) 0.0012(10) -0.0013(9)
+O3 O2- 0.0172(12) 0.0147(12) 0.0094(12) 0.0045(10) 0.0035(10) 0.0004(9)
+O4 O2- 0.0197(12) 0.0157(12) 0.0099(12) 0.0080(11) 0.0045(10) 0.0006(9)
+O5 O2- 0.0218(12) 0.0181(12) 0.0099(13) 0.0064(10) 0.0050(10) 0.0004(9)
+O6 O2- 0.0181(11) 0.0140(12) 0.0091(11) 0.0061(10) 0.0051(9) 0.0014(9)
+O7 O2- 0.0200(12) 0.0186(12) 0.0097(12) 0.0046(11) 0.0055(10) 0.0013(9)
+O8 O2- 0.0186(13) 0.0184(14) 0.0106(15) 0.0056(11) 0.0027(12) -0.0022(11)
+O9 O2- 0.0213(13) 0.0158(13) 0.0140(13) 0.0099(12) 0.0058(11) -0.0008(10)
+B1 B3+ 0.020(3) 0.014(3) 0.009(3) 0. 0.007(2) 0.
+B2 B3+ 0.0103(18) 0.0136(19) 0.017(2) -0.0037(17) 0.0064(16) -0.0022(15)
+B3 B3+ 0.0150(18) 0.0113(19) 0.014(2) -0.0041(17) 0.0060(16) -0.0034(15)
+B4 B3+ 0.0142(18) 0.0114(18) 0.014(2) -0.0022(17) 0.0069(16) 0.0009(15)
+B5 B3+ 0.014(3) 0.012(3) 0.009(3) 0. 0.002(2) 0.
+B6 B3+ 0.0122(18) 0.0100(18) 0.015(2) -0.0002(17) 0.0062(16) 0.0012(15)
+Na1 Na1+ 0.079(4) 0.0241(14) 0.0160(14) 0.0091(16) -0.003(3) -0.0052(15)
+#End of TTdata_426776-ICSD

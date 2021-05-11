@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260907-ICSD
+_database_code_ICSD 260907
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Tetrasodium cobalt aluminium hexaarsenate'
+_chemical_formula_structural 'Na4 Co4 (Co1.63 Al0.91) (As O4)6'
+_chemical_formula_sum 'Al0.91 As6 Co5.63 Na4 O24'
+_exptl_crystal_density_diffrn 4.12
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The novel arsenate Na4 Co(7-x) Al2/3x (As O4)6 (x = 1.37): crystal structure,
+charge distribution and bond-valence-sum investigations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2010 66 i95 i98 ACSCEE
+loop_
+_publ_author_name
+'Marzouki, R.'
+'Guesmi, A.'
+'Driss, A.'
+_cell_length_a 10.744(4)
+_cell_length_b 14.847(3)
+_cell_length_c 6.722(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.51(3)
+_cell_angle_gamma 90.
+_cell_volume 1033.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0261
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Co2+ 2
+Al3+ 3
+Co2+ 2
+Al3+ 3
+Co2+ 2
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 4 i 0.31961(6) 0.5 0.06318(10) 0.00820(18) 1 0
+As2 As5+ 8 j 0.09838(4) 0.32118(3) 0.29005(7) 0.00617(15) 1 0
+Co1 Co2+ 2 b 0. 0.5 0. 0.0051(7) 0.286(11) 0
+Al1 Al3+ 2 b 0. 0.5 0. 0.0051(7) 0.714(11) 0
+Co2 Co2+ 4 g 0. 0.16422(9) 0. 0.0121(4) 0.672(8) 0
+Al2 Al3+ 4 g 0. 0.16422(9) 0. 0.0121(4) 0.101(8) 0
+Co3 Co2+ 8 j 0.32049(6) 0.18170(4) 0.18184(9) 0.00749(17) 1 0
+O1 O2- 4 i 0.1805(5) 0.5 0.1304(8) 0.0172(11) 1 0
+O2 O2- 8 j 0.3273(4) 0.5902(3) -0.0882(6) 0.0227(9) 1 0
+O3 O2- 4 i 0.4410(5) 0.5 0.2771(8) 0.0212(12) 1 0
+O4 O2- 8 j -0.0086(3) 0.2349(2) 0.2760(5) 0.0152(7) 1 0
+O5 O2- 8 j -0.0126(3) 0.4059(2) 0.2032(5) 0.0103(6) 1 0
+O6 O2- 8 j 0.1883(3) 0.2907(2) 0.1290(5) 0.0126(7) 1 0
+O7 O2- 8 j 0.1918(3) 0.3497(3) 0.5228(5) 0.0156(7) 1 0
+Na1 Na1+ 8 j 0.0734(5) 0.1155(3) 0.4928(7) 0.0299(11) 0.5 0
+Na2 Na1+ 4 i 0.6821(6) 0.5 0.4225(9) 0.0173(12) 0.5 0
+Na3 Na1+ 4 i -0.0708(12) 0.5 0.4759(13) 0.064(4) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As5+ 0.0048(3) 0.0066(3) 0.0123(3) 0. 0.0007(2) 0.
+As2 As5+ 0.0038(2) 0.0087(2) 0.0055(2) 0.00084(16) 0.00055(17) -0.00119(16)
+Co1 Co2+ 0.0030(10) 0.0051(10) 0.0072(10) 0. 0.0014(7) 0.
+Al1 Al3+ 0.0030(10) 0.0051(10) 0.0072(10) 0. 0.0014(7) 0.
+Co2 Co2+ 0.0078(7) 0.0155(7) 0.0130(7) 0. 0.0028(5) 0.
+Al2 Al3+ 0.0078(7) 0.0155(7) 0.0130(7) 0. 0.0028(5) 0.
+Co3 Co2+ 0.0054(3) 0.0098(3) 0.0070(3) 0.0006(2) 0.0012(2) 0.0006(2)
+O1 O2- 0.009(2) 0.017(3) 0.025(3) 0. 0.005(2) 0.
+O2 O2- 0.0214(18) 0.024(2) 0.028(2) 0.0132(16) 0.0145(17) 0.0159(17)
+O3 O2- 0.012(2) 0.021(3) 0.024(3) 0. -0.007(2) 0.
+O4 O2- 0.0112(17) 0.0122(17) 0.0188(18) -0.0011(14) -0.0018(14) 0.0045(14)
+O5 O2- 0.0074(14) 0.0086(15) 0.0151(16) 0.0018(12) 0.0034(13) -0.0009(13)
+O6 O2- 0.0147(17) 0.0152(17) 0.0104(16) 0.0088(14) 0.0077(13) 0.0026(13)
+O7 O2- 0.0138(17) 0.0264(19) 0.0056(15) -0.0074(15) 0.0009(13) -0.0027(14)
+Na1 Na1+ 0.038(3) 0.022(2) 0.023(2) -0.009(2) -0.004(2) 0.0086(19)
+Na2 Na1+ 0.021(3) 0.017(3) 0.015(3) 0. 0.007(2) 0.
+Na3 Na1+ 0.169(11) 0.010(3) 0.023(4) 0. 0.042(7) 0.
+#End of TTdata_260907-ICSD

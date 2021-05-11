@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_246197-ICSD
+_database_code_ICSD 246197
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Sodium yttrium tetrakis(phosphate(III))'
+_chemical_formula_structural 'Na Y (P O3)4'
+_chemical_formula_sum 'Na1 O12 P4 Y1'
+_chemical_name_structure_type KCe(PO3)4
+_exptl_crystal_density_diffrn 3.14
+_cell_measurement_temperature 293.
+_publ_section_title
+'Structure and luminescence properties of silver-doped Na Y (P O3)4 crystal'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2008 181 3078 3085 JSSCBI
+loop_
+_publ_author_name
+'El Masloumi, M.'
+'Jubera, V.'
+'Pechev, S.'
+'Chaminade, J.P.'
+'Videau, J.J.'
+'Mesnaoui, M.'
+'Maazaz, M.'
+'Moine, B.'
+_cell_length_a 7.1615(2)
+_cell_length_b 13.0077(1)
+_cell_length_c 9.7032(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90.55(1)
+_cell_angle_gamma 90
+_cell_volume 903.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0481
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 e 0.51249(8) 0.21886(5) 0.97645(5) 0.0077(2) 1. 0
+Na1 Na1+ 4 e 0.99953(39) 0.22206(25) 0.06331(33) 0.0211(7) 1. 0
+P1 P5+ 4 e 0.26696(21) 0.09131(13) 0.70092(18) 0.0078(4) 1. 0
+P2 P5+ 4 e 0.64842(22) 0.12825(12) 0.30374(17) 0.0073(3) 1. 0
+P3 P5+ 4 e 0.24955(21) 0.10228(12) 0.24495(18) 0.0076(4) 1. 0
+P4 P5+ 4 e 0.87473(22) 0.11503(12) 0.76312(18) 0.0075(4) 1. 0
+O1 O2- 4 e 0.23652(62) 0.16238(38) 0.58346(51) 0.0125(10) 1. 0
+O2 O2- 4 e 0.42823(61) 0.11164(36) 0.79477(51) 0.0125(10) 1. 0
+O3 O2- 4 e 0.08515(61) 0.08021(36) 0.79395(49) 0.0111(9) 1. 0
+O4 O2- 4 e 0.71979(66) 0.02100(34) 0.36452(49) 0.0106(9) 1. 0
+O5 O2- 4 e 0.72537(61) 0.21109(35) 0.39303(49) 0.0112(10) 1. 0
+O6 O2- 4 e 0.67762(63) 0.13214(38) 0.15278(50) 0.0128(10) 1. 0
+O7 O2- 4 e 0.43032(60) 0.12637(35) 0.33671(48) 0.0097(9) 1. 0
+O8 O2- 4 e 0.28564(62) 0.10925(37) 0.09424(49) 0.0114(10) 1. 0
+O9 O2- 4 e 0.09267(61) 0.16655(35) 0.29726(49) 0.0107(9) 1. 0
+O10 O2- 4 e 0.78269(66) 0.01297(34) 0.70807(51) 0.0116(10) 1. 0
+O11 O2- 4 e 0.86753(63) 0.18881(37) 0.64779(51) 0.0124(10) 1. 0
+O12 O2- 4 e 0.79514(62) 0.14770(36) 0.89728(49) 0.0110(10) 1. 0
+#End of TTdata_246197-ICSD

@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413049-ICSD
+_database_code_ICSD 413049
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Disodium heptaoxodisulfate'
+_chemical_formula_structural 'Na2 S2 O7'
+_chemical_formula_sum 'Na2 O7 S2'
+_exptl_crystal_density_diffrn 2.69
+_publ_section_title
+
+;
+The crystal structure determinations and refinements of K2 S2 O7, K Na S2 O7,
+and Na2 S2 O7 from X-ray powder diffraction and single-crystal data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2005 178 1697 1704 JSSCBI
+loop_
+_publ_author_name
+'Stahl, K.'
+'Balic Zunic, T.'
+'da Silva, F.'
+'Eriksen, K.M.'
+'Berg, R.W.'
+'Fehrmann, R.'
+_cell_length_a 6.7702(9)
+_cell_length_b 6.7975(10)
+_cell_length_c 6.7292(9)
+_cell_angle_alpha 116.779(2)
+_cell_angle_beta 96.089(3)
+_cell_angle_gamma 84.000(3)
+_cell_volume 274.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0457
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.13493(16) -0.18115(18) 0.77174(17) 0.0138(3) 1 0
+Na2 Na1+ 2 i -0.33657(14) -0.24239(17) 0.38605(16) 0.0100(2) 1 0
+S1 S6+ 2 i 0.15765(9) -0.25422(10) 0.26730(10) 0.00715(16) 1 0
+S2 S6+ 2 i 0.36052(9) 0.31296(10) 0.13955(10) 0.00718(16) 1 0
+O1 O2- 2 i 0.0084(3) -0.2948(3) 0.3801(3) 0.0110(4) 1 0
+O2 O2- 2 i -0.3246(3) 0.1519(3) 0.5817(3) 0.0115(4) 1 0
+O3 O2- 2 i -0.0823(3) 0.1517(3) -0.1269(3) 0.0101(4) 1 0
+O4 O2- 2 i -0.2417(2) 0.4899(3) -0.0852(3) 0.0079(4) 1 0
+O5 O2- 2 i -0.3599(3) -0.1375(3) 0.0835(3) 0.0100(4) 1 0
+O6 O2- 2 i 0.2413(3) 0.2864(3) 0.2894(3) 0.0110(4) 1 0
+O7 O2- 2 i 0.4463(2) 0.6074(3) 0.7653(3) 0.0099(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0147(5) 0.0146(6) 0.0117(5) 0.0042(4) 0.0020(4) 0.0062(4)
+Na2 Na1+ 0.0089(5) 0.0104(5) 0.0116(5) -0.0016(4) 0.0001(4) 0.0055(4)
+S1 S6+ 0.0063(3) 0.0074(3) 0.0073(3) 0.0002(2) 0.0009(2) 0.0030(2)
+S2 S6+ 0.0081(3) 0.0067(3) 0.0070(3) -0.0004(2) 0.0008(2) 0.0032(2)
+O1 O2- 0.0081(9) 0.0150(10) 0.0114(9) 0.0013(7) 0.0053(7) 0.0067(8)
+O2 O2- 0.0094(9) 0.0095(9) 0.0127(9) -0.0009(7) -0.0019(7) 0.0029(7)
+O3 O2- 0.0106(9) 0.0089(9) 0.0122(9) 0.0027(7) 0.0005(7) 0.0067(7)
+O4 O2- 0.0099(9) 0.0066(9) 0.0072(8) 0.0016(7) 0.0020(6) 0.0032(7)
+O5 O2- 0.0114(9) 0.0088(9) 0.0076(8) 0.0004(7) 0.0002(7) 0.0020(7)
+O6 O2- 0.0108(9) 0.0135(10) 0.0122(9) -0.0006(7) 0.0031(7) 0.0082(7)
+O7 O2- 0.0078(9) 0.0104(9) 0.0113(9) -0.0014(7) -0.0002(7) 0.0046(7)
+#End of TTdata_413049-ICSD

@@ -1,0 +1,157 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100382-ICSD
+_database_code_ICSD 100382
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium tecto-alumosilicate *'
+_chemical_formula_structural 'Na15.56 (Al15.2 Si32.8 O96)'
+_chemical_formula_sum 'Al15.2 Na15.56 O96 Si32.8'
+_chemical_name_mineral 'Chabazite (Na-exchanged, dehydrated))'
+_exptl_crystal_density_diffrn 1.84
+_publ_section_title
+
+;
+Positions of cations and molecules in zeolites with the chabazite framework.
+III. Dehydrated Na-exchanged chabazite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1977 12 241 249 MRBUAC
+loop_
+_publ_author_name
+'Mortier, W.J.'
+'Pluth, J.J.'
+'Smith, J.V.'
+_cell_length_a 19.3189(30)
+_cell_length_b 13.833(2)
+_cell_length_c 11.849(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.48(3)
+_cell_angle_gamma 90.
+_cell_volume 2904.32
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 j 0.4186(1) 0.1138(1) 0.1975(2) . 0.6833 0
+Al1 Al3+ 8 j 0.4186(1) 0.1138(1) 0.1975(2) . 0.3167 0
+Si2 Si4+ 8 j 0.4258(1) 0.2765(1) 0.0295(2) . 0.6833 0
+Al2 Al3+ 8 j 0.4258(1) 0.2765(1) 0.0295(2) . 0.3167 0
+Si3 Si4+ 8 j 0.0169(1) 0.1100(1) 0.2688(2) . 0.6833 0
+Al3 Al3+ 8 j 0.0169(1) 0.1100(1) 0.2688(2) . 0.3167 0
+Si4 Si4+ 8 j 0.3324(1) 0.1145(1) 0.3780(2) . 0.6833 0
+Al4 Al3+ 8 j 0.3324(1) 0.1145(1) 0.3780(2) . 0.3167 0
+Si5 Si4+ 8 j 0.0408(1) 0.2957(1) 0.4135(2) . 0.6833 0
+Al5 Al3+ 8 j 0.0408(1) 0.2957(1) 0.4135(2) . 0.3167 0
+Si6 Si4+ 8 j 0.1656(1) 0.1108(1) 0.2103(2) . 0.6833 0
+Al6 Al3+ 8 j 0.1656(1) 0.1108(1) 0.2103(2) . 0.3167 0
+O1 O2- 8 j 0.3613(3) 0.1397(4) 0.2707(4) . 1. 0
+O2 O2- 8 j 0.0978(3) 0.1152(4) 0.2574(6) . 1. 0
+O3 O2- 4 g 0 0.2471(5) 0 . 1. 0
+O4 O2- 4 h 0 0.3383(5) 0.5 . 1. 0
+O5 O2- 8 j 0.2419(3) 0.1468(4) 0.3268(4) . 1. 0
+O6 O2- 8 j 0.3912(3) 0.1816(4) 0.0730(5) . 1. 0
+O7 O2- 8 j 0.0214(3) 0.1806(4) 0.3836(5) . 1. 0
+O8 O2- 8 j 0.3679(3) 0.1811(3) 0.5084(4) . 1. 0
+O9 O2- 8 j 0.1472(3) 0.1800(4) 0.0886(5) . 1. 0
+O10 O2- 4 i 0.4142(5) 0 0.1609(7) . 1. 0
+O11 O2- 4 i 0.9982(4) 0 0.3079(6) . 1. 0
+O12 O2- 4 i 0.1783(4) 0 0.1679(7) . 1. 0
+O13 O2- 4 i 0.3475(4) 0 0.4221(7) . 1. 0
+O14 O2- 8 j 0.4481(3) 0.3617(4) 0.1382(5) . 1. 0
+O15 O2- 8 j 0.0089(3) 0.3602(4) 0.2866(4) . 1. 0
+Na1 Na1+ 4 i 0.510(2) 0 0.432(4) 1.70(11) 0.095(12) 0
+Na2 Na1+ 4 i 0.0807(5) 0.5 0.3505(7) . 0.683(15) 0
+Na3 Na1+ 4 i 0.3725(4) 0.5 0.0480(5) . 0.798(15) 0
+Na4 Na1+ 4 f 0.25 0.25 0.5 . 0.960(15) 0
+Na5 Na1+ 8 j 0.2588(13) 0.2384(22) 0.0507(16) . 0.399(8) 0
+Na6 Na1+ 4 h 0 0.0435(7) 0.5 . 0.465(12) 0
+Na7 Na1+ 4 g 0 0.449(5) 0 7.10(23) 0.092(15) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.019(1) 0.011(1) 0.014(1) -.002(1) 0.006(1) 0.002(1)
+Al1 Al3+ 0.019(1) 0.011(1) 0.014(1) -.002(1) 0.006(1) 0.002(1)
+Si2 Si4+ 0.014(1) 0.014(1) 0.011(1) -.002(1) 0.003(1) 0.003(1)
+Al2 Al3+ 0.014(1) 0.014(1) 0.011(1) -.002(1) 0.003(1) 0.003(1)
+Si3 Si4+ 0.017(1) 0.012(1) 0.015(1) 0.0(1) 0.006(1) -.001(1)
+Al3 Al3+ 0.017(1) 0.012(1) 0.015(1) 0.0(1) 0.006(1) -.001(1)
+Si4 Si4+ 0.014(1) 0.013(1) 0.014(1) 0.002(1) 0.003(1) -.001(1)
+Al4 Al3+ 0.014(1) 0.013(1) 0.014(1) 0.002(1) 0.003(1) -.001(1)
+Si5 Si4+ 0.020(1) 0.015(1) 0.014(1) -.002(1) 0.005(1) -.003(1)
+Al5 Al3+ 0.020(1) 0.015(1) 0.014(1) -.002(1) 0.005(1) -.003(1)
+Si6 Si4+ 0.013(1) 0.016(1) 0.016(1) 0.0(1) 0.003(1) 0.003(1)
+Al6 Al3+ 0.013(1) 0.016(1) 0.016(1) 0.0(1) 0.003(1) 0.003(1)
+O1 O2- 0.021(3) 0.027(3) 0.023(3) -.006(2) 0.008(2) -.004(2)
+O2 O2- 0.030(3) 0.032(3) 0.064(4) 0.007(3) 0.024(3) 0.010(3)
+O3 O2- 0.025(4) 0.015(4) 0.041(5) 0 0.020(4) 0
+O4 O2- 0.024(4) 0.023(4) 0.011(3) 0 0.006(3) 0
+O5 O2- 0.012(3) 0.034(3) 0.023(3) 0.006(2) -.003(2) -.004(2)
+O6 O2- 0.036(3) 0.029(3) 0.022(3) -.011(3) 0.004(3) 0.004(2)
+O7 O2- 0.042(4) 0.025(3) 0.023(3) -.008(3) 0.007(3) -.005(2)
+O8 O2- 0.023(3) 0.025(3) 0.021(3) 0.0(2) 0.009(2) -.003(2)
+O9 O2- 0.031(3) 0.042(4) 0.022(3) -.005(3) 0.004(3) 0.010(3)
+O10 O2- 0.049(6) 0.010(4) 0.040(5) 0 0.019(4) 0
+O11 O2- 0.025(4) 0.015(4) 0.019(4) 0 0.010(3) 0
+O12 O2- 0.035(5) 0.040(5) 0.024(4) 0 0.018(4) 0
+O13 O2- 0.024(4) 0.018(4) 0.035(5) 0 0.005(4) 0
+O14 O2- 0.028(3) 0.032(3) 0.024(3) -.005(3) 0.005(3) -.002(2)
+O15 O2- 0.027(3) 0.023(3) 0.027(3) -.001(3) 0.014(3) -.004(2)
+Na2 Na1+ 0.055(6) 0.028(5) 0.052(6) 0 0.010(4) 0
+Na3 Na1+ 0.042(4) 0.038(4) 0.033(4) 0 0.011(3) 0
+Na4 Na1+ 0.060(4) 0.051(4) 0.036(3) 0.028(3) 0.028(3) 0.003(3)
+Na5 Na1+ 0.073(13) 0.179(20) 0.192(27) -.038(12) 0.089(21) -.111(25)
+Na6 Na1+ 0.058(8) 0.051(7) 0.023(6) 0 0.020(5) 0
+#End of TTdata_100382-ICSD

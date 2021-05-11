@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_259984-ICSD
+_database_code_ICSD 259984
+_audit_creation_date 2019-02-01
+_chemical_name_systematic
+'Potassium sodium europium phosphorous oxide (1.9/2.25/0.07/3/10)'
+_chemical_formula_structural 'K1.9 Na2.25 Eu0.07 P3 O10'
+_chemical_formula_sum 'Eu0.07 K1.9 Na2.25 O10 P3'
+_exptl_crystal_density_diffrn 2.52
+_publ_section_title
+'Crystallographic and optical properties of Eu3+ doped K2Na3P3O10 triphosphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2018 748 206 215 JALCEU
+loop_
+_publ_author_name
+'Moutataouia, M.'
+'Zambon, D.'
+'Boyer, D.'
+'Lamire, M.'
+'El Ammari, L.'
+'Mahiou, R.'
+_cell_length_a 9.8695(3)
+_cell_length_b 5.6171(2)
+_cell_length_c 18.6404(6)
+_cell_angle_alpha 90
+_cell_angle_beta 96.0947(2)
+_cell_angle_gamma 90
+_cell_volume 1027.55
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Eu3+ 3
+Na1+ 1
+Eu3+ 3
+K1+ 1
+Eu3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0.28124(5) 0.69187(9) 0.67194(2) 0.02146(9) 0.9 0
+Eu1 Eu3+ 8 f 0.28124(5) 0.69187(9) 0.67194(2) 0.02146(9) 0.02 0
+Na2 Na1+ 4 c 0.75 0.25 0.5 0.01438(10) 0.45 0
+Eu2 Eu3+ 4 c 0.75 0.25 0.5 0.01438(10) 0.01 0
+K1 K1+ 8 f 0.09418(2) 0.22716(4) 0.57757(2) 0.01815(5) 0.95 0
+Eu3 Eu3+ 8 f 0.09418(2) 0.22716(4) 0.57757(2) 0.01815(5) 0.01 0
+P1 P5+ 8 f 0.43178(2) 0.22899(4) 0.60134(2) 0.00804(5) 1. 0
+P2 P5+ 4 e 0.5 0.09580(6) 0.75 0.01050(6) 1. 0
+O1 O2- 8 f 0.35708(7) -0.00549(12) 0.59406(4) 0.01394(12) 1. 0
+O2 O2- 8 f 0.34827(7) 0.44061(13) 0.57321(4) 0.01427(12) 1. 0
+O3 O2- 8 f 0.57239(8) 0.22342(13) 0.57659(4) 0.01608(13) 1. 0
+O4 O2- 8 f 0.45492(8) 0.28675(12) 0.68863(4) 0.01478(13) 1. 0
+O5 O2- 8 f 0.42054(8) -0.04234(15) 0.73077(4) 0.01896(14) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0237(2) 0.02025(19) 0.0214(2) -0.00607(16) 0.00689(16) -0.00352(15)
+Eu1 Eu3+ 0.0237(2) 0.02025(19) 0.0214(2) -0.00607(16) 0.00689(16) -0.00352(15)
+Na2 Na1+ 0.0147(2) 0.0139(2) 0.0143(2) 0.00038(18) 0.00094(18) 0.00047(17)
+Eu2 Eu3+ 0.0147(2) 0.0139(2) 0.0143(2) 0.00038(18) 0.00094(18) 0.00047(17)
+K1 K1+ 0.01304(9) 0.01227(8) 0.02945(12) -0.00031(6) 0.00365(7) -0.00140(7)
+Eu3 Eu3+ 0.01304(9) 0.01227(8) 0.02945(12) -0.00031(6) 0.00365(7) -0.00140(7)
+P1 P5+ 0.00828(9) 0.00773(8) 0.00810(8) -0.00009(6) 0.00088(6) 0.00042(6)
+P2 P5+ 0.01276(14) 0.001061(12) 0.00820(11) 0. 0.00147(9) 0.
+O1 O2- 0.0153(3) 0.0106(3) 0.0156(3) -0.0041(2) 0.0002(2) -0.0012(2)
+O2 O2- 0.0145(3) 0.0119(3) 0.0158(3) 0.0031(2) -0.0011(2) 0.0042(2)
+O3 O2- 0.0120(3) 0.0161(3) 0.0214(3) 0.0006(2) 0.0080(2) 0.0016(2)
+O4 O2- 0.0225(3) 0.0129(3) 0.0083(2) 0.0018(2) -0.0012(2) -0.00073(19)
+O5 O2- 0.0196(3) 0.0202(3) 0.0178(3) 0.0078(3) 0.0054(3) 0.0009(3)
+#End of TTdata_259984-ICSD

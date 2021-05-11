@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16415-ICSD
+_database_code_ICSD 16415
+_audit_creation_date 1984-09-04
+_chemical_name_systematic 'Tripotassium sodium dihydrogendiphosphate'
+_chemical_formula_structural 'K3 Na (H2 P2 O7)2'
+_chemical_formula_sum 'H4 K3 Na1 O14 P4'
+_exptl_crystal_density_diffrn 2.46
+_publ_section_title
+
+;
+Affinement par Diffraction Neutronique du Bis(dihydrogenopyrophosphate)
+Tripotassique et Monosodique
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1980 36 2754 2757 ACBCAR
+loop_
+_publ_author_name
+'Dumas, Y.'
+'Lapasset, J.'
+'Vicat, J.'
+_cell_length_a 16.912(8)
+_cell_length_b 7.251(5)
+_cell_length_c 11.015(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.25(5)
+_cell_angle_gamma 90.
+_cell_volume 1329.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 8 f 0.3605(1) 0.8334(3) 0.5290(2) . 1. 0
+K2 K1+ 4 e 0.5 0.2995(4) 0.75 . 1. 0
+Na1 Na1+ 4 d 0.25 0.25 0.5 . 1. 0
+P1 P5+ 8 f 0.30513(7) 0.4779(2) 0.2448(1) . 1. 0
+P2 P5+ 8 f 0.43072(7) 0.2398(2) 0.3922(1) . 1. 0
+O1 O2- 8 f 0.27772(7) 0.4719(2) 0.1091(1) . 1. 0
+O2 O2- 8 f 0.23369(7) 0.4270(2) 0.3140(1) . 1. 0
+O3 O2- 8 f 0.34443(7) 0.6509(2) 0.3010(1) . 1. 0
+O4 O2- 8 f 0.36771(7) 0.3102(2) 0.2740(1) . 1. 0
+O5 O2- 8 f 0.38938(7) 0.2071(2) 0.4981(1) . 1. 0
+O6 O2- 8 f 0.46451(8) 0.0642(2) 0.3419(1) . 1. 0
+O7 O2- 8 f 0.49784(7) 0.3856(2) 0.4146(1) . 1. 0
+H1 H1+ 8 f 0.1984(1) 0.3286(3) 0.2667(2) . 1. 0
+H2 H1+ 8 f 0.4911(4) 0.0768(6) 0.2727(5) . 0.5 0
+H3 H1+ 4 a 0.5 0.5 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+K1 K1+ 0.00129(6) 0.00746(36) 0.00346(15) 0.00008(12) 0.00006(8) 0.00077(19)
+K2 K1+ 0.00161(10) 0.00757(53) 0.00776(31) 0 0.00140(15) 0
+Na1 Na1+ 0.00098(8) 0.00617(48) 0.00261(20) 0.00016(16) 0.00028(11) -.00015(25)
+P1 P5+ 0.00077(3) 0.00378(21) 0.00190(9) 0.00005(7) -.00002(4) 0.00009(12)
+P2 P5+ 0.00066(4) 0.00536(23) 0.00276(10) 0.00026(7) 0.00010(5) 0.00086(12)
+O1 O2- 0.00126(4) 0.00658(22) 0.00186(8) -.00008(7) -.00010(4) 0.00076(11)
+O2 O2- 0.00108(4) 0.00684(22) 0.00253(9) -.00019(8) 0.00042(5) 0.00012(12)
+O3 O2- 0.00111(4) 0.0043(2) 0.00325(10) -.00032(7) -.00010(5) -.00066(11)
+O4 O2- 0.00117(4) 0.00547(21) 0.00276(9) 0.00090(7) -.00034(5) -.00012(11)
+O5 O2- 0.00116(4) 0.00927(23) 0.00325(10) 0.00015(8) 0.00067(5) 0.00125(13)
+O6 O2- 0.00164(5) 0.00480(22) 0.00449(12) 0.00110(8) 0.00035(6) 0.00015(13)
+O7 O2- 0.00094(4) 0.00720(22) 0.00407(11) -.00087(8) 0.00033(5) -.00099(13)
+H1 H1+ 0.00164(7) 0.01182(45) 0.00474(18) -.00064(15) 0.00047(10) 0.00009(24)
+H2 H1+ 0.00187(7) 0.00844(69) 0.00587(77) 0.00079(32) 0.0008(3) -.00058(47)
+H3 H1+ 0.00195(12) 0.0234(10) 0.01366(52) 0.00152(30) 0.00214(21) 0.01087(67)
+#End of TTdata_16415-ICSD

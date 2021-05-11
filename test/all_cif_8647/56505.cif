@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_56505-ICSD
+_database_code_ICSD 56505
+_audit_creation_date 2003-04-01
+_audit_update_record 2005-10-01
+_chemical_name_systematic
+'Potassium sodium delta-tris(oxalato)ferrate(III) (2.5/0.5/1)'
+_chemical_formula_structural 'K2.5 Na0.5 (Fe (C2 O4)3)'
+_chemical_formula_sum 'C6 Fe1 K2.5 Na0.5 O12'
+_exptl_crystal_density_diffrn 2.29
+_publ_section_title
+'Crystal structure of potassium sodium delta-tris(oxalato)ferrate(III)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1997 212 56 56 ZEKRDZ
+loop_
+_publ_author_name
+'Henneicke, S.'
+'Wartchow, R.'
+_cell_length_a 13.555(3)
+_cell_length_b 13.555
+_cell_length_c 13.555
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2490.57
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 41 3 2'
+_symmetry_Int_Tables_number 213
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/4, y+3/4, x+1/4'
+2 'z+1/4, -y+1/4, x+3/4'
+3 'z+3/4, y+1/4, -x+1/4'
+4 '-z+3/4, -y+3/4, -x+3/4'
+5 'y+3/4, x+1/4, -z+1/4'
+6 '-y+1/4, x+3/4, z+1/4'
+7 'y+1/4, -x+1/4, z+3/4'
+8 '-y+3/4, -x+3/4, -z+3/4'
+9 'x+1/4, -z+1/4, y+3/4'
+10 'x+3/4, z+1/4, -y+1/4'
+11 '-x+1/4, z+3/4, y+1/4'
+12 '-x+3/4, -z+3/4, -y+3/4'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+K1+ 1
+Na1+ 1
+C0+ 0
+O1- -1
+O0+ 0
+O1- -1
+O0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 8 c 0.01091(4) 0.01091 0.01091 . 1. 0
+K1 K1+ 8 c 0.17112(9) 0.17112 0.17112 . 1. 0
+K2 K1+ 12 d 0.125 0.24312(6) 0.49312 . 1. 0
+Na1 Na1+ 4 a 0.375 0.375 0.375 . 1. 0
+C1 C0+ 24 e 0.2063(3) -.0510(3) -.0199(3) . 1. 0
+C2 C0+ 24 e 0.1413(3) -.13786(3) -.0579(3) . 1. 0
+O1 O1- 24 e 0.1577(2) 0.0258(2) 0.0039(2) . 1. 0
+O2 O0+ 24 e 0.2956(2) -.0610(2) -.0146(2) . 1. 0
+O3 O1- 24 e 0.0474(2) -.1223(2) -.0458(2) . 1. 0
+O4 O0+ 24 e 0.1792(2) -.2095(2) -.0954(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0236(3) 0.0236 0.0236 -0.0001(2) -0.0001 -0.0001
+K1 K1+ 0.0502(5) 0.0502 0.0502 0.0144(6) 0.0144 0.0445
+K2 K1+ 0.0373(7) 0.0311(4) 0.0311 0.0065(4) -0.0065 -0.0014(6)
+Na1 Na1+ 0.0248(8) 0.0248 0.0248 0.0003(9) 0.0003 0.0003
+C1 C0+ 0.023(3) 0.025(2) 0.029(2) -0.003(2) -0.003(2) 0.006(2)
+C2 C0+ 0.029(2) 0.021(2) 0.021(2) -0.004(2) -0.005(2) 0.004(2)
+O1 O1- 0.024(1) 0.024(1) 0.044(2) -0.003(1) 0.003(1) -0.006(1)
+O2 O0+ 0.025(2) 0.033(2) 0.058(2) -0.002(1) -0.003(1) -0.001(2)
+O3 O1- 0.026(2) 0.024(1) 0.033(2) -0.003(1) -0.002(1) -0.004(1)
+O4 O0+ 0.040(2) 0.024(2) 0.041(2) 0.003(1) 0.003(1) -0.007(1)
+#End of TTdata_56505-ICSD

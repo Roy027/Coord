@@ -1,0 +1,72 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68985-ICSD
+_database_code_ICSD 68985
+_audit_creation_date 1992-01-20
+_chemical_name_systematic 'Sodium iron(III) silicon oxide (0.98/0.98/0.03/2)'
+_chemical_formula_structural 'Na0.975 (Fe0.975 Si0.025) O2'
+_chemical_formula_sum 'Fe0.975 Na0.975 O2 Si0.025'
+_chemical_name_structure_type NaFeO2(beta)
+_exptl_crystal_density_diffrn 3.35
+_publ_section_title
+
+;
+A structural study of the incorporation of silica into sodium ferrites, Na1-x
+(Fe1-x Six O2), x= O to 0.20
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1990 85 202 219 JSSCBI
+loop_
+_publ_author_name
+'Grey, I.E.'
+'Hoskins, B.F.'
+'Madsen, I.C.'
+_cell_length_a 5.6454(2)
+_cell_length_b 5.3765(2)
+_cell_length_c 7.1544(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 217.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n 21 a'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0.0672(3) 0 0.1264(5) 0.21(5) 0.975 0
+Si1 Si4+ 4 a 0.0672(3) 0 0.1264(5) 0.21(5) 0.025 0
+Na1 Na1+ 4 a 0.4281(8) -.480(2) 0.123(1) 0.82(14) 0.975 0
+O1 O2- 4 a 0.046(2) -.341(1) 0.088(2) 0.43(27) 1. 0
+O2 O2- 4 a 0.386(1) 0.079(1) 0.160(2) 0.5(3) 1. 0
+#End of TTdata_68985-ICSD

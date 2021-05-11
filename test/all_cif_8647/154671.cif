@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_154671-ICSD
+_database_code_ICSD 154671
+_audit_creation_date 2007-04-01
+_chemical_name_systematic
+'Disodium selenate(VI) - telluric acid - water (1/0.5/1)'
+_chemical_formula_structural '(Na2 (Se O4)) (Te (O H)6)0.5 (H2 O)'
+_chemical_formula_sum 'H5 Na2 O8 Se1 Te0.5'
+_exptl_crystal_density_diffrn 2.91
+_publ_section_title
+'Structural, thermal and dielectric studies in Na2 Se O4 * Te (O H)6 * (H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2006 416 228 235 JALCEU
+loop_
+_publ_author_name
+'Dammak, M.'
+'Litaiem, H.'
+'Mhiri, T.'
+_cell_length_a 6.211(3)
+_cell_length_b 12.002(3)
+_cell_length_c 10.210(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.99(2)
+_cell_angle_gamma 90.
+_cell_volume 735.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te6+ 6
+Na1+ 1
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te6+ 2 c 0 0 0.5 0.0100(2) 1. 0
+Na1 Na1+ 4 e 0.382(5) -0.5468(2) 0.2438(3) 0.0121(2) 1. 0
+Na2 Na1+ 4 e 0.8688(6) -0.7464(3) 0.7543(4) 0.0199(6) 1. 0
+Se1 Se6+ 4 e 0.4754(1) -0.6812(5) 0.9372(6) 0.0332(8) 1. 0
+O1 O2- 4 e 0.5531(1) -0.6483(5) 0.0978(5) 0.0237(1) 1. 0
+O2 O2- 4 e 0.6511(9) -0.6317(2) 0.8572(6) 0.0189(1) 1. 0
+O3 O2- 4 e 0.2205(8) -0.6354(4) 0.8683(5) 0.0212(1) 1. 0
+O4 O2- 4 e 0.4704(8) -0.8189(4) 0.9249(6) 0.0256(1) 1. 0
+O5 O2- 4 e 0.7613(1) -0.0052(6) 0.8409(6) 0.0338(2) 1. 0
+O6 O2- 4 e 0.0561(1) -0.8516(5) 0.9513(9) 0.0193(1) 1. 0
+O7 O2- 4 e 0.7964(9) -0.9399(4) 0.0961(5) 0.0335(2) 1. 0
+O8 O2- 4 e 0.0382(1) -0.6193(7) 0.1215(7) 0.037(2) 1. 0
+H1 H1+ 4 e 0.901(5) -0.9168(7) 0.6059(9) 0.0389(5) 1. 0
+H2 H1+ 4 e 0.1152(7) -0.6502(5) 0.0599(6) 0.0645(5) 1. 0
+H3 H1+ 4 e 0.6756(9) -0.4398(6) 0.2758(7) 0.0289(5) 1. 0
+H4 H1+ 4 e 0.1942(9) -0.9059(5) 0.0518(5) 0.0399(5) 1. 0
+H5 H1+ 4 e 0.4727(6) -0.8445(6) 0.9439(5) 0.0650(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te6+ 0.0097(3) 0.0115(3) 0.0085(3) 0.0007(2) 0.0017(2) 0.0006(2)
+Na1 Na1+ 0.019(1) 0.021(2) 0.019(2) -0.0006(1) 0.0038(1) 0.002(1)
+Na2 Na1+ 0.029(2) 0.0394(2) 0.0284(2) 0.0085(1) 0.0022(1) -0.004(1)
+Se1 Se6+ 0.0113(3) 0.0127(3) 0.0122(3) 0.0001(2) 0.0027(3) 0.001(2)
+O1 O2- 0.0265(3) 0.0335(3) 0.015(2) 0.003(2) 0.002(2) -0.008(2)
+O2 O2- 0.0204(2) 0.0233(3) 0.0317(3) -0.0004(2) 0.0142(2) 0.0067(2)
+O3 O2- 0.0132(2) 0.0242(3) 0.025(3) 0.0032(2) 0.0026(2) 0.0085(2)
+O4 O2- 0.0201(3) 0.0123(2) 0.0024(2) 0.0004(2) 0.0024(2) 0.0002(2)
+O5 O2- 0.0224(3) 0.0531(4) 0.0167(3) 0.0179(3) -0.0101(2) -0.0175(2)
+O6 O2- 0.0263(5) 0.0147(2) 0.067(5) 0.0029(3) 0.0238(2) 0.0139(3)
+O7 O2- 0.0177(2) 0.0273(3) 0.0113(2) 0.019(1) 0.0067(2) 0.0017(2)
+O8 O2- 0.0197(3) 0.0637(5) 0.0275(3) -0.0048(3) 0.0045(3) -0.0078(3)
+#End of TTdata_154671-ICSD

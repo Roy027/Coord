@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_242098-ICSD
+_database_code_ICSD 242098
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Disodium copper bis(oxalate)'
+_chemical_formula_structural 'Na2 Cu (C2 O4)2'
+_chemical_formula_sum 'C4 Cu1 Na2 O8'
+_exptl_crystal_density_diffrn 2.73
+_cell_measurement_temperature 173.
+_publ_section_title 'A novel copper oxalate, Na2Cu(C2O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2016 642 1345 1349
+ZAACAB
+loop_
+_publ_author_name
+'Yao, Wenjiao'
+'Armstrong, A. Robert'
+'Lightfoot, Philip'
+_cell_length_a 7.2578(5)
+_cell_length_b 5.7711(4)
+_cell_length_c 8.6604(8)
+_cell_angle_alpha 90
+_cell_angle_beta 106.948(9)
+_cell_angle_gamma 90
+_cell_volume 346.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+Na1+ 1
+O2- -2
+C3+ 3.25
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 2 d 1. 0.5 0.5 0.0107(2) 1 0
+Na1 Na1+ 4 e 0.26357(13) 1.00141(8) 0.35664(11) 0.0158(3) 1 0
+O1 O2- 4 e 0.46058(13) 0.69208(17) 0.36247(11) 0.0119(3) 1 0
+O2 O2- 4 e 0.77498(14) 0.68746(18) 0.48961(11) 0.0121(3) 1 0
+O3 O2- 4 e 0.49635(14) 0.24530(17) 0.25797(11) 0.0131(3) 1 0
+O4 O2- 4 e 0.81136(14) 0.26717(16) 0.38761(11) 0.0130(3) 1 0
+C1 C3+ 4 e 0.6201(2) 0.5999(2) 0.39855(17) 0.0092(3) 1 0
+C2 C3+ 4 e 0.6407(2) 0.3491(3) 0.33917(17) 0.0088(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu1+ 0.0053(3) 0.0109(3) 0.0145(3) 0.00002(7) 0.00106(18) -0.00440(7)
+Na1 Na1+ 0.0129(6) 0.0118(5) 0.0189(5) 0.00290(17) -0.0015(4) -0.00386(18)
+O1 O2- 0.0087(5) 0.0139(6) 0.0129(6) 0.0024(4) 0.0027(4) 0.0020(4)
+O2 O2- 0.0086(5) 0.0126(6) 0.0145(5) 0.0001(4) 0.0023(4) -0.0034(4)
+O3 O2- 0.0101(6) 0.0136(6) 0.0142(5) -0.0019(4) 0.0014(4) -0.0019(4)
+O4 O2- 0.0094(6) 0.0110(5) 0.0169(6) 0.0009(4) 0.0013(4) -0.0025(4)
+C1 C3+ 0.0110(7) 0.0090(9) 0.0090(7) -0.0004(6) 0.0050(5) 0.0008(6)
+C2 C3+ 0.0088(7) 0.0111(8) 0.0068(7) 0.0003(5) 0.0027(5) 0.0007(5)
+#End of TTdata_242098-ICSD

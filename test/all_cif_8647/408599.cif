@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_408599-ICSD
+_database_code_ICSD 408599
+_audit_creation_date 1999-06-02
+_audit_update_record 2008-02-01
+_chemical_name_systematic
+'Tetrasodium tetra-mue-imido-tetraphosphate(V) dihydrate'
+_chemical_formula_structural 'Na4 (P4 O8 (N H)4) (H2 O)2'
+_chemical_formula_sum 'H8 N4 Na4 O10 P4'
+_exptl_crystal_density_diffrn 2.28
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Synthese, Struktur und Eigenschaften von drei
+Tetranatrium-tetrametaphosphimat-Hydraten
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1998
+624 1777 1786 ZAACAB
+loop_
+_publ_author_name
+'Stock, N.'
+'Schmalz, H.'
+'Schnick, W.'
+_cell_length_a 22.256(3)
+_cell_length_b 5.1300(7)
+_cell_length_c 15.667(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 134.206(8)
+_cell_angle_gamma 90.
+_cell_volume 1282.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0825
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 8 f 0.05436(5) 0.1634(2) 0.42169(7) . 1. 0
+P2 P5+ 8 f -.11849(5) 0.0386(2) 0.18841(7) . 1. 0
+Na1 Na1+ 8 f -.09539(8) 0.3406(3) 0.39633(12) . 1. 0
+Na2 Na1+ 8 f -.25428(8) -.4261(3) 0.09436(12) . 1. 0
+O1 O2- 8 f 0.02272(14) 0.4122(5) 0.4285(2) . 1. 0
+O2 O2- 8 f 0.11654(14) 0.0060(5) 0.5352(2) . 1. 0
+O3 O2- 8 f -.17073(14) 0.1879(5) 0.2000(2) . 1. 0
+O4 O2- 8 f -.15392(13) -.2089(5) 0.1174(2) . 1. 0
+O5 O2- 8 f -.2069(2) 0.6410(6) 0.2859(2) . 1. 0
+H1 H1+ 8 f -.2441(2) 0.6166(6) 0.2874(2) 0.024(13) 1. 0
+H2 H1+ 8 f -.1816(2) 0.7547(6) 0.3276(2) 0.042(17) 1. 0
+N1 N3- 8 f -.0253(2) -.0383(6) 0.3240(2) . 1. 0
+H3 H1+ 8 f -.0116(2) -.2242(6) 0.3397(2) 0.019(11) 1. 0
+N2 N3- 8 f 0.0985(2) 0.2431(6) 0.3721(2) . 1. 0
+H4 H1+ 8 f 0.0911(2) 0.3998(6) 0.3522(2) 0.027(13) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0056(3) 0.0074(4) 0.0052(3) -.0002(3) 0.0038(3) -.0006(3)
+P2 P5+ 0.0054(3) 0.0075(4) 0.0055(3) -.0006(3) 0.0038(3) -.0003(3)
+Na1 Na1+ 0.0110(6) 0.0114(7) 0.0105(6) 0.0001(6) 0.0081(5) 0.0002(6)
+Na2 Na1+ 0.0087(6) 0.0151(7) 0.0111(6) -.0016(6) 0.0065(5) 0.0001(6)
+O1 O2- 0.0101(10) 0.0081(11) 0.0104(11) -.0001(9) 0.0079(9) -.0014(9)
+O2 O2- 0.0078(10) 0.0110(12) 0.007(1) -.0002(9) 0.0043(9) 0.0012(9)
+O3 O2- 0.0079(10) 0.0106(12) 0.0104(11) 0.0019(9) 0.0069(9) 0.0017(9)
+O4 O2- 0.0087(10) 0.0073(12) 0.0093(11) -.0019(9) 0.0059(9) -.0014(9)
+O5 O2- 0.0146(12) 0.0160(13) 0.0120(11) -.0033(11) 0.0081(10) -.0053(11)
+N1 N3- 0.0065(11) 0.0073(13) 0.0073(11) -.0009(11) 0.0042(10) 0.0005(11)
+N2 N3- 0.0094(12) 0.0096(14) 0.0087(12) -.0015(11) 0.0079(11) -.0007(10)
+#End of TTdata_408599-ICSD

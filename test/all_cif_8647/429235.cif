@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429235-ICSD
+_database_code_ICSD 429235
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Cobalt sodium phosphate hydroxide *'
+_chemical_formula_structural 'Na0.912 Co6 (O H)3 (H P O4) (H0.363 P O4)3'
+_chemical_formula_sum 'H5.089 Co6 Na0.912 O19 P4'
+_exptl_crystal_density_diffrn 3.87
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+A novel cobalt sodium phosphate hydroxide with the ellenbergerite topology:
+crystal structure and physical properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2015 44 11827 11834 DTARAF
+loop_
+_publ_author_name
+'Yakubovich, Olga V.'
+'Kiriukhina, Galina V.'
+'Dimitrova, Olga V.'
+'Shvanskaya, Larisa V.'
+'Volkova, Olga S.'
+'Vasiliev, Alexander N.'
+_cell_length_a 12.630(3)
+_cell_length_b 12.630(3)
+_cell_length_c 5.0170(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 693.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 12 d 0.07765(7) 0.65220(8) 0.0896(9) 0.0110(2) 1 0
+P1 P5+ 6 c 0.15516(12) 0.84484(12) 0.5676(12) 0.0147(6) 1 0
+P2 P5+ 2 b 0.3333 0.6667 -0.1362(12) 0.0096(9) 1 0
+Na1 Na1+ 2 a 0. 0. 0.7724(19) 0.023(2) 0.91 0
+O1 O2- 12 d 0.0750(4) 0.7284(4) 0.7286(12) 0.0134(11) 1 0
+O2 O2- 6 c 0.0855(4) 0.9145(4) 0.5241(16) 0.031(2) 1 0
+O3 O2- 6 c 0.1888(4) 0.8112(4) 0.2987(17) 0.0176(17) 1 0
+O4 O2- 6 c 0.3992(3) 0.6008(3) -0.0406(19) 0.0202(18) 1 0
+O5 O2- 6 c 0.0497(7) 0.5248(3) 0.4015(9) 0.0135(16) 1 0
+O6 O2- 2 b 0.3333 0.6667 0.551(3) 0.043(5) 1 0
+H1 H1+ 6 c 0.080(13) 0.540(7) 0.558(12) 0.10(6) 1 0
+H2 H1+ 6 c 0.058(13) 0.942(13) 0.65(5) 0.10(6) 0.36 0
+H3 H1+ 6 c 0.3956(11) 0.6978(6) 0.4501 0.10(6) 0.33 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0101(4) 0.0133(4) 0.0086(4) 0.0051(4) 0.0001(7) 0.0003(7)
+P1 P5+ 0.0160(8) 0.0160(8) 0.0088(14) 0.0057(10) -0.0010(7) 0.0010(7)
+P2 P5+ 0.0091(13) 0.0091(13) 0.011(2) 0.0046(6) 0. 0.
+Na1 Na1+ 0.017(2) 0.017(2) 0.034(6) 0.0084(12) 0. 0.
+O1 O2- 0.012(3) 0.011(3) 0.013(2) 0.003(2) 0.0029(19) 0.001(2)
+O2 O2- 0.033(4) 0.033(4) 0.038(7) 0.024(4) -0.0060(18) 0.0060(18)
+O3 O2- 0.015(3) 0.015(3) 0.012(4) -0.001(3) 0.0032(17) -0.0032(17)
+O4 O2- 0.013(3) 0.013(3) 0.039(5) 0.009(3) -0.0061(18) 0.0061(18)
+O5 O2- 0.018(4) 0.012(3) 0.012(4) 0.009(2) -0.004(3) -0.0021(15)
+O6 O2- 0.059(6) 0.059(6) 0.011(10) 0.029(3) 0. 0.
+#End of TTdata_429235-ICSD

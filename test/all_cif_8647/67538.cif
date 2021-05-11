@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67538-ICSD
+_database_code_ICSD 67538
+_audit_creation_date 1993-08-22
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium oxotitanium phosphate(V) - alpha'
+_chemical_formula_structural 'Na (Ti O) (P O4)'
+_chemical_formula_sum 'Na1 O5 P1 Ti1'
+_chemical_name_structure_type CaTi(SiO4)O
+_exptl_crystal_density_diffrn 3.36
+_publ_section_title
+'Effects of substitution chemistry in the K Ti O P O4 structure field'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1992 4 222 233 CMATEX
+loop_
+_publ_author_name
+'Phillips, M.L.F.'
+'Harrison, W.T.A.'
+'Stucky, G.D.'
+'McCarron, E.M.'
+'Calabrese, J.C.'
+'Gier, T.E.'
+_cell_length_a 6.556(1)
+_cell_length_b 8.483(1)
+_cell_length_c 7.140(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.25(1)
+_cell_angle_gamma 90.
+_cell_volume 359.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 4 e 0.74835(6) 0.25882(4) 0.52256(6) . 1. 0
+P1 P5+ 4 e 0.75035(8) 0.93119(7) 0.75091(8) . 1. 0
+Na1 Na1+ 4 e 0.2507(2) 0.4172(1) 0.2247(2) . 1. 0
+O1 O2- 4 e 0.7470(2) 0.3213(2) 0.7466(2) . 1. 0
+O2 O2- 4 e 0.5704(2) 0.8201(2) 0.6007(2) . 1. 0
+O3 O2- 4 e 0.9358(2) 0.8236(2) 0.9029(2) . 1. 0
+O4 O2- 4 e 0.8426(2) 1.0359(2) 0.6282(2) . 1. 0
+O5 O2- 4 e 0.6531(2) 1.0332(2) 0.8717(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti1 Ti4+ 0.0034(3) 0.0044(2) 0.0034(3) -.0005(1) 0.0015(2) -.0004(1)
+P1 P5+ 0.0026(3) 0.0035(3) 0.0038(3) 0.0001(2) 0.0014(2) 0.0000(2)
+Na1 Na1+ 0.0141(6) 0.0077(5) 0.0332(7) -.0005(5) 0.0028(5) 0.0012(4)
+O1 O2- 0.0069(8) 0.0070(8) 0.0050(8) 0.0004(5) 0.0031(6) 0.0003(5)
+O2 O2- 0.0040(7) 0.0070(7) 0.0075(8) -.0011(5) 0.0013(6) -.0019(5)
+O3 O2- 0.0036(7) 0.0064(7) 0.0072(8) 0.0013(5) 0.0013(6) 0.0017(5)
+O4 O2- 0.0053(7) 0.0054(7) 0.0074(8) 0.0003(5) 0.0038(6) 0.0014(5)
+O5 O2- 0.0042(7) 0.0059(7) 0.0082(8) 0.0000(5) 0.0037(6) -.0016(5)
+#End of TTdata_67538-ICSD

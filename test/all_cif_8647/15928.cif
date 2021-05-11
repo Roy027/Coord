@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15928-ICSD
+_database_code_ICSD 15928
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Pentasodium triiron(III) fluoride - gamma'
+_chemical_formula_structural 'Na5 Fe3 F14'
+_chemical_formula_sum 'F14 Fe3 Na5'
+_exptl_crystal_density_diffrn 3.25
+_publ_section_title
+
+;
+Etude cristallographique et par effet moessbauer du fluorure ferrimagnetique
+Na5 Fe3 F14-gamma
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1976 17 291 298 JSSCBI
+loop_
+_publ_author_name
+'Vlasse, M.'
+'Menil, F.'
+'Moriliere, C.'
+'Dance, J.M.'
+'Tressaud, A.'
+'Portier, J.'
+_cell_length_a 7.345(7)
+_cell_length_b 7.345
+_cell_length_c 10.400(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 561.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42 21 2'
+_symmetry_Int_Tables_number 94
+_refine_ls_R_factor_all 0.091
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, z+1/2'
+2 'y+1/2, -x+1/2, z+1/2'
+3 '-y, -x, -z'
+4 'y, x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x+1/2, y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 d 0 0.5 0.4984(4) . 1. 0
+Fe2 Fe3+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 8 g 0.2652(9) 0.7312(12) 0.2597(4) . 1. 0
+Na2 Na1+ 2 b 0 0 0.5 . 1. 0
+F1 F1- 8 g 0.9976(24) 0.2914(10) 0.3719(9) . 1. 0
+F2 F1- 8 g 0.3425(10) 0.9713(28) 0.3758(8) . 1. 0
+F3 F1- 8 g 0.2500(11) 0.5400(13) 0.4552(11) . 1. 0
+F4 F1- 4 c 0 0 0.1775(12) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Fe1 Fe3+ 0.0025(3) 0.0027(3) 0.0035(2) -.0019(4) 0 0
+Fe2 Fe3+ 0.0026(2) 0.0026 0.0036(2) -.0001(4) 0 0
+Na1 Na1+ 0.0008(7) 0.0436(20) 0.0047(4) 0.1758(8) -.0010(6) 0.0174(9)
+Na2 Na1+ 0.0303(33) 0.0303 0.0360(37) -.0278(39) 0 0
+F1 F1- 0.0315(22) 0.0017(12) 0.0131(12) 0.0052(19) -.0063(20) -.0046(10)
+F2 F1- 0.0011(12) 0.0622(54) 0.0096(10) 0.0024(24) -.007(1) -.017(2)
+F3 F1- 0.0054(12) 0.0144(17) 0.0304(26) 0.0019(11) 0.0047(14) 0.0112(15)
+F4 F1- 0.109(11) 0.0325(46) 0.0081(12) -.0509(59) 0 0
+#End of TTdata_15928-ICSD

@@ -1,0 +1,125 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69410-ICSD
+_database_code_ICSD 69410
+_audit_creation_date 1992-08-20
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Disodium tecto-dialumotrisilicate dihydrate'
+_chemical_formula_structural 'Na2 (Al2 Si3 O10) (H2 O)2'
+_chemical_formula_sum 'H4 Al2 Na2 O12 Si3'
+_chemical_name_structure_type Natrolite-frame
+_chemical_name_mineral Natrolite
+_exptl_crystal_density_diffrn 2.24
+_publ_section_title
+
+;
+Disorder in natrolites: structure determinations of three disordered
+natrolites and one lithium-exchanged disordered natrolite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 1990 2 799 807 EJMIER
+loop_
+_publ_author_name
+'Krogh Andersen, E.'
+'Krogh Andersen, I.G.'
+'Ploug-Sorensen, G.'
+_cell_length_a 18.3670(20)
+_cell_length_b 18.5830(10)
+_cell_length_c 6.599(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2252.33
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 16 b 0.22082(9) 0.03022(9) 0.62050(43) . 1. 0
+Si1 Si4+ 8 a 0 0 0 . 0.6 0
+Al1 Al3+ 8 a 0 0 0 . 0.4 0
+Si2 Si4+ 16 b 0.15402(5) 0.21145(5) 0.62497(29) . 0.6 0
+Al2 Al3+ 16 b 0.15402(5) 0.21145(5) 0.62497(29) . 0.4 0
+Si3 Si4+ 16 b 0.03778(5) 0.09408(5) 0.61794(30) . 0.6 0
+Al3 Al3+ 16 b 0.03778(5) 0.09408(5) 0.61794(30) . 0.4 0
+O1 O2- 16 b 0.02289(16) 0.06952(15) 0.86443(62) . 1. 0
+O2 O2- 16 b 0.07029(14) 0.18096(14) 0.61588(61) . 1. 0
+O3 O2- 16 b 0.09798(15) 0.03609(15) 0.50568(59) . 1. 0
+O4 O2- 16 b 0.20849(15) 0.15283(16) 0.73077(57) . 1. 0
+O5 O2- 16 b 0.17991(15) 0.22730(17) 0.39080(59) . 1. 0
+O6 O2- 16 b 0.05675(20) 0.1905(2) 0.11679(77) . 1. 0
+H1 H1+ 16 b 0.05567 0.15061 0.06727 . 1. 0
+H2 H1+ 16 b 0.09284 0.19371 0.06636 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0186(7) 0.0181(7) 0.0209(8) -.0019(6) -.0029(8) -.0027(8)
+Si1 Si4+ 0.0110(5) 0.0102(5) 0.0062(5) 0.0004(5) 0 0
+Al1 Al3+ 0.0110(5) 0.0102(5) 0.0062(5) 0.0004(5) 0 0
+Si2 Si4+ 0.0078(3) 0.0087(4) 0.0078(4) -.0003(3) 0.0001(4) -.0006(4)
+Al2 Al3+ 0.0078(3) 0.0087(4) 0.0078(4) -.0003(3) 0.0001(4) -.0006(4)
+Si3 Si4+ 0.0080(4) 0.0060(4) 0.0063(4) -.0001(3) -.0004(4) -.0006(4)
+Al3 Al3+ 0.0080(4) 0.0060(4) 0.0063(4) -.0001(3) -.0004(4) -.0006(4)
+O1 O2- 0.0265(14) 0.0148(12) 0.0129(12) -.001(1) 0.0017(13) 0.0014(13)
+O2 O2- 0.0096(10) 0.0104(10) 0.0147(11) -.0011(8) -.0013(12) 0.0003(12)
+O3 O2- 0.0143(11) 0.0137(12) 0.0188(14) 0.0022(9) -.0003(11) -.0047(11)
+O4 O2- 0.0159(12) 0.0142(12) 0.0186(14) 0.003(1) -.0044(12) 0.0002(11)
+O5 O2- 0.0154(12) 0.0254(14) 0.0130(13) -.0021(10) 0.0031(12) 0.0028(12)
+O6 O2- 0.0285(15) 0.0265(15) 0.0219(15) 0.0012(12) -.0010(17) -.0008(17)
+H1 H1+ 0.0114 0.0114 0.0114 0 0 0
+H2 H1+ 0.0114 0.0114 0.0114 0 0 0
+#End of TTdata_69410-ICSD

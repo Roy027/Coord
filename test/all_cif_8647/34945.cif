@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34945-ICSD
+_database_code_ICSD 34945
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Hydrogen sodium dicalcium catena-trisilicate'
+_chemical_formula_structural 'H Na Ca2 (Si3 O9)'
+_chemical_formula_sum 'H1 Ca2 Na1 O9 Si3'
+_chemical_name_structure_type Pectolite
+_chemical_name_mineral 'Pectolite 1A'
+_exptl_crystal_density_diffrn 2.89
+_publ_section_title
+'Hydrogen bonding and cation ordering in Magnet Cove pectolite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1977 146 281 292 ZEKRDZ
+loop_
+_publ_author_name
+'Takeuchi, Y.'
+'Kudoh, Y.'
+_cell_length_a 7.980(1)
+_cell_length_b 7.023(1)
+_cell_length_c 7.018(1)
+_cell_angle_alpha 90.54(1)
+_cell_angle_beta 95.14(1)
+_cell_angle_gamma 102.55(1)
+_cell_volume 382.2
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0214
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+H1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 2 i 0.85456(3) 0.59362(3) 0.14512(3) . 1. 0
+Ca2 Ca2+ 2 i 0.84713(3) 0.08396(3) 0.14025(3) . 1. 0
+Na1 Na1+ 2 i 0.55282(7) 0.2591(1) 0.3439(1) . 1. 0
+H1 H1+ 2 i 0.178(5) 0.645(5) 0.527(5) 5.82 1. 0
+Si1 Si4+ 2 i 0.21853(4) 0.40197(5) 0.33746(5) . 1. 0
+Si2 Si4+ 2 i 0.21472(4) 0.95470(5) 0.34448(5) . 1. 0
+Si3 Si4+ 2 i 0.45065(4) 0.73600(5) 0.14444(5) . 1. 0
+O1 O2- 2 i 0.6534(1) 0.7883(1) 0.1267(1) . 1. 0
+O2 O2- 2 i 0.3300(1) 0.7053(1) -.0545(1) . 1. 0
+O3 O2- 2 i 0.1864(1) 0.4969(1) 0.5396(1) . 1. 0
+O4 O2- 2 i 0.1766(1) 0.8465(1) 0.5417(1) . 1. 0
+O5 O2- 2 i 0.0632(1) 0.3863(1) 0.1731(1) . 1. 0
+O6 O2- 2 i 0.0602(1) 0.8966(1) 0.1772(1) . 1. 0
+O7 O2- 2 i 0.3997(1) 0.5348(1) 0.2714(1) . 1. 0
+O8 O2- 2 i 0.3951(1) 0.9091(1) 0.2754(1) . 1. 0
+O9 O2- 2 i 0.2640(1) 0.1916(1) 0.3856(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ca1 Ca2+ 0.00233(4) 0.00269(5) 0.00312(5) 0.00057(3) 0.00057(3) 0.00016(3)
+Ca2 Ca2+ 0.00223(4) 0.00262(5) 0.00309(5) 0.00064(3) 0.00053(3) 0.00016(3)
+Na1 Na1+ 0.00316(8) 0.00854(13) 0.00862(12) 0.00045(8) 0.00194(8) 0.00035(10)
+Si1 Si4+ 0.00191(5) 0.00230(6) 0.00237(6) 0.00047(4) 0.00005(4) 0.00010(4)
+Si2 Si4+ 0.00207(5) 0.00222(6) 0.00246(6) 0.00057(4) 0.00013(4) 0.00001(4)
+Si3 Si4+ 0.00156(5) 0.00275(6) 0.00264(6) 0.00038(4) 0.00029(4) 0.00002(4)
+O1 O2- 0.00231(12) 0.00387(16) 0.00553(16) 0.00044(11) 0.00096(10) 0.00041(13)
+O2 O2- 0.00329(12) 0.00443(16) 0.00327(15) 0.00079(11) -.00018(10) 0.00010(12)
+O3 O2- 0.00450(13) 0.00479(17) 0.00281(14) 0.00198(12) 0.00063(11) -.00047(12)
+O4 O2- 0.00565(14) 0.00383(16) 0.00310(15) 0.00083(12) 0.00107(11) 0.00091(12)
+O5 O2- 0.00259(12) 0.00439(16) 0.00319(14) 0.00075(11) -.00006(10) 0.00024(12)
+O6 O2- 0.00283(12) 0.00458(17) 0.00360(15) 0.00059(11) -.0003(1) -.00039(13)
+O7 O2- 0.00262(12) 0.00420(16) 0.00567(16) 0.00048(11) 0.00059(11) 0.00156(13)
+O8 O2- 0.00274(12) 0.00493(17) 0.00595(16) 0.00114(11) 0.00062(11) -.00179(13)
+O9 O2- 0.00352(12) 0.00219(15) 0.00462(15) 0.00086(11) 0.00028(11) 0.00005(12)
+#End of TTdata_34945-ICSD

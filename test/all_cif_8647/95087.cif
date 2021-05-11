@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95087-ICSD
+_database_code_ICSD 95087
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Sodium manganese arsenate(V)'
+_chemical_formula_structural 'Na Mn (As O4)'
+_chemical_formula_sum 'As1 Mn1 Na1 O4'
+_chemical_name_structure_type Olivine-Mg2SiO4
+_exptl_crystal_density_diffrn 4.03
+_publ_section_title
+
+;
+Synthesis, structure and magnetic properties of two quasi-low-dimensional
+antiferromagnets, Na Mn As O4 and beta-(Na Cu P O4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2002 338 80 86 JALCEU
+loop_
+_publ_author_name
+'Ulutagay-Kartin, M.'
+'Etheredge, K.M.S.'
+'Schimek, G.L.'
+'Hwu, S.-J.'
+_cell_length_a 10.853(3)
+_cell_length_b 6.383(2)
+_cell_length_c 5.157(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 357.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn2+ 2
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.5 0.5 0.5 0.014(1) 1. 0
+Mn1 Mn2+ 4 c 0.2815(1) 0.75 0.9956(1) 0.007(1) 1. 0
+As1 As5+ 4 c 0.6045(1) 0.75 0.0564(1) 0.006(1) 1. 0
+O1 O2- 4 c 0.4586(2) 0.75 0.1697(5) 0.010(1) 1. 0
+O2 O2- 4 c 0.6103(2) 0.75 0.7333(5) 0.009(1) 1. 0
+O3 O2- 8 d 0.6770(1) 0.5442(3) 0.2005(3) 0.011(1) 1. 0
+#End of TTdata_95087-ICSD

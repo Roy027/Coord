@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411328-ICSD
+_database_code_ICSD 411328
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium tecto-gallosilicate'
+_chemical_formula_structural 'Na (Ga Si O4)'
+_chemical_formula_sum 'Ga1 Na1 O4 Si1'
+_chemical_name_structure_type BaMgSiO4
+_chemical_name_mineral 'Sodalite (Ga-exchanged, dehydrated)'
+_exptl_crystal_density_diffrn 3.4
+_publ_section_title
+
+;
+Structure and properties of tecto-gallosilicates. I. Hydrosodalites and their
+phase transition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2000 215 510 517 ZEKRDZ
+loop_
+_publ_author_name
+'Gesing, T.M.'
+_cell_length_a 8.729(2)
+_cell_length_b 8.729(2)
+_cell_length_c 8.208(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 541.62
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ga3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0 2.3 1. 0
+Na2 Na1+ 2 b 0.33333 0.66667 0.006(13) 2.3 1. 0
+Na3 Na1+ 2 b 0.33333 0.66667 0.557(11) 2.3 1. 0
+Ga1 Ga3+ 6 c 0.3151(16) 0.3459(16) 0.2780(72) 1.4 1. 0
+Si1 Si4+ 6 c 0.9670(22) 0.3221(24) 0.3669(72) 1.4 1. 0
+O1 O2- 6 c 0.1868(21) 0.4313(28) 0.3885(74) 1.6 1. 0
+O2 O2- 6 c 0.2675(30) 0.3815(39) 0.0578(72) 1.6 1. 0
+O3 O2- 6 c 0.5188(27) 0.0798(22) 0.2354(74) 1.6 1. 0
+O4 O2- 6 c 0.2253(19) 0.0982(16) 0.2792(86) 1.6 1. 0
+#End of TTdata_411328-ICSD

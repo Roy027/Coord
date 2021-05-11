@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150467-ICSD
+_database_code_ICSD 150467
+_audit_creation_date 2006-04-01
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Sodium chlorate(V) bromate(V) (1/0.9/0.1)'
+_chemical_formula_structural 'Na ((Cl O3)0.9 (Br O3)0.1)'
+_chemical_formula_sum 'Br0.1 Cl0.9 Na1 O3'
+_chemical_name_structure_type Na(Cl,Br)O3(P1)
+_exptl_crystal_density_diffrn 2.57
+_publ_section_title
+'Kinetic ordering of atoms in sodium chlorate-bromate solid solutions'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 4732 4742 JSSCBI
+loop_
+_publ_author_name
+'Shtukenberg, A.G.'
+'Rozhdestvenskaya, I.V.'
+'Popov, D.Yu.'
+'Punin, Yu.O.'
+_cell_length_a 6.590(1)
+_cell_length_b 6.591(1)
+_cell_length_c 6.592(1)
+_cell_angle_alpha 90.00(1)
+_cell_angle_beta 90.06(1)
+_cell_angle_gamma 90.00(1)
+_cell_volume 286.32
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1'
+_symmetry_Int_Tables_number 1
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cl5+ 5
+Br5+ 5
+Cl5+ 5
+Br5+ 5
+Cl5+ 5
+Br5+ 5
+Cl5+ 5
+Br5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cl1 Cl5+ 1 a 0.41266(8) 0.41912(8) 0.42129(8) 0.01593(9) 0.870(3) 0
+Br1 Br5+ 1 a 0.41266(8) 0.41912(8) 0.42129(8) 0.01593(9) 0.130(3) 0
+Cl2 Cl5+ 1 a 0.08031(8) 0.58682(8) 0.92220(8) 0.0159(1) 0.929(3) 0
+Br2 Br5+ 1 a 0.08031(8) 0.58682(8) 0.92220(8) 0.0159(1) 0.071(3) 0
+Cl3 Cl5+ 1 a 0.58172(7) 0.91894(7) 0.09024(7) 0.01565(9) 0.871(3) 0
+Br3 Br5+ 1 a 0.58172(7) 0.91894(7) 0.09024(7) 0.01565(9) 0.129(3) 0
+Cl4 Cl5+ 1 a 0.91394(8) 0.08677(8) 0.58880(8) 0.0155(1) 0.933(3) 0
+Br4 Br5+ 1 a 0.91394(8) 0.08677(8) 0.58880(8) 0.0155(1) 0.067(3) 0
+Na1 Na1+ 1 a 0.0668(2) 0.0731(2) 0.0749(2) 0.0243(3) 1. 0
+Na2 Na1+ 1 a 0.4282(2) -0.0661(2) 0.5758(2) 0.0234(3) 1. 0
+Na3 Na1+ 1 a -0.0724(2) 0.5727(2) 0.4366(2) 0.0239(3) 1. 0
+Na4 Na1+ 1 a 0.5670(2) 0.4340(2) -0.0644(2) 0.0237(3) 1. 0
+O1 O2- 1 a 0.2986(4) 0.5971(4) 0.5107(4) 0.0268(5) 1. 0
+O2 O2- 1 a 0.1944(4) 0.4103(3) 0.0108(4) 0.0263(5) 1. 0
+O3 O2- 1 a 0.6957(4) 0.0970(3) 0.0003(4) 0.0261(5) 1. 0
+O4 O2- 1 a 0.8005(4) -0.0892(3) 0.5002(4) 0.0267(5) 1. 0
+O5 O2- 1 a 0.5022(4) 0.3056(4) 0.5986(3) 0.0265(5) 1. 0
+O6 O2- 1 a 0.0027(4) 0.2009(4) 0.4135(3) 0.0272(6) 1. 0
+O7 O2- 1 a -0.0076(4) 0.7004(4) 0.0981(3) 0.0269(5) 1. 0
+O8 O2- 1 a 0.4919(4) 0.8048(4) -0.0873(3) 0.0264(5) 1. 0
+O9 O2- 1 a 0.5902(3) 0.5090(4) 0.3077(4) 0.0267(5) 1. 0
+O10 O2- 1 a 0.4042(3) 0.0094(4) 0.2038(4) 0.0268(5) 1. 0
+O11 O2- 1 a 0.0897(3) -0.0016(4) 0.7034(4) 0.0277(6) 1. 0
+O12 O2- 1 a -0.0957(3) 0.4981(4) 0.8076(4) 0.0263(5) 1. 0
+#End of TTdata_150467-ICSD

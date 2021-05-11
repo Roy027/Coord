@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1557-ICSD
+_database_code_ICSD 1557
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Octasodium diferrate(III)'
+_chemical_formula_structural 'Na8 (Fe2 O7)'
+_chemical_formula_sum 'Fe2 Na8 O7'
+_chemical_name_structure_type Na8Ga2O7
+_exptl_crystal_density_diffrn 2.93
+_publ_section_title
+'Ueber Oxoferrate mit isolierten Anionen. Zur Kenntnis von Na8 Fe2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1978
+438 15 24 ZAACAB
+loop_
+_publ_author_name
+'Brachtel, G.'
+'Hoppe, R.'
+_cell_length_a 8.723(4)
+_cell_length_b 11.019(4)
+_cell_length_c 10.103(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.73(2)
+_cell_angle_gamma 90.
+_cell_volume 924.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.082
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.89399(16) 0.24086(13) 0.96685(14) . 1. 0
+Na2 Na1+ 4 e 0.74445(18) 0.44791(13) 0.78797(16) . 1. 0
+Na3 Na1+ 4 e 0.91445(18) 0.96195(13) 0.85636(15) . 1. 0
+Na4 Na1+ 4 e 0.43414(17) 0.47096(13) 0.85485(19) . 1. 0
+Na5 Na1+ 4 e 0.71362(16) 0.75040(13) 0.93001(15) . 1. 0
+Na6 Na1+ 4 e 0.49843(16) 0.23175(12) 0.87093(15) . 1. 0
+Na7 Na1+ 4 e 0.66025(17) 0.00480(13) 0.98314(16) . 1. 0
+Na8 Na1+ 4 e 0.11983(17) 0.47570(12) 0.92270(14) . 1. 0
+Fe1 Fe3+ 4 e 0.09293(5) 0.20324(3) 0.77346(4) . 1. 0
+Fe2 Fe3+ 4 e 0.69087(5) 0.21647(4) 0.65362(4) . 1. 0
+O1 O2- 4 e 0.10451(25) 0.79796(19) 0.78318(24) . 1. 0
+O2 O2- 4 e 0.45703(26) 0.84848(19) 0.89159(24) . 1. 0
+O3 O2- 4 e 0.67476(27) 0.11816(19) 0.79985(23) . 1. 0
+O4 O2- 4 e 0.25105(24) 0.32464(19) 0.81558(23) . 1. 0
+O5 O2- 4 e 0.10694(25) 0.10967(19) 0.93213(22) . 1. 0
+O6 O2- 4 e 0.32739(26) 0.61710(19) 0.00348(22) . 1. 0
+O7 O2- 4 e 0.89620(27) 0.61138(19) 0.87955(22) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0142(6) 0.0191(6) 0.0132(6) 0.0012(5) 0.0045(5) -.0009(5)
+Na2 Na1+ 0.0183(7) 0.0162(6) 0.0199(7) -.0025(5) 0.0015(6) -.0065(5)
+Na3 Na1+ 0.0219(7) 0.0194(6) 0.0101(5) -.0092(5) 0.0033(5) -.0007(5)
+Na4 Na1+ 0.0113(6) 0.0137(6) 0.0363(9) -.0017(5) -.0043(6) 0.0093(6)
+Na5 Na1+ 0.0125(6) 0.0145(5) 0.0168(6) 0.0009(5) 0.0027(5) -.0045(5)
+Na6 Na1+ 0.0125(6) 0.0155(6) 0.0164(6) 0.0025(4) 0.0015(5) -.0032(5)
+Na7 Na1+ 0.0172(6) 0.0170(6) 0.0194(7) 0.0041(5) 0.0083(5) 0.0059(5)
+Na8 Na1+ 0.0183(6) 0.0145(6) 0.0109(6) 0.0021(5) 0.0059(5) 0.0015(5)
+Fe1 Fe3+ 0.0063(2) 0.0065(1) 0.0054(1) 0.0001(1) 0.0014(1) -.0001(1)
+Fe2 Fe3+ 0.0072(2) 0.0070(1) 0.0066(1) -.0002(1) 0.0017(1) -.0001(1)
+O1 O2- 0.0067(7) 0.0127(8) 0.0145(8) -.0016(7) 0.0012(6) 0.0003(8)
+O2 O2- 0.0101(8) 0.0111(8) 0.0145(9) -.0017(7) 0.0027(7) 0.0000(7)
+O3 O2- 0.0164(10) 0.0113(8) 0.0121(9) -.0016(7) 0.0066(8) 0.0006(7)
+O4 O2- 0.0062(7) 0.0110(8) 0.0141(9) -.0024(6) 0.0010(7) 0.0010(7)
+O5 O2- 0.0110(9) 0.0099(8) 0.0091(8) -.0015(7) 0.0021(7) 0.0025(7)
+O6 O2- 0.0116(9) 0.0120(8) 0.0083(8) -.0010(7) 0.0014(7) 0.0017(7)
+O7 O2- 0.0175(10) 0.0097(8) 0.0085(8) 0.0003(7) 0.0060(7) 0.0022(7)
+#End of TTdata_1557-ICSD

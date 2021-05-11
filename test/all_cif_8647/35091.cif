@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35091-ICSD
+_database_code_ICSD 35091
+_audit_creation_date 1982-12-31
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Sodium cobalt tris(dihydrogenphosphate(III)) hydrate'
+_chemical_formula_structural 'Na Co (H2 P O3)3 (H2 O)'
+_chemical_formula_sum 'H8 Co1 Na1 O10 P3'
+_chemical_name_structure_type NaCo(H2PO3)3H2O
+_exptl_crystal_density_diffrn 2.32
+_publ_section_title 'Cobalt(II) sodium dihydrogenphosphite monohydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 2436 2438 ACBCAR
+loop_
+_publ_author_name
+'Kratochvil, B.'
+'Podlahova, J.'
+'Habibpur, S.'
+'Petricek, V.'
+'Maly, K.'
+_cell_length_a 9.054(2)
+_cell_length_b 14.706(3)
+_cell_length_c 14.759(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1965.13
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Na1+ 1
+P3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 8 c 0.44674(4) 0.84005(2) 0.54643(3) . 1. 0
+Na1 Na1+ 8 c 0.5608(2) 0.6573(1) 0.4325(1) . 1. 0
+P1 P3+ 8 c 0.22912(9) 0.53094(5) 0.50824(5) . 1. 0
+P2 P3+ 8 c 0.73728(8) 0.72364(5) 0.61973(5) . 1. 0
+P3 P3+ 8 c 0.46100(8) 0.52981(5) 0.23742(5) . 1. 0
+O1 O2- 8 c 0.3677(3) 0.5733(2) 0.5556(2) . 1. 0
+O2 O2- 8 c 0.0942(3) 0.5850(1) 0.5323(1) . 1. 0
+O3 O2- 8 c 0.2238(2) 0.4313(1) 0.5292(2) . 1. 0
+O4 O2- 8 c 0.7385(3) 0.7934(2) 0.7005(2) . 1. 0
+O5 O2- 8 c 0.5999(2) 0.7380(1) 0.5648(1) . 1. 0
+O6 O2- 8 c 0.8821(2) 0.7304(1) 0.5710(1) . 1. 0
+O7 O2- 8 c 0.5035(3) 0.4326(2) 0.2034(2) . 1. 0
+O8 O2- 8 c 0.5154(3) 0.5386(2) 0.3325(2) . 1. 0
+O9 O2- 8 c 0.5146(3) 0.6019(1) 0.1731(2) . 1. 0
+O10 O2- 8 c 0.7858(3) 0.7397(2) 0.3816(1) . 1. 0
+H1 H1+ 8 c 0.249(5) 0.544(3) 0.424(3) 0.84 1. 0
+H2 H1+ 8 c 0.723(5) 0.640(3) 0.659(3) 0.75 1. 0
+H3 H1+ 8 c 0.331(5) 0.527(3) 0.234(3) 0.85 1. 0
+H4 H1+ 8 c 0.415 0.537 0.6 2.25 1. 0
+H5 H1+ 8 c 0.646 0.822 0.69 1.58 1. 0
+H6 H1+ 8 c 0.475 0.42 0.14 2.17 1. 0
+H7 H1+ 8 c 0.806 0.736 0.313 1.39 1. 0
+H8 H1+ 8 c 0.801 0.799 0.399 1.39 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Co1 Co2+ 0.00187(6) 0.00103(2) 0.00096(2) 0.00006(2) 0.00003(2) -.00009(1)
+Na1 Na1+ 0.0044(2) 0.0024(1) 0.0026(1) 0.0011(1) -.0013(1) -.0011(1)
+P1 P3+ 0.00244(9) 0.00123(4) 0.00135(3) -.00004(4) -.00026(4) 0.00020(2)
+P2 P3+ 0.00216(9) 0.00136(3) 0.00097(3) 0.00017(4) 0.00004(4) 0.00006(2)
+P3 P3+ 0.00283(9) 0.00150(4) 0.00099(3) -.00016(4) -.00017(4) 0.00009(2)
+O1 O2- 0.0063(3) 0.0018(1) 0.0045(1) -.0011(2) -.0032(2) 0.0011(1)
+O2 O2- 0.0052(3) 0.0017(1) 0.0016(1) 0.0012(1) 0.0000(1) 0.0002(1)
+O3 O2- 0.0030(2) 0.0011(1) 0.0028(1) 0.0001(1) -.0006(1) -.0001(1)
+O4 O2- 0.0050(3) 0.0035(1) 0.0012(1) 0.0016(1) -.0008(1) -.0009(1)
+O5 O2- 0.0029(2) 0.0019(1) 0.0017(1) 0.0005(1) -.0009(1) -.0005(1)
+O6 O2- 0.0028(2) 0.0021(1) 0.0016(1) -.0005(1) 0.0004(1) -.0005(1)
+O7 O2- 0.0120(4) 0.0018(1) 0.0020(1) 0.0011(2) -.0009(2) -.0004(1)
+O8 O2- 0.0072(3) 0.0020(1) 0.0013(1) 0.0003(1) -.0006(1) -.0001(1)
+O9 O2- 0.0047(3) 0.0023(1) 0.0017(1) -.0009(1) -.0004(1) 0.0008(1)
+O10 O2- 0.0067(3) 0.0018(1) 0.0012(1) 0.0008(1) -.0011(1) -.0003(1)
+#End of TTdata_35091-ICSD

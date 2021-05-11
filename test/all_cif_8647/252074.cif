@@ -1,0 +1,94 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252074-ICSD
+_database_code_ICSD 252074
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Lithium iron phosphate hydroxide'
+_chemical_formula_structural 'Li Fe (P O4) (O H)'
+_chemical_formula_sum 'H1 Fe1 Li1 O5 P1'
+_chemical_name_structure_type LiAlPO4(OH/F)
+_exptl_crystal_density_diffrn 3.32
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Phosphorous acid route synthesis of iron tavorite phases, Li Fe PO4 (OH)x F1-x
+[0 <= x <= 1] and comparative study of their electrochemical activities
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Royal Society of Chemistry Advances' 2014 4 37691 37700 RSCACL
+loop_
+_publ_author_name
+'Yaghoobnejad Asl, Hooman'
+'Choudhury, Amitava'
+_cell_length_a 5.3506(10)
+_cell_length_b 7.2877(14)
+_cell_length_c 5.1174(10)
+_cell_angle_alpha 109.237(2)
+_cell_angle_beta 97.878(2)
+_cell_angle_gamma 106.397(2)
+_cell_volume 174.81
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0393
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P5+ 5
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 1 c 0. 0.5 0. 0.0064(3) 1 0
+Fe2 Fe3+ 1 a 0. 0. 0. 0.0062(3) 1 0
+P1 P5+ 2 i 0.6373(3) 0.7688(2) 0.3245(3) 0.0055(3) 1 0
+O1 O2- 2 i 0.6588(7) 0.8802(6) 0.1146(8) 0.0081(7) 1 0
+O2 O2- 2 i 0.3397(7) 0.6626(6) 0.3103(8) 0.0086(7) 1 0
+O3 O2- 2 i 0.9529(8) 0.2774(6) 0.1579(8) 0.0077(7) 1 0
+O4 O2- 2 i 0.7869(8) 0.6160(6) 0.2682(8) 0.0088(7) 1 0
+O5 O2- 2 i 0.2456(7) 0.0689(6) 0.3670(7) 0.0076(7) 1 0
+Li1 Li1+ 2 i 0.613(2) 0.1826(19) 0.254(2) 0.024(2) 1 0
+H1 H1+ 2 i 1.027(14) 0.326(10) 0.319(16) 0.007(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0061(5) 0.0061(5) 0.0061(5) 0.0016(4) 0.0014(4) 0.0019(4)
+Fe2 Fe3+ 0.0064(5) 0.0064(5) 0.0051(5) 0.0021(4) 0.0010(4) 0.0018(4)
+P1 P5+ 0.0047(6) 0.0068(6) 0.0045(6) 0.0020(5) 0.0010(4) 0.0017(5)
+O1 O2- 0.0068(17) 0.0118(18) 0.0077(16) 0.0034(15) 0.0025(14) 0.0056(15)
+O2 O2- 0.0043(17) 0.0128(18) 0.0085(17) 0.0021(14) 0.0022(14) 0.0044(15)
+O3 O2- 0.0091(18) 0.0069(17) 0.0050(17) 0.0021(14) -0.0001(14) 0.0010(14)
+O4 O2- 0.0109(18) 0.0116(18) 0.0083(17) 0.0075(15) 0.0057(14) 0.0050(15)
+O5 O2- 0.0071(17) 0.0101(18) 0.0041(16) 0.0034(14) 0.0013(13) 0.0010(14)
+Li1 Li1+ 0.021(6) 0.031(6) 0.017(5) 0.006(5) 0.007(4) 0.007(5)
+#End of TTdata_252074-ICSD

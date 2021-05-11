@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36642-ICSD
+_database_code_ICSD 36642
+_audit_creation_date 1993-01-06
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Disodium heptafluorocuprogallate'
+_chemical_formula_structural 'Na2 (Cu Ga F7)'
+_chemical_formula_sum 'Cu1 F7 Ga1 Na2'
+_chemical_name_structure_type Na2CuGaF7
+_exptl_crystal_density_diffrn 3.81
+_publ_section_title
+
+;
+Copper weberites: Crystal structure and magnetic investigation of Na2 Cu Ga F7
+and Na2 Cu In F7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1992
+610 67 74 ZAACAB
+loop_
+_publ_author_name
+'Ruchaud, N.'
+'Grannec, J.'
+'Gravereau, P.'
+'Nunez, P.'
+'Tressaud, A.'
+'Massa, W.'
+'Frenzen, G.'
+'Babel, D.'
+_cell_length_a 12.325(5)
+_cell_length_b 7.318(1)
+_cell_length_c 12.780(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.29(2)
+_cell_angle_gamma 90.
+_cell_volume 1087.97
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cu2+ 2
+Ga3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0 0.5 0 . 1. 0
+Na2 Na1+ 4 e 0 0.7322(8) 0.25 . 1. 0
+Na3 Na1+ 8 f 0.2474(3) 0.0331(4) 0.7530(3) . 1. 0
+Cu1 Cu2+ 4 a 0 0 0 . 1. 0
+Cu2 Cu2+ 4 d 0.25 0.25 0.5 . 1. 0
+Ga1 Ga3+ 4 c 0.25 0.25 0 . 1. 0
+Ga2 Ga3+ 4 e 0 0.2569(2) 0.25 . 1. 0
+F1 F1- 8 f 0.2875(3) 0.2016(5) 0.1534(3) . 1. 0
+F2 F1- 8 f 0.0458(4) 0.0697(6) 0.1736(4) . 1. 0
+F3 F1- 8 f 0.2945(3) 0.0167(6) 0.9689(3) . 1. 0
+F4 F1- 8 f 0.0931(3) 0.1873(5) 0.9675(3) . 1. 0
+F5 F1- 8 f 0.1245(3) 0.1723(5) 0.5501(3) . 1. 0
+F6 F1- 8 f 0.4547(3) 0.0593(6) 0.8278(3) . 1. 0
+F7 F1- 8 f 0.3444(3) 0.2437(6) 0.6548(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.031(3) 0.076(4) 0.025(3) 0.010(3) 0.008(2) 0.020(3)
+Na2 Na1+ 0.039(3) 0.048(4) 0.064(4) 0 0.008(3) 0
+Na3 Na1+ 0.025(2) 0.025(2) 0.034(2) -.003(1) 0.009(2) -.008(2)
+Cu1 Cu2+ 0.0055(6) 0.0106(5) 0.0125(6) 0.0003(6) 0.0020(5) 0.0007(6)
+Cu2 Cu2+ 0.0052(5) 0.0099(5) 0.0088(5) -.0007(6) 0.0007(4) -.0002(6)
+Ga1 Ga3+ 0.0087(5) 0.0091(5) 0.0131(5) -.0012(6) 0.0036(4) -.0007(6)
+Ga2 Ga3+ 0.0071(5) 0.0159(5) 0.0081(5) 0 -.0001(4) 0
+F1 F1- 0.023(2) 0.021(2) 0.020(2) -.001(2) 0.009(2) 0.003(2)
+F2 F1- 0.020(3) 0.036(3) 0.032(3) 0.003(2) 0.008(2) -.014(2)
+F3 F1- 0.019(2) 0.017(2) 0.029(2) 0.002(2) 0.013(2) -.002(2)
+F4 F1- 0.010(2) 0.023(2) 0.028(2) -.005(2) 0.005(2) 0.002(2)
+F5 F1- 0.015(2) 0.023(2) 0.023(2) -.004(2) 0.008(2) -.003(2)
+F6 F1- 0.017(2) 0.033(3) 0.016(3) -.003(2) 0.004(2) 0.005(2)
+F7 F1- 0.011(2) 0.036(2) 0.019(2) -.002(2) -.002(2) 0.005(2)
+#End of TTdata_36642-ICSD

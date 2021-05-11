@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_173548-ICSD
+_database_code_ICSD 173548
+_audit_creation_date 2009-02-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Barium tetrabismuth tetratitanium pentadecaoxide'
+_chemical_formula_structural 'Pr0.79 Na0.21 Mn O3'
+_chemical_formula_sum 'Mn1 Na0.21 O3 Pr0.79'
+_chemical_name_mineral Perovskite
+_exptl_crystal_density_diffrn 6.43
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Charge ordering and dielectric properties in the near half-doped Pr(0.79)
+Na(0.21) Mn O3 perovskite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2008 181 1354 1360 JSSCBI
+loop_
+_publ_author_name
+'Sanchez-Andujar, M.'
+'Yanez-Vilar, S.'
+'Castro-Garcia, S.'
+'Senaris Rodriguez, M.A.'
+_cell_length_a 7.6707(1)
+_cell_length_b 10.8521(2)
+_cell_length_c 5.4405(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 452.88
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.0391
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pr3+ 3
+Na1+ 1
+Pr3+ 3
+Na1+ 1
+Pr3+ 3
+Na1+ 1
+Pr3+ 3
+Na1+ 1
+Mn3+ 3.42
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pr1 Pr3+ 2 a 0 0.8869(12) 0.4901(22) 0.0039(1) 0.79 0
+Na1 Na1+ 2 a 0 0.8869(12) 0.4901(22) 0.0039(1) 0.21 0
+Pr2 Pr3+ 2 a 0 0.6366(12) 0.0127(21) 0.0039(1) 0.79 0
+Na2 Na1+ 2 a 0 0.6366(12) 0.0127(21) 0.0039(1) 0.21 0
+Pr3 Pr3+ 2 a 0 0.1385(13) -0.0014(22) 0.0039(1) 0.79 0
+Na3 Na1+ 2 a 0 0.1385(13) -0.0014(22) 0.0039(1) 0.21 0
+Pr4 Pr3+ 2 a 0 0.3886(12) 0.557(22) 0.0039(1) 0.79 0
+Na4 Na1+ 2 a 0 0.3886(12) 0.5057(22) 0.0039(1) 0.21 0
+Mn1 Mn3+ 4 b 0.250(4) 0.8735(26) 0 0.0030(2) 1. 0
+Mn2 Mn3+ 4 b 0.749(4) 0.3771(24) 0.0094(25) 0.0059(9) 1. 0
+O1 O2- 4 b 0.285(6) 0.983(4) 0.685(6) 0.0059(9) 1. 0
+O2 O2- 4 b 0.808(4) 0.265(4) 0.263(7) 0.0059(9) 1. 0
+O3 O2- 4 b 0.722(7) 0.277(5) 0.794(6) 0.0059(9) 1. 0
+O4 O2- 4 b 0.223(5) 0.506(5) 0.148(6) 0.0059(9) 1. 0
+O5 O2- 2 a 0 0.126(9) 0.551(9) 0.0059(9) 1. 0
+O6 O2- 2 a 0 0.860(8) 0.951(9) 0.0059(5) 1. 0
+O7 O2- 2 a 0 0.384(8) 0.938(9) 0.0059(9) 1. 0
+O8 O2- 2 a 0 0.616(7) 0.593(9) 0.0059(9) 1. 0
+#End of TTdata_173548-ICSD

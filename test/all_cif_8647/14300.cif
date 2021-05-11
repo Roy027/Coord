@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14300-ICSD
+_database_code_ICSD 14300
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Disodium hydrogenarsenate heptahydrate'
+_chemical_formula_structural 'Na2 H As O4 (H2 O)7'
+_chemical_formula_sum 'H15 As1 Na2 O11'
+_chemical_name_structure_type Na2HPO4(H2O)7
+_exptl_crystal_density_diffrn 1.89
+_publ_section_title 'The Crystal Structure of Na2 H As O4 (H2 O)7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1970 26 1574 1583 ACBCAR
+loop_
+_publ_author_name
+'Ferraris, G.'
+'Chiari, G.'
+_cell_length_a 10.6586(17)
+_cell_length_b 11.0107(22)
+_cell_length_c 9.3940(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.26(1)
+_cell_angle_gamma 90.
+_cell_volume 1097.82
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 4 e 0.39609(5) 0.26557(5) 0.10272(6) . 1. 0
+Na1 Na1+ 4 e 0.9796(2) 0.3957(2) 0.1356(3) . 1. 0
+Na2 Na1+ 4 e 0.9789(2) 0.1018(2) 0.1460(3) . 1. 0
+O1 O2- 4 e 0.3124(4) 0.1778(4) -.0159(4) . 1. 0
+O2 O2- 4 e 0.5521(3) 0.2477(3) 0.0986(4) . 1. 0
+O3 O2- 4 e 0.3520(4) 0.2541(3) 0.2670(4) . 1. 0
+O4 O2- 4 e 0.3619(4) 0.4168(4) 0.0608(5) . 1. 0
+O5 O2- 4 e 0.3643(4) 0.0376(4) 0.4121(5) . 1. 0
+O6 O2- 4 e 0.0950(4) 0.2511(4) 0.3032(5) . 1. 0
+O7 O2- 4 e 0.1460(4) -.0229(4) 0.0710(5) . 1. 0
+O8 O2- 4 e 0.5553(4) 0.2539(4) 0.4816(4) . 1. 0
+O9 O2- 4 e 0.6113(4) 0.0076(4) 0.1845(5) . 1. 0
+O10 O2- 4 e 0.6329(4) 0.4846(4) 0.1991(5) . 1. 0
+O11 O2- 4 e 0.8175(4) 0.2498(3) 0.1931(5) . 1. 0
+H1 H1+ 4 e 0.862(7) 0.075(7) 0.476(8) 2. 1. 0
+H2 H1+ 4 e 0.341(10) 0.091(9) 0.348(10) 4. 1. 0
+H3 H1+ 4 e 0.204(10) 0.517(9) 0.102(10) 4. 1. 0
+H4 H1+ 4 e 0.176(8) 0.253(7) 0.312(9) 2. 1. 0
+H5 H1+ 4 e 0.089(8) 0.249(7) 0.385(9) 2. 1. 0
+H6 H1+ 4 e 0.216(10) 0.01(1) 0.081(10) 5. 1. 0
+H7 H1+ 4 e 0.338(6) 0.418(7) 0.372(7) 2. 1. 0
+H8 H1+ 4 e 0.497(7) 0.256(6) 0.405(7) 1. 1. 0
+H9 H1+ 4 e 0.114(12) 0.228(11) -.049(13) 8. 1. 0
+H10 H1+ 4 e 0.596(10) 0.096(10) 0.172(11) 6. 1. 0
+H11 H1+ 4 e 0.883(13) 0.467(12) 0.380(14) 9. 1. 0
+H12 H1+ 4 e 0.694(9) 0.473(9) 0.235(10) 4. 1. 0
+H13 H1+ 4 e 0.608(10) 0.402(11) 0.176(11) 4. 1. 0
+H14 H1+ 4 e 0.802(7) 0.253(6) 0.280(9) 3. 1. 0
+H15 H1+ 4 e 0.729(8) 0.238(7) 0.148(9) 3. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+As1 As5+ 1.13(2) 1.36(2) 1.33(2) 0.07(2) 0.02(2) 0.02(2)
+Na1 Na1+ 2.66(10) 2.26(9) 2.55(10) -.06(7) 0.40(8) -.07(7)
+Na2 Na1+ 2.81(11) 2.41(9) 2.78(11) -.18(7) 0.64(9) -.09(7)
+O1 O2- 1.66(15) 2.68(18) 2.05(17) 0.01(13) 0.00(13) -.68(14)
+O2 O2- 1.06(13) 1.97(17) 2.67(17) 0.14(11) 0.22(12) 0.09(13)
+O3 O2- 1.84(17) 1.98(17) 2.13(15) -.10(15) 0.31(14) 0.14(19)
+O4 O2- 2.72(20) 1.64(16) 2.53(19) 0.72(13) 0.66(15) 0.43(13)
+O5 O2- 2.07(18) 2.22(17) 3.02(21) -.20(14) 0.15(15) 0.33(15)
+O6 O2- 1.76(16) 3.65(22) 2.21(17) -.01(14) 0.09(13) 0.01(15)
+O7 O2- 2.54(20) 2.72(19) 2.77(21) -.03(15) 0.15(16) -.01(15)
+O8 O2- 2.09(16) 2.65(19) 2.15(17) -.17(14) 0.08(13) 0.16(14)
+O9 O2- 2.61(20) 2.24(17) 2.68(20) 0.19(14) 0.52(16) 0.21(14)
+O10 O2- 2.08(17) 2.06(16) 2.35(19) 0.09(13) 0.05(14) 0.06(14)
+O11 O2- 2.00(15) 2.19(17) 2.63(17) 0.14(13) 0.39(13) -.02(14)
+#End of TTdata_14300-ICSD

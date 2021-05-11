@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16138-ICSD
+_database_code_ICSD 16138
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Sodium hydrogenphosphate(III) pentahydrate'
+_chemical_formula_structural 'Na2 H P O3 (H2 O)5'
+_chemical_formula_sum 'H11 Na2 O8 P1'
+_exptl_crystal_density_diffrn 1.73
+_publ_section_title 'Crystal structure of disodium orthophosphite pentahydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'Journal of the Chemical Society [Section] A: Inorganic, Physical, Theoretical' 1971 1971 1207 1209 JCSIAP
+loop_
+_publ_author_name
+'Colton, R.H.'
+'Henn, D.E.'
+_cell_length_a 7.17(1)
+_cell_length_b 6.36(1)
+_cell_length_c 9.07(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 413.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.075
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P3+ 3
+O2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P3+ 2 a 0 0.1490(3) 0 . 1. 0
+O1 O2- 2 a 0 0.3815(8) 0.0139(10) . 1. 0
+O2 O2- 4 b 0.1766(6) 0.0478(5) 0.0595(6) . 1. 0
+Na1 Na1+ 2 a 0 0.4924(6) 0.3479(7) . 1. 0
+Na2 Na1+ 2 a 0 0.5354(6) 0.7707(5) . 1. 0
+O3 O2- 4 b 0.2312(7) 0.6428(7) 0.1747(7) . 1. 0
+O4 O2- 2 a 0 0.7255(10) 0.5372(9) . 1. 0
+O5 O2- 4 b 0.2355(6) 0.2351(7) 0.3334(7) . 1. 0
+H1 H1+ 2 a 0 0.107 -.15 0.04 1. 0
+H2 H1+ 4 b 0.15 0.553 0.119 0.055 1. 0
+H3 H1+ 4 b 0.212 0.782 0.135 0.055 1. 0
+H4 H1+ 4 b 0.114 0.806 0.545 0.055 1. 0
+H5 H1+ 4 b 0.266 0.127 0.411 0.055 1. 0
+H6 H1+ 4 b 0.216 0.171 0.24 0.055 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P3+ 0.023 0.0274(7) 0.0407(10) -0.0017(17) 0 0
+O1 O2- 0.0388(25) 0.0280(23) 0.0514(38) -0.0019(57) 0 0
+O2 O2- 0.0271(16) 0.0342(19) 0.0493(21) -.0010(38) -.0133(35) 0.0084(24)
+Na1 Na1+ 0.0398(18) 0.0383(18) 0.0668(28) -0.0052(39) 0 0
+Na2 Na1+ 0.0286(15) 0.0393(17) 0.0434(17) 0.0017(30) 0 0
+O3 O2- 0.0444(23) 0.0376(23) 0.0563(30) 0.0014(44) -0.0149(44) 0.001(33)
+O4 O2- 0.0242(22) 0.0417(29) 0.0545(44) -0.0010(54) 0 0
+O5 O2- 0.0374(21) 0.0387(20) 0.0493(25) 0.0017(34) -0.0055(39) 0.0045(30)
+#End of TTdata_16138-ICSD

@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_246362-ICSD
+_database_code_ICSD 246362
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Tribarium sodium diiridate(V/VI)'
+_chemical_formula_structural 'Ba3 Na (Ir2 O9)'
+_chemical_formula_sum 'Ba3 Ir2 Na1 O9'
+_chemical_name_structure_type SrIrO3
+_exptl_crystal_density_diffrn 7.39
+_cell_measurement_temperature 100.
+_publ_section_title
+'Low temperature structural phase transition of Ba3 Na Ir2 O9'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2009 11 608 613 SSSCFJ
+loop_
+_publ_author_name
+'zur Loye, H.C.'
+'Kim Seung-Joo'
+'Macquart, R.'
+'Smith, M.D.'
+'Lee Yong Jae'
+'Vogt, T.'
+_cell_length_a 5.8612(5)
+_cell_length_b 10.1458(8)
+_cell_length_c 14.592(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.785(6)
+_cell_angle_gamma 90.
+_cell_volume 867.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0658
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ir5+ 5.5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 8 f 0.998(1) 0.669(1) 0.9134(5) 0.8(1) 1. 0
+Ba2 Ba2+ 4 e 0 0.999(2) 0.25 0.6(1) 1. 0
+Ir1 Ir5+ 8 f 0.0080(8) 0.6665(8) 0.1567(3) 0.33(6) 1. 0
+Na1 Na1+ 4 a 0 0 0 0.5 1. 0
+O1 O2- 8 f 0.25(1) 0.223(8) 0.239(5) 0.5 1. 0
+O2 O2- 4 e 0 0.52(1) 0.25 0.5 1. 0
+O3 O2- 8 f 0.76(2) 0.092(9) 0.421(5) 0.5 1. 0
+O4 O2- 8 f 0.96(2) 0.81(1) 0.394(5) 0.5 1. 0
+O5 O2- 8 f 0.19(2) 0.908(9) 0.905(5) 0.5 1. 0
+#End of TTdata_246362-ICSD

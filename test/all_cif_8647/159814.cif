@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_159814-ICSD
+_database_code_ICSD 159814
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium cobalt oxide (0.63/1/2)'
+_chemical_formula_structural 'Na0.627 (Co O2)'
+_chemical_formula_sum 'Co1 Na0.627 O2'
+_chemical_name_structure_type NaxCoO2
+_exptl_crystal_density_diffrn 4.57
+_cell_measurement_temperature 200.
+_publ_section_title
+'A linked structural and electronic transition in Na0.63 Co O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2008 18 1342 1346 JMACEP
+loop_
+_publ_author_name
+'Zhou Tong'
+'Wright, A.J.'
+'Zhang Dou'
+'Button, T.W.'
+'Greaves, C.'
+_cell_length_a 2.83299(1)
+_cell_length_b 2.83299(1)
+_cell_length_c 11.0131(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 76.55
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co3+ 3.39
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 h 0.116(2) 0.058(1) 0.25 0.012(1) 0.082(1) 0
+Na2 Na1+ 6 h 0.549(1) 0.2745(5) 0.25 0.012(1) 0.127(1) 0
+Co1 Co3+ 2 a 0 0 0.5 0.012(3) 1. 0
+O1 O2- 4 f 0.3333 0.6667 0.08964(6) 0.01075(8) 1. 0
+#End of TTdata_159814-ICSD

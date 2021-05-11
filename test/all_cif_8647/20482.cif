@@ -1,0 +1,71 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20482-ICSD
+_database_code_ICSD 20482
+_audit_creation_date 1980-01-01
+_audit_update_record 1999-11-30
+_chemical_name_systematic 'Sodium lanthanum carbonate'
+_chemical_formula_structural 'Na La (C O3)2'
+_chemical_formula_sum 'C2 La1 Na1 O6'
+_chemical_name_mineral Carbocernaite-(La)
+_exptl_crystal_density_diffrn 3.83
+_publ_section_title
+'The crystal structure of carbocernaite (Na, Ca) (Tr, Sr, Ca, Ba) (C O3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii' 1967 8 935 942 ZSTKAI
+loop_
+_publ_author_name
+'Voronkov, A.A.'
+'Pyatenko, Yu.A.'
+_cell_length_a 6.41(3)
+_cell_length_b 7.30(3)
+_cell_length_c 5.23(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 244.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P b 21 m'
+_symmetry_Int_Tables_number 26
+_refine_ls_R_factor_all 0.083
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, z'
+2 '-x, y+1/2, -z'
+3 'x, y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+La3+ 3
+O2- -2
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0.019 0.702 0.5 1.3 1. 0
+La1 La3+ 2 a 0.38 0 0 1.3 1. 0
+O1 O2- 4 c 0.377 0.708 0.288 1.3 1. 0
+O2 O2- 4 c 0.018 0.954 0.212 1.3 1. 0
+O3 O2- 2 b 0.366 0.094 0.5 1.3 1. 0
+O4 O2- 2 a 0.259 0.341 0 1.3 1. 0
+C1 C4+ 2 a 0.082 0.42 0 1.3 1. 0
+C2 C4+ 2 b 0.465 0.675 0.5 1.3 1. 0
+#End of TTdata_20482-ICSD

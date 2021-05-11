@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_388-ICSD
+_database_code_ICSD 388
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Disodium bis(oxalato)stannate(II)'
+_chemical_formula_structural 'Na2 (Sn (C2 O4)2)'
+_chemical_formula_sum 'C4 Na2 O8 Sn1'
+_exptl_crystal_density_diffrn 2.96
+_publ_section_title
+'The crystal structure of disodium bisoxalatostannate(II), Na2 Sn (C2 O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1976 32 2098 2101 ACBCAR
+loop_
+_publ_author_name
+'Donaldson, J.D.'
+'Donoghue, M.T.'
+'Smith, C.'
+_cell_length_a 10.422(8)
+_cell_length_b 5.676(4)
+_cell_length_c 13.618(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.50(5)
+_cell_angle_gamma 90.
+_cell_volume 763.95
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.071
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+Na1+ 1
+O2- -2
+C3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn2+ 4 e 0 0.1725(2) 0.25 . 1. 0
+Na1 Na1+ 8 f 0.3103(4) 0.4898(8) 0.4478(3) 1.4 1. 0
+O1 O2- 8 f 0.2636(7) 0.0843(14) 0.4016(5) 1.6 1. 0
+O2 O2- 8 f 0.1762(7) 0.2958(14) 0.1881(5) 1.7 1. 0
+O3 O2- 8 f 0.4869(7) 0.2770(14) 0.0585(5) 1.7 1. 0
+O4 O2- 8 f 0.0734(7) 0.4787(3) 0.3576(5) 1.5 1. 0
+C1 C3+ 8 f 0.1542(9) 0.4869(18) 0.1341(6) 1.2 1. 0
+C2 C3+ 8 f 0.4896(8) 0.0888(18) 0.3899(6) 1.2 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Sn1 Sn2+ 0.0041(1) 0.012(1) 0.0016(1) 0 0.0012(1) 0
+#End of TTdata_388-ICSD

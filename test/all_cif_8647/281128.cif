@@ -1,0 +1,124 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281128-ICSD
+_database_code_ICSD 281128
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Tribarium sodium nonaoxodiruthenate - LT'
+_chemical_formula_structural 'Ba3 Na Ru2 O9'
+_chemical_formula_sum 'Ba3 Na1 O9 Ru2'
+_exptl_crystal_density_diffrn 6.
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Novel mixed-valent (V/VI) triple perovskite ruthenates: observation  of a
+complex low-temperature structural and magnetic transition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2002 124 13877 13885 JACSAT
+loop_
+_publ_author_name
+'Stitzer, K.E.'
+'Smith, M.D.'
+'Gemmill, W.R.'
+'zur Loye, H.C.'
+_cell_length_a 11.7282(8)
+_cell_length_b 20.3541(13)
+_cell_length_c 14.4856(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3457.96
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0331
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ru5+ 5.5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 c 0 0.00928(10) 0.75 0.0097(4) 1. 0
+Ba2 Ba2+ 4 c 0 0.49164(9) 0.25 0.0075(3) 1. 0
+Ba3 Ba2+ 8 g 0.24926(17) 0.24650(3) 0.25 0.00884(11) 1. 0
+Ba4 Ba2+ 8 f 0.5 0.17086(9) 0.08387(14) 0.0097(3) 1. 0
+Ba5 Ba2+ 8 f 0 0.17143(9) 0.08087(10) 0.0110(3) 1. 0
+Ba6 Ba2+ 16 h 0.25000(16) 0.90700(2) 0.09854(3) 0.01049(10) 1. 0
+Ru1 Ru5+ 8 f 0.5 0.33070(9) 0.15977(11) 0.0068(3) 1. 0
+Ru2 Ru5+ 8 f 0 0.33066(9) 0.15842(13) 0.0076(3) 1. 0
+Ru3 Ru5+ 16 h 0.24944(18) 0.07823(3) 0.15170(3) 0.00798(11) 1. 0
+Na1 Na1+ 8 d 0.25 0.25 0 0.0123(8) 1. 0
+Na2 Na1+ 4 b 0.5 0 0 0.020(3) 1. 0
+Na3 Na1+ 4 a 0 0 0 0.007(2) 1. 0
+O1 O2- 16 h 0.3758(10) 0.2911(6) 0.0921(7) 0.017(2) 1. 0
+O2 O2- 4 c 0.5 0.2503(13) 0.25 0.023(6) 1. 0
+O3 O2- 8 g 0.6210(12) 0.3644(7) 0.25 0.010(3) 1. 0
+O4 O2- 8 f 0.5 0.4110(5) 0.0915(7) 0.002(2) 1. 0
+O5 O2- 16 h 0.1125(9) 0.2925(5) 0.0890(6) 0.0048(15) 1. 0
+O6 O2- 4 c 0 0.2569(9) 0.25 0.002(3) 1. 0
+O7 O2- 8 f 0 0.4032(8) 0.0812(10) 0.016(3) 1. 0
+O8 O2- 8 g 0.1159(11) 0.3720(6) 0.25 0.001(2) 1. 0
+O9 O2- 16 h 0.2472(14) 0.1537(4) 0.0809(5) 0.0144(12) 1. 0
+O10 O2- 8 g 0.1441(17) 0.1178(10) 0.25 0.021(4) 1. 0
+O11 O2- 8 g 0.3559(19) 0.1158(11) 0.25 0.029(5) 1. 0
+O12 O2- 16 h 0.3468(8) 0.0351(4) 0.0778(5) 0.0154(15) 1. 0
+O13 O2- 16 h 0.1121(7) 0.0507(4) 0.1088(5) 0.0140(13) 1. 0
+O14 O2- 8 g 0.2447(17) 0.0060(5) 0.25 0.013(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0162(10) 0.0098(10) 0.0032(5) 0 0 0
+Ba2 Ba2+ 0.0024(8) 0.0070(9) 0.0131(6) 0 0 0
+Ba3 Ba2+ 0.0086(3) 0.0085(3) 0.0095(2) -0.0013(7) 0 0
+Ba4 Ba2+ 0.0111(7) 0.0063(6) 0.0119(6) 0 0 -0.0004(4)
+Ba5 Ba2+ 0.0123(7) 0.0105(6) 0.0101(6) 0 0 -0.0004(5)
+Ba6 Ba2+ 0.0106(2) 0.0108(2) 0.01003(17) -0.0007(6) 0.0024(4) -0.00026(12)
+Ru1 Ru5+ 0.0064(8) 0.0062(8) 0.0079(6) 0 0 0.0013(6)
+Ru2 Ru5+ 0.0104(8) 0.0061(8) 0.0064(6) 0 0 -0.0031(5)
+Ru3 Ru5+ 0.0094(3) 0.0067(3) 0.00787(19) -0.0014(5) 0.0003(5) -0.00026(16)
+#End of TTdata_281128-ICSD

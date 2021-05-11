@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413636-ICSD
+_database_code_ICSD 413636
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Neodymium sodium iridium oxide'
+_chemical_formula_structural 'Nd2 Na Ir O6'
+_chemical_formula_sum 'Ir1 Na1 Nd2 O6'
+_chemical_name_structure_type Perovskite-Na3AlF6
+_exptl_crystal_density_diffrn 7.73
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+The crystal growth and characterization of the lanthanide-containing double
+perovskites Ln2 Na Ir O6 (Ln= La, Pr, Nd).
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2004 6 413 417 SSSCFJ
+loop_
+_publ_author_name
+'Davis, M.J.'
+'Mugavero, S.J.'
+'Glab, K.I.'
+'Smith, M.D.'
+'zur Loye, H.C.'
+_cell_length_a 5.5060(2)
+_cell_length_b 5.9228(2)
+_cell_length_c 7.9131(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.9460(10)
+_cell_angle_gamma 90.
+_cell_volume 258.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0288
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Na1+ 1
+Ir5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 4 e 0.48002(5) 0.07154(5) 0.25288(3) 0.00598(7) 1 0
+Na1 Na1+ 2 a 0. 0. 0. 0.0071(5) 1 0
+Ir1 Ir5+ 2 b 0.5 0.5 0. 0.00369(7) 1 0
+O1 O2- 4 e 0.2055(7) 0.3268(6) 0.0519(5) 0.0075(6) 1 0
+O2 O2- 4 e 0.6185(7) 0.4500(7) 0.2317(5) 0.0074(6) 1 0
+O3 O2- 4 e 0.3372(7) 0.7823(7) 0.0674(5) 0.0088(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nd1 Nd3+ 0.00703(11) 0.00420(12) 0.00668(12) -0.00041(8) -0.00067(8) 0.00019(8)
+Na1 Na1+ 0.0063(12) 0.0081(14) 0.0069(13) -0.0012(9) -0.0019(10) 0.0016(11)
+Ir1 Ir5+ 0.00421(10) 0.00294(12) 0.00390(11) -0.00003(7) -0.00060(7) 0.00007(8)
+O1 O2- 0.0102(14) 0.0031(16) 0.0092(16) -0.0019(11) 0.0015(12) -0.0014(12)
+O2 O2- 0.0088(15) 0.0057(16) 0.0074(16) -0.0018(12) -0.0018(12) -0.0012(12)
+O3 O2- 0.0107(15) 0.0048(15) 0.0107(17) 0.0019(12) -0.0012(12) -0.0024(13)
+#End of TTdata_413636-ICSD

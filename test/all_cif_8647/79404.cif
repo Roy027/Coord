@@ -1,0 +1,70 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79404-ICSD
+_database_code_ICSD 79404
+_audit_creation_date 1996-10-14
+_audit_update_record 2000-07-15
+_chemical_name_systematic 'Sodium aluminate'
+_chemical_formula_structural 'Na (Al O2)'
+_chemical_formula_sum 'Al1 Na1 O2'
+_chemical_name_structure_type NaFeO2(beta)
+_exptl_crystal_density_diffrn 2.75
+_publ_section_title
+
+;
+The crystal structure of hydrated sodium aluminate, Na Al O2 . 5/4(H2 O), and
+its dehydration product
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 115 126 139 JSSCBI
+loop_
+_publ_author_name
+'Kaduk, J.A.'
+'Pei, S.-Y.'
+_cell_length_a 5.38712(18)
+_cell_length_b 7.03203(23)
+_cell_length_c 5.21798(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 197.67
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 a 0.06101(28) 0.12513(29) 0 0.0075(5) 1. 0
+Na1 Na1+ 4 a 0.43363(32) 0.12415(34) 0.4815(6) 0.0132(6) 1. 0
+O1 O2- 4 a 0.0306(7) 0.0760(5) 0.3299(6) 0.0087(10) 1. 0
+O2 O2- 4 a 0.3763(5) 0.1747(4) 0.9330(7) 0.0091(12) 1. 0
+#End of TTdata_79404-ICSD

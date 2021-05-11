@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193826-ICSD
+_database_code_ICSD 193826
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium hydroxodiniobate trihydrate'
+_chemical_formula_structural 'Na (Nb2 O5 (O H)) (H2 O)3'
+_chemical_formula_sum 'H7 Na1 Nb2 O9'
+_chemical_name_structure_type NH2CONHC(NH2)2ClO4
+_chemical_name_mineral Franconite
+_exptl_crystal_density_diffrn 2.94
+_publ_section_title
+
+;
+Franconite, Na Nb2 O5 (O H) * 3(H2 O): structure determination and the role of
+H bonding, with comments on the crystal chemistry of franconite-related
+minerals
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Magazine' 2014 78 591 607 MNLMBB
+loop_
+_publ_author_name
+'Haring, M.M.M.'
+'McDonald, A.M.'
+_cell_length_a 10.119(2)
+_cell_length_b 6.436(1)
+_cell_length_c 12.682(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.91(3)
+_cell_angle_gamma 90.
+_cell_volume 813.6
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0463
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Nb5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.5288(3) 0.2454(5) 0.3395(3) 0.0304(6) 1. 0
+Nb1 Nb5+ 4 e 0.16333(5) 0.2742(8) 0.40382(4) 0.0120(1) 1. 0
+Nb2 Nb5+ 4 e -0.00108(5) 0.18674(7) 0.60733(4) 0.0119(1) 1. 0
+O1 O2- 4 e 0.1710(4) 0.2516(6) 0.5586(3) 0.0147(8) 1. 0
+O2 O2- 4 e -0.1673(4) 0.0287(7) 0.6170(3) 0.0160(8) 1. 0
+O3 O2- 4 e 0.0729(5) 0.1963(7) 0.7489(3) 0.0191(9) 1. 0
+O4 O2- 4 e -0.0845(5) 0.4391(6) 0.5862(3) 0.0179(9) 1. 0
+O5 O2- 4 e 0.3290(5) 0.4495(8) 0.3959(4) 0.0223(9) 1. 0
+O6 O2- 4 e 0.0483(4) -0.1383(6) 0.5714(3) 0.0134(8) 1. 0
+O7 O2- 4 e 0.7421(6) 0.3854(8) 0.3178(4) 0.028(1) 1. 0
+O8 O2- 4 e 0.6084(6) 0.2536(9) 0.5286(5) 0.031(1) 1. 0
+O9 O2- 4 e 0.4335(6) 0.378(1) 0.1641(5) 0.037(1) 1. 0
+H1 H1+ 4 e 0.124(5) -0.20(1) 0.619(5) 0.01(2) 1. 0
+H2 H1+ 4 e 0.78(1) 0.50(1) 0.364(8) 0.07(4) 1. 0
+H3 H1+ 4 e 0.78(1) 0.41(2) 0.254(5) 0.07(4) 1. 0
+H4 H1+ 4 e 0.60(1) 0.395(7) 0.553(9) 0.06(3) 1. 0
+H5 H1+ 4 e 0.68(1) 0.17(2) 0.57(1) 0.11(6) 1. 0
+H6 H1+ 4 e 0.347(4) 0.32(1) 0.133(6) 0.02(2) 1. 0
+H7 H1+ 4 e 0.511(8) 0.37(2) 0.128(9) 0.08(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.032(2) 0.030(2) 0.030(2) 0.002(1) 0.008(1) 0.001(1)
+Nb1 Nb5+ 0.0198(3) 0.0071(2) 0.0099(2) 0.0001(2) 0.0043(2) 0.0003(2)
+Nb2 Nb5+ 0.0228(3) 0.0057(2) 0.0076(2) 0.0001(2) 0.0045(2) -0.0006(2)
+O1 O2- 0.021(2) 0.011(2) 0.012(2) 0.000(2) 0.003(2) 0.001(1)
+O2 O2- 0.025(2) 0.011(2) 0.014(2) 0.001(2) 0.007(2) 0.000(1)
+O3 O2- 0.035(3) 0.014(2) 0.009(2) -0.001(2) 0.004(2) 0.000(1)
+O4 O2- 0.032(2) 0.006(2) 0.016(2) 0.003(2) 0.007(2) 0.000(1)
+O5 O2- 0.024(2) 0.022(2) 0.022(2) -0.001(2) 0.010(2) -0.003(2)
+O6 O2- 0.021(2) 0.008(2) 0.011(2) 0.001(1) 0.002(1) -0.003(1)
+O7 O2- 0.035(3) 0.026(3) 0.024(2) -0.008(2) 0.009(2) 0.001(2)
+O8 O2- 0.031(3) 0.030(3) 0.031(3) 0.002(2) 0.001(2) -0.001(2)
+O9 O2- 0.035(3) 0.037(3) 0.037(3) -0.006(2) 0.002(2) 0.003(3)
+#End of TTdata_193826-ICSD

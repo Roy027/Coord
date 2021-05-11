@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_64671-ICSD
+_database_code_ICSD 64671
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Dipotassium trisodium tetraoxoindate'
+_chemical_formula_structural 'K2 Na3 In O4'
+_chemical_formula_sum 'In1 K2 Na3 O4'
+_chemical_name_structure_type Li3Na2GaO4
+_exptl_crystal_density_diffrn 3.24
+_publ_section_title 'Ein neues Oxoindat K2 Na3 (In O4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1988
+557 31 39 ZAACAB
+loop_
+_publ_author_name
+'Hoppe, R.'
+'Glaum, H.'
+_cell_length_a 9.555(4)
+_cell_length_b 9.276(4)
+_cell_length_c 7.534(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 667.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n n m'
+_symmetry_Int_Tables_number 58
+_refine_ls_R_factor_all 0.097
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Na1+ 1
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 g 0.1296(1) 0.2269(1) 0.5 . 1. 0
+Na1 Na1+ 8 h 0.6510(2) 0.5187(2) 0.2485(3) . 1. 0
+Na2 Na1+ 4 g 0.0725(3) 0.7622(4) 0 . 1. 0
+K1 K1+ 4 g 0.7357(2) 0.7685(3) 0 . 1. 0
+K2 K1+ 4 f 0.5 0 0.2548(3) . 1. 0
+O1 O2- 4 g 0.2224(7) 0.4293(6) 0.5 . 1. 0
+O2 O2- 8 h 0.4814(5) 0.7004(4) 0.2316(6) . 1. 0
+O3 O2- 4 g 0.2220(7) 0.5600(7) 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.0071(2) 0.0079(3) 0.0069(3) 0.0005(3) 0 0
+Na1 Na1+ 0.0153(14) 0.0162(12) 0.0138(12) -.0001(10) -.0017(14) -.0041(10)
+Na2 Na1+ 0.0145(15) 0.018(2) 0.0130(17) 0.0021(16) 0 0
+K1 K1+ 0.0242(10) 0.0240(12) 0.0442(14) -.0050(11) 0 0
+K2 K1+ 0.0188(10) 0.0139(9) 0.0170(11) -.0011(8) 0 0
+O1 O2- 0.0136(30) 0.0118(31) 0.0113(36) -.0018(24) 0 0
+O2 O2- 0.0229(22) 0.0138(24) 0.0156(24) 0.0029(19) -.0098(19) 0.0001(20)
+O3 O2- 0.0075(28) 0.0173(33) 0.0189(40) 0.0001(25) 0 0
+#End of TTdata_64671-ICSD

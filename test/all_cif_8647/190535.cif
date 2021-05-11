@@ -1,0 +1,145 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_190535-ICSD
+_database_code_ICSD 190535
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Sodium manganese sulfate chloride (21.49/0.51/10/3)'
+_chemical_formula_structural 'Na21.49 Mn0.51 (S O4)10 Cl3'
+_chemical_formula_sum 'Cl3 Mn0.51 Na21.49 O40 S10'
+_chemical_name_mineral D'Ansite-(Mn)
+_exptl_crystal_density_diffrn 2.61
+_publ_section_title
+
+;
+D'ansite-(Mn), Na21 Mn(2+) (S O4)10 Cl3 and d'ansite-(Fe), Na21 Fe(2+) (S
+O4)10 Cl3, two new minerals from volcanic fumaroles
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Magazine' 2012 76 2773 2783 MNLMBB
+loop_
+_publ_author_name
+'Demartin, F.'
+'Campostrini, I.'
+'Castellano, C.'
+'Gramaccioli, C.M.'
+'Russo, M.'
+_cell_length_a 15.9291(9)
+_cell_length_b 15.9291(9)
+_cell_length_c 15.9291(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 4041.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I -4 3 d'
+_symmetry_Int_Tables_number 220
+_refine_ls_R_factor_all 0.0309
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/4, -x+3/4, z+3/4'
+2 'y+3/4, -x+1/4, -z+3/4'
+3 '-y+3/4, x+3/4, -z+1/4'
+4 'y+1/4, x+1/4, z+1/4'
+5 'z+1/2, -x+1/2, -y'
+6 '-z+1/2, -x, y+1/2'
+7 '-z, x+1/2, -y+1/2'
+8 'z, x, y'
+9 'z+3/4, -y+1/4, -x+3/4'
+10 '-z+3/4, y+3/4, -x+1/4'
+11 '-z+1/4, -y+3/4, x+3/4'
+12 'z+1/4, y+1/4, x+1/4'
+13 '-y, z+1/2, -x+1/2'
+14 'y+1/2, -z+1/2, -x'
+15 '-y+1/2, -z, x+1/2'
+16 'y, z, x'
+17 '-x+3/4, z+3/4, -y+1/4'
+18 '-x+1/4, -z+3/4, y+3/4'
+19 'x+3/4, -z+1/4, -y+3/4'
+20 'x+1/4, z+1/4, y+1/4'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+25 '-y+3/4, -x+1/4, z+1/4'
+26 'y+1/4, -x+3/4, -z+1/4'
+27 '-y+1/4, x+1/4, -z+3/4'
+28 'y+3/4, x+3/4, z+3/4'
+29 'z, -x, -y+1/2'
+30 '-z, -x+1/2, y'
+31 '-z+1/2, x, -y'
+32 'z+1/2, x+1/2, y+1/2'
+33 'z+1/4, -y+3/4, -x+1/4'
+34 '-z+1/4, y+1/4, -x+3/4'
+35 '-z+3/4, -y+1/4, x+1/4'
+36 'z+3/4, y+3/4, x+3/4'
+37 '-y+1/2, z, -x'
+38 'y, -z, -x+1/2'
+39 '-y, -z+1/2, x'
+40 'y+1/2, z+1/2, x+1/2'
+41 '-x+1/4, z+1/4, -y+3/4'
+42 '-x+3/4, -z+1/4, y+1/4'
+43 'x+1/4, -z+3/4, -y+1/4'
+44 'x+3/4, z+3/4, y+3/4'
+45 '-x, -y+1/2, z'
+46 '-x+1/2, y, -z'
+47 'x, -y, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn3+ 3
+S6+ 6
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 48 e 0.88363(6) 0.37538(6) 0.84843(6) 0.0235(2) 1. 0
+Na2 Na1+ 24 d 0 0.25 0.0442(1) 0.080(1) 1. 0
+Na3 Na1+ 16 c 0.07623(7) 0.57623(7) 0.92377(7) 0.0356(6) 0.873(1) 0
+Mn1 Mn3+ 16 c 0.07623(7) 0.57623(7) 0.92377(7) 0.0356(6) 0.127(1) 0
+S1 S6+ 24 d 0.01843(4) 0.5 0.75 0.0137(1) 1. 0
+S2 S6+ 16 c 0.96021(3) 0.46021(3) 0.03979(3) 0.0150(1) 1. 0
+O1 O2- 48 e -0.0337(1) 0.4269(1) 0.7295(1) 0.0270(4) 1. 0
+O2 O2- 48 e 0.0727(1) 0.5211(1) 0.6784(1) 0.0322(4) 1. 0
+O3 O2- 48 e 0.9134(2) 0.4767(2) -0.0372(1) 0.0479(6) 1. 0
+O4 O2- 16 c 0.9078(2) 0.4078(2) 0.0923(2) 0.085(2) 1. 0
+Cl1 Cl1- 12 b 0 0.25 0.875 0.0184(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0216(4) 0.0241(4) 0.0247(4) 0.0049(4) 0.0034(3) 0.0044(3)
+Na2 Na1+ 0.176(3) 0.048(1) 0.0154(7) -0.045(2) 0. 0.
+Na3 Na1+ 0.0356(6) 0.0356(6) 0.0356(6) 0.0039(4) -0.0039(4) -0.0039(4)
+Mn1 Mn3+ 0.0356(6) 0.0356(6) 0.0356(6) 0.0039(4) -0.0039(4) -0.0039(4)
+S1 S6+ 0.0114(2) 0.0172(3) 0.0125(2) 0. 0. 0.0007(2)
+S2 S6+ 0.0150(1) 0.0150(1) 0.0150(1) 0.0011(1) -0.0011(1) -0.0011(1)
+O1 O2- 0.0238(7) 0.0248(8) 0.0326(9) -0.0077(6) -0.0035(6) -0.0044(6)
+O2 O2- 0.0340(9) 0.0305(9) 0.0320(9) 0.0011(7) 0.0210(7) 0.0066(7)
+O3 O2- 0.068(2) 0.045(1) 0.031(1) 0.023(1) -0.025(1) -0.0081(9)
+O4 O2- 0.085(2) 0.085(2) 0.085(2) -0.030(2) 0.030(2) 0.030(2)
+Cl1 Cl1- 0.0191(2) 0.0191(2) 0.0170(3) 0. 0. 0.
+#End of TTdata_190535-ICSD

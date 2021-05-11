@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419548-ICSD
+_database_code_ICSD 419548
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Sodium trivanado(III)trivanadate(IV)'
+_chemical_formula_structural 'Na (V6 O11)'
+_chemical_formula_sum 'Na1 O11 V6'
+_chemical_name_structure_type NaV6O11
+_exptl_crystal_density_diffrn 4.54
+_cell_measurement_temperature 293.
+_cell_measurement_pressure 490000.
+_publ_section_title
+'The effect of pressure on the crystal structure of Na V6 O11'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2008 20 285208-1 285208-8 JCOMEL
+loop_
+_publ_author_name
+'Grzechnik, A.'
+'Kanke, Y.'
+'Friese, K.'
+_cell_length_a 5.708(2)
+_cell_length_b 5.708(2)
+_cell_length_c 13.074(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 368.9
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.0779
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+V4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 6 c 0.4920(15) 0.984(3) 0.0089(15) 0.0061 1 0
+V2 V4+ 2 a 0 0 0.148802 0.0053 1 0
+V3 V4+ 2 a 0 0 0.351198 0.0053 1 0
+V4 V4+ 2 b 0.333333 0.666667 0.7407(15) 0.0059 1 0
+O1 O2- 6 c 0.147(4) 0.294(7) 0.0778(18) 0.0071 1. 0
+O2 O2- 12 d 0.200(4) 0.373243 0.4188(18) 0.0071 0.5 0
+O3 O2- 6 c 0.158387 0.316774 0.764(3) 0.0085 1 0
+O4 O2- 2 b 0.333333 0.666667 0.602(5) 0.0056 1 0
+O5 O2- 2 b 0.333333 0.666667 -0.085(5) 0.0056 1 0
+Na1 Na1+ 2 b 0.333333 0.666667 0.263(4) 0.0285 1 0
+#End of TTdata_419548-ICSD

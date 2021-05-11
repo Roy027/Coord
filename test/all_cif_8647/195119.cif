@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195119-ICSD
+_database_code_ICSD 195119
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Potassium-2.33 sodium-0.67 decaoxohexaborate bromide'
+_chemical_formula_structural '(K2.33 Na0.67) (B6 O10) Br'
+_chemical_formula_sum 'B6 Br1 K2.33 Na0.67 O10'
+_chemical_name_structure_type K3B6O10Br
+_exptl_crystal_density_diffrn 2.66
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Noncentrosymmetric versus centrosymmetric: influence of the Na(+) substitution
+on structural transition and second-harmonic generation property
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Growth & Design' 2014 14 1794 1801 CGDEFU
+loop_
+_publ_author_name
+'Han, Shujuan'
+'Wang, Ying'
+'Pan, Shilie'
+'Dong, Xiaoyu'
+'Wu, Hongping'
+'Han, Jian'
+'Yang, Yun'
+'Yu, Hongwei'
+'Bai, Chunyan'
+_cell_length_a 10.050(2)
+_cell_length_b 10.050(2)
+_cell_length_c 8.816(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 771.14
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R 3 m H'
+_symmetry_Int_Tables_number 160
+_refine_ls_R_factor_all 0.0197
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z'
+2 'x, x-y, z'
+3 '-y, -x, z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+1/3'
+8 'x+2/3, x-y+1/3, z+1/3'
+9 '-y+2/3, -x+1/3, z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+2/3'
+14 'x+1/3, x-y+2/3, z+2/3'
+15 '-y+1/3, -x+2/3, z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+B3+ 3
+O2- -2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 9 b 0.84696(5) 0.15304(5) 0.79663(10) 0.0174(3) 0.774(9) 0
+Na1 Na1+ 9 b 0.84696(5) 0.15304(5) 0.79663(10) 0.0174(3) 0.226(9) 0
+B1 B3+ 9 b 0.84989(19) 0.15011(19) 1.2416(5) 0.0105(9) 1 0
+B2 B3+ 9 b 0.8254(4) -0.0873(2) 1.1273(4) 0.0070(7) 1 0
+O1 O2- 18 c 0.76551(17) -0.00014(19) 1.20555(19) 0.0142(4) 1 0
+O2 O2- 3 a 1. 0. 1.1355(5) 0.0065(8) 1 0
+O3 O2- 9 b 0.7793(3) -0.11035(13) 0.9696(3) 0.0138(5) 1 0
+Br1 Br1- 3 a 1. 0. 0.57847(6) 0.0286(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0146(4) 0.0146(4) 0.0188(5) 0.0041(4) -0.00171(18) 0.00171(18)
+Na1 Na1+ 0.0146(4) 0.0146(4) 0.0188(5) 0.0041(4) -0.00171(18) 0.00171(18)
+B1 B3+ 0.0132(14) 0.0132(14) 0.0088(16) 0.0092(15) 0.0005(8) -0.0005(8)
+B2 B3+ 0.0051(15) 0.0046(11) 0.0114(16) 0.0025(8) 0.0013(12) 0.0007(6)
+O1 O2- 0.0095(8) 0.0115(9) 0.0224(8) 0.0059(7) 0.0031(6) -0.0031(7)
+O2 O2- 0.0047(13) 0.0047(13) 0.0102(16) 0.0023(6) 0. 0.
+O3 O2- 0.0076(11) 0.0178(9) 0.0126(11) 0.0038(5) -0.0021(8) -0.0010(4)
+Br1 Br1- 0.0280(3) 0.0280(3) 0.0297(4) 0.01402(15) 0. 0.
+#End of TTdata_195119-ICSD

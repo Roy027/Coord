@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1295-ICSD
+_database_code_ICSD 1295
+_audit_creation_date 1980-01-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Sodium hydrogenoxalate hydrate'
+_chemical_formula_structural 'Na (H C2 O4) (H2 O)'
+_chemical_formula_sum 'C2 H3 Na1 O5'
+_chemical_name_structure_type NaHC2O4H2O
+_exptl_crystal_density_diffrn 1.92
+_publ_section_title
+
+;
+Hydrogen bond studies. CX. A neutron diffraction and deformation electron
+density study of sodium hydrogen oxalate monohydrate, Na H C2 O4 (H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1977 33 3500 3504 ACBCAR
+loop_
+_publ_author_name
+'Tellgren, R.'
+'Thomas, J.O.'
+'Olovsson, I.'
+_cell_length_a 6.5032(8)
+_cell_length_b 6.6728(7)
+_cell_length_c 5.6982(8)
+_cell_angle_alpha 85.036(5)
+_cell_angle_beta 109.997(6)
+_cell_angle_gamma 105.016(10)
+_cell_volume 224.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+C3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.25157(17) 0.02760(17) 0.24034(19) . 1. 0
+O1 O2- 2 i 0.24554(12) 0.35585(10) 0.34233(12) . 1. 0
+O2 O2- 2 i 0.26334(12) 0.67188(11) 0.17220(12) . 1. 0
+O3 O2- 2 i 0.33439(10) 0.83228(10) 0.61211(11) . 1. 0
+O4 O2- 2 i 0.23480(12) 0.51494(10) 0.76240(12) . 1. 0
+C1 C3+ 2 i 0.25835(8) 0.53910(8) 0.35400(9) . 1. 0
+C2 C3+ 2 i 0.27686(8) 0.63939(8) 0.59853(9) . 1. 0
+O5 O2- 2 i 0.14506(12) 0.08182(11) 0.81388(13) . 1. 0
+H1 H1+ 2 i 0.18940(25) 0.22316(23) 0.76277(29) . 1. 0
+H2 H1+ 2 i 0.20809(28) -.00163(24) 0.74098(28) . 1. 0
+H3 H1+ 2 i 0.25444(23) 0.60393(20) 0.01122(23) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.01582(24) 0.00819(21) 0.01496(29) 0.00305(22) 0.00453(22) 0.00053(20)
+O1 O2- 0.02082(18) 0.00655(14) 0.01684(20) 0.00381(12) 0.00740(15) -.00112(13)
+O2 O2- 0.02436(20) 0.00871(15) 0.01214(19) 0.01483(13) 0.00946(15) 0.00125(13)
+O3 O2- 0.01626(16) 0.00625(14) 0.01394(18) 0.00234(11) 0.00683(13) -.00060(11)
+O4 O2- 0.02332(20) 0.00808(14) 0.01272(19) 0.00277(13) 0.00983(15) 0.00114(13)
+C1 C3+ 0.01212(13) 0.00628(12) 0.01076(15) 0.00248(9) 0.00494(10) -.00023(10)
+C2 C3+ 0.01140(12) 0.00638(11) 0.01003(15) 0.00229(9) 0.00477(10) 0.0027(10)
+O5 O2- 0.01872(18) 0.00983(17) 0.01744(21) 0.00358(13) 0.00936(15) 0.00140(14)
+H1 H1+ 0.02752(39) 0.01400(33) 0.03202(49) 0.00390(28) 0.01286(36) 0.00516(32)
+H2 H1+ 0.03206(43) 0.01867(36) 0.02815(44) 0.00868(32) 0.01587(36) 0.00055(32)
+H3 H1+ 0.02879(37) 0.01337(29) 0.01827(35) 0.00504(25) 0.01117(28) 0.00047(24)
+#End of TTdata_1295-ICSD

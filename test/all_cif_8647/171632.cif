@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171632-ICSD
+_database_code_ICSD 171632
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Sodium copper germanate silicate *'
+_chemical_formula_structural 'Na2 Cu3 Ge2.28 Si1.72 O12'
+_chemical_formula_sum 'Cu3 Ge2.28 Na2 O12 Si1.72'
+_chemical_name_structure_type Na2Cu3(GeO3)4
+_exptl_crystal_density_diffrn 4.33
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+New cuprates featuring ladderlike periodic arrays of [Cu3 O8](10-) trimeric
+magnetic nanostructure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 3478 3480 INOCAJ
+loop_
+_publ_author_name
+'Mo, X.'
+'Etheredge, K.M.S.'
+'Hwu, S.-J.'
+'Huang, Q.'
+_cell_length_a 6.1520(12)
+_cell_length_b 7.6550(15)
+_cell_length_c 5.3650(11)
+_cell_angle_alpha 102.01(3)
+_cell_angle_beta 93.37(3)
+_cell_angle_gamma 88.13(3)
+_cell_volume 246.65
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0275
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Si4+ 4
+Ge4+ 4
+Si4+ 4
+Cu2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 2 i 0.22123(10) 0.37022(8) 0.30659(12) 0.0062(3) 0.458(5) 0
+Si1 Si4+ 2 i 0.22123(10) 0.37022(8) 0.30659(12) 0.0062(3) 0.542(5) 0
+Ge2 Ge4+ 2 i 0.39699(8) 0.18344(7) 0.76020(10) 0.0068(2) 0.680(5) 0
+Si2 Si4+ 2 i 0.39699(8) 0.18344(7) 0.76020(10) 0.0068(2) 0.320(5) 0
+Cu1 Cu2+ 1 a 0. 0. 0. 0.0087(2) 1 0
+Cu2 Cu2+ 2 i 0.15985(8) 0.81910(7) 0.48959(9) 0.0069(2) 1 0
+Na1 Na1+ 2 i 0.2455(3) 0.5909(2) 0.9046(3) 0.0142(4) 1 0
+O1 O2- 2 i 0.0130(5) 0.2277(4) 0.2348(6) 0.0084(6) 1 0
+O2 O2- 2 i 0.3969(5) 0.3175(4) 0.0668(6) 0.0114(6) 1 0
+O3 O2- 2 i 0.3582(5) 0.3468(4) 0.5791(6) 0.0122(6) 1 0
+O4 O2- 2 i 0.1744(5) 0.0534(4) 0.7284(6) 0.0110(6) 1 0
+O5 O2- 2 i 0.6513(5) 0.1011(4) 0.7349(6) 0.0143(7) 1 0
+O6 O2- 2 i 0.1311(5) 0.5744(4) 0.3050(6) 0.0117(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0067(4) 0.0067(4) 0.0049(4) 0.0006(2) 0.0009(2) 0.0007(2)
+Si1 Si4+ 0.0067(4) 0.0067(4) 0.0049(4) 0.0006(2) 0.0009(2) 0.0007(2)
+Ge2 Ge4+ 0.0066(3) 0.0080(3) 0.0060(3) 0.0002(2) 0.0020(2) 0.0015(2)
+Si2 Si4+ 0.0066(3) 0.0080(3) 0.0060(3) 0.0002(2) 0.0020(2) 0.0015(2)
+Cu1 Cu2+ 0.0150(4) 0.0062(4) 0.0045(4) -0.0016(3) 0.0055(3) -0.0013(3)
+Cu2 Cu2+ 0.0097(3) 0.0064(3) 0.0045(3) 0.00048(19) 0.00354(19) 0.00011(19)
+Na1 Na1+ 0.0127(8) 0.0176(9) 0.0138(9) 0.0037(7) 0.0018(7) 0.0069(7)
+O1 O2- 0.0107(14) 0.0076(14) 0.0058(13) 0.0019(11) 0.0016(11) -0.0010(11)
+O2 O2- 0.0125(15) 0.0123(15) 0.0088(14) -0.0025(12) 0.0039(11) -0.0006(12)
+O3 O2- 0.0132(15) 0.0122(15) 0.0121(15) 0.0010(12) 0.0000(12) 0.0048(12)
+O4 O2- 0.0162(15) 0.0105(15) 0.0057(14) -0.0036(12) 0.0049(12) -0.0013(11)
+O5 O2- 0.0146(15) 0.0178(16) 0.0127(15) 0.0019(13) 0.0065(12) 0.0070(13)
+O6 O2- 0.0160(16) 0.0089(15) 0.0097(15) 0.0009(12) 0.0045(12) -0.0002(11)
+#End of TTdata_171632-ICSD

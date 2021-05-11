@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245537-ICSD
+_database_code_ICSD 245537
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Disodium dicobalt hexaoxotellurate(VI)'
+_chemical_formula_structural 'Na2 Co2 Te O6'
+_chemical_formula_sum 'Co2 Na2 O6 Te1'
+_exptl_crystal_density_diffrn 4.74
+_publ_section_title
+
+;
+Structure and basic magnetic properties of the honeycomb lattice compounds Na2
+Co2 Te O6 and Na3 Co2 Sb O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 1060 1067 JSSCBI
+loop_
+_publ_author_name
+'Viciu, L.'
+'Huang Q.'
+'Morosan, E.'
+'Zandbergen, H.W.'
+'Greenbaum, N.I.'
+'McQueen, T.'
+'Cava, R.J.'
+_cell_length_a 5.2889(1)
+_cell_length_b 5.2889(1)
+_cell_length_c 11.2149(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 271.68
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 2 2'
+_symmetry_Int_Tables_number 182
+_refine_ls_R_factor_all 0.084
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, -z'
+8 'x-y, -y, -z'
+9 'y, x, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Te6+ 6
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 b 0 0 0.25 0.008(1) 1. 0
+Co2 Co2+ 2 d 0.6667 0.3333 0.25 0.008(1) 1. 0
+Te1 Te6+ 2 c 0.3333 0.6667 0.25 0.009(1) 1. 0
+O1 O2- 12 i 0.6432(6) -0.0252(4) 0.3452(1) 0.0150(4) 1. 0
+Na1 Na1+ 12 i 0.24(1) 0.65(2) -0.026(3) 0.008(3) 0.081(7) 0
+Na2 Na1+ 2 a 0 0 0 0.008(3) 0.11(3) 0
+Na3 Na1+ 12 i 0.702(3) 0.066(2) -0.006(2) 0.008(3) 0.234(6) 0
+#End of TTdata_245537-ICSD

@@ -1,0 +1,72 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428737-ICSD
+_database_code_ICSD 428737
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Lithium oxotrinitridophosphate'
+_chemical_formula_structural 'Li14 (P O N3)2 O'
+_chemical_formula_sum 'Li14 N6 O3 P2'
+_chemical_name_structure_type Na14Mn2O9
+_exptl_crystal_density_diffrn 2.13
+_cell_measurement_temperature 297.
+_publ_section_title
+'Li14 (P O N3)2 O - a non-condensed oxonitridophosphate oxide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2015 2015 617 621 EJICFO
+loop_
+_publ_author_name
+'Baumann, Dominik'
+'Schnick, Wolfgang'
+_cell_length_a 5.6880(5)
+_cell_length_b 5.6880(5)
+_cell_length_c 8.0855(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 226.54
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.0458
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+O2- -2
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 2 d 0.33333 0.66667 0.2379(6) 0.0074(6) 1. 0
+O1 O2- 2 d 0.33333 0.66667 0.4482(9) 0.029(2) 1. 0
+O2 O2- 1 b 0. 0. 0.5 0.044(4) 1. 0
+N1 N3- 6 g 0.0571(11) 0.6919(8) 0.1736(8) 0.0229(16) 1. 0
+Li1 Li1+ 6 g 1.045(3) 0.636(3) 0.9091(15) 0.034(5) 1. 0
+Li2 Li1+ 6 g 0.293(3) 0.291(3) 0.4113(15) 0.037(4) 1. 0
+Li3 Li1+ 2 c 0. 0. 0.772(10) 0.171(15) 1. 0
+#End of TTdata_428737-ICSD

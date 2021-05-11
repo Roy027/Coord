@@ -1,0 +1,95 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412585-ICSD
+_database_code_ICSD 412585
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Tetralithium trinitridotantalate'
+_chemical_formula_structural 'Li4 (Ta N3)'
+_chemical_formula_sum 'Li4 N3 Ta1'
+_exptl_crystal_density_diffrn 4.92
+_publ_section_title 'Preparation and crystal structure of Li4 (Ta N3)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2002
+628 2505 2508 ZAACAB
+loop_
+_publ_author_name
+'Niewa, R.'
+'Zherebtsov, D.A.'
+'Borrmann, H.'
+'Kniep, R.'
+_cell_length_a 4.915(1)
+_cell_length_b 9.731(2)
+_cell_length_c 14.145(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 676.53
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I b c a'
+_symmetry_Int_Tables_number 73
+_refine_ls_R_factor_all 0.0288
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 'x+1/2, -y, z'
+3 '-x, y, z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z'
+6 '-x+1/2, y, -z'
+7 'x, -y, -z+1/2'
+8 'x, y, z'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 8 e 0 0.25 0.08079(2) 0.0036(2) 1. 0
+N1 N3- 8 d 0.25 0.3634(4) 0 0.0053(7) 1. 0
+N2 N3- 16 f 0.1807(6) 0.1249(2) 0.1628(2) 0.0069(6) 1. 0
+Li1 Li1+ 16 f 0.5211(15) 0.4631(18) 0.0847(6) 0.011(2) 1. 0
+Li2 Li1+ 8 e 0 0.25 0.2692(13) 0.010(4) 1. 0
+Li3 Li1+ 8 c 0.4039(17) 0 0.25 0.0145(17) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.0016(3) 0.0020(3) 0.0073(3) 0.00019(4) 0 0
+N1 N3- 0.0050(14) 0.0041(14) 0.0067(15) 0 0.0012(11) 0
+N2 N3- 0.005(1) 0.0050(11) 0.0108(13) 0.0004(9) -0.0005(7) 0.0009(9)
+Li1 Li1+ 0.008(4) 0.011(5) 0.013(5) -0.001(3) -0.0030(18) -0.003(3)
+Li2 Li1+ 0.008(7) 0.012(7) 0.009(8) 0.001(2) 0 0
+Li3 Li1+ 0.007(4) 0.012(3) 0.025(5) 0 0 0.004(3)
+#End of TTdata_412585-ICSD

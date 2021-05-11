@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_422413-ICSD
+_database_code_ICSD 422413
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Pentasodium dicopper(II) copper(III) hexaoxide'
+_chemical_formula_structural 'Na5 Cu3 O6'
+_chemical_formula_sum 'Cu3 Na5 O6'
+_exptl_crystal_density_diffrn 3.64
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Spin exchange dominated by charge fluctuations of the Wigner lattice in the
+chain cuprate Na5 Cu3 O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2011 84
+035113-1 035113-9 PRBMDO
+loop_
+_publ_author_name
+'Ali, N.Z.'
+'Sirker, J.'
+'Nuss, J.'
+'Horsch, P.'
+'Jansen, M.'
+_cell_length_a 5.7055(17)
+_cell_length_b 16.795(5)
+_cell_length_c 8.113(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.326(4)
+_cell_angle_gamma 90.
+_cell_volume 733.61
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0654
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Cu3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 e 0.23663(10) 0.04412(3) 0.76472(7) 0.01172(16) 1 0
+Cu2 Cu2+ 4 e 0.23799(10) -0.12180(3) 0.75446(7) 0.01287(16) 1 0
+Cu3 Cu3+ 4 e 0.24766(10) 0.21046(3) 0.75714(7) 0.01186(16) 1 0
+Na1 Na1+ 4 e -0.2284(4) 0.04659(13) 0.8779(3) 0.0185(4) 1 0
+Na2 Na1+ 4 e -0.2271(4) -0.13313(12) 0.8807(3) 0.0155(4) 1 0
+Na3 Na1+ 4 e -0.2833(5) -0.2695(2) 0.5997(4) 0.0428(9) 1 0
+Na4 Na1+ 4 e -0.2866(5) -0.0537(3) 0.5591(3) 0.0491(10) 1 0
+Na5 Na1+ 4 e 0.2139(10) 0.3582(4) 1.0575(6) 0.0253(9) 0.5 0
+Na6 Na1+ 4 e 0.7188(10) 0.1862(4) 0.6056(8) 0.0298(11) 0.5 0
+O1 O2- 4 e 0.4223(7) -0.03847(19) 0.6959(5) 0.0164(6) 1 0
+O2 O2- 4 e 0.0545(7) 0.13223(18) 0.8177(4) 0.0120(5) 1 0
+O3 O2- 4 e 0.4350(7) 0.12708(18) 0.7107(6) 0.0173(7) 1 0
+O4 O2- 4 e 0.0450(7) -0.04167(19) 0.8130(5) 0.0155(6) 1 0
+O5 O2- 4 e 0.0656(7) 0.2959(3) 0.7950(6) 0.0238(8) 1 0
+O6 O2- 4 e 0.0572(7) -0.2111(2) 0.8003(5) 0.0217(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0106(3) 0.0131(3) 0.0115(3) -0.00075(16) 0.00381(18) 0.00107(16)
+Cu2 Cu2+ 0.0094(3) 0.0109(3) 0.0172(3) 0.00005(16) 0.0030(2) -0.00188(17)
+Cu3 Cu3+ 0.0111(3) 0.0097(3) 0.0142(3) -0.00066(16) 0.00345(19) 0.00183(17)
+Na1 Na1+ 0.0168(9) 0.0199(10) 0.0196(9) -0.0015(7) 0.0073(8) -0.0030(7)
+Na2 Na1+ 0.0097(8) 0.0217(9) 0.0136(8) -0.0013(6) 0.0018(6) -0.0016(7)
+Na3 Na1+ 0.0203(12) 0.0569(19) 0.0557(18) -0.0165(12) 0.0184(12) -0.0439(16)
+Na4 Na1+ 0.0232(13) 0.110(3) 0.0133(11) 0.0226(15) 0.0053(9) 0.0000(14)
+Na5 Na1+ 0.027(2) 0.031(3) 0.019(2) 0.006(2) 0.0088(18) -0.0008(18)
+Na6 Na1+ 0.024(2) 0.029(3) 0.041(3) 0.007(2) 0.017(2) 0.018(2)
+O1 O2- 0.0179(16) 0.0100(13) 0.0252(17) 0.0030(11) 0.0126(13) 0.0051(11)
+O2 O2- 0.0138(14) 0.0120(13) 0.0126(13) -0.0003(10) 0.0077(11) 0.0000(10)
+O3 O2- 0.0154(16) 0.0077(13) 0.034(2) -0.0005(10) 0.0152(15) -0.0027(11)
+O4 O2- 0.0117(14) 0.0105(13) 0.0226(16) -0.0013(10) 0.0035(12) 0.0010(11)
+O5 O2- 0.0110(15) 0.033(2) 0.029(2) 0.0044(13) 0.0082(14) 0.0175(16)
+O6 O2- 0.0142(15) 0.0281(19) 0.0249(18) 0.0016(13) 0.0092(14) -0.0111(14)
+#End of TTdata_422413-ICSD

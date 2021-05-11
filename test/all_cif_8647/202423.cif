@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202423-ICSD
+_database_code_ICSD 202423
+_audit_creation_date 1988-05-17
+_audit_update_record 2007-08-01
+_chemical_name_systematic
+'Potassium sodium tecto-alumotrisilicate (0.9570.05/1)'
+_chemical_formula_structural '(K0.95 Na0.05) (Al Si3 O8)'
+_chemical_formula_sum 'Al1 K0.95 Na0.05 O8 Si3'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral 'Microcline (maximum)'
+_exptl_crystal_density_diffrn 2.56
+_publ_section_title
+
+;
+A re-examination of the Pellotsalo microcline: Mineralogical implications and
+genetic considerations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 1987 25 527 537 CAMIA6
+loop_
+_publ_author_name
+'Blasi, A.'
+'de Pol Blasi, C.'
+'Zanazzi, P.F.'
+_cell_length_a 8.5714(3)
+_cell_length_b 12.9646(4)
+_cell_length_c 7.2217(2)
+_cell_angle_alpha 90.636(3)
+_cell_angle_beta 115.949(2)
+_cell_angle_gamma 87.679(3)
+_cell_volume 720.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.2826(1) 0.9928(1) 0.1367(1) . 0.95 0
+Na1 Na1+ 4 i 0.2826(1) 0.9928(1) 0.1367(1) . 0.05 0
+Al1 Al3+ 4 i 0.0100(1) 0.1877(1) 0.2170(2) . 1. 0
+Si1 Si4+ 4 i 0.0098(1) 0.8196(1) 0.2323(1) . 1. 0
+Si2 Si4+ 4 i 0.7111(1) 0.1204(1) 0.3401(1) . 1. 0
+Si3 Si4+ 4 i 0.7057(1) 0.8856(1) 0.3505(1) . 1. 0
+O1 O2- 4 i 0.0007(3) 0.1448(2) 0.9829(4) . 1. 0
+O2 O2- 4 i 0.6365(3) 0.0055(2) 0.2857(4) . 1. 0
+O3 O2- 4 i 0.8212(3) 0.1477(2) 0.2199(4) . 1. 0
+O4 O2- 4 i 0.8319(3) 0.8573(2) 0.2401(4) . 1. 0
+O5 O2- 4 i 0.0353(3) 0.3200(2) 0.2511(4) . 1. 0
+O6 O2- 4 i 0.0381(3) 0.6955(2) 0.2702(4) . 1. 0
+O7 O2- 4 i 0.1903(3) 0.1229(2) 0.4055(4) . 1. 0
+O8 O2- 4 i 0.1754(3) 0.8745(2) 0.4118(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0145(4) 0.0228(4) 0.0236(5) 0.0005(3) 0.0070(3) 0.0000(3)
+Na1 Na1+ 0.0145(4) 0.0228(4) 0.0236(5) 0.0005(3) 0.0070(3) 0.0000(3)
+Al1 Al3+ 0.0092(4) 0.0077(4) 0.0077(5) -.0019(3) 0.0040(4) 0.0008(4)
+Si1 Si4+ 0.0092(4) 0.0078(4) 0.0066(4) 0.0007(3) 0.0045(3) 0.0007(3)
+Si2 Si4+ 0.0084(4) 0.0056(4) 0.0083(4) -.0011(3) 0.0042(3) 0.0008(3)
+Si3 Si4+ 0.0077(4) 0.0066(4) 0.0086(4) -.0002(3) 0.0040(3) 0.0009(3)
+O1 O2- 0.0180(12) 0.0134(11) 0.0085(11) -.0008(9) 0.0070(9) 0.0022(9)
+O2 O2- 0.0106(10) 0.0058(10) 0.0131(12) 0.0006(8) 0.0036(9) 0.0008(8)
+O3 O2- 0.0139(12) 0.0190(13) 0.0187(13) -.0048(9) 0.0105(10) 0.0002(10)
+O4 O2- 0.0147(12) 0.0203(13) 0.0179(14) 0.0045(10) 0.011(1) 0.0017(11)
+O5 O2- 0.0110(11) 0.0105(11) 0.0145(12) -.0034(8) 0.0051(9) 0.0000(9)
+O6 O2- 0.0122(10) 0.0098(11) 0.0140(12) 0.0018(8) 0.0079(9) 0.0023(9)
+O7 O2- 0.0162(12) 0.0134(12) 0.0093(12) 0.0019(9) 0.0032(9) 0.0031(9)
+O8 O2- 0.0157(11) 0.0157(12) 0.0093(12) -.0047(9) 0.0015(10) 0.0008(9)
+#End of TTdata_202423-ICSD

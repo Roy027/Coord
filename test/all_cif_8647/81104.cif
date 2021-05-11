@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81104-ICSD
+_database_code_ICSD 81104
+_audit_creation_date 1997-05-13
+_audit_update_record 1999-11-30
+_chemical_name_systematic 'Sodium tecto-alumosilicate'
+_chemical_formula_structural 'Na1.67 (Al1.817 Si2.691 O10)'
+_chemical_formula_sum 'Al1.817 Na1.67 O10 Si2.691'
+_chemical_name_structure_type Natrolite(F2)
+_chemical_name_mineral 'Natrolite (dehydrated)'
+_exptl_crystal_density_diffrn 2.4
+_publ_section_title
+
+;
+The extreme collapse of a framework of NAT topology: the crystal structure of
+a metanatrolite (dehydrated natrolite) at 548 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie, Monatshefte' 1995 1995 26 38 NJMMAW
+loop_
+_publ_author_name
+'Joswig, W.'
+'Baur, W.H.'
+_cell_length_a 16.276(17)
+_cell_length_b 17.045(9)
+_cell_length_c 6.434(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.08(6)
+_cell_volume 1784.95
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F 1 1 2'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z'
+2 'x, y, z'
+3 '-x, -y+1/2, z+1/2'
+4 'x, y+1/2, z+1/2'
+5 '-x+1/2, -y, z+1/2'
+6 'x+1/2, y, z+1/2'
+7 '-x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si0+ 0
+Al0+ 0
+O0+ 0
+Na0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si0+ 4 a 0 0 -.0129(10) 0.0417(19) 0.888(12) 0
+Si2 Si0+ 4 b 0.25 0.25 0.2433(9) 0.0401(19) 0.900(22) 0
+Si3 Si0+ 8 c 0.13708(19) 0.23414(16) 0.6144(7) 0.0410(12) 0.903(13) 0
+Si4 Si0+ 8 c 0.11015(18) 0.97849(19) 0.3609(7) 0.0416(13) 0.894(15) 0
+Al1 Al0+ 8 c 0.02695(21) 0.10535(20) 0.6065(9) 0.0448(14) 0.919(16) 0
+Al2 Al0+ 8 c 0.26789(19) 0.14297(19) 0.8610(8) 0.0420(14) 0.898(16) 0
+O1 O0+ 8 c 0.0416(5) 0.0695(5) 0.8560(16) 0.064(2) 1. 0
+O2 O0+ 8 c 0.2378(5) 0.1720(4) 0.1080(16) 0.061(2) 1. 0
+O3 O0+ 8 c 0.0434(5) 0.2073(5) 0.596(2) 0.055(3) 1. 0
+O4 O0+ 8 c 0.2069(5) -.0425(5) 0.3500(22) 0.054(3) 1. 0
+O5 O0+ 8 c 0.0913(5) 0.0691(5) 0.4070(16) 0.058(2) 1. 0
+O6 O0+ 8 c 0.1478(6) 0.3033(6) 0.7803(18) 0.068(3) 1. 0
+O7 O0+ 8 c 0.0712(5) -.0761(5) 0.5407(15) 0.063(3) 1. 0
+O8 O0+ 8 c 0.1924(6) 0.1606(5) 0.6808(17) 0.069(3) 1. 0
+O9 O0+ 8 c 0.0721(5) -.0409(5) 0.1369(19) 0.059(2) 1. 0
+O10 O0+ 8 c 0.1684(5) 0.2644(5) 0.3849(19) 0.063(2) 1. 0
+Na1 Na0+ 8 c 0.0611(6) 0.1831(6) 0.1310(22) 0.108(4) 0.85(2) 0
+Na2 Na0+ 8 c 0.3100(14) 0.0683(18) 0.332(4) 0.078(7) 0.41 0
+Na3 Na0+ 8 c 0.2844(18) 0.0701(15) 0.409(3) 0.086(8) 0.41 0
+#End of TTdata_81104-ICSD

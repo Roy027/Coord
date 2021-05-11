@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_259417-ICSD
+_database_code_ICSD 259417
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Sodium lithium iron(III) germanate (0.1/0.9/1/2)'
+_chemical_formula_structural 'Na0.1 Li0.9 Fe Ge2 O6'
+_chemical_formula_sum 'Fe1 Ge2 Li0.9 Na0.1 O6'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_exptl_crystal_density_diffrn 4.54
+_publ_section_title
+
+;
+Synthesis and study of structural, thermodynamic, and magnetic properties of
+NaxLi1-xFeGe2O6 (x = 0.1-0.9) compounds
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics of the Solid State' 2016 58 1361 1370 PSOSED
+loop_
+_publ_author_name
+'Drokina, T.V.'
+'Petrakovskii, G.A.'
+'Molokeev, M.S.'
+'Bondarev, V.S.'
+'Velikanov, D.A.'
+_cell_length_a 9.9048(1)
+_cell_length_b 8.8251(1)
+_cell_length_c 5.4010(1)
+_cell_angle_alpha 90
+_cell_angle_beta 108.7956(9)
+_cell_angle_gamma 90
+_cell_volume 446.93
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0212
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Li1+ 1
+Na1+ 1
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 e 0.2524(8) 0.6491(4) 0.234(2) 0.3(1) 1. 0
+Li1 Li1+ 4 e 0.262(5) 0.013(3) 0.19(1) 0.5(8) 0.9 0
+Na1 Na1+ 4 e 0.262(5) 0.013(3) 0.19(1) 0.5(8) 0.1 0
+Ge1 Ge4+ 4 e 0.0428(4) 0.3416(6) 0.2855(9) 0.3(1) 1. 0
+Ge2 Ge4+ 4 e 0.5529(4) 0.8405(6) 0.2338(9) 0.3(1) 1. 0
+O1 O2- 4 e 0.860(2) 0.351(2) 0.202(4) 0.5(2) 1. 0
+O2 O2- 4 e 0.114(2) 0.514(2) 0.287(4) 0.5(2) 1. 0
+O3 O2- 4 e 0.096(2) 0.264(2) 0.585(5) 0.5(2) 1. 0
+O4 O2- 4 e 0.360(2) 0.817(2) 0.146(5) 0.5(2) 1. 0
+O5 O2- 4 e 0.624(2) 1.010(2) 0.386(4) 0.5(2) 1. 0
+O6 O2- 4 e 0.607(2) 0.674(1) 0.448(4) 0.5(2) 1. 0
+#End of TTdata_259417-ICSD

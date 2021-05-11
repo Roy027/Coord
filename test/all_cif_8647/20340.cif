@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20340-ICSD
+_database_code_ICSD 20340
+_audit_creation_date 1981-12-31
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Tetrasodium dizirconium tris(silicate)'
+_chemical_formula_structural 'Na4 Zr2 (Si O4)3'
+_chemical_formula_sum 'Na4 O12 Si3 Zr2'
+_exptl_crystal_density_diffrn 3.38
+_publ_section_title
+
+;
+The refined structure of Na4 Zr2 (Si O4)3 and its place in the series of mixed
+frameworks with the general formula M2 (T O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1981 26 293 300 KRISAJ
+loop_
+_publ_author_name
+'Sizova, R.G.'
+'Blinov, V.A.'
+'Voronkov, A.A.'
+'Ilyukhin, V.V.'
+'Belov, N.V.'
+_cell_length_a 9.106(5)
+_cell_length_b 9.106(5)
+_cell_length_c 9.106(5)
+_cell_angle_alpha 60.60(4)
+_cell_angle_beta 60.60(4)
+_cell_angle_gamma 60.60(4)
+_cell_volume 541.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'R 3 c R'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z+1/2, y+1/2, x+1/2'
+2 'z, x, y'
+3 'x+1/2, z+1/2, y+1/2'
+4 'y, z, x'
+5 'y+1/2, x+1/2, z+1/2'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 2 a 0.1436(1) 0.1436(1) 0.1436(1) . 1. 0
+Zr2 Zr4+ 2 a 0.3502(1) 0.3502(1) 0.3502(1) . 1. 0
+Si1 Si4+ 6 b 0.0442(1) 0.7463(1) 0.4499(1) . 1. 0
+Na1 Na1+ 2 a 0 0 0 . 1. 0
+Na2 Na1+ 6 b 0.6182(6) 0.2462(6) 0.8941(7) . 1. 0
+O1 O2- 6 b 0.2691(3) 0.0612(3) 0.9189(3) . 1. 0
+O2 O2- 6 b 0.5801(4) 0.4301(3) 0.2291(3) . 1. 0
+O3 O2- 6 b 0.8713(3) 0.7102(4) 0.4849(4) . 1. 0
+O4 O2- 6 b 0.0061(4) 0.7919(4) 0.6191(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Zr1 Zr4+ 0.0035 0.0035 0.0035 -.0025 -.0025 -.0025
+Zr2 Zr4+ 0.0019 0.0019 0.0019 -.0009 -.0009 -.0009
+Si1 Si4+ 0.0004 0.0003 0.0013 0.0008 -.0005 0.0001
+Na1 Na1+ 0.0077 0.0077 0.0077 -.0074 -.0074 -.0074
+Na2 Na1+ 0.0071 0.0032 0.0062 0.0003 -.0026 -.0041
+O1 O2- 0.0022 0.0043 0.0024 -.0027 -.0038 0.0015
+O2 O2- 0.0016 0.0031 0.0014 -.0039 -.0018 -.0001
+O3 O2- 0.004 0.0071 0.005 -.0061 -.0004 -.0004
+O4 O2- 0.0068 0.0033 0.0011 -.0019 -.0044 -.0005
+#End of TTdata_20340-ICSD

@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195512-ICSD
+_database_code_ICSD 195512
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Disodium tetraoxotungstate bis(dideuteriohydrate)'
+_chemical_formula_structural 'Na2 (W O4) (D2 O)2'
+_chemical_formula_sum 'D4 Na2 O6 W1'
+_chemical_name_structure_type Na2MoO4(H2O)2
+_exptl_crystal_density_diffrn 3.56
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Crystal structures of deuterated sodium molybdate dihydrate and sodium
+tungstate dihydrate from time-of-flight neutron powder diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2015 71 799 806 ACSECI
+loop_
+_publ_author_name
+'Fortes, A. Dominic'
+_cell_length_a 8.482514(15)
+_cell_length_b 10.595156(19)
+_cell_length_c 13.85640(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1245.32
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.007
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 c 0.51352(13) 0.80186(10) 0.52310(10) 0.01206 1. 0
+Na1 Na1+ 8 c 0.3444(2) 0.4957(2) 0.58501(16) 0.02213 1. 0
+Na2 Na1+ 8 c 0.7422(2) 0.54966(18) 0.64745(14) 0.02166 1. 0
+O1 O2- 8 c 0.44940(14) 0.82253(11) 0.40144(8) 0.01858 1. 0
+O2 O2- 8 c 0.55647(14) 0.63936(9) 0.54135(9) 0.01675 1. 0
+O3 O2- 8 c 0.68666(14) 0.89213(10) 0.53870(10) 0.02256 1. 0
+O4 O2- 8 c 0.36916(14) 0.85058(11) 0.60895(9) 0.01972 1. 0
+O5 O2- 8 c 0.53794(17) 0.40814(14) 0.70116(12) 0.02505 1. 0
+O6 O2- 8 c 0.2276(2) 0.64134(14) 0.70148(11) 0.02531 1. 0
+D1 D1+ 8 c 0.5576(2) 0.32926(17) 0.66767(12) 0.03829 1. 0
+D2 D1+ 8 c 0.55912(18) 0.39189(14) 0.76800(13) 0.03325 1. 0
+D3 D1+ 8 c 0.1229(2) 0.64645(13) 0.67384(10) 0.03267 1. 0
+D4 D1+ 8 c 0.27774(17) 0.71764(15) 0.67874(12) 0.03524 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0099(7) 0.0064(6) 0.0199(7) -0.0002(5) 0.0009(6) 0.0002(6)
+Na1 Na1+ 0.0209(11) 0.0167(9) 0.0289(13) 0.0004(9) 0.0028(9) 0.0003(8)
+Na2 Na1+ 0.0192(10) 0.0183(11) 0.0275(13) 0.0001(8) -0.0006(8) 0.0000(9)
+O1 O2- 0.0170(6) 0.0192(6) 0.0195(7) 0.0008(5) 0.0010(6) 0.0031(5)
+O2 O2- 0.0176(6) 0.0079(5) 0.0248(7) 0.0014(5) -0.0004(5) 0.0035(5)
+O3 O2- 0.0193(7) 0.0190(6) 0.0293(8) -0.0083(5) -0.0002(6) -0.0015(6)
+O4 O2- 0.0201(6) 0.0176(6) 0.0214(7) 0.0045(5) 0.0052(6) 0.0008(6)
+O5 O2- 0.0305(9) 0.0206(9) 0.0241(8) -0.0027(7) -0.0031(7) -0.0023(7)
+O6 O2- 0.0246(8) 0.0247(8) 0.0266(9) -0.0004(7) -0.0046(7) 0.0061(7)
+D1 D1+ 0.0448(10) 0.0304(9) 0.0397(9) -0.0001(8) -0.0104(8) -0.0032(8)
+D2 D1+ 0.0415(9) 0.0323(8) 0.0259(8) -0.0027(7) -0.0001(8) 0.0004(7)
+D3 D1+ 0.0259(9) 0.0354(9) 0.0367(9) -0.0011(7) -0.0030(7) 0.0046(8)
+D4 D1+ 0.0347(9) 0.0270(8) 0.0440(11) -0.0059(7) -0.0029(7) 0.0059(7)
+#End of TTdata_195512-ICSD

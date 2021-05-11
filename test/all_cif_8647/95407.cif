@@ -1,0 +1,83 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95407-ICSD
+_database_code_ICSD 95407
+_audit_creation_date 2003-10-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Lithium sodium sulfate(VI)'
+_chemical_formula_structural 'Li Na (S O4)'
+_chemical_formula_sum 'Li1 Na1 O4 S1'
+_chemical_name_structure_type LiNaSO4
+_exptl_crystal_density_diffrn 2.54
+_publ_section_title
+
+;
+X-ray structural characterization, Raman and thermal analysis of Li Na S O4.
+The phase diagram of the (Li2 S O4) - (Na2 S O4) system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2002 14 5211 5220 JCOMEL
+loop_
+_publ_author_name
+'Mata, J.'
+'Solans, X.'
+'Calvet, M.T.'
+'Molera, J.'
+'Font-Bardia, M.'
+_cell_length_a 7.6190(10)
+_cell_length_b 7.6190(10)
+_cell_length_c 9.8490(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 495.13
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 c 0.9766(1) 0.4543(1) 0.4881(1) 0.020(1) 1. 0
+S1 S6+ 2 a 0 0 0.0017(1) 0.008(1) 1. 0
+S2 S6+ 2 b 0.6667 0.3333 0.1967(1) 0.008(1) 1. 0
+S3 S6+ 2 b 0.3333 0.6667 0.2629(1) 0.008(1) 1. 0
+O1 O2- 2 a 0 0 0.1544(2) 0.010(1) 1. 0
+O2 O2- 2 b 0.6667 0.3333 0.3451(2) 0.017(1) 1. 0
+O3 O2- 2 b 0.3333 0.6667 0.1143(2) 0.018(1) 1. 0
+O4 O2- 6 c 0.7898(2) 0.8909(2) -0.0478(1) 0.014(1) 1. 0
+O5 O2- 6 c 0.7742(2) 0.5427(2) 0.1450(1) 0.019(1) 1. 0
+O6 O2- 6 c 0.5256(2) 0.8313(3) 0.3145(2) 0.028(1) 1. 0
+Li1 Li1+ 6 c 0.9670(5) 0.7552(5) 0.2605(3) 0.018(1) 1. 0
+#End of TTdata_95407-ICSD

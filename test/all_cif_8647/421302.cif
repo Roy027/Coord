@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421302-ICSD
+_database_code_ICSD 421302
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Sodium titanyl arsenate'
+_chemical_formula_structural 'Na (Ti O) (As O4)'
+_chemical_formula_sum 'As1 Na1 O5 Ti1'
+_chemical_name_structure_type CaTi(SiO4)O
+_exptl_crystal_density_diffrn 3.87
+_cell_measurement_temperature 293.
+_publ_section_title
+'Salt flux crystal growth of the titanyl arsenate Na Ti O (As O4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 2010 141 495 499 MOCMB7
+loop_
+_publ_author_name
+'Yahia, H.B.'
+'Rodewald, U.C.'
+'Poettgen, R.'
+_cell_length_a 6.7170(9)
+_cell_length_b 8.7707(12)
+_cell_length_c 7.2447(10)
+_cell_angle_alpha 90
+_cell_angle_beta 114.767(10)
+_cell_angle_gamma 90
+_cell_volume 387.55
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0324
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.7506(12) 0.4221(2) 0.7594(10) 0.0222(8) 1 0
+Ti1 Ti4+ 4 e 0.2521(2) 0.24138(16) 0.97853(13) 0.0070(2) 1 0
+As1 As5+ 4 e 0.7507(2) 0.06672(4) 0.75206(17) 0.00398(12) 1 0
+O1 O2- 4 e 0.9445(10) 0.1829(5) 0.9184(6) 0.0106(18) 1 0
+O2 O2- 4 e 0.5636(10) 0.1850(5) 0.5874(6) 0.0085(17) 1 0
+O3 O2- 4 e 0.8495(9) 0.9586(5) 0.6170(5) 0.0070(16) 1 0
+O4 O2- 4 e 0.6429(10) 0.9599(5) 0.8809(6) 0.0092(19) 1 0
+O5 O2- 4 e 0.2512(12) 0.1835(3) 0.7531(6) 0.0074(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0133(9) 0.0093(8) 0.0392(14) 0.0010(18) 0.0064(9) -0.0005(17)
+Ti1 Ti4+ 0.0061(3) 0.0030(4) 0.0106(3) -0.0003(2) 0.0023(3) 0.0005(3)
+As1 As5+ 0.00367(18) 0.00329(16) 0.00491(16) 0.0001(3) 0.00172(12) 0.0005(3)
+O1 O2- 0.011(4) 0.010(2) 0.0087(15) -0.0062(19) 0.0014(16) -0.0061(13)
+O2 O2- 0.004(3) 0.010(2) 0.0102(15) 0.0016(17) 0.0014(15) 0.0039(13)
+O3 O2- 0.004(3) 0.009(2) 0.0092(15) -0.0007(18) 0.0049(16) -0.0027(13)
+O4 O2- 0.015(4) 0.0029(19) 0.0130(16) 0.0011(18) 0.0093(19) 0.0043(13)
+O5 O2- 0.0112(14) 0.0070(11) 0.0045(10) -0.002(2) 0.0039(9) 0.0001(15)
+#End of TTdata_421302-ICSD

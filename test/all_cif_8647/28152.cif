@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_28152-ICSD
+_database_code_ICSD 28152
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium niobate - LT'
+_chemical_formula_structural 'Na (Nb O3)'
+_chemical_formula_sum 'Na1 Nb1 O3'
+_chemical_name_structure_type LiNbO3
+_exptl_crystal_density_diffrn 4.56
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+The low-temperature phase transition of sodium niobate and the structure of
+the low-temperature phase.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1973 29 2171 2185 ACBCAR
+loop_
+_publ_author_name
+'Darlington, C.N.W.'
+'Megaw, H.D.'
+_cell_length_a 5.5647(7)
+_cell_length_b 5.5647
+_cell_length_c 5.5647
+_cell_angle_alpha 59.11(2)
+_cell_angle_beta 59.11(2)
+_cell_angle_gamma 59.11(2)
+_cell_volume 119.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'R 3 c R'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.08
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z+1/2, y+1/2, x+1/2'
+2 'z, x, y'
+3 'x+1/2, z+1/2, y+1/2'
+4 'y, z, x'
+5 'y+1/2, x+1/2, z+1/2'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.272(8) 0.272(8) 0.272(8) 1.0(2) 1. 0
+Nb1 Nb5+ 2 a 0.0165(30) 0.0165(30) 0.0165(30) 0.66(2) 1. 0
+O1 O2- 6 b 0.302(4) -.240(4) 0.178(4) 0.6(2) 1. 0
+#End of TTdata_28152-ICSD

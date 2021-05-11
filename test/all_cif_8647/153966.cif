@@ -1,0 +1,75 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_153966-ICSD
+_database_code_ICSD 153966
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Disodium zinc divanadate'
+_chemical_formula_structural 'Na2 Zn (V2 O7)'
+_chemical_formula_sum 'Na2 O7 V2 Zn1'
+_chemical_name_structure_type Melilite-Ca2MgSi2O7
+_exptl_crystal_density_diffrn 3.09
+_publ_section_title
+'Synthesis and crystal structuure of the pyrovanadate Na2 Zn V2 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Powder Diffraction' 2005 20 189 192 PODIE2
+loop_
+_publ_author_name
+'Tyutyunnik, A.P.'
+'Zubkov, V.G.'
+'Surat, L.L.'
+'Slobodin, B.V.'
+'Svensson, G.'
+_cell_length_a 8.2711(4)
+_cell_length_b 8.2711(4)
+_cell_length_c 5.1132(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 349.8
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 m'
+_symmetry_Int_Tables_number 113
+_refine_ls_R_factor_all 0.0368
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y, -x, -z'
+3 'y+1/2, x+1/2, z'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 a 0 0 0 0.0207(15) 1. 0
+Na1 Na1+ 4 e 0.1634(5) 0.6634(5) 0.4930(10) 0.064(4) 1. 0
+V1 V5+ 4 e 0.3557(2) 0.8557(2) 0.0760(5) 0.0161(17) 1. 0
+O1 O2- 2 c 0 0.5 0.8006(13) 0.0174(21) 1. 0
+O2 O2- 4 e 0.3523(5) 0.8523(5) 0.7536(10) 0.0292(18) 1. 0
+O3 O2- 8 f 0.0939(4) 0.1703(4) 0.7928(7) 0.0357(15) 1. 0
+#End of TTdata_153966-ICSD

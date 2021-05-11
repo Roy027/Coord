@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280853-ICSD
+_database_code_ICSD 280853
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Sodium calcium trigermanate (2.54/1.73/1)'
+_chemical_formula_structural 'Na2.54 Ca1.73 (Ge3 O9)'
+_chemical_formula_sum 'Ca1.73 Ge3 Na2.54 O9'
+_exptl_crystal_density_diffrn 3.6
+_publ_section_title
+'The trigonal structure of sodium calcium germanate, Na2.54 Ca1.73 Ge3 O9'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2001 57 1231 1233 ACSCEE
+loop_
+_publ_author_name
+'Nishi, F.'
+_cell_length_a 10.780(2)
+_cell_length_b 10.780(2)
+_cell_length_c 13.449(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1353.5
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+_refine_ls_R_factor_all 0.062
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+2/3'
+2 '-x, -x+y, -z+1/3'
+3 'y, x, -z'
+4 '-x+y, -x, z+2/3'
+5 '-y, x-y, z+1/3'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 6 c 0.1968(1) 0.1495(1) 0.77072(8) . 1. 0
+Ge2 Ge4+ 6 c 0.4984(1) 0.3237(1) 0.89852(7) . 1. 0
+Ge3 Ge4+ 6 c 0.6278(1) 0.1484(1) 0.76144(7) . 1. 0
+Na1 Na1+ 6 c 0.3154(4) -.0136(4) 0.5848(3) . 0.56(2) 0
+Ca1 Ca2+ 6 c 0.3154(4) -.0136(4) 0.5848(3) 0.027(2) 0.44(2) 0
+Na2 Na1+ 6 c 0.5057(9) 0.3419(8) 0.6642(4) . 0.93(2) 0
+Ca2 Ca2+ 6 c 0.5057(9) 0.3419(8) 0.6642(4) 0.035(2) 0.07(2) 0
+Na3 Na1+ 3 a 0.815(1) 0 0.33333 . 0.54(4) 0
+Na4 Na1+ 6 c 0.5198(6) 0.3589(6) 0.1596(3) . 0.72(2) 0
+Ca3 Ca2+ 6 c 0.5198(6) 0.3589(6) 0.1596(3) 0.037(2) 0.28(2) 0
+Na5 Na1+ 3 b 0.8241(3) 0 0.83333 . 0.12(4) 0
+Ca4 Ca2+ 3 b 0.8241(3) 0 0.83333 0.020(1) 0.88(4) 0
+Ca5 Ca2+ 3 a 0.3074(3) 0 0.33333 . 1. 0
+O1 O2- 6 c 0.183(2) 0.018(2) 0.863(1) 0.023(3) 0.5 0
+O2 O2- 6 c 0.568(2) 0.023(2) 0.864(1) 0.022(3) 0.5 0
+O3 O2- 6 c 0.349(2) 0.283(2) 0.827(1) 0.051(3) 1. 0
+O4 O2- 6 c 0.599(1) 0.274(1) 0.822(1) 0.048(4) 1. 0
+O5 O2- 6 c 0.258(1) 0.156(1) 0.6511(8) 0.032(3) 1. 0
+O6 O2- 6 c 0.433(1) 0.238(1) 0.0095(8) 0.039(3) 1. 0
+O7 O2- 6 c 0.549(1) 0.079(1) 0.6546(8) 0.033(3) 1. 0
+O8 O2- 6 c 0.060(1) 0.185(1) 0.7912(7) 0.027(3) 1. 0
+O9 O2- 6 c 0.596(1) 0.508(1) 0.8871(8) 0.031(4) 1. 0
+O10 O2- 6 c 0.810(1) 0.214(1) 0.7724(7) 0.029(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0185(9) 0.0242(9) 0.0331(7) 0.0100(7) -.0037(7) -.0082(6)
+Ge2 Ge4+ 0.0281(9) 0.0269(9) 0.0195(7) 0.0196(7) -.0036(7) -.0043(5)
+Ge3 Ge4+ 0.0185(9) 0.0183(8) 0.0261(7) 0.0122(7) 0.0028(5) 0.0004(6)
+Na1 Na1+ 0.067(5) 0.045(5) 0.058(3) 0.037(4) -.021(12) -.016(5)
+Na2 Na1+ 0.070(4) 0.106(7) 0.047(4) 0.054(5) 0.006(4) 0.028(5)
+Na3 Na1+ 0.052(7) 0.136(9) 0.030(3) 0.068(4) 0.022(6) 0.044(11)
+Na4 Na1+ 0.062(6) 0.134(7) 0.055(4) 0.073(5) -.023(3) -.042(7)
+Na5 Na1+ 0.039(4) 0.038(4) 0.040(3) 0.019(2) 0.0035(7) 0.0069(14)
+Ca5 Ca2+ 0.038(4) 0.028(4) 0.040(3) 0.014(2) 0.0001(6) 0.0002(11)
+#End of TTdata_280853-ICSD

@@ -1,0 +1,73 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_259859-ICSD
+_database_code_ICSD 259859
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Barium lanthanum sodium tellurate'
+_chemical_formula_structural 'Ba La Na Te O6'
+_chemical_formula_sum 'Ba1 La1 Na1 O6 Te1'
+_exptl_crystal_density_diffrn 6.22
+_publ_section_title
+
+;
+Crystal structure and dielectric properties of BaANaTeO6 (A = Bi, La) double
+perovskites
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Ceramics International' 2017 43 12718 12723 CINNDH
+loop_
+_publ_author_name
+'Vilesh, V.L.'
+'Subodh, G.'
+_cell_length_a 5.7679(0)
+_cell_length_b 5.8473(3)
+_cell_length_c 8.2758(9)
+_cell_angle_alpha 90
+_cell_angle_beta 90.579(1)
+_cell_angle_gamma 90
+_cell_volume 279.1
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+La3+ 3
+Na1+ 1
+Te6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 e 0.502(0) 0.497(8) 0.276(1) 1.17 0.5 0
+La1 La3+ 4 e 0.489(6) 0.509(6) 0.212(5) 1.1 0.5 0
+Na1 Na1+ 2 d 0.5 0 0 0.11 1. 0
+Te1 Te6+ 2 c 0 0.5 0 0.31 1. 0
+O1 O2- 4 e 0.202(0) 0.256(0) 0.040(0) 2.5 1. 0
+O2 O2- 4 e 0.190(0) 0.761(0) 0.040(0) 2.7 1. 0
+O3 O2- 4 e 0.529(0) 0.026(0) 0.274(0) 2.7 1. 0
+#End of TTdata_259859-ICSD

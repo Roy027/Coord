@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281309-ICSD
+_database_code_ICSD 281309
+_audit_creation_date 2003-10-01
+_chemical_name_systematic
+'Trisodium tris(arsenato(V))oxotetrazincate hexahydrate'
+_chemical_formula_structural 'Na3 (Zn4 O (As O4)3) (H2 O)6'
+_chemical_formula_sum 'H12 As3 Na3 O19 Zn4'
+_exptl_crystal_density_diffrn 3.13
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis, crystal structure and properties of Na3 Zn4 O (As O4)3 * 6(H2 O), a
+new framework zincoarsenate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 2002 12 1103 1106 JMACEP
+loop_
+_publ_author_name
+'Yeates, R.M.'
+'Harrison, W.T.A.'
+_cell_length_a 10.9493(5)
+_cell_length_b 10.9493(5)
+_cell_length_c 26.7099(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 2773.16
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R 3 c H'
+_symmetry_Int_Tables_number 161
+_refine_ls_R_factor_all 0.0239
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, y, z+1/2'
+2 'x, x-y, z+1/2'
+3 '-y, -x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+y+2/3, y+1/3, z+5/6'
+8 'x+2/3, x-y+1/3, z+5/6'
+9 '-y+2/3, -x+1/3, z+5/6'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+y+1/3, y+2/3, z+1/6'
+14 'x+1/3, x-y+2/3, z+1/6'
+15 '-y+1/3, -x+2/3, z+1/6'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+As5+ 5
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 18 b 0.39571(18) 0.50320(19) 0.05957(6) 0.0432(4) 1. 0
+Zn1 Zn2+ 6 a 0 0 0.00001(2) 0.01237(11) 1. 0
+Zn2 Zn2+ 18 b 0.19725(3) 0.10832(3) 0.095521(11) 0.01206(7) 1. 0
+As1 As5+ 18 b 0.32341(3) 0.18135(3) -.016944(11) 0.01278(6) 1. 0
+O1 O2- 6 a 0 0 0.07307(13) 0.0130(6) 1. 0
+O2 O2- 18 b 0.2377(2) 0.3004(2) 0.10714(8) 0.0192(4) 1. 0
+O3 O2- 18 b 0.2392(2) 0.0198(2) 0.15156(8) 0.0213(4) 1. 0
+O4 O2- 18 b 0.3146(2) 0.1093(3) 0.03986(8) 0.0194(4) 1. 0
+O5 O2- 18 b 0.1650(2) 0.1593(2) -.03174(8) 0.0199(4) 1. 0
+O6 O2- 18 b 0.5784(3) 0.4417(3) 0.08165(13) 0.0448(8) 1. 0
+H1 H1+ 18 b 0.6293 0.5344 0.0739 0.054 1. 0
+H2 H1+ 18 b 0.6062 0.3927 0.0645 0.054 1. 0
+O7 O2- 18 b 0.5344(3) 0.7197(3) 0.01635(10) 0.0343(6) 1. 0
+H3 H1+ 18 b 0.5241 0.7251 -.0181 0.041 1. 0
+H4 H1+ 18 b 0.6173 0.7075 0.0223 0.041 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0348(9) 0.0349(8) 0.0439(9) 0.0055(7) -0.0001(7) 0.0168(7)
+Zn1 Zn2+ 0.01239(16) 0.01239(16) 0.0123(2) 0.00619(8) 0 0
+Zn2 Zn2+ 0.01202(15) 0.01177(15) 0.01265(13) 0.00614(12) 0.00010(11) 0.00022(13)
+As1 As5+ 0.00996(13) 0.01322(12) 0.01315(11) 0.00430(11) 0.00240(9) 0.00064(12)
+O1 O2- 0.0121(9) 0.0121(9) 0.0148(16) 0.0060(5) 0 0
+O2 O2- 0.0231(11) 0.013(1) 0.0194(10) 0.0074(9) 0.0068(8) 0.0003(8)
+O3 O2- 0.0350(13) 0.016(1) 0.0162(9) 0.0153(10) -0.0060(9) -0.0009(8)
+O4 O2- 0.0204(11) 0.0269(11) 0.0154(9) 0.0153(9) 0.0064(8) 0.0063(8)
+O5 O2- 0.0119(9) 0.0218(11) 0.0255(11) 0.0081(9) 0.0030(8) 0.0083(8)
+O6 O2- 0.0430(17) 0.0264(14) 0.0476(19) 0.0043(13) 0.0089(14) -0.0037(12)
+O7 O2- 0.0331(14) 0.0388(15) 0.0303(13) 0.0175(12) 0.0033(10) 0.0012(11)
+#End of TTdata_281309-ICSD

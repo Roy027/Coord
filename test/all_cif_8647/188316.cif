@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_188316-ICSD
+_database_code_ICSD 188316
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Disodium barium manganese divanadate'
+_chemical_formula_structural 'Na2 Ba Mn (V O4)2'
+_chemical_formula_sum 'Ba1 Mn1 Na2 O8 V2'
+_exptl_crystal_density_diffrn 4.
+_publ_section_title
+
+;
+Synthesis and magnetic properties of a new series of triangular-lattice
+magnets, Na2 Ba M V2 O8 (M = Ni, Co and Mn)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2013 25 116003-1 116003-8 JCOMEL
+loop_
+_publ_author_name
+'Nakayama, Genki'
+'Hara, Shigeo'
+'Sato, Hirohiko'
+'Narumi, Yasuo'
+'Nojiri, Hiroyuki'
+_cell_length_a 5.5962(3)
+_cell_length_b 5.5962(3)
+_cell_length_c 7.1653(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 194.34
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.0317
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Mn2+ 2
+V5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 1 a 0 0 0 1.331(9) 1. 0
+Mn1 Mn2+ 1 b 0 0 0.5 0.605(13) 1. 0
+V1 V5+ 2 d 0.3333 0.6667 0.76690(10) 0.614(11) 1. 0
+Na1 Na1+ 2 d 0.3333 0.6667 0.3310(2) 1.43(2) 1. 0
+O1 O2- 6 g 0.6613(4) 0.8955(6) 0.6873(3) 1.204(18) 0.54 0
+O2 O2- 6 g 0.6613(4) 0.7637(6) 0.6873(3) 1.204(18) 0.46 0
+O3 O2- 2 d 0.3333 0.6667 0.0017(3) 1.52(4) 1. 0
+#End of TTdata_188316-ICSD

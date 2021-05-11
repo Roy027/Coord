@@ -1,0 +1,97 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71741-ICSD
+_database_code_ICSD 71741
+_audit_creation_date 1993-08-22
+_chemical_name_systematic
+'Yttrium barium copper lithium oxide (.93/2.17/2.84/.16/6.9)'
+_chemical_formula_structural 'Y0.929 Ba2.174 Cu2.842 Li0.158 O6.899'
+_chemical_formula_sum 'Ba2.174 Cu2.842 Li0.158 O6.899 Y0.929'
+_chemical_name_structure_type YBa2Cu3O6+x(orh)
+_exptl_crystal_density_diffrn 6.42
+_cell_measurement_temperature 297.
+_publ_section_title
+
+;
+Neutron powder diffraction study of Cu-site preference of Li dopants in
+YBa2(Cu1-xLix)3O6+d
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica C, Superconductivity' 1992 194 307 320 PHYCE6
+loop_
+_publ_author_name
+'Kwei, G.H.'
+'Ott, K.C.'
+'Peterson, E.J.'
+_cell_length_a 3.8325(4)
+_cell_length_b 3.8866(4)
+_cell_length_c 11.6892(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 174.12
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m m m'
+_symmetry_Int_Tables_number 47
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Ba2+ 2
+Cu2+ 2.289
+Li1+ 1
+Cu2+ 2.289
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 1 h 0.5 0.5 0.5 0.0025(2) 0.929(4) 0
+Ba1 Ba2+ 2 t 0.5 0.5 0.18514(10) 0.0113(3) 1.087(5) 0
+Cu1 Cu2+ 1 a 0 0 0 0.0043(3) 0.968(4) 0
+Li1 Li1+ 1 a 0 0 0 0.0043(3) 0.032(4) 0
+Cu2 Cu2+ 2 q 0 0 0.35679(7) 0.0032(2) 0.937(2) 0
+Li2 Li1+ 2 q 0 0 0.35679(7) 0.0032(2) 0.063(2) 0
+O1 O2- 1 e 0 0.5 0 . 0.835(8) 0
+O2 O2- 2 s 0.5 0 0.37747(12) 0.0052(2) 1. 0
+O3 O2- 2 r 0 0.5 0.37815(14) 0.0068(3) 1. 0
+O4 O2- 2 q 0 0 0.15771(9) 0.0098(3) 1. 0
+O5 O2- 1 b 0.5 0 0 0.012(3) 0.064(5) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0262(14) 0.0001(8) 0.0076(9) 0 0 0
+#End of TTdata_71741-ICSD

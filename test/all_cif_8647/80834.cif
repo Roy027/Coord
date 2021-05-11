@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80834-ICSD
+_database_code_ICSD 80834
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Sodium calcium silicon oxide (1.8/1.1/6/14)'
+_chemical_formula_structural 'Na1.8 Ca1.1 (Si6 O14)'
+_chemical_formula_sum 'Ca1.1 Na1.8 O14 Si6'
+_chemical_name_structure_type Ca3Ga2Ge4O14
+_exptl_crystal_density_diffrn 3.2
+_publ_section_title
+'Stability and structure of a new high pressure silicate, Na1.8 Ca1.1 Si6 O14'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1995 80 1269 1276 AMMIAY
+loop_
+_publ_author_name
+'Gasparik, T.'
+'Parise, J.B.'
+'Eiben, B.A.'
+'Hriljac, J.A.'
+_cell_length_a 7.899
+_cell_length_b 7.899
+_cell_length_c 4.595(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 248.29
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3 2 1'
+_symmetry_Int_Tables_number 150
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Na1+ 1
+Ca2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 2 d 0.6667 0.3333 0.4901(1) . 1. 0
+Si2 Si4+ 3 f 0.74762(6) 0.74762(6) 0.5 . 1. 0
+Si3 Si4+ 1 a 0 0 0 . 1. 0
+Na1 Na1+ 3 e 0.41495(8) 0.41495(8) 0 . 0.6 0
+Ca1 Ca2+ 3 e 0.41495(8) 0.41495(8) 0 . 0.367 0
+O1 O2- 6 g 0.7018(2) 0.5393(2) 0.3504(2) . 1. 0
+O2 O2- 2 d 0.6667 0.3333 0.8295(4) . 1. 0
+O3 O2- 6 g 0.8961(2) 0.7899(1) 0.7679(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0039(1) 0.0039(1) 0.0048(2) 0.0020(1) 0 0
+Si2 Si4+ 0.0031(1) 0.0031(1) 0.0032(1) 0.0013(1) -.0002(1) -.0002(1)
+Si3 Si4+ 0.0034(2) 0.0034(2) 0.0027(2) 0.0017(1) 0 0
+Na1 Na1+ 0.0034(2) 0.0034(2) 0.0027(2) 0.0017(1) 0 0
+Ca1 Ca2+ 0.0034(2) 0.0034(2) 0.0027(2) 0.0017(1) 0 0
+O1 O2- 0.0164(4) 0.0049(3) 0.0077(3) 0.0054(3) -.0034(3) -.0007(3)
+O2 O2- 0.0194(5) 0.0194(5) 0.0053(5) 0.0097(3) 0 0
+O3 O2- 0.0053(3) 0.0049(3) 0.0047(2) 0.0023(3) -.0017(2) -.0011(2)
+#End of TTdata_80834-ICSD

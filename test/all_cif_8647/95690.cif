@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95690-ICSD
+_database_code_ICSD 95690
+_audit_creation_date 2003-10-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Disodium trisilicate'
+_chemical_formula_structural 'Na2 (Si3 O7)'
+_chemical_formula_sum 'Na2 O7 Si3'
+_exptl_crystal_density_diffrn 2.49
+_publ_section_title
+
+;
+Ab initio crystal structure determination of Na2 Si3 O7 from conventional
+powder diffraction data
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2002 4 1285 1292 SSSCFJ
+loop_
+_publ_author_name
+'Kahlenberg, V.'
+'Marler, B.'
+'Munoz Acevedo, J.C.'
+'Patarin, J.'
+_cell_length_a 7.1924(5)
+_cell_length_b 10.6039(8)
+_cell_length_c 9.8049(7)
+_cell_angle_alpha 90
+_cell_angle_beta 120.2478(4)
+_cell_angle_gamma 90
+_cell_volume 645.99
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 4 e 0.6207(9) 0.1833(6) 0.0248(7) 1.2(1) 1. 0
+Si2 Si4+ 4 e 0.7210(9) 0.3948(5) 0.2733(7) 1.2(1) 1. 0
+Si3 Si4+ 4 e 0.1636(9) 0.4319(5) 0.3143(7) 1.2(1) 1. 0
+Na1 Na1+ 4 e 0.2499(17) 0.5607(9) 0.0687(12) 2.0(2) 1. 0
+Na2 Na1+ 4 e 0.2106(15) 0.1969(10) 0.1244(12) 2.0(2) 1. 0
+O1 O2- 4 e 0.6731(22) 0.2940(9) 0.3820(12) 0.9(1) 1. 0
+O2 O2- 4 e 0.1041(22) 0.3923(13) 0.1427(11) 0.9(1) 1. 0
+O3 O2- 4 e 0.3738(12) 0.1447(11) -0.0462(14) 0.9(1) 1. 0
+O4 O2- 4 e 0.2168(18) -0.0839(7) 0.8479(13) 0.9(1) 1. 0
+O5 O2- 4 e 0.6101(21) 0.5271(9) 0.2434(15) 0.9(1) 1. 0
+O6 O2- 4 e 0.6477(21) 0.3188(9) 0.1083(11) 0.9(1) 1. 0
+O7 O2- 4 e -0.0141(12) 0.1030(12) 0.8685(13) 0.9(1) 1. 0
+#End of TTdata_95690-ICSD

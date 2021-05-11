@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_84820-ICSD
+_database_code_ICSD 84820
+_audit_creation_date 1999-01-19
+_chemical_name_systematic 'Disodium nickel tetrasilicate'
+_chemical_formula_structural 'Na2 Ni (Si4 O10)'
+_chemical_formula_sum 'Na2 Ni1 O10 Si4'
+_chemical_name_structure_type KNaFeS14O10
+_exptl_crystal_density_diffrn 2.91
+_publ_section_title 'Magnetic behaviour of Na2 M Si4 O10 (M = Co, Ni) compounds'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1997 131 335 340 JSSCBI
+loop_
+_publ_author_name
+'Durand, G.'
+'Vilminot, S.'
+'Richard-Plouet, M.'
+'Derory, A.'
+'Lambour, J.P.'
+'Drillon, M.'
+_cell_length_a 10.6512(4)
+_cell_length_b 7.8295(3)
+_cell_length_c 6.9454(3)
+_cell_angle_alpha 117.849(3)
+_cell_angle_beta 116.706(3)
+_cell_angle_gamma 93.214(3)
+_cell_volume 430.76
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 2 i 0.4241(5) 0.3066(8) 0.479(1) 1.7(2) 1. 0
+Na1 Na1+ 2 i 0.017(1) 0.237(2) 0.904(2) 2.0(2) 1. 0
+Na2 Na1+ 2 i 0.415(1) 0.263(2) 0.930(2) 2.0(3) 1. 0
+Si1 Si4+ 2 i 0.806(1) 0.059(1) 0.112(2) 1.8(3) 1. 0
+Si2 Si4+ 2 i 0.146(1) 0.297(2) 0.512(2) 2.5(3) 1. 0
+Si3 Si4+ 2 i 0.735(1) 0.362(1) 0.501(2) 2.0(3) 1. 0
+Si4 Si4+ 2 i 0.750(1) 0.375(2) 0.942(2) 3.0(3) 1. 0
+O1 O2- 2 i 0.994(2) 0.112(3) 0.320(4) 5.6(7) 1. 0
+O2 O2- 2 i 0.727(2) 0.155(3) 0.266(3) 2.9(6) 1. 0
+O3 O2- 2 i 0.263(2) 0.172(2) 0.093(3) 0.6(4) 1. 0
+O4 O2- 2 i 0.269(2) 0.203(2) 0.526(3) 4.3(6) 1. 0
+O5 O2- 2 i 0.580(2) 0.390(2) 0.406(3) 1.3(5) 1. 0
+O6 O2- 2 i 0.580(2) 0.366(2) 0.835(3) 3.8(7) 1. 0
+O7 O2- 2 i 0.144(2) 0.414(3) 0.797(4) 3.8(6) 1. 0
+O8 O2- 2 i 0.805(2) 0.367(2) 0.757(3) 1.3(6) 1. 0
+O9 O2- 2 i 0.124(2) 0.463(3) 0.429(3) 5.0(6) 1. 0
+O10 O2- 2 i 0.790(2) 0.198(2) 0.997(3) 0.8(4) 1. 0
+#End of TTdata_84820-ICSD

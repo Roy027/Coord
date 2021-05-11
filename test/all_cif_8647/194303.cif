@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194303-ICSD
+_database_code_ICSD 194303
+_audit_creation_date 2015-08-01
+_chemical_name_systematic
+'Potassium-0.92 sodium-0.08 octaoxo-aluminotrisilicate'
+_chemical_formula_structural '(K0.92 Na0.08) ((Al Si3) O8)'
+_chemical_formula_sum 'Al1 K0.92 Na0.08 O8 Si3'
+_chemical_name_structure_type Feldspar#-(MO,C12/m1)-KAlSi3O8
+_chemical_name_mineral Orthoclase
+_exptl_crystal_density_diffrn 2.52
+_cell_measurement_temperature 1075.
+_publ_section_title
+
+;
+Structural controls on the anisotropy of tetrahedral frameworks: the example
+of monoclinic feldspars
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2013 25 597 614 EJMIER
+loop_
+_publ_author_name
+'Angel, Ross J.'
+'Ross, Nancy L.'
+'Zhao, Jing'
+'Sochalski-Kolbus, Lindsay'
+'Kruger, Hannes'
+'Schmidt, Burkhard C.'
+_cell_length_a 8.6849(6)
+_cell_length_b 12.9747(10)
+_cell_length_c 7.2030(5)
+_cell_angle_alpha 90
+_cell_angle_beta 115.819(5)
+_cell_angle_gamma 90
+_cell_volume 730.63
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0352
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Si4+ 4
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.29190(17) 0 0.1432(2) 0.0802(4) 0.92 0
+Na1 Na1+ 4 i 0.29190(17) 0 0.1432(2) 0.0802(4) 0.08 0
+Si1 Si4+ 8 j 0.01058(7) 0.18734(5) 0.22450(8) 0.0286(2) 0.62 0
+Si2 Si4+ 8 j 0.71666(7) 0.11855(4) 0.34601(8) 0.0280(2) 0.88 0
+Al1 Al3+ 8 j 0.01058(7) 0.18734(5) 0.22450(8) 0.0286(2) 0.38 0
+Al2 Al3+ 8 j 0.71666(7) 0.11855(4) 0.34601(8) 0.0280(2) 0.12 0
+O1 O2- 4 g 0 0.1490(2) 0 0.0494(6) 1 0
+O2 O2- 4 i 0.6519(4) 0 0.2852(4) 0.0477(6) 1 0
+O3 O2- 8 j 0.8300(3) 0.1523(2) 0.2294(4) 0.0591(6) 1 0
+O4 O2- 8 j 0.0418(3) 0.31360(14) 0.2623(3) 0.0459(5) 1 0
+O5 O2- 8 j 0.1764(3) 0.12595(16) 0.4066(3) 0.0509(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0602(7) 0.0923(10) 0.0852(9) 0 0.0290(6) 0
+Na1 Na1+ 0.0602(7) 0.0923(10) 0.0852(9) 0 0.0290(6) 0
+Si1 Si4+ 0.0314(3) 0.0298(4) 0.0260(3) -0.0051(2) 0.0138(2) -0.00197(19)
+Si2 Si4+ 0.0288(3) 0.0242(3) 0.0303(3) -0.0010(2) 0.0124(2) 0.00009(18)
+Al1 Al3+ 0.0314(3) 0.0298(4) 0.0260(3) -0.0051(2) 0.0138(2) -0.00197(19)
+Al2 Al3+ 0.0288(3) 0.0242(3) 0.0303(3) -0.0010(2) 0.0124(2) 0.00009(18)
+O1 O2- 0.0615(17) 0.0503(16) 0.0404(12) 0 0.0261(12) 0
+O2 O2- 0.0494(15) 0.0249(11) 0.0555(15) 0 0.0106(12) 0
+O3 O2- 0.0527(11) 0.0728(15) 0.0643(12) -0.0122(11) 0.0372(10) 0.0024(11)
+O4 O2- 0.0412(9) 0.0355(10) 0.0582(11) -0.0066(7) 0.0190(8) -0.0053(8)
+O5 O2- 0.0551(11) 0.0521(12) 0.0327(8) 0.0077(9) 0.0073(8) 0.0036(7)
+#End of TTdata_194303-ICSD

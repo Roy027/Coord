@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260185-ICSD
+_database_code_ICSD 260185
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Sodium calcium orthoborate'
+_chemical_formula_structural 'Na Ca (B O3)'
+_chemical_formula_sum 'B1 Ca1 Na1 O3'
+_exptl_crystal_density_diffrn 2.82
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Synthesis and ab initio X-ray powder diffraction structure of the new alkali
+and alkali earth metal borate Na Ca (B O3)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2005 61 i32 i34 ACSCEE
+loop_
+_publ_author_name
+'Wu, L.'
+'Chen, X.-L.'
+'Li, X.-Z.'
+'Dai, L.'
+'Xu, Y.-P.'
+'Zhao, M.'
+_cell_length_a 16.0933(2)
+_cell_length_b 10.21000(10)
+_cell_length_c 3.49811(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 574.78
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.089
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 8 g 0.59900(10) 0.4662(2) 0.2387(6) 0.02(4) 0.800(10) 0
+Na1 Na1+ 8 g 0.59900(10) 0.4662(2) 0.2387(6) 0.02(4) 0.200(10) 0
+Ca2 Ca2+ 2 b 0.75 0.25 0.5348(9) 0.020(10) 0.800(10) 0
+Na2 Na1+ 2 b 0.75 0.25 0.5348(9) 0.020(10) 0.200(10) 0
+Na3 Na1+ 2 a 0.75 0.75 0.3717(17) 0.03(2) 1 0
+Na4 Na1+ 4 f 0.4169(2) 0.25 0.2078(12) 0.030(10) 1 0
+O1 O2- 4 e 0.75 0.4093(7) 0.033(2) 0.040(10) 1 0
+O2 O2- 8 g 0.6764(4) 0.5867(4) -0.2489(15) 0.040(10) 1 0
+O3 O2- 8 g 0.4989(3) 0.6335(6) 0.2339(16) 0.050(10) 1 0
+O4 O2- 4 f 0.6113(4) 0.25 0.4748(18) 0.050(10) 1 0
+B1 B3+ 4 e 0.75 0.5363(13) -0.172(3) 0.05(2) 1 0
+B2 B3+ 4 f 0.4684(8) 0.75 0.320(3) 0.05(2) 1 0
+#End of TTdata_260185-ICSD

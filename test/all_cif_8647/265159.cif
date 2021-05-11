@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_265159-ICSD
+_database_code_ICSD 265159
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Cesium sodium bis(tetrathiophosphato) uranium(IV)'
+_chemical_formula_structural 'Cs Na (U (P S4)2)'
+_chemical_formula_sum 'Cs1 Na1 P2 S8 U1'
+_exptl_crystal_density_diffrn 3.61
+_cell_measurement_temperature 300.
+_publ_section_title
+'Complex topologies from simple building blocks: Uranium(IV) thiophosphates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 11175 11183 INOCAJ
+loop_
+_publ_author_name
+'Klepov, Vladislav V.'
+'Zur Loye, Hans-Conrad'
+_cell_length_a 9.7350(2)
+_cell_length_b 18.4642(4)
+_cell_length_c 8.7452(2)
+_cell_angle_alpha 90
+_cell_angle_beta 123.4570(10)
+_cell_angle_gamma 90
+_cell_volume 1311.46
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0088
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U4+ 4
+Cs1+ 1
+S2- -2
+P5+ 5
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U4+ 4 e 0.5 0.47689(2) 0.25 0.01654(2) 1 0
+Cs1 Cs1+ 4 e 1. 0.63232(2) 0.75 0.03118(3) 1 0
+S1 S2- 8 f 0.44606(4) 0.59381(2) 0.00953(4) 0.01849(6) 1 0
+S2 S2- 8 f 0.80143(4) 0.53190(2) 0.32894(5) 0.02185(6) 1 0
+P1 P5+ 8 f 0.69540(4) 0.62067(2) 0.16445(5) 0.01785(6) 1 0
+S3 S2- 8 f 0.74695(5) 0.62499(2) -0.03340(5) 0.02657(7) 1 0
+S4 S2- 8 f 0.74897(5) 0.71271(2) 0.30088(6) 0.02727(7) 1 0
+Na1 Na1+ 4 e 1. 0.75165(7) 0.25 0.0710(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U4+ 0.01879(3) 0.01697(3) 0.01510(3) 0. 0.01012(2) 0.
+Cs1 Cs1+ 0.02723(6) 0.03688(7) 0.02365(6) 0. 0.01038(5) 0.
+S1 S2- 0.01822(13) 0.02085(14) 0.01637(13) 0.00125(10) 0.00952(11) 0.00125(11)
+S2 S2- 0.01890(14) 0.01973(14) 0.02342(15) 0.00113(11) 0.00946(12) 0.00214(11)
+P1 P5+ 0.02008(14) 0.01710(14) 0.01688(14) -0.00139(11) 0.01051(12) -0.00097(11)
+S3 S2- 0.02978(17) 0.03229(18) 0.02474(17) -0.01025(14) 0.01951(15) -0.00703(14)
+S4 S2- 0.03397(19) 0.01904(15) 0.02919(18) -0.00324(13) 0.01764(16) -0.00601(13)
+Na1 Na1+ 0.0612(8) 0.0374(6) 0.1439(16) 0. 0.0752(11) 0.
+#End of TTdata_265159-ICSD

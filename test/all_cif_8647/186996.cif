@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_186996-ICSD
+_database_code_ICSD 186996
+_audit_creation_date 2013-08-01
+_chemical_name_systematic 'Disodium hexatitanate'
+_chemical_formula_structural 'Na2 (Ti6 O13)'
+_chemical_formula_sum 'Na2 O13 Ti6'
+_chemical_name_structure_type Na2Ti6O13
+_exptl_crystal_density_diffrn 3.51
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Insight into the channel ion distribution and influence on the lithium
+insertion properties of hexatitanares A2 Ti6 O13 (A = Na, Li, H) as candidates
+for anode materials in lithium-ion batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2012 41 14633 14642 DTARAF
+loop_
+_publ_author_name
+'Perez-Flores, Juan Carlos'
+'Garcia-Alvarado, Flaviano'
+'Hoelzel, Markus'
+'Sobrados, Isabel'
+'Sanz, Jesus'
+'Kuhn, Alois'
+_cell_length_a 15.1033(2)
+_cell_length_b 3.74379(4)
+_cell_length_c 9.1713(1)
+_cell_angle_alpha 90
+_cell_angle_beta 99.0570(9)
+_cell_angle_gamma 90
+_cell_volume 512.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0259
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.46156(16) 0 0.26726(23) 2.948 1. 0
+Ti1 Ti4+ 4 i 0.1150(2) 0 0.09868(38) 0.3 1. 0
+Ti2 Ti4+ 4 i 0.16547(21) 0 0.43519(44) 0.3 1. 0
+Ti3 Ti4+ 4 i 0.22747(21) 0 0.7695(4) 0.3 1. 0
+O1 O2- 2 a 0 0 0 0.67 1. 0
+O2 O2- 4 i 0.24117(7) 0 0.24459(13) 0.41 1. 0
+O3 O2- 4 i 0.07012(7) 0 0.29212(12) 0.67 1. 0
+O4 O2- 4 i 0.29655(7) 0 0.57209(13) 0.41 1. 0
+O5 O2- 4 i 0.12768(7) 0 0.61357(13) 0.67 1. 0
+O6 O2- 4 i 0.35641(7) 0 0.88307(11) 0.41 1. 0
+O7 O2- 4 i 0.16374(6) 0 0.9153(1) 0.67 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.59396 0.56709 1.07293 0. 0.20263 0.
+#End of TTdata_186996-ICSD

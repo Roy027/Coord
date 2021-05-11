@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250245-ICSD
+_database_code_ICSD 250245
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Octasodium hafnium hexakis(molybdate)'
+_chemical_formula_structural 'Na8 Hf (Mo O4)6'
+_chemical_formula_sum 'Hf1 Mo6 Na8 O24'
+_exptl_crystal_density_diffrn 3.79
+_publ_section_title
+
+;
+Correction of phase formation in Na2 Mo O4 - Hf (Mo O4)2 system and crystal
+structure of a new double molybdate Na8 Hf (Mo O4)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Strukturnoi Khimii' 2004 45 1044 1048 ZSTKAI
+loop_
+_publ_author_name
+'Solodovnikov, S.F.'
+'Bazarov, B.G.'
+'Balsanova, L.V.'
+'Solodovnikova, Z.A.'
+'Bazarova, Zh.G.'
+_cell_length_a 9.714(1)
+_cell_length_b 11.432(2)
+_cell_length_c 11.207(1)
+_cell_angle_alpha 90
+_cell_angle_beta 111.45(1)
+_cell_angle_gamma 90
+_cell_volume 1158.34
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0228
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf4+ 4
+Mo6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf4+ 2 a 0 0 0 0.0108(1) 1. 0
+Mo1 Mo6+ 4 e 0.48207(3) 0.18463(3) 0.49341(3) 0.0150(1) 1. 0
+Mo2 Mo6+ 4 e 0.04932(3) 0.11004(3) 0.31952(3) 0.0141(1) 1. 0
+Mo3 Mo6+ 4 e 0.30680(3) 0.10429(3) -0.08930(3) 0.0128(1) 1. 0
+Na1 Na1+ 4 e 0.4135(2) 0.3111(2) 0.1934(2) 0.0276(4) 1. 0
+Na2 Na1+ 4 e 0.3692(2) -0.0644(2) 0.2088(2) 0.0241(4) 1. 0
+Na3 Na1+ 4 e 0.1859(2) 0.2851(2) 0.5982(2) 0.0264(4) 1. 0
+Na4 Na1+ 4 e 0.2076(2) 0.4581(2) -0.1261(2) 0.0299(4) 1. 0
+O1 O2- 4 e 0.4461(3) 0.3335(2) 0.4272(3) 0.0221(6) 1. 0
+O2 O2- 4 e 0.3860(3) 0.1514(3) 0.5931(3) 0.0240(6) 1. 0
+O3 O2- 4 e 0.6675(3) 0.1699(3) 0.5869(4) 0.0382(9) 1. 0
+O4 O2- 4 e 0.4452(4) 0.0906(3) 0.3634(3) 0.0305(7) 1. 0
+O5 O2- 4 e 0.0933(3) 0.0598(3) 0.1836(3) 0.0318(8) 1. 0
+O6 O2- 4 e -0.1416(3) 0.1201(3) 0.2714(3) 0.0220(6) 1. 0
+O7 O2- 4 e 0.1104(4) 0.0028(3) 0.4355(3) 0.0289(7) 1. 0
+O8 O2- 4 e 0.1346(3) 0.2442(3) 0.3761(3) 0.0236(6) 1. 0
+O9 O2- 4 e 0.4173(3) 0.0210(3) -0.1498(3) 0.0216(6) 1. 0
+O10 O2- 4 e 0.4183(3) 0.2051(3) 0.0201(3) 0.0216(6) 1. 0
+O11 O2- 4 e 0.1727(3) 0.1780(3) -0.2153(3) 0.0274(7) 1. 0
+O12 O2- 4 e 0.2121(3) 0.0107(2) -0.0091(3) 0.0166(5) 1. 0
+#End of TTdata_250245-ICSD

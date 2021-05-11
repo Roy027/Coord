@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_161501-ICSD
+_database_code_ICSD 161501
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Sodium scandium diarsenate(V)'
+_chemical_formula_structural 'Na Sc (As2 O7)'
+_chemical_formula_sum 'As2 Na1 O7 Sc1'
+_chemical_name_structure_type LiFeAs2O7
+_exptl_crystal_density_diffrn 3.83
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Gittinsite-type M(1+)-M(3+)-diarsenates (M(1+)= Li, Na; M(3+)= Al, Sc, Ga):
+insights into an unexpected isotypy and crystal chemistry of diarsenates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Magazine' 2007 71 249 263 MNLMBB
+loop_
+_publ_author_name
+'Schwendtner, K.'
+'Kolitsch, U.'
+_cell_length_a 6.959(1)
+_cell_length_b 8.712(2)
+_cell_length_c 4.817(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.05(3)
+_cell_angle_gamma 90.
+_cell_volume 285.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.0199
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sc3+ 3
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0 0.7541(3) 0.5 0.0294(8) 1. 0
+Sc1 Sc3+ 2 b 0 0.36848(14) 0.5 0.0070(2) 1. 0
+As1 As5+ 4 c 0.21296(4) 0.037048(16) 0.91451(6) 0.00676(11) 1. 0
+O1 O2- 2 a 0 0.9613(5) 0 0.0150(8) 1. 0
+O2 O2- 4 c 0.3752(3) 0.0477(4) 0.2212(5) 0.0083(4) 1. 0
+O3 O2- 4 c 0.1665(4) 0.2053(4) 0.7554(4) 0.0142(5) 1. 0
+O4 O2- 4 c 0.2607(4) 0.9014(3) 0.6964(5) 0.0099(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0232(14) 0.0145(13) 0.0406(18) 0. -0.0160(12) 0.
+Sc1 Sc3+ 0.0081(5) 0.0067(5) 0.0066(5) 0. 0.0022(4) 0.
+As1 As5+ 0.00721(15) 0.00664(15) 0.00637(15) 0.00069(17) 0.00130(10) 0.00051(16)
+O1 O2- 0.0092(17) 0.0135(18) 0.025(2) 0. 0.0096(15) 0.
+O2 O2- 0.0100(9) 0.0057(12) 0.0075(9) -0.0001(13) -0.0021(7) 0.0012(12)
+O3 O2- 0.0181(14) 0.0081(12) 0.0148(13) 0.0030(12) 0.0002(11) 0.0038(11)
+O4 O2- 0.0101(12) 0.0100(12) 0.0107(12) -0.0021(10) 0.0049(10) -0.0034(9)
+#End of TTdata_161501-ICSD

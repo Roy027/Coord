@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_172070-ICSD
+_database_code_ICSD 172070
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Sodium indium chromate(VI) dihydrate'
+_chemical_formula_structural 'Na In (Cr O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Cr2 In1 Na1 O10'
+_exptl_crystal_density_diffrn 3.29
+_publ_section_title
+'Na In (Cr O4)2.2H2 O, the first indium(III) member of the kroehnkite family'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2006 62 i35 i37 ACSCEE
+loop_
+_publ_author_name
+'Kolitsch, U.'
+_cell_length_a 10.741(2)
+_cell_length_b 5.5670(10)
+_cell_length_c 7.4970(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 113.78(3)
+_cell_angle_gamma 90.
+_cell_volume 410.23
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0292
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+In3+ 3
+Cr6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 c 0. 0. 0.5 0.0410(7) 1 0
+In1 In3+ 2 a 0. 0. 0. 0.01388(12) 1 0
+Cr1 Cr6+ 4 i 0.11112(5) 0.5 0.31447(7) 0.01379(13) 1 0
+O1 O2- 4 i 0.2171(3) 0. 0.0714(4) 0.0231(6) 1 0
+O2 O2- 4 i 0.2492(3) 0.5 0.2785(5) 0.0281(6) 1 0
+O3 O2- 4 i 0.1479(3) 0.5 0.5428(4) 0.0373(8) 1 0
+O4 O2- 8 j 0.0193(2) 0.2525(5) 0.2181(4) 0.0542(9) 1 0
+H1 H1+ 4 i 0.271(5) 0. 0.193(6) 0.039(15) 1 0
+H2 H1+ 4 i 0.240(14) 0. -0.028(14) 0.17(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0288(13) 0.072(2) 0.0226(13) 0. 0.0111(10) 0.
+In1 In3+ 0.01485(17) 0.01127(17) 0.01448(18) 0. 0.00484(12) 0.
+Cr1 Cr6+ 0.0144(3) 0.0150(3) 0.0110(3) 0. 0.0041(2) 0.
+O1 O2- 0.0166(12) 0.0347(16) 0.0160(13) 0. 0.0044(10) 0.
+O2 O2- 0.0212(13) 0.0278(15) 0.0380(18) 0. 0.0147(13) 0.
+O3 O2- 0.0347(17) 0.060(2) 0.0137(13) 0. 0.0058(12) 0.
+O4 O2- 0.0385(13) 0.0631(18) 0.0761(19) -0.0321(12) 0.0388(14) -0.0595(16)
+#End of TTdata_172070-ICSD

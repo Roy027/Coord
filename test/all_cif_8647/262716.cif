@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262716-ICSD
+_database_code_ICSD 262716
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Disodium barium magnesium diphosphate'
+_chemical_formula_structural 'Na2 Ba Mg P2 O8'
+_chemical_formula_sum 'Ba1 Mg1 Na2 O8 P2'
+_chemical_name_structure_type K3Na(SeO4)2
+_exptl_crystal_density_diffrn 3.88
+_publ_section_title
+
+;
+Crystal structure of Na2 M Mg P2 O8 (M: Ba, Sr, Ca) orthophosphates and their
+luminescence properties activated by Eu(2+); analogous structural behaviors of
+glaserite-type phosphates and silicates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2011 184 3247 3252 JSSCBI
+loop_
+_publ_author_name
+'Yonesaki, Y.'
+'Matsuda, C.'
+_cell_length_a 5.3043(9)
+_cell_length_b 5.3043(9)
+_cell_length_c 6.9915(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 170.36
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.0986
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ba2+ 2
+Mg2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0.3333 0.6667 0.8217(8) 0.8(11) 1. 0
+Ba1 Ba2+ 1 b 0 0 0.5 0.61(4) 1. 0
+Mg1 Mg2+ 1 a 0 0 0 1.1(13) 1. 0
+P1 P5+ 2 d 0.3333 0.6667 0.2612(5) 0.27(9) 1. 0
+O1 O2- 2 d 0.3333 0.6667 0.472(14) 0.3(11) 1. 0
+O2 O2- 6 g 0.223(12) -0.131(12) 0.1761(6) 0.3(11) 1. 0
+#End of TTdata_262716-ICSD

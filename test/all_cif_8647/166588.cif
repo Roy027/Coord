@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_166588-ICSD
+_database_code_ICSD 166588
+_audit_creation_date 2010-08-01
+_chemical_name_systematic
+'Potassium sodium copper oxide chloride (3.41/0.59/4/1/10)'
+_chemical_formula_structural '(K3.41 Na0.59) Cu4 O Cl10'
+_chemical_formula_sum 'Cl10 Cu4 K3.41 Na0.59 O1'
+_chemical_name_mineral Ponomarevite
+_exptl_crystal_density_diffrn 2.7
+_publ_section_title
+'Crystal structure of the new mineral ponomarevite, K4 Cu4 O Cl10'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1989 304 427 430 DANKAS
+loop_
+_publ_author_name
+'Semenova, T.F.'
+'Rozhdestvenskaya, I.V.'
+'Filatov, S.K.'
+'Vergasova, L.P.'
+_cell_length_a 14.740(3)
+_cell_length_b 14.900(3)
+_cell_length_c 8.948(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.79(2)
+_cell_angle_gamma 90.
+_cell_volume 1900.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+K1+ 1
+Na1+ 1
+K1+ 1
+Na1+ 1
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 8 f 0.43862(5) 0.29086(5) 0.36773(7) 1.71(3) 1. 0
+Cu2 Cu2+ 8 f 0.40822(5) 0.14100(5) 0.11418(8) 1.96(3) 1. 0
+K1 K1+ 8 f 0.34083(10) 0.12926(10) 0.62424(15) 2.80(6) 0.872 0
+Na1 Na1+ 8 f 0.34083(10) 0.12926(10) 0.62424(15) 2.80(6) 0.128 0
+K2 K1+ 8 f 0.13154(10) 0.07278(9) 0.14001(15) 2.59(6) 0.834 0
+Na2 Na1+ 8 f 0.13154(10) 0.07278(9) 0.14001(15) 2.59(6) 0.166 0
+Cl1 Cl1- 4 e 0.5 0.41468(14) 0.25 2.74(11) 1. 0
+Cl2 Cl1- 8 f 0.05220(11) 0.27569(11) 0.08479(15) 2.50(7) 1. 0
+Cl3 Cl1- 8 f 0.30406(10) 0.20443(12) 0.27378(19) 2.75(5) 1. 0
+Cl4 Cl1- 8 f 0.29454(11) 0.05970(11) -0.04216(16) 2.58(6) 1. 0
+Cl5 Cl1- 8 f 0.37874(11) 0.38144(11) 0.51880(16) 2.61(7) 1. 0
+Cl6 Cl1- 8 f 0.5 0.01969(15) 0.5 3.46(11) 0.5 0
+O1 O2- 4 e 0.5 0.21591(35) 0.25 1.54(20) 1. 0
+#End of TTdata_166588-ICSD

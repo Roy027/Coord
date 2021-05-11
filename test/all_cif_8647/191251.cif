@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_191251-ICSD
+_database_code_ICSD 191251
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Barium sodium ruthenium oxide (3/0.9/2.1/9)'
+_chemical_formula_structural 'Ba3 (Na0.9 Ru2.1) O9'
+_chemical_formula_sum 'Ba3 Na0.9 O9 Ru2.1'
+_chemical_name_structure_type Ba3SrTa2O9
+_exptl_crystal_density_diffrn 6.31
+_publ_section_title
+
+;
+High pressure synthesis of the cation-ordered perovskite 3C1:2 - Ba3 Na Ru2 O9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 1164 1167 ZAACAB
+loop_
+_publ_author_name
+'Arevalo-Lopez, Angel M.'
+'Senn, Mark S.'
+'Skedd, Lauren'
+'Attfield, J.Paul'
+_cell_length_a 5.7969(2)
+_cell_length_b 5.7969(2)
+_cell_length_c 7.1333(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 207.59
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0486
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Na1+ 1
+Ru5+ 5.29
+Na1+ 1
+Ru5+ 5.29
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 1 a 0 0 0 2.75(5) 1. 0
+Ba2 Ba2+ 2 d 0.3333 0.6667 0.660(2) 2.75(5) 1. 0
+Na1 Na1+ 1 b 0 0 0.5 2.75(5) 0.64(2) 0
+Ru1 Ru5+ 1 b 0 0 0.5 2.75(5) 0.36(2) 0
+Na2 Na1+ 2 d 0.3333 0.6667 0.145(2) 2.75(5) 0.13(1) 0
+Ru2 Ru5+ 2 d 0.3333 0.6667 0.145(2) 2.75(5) 0.87(1) 0
+O1 O2- 3 e 0.5 0 0 2.75(5) 1. 0
+O2 O2- 6 i 0.173(4) -0.173(4) 0.357(5) 2.75(5) 1. 0
+#End of TTdata_191251-ICSD

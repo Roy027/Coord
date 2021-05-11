@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78488-ICSD
+_database_code_ICSD 78488
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Strontium sodium aluminium fluoride (7/2/6/34)'
+_chemical_formula_structural 'Sr7 (Na2 Al6 F34)'
+_chemical_formula_sum 'Al6 F34 Na2 Sr7'
+_exptl_crystal_density_diffrn 3.94
+_publ_section_title
+
+;
+On new fluorides with the jarlite-type structure: crystal structures of Na2
+Sr7 Al6 F34, Na2 Sr6 Zn Fe6 F34 and Ba7 Ga6 (F, OH)32 . 2H2O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Fluorine Chemistry' 1994 68 155 163 JFLCAR
+loop_
+_publ_author_name
+'Hemon-Ribaud, A.'
+'Crosnier-Lopez, M.P.'
+'Fourquet, J.L.'
+'Courbion, G.'
+_cell_length_a 16.0720(30)
+_cell_length_b 10.822(1)
+_cell_length_c 7.258(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.23(1)
+_cell_angle_gamma 90.
+_cell_volume 1238.22
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Al3+ 3
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 2 a 0 0 0 . 1. 0
+Sr2 Sr2+ 4 i 0.26095(1) 0 0.12281(3) . 1. 0
+Sr3 Sr2+ 8 j 0.14543(1) 0.30113(1) 0.30265(2) . 1. 0
+Al1 Al3+ 4 i 0.16876(4) 0 0.5441(1) . 1. 0
+Al2 Al3+ 8 j 0.11009(3) 0.2428(1) 0.7991(1) . 1. 0
+Na1 Na1+ 2 d 0 0.5 0.5 . 1. 0
+Na2 Na1+ 2 b 0 0.5 0 . 1. 0
+F1 F1- 8 j 0.3836(1) 0.1306(1) 0.0354(2) . 1. 0
+F2 F1- 8 j 0.4052(1) 0.1487(1) 0.3899(2) . 1. 0
+F3 F1- 8 j 0.2783(1) 0.2409(1) 0.1883(2) . 1. 0
+F4 F1- 8 j 0.1305(1) 0.1323(1) 0.9943(2) . 1. 0
+F5 F1- 8 j 0.2312(1) 0.1165(1) 0.4570(2) . 1. 0
+F6 F1- 8 j 0.0002(1) 0.2210(1) 0.7955(2) . 1. 0
+F7 F1- 8 j 0.1066(1) 0.1171(1) 0.6292(2) . 1. 0
+F8 F1- 4 i 0.2462(1) 0 0.7622(2) . 1. 0
+F9 F1- 4 i 0.1020(1) 0 0.3167(3) . 1. 0
+F10 F1- 4 i 0.4235(1) 0 0.7188(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.0062(1) 0.0105(1) 0.0122(1) 0 0.0007(1) 0
+Sr2 Sr2+ 0.0097(1) 0.0097(1) 0.0128(1) 0 0.0027(1) 0
+Sr3 Sr2+ 0.0077(1) 0.0116(1) 0.0090(1) 0.0016 0.0012 -.0003
+Al1 Al3+ 0.0082(3) 0.0065(2) 0.0060(3) 0 0.0018(2) 0
+Al2 Al3+ 0.0067(2) 0.0074(2) 0.0061(2) 0.0004(1) 0.0020(1) 0.0001(1)
+Na1 Na1+ 0.0078(5) 0.0104(5) 0.0088(6) 0 0.0033(4) 0
+Na2 Na1+ 0.0133(7) 0.0260(9) 0.0119(7) 0 -.0017(5) 0
+F1 F1- 0.149(4) 0.0102(4) 0.0110(4) -.0001(3) 0.0035(3) -.0025(3)
+F2 F1- 0.0217(5) 0.0223(5) 0.0128(5) 0.0079(4) 0.0071(4) 0.0082(4)
+F3 F1- 0.0083(3) 0.0154(4) 0.0132(4) -.0008(3) 0.0035(3) -.0001(3)
+F4 F1- 0.0109(4) 0.0117(4) 0.0152(5) 0.0000(3) 0.0023(3) 0.0057(3)
+F5 F1- 0.0143(4) 0.0161(5) 0.0174(5) -.0055(4) 0.0016(4) 0.0061(4)
+F6 F1- 0.0077(3) 0.0210(5) 0.0171(5) 0.0013(3) 0.0026(3) -.0008(4)
+F7 F1- 0.0124(4) 0.0203(5) 0.0251(6) 0.0047(4) -.0011(4) -.0146(5)
+F8 F1- 0.0101(5) 0.0168(6) 0.0101(6) 0 -.0011(5) 0
+F9 F1- 0.0189(7) 0.0262(9) 0.0087(7) 0 -.0020(6) 0
+F10 F1- 0.0129(6) 0.0103(5) 0.0104(6) 0 0.0023(5) 0
+#End of TTdata_78488-ICSD

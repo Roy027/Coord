@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_258155-ICSD
+_database_code_ICSD 258155
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium manganate(IV) hydrate aluminum silicate'
+_chemical_formula_structural '(Na7.7 (Mn O2)1.7) (Al Si O4)6'
+_chemical_formula_sum 'Al6 Mn1.7 Na7.7 O27.4 Si6'
+_chemical_name_mineral Nosean
+_exptl_crystal_density_diffrn 2.22
+_cell_measurement_temperature 1080.
+_publ_section_title
+
+;
+Synthesis, temperature-dependent X-ray diffraction and Raman spectroscopic
+characterization of the sodalite to nosean phase-transformation of vertical
+stroke Na7.7(1)(MnO4)1.7(2)(H2O)0.8(2)vertical stroke [AlSiO4]6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous and Mesoporous Materials' 2017 242 144 151 MIMMFJ
+loop_
+_publ_author_name
+'Petersen, Hilke'
+'Robben, Lars'
+'Sehovic, Malik'
+'Gesing, Thorsten M.'
+_cell_length_a 9.1933(2)
+_cell_length_b 9.1933(2)
+_cell_length_c 9.1933(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 776.99
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 2 3'
+_symmetry_Int_Tables_number 195
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -x, y'
+2 '-y, -z, x'
+3 '-x, -y, z'
+4 '-z, x, -y'
+5 '-y, z, -x'
+6 '-x, y, -z'
+7 'z, -x, -y'
+8 'y, -z, -x'
+9 'x, -y, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Mn4+ 4
+Na1+ 1
+Al3+ 3
+Si4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 12 j 0.127(3) 0.14(2) 0.482(2) 2.0(2) 1. 0
+O2 O2- 12 j 0.661(2) 0.686(2) 0.539(2) 2.0(2) 1. 0
+O3 O2- 12 j 0.062(6) 0.053(7) 0.177(3) 4.8(5) 0.31(1) 0
+Mn1 Mn4+ 1 a 0 0 0 4.8(5) 0.83(1) 0
+Mn2 Mn4+ 1 b 0.5 0.5 0.5 4.8(5) 0.83(1) 0
+Na1 Na1+ 4 e 0.289(1) 0.289(1) 0.289(1) 7.3(3) 0.96(1) 0
+Na2 Na1+ 4 e 0.730(1) 0.730(1) 0.730(1) 7.3(3) 0.96(1) 0
+Al1 Al3+ 6 g 0.25 0 0.5 2.82(7) 1. 0
+Si1 Si4+ 6 h 0.25 0.5 0 2.82(7) 1. 0
+#End of TTdata_258155-ICSD

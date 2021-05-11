@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74209-ICSD
+_database_code_ICSD 74209
+_audit_creation_date 1995-01-10
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Trisodium hexafluoroaluminate - alpha'
+_chemical_formula_structural 'Na3 (Al F6)'
+_chemical_formula_sum 'Al1 F6 Na3'
+_chemical_name_structure_type Perovskite-Na3AlF6
+_chemical_name_mineral Cryolite
+_exptl_crystal_density_diffrn 2.79
+_cell_measurement_temperature 880.
+_publ_section_title
+
+;
+Ferroelastic phase transition in cryolite, Na3 Al F6, a mixed fluoride
+perovskite: high temperature single crystal X-ray diffraction study and
+symmetry analysis of the transition mechanism
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 1993 19 528 544 PCMIDU
+loop_
+_publ_author_name
+'Yang, H.-X.'
+'Ghose, S.'
+'Hatch, D.M.'
+_cell_length_a 5.5732(5)
+_cell_length_b 5.6414(4)
+_cell_length_c 7.9365(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.990(2)
+_cell_angle_gamma 90.
+_cell_volume 249.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Na1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 2 b 0 0 0.5 . 1. 0
+Na2 Na1+ 4 e -.0060(5) 0.4715(6) 0.2517(4) . 1. 0
+F1 F1- 4 e 0.0816(6) 0.0295(9) 0.2172(4) . 1. 0
+F2 F1- 4 e 0.2374(6) 0.3224(6) 0.5388(5) . 1. 0
+F3 F1- 4 e 0.1704(6) 0.2628(6) 0.9521(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Al1 Al3+ 0.02643(82) 0.02647(86) 0.02491(83) 0.00150(88) 0.00038(60) -.00036(94)
+Na1 Na1+ 0.0503(16) 0.0462(16) 0.0451(16) -0.0053(17) 0.0002(13) 0.0004(18)
+Na2 Na1+ 0.0710(15) 0.0735(18) 0.0729(17) -0.0095(16) 0.0001(12) 0.0018(18)
+F1 F1- 0.0861(27) 0.1032(33) 0.0337(16) 0.0053(27) -0.0104(16) -0.0078(23)
+F2 F1- 0.0546(20) 0.0649(24) 0.0842(29) -0.0261(19) 0.0138(20) -0.0025(21)
+F3 F1- 0.0673(23) 0.0513(21) 0.0945(32) -0.0215(19) -0.0011(21) 0.0194(22)
+#End of TTdata_74209-ICSD

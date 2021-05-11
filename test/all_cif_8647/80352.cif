@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80352-ICSD
+_database_code_ICSD 80352
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Tetrasodium catena-bis(phosphato(V))hydroxoaluminate'
+_chemical_formula_structural 'Na4 (Al (P O4)2 (O H))'
+_chemical_formula_sum 'H1 Al1 Na4 O9 P2'
+_exptl_crystal_density_diffrn 2.78
+_publ_section_title
+
+;
+The synthesis and characterization of a onedimensional aluminophosphate: Na4
+Al (P O4)2 (O H)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 118 412 416 JSSCBI
+loop_
+_publ_author_name
+'Attfield, M.P.'
+'Morris, R.E.'
+'Burshtein, I.'
+'Campana, C.F.'
+'Cheetham, A.K.'
+_cell_length_a 15.279(3)
+_cell_length_b 14.660(3)
+_cell_length_c 6.947(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1556.06
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c m'
+_symmetry_Int_Tables_number 57
+_refine_ls_R_factor_all 0.063
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, y+1/2, z'
+3 'x, y, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Al3+ 3
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 d 0.3800(1) 0.8643(1) 0.25 0.011(1) 1. 0
+P2 P5+ 4 d 0.1288(1) 0.6207(1) 0.25 0.011(1) 1. 0
+P3 P5+ 4 d 0.6332(1) 0.6202(1) 0.75 0.011(1) 1. 0
+P4 P5+ 4 d 0.8754(1) 0.8705(1) 0.75 0.011(1) 1. 0
+Al1 Al3+ 4 b 0.5 0 0 0.010(1) 1. 0
+Al2 Al3+ 4 a 0 0.5 0 0.010(1) 1. 0
+Na1 Na1+ 4 d 0.1312(2) 0.3901(2) 0.25 0.020(1) 1. 0
+Na2 Na1+ 8 e 0.2546(1) 0.9825(1) 0.0200(3) 0.023(1) 1. 0
+Na3 Na1+ 4 c 0.5270(2) 0.75 0 0.023(1) 1. 0
+Na4 Na1+ 4 c 0.2225(2) 0.75 0 0.029(1) 1. 0
+Na5 Na1+ 4 c -.0086(2) 0.75 0 0.022(1) 1. 0
+Na6 Na1+ 4 c 0.2556(2) 0.25 0 0.048(1) 1. 0
+Na7 Na1+ 4 d 0.6253(2) 0.1325(2) 0.25 0.024(1) 1. 0
+O1 O2- 4 d 0.4264(3) 0.7735(3) 0.25 0.018(1) 1. 0
+O2 O2- 4 d 0.2801(3) 0.8535(3) 0.25 0.017(1) 1. 0
+O3 O2- 8 e 0.4046(2) 0.9202(2) 0.0673(4) 0.015(1) 1. 0
+O4 O2- 4 d 0.0891(3) 0.7158(3) 0.25 0.018(1) 1. 0
+O5 O2- 8 e 0.1022(2) 0.5646(2) 0.0708(4) 0.015(1) 1. 0
+O6 O2- 4 d 0.2286(3) 0.6295(3) 0.25 0.016(1) 1. 0
+O7 O2- 4 d 0.6389(3) 0.7245(3) 0.75 0.017(1) 1. 0
+O8 O2- 4 d 0.7252(3) 0.5797(3) 0.75 0.021(1) 1. 0
+O9 O2- 8 e 0.5833(2) 0.5889(2) -.0692(4) 0.015(1) 1. 0
+O10 O2- 4 d 0.8676(3) 0.7658(3) 0.75 0.015(1) 1. 0
+O11 O2- 8 e -.0721(2) 0.8983(2) -.0681(4) 0.013(1) 1. 0
+O12 O2- 4 d 0.7851(3) 0.9133(3) 0.75 0.020(1) 1. 0
+O13 O2- 4 d -.0104(3) 0.4491(3) 0.25 0.012(1) 1. 0
+O14 O2- 4 d 0.4979(3) 0.0518(3) 0.25 0.011(1) 1. 0
+H1 H1+ 4 d -.0613(3) 0.4258(3) 0.25 0.05(1) 1. 0
+H2 H1+ 4 d 0.4501(3) 0.0842(3) 0.25 0.05(1) 1. 0
+#End of TTdata_80352-ICSD

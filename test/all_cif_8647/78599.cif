@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78599-ICSD
+_database_code_ICSD 78599
+_audit_creation_date 1997-05-13
+_chemical_name_systematic
+'Yttrium sodium barium copper oxide (0.9/0.1/2/3/7.04)'
+_chemical_formula_structural 'Y0.91 Na0.09 Ba2 Cu3 O7.044'
+_chemical_formula_sum 'Ba2 Cu3 Na0.09 O7.044 Y0.91'
+_chemical_name_structure_type YBa2Cu3O6+x(orh,oP13)
+_exptl_crystal_density_diffrn 6.33
+_publ_section_title
+
+;
+Neutron powder diffraction study of the crystal structure of Na-doped Y-1-2-3
+high-Tc superconductor
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'Physica C: Superconductivity and Ist Application (Amsterdam, Netherlands)' 1995 248 71 77 PHYCE6
+loop_
+_publ_author_name
+'Huang, Q.'
+'Chen, C.-H.'
+'Kumar, B.'
+_cell_length_a 3.82075(6)
+_cell_length_b 3.88470(7)
+_cell_length_c 11.6763(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 173.31
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m m m'
+_symmetry_Int_Tables_number 47
+_refine_ls_R_factor_all 0.0522
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Na1+ 1
+Ba2+ 2
+Cu2+ 2.423
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 1 h 0.5 0.5 0.5 0.24(5) 0.91(2) 0
+Na1 Na1+ 1 h 0.5 0.5 0.5 0.24(5) 0.09(2) 0
+Ba1 Ba2+ 2 t 0.5 0.5 0.1845(2) 0.50(5) 1. 0
+Cu1 Cu2+ 1 a 0 0 0 0.60(4) 1. 0
+Cu2 Cu2+ 2 q 0 0 0.3554(1) 0.45(3) 1. 0
+O1 O2- 2 q 0 0 0.1580(2) 0.65(4) 1. 0
+O2 O2- 2 s 0.5 0 0.3784(2) 0.57(4) 1. 0
+O3 O2- 2 r 0 0.5 0.3774(2) 0.51(4) 1. 0
+O4 O2- 1 e 0 0.5 0 . 1. 0
+O5 O2- 1 b 0.5 0 0 . 0.044(8) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O4 O2- 2.8(2) 0.6(1) 1.9(2) 0 0 0
+O5 O2- 0.6(1) 2.8(2) 1.9(2) 0 0 0
+#End of TTdata_78599-ICSD

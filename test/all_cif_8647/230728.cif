@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_230728-ICSD
+_database_code_ICSD 230728
+_audit_creation_date 2019-08-01
+_chemical_name_systematic 'Disodium dicobalt(II) tellurate(VI)'
+_chemical_formula_structural 'Na2 Co2 Te O6'
+_chemical_formula_sum 'Co2 Na2 O6 Te1'
+_exptl_crystal_density_diffrn 4.75
+_publ_section_title
+
+;
+Zigzag antiferromagnetic ground state with anisotropic correlation lengths in
+the quasi-two-dimensional honeycomb lattice compound Na2Co2TeO
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B' 2017 95 094424-1 094424-12 PRBHB7
+loop_
+_publ_author_name
+'Bera, A.K.'
+'Yusuf, S.M.'
+'Kumar, Amit'
+'Ritter, C.'
+_cell_length_a 5.2770(2)
+_cell_length_b 5.2770(2)
+_cell_length_c 11.2231(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 270.66
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 2 2'
+_symmetry_Int_Tables_number 182
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 '-x, -x+y, -z'
+8 'x-y, -y, -z'
+9 'y, x, -z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Te6+ 6
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 b 0 0 0.25 0.32(6) 1. 0
+Co2 Co2+ 2 d 0.6667 0.3333 0.25 0.68(10) 1. 0
+Te1 Te6+ 2 c 0.3333 0.6667 0.25 0.68(10) 1. 0
+O1 O2- 12 i 0.6446(5) -0.0260(4) 0.3438(2) 0.98(2) 1. 0
+Na1 Na1+ 12 i 0.698(3) 0.056(2) 0.003(2) 1.13(6) 0.225(2) 0
+Na2 Na1+ 12 i 0.361(9) 0.620(8) -0.024(2) 1.13(6) 0.085(3) 0
+Na3 Na1+ 2 a 0 0 0 1.13(6) 0.153(3) 0
+#End of TTdata_230728-ICSD

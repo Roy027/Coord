@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_49624-ICSD
+_database_code_ICSD 49624
+_audit_creation_date 1984-12-31
+_chemical_name_systematic 'Sodium trioxostannate(II)'
+_chemical_formula_structural 'Na4 (Sn O3)'
+_chemical_formula_sum 'Na4 O3 Sn1'
+_exptl_crystal_density_diffrn 3.2
+_publ_section_title
+'Na4 (Sn O3) - das erste Oxostannat(II) mit "Inselstruktur".'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1984
+515 114 126 ZAACAB
+loop_
+_publ_author_name
+'Nowitzki, B.'
+'Hoppe, R.'
+_cell_length_a 5.8277(11)
+_cell_length_b 16.6744(24)
+_cell_length_c 5.8942(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.187(13)
+_cell_angle_gamma 90.
+_cell_volume 537.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn2+ 4 a 0.0094(18) 0.8567 0.7479(18) . 1. 0
+Na1 Na1+ 4 a 0.0177(27) 0.7458(3) 0.2415(28) . 1. 0
+Na2 Na1+ 4 a 0.4838(22) 0.0331(3) 0.2505(25) . 1. 0
+Na3 Na1+ 4 a 0.5210(26) 0.4568(3) 0.2784(23) . 1. 0
+Na4 Na1+ 4 a 0.9518(21) 0.3583(4) 0.3095(21) . 1. 0
+O1 O2- 4 a 0.7423(24) 0.4333(9) 0.9877(24) 0.0059(20) 1. 0
+O2 O2- 4 a 0.2632(25) 0.4363(10) 0.5455(24) . 1. 0
+O3 O2- 4 a 0.7048(24) 0.3385(6) 0.5315(24) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn2+ 0.0037(3) 0.0104(4) 0.0068(3) -.0049(7) 0.0015(2) -.0004(9)
+Na1 Na1+ 0.0136(23) 0.0299(25) 0.0208(24) -.0035(36) 0.0063(18) 0.0034(37)
+Na2 Na1+ 0.0100(32) 0.0174(20) 0.0134(19) -.0026(24) 0.0081(24) -.0032(28)
+Na3 Na1+ 0.0167(24) 0.0131(22) 0.0209(37) -.0053(28) -.0181(27) 0.0049(25)
+Na4 Na1+ 0.0086(21) 0.0241(27) 0.0133(22) -.0066(20) 0.0027(19) -.0019(23)
+O2 O2- 0.0162(36) 0.0305(38) 0.0035(33) 0.0053(32) 0.0032(29) -.0007(34)
+O3 O2- 0.0113(31) 0.0249(35) 0.0117(31) 0.007(3) 0.0025(28) -.0022(30)
+#End of TTdata_49624-ICSD

@@ -1,0 +1,71 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_246301-ICSD
+_database_code_ICSD 246301
+_audit_creation_date 2009-08-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Disodium oxalate monoperhydrate'
+_chemical_formula_structural 'Na2 (C2 O4) (H2 O2)'
+_chemical_formula_sum 'C2 H2 Na2 O6'
+_exptl_crystal_density_diffrn 2.17
+_cell_measurement_temperature 123.
+_publ_section_title
+'Neutron diffraction study of sodium oxalate monoperhydrate at 123 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1989 45 1724 1727 ACSCEE
+loop_
+_publ_author_name
+'Pedersen, B.F.'
+'Kvick, A.'
+_cell_length_a 3.521(2)
+_cell_length_b 8.206(3)
+_cell_length_c 8.950(3)
+_cell_angle_alpha 90
+_cell_angle_beta 96.63(3)
+_cell_angle_gamma 90
+_cell_volume 256.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0351
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+O1- -1
+C3+ 3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.5033(1) 0.37629(7) 0.21952(7) 0.0074 1. 0
+O1 O2- 4 e 0.0302(1) 0.32065(4) 0.39566(4) 0.0083 1. 0
+O2 O2- 4 e 0.3014(1) 0.11722(4) 0.12761(4) 0.0086 1. 0
+O3 O1- 4 e 0.0307(1) 0.00639(4) 0.42057(4) 0.0089 1. 0
+C1 C3+ 4 e 0.0965(1) 0.41416(3) 0.50832(3) 0.0058 1. 0
+H1 H1+ 4 e 0.0476(2) 0.12863(9) 0.41065(9) 0.0176 1. 0
+#End of TTdata_246301-ICSD

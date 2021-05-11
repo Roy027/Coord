@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73835-ICSD
+_database_code_ICSD 73835
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Hexalithium dizirconium oxide'
+_chemical_formula_structural 'Li6 Zr2 O7'
+_chemical_formula_sum 'Li6 O7 Zr2'
+_chemical_name_structure_type Li6Zr2O7
+_exptl_crystal_density_diffrn 3.55
+_publ_section_title
+
+;
+A single-crystal X-ray diffraction study of lithium zirconate, Li6Zr2O7, a
+solid-state ionic conductor
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1993 104 391 396 JSSCBI
+loop_
+_publ_author_name
+'Zocchi, M.'
+'Natali Sora, I.'
+'Depero, L.E.'
+'Roth, R.S.'
+_cell_length_a 10.440(4)
+_cell_length_b 5.991(1)
+_cell_length_c 10.204(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.25(3)
+_cell_angle_gamma 90.
+_cell_volume 628.03
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 8 f 0.18351(1) 0.87839(3) 0.36469(1) . 1. 0
+Li1 Li1+ 8 f 0.2064(5) 0.3682(8) 0.3946(5) 0.88(5) 1. 0
+Li2 Li1+ 8 f 0.4349(6) 0.1410(9) 0.4163(6) 1.39(8) 1. 0
+Li3 Li1+ 8 f 0.0654(5) 0.0973(8) 0.1019(5) 0.84(6) 1. 0
+O1 O2- 8 f 0.2499(2) 0.1119(2) 0.2453(2) . 1. 0
+O2 O2- 8 f 0.1333(1) 0.6336(2) 0.5018(1) . 1. 0
+O3 O2- 8 f 0.1218(1) 0.1227(2) 0.4775(1) . 1. 0
+O4 O2- 4 e 0 0.8514(4) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Zr1 Zr4+ 0.087(3) 0.277(3) 0.306(3) 0.017(3) 0.030(2) 0.012(4)
+O1 O2- 0.93(3) 0.53(3) 0.75(3) -.20(2) 0.34(2) 0.12(2)
+O2 O2- 0.22(2) 0.48(3) 0.58(2) -.06(2) 0.04(2) 0.03(3)
+O3 O2- 0.34(2) 0.49(2) 0.65(2) 0.03(3) 0.17(2) -.05(3)
+O4 O2- 0.29(4) 1.26(6) 0.92(5) 0 -.28(4) 0
+#End of TTdata_73835-ICSD

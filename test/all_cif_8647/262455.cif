@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262455-ICSD
+_database_code_ICSD 262455
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Trisodium neptunyl(V) bis(selenate) dihydrate'
+_chemical_formula_structural 'Na3 (Np O2) (Se O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Na3 Np1 O12 Se2'
+_exptl_crystal_density_diffrn 3.56
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Three new sodium neptunyl(V) selenate hydrates: structures, Raman
+spectroscopy, and magnetism
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 3220 3230 INOCAJ
+loop_
+_publ_author_name
+'Jin Gengbang'
+'Skanthakumar, S.'
+'Soderholm, L.'
+_cell_length_a 7.8061(7)
+_cell_length_b 7.1101(6)
+_cell_length_c 11.0967(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.1590(10)
+_cell_angle_gamma 90.
+_cell_volume 615.76
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0282
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Np5+ 5
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0.5733(14) 0.9388(16) 0.4231(9) 0.020(3) 0.290(11) 0
+Na2 Na1+ 4 f 0.6551(15) 0.0768(17) 0.4746(10) 0.007(3) 0.215(10) 0
+Na3 Na1+ 2 e 0.9891(5) 0.25 0.7187(3) 0.0151(8) 1 0
+Na4 Na1+ 2 a 0. 0. 0. 0.0176(9) 1 0
+Np1 Np5+ 2 e 0.36095(4) 0.25 0.19013(3) 0.00482(13) 1 0
+Se1 Se6+ 2 e 0.08752(12) 0.25 0.40443(8) 0.0118(2) 1 0
+Se2 Se6+ 2 e 0.63332(12) 0.25 0.90581(8) 0.0073(2) 1 0
+O1 O2- 4 f 0.1681(7) 0.0179(8) 0.8157(5) 0.0170(11) 1 0
+O2 O2- 4 f 0.1739(6) 0.0678(8) 0.3349(4) 0.0142(10) 1 0
+O3 O2- 4 f 0.5410(16) 0.0559(17) 0.8633(12) 0.013(2) 0.5 0
+O4 O2- 4 f 0.5653(15) 0.0872(17) 0.8115(11) 0.009(2) 0.5 0
+O5 O2- 4 f 0.5806(12) 0.1920(13) 0.0419(8) 0.012(2) 0.5 0
+O6 O2- 2 e 0.1458(10) 0.25 0.5460(7) 0.0239(19) 1 0
+O7 O2- 2 e 0.1882(9) 0.25 0.0752(7) 0.0146(15) 1 0
+O8 O2- 2 e 0.5312(9) 0.25 0.3040(6) 0.0127(14) 1 0
+O9 O2- 2 e 0.8403(9) 0.25 0.9004(6) 0.0131(14) 1 0
+O10 O2- 2 e 0.8802(9) 0.25 0.3840(6) 0.0166(15) 1 0
+H1 H1+ 4 f 0.165(11) -0.064(9) 0.762(6) 0.02(2) 1 0
+H2 H1+ 4 f 0.265(5) 0.035(14) 0.843(7) 0.02(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na3 Na1+ 0.0097(18) 0.028(2) 0.0077(18) 0. -0.0009(14) 0.
+Na4 Na1+ 0.017(2) 0.016(2) 0.019(2) -0.0029(17) -0.0067(16) 0.0050(17)
+Np1 Np5+ 0.00474(19) 0.00552(19) 0.00419(19) 0. -0.00033(11) 0.
+Se1 Se6+ 0.0084(4) 0.0196(5) 0.0076(4) 0. 0.0025(3) 0.
+Se2 Se6+ 0.0077(4) 0.0052(4) 0.0091(4) 0. 0.0034(3) 0.
+O1 O2- 0.012(2) 0.016(3) 0.023(3) 0.000(2) 0.000(2) -0.005(2)
+O2 O2- 0.013(2) 0.015(2) 0.015(2) 0.000(2) 0.0055(18) 0.002(2)
+O3 O2- 0.016(6) 0.004(5) 0.019(7) 0.001(4) 0.004(5) -0.002(5)
+O4 O2- 0.011(5) 0.006(5) 0.011(6) 0.000(4) -0.002(5) -0.001(5)
+O5 O2- 0.013(4) 0.011(5) 0.012(4) -0.001(3) 0.006(3) 0.001(3)
+O6 O2- 0.016(4) 0.047(5) 0.009(3) 0. 0.004(3) 0.
+O7 O2- 0.009(3) 0.019(4) 0.015(3) 0. -0.001(3) 0.
+O8 O2- 0.014(3) 0.010(3) 0.013(3) 0. -0.005(3) 0.
+O9 O2- 0.007(3) 0.017(4) 0.016(3) 0. 0.006(3) 0.
+O10 O2- 0.007(3) 0.030(4) 0.013(3) 0. -0.001(3) 0.
+#End of TTdata_262455-ICSD

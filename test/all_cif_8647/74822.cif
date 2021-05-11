@@ -1,0 +1,114 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74822-ICSD
+_database_code_ICSD 74822
+_audit_creation_date 1995-10-17
+_audit_update_record 2018-02-01
+_chemical_name_systematic 'Lithium tetrabarium heptanitridodimolybdate'
+_chemical_formula_structural 'Li Ba4 (Mo2 N7)'
+_chemical_formula_sum 'Ba4 Li1 Mo2 N7'
+_chemical_name_structure_type LiBa4Mo2N7
+_exptl_crystal_density_diffrn 5.49
+_publ_section_title
+
+;
+Li Ba4 [Mo2 N7] und Li Ba4 [W2 N7]: Neue Nitridomolybdate/wolframate(VI) mit
+dimeren Tetraeder-Anionen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B. Anorganische Chemie, Organische
+Chemie (2,1947-32,1977)
+; 1994 49 5 8 ZENBAX
+loop_
+_publ_author_name
+'Hoehn, Peter'
+'Kniep, Ruediger'
+'Maier, Joachim'
+_cell_length_a 15.522(3)
+_cell_length_b 6.422(1)
+_cell_length_c 10.399(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.23(2)
+_cell_angle_gamma 90.
+_cell_volume 1023.17
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 2/n 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, y, -z+1/2'
+3 '-x, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Mo6+ 6
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 g 0.92410(4) 0.7734(1) 0.07885(6) . 1. 0
+Ba2 Ba2+ 4 g 0.98531(5) 0.2809(1) 0.24441(7) . 1. 0
+Ba3 Ba2+ 4 g 0.12068(4) 0.8446(1) 0.42386(6) . 1. 0
+Ba4 Ba2+ 2 e 0.75 0.6960(2) 0.75 . 1. 0
+Ba5 Ba2+ 2 f 0.75 0.9898(2) 0.25 . 1. 0
+Mo1 Mo6+ 4 g 0.90086(6) 0.6686(1) 0.42116(9) . 1. 0
+Mo2 Mo6+ 4 g 0.15327(6) 0.7729(1) 0.10715(9) . 1. 0
+N1 N3- 4 g 0.0822(6) 0.989(2) 0.1406(9) . 1. 0
+N2 N3- 4 g 0.5675(6) 0.921(2) 0.141(1) . 1. 0
+N3 N3- 2 e 0.25 0.756(3) 0.25 . 1. 0
+N4 N3- 4 g 0.5899(7) 0.471(2) 0.610(1) . 1. 0
+N5 N3- 4 g 0.8486(6) 0.524(2) 0.280(1) . 1. 0
+N6 N3- 4 g 0.6899(7) 0.183(2) 0.451(1) . 1. 0
+N7 N3- 2 b 0.5 0.5 0 . 1. 0
+N8 N3- 4 g 0.675(1) 0.717(2) 0.968(2) . 1. 0
+Li1 Li1+ 4 g 0.763(1) 0.461(4) 0.125(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0147(4) 0.0125(3) 0.0086(4) -.0005(3) 0.0010(3) 0.0010(2)
+Ba2 Ba2+ 0.0196(4) 0.0105(3) 0.0153(4) 0.0016(3) 0.0073(3) -.0004(3)
+Ba3 Ba2+ 0.0110(3) 0.0137(3) 0.0092(3) 0.0008(2) 0.0001(3) -.0003(2)
+Ba4 Ba2+ 0.0144(5) 0.0133(4) 0.0099(5) 0 0.0022(4) 0
+Ba5 Ba2+ 0.0102(4) 0.0230(5) 0.0098(5) 0 -.0012(3) 0
+Mo1 Mo6+ 0.0115(4) 0.0082(4) 0.0061(4) 0.0011(3) 0.0001(3) 0.0003(3)
+Mo2 Mo6+ 0.0072(4) 0.0085(4) 0.0055(4) 0.0006(3) -.0006(3) -.0003(3)
+N1 N3- 0.0150(45) 0.0173(45) 0.0099(42) 0.0052(39) 0.0005(36) -.0088(37)
+N2 N3- 0.0153(44) 0.0122(43) 0.0143(45) -.0012(39) -.0043(36) -.0034(37)
+N3 N3- 0.0132(66) 0.0333(80) 0.0064(63) 0 -.0038(51) 0
+N4 N3- 0.0188(49) 0.0180(47) 0.0161(49) -.0045(41) -.0038(39) -.007(4)
+N5 N3- 0.0074(44) 0.0327(58) 0.0175(51) 0.0034(42) 0.0005(38) -.0089(44)
+N6 N3- 0.0189(49) 0.0200(47) 0.0114(47) -.0041(42) 0.0022(39) -.0003(38)
+N7 N3- 0.0306(91) 0.0184(76) 0.055(12) 0.0073(69) -.0359(84) -.0226(77)
+N8 N3- 0.107(15) 0.0170(59) 0.058(10) -.0039(74) 0.064(11) -.0092(62)
+Li1 Li1+ 0.0089(87) 0.027(11) 0.030(12) 0.0009(86) 0.0032(82) 0.0018(97)
+#End of TTdata_74822-ICSD

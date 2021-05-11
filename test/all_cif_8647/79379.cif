@@ -1,0 +1,113 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79379-ICSD
+_database_code_ICSD 79379
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Dilithium dicalcium catena-pentasilicate'
+_chemical_formula_structural 'Li2 Ca2 (Si5 O13)'
+_chemical_formula_sum 'Ca2 Li2 O13 Si5'
+_exptl_crystal_density_diffrn 2.75
+_publ_section_title 'Crystal structure determination of Li2 Ca2 Si5 O13'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 114 512 515 JSSCBI
+loop_
+_publ_author_name
+'Villafuerte Castrejon, M.E.'
+'Dago, A.'
+'Caldino, U.'
+'Pomes, R.'
+_cell_length_a 7.495(1)
+_cell_length_b 7.749(2)
+_cell_length_c 10.191(2)
+_cell_angle_alpha 83.28(2)
+_cell_angle_beta 68.87(2)
+_cell_angle_gamma 75.87(2)
+_cell_volume 535.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ca2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 i 0.8245(17) -.0787(16) 0.1233(14) . 1. 0
+Li2 Li1+ 2 i 0.1651(16) 0.4095(14) 0.7473(12) . 1. 0
+Ca1 Ca2+ 2 i 0.4529(2) 0.8562(2) 0.3905(1) . 1. 0
+Ca2 Ca2+ 2 i 0.0242(2) 0.1673(2) 0.6058(1) . 1. 0
+Si1 Si4+ 2 i 0.1462(3) 0.2292(2) 0.2637(2) . 1. 0
+Si2 Si4+ 2 i 0.3153(3) 0.4502(2) 0.4080(2) . 1. 0
+Si3 Si4+ 2 i 0.7344(3) 0.2322(2) 0.2655(2) . 1. 0
+Si4 Si4+ 2 i 0.7817(3) 0.3071(2) -.0381(2) . 1. 0
+Si5 Si4+ 2 i 0.6356(3) 0.6990(2) 0.0387(2) . 1. 0
+O1 O2- 2 i 0.2538(6) 0.6607(5) 0.4244(4) . 1. 0
+O2 O2- 2 i 0.2220(6) 0.4978(5) -.0068(4) . 1. 0
+O3 O2- 2 i 0.7008(6) 0.0585(5) 0.3629(4) . 1. 0
+O4 O2- 2 i 0.2774(6) 0.3291(6) 0.5504(4) . 1. 0
+O5 O2- 2 i 0.7800(6) 0.1761(6) 0.1034(4) . 1. 0
+O6 O2- 2 i 0.5506(6) 0.3986(6) 0.3108(4) . 1. 0
+O7 O2- 2 i 0.6535(6) 0.7748(6) 0.1700(4) . 1. 0
+O8 O2- 2 i 0.0292(6) 0.7668(6) 0.1661(4) . 1. 0
+O9 O2- 2 i 0.7102(6) 0.8216(6) 0.8966(5) . 1. 0
+O10 O2- 2 i 0.1956(6) 0.3964(6) 0.3163(5) . 1. 0
+O11 O2- 2 i 0.1595(6) 0.0599(6) 0.3674(5) . 1. 0
+O12 O2- 2 i -.0758(6) 0.3067(5) 0.2575(5) . 1. 0
+O13 O2- 2 i 0.4142(6) 0.6873(6) 0.0680(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.015(7) 0.020(7) 0.043(8) -.009(5) -.013(6) -.001(6)
+Li2 Li1+ 0.017(6) 0.013(6) 0.020(7) -.004(5) -.002(5) -.002(5)
+Ca1 Ca2+ 0.008(1) 0.014(1) 0.011(1) -.003(1) -.002(1) -.002(1)
+Ca2 Ca2+ 0.008(1) 0.012(1) 0.012(1) -.003(1) -.003(1) -.001(1)
+Si1 Si4+ 0.007(1) 0.012(1) 0.009(1) -.002(1) -.003(1) -.001(1)
+Si2 Si4+ 0.007(1) 0.009(1) 0.011(1) -.003(1) -.003(1) -.001(1)
+Si3 Si4+ 0.005(1) 0.009(1) 0.009(1) -.001(1) -.002(1) -.001(1)
+Si4 Si4+ 0.005(1) 0.011(1) 0.008(1) -.002(1) -.001(1) -.001(1)
+Si5 Si4+ 0.007(1) 0.010(1) 0.010(1) -.002(1) -.002(1) -.002(1)
+O1 O2- 0.013(1) 0.010(2) 0.009(2) -.001(2) -.003(2) -.001(2)
+O2 O2- 0.010(2) 0.008(2) 0.013(2) -.001(2) -.006(2) -.001(2)
+O3 O2- 0.011(2) 0.008(2) 0.012(3) -.003(2) -.002(2) -.001(2)
+O4 O2- 0.010(2) 0.014(2) 0.012(3) -.004(2) -.005(2) -.003(2)
+O5 O2- 0.016(2) 0.015(3) 0.010(3) -.002(2) -.006(2) -.002(2)
+O6 O2- 0.004(2) 0.009(2) 0.018(3) -.001(2) 0.002(2) -.003(2)
+O7 O2- 0.011(2) 0.014(2) 0.012(3) -.006(2) -.005(2) -.001(2)
+O8 O2- 0.006(2) 0.018(3) 0.009(3) -.001(2) 0.002(2) -.006(2)
+O9 O2- 0.014(2) 0.009(2) 0.011(3) -.001(2) 0.001(2) 0.002(2)
+O10 O2- 0.014(2) 0.013(2) 0.017(3) -.004(2) -.008(2) 0.001(2)
+O11 O2- 0.011(2) 0.010(2) 0.014(3) -.003(2) -.003(2) 0.002(2)
+O12 O2- 0.008(2) 0.012(2) 0.015(3) -.001(2) -.004(2) -.001(2)
+O13 O2- 0.010(2) 0.019(3) 0.016(3) 0.015(2) -.003(2) -.001(2)
+#End of TTdata_79379-ICSD

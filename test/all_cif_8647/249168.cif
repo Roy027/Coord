@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249168-ICSD
+_database_code_ICSD 249168
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Rubidium sodiotricadmate'
+_chemical_formula_structural 'Rb (Na Cd3 O4)'
+_chemical_formula_sum 'Cd3 Na1 O4 Rb1'
+_chemical_name_structure_type Ti5Te4
+_exptl_crystal_density_diffrn 5.71
+_publ_section_title 'Rubidium sodiotricadmate, Rb [Na Cd3 O4]'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2006 62
+i204 i206 ACSEBH
+loop_
+_publ_author_name
+'Kerp, O.'
+'Moeller, A.'
+_cell_length_a 8.957(2)
+_cell_length_b 8.957(2)
+_cell_length_c 3.6939(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 296.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 4/m'
+_symmetry_Int_Tables_number 87
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'y, -x, z'
+6 '-y, x, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-y+1/2, x+1/2, -z+1/2'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+1/2, -x+1/2, z+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Cd2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 a 0. 0. 0. 0.0241(6) 1 0
+Cd1 Cd2+ 8 h 0.81832(12) 0.63076(12) 0. 0.0238(5) 0.75 0
+Na1 Na1+ 8 h 0.81832(12) 0.63076(12) 0. 0.0238(5) 0.25 0
+O1 O2- 8 h 0.7648(11) 0.3999(9) 0. 0.0303(18) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0255(8) 0.0255(8) 0.0213(10) 0. 0. 0.
+Cd1 Cd2+ 0.0331(7) 0.0192(7) 0.0192(6) -0.0015(4) 0. 0.
+Na1 Na1+ 0.0331(7) 0.0192(7) 0.0192(6) -0.0015(4) 0. 0.
+O1 O2- 0.042(5) 0.018(4) 0.030(4) 0.001(3) 0. 0.
+#End of TTdata_249168-ICSD

@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89991-ICSD
+_database_code_ICSD 89991
+_audit_creation_date 2002-04-01
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Trisodium diiron(III) tris(phosphate(V)) - gamma'
+_chemical_formula_structural 'Na3 Fe2 (P O4)3'
+_chemical_formula_sum 'Fe2 Na3 O12 P3'
+_chemical_name_structure_type 'Nasicon high'
+_exptl_crystal_density_diffrn 3.22
+_cell_measurement_temperature 473.
+_publ_section_title
+
+;
+A powder neutron diffraction investigation of the two rhombohedral NASICON
+analogues: gamma-(Na3 Fe2 (P O4)3) and Li3 Fe2 (P O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2000 12 525 532 CMATEX
+loop_
+_publ_author_name
+'Masquelier, C.'
+'Wurm, C.'
+'Rodriguez Carvajal, J.'
+'Gaubicher, J.'
+'Nazar, L.'
+_cell_length_a 8.7270(2)
+_cell_length_b 8.7270(2)
+_cell_length_c 21.80779(50)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1438.38
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 b 0 0 0 . 0.85(3) 0
+Na2 Na1+ 18 e 0.6348(8) 0 0.25 . 0.72(3) 0
+Fe1 Fe3+ 12 c 0 0 0.14874(5) 0.85(2) 1. 0
+P1 P5+ 18 e 0.2902(2) 0 0.25 1.14(3) 1. 0
+O1 O2- 36 f 0.1793(2) -.0267(2) 0.19370(7) 2.34(3) 1. 0
+O2 O2- 36 f 0.1911(2) 0.1685(2) 0.08892(5) 1.53(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.108(11) 0.108(11) 0.00003(18) 0.108(11) 0 0
+Na2 Na1+ 0.0146(13) 0.0098(12) 0.0063(3) 0.0098(12) 0.0019(5) 0.0039(5)
+#End of TTdata_89991-ICSD

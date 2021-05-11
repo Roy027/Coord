@@ -1,0 +1,101 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281344-ICSD
+_database_code_ICSD 281344
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Lithium niobium sulfide   (0.7/1/2)'
+_chemical_formula_structural 'Li0.7 Nb S2'
+_chemical_formula_sum 'Li0.7 Nb1 S2'
+_chemical_name_structure_type FeNb2S4
+_exptl_crystal_density_diffrn 4.27
+_cell_measurement_temperature 150.
+_publ_section_title
+'Li0.7 Nb S2: structural effects of increased alkali metal content'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2003 59
+i112 i115 ACSEBH
+loop_
+_publ_author_name
+'Salyer, P.A.'
+'Barker, M.G.'
+'Gregory, D.H.'
+'Jones, M.O.'
+'Wilson, C.'
+_cell_length_a 3.3572(5)
+_cell_length_b 3.3572(5)
+_cell_length_c 12.912(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 126.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.016
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb3+ 3.3
+S2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb3+ 2 b 0 0 0.25 0.0050(3) 1. 0
+S1 S2- 4 f 0.3333 0.6667 0.12828(10) 0.0061(4) 1. 0
+Li1 Li1+ 2 a 0 0 0 0.012(8) 0.70(9) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb3+ 0.0041(3) 0.0041(3) 0.0068(4) 0.00207(16) 0 0
+S1 S2- 0.0052(5) 0.0052(5) 0.0077(6) 0.0026(2) 0 0
+Li1 Li1+ 0.015(10) 0.015(10) 0.006(11) 0.007(5) 0 0
+#End of TTdata_281344-ICSD

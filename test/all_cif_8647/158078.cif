@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_158078-ICSD
+_database_code_ICSD 158078
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Sodium calcium iron catena-disilicate (0.5/0.5/1/1)'
+_chemical_formula_structural '(Na0.5 Ca0.5) Fe (Si2 O6)'
+_chemical_formula_sum 'Ca0.5 Fe1 Na0.5 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Unnamed_Clinopyroxene
+_exptl_crystal_density_diffrn 3.62
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis and structural properties of clinopyroxenes of the hedenbergite Ca
+Fe Si2 O6 - aegirine Na Fe Si2 O6 solid-solution series
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2000 12 105 120 EJMIER
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Amthauer, G.'
+'Lottermoser, W.'
+'Treutmann, W.'
+_cell_length_a 9.7441(7)
+_cell_length_b 8.9103(7)
+_cell_length_c 5.2791(5)
+_cell_angle_alpha 90
+_cell_angle_beta 106.225(6)
+_cell_angle_gamma 90
+_cell_volume 440.09
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+Fe2+ 2.5
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0. 0.2984(10) 0.25 0.66 0.5 0
+Ca1 Ca2+ 4 e 0. 0.2984(10) 0.25 0.66 0.5 0
+Fe1 Fe2+ 4 e 0. 0.9011(6) 0.25 0.44 1. 0
+Si1 Si4+ 8 f 0.2894(6) 0.0893(10) 0.2345(12) 0.39 1. 0
+O1 O2- 8 f 0.1150(11) 0.0835(16) 0.1472(26) 0.58 1. 0
+O2 O2- 8 f 0.3611(12) 0.2508(13) 0.3048(30) 0.77 1. 0
+O3 O2- 8 f 0.3446(15) 0.0156(11) 0.9968(37) 0.65 1. 0
+#End of TTdata_158078-ICSD

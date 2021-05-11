@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_259398-ICSD
+_database_code_ICSD 259398
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Dirubidium sodium trititanium(III) dodecafluoride'
+_chemical_formula_structural 'Rb2 Na Ti3 F12'
+_chemical_formula_sum 'F12 Na1 Rb2 Ti3'
+_exptl_crystal_density_diffrn 3.15
+_publ_section_title
+
+;
+Various disordered ground states and 1/3 magnetization-plateau-like behavior
+in the S = 1/2 Ti3+ kagome lattice antiferromagnets Rb2NaTi3F12, Cs2NaTi3F12,
+and Cs2KTi3F12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B' 2016 94 104432-1 104432-10 PRBHB7
+loop_
+_publ_author_name
+'Goto, Masato'
+'Ueda, Hiroaki'
+'Michioka, Chishiro'
+'Matsuo, Akira'
+'Kindo, Koichi'
+'Yoshimura, Kazuyoshi'
+_cell_length_a 13.0552(8)
+_cell_length_b 7.5979(7)
+_cell_length_c 7.4359(5)
+_cell_angle_alpha 90
+_cell_angle_beta 126.084(1)
+_cell_angle_gamma 90
+_cell_volume 596.08
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0343
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Na1+ 1
+Ti3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 e 0.60819(5) 0.75 0.59483(9) 0.0301(2) 1. 0
+Rb2 Rb1+ 2 e 0.14016(5) 0.25 0.61864(9) 0.0330(2) 1. 0
+Na1 Na1+ 2 e 0.74201(18) 0.25 0.5371(3) 0.0242(4) 1. 0
+Ti1 Ti3+ 2 a 0 0 0 0.0135(2) 1. 0
+Ti2 Ti3+ 2 b 0.5 0 0 0.0130(2) 1. 0
+Ti3 Ti3+ 2 e 0.78491(7) 0.25 0.09809(13) 0.0141(2) 1. 0
+F1 F1- 2 e 0.9898(3) 0.25 0.9057(5) 0.0266(6) 1. 0
+F2 F1- 4 f 0.5564(2) 0.4427(2) 0.2984(3) 0.0281(5) 1. 0
+F3 F1- 4 f 0.09335(19) 0.9387(2) 0.8621(4) 0.0250(5) 1. 0
+F4 F1- 4 f 0.16033(18) 0.0405(3) 0.2876(3) 0.0262(5) 1. 0
+F5 F1- 2 e 0.5610(3) 0.75 0.1084(5) 0.0210(6) 1. 0
+F6 F1- 4 f 0.32286(19) 0.5527(3) 0.9110(4) 0.0321(5) 1. 0
+F7 F1- 2 e 0.1262(3) 0.75 0.58185 0.0331(7) 1. 0
+F8 F1- 2 e 0.3155(3) 0.75 0.2215(5) 0.0298(7) 1. 0
+#End of TTdata_259398-ICSD

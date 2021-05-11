@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281609-ICSD
+_database_code_ICSD 281609
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Sodium titanium(III) disilicate'
+_chemical_formula_structural 'Na Ti (Si2 O6)'
+_chemical_formula_sum 'Na1 O6 Si2 Ti1'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Clinopyroxene
+_exptl_crystal_density_diffrn 3.39
+_cell_measurement_temperature 200.
+_publ_section_title
+
+;
+Single-crystal structure refinement of Na Ti Si2 O6 clinopyroxene at low
+temperatures (298 > T > 100 K)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2003 59 730 746
+ASBSDK
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Ohashi, H.'
+'Roth, G.'
+_cell_length_a 9.708(3)
+_cell_length_b 8.8718(15)
+_cell_length_c 5.3014(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.83(2)
+_cell_angle_gamma 90.
+_cell_volume 437.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0214
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3017(1) 0.25 0.01105(17) 1. 0
+Ti1 Ti3+ 4 e 0 0.90245(4) 0.25 0.00370(8) 1. 0
+Si1 Si4+ 8 f 0.29207(3) 0.08931(4) 0.24111(6) 0.00329(9) 1. 0
+O1 O2- 8 f 0.11694(9) 0.07936(11) 0.14617(17) 0.00481(17) 1. 0
+O2 O2- 8 f 0.36101(9) 0.25304(12) 0.30414(18) 0.00680(19) 1. 0
+O3 O2- 8 f 0.35206(9) 0.00826(11) 0.01557(17) 0.00578(17) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0138(3) 0.0087(5) 0.0084(3) 0 -.0004(3) 0
+Ti1 Ti3+ 0.00312(13) 0.00362(17) 0.00415(14) 0 0.00071(10) 0
+Si1 Si4+ 0.00289(14) 0.00448(19) 0.00262(15) -.00030(11) 0.00099(11) -.00002(10)
+O1 O2- 0.0035(3) 0.0068(5) 0.0040(4) -.0001(3) 0.0009(3) 0.0004(3)
+O2 O2- 0.0067(4) 0.0066(5) 0.0072(4) -.0021(3) 0.0022(3) -.0004(3)
+O3 O2- 0.0051(3) 0.0082(5) 0.0043(3) -.0001(3) 0.0017(3) -.0020(3)
+#End of TTdata_281609-ICSD

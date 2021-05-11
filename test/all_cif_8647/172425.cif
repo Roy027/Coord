@@ -1,0 +1,132 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_172425-ICSD
+_database_code_ICSD 172425
+_audit_creation_date 2007-04-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic
+'Sodium aquatetrakis(mue-formato)  formatodirhodium(II) hydrate'
+_chemical_formula_structural 'Na (Rh2 (O O C H)4 (O O C H) (H2 O)) (H2 O)'
+_chemical_formula_sum 'C5 H9 Na1 O12 Rh2'
+_exptl_crystal_density_diffrn 2.64
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Synthesis and structural characterization of new rhodium formato complexes
+containing [Rh2](4+) and [Rh4](6+) cores
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganica Chimica Acta' 2003 350 609 616 ICHAA3
+loop_
+_publ_author_name
+'Pruchnik, F.P.'
+'Jutarska, A.'
+'Ciunik, Z.'
+'Pruchnik, M.'
+_cell_length_a 6.6700(10)
+_cell_length_b 10.954(2)
+_cell_length_c 16.751(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.55(3)
+_cell_angle_gamma 90.
+_cell_volume 1222.67
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0427
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rh2+ 2
+Na1+ 1
+O2- -2
+C4+ 4
+H1- -1
+H1+ 1
+H1- -1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rh1 Rh2+ 4 e 0.17865(4) 0.81318(2) 0.884007(15) 0.00824(5) 1 0
+Rh2 Rh2+ 4 e 0.06029(4) 0.92590(2) 0.769187(15) 0.00809(5) 1 0
+Na1 Na1+ 4 e 0.18882(19) 0.49105(12) 0.90807(8) 0.0124(3) 1 0
+O1 O2- 4 e 0.4329(3) 0.7751(2) 0.82406(14) 0.0105(5) 1 0
+O2 O2- 4 e 0.3183(3) 0.8824(2) 0.71668(14) 0.0112(5) 1 0
+O3 O2- 4 e -0.0817(3) 0.8555(2) 0.93648(14) 0.0120(5) 1 0
+O4 O2- 4 e -0.1901(3) 0.9668(2) 0.82903(14) 0.0128(5) 1 0
+O5 O2- 4 e 0.2750(3) 0.6846(2) 0.98378(14) 0.0132(5) 1 0
+O6 O2- 4 e 0.1436(3) 0.5884(2) 1.08632(15) 0.0166(6) 1 0
+O7 O2- 4 e -0.0659(3) 0.7671(2) 0.72679(14) 0.0115(5) 1 0
+O8 O2- 4 e 0.1908(3) 1.0773(2) 0.81771(14) 0.0122(5) 1 0
+O9 O2- 4 e 0.0476(3) 0.6617(2) 0.83524(14) 0.0118(5) 1 0
+O10 O2- 4 e 0.3052(3) 0.9710(2) 0.92676(14) 0.0125(5) 1 0
+O11 O2- 4 e -0.0221(3) 1.0267(2) 0.65119(14) 0.0114(5) 1 0
+O12 O2- 4 e 0.3109(4) 0.3365(2) 0.98840(16) 0.0183(6) 1 0
+C1 C4+ 4 e 0.4454(4) 0.8157(3) 0.7538(2) 0.0108(7) 1 0
+C2 C4+ 4 e -0.2056(5) 0.9245(3) 0.8981(2) 0.0133(7) 1 0
+C3 C4+ 4 e -0.0442(5) 0.6714(3) 0.7678(2) 0.0129(7) 1 0
+C4 C4+ 4 e 0.2829(5) 1.0661(3) 0.8846(2) 0.0131(7) 1 0
+C5 C4+ 4 e 0.1763(5) 0.6811(3) 1.0469(2) 0.0128(7) 1 0
+H1 H1- 4 e 0.563(5) 0.795(3) 0.729(2) 0.001(8) 1 0
+H2 H1- 4 e -0.108(5) 0.602(3) 0.745(2) 0.001(8) 1 0
+H3 H1- 4 e 0.123(5) 0.755(3) 1.061(2) 0.005(9) 1 0
+H4 H1+ 4 e 0.424(6) 0.332(4) 1.003(2) 0.015(10) 1 0
+H5 H1- 4 e 0.345(6) 1.141(4) 0.907(2) 0.015(10) 1 0
+H6 H1- 4 e -0.321(6) 0.942(4) 0.928(2) 0.019(10) 1 0
+H7 H1+ 4 e -0.031(6) 1.102(4) 0.651(2) 0.020(11) 1 0
+H8 H1+ 4 e -0.118(8) 0.998(5) 0.628(3) 0.048(16) 1 0
+H9 H1+ 4 e 0.250(6) 0.291(4) 1.015(3) 0.024(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rh1 Rh2+ 0.00678(10) 0.00858(11) 0.00933(11) 0.00061(9) 0.00013(8) 0.00082(9)
+Rh2 Rh2+ 0.00692(10) 0.00755(11) 0.00977(11) 0.00041(9) -0.00010(8) 0.00058(9)
+Na1 Na1+ 0.0114(6) 0.0105(6) 0.0152(6) -0.0008(5) 0.0005(5) 0.0004(5)
+O1 O2- 0.0084(10) 0.0104(11) 0.0128(11) 0.0023(9) 0.0000(9) 0.0005(9)
+O2 O2- 0.0099(10) 0.0128(11) 0.0109(11) -0.0002(9) 0.0009(9) 0.0015(9)
+O3 O2- 0.0093(10) 0.0146(11) 0.0123(11) 0.0020(9) 0.0019(9) 0.0015(9)
+O4 O2- 0.0103(10) 0.0164(12) 0.0118(11) 0.0026(9) 0.0009(9) 0.0015(9)
+O5 O2- 0.0093(10) 0.0176(12) 0.0130(11) 0.0042(9) 0.0028(9) 0.0057(9)
+O6 O2- 0.0098(10) 0.0195(12) 0.0207(12) -0.0001(10) 0.0023(9) 0.0083(10)
+O7 O2- 0.0113(10) 0.0077(10) 0.0154(11) -0.0005(9) -0.0009(9) 0.0002(9)
+O8 O2- 0.0146(10) 0.0065(10) 0.0156(11) -0.0017(9) 0.0007(9) 0.0000(9)
+O9 O2- 0.0129(10) 0.0105(11) 0.0119(11) -0.0040(9) -0.0014(9) 0.0006(9)
+O10 O2- 0.0111(10) 0.0106(11) 0.0157(11) 0.0006(9) -0.0006(9) -0.0024(9)
+O11 O2- 0.0100(10) 0.0095(11) 0.0144(11) -0.0017(9) -0.0041(9) 0.0014(9)
+O12 O2- 0.0113(11) 0.0205(13) 0.0224(13) -0.0007(10) -0.0052(10) 0.0083(11)
+C1 C4+ 0.0061(13) 0.0117(15) 0.0146(15) -0.0015(12) 0.0010(11) -0.0023(12)
+C2 C4+ 0.0098(14) 0.0133(16) 0.0167(16) 0.0002(13) -0.0010(13) -0.0017(13)
+C3 C4+ 0.0110(14) 0.0120(16) 0.0157(16) -0.0007(12) 0.0029(12) -0.0016(13)
+C4 C4+ 0.0104(14) 0.0120(15) 0.0172(16) 0.0004(13) 0.0022(12) -0.0045(13)
+C5 C4+ 0.0105(14) 0.0122(15) 0.0156(16) 0.0038(13) 0.0002(12) -0.0005(13)
+#End of TTdata_172425-ICSD

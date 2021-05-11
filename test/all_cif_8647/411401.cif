@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411401-ICSD
+_database_code_ICSD 411401
+_audit_creation_date 2002-04-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Tetrasodium pentaoxoselenate(VI)'
+_chemical_formula_structural 'Na4 (Se O5)'
+_chemical_formula_sum 'Na4 O5 Se1'
+_chemical_name_structure_type Na4SeO5
+_exptl_crystal_density_diffrn 3.4
+_publ_section_title
+
+;
+Octahedral (Se O6)6- and square-pyramidal (Se O5)4-, two new oxoselenate
+anions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2000 39 4362 4364 ACIEF5
+loop_
+_publ_author_name
+'Haas, H.'
+'Jansen, M.'
+_cell_length_a 9.8830(4)
+_cell_length_b 9.8835(4)
+_cell_length_c 5.58578(7)
+_cell_angle_alpha 96.2450(34)
+_cell_angle_beta 96.2430(35)
+_cell_angle_gamma 113.4100(7)
+_cell_volume 490.77
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0783
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se6+ 6
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se6+ 2 i 0.2297(6) 0.2345(6) 0.7875(5) 0.0259(12) 1. 0
+Se2 Se6+ 2 i -.2829(8) 0.2784(8) 0.5067(16) 0.0266(11) 1. 0
+O1 O2- 2 i 0.0644(19) 0.2283(27) 0.871(5) 0.016(9) 1. 0
+O2 O2- 2 i 0.2235(29) 0.0704(21) 0.878(5) 0.019(8) 1. 0
+O3 O2- 2 i 0.5456(14) 0.2863(18) 0.5799(30) 0.024(6) 1. 0
+O4 O2- 2 i -.1887(27) 0.3906(22) 0.7939(26) 0.0058(32) 1. 0
+O5 O2- 2 i -.3130(29) 0.1138(19) 0.617(5) 0.019(8) 1. 0
+O6 O2- 2 i 0.7347(15) 0.5907(12) 0.3234(25) 0.008(5) 1. 0
+O7 O2- 2 i -.1153(20) 0.3182(29) 0.401(6) 0.024(7) 1. 0
+O8 O2- 2 i 0.1557(27) 0.1485(24) 0.4806(14) 0.0058(32) 1. 0
+O9 O2- 2 i -.3945(23) 0.193(3) 0.2140(28) 0.024(7) 1. 0
+O10 O2- 2 i 0.6494(26) 0.6521(30) 0.9434(17) 0.015(4) 1. 0
+Na1 Na1+ 1 a 0 0 0 0.062(6) 1. 0
+Na2 Na1+ 1 h 0.5 0.5 0.5 0.035(4) 1. 0
+Na3 Na1+ 2 i -.0978(18) 0.0965(19) 0.5238(32) 0.0028(31) 1. 0
+Na4 Na1+ 2 i 0.5918(19) 0.3889(20) 0.006(4) 0.0133(30) 1. 0
+Na5 Na1+ 2 i -.1517(19) 0.6423(18) 0.731(4) 0.021(5) 1. 0
+Na6 Na1+ 2 i -.2009(21) 0.1903(24) 0.007(5) 0.0179(29) 1. 0
+Na7 Na1+ 2 i -.3656(18) -.1699(18) 0.715(4) 0.019(5) 1. 0
+Na8 Na1+ 2 i 0.4593(21) 0.0655(24) 0.769(4) 0.033(6) 1. 0
+Na9 Na1+ 2 i 0.0580(19) 0.4552(21) 0.753(4) 0.013(5) 1. 0
+#End of TTdata_411401-ICSD

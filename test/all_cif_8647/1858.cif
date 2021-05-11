@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1858-ICSD
+_database_code_ICSD 1858
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium chlorate(III) trihydrate'
+_chemical_formula_structural 'Na (Cl O2) (H2 O)3'
+_chemical_formula_sum 'H6 Cl1 Na1 O5'
+_chemical_name_structure_type NaClO2(H2O)3
+_exptl_crystal_density_diffrn 1.71
+_publ_section_title
+'The crystal structure of sodium chlorite trihydrate, Na Cl O2 (H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 1032 1037 ACBCAR
+loop_
+_publ_author_name
+'Tazzoli, V.'
+'Riganti, V.'
+'Giuseppetti, G.'
+'Coda, A.'
+_cell_length_a 6.960(2)
+_cell_length_b 8.842(3)
+_cell_length_c 5.504(2)
+_cell_angle_alpha 92.36(7)
+_cell_angle_beta 119.09(7)
+_cell_angle_gamma 104.73(7)
+_cell_volume 280.77
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cl3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.5417(1) 0.3953(1) 0.2780(2) . 1. 0
+Cl1 Cl3+ 2 i 0.1841(1) 0.8681(1) 0.2785(1) . 1. 0
+O1 O2- 2 i 0.1868(3) 0.7013(2) 0.3576(3) . 1. 0
+O2 O2- 2 i 0.1767(3) 0.8669(2) -.0113(3) . 1. 0
+O3 O2- 2 i 0.4010(2) 0.1649(1) 0.9201(3) . 1. 0
+O4 O2- 2 i 0.2795(2) 0.3241(2) 0.4533(3) . 1. 0
+O5 O2- 2 i 0.2523(2) 0.5098(1) 0.9532(3) . 1. 0
+H1 H1+ 2 i 0.5469 0.1572 0.9503 4. 1. 0
+H2 H1+ 2 i 0.3214 0.0654 0.9422 4. 1. 0
+H3 H1+ 2 i 0.3216 0.271 0.6116 4. 1. 0
+H4 H1+ 2 i 0.1278 0.2611 0.3054 4. 1. 0
+H5 H1+ 2 i 0.242 0.5739 0.0854 4. 1. 0
+H6 H1+ 2 i 0.1005 0.4317 0.8354 4. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00193(2) 0.00100(1) 0.00273(4) 0.00094(1) 0.00260(3) 0.00097(2)
+Cl1 Cl3+ 0.00272(2) 0.00090(1) 0.00404(3) 0.00089(1) 0.00393(2) 0.00041(1)
+O1 O2- 0.00220(5) 0.00118(2) 0.00446(9) 0.00081(3) 0.00177(6) 0.00207(4)
+O2 O2- 0.00241(5) 0.00122(3) 0.00373(8) 0.00042(3) 0.00325(6) 0.00104(4)
+O3 O2- 0.00210(5) 0.00081(2) 0.00371(7) 0.00067(2) 0.00307(5) 0.00114(3)
+O4 O2- 0.00171(4) 0.00108(2) 0.00253(7) 0.00034(3) 0.00176(5) 0.00097(3)
+O5 O2- 0.00163(4) 0.00098(2) 0.00305(7) 0.00071(2) 0.00250(5) 0.00054(3)
+#End of TTdata_1858-ICSD

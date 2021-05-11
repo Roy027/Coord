@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239879-ICSD
+_database_code_ICSD 239879
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Disodium zirconium hexasilicate'
+_chemical_formula_structural 'Na2 Zr Si6 O15.86'
+_chemical_formula_sum 'Na2 O15.86 Si6 Zr1'
+_exptl_crystal_density_diffrn 2.53
+_cell_measurement_temperature 523.
+_publ_section_title
+
+;
+Dehydration and thermal stability of elpidite: An in-situ single crystal X-ray
+diffraction study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous and Mesoporous Materials' 2016 227 81 87 MIMMFJ
+loop_
+_publ_author_name
+'Cametti, Georgia'
+'Armbruster, Thomas'
+'Nagashima, Mariko'
+_cell_length_a 14.1271(4)
+_cell_length_b 14.5110(4)
+_cell_length_c 14.3533(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2942.4
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C m c e'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.0232
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 8 c 0.25 0.25 0.5 0.00930(4) 1 0
+Si1 Si4+ 16 g 0.39088(2) 0.09882(2) 0.37635(2) 0.01140(7) 1 0
+Si2 Si4+ 16 g 0.38918(2) 0.38042(2) 0.66094(2) 0.01166(7) 1 0
+Si3 Si4+ 16 g 0.23518(3) 0.04895(2) 0.64156(2) 0.01242(7) 1 0
+Na1 Na1+ 8 f 0.5 0.2411(12) 0.5235(12) 0.0359(12) 0.25 0
+Na2 Na1+ 8 f 0.5 0.2662(4) 0.4983(4) 0.0359(12) 0.25 0
+Na3 Na1+ 8 f 0.5 0.2252(5) 0.5374(5) 0.0514(19) 0.5 0
+Na4 Na1+ 8 e 0.25 0.23899(8) 0.75 0.0393(3) 1 0
+O1 O2- 16 g 0.16587(8) 0.19840(8) 0.39335(7) 0.0213(2) 1 0
+O2 O2- 16 g 0.14296(9) 0.01707(8) 0.36503(9) 0.0260(2) 1 0
+O3 O2- 8 e 0.25 0.07869(12) 0.75 0.0269(3) 1 0
+O4 O2- 16 g 0.21944(8) 0.14128(7) 0.58571(8) 0.0217(2) 1 0
+O5 O2- 8 f 0. 0.13057(12) 0.36405(12) 0.0240(3) 1 0
+O6 O2- 16 g 0.32728(8) -0.00823(8) 0.60881(8) 0.0255(2) 1 0
+O7 O2- 16 g 0.37162(9) 0.36189(9) 0.77125(7) 0.0246(2) 1 0
+O8 O2- 16 g 0.36842(7) 0.17968(7) 0.44802(7) 0.01934(18) 1 0
+O9 O2- 8 f 0.5 0.06700(11) 0.38354(11) 0.0223(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zr1 Zr4+ 0.01075(7) 0.00817(7) 0.00898(6) -0.00022(5) -0.00061(5) 0.00012(5)
+Si1 Si4+ 0.01022(14) 0.01284(15) 0.01113(13) -0.00064(11) 0.00013(10)
+-0.00150(11)
+Si2 Si4+ 0.01017(14) 0.01253(15) 0.01227(13) 0.00029(11) -0.00135(10)
+-0.00175(11)
+Si3 Si4+ 0.01534(15) 0.00920(14) 0.01274(13) 0.00074(11) 0.00081(11) 0.00203(11)
+Na3 Na1+ 0.0270(13) 0.077(5) 0.050(4) 0. 0. -0.039(3)
+Na4 Na1+ 0.0545(8) 0.0204(5) 0.0430(7) 0. 0.0156(5) 0.
+O1 O2- 0.0226(5) 0.0224(5) 0.0190(4) -0.0065(4) -0.0063(4) -0.0052(4)
+O2 O2- 0.0235(5) 0.0170(5) 0.0375(6) 0.0076(4) 0.0017(4) 0.0051(4)
+O3 O2- 0.0443(10) 0.0232(8) 0.0131(6) 0. -0.0017(6) 0.
+O4 O2- 0.0253(5) 0.0143(5) 0.0254(5) 0.0009(4) 0.0021(4) 0.0093(4)
+O5 O2- 0.0104(6) 0.0300(8) 0.0316(8) 0. 0. -0.0039(6)
+O6 O2- 0.0235(5) 0.0242(6) 0.0288(5) 0.0121(4) 0.0025(4) 0.0020(4)
+O7 O2- 0.0326(6) 0.0292(6) 0.0121(4) -0.0046(5) -0.0002(4) -0.0022(4)
+O8 O2- 0.0178(4) 0.0205(5) 0.0198(4) 0.0042(4) 0.0014(3) -0.0072(4)
+O9 O2- 0.0102(6) 0.0222(7) 0.0345(8) 0. 0. -0.0035(6)
+#End of TTdata_239879-ICSD

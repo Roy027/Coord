@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85699-ICSD
+_database_code_ICSD 85699
+_audit_creation_date 1999-11-30
+_chemical_name_systematic
+'Sodium tecto-hexaalumohexasilicate carbonate (8/1/1.09)'
+_chemical_formula_structural 'Na8 (Al Si O4)6 (C O3)1.09'
+_chemical_formula_sum 'C1.09 Al6 Na8 O27.27 Si6'
+_chemical_name_mineral 'Nosean ((CO3)-bearing)'
+_exptl_crystal_density_diffrn 2.19
+_publ_section_title
+'Crystal structure of a carbonate-nosean Na8 (Al Si O4)6 C O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 1998 10 71 77 EJMIER
+loop_
+_publ_author_name
+'Gesing, T.M.'
+'Buhl, J.C.'
+_cell_length_a 9.001(1)
+_cell_length_b 9.001(1)
+_cell_length_c 9.001(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 729.24
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 2 3'
+_symmetry_Int_Tables_number 195
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -x, y'
+2 '-y, -z, x'
+3 '-x, -y, z'
+4 '-z, x, -y'
+5 '-y, z, -x'
+6 '-x, y, -z'
+7 'z, -x, -y'
+8 'y, -z, -x'
+9 'x, -y, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+Al3+ 3
+O2- -2
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.185(2) 0.185(2) 0.185(2) 1.2(6) 1.1(1) 0
+Na2 Na1+ 4 e 0.729(3) 0.729(3) 0.729(3) 6.80(12) 0.9(1) 0
+Si1 Si4+ 6 g 0.259(3) 0 0.5 0.5(9) 1. 0
+Al1 Al3+ 6 h 0.241(3) 0.5 0 0.3(9) 1. 0
+O1 O2- 12 j 0.135(4) 0.450(4) 0.154(5) 1.2(4) 1. 0
+O2 O2- 12 j 0.648(5) 0.949(4) 0.644(5) 1.2(4) 1. 0
+C1 C4+ 1 a 0 0 0 1.30(19) 1.09(6) 0
+O3 O2- 12 j 0.913(9) 0.099(9) 0.065(9) 1.30(19) 0.1817 0
+O4 O2- 6 f 0.133(9) 0 0 1.30(19) 0.1817 0
+#End of TTdata_85699-ICSD

@@ -1,0 +1,140 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_181574-ICSD
+_database_code_ICSD 181574
+_audit_creation_date 2012-02-01
+_audit_update_record 2016-02-01
+_chemical_name_systematic 'Sodium yttrium magnesium phosphate (2.5/0.5/7/6)'
+_chemical_formula_structural 'Na2.5 Y0.5 Mg7 (P O4)6'
+_chemical_formula_sum 'Mg7 Na2.5 O24 P6 Y0.5'
+_chemical_name_structure_type Na2CaMn7(PO4)6
+_chemical_name_mineral Stornesite-(Y)
+_exptl_crystal_density_diffrn 3.04
+_publ_section_title
+
+;
+Synthesis and structural characterization of a new yttrium phosphate: Na2.5
+Y0.5 Mg7 (P O4)6 with fillowite-type structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Rare Earths' 2010 28 481 487 JREAE6
+loop_
+_publ_author_name
+'Jerbi, H.'
+'Hidouri, M.'
+'Ben Amara, M.'
+_cell_length_a 14.976(6)
+_cell_length_b 14.976(6)
+_cell_length_c 42.599(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 8274.12
+_cell_formula_units_Z 18
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Na1+ 1
+Mg2+ 2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 3 a 0 0 0 0.0077(2) 1. 0
+Y2 Y3+ 3 b 0 0 0.5 0.0058(2) 1. 0
+Y3 Y3+ 18 f 0.2963(2) 0.2701(1) 0.0001(1) 0.0296(3) 0.167 0
+Na1 Na1+ 18 f 0.2963(2) 0.2701(1) 0.0001(1) 0.0296(3) 0.833 0
+Na2 Na1+ 18 f 0.3179(2) -.0784(2) 0.1697(1) 0.0288(4) 1. 0
+Na3 Na1+ 6 c 0 0 0.2497(1) 0.0220(6) 1. 0
+Na4 Na1+ 6 c 0 0 0.1769(1) 0.0149(5) 1. 0
+Mg1 Mg2+ 6 c 0 0 0.1039(1) 0.0082(4) 1. 0
+Mg2 Mg2+ 6 c 0 0 0.3200(1) 0.0072(4) 1. 0
+Mg3 Mg2+ 6 c 0 0 0.3954(1) 0.0070(4) 1. 0
+Mg4 Mg2+ 18 f 0.1301(1) -0.0921(1) 0.3717(1) 0.0143(3) 1. 0
+Mg5 Mg2+ 18 f 0.9884(1) -0.3430(1) 0.4139(1) 0.0045(2) 1. 0
+Mg6 Mg2+ 18 f 0.8872(1) -0.8927(1) 0.1330(1) 0.0130(2) 1. 0
+Mg7 Mg2+ 18 f -0.1769(1) 0.2499(1) 0.0515(1) 0.0037(2) 1. 0
+Mg8 Mg2+ 18 f -0.3284(1) -0.2587(1) 0.0859(1) 0.0104(2) 1. 0
+Mg9 Mg2+ 18 f -0.0813(1) -0.5743(1) 0.1226(1) 0.0152(3) 1. 0
+P1 P5+ 18 f 0.2006(1) -0.2489(1) 0.3717(1) 0.0069(2) 1. 0
+O1 O2- 18 f 0.2219(2) -0.1449(2) 0.3849(1) 0.0133(5) 1. 0
+O2 O2- 18 f 0.9944(2) -0.7965(2) 0.2742(1) 0.0105(5) 1. 0
+O3 O2- 18 f 0.1597(2) -0.2674(2) 0.3383(1) 0.0141(5) 1. 0
+O4 O2- 18 f 0.3068(2) -0.2433(2) 0.3724(1) 0.0102(5) 1. 0
+P2 P5+ 18 f 0.9058(1) -0.8740(1) 0.2098(1) 0.0083(2) 1. 0
+O5 O2- 18 f 0.9042(2) -0.7740(2) 0.2177(1) 0.0088(4) 1. 0
+O6 O2- 18 f 0.8409(2) -0.9581(2) 0.2344(1) 0.0129(5) 1. 0
+O7 O2- 18 f 0.0144(2) -0.8585(2) 0.2090(1) 0.0136(5) 1. 0
+O8 O2- 18 f 0.8524(2) -0.9151(2) 0.1786(1) 0.0232(6) 1. 0
+P3 P5+ 18 f 0.7491(1) -0.7835(1) 0.2769(1) 0.0081(2) 1. 0
+O9 O2- 18 f 0.6877(2) -0.7783(2) 0.3042(1) 0.0225(6) 1. 0
+O10 O2- 18 f 0.8644(2) -0.7196(2) 0.2825(1) 0.0165(5) 1. 0
+O11 O2- 18 f 0.7219(2) -0.7518(2) 0.2459(1) 0.0181(6) 1. 0
+O12 O2- 18 f 0.7207(2) -0.8985(1) 0.2727(6) 0.0116(5) 1. 0
+P4 P5+ 18 f 0.7836(1) -0.4258(1) 0.4681(1) 0.0077(2) 1. 0
+O13 O2- 18 f 0.6822(2) -0.4232(2) 0.4649(1) 0.0107(5) 1. 0
+O14 O2- 18 f 0.8461(2) -0.3681(2) 0.4978(1) 0.0114(5) 1. 0
+O15 O2- 18 f 0.8461(2) -0.3711(2) 0.4383(1) 0.0125(5) 1. 0
+O16 O2- 18 f 0.7569(2) -0.5395(2) 0.4695(1) 0.0115(5) 1. 0
+P5 P5+ 18 f 0.9119(1) -0.2315(6) 0.3614(1) 0.0063(2) 1. 0
+O17 O2- 18 f 0.9886(2) -0.2534(2) 0.3784(1) 0.0148(5) 1. 0
+O18 O2- 18 f 0.9665(2) -0.1122(1) 0.3590(1) 0.0140(5) 1. 0
+O19 O2- 18 f 0.8114(2) -0.2662(2) 0.3796(1) 0.0152(5) 1. 0
+O20 O2- 18 f 0.8882(2) -0.2821(1) 0.3291(1) 0.0106(5) 1. 0
+P6 P5+ 18 f 0.1106(1) -0.0983(1) 0.4430(1) 0.0059(2) 1. 0
+O21 O2- 18 f 0.0641(2) -0.0789(2) 0.4721(1) 0.0143(5) 1. 0
+O22 O2- 18 f 0.0801(2) -0.0630(2) 0.4131(1) 0.0096(4) 1. 0
+O23 O2- 18 f 0.2301(2) -0.0398(2) 0.4456(1) 0.0094(4) 1. 0
+O24 O2- 18 f 0.0817(1) -0.2126(2) 0.4423(1) 0.0093(4) 1. 0
+#End of TTdata_181574-ICSD

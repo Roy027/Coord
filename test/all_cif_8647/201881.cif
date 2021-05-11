@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201881-ICSD
+_database_code_ICSD 201881
+_audit_creation_date 1986-04-14
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Disodium thorium bis(phosphate(V))'
+_chemical_formula_structural 'Na2 Th (P O4)2'
+_chemical_formula_sum 'Na2 O8 P2 Th1'
+_chemical_name_structure_type Na2Th(PO4)2
+_exptl_crystal_density_diffrn 4.81
+_cell_measurement_temperature 1173.
+_publ_section_title
+'The crystal structure of disodium thorium bisphosphate, Na2 Th (P O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Croatica Chemica Acta' 1984 57 597 608 CCACAA
+loop_
+_publ_author_name
+'Galesic, N.'
+'Matkovic, B.'
+'Topic, M.'
+'Coffou, E.'
+'Sljukic, M.'
+_cell_length_a 7.055(4)
+_cell_length_b 21.66(1)
+_cell_length_c 9.095(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.56(2)
+_cell_angle_gamma 90.
+_cell_volume 1292.58
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Th4+ 4
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Th1 Th4+ 4 e 0.25515(7) 0.17740(2) 0.24422(5) 0.0092(1) 1. 0
+Th2 Th4+ 4 e 0.24342(7) -.04685(2) 0.24780(6) 0.0112(1) 1. 0
+P1 P5+ 4 e -.0723(5) 0.0630(2) 0.1470(4) 0.011(1) 1. 0
+P2 P5+ 4 e 0.5704(5) 0.0596(2) 0.3488(4) 0.011(1) 1. 0
+P3 P5+ 4 e 0.0716(5) 0.3165(2) 0.3697(4) 0.011(1) 1. 0
+P4 P5+ 4 e 0.4436(5) 0.3153(2) 0.1182(4) 0.012(1) 1. 0
+Na1 Na1+ 4 e -.3656(10) 0.1871(4) 0.0067(10) 0.031(3) 1. 0
+Na2 Na1+ 4 e -.1249(11) 0.1869(4) 0.4776(10) 0.036(3) 1. 0
+Na3 Na1+ 4 e 0.1457(11) 0.4376(4) 0.0442(9) 0.029(3) 1. 0
+Na4 Na1+ 4 e 0.3582(12) 0.4394(4) 0.4531(9) 0.030(3) 1. 0
+O1 O2- 4 e -.2761(16) 0.0630(5) 0.0057(11) 0.016(3) 1. 0
+O2 O2- 4 e 0.7686(17) 0.0591(6) 0.4912(11) 0.021(4) 1. 0
+O3 O2- 4 e 0.1011(19) 0.0570(6) 0.0813(14) 0.025(4) 1. 0
+O4 O2- 4 e 0.3860(18) 0.0552(6) 0.4055(15) 0.026(4) 1. 0
+O5 O2- 4 e -.0426(15) 0.1214(5) 0.2429(12) 0.017(3) 1. 0
+O6 O2- 4 e 0.5461(15) 0.1176(5) 0.2503(12) 0.016(3) 1. 0
+O7 O2- 4 e -.0516(14) 0.0053(5) 0.2516(11) 0.015(3) 1. 0
+O8 O2- 4 e 0.5501(15) 0.0014(5) 0.2476(12) 0.016(3) 1. 0
+O9 O2- 4 e 0.2879(15) 0.3312(6) 0.4775(11) 0.018(3) 1. 0
+O10 O2- 4 e 0.2227(15) 0.3300(6) 0.0107(11) 0.017(3) 1. 0
+O11 O2- 4 e -.0398(15) 0.3030(5) 0.4834(12) 0.017(3) 1. 0
+O12 O2- 4 e 0.5498(15) 0.3017(6) 0.0022(12) 0.019(3) 1. 0
+O13 O2- 4 e -.0144(17) 0.3740(6) 0.2662(13) 0.022(3) 1. 0
+O14 O2- 4 e 0.5348(16) 0.3712(5) 0.2230(12) 0.018(3) 1. 0
+O15 O2- 4 e 0.0561(17) 0.2617(5) 0.2621(12) 0.019(4) 1. 0
+O16 O2- 4 e 0.4588(18) 0.2591(5) 0.2247(13) 0.019(4) 1. 0
+#End of TTdata_201881-ICSD

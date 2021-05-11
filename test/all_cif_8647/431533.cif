@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431533-ICSD
+_database_code_ICSD 431533
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium yttrium hexathiodiphosphate'
+_chemical_formula_structural 'Na Y P2 S6'
+_chemical_formula_sum 'Na1 P2 S6 Y1'
+_chemical_name_structure_type NaYbP2S6
+_exptl_crystal_density_diffrn 2.73
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Structural stability diagram of ALnP2S6 compounds (A = Na, K, Rb, Cs; Ln =
+lanthanide)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 1121 1131 INOCAJ
+loop_
+_publ_author_name
+'Schoop, Leslie M.'
+'Eger, Roland'
+'Kremer, Reinhard K.'
+'Kuhn, Alexander'
+'Nuss, Juergen'
+'Lotsch, Bettina V.'
+_cell_length_a 6.8700(14)
+_cell_length_b 7.1140(14)
+_cell_length_c 9.1280(18)
+_cell_angle_alpha 87.63(3)
+_cell_angle_beta 87.59(3)
+_cell_angle_gamma 88.11(3)
+_cell_volume 445.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0283
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+P4+ 4
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 2 i 0.47713(6) 0.11894(6) 0.24690(4) 0.01296(12) 1 0
+P1 P4+ 2 i 0.43500(14) 0.39167(15) -0.06462(10) 0.0110(2) 1 0
+P2 P4+ 2 i 0.14754(14) 0.03786(16) 0.52953(10) 0.0142(2) 1 0
+S1 S2- 2 i 0.33244(14) -0.16658(15) 0.44947(10) 0.0158(2) 1 0
+S2 S2- 2 i 0.20382(14) 0.29855(15) 0.05947(9) 0.0148(2) 1 0
+S3 S2- 2 i 0.35409(14) -0.18224(15) 0.06049(9) 0.0138(2) 1 0
+S4 S2- 2 i 0.62300(15) 0.48452(16) 0.26031(9) 0.0167(2) 1 0
+S5 S2- 2 i 0.19802(15) 0.29038(16) 0.43251(10) 0.0173(2) 1 0
+S6 S2- 2 i 0.85589(15) -0.02883(17) 0.24852(10) 0.0175(2) 1 0
+Na1 Na1+ 2 i 0.0315(3) 0.6003(3) 0.2325(2) 0.0383(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0159(2) 0.0115(3) 0.01111(17) 0.00126(16) 0.00076(14) 0.00156(15)
+P1 P4+ 0.0140(5) 0.0092(7) 0.0099(4) -0.0001(4) -0.0010(3) -0.0005(4)
+P2 P4+ 0.0131(5) 0.0178(7) 0.0115(4) 0.0007(4) -0.0004(3) -0.0006(4)
+S1 S2- 0.0165(5) 0.0153(7) 0.0151(4) 0.0037(4) 0.0027(4) -0.0008(4)
+S2 S2- 0.0137(5) 0.0164(7) 0.0141(4) -0.0006(4) 0.0007(3) 0.0012(4)
+S3 S2- 0.0168(5) 0.0114(6) 0.0131(4) 0.0023(4) -0.0003(3) -0.0011(4)
+S4 S2- 0.0266(6) 0.0136(7) 0.0102(4) -0.0043(4) -0.0045(4) 0.0019(4)
+S5 S2- 0.0216(5) 0.0140(7) 0.0160(4) -0.0007(4) 0.0021(4) 0.0012(4)
+S6 S2- 0.0188(5) 0.0243(7) 0.0091(4) 0.0046(4) -0.0019(3) -0.0018(4)
+Na1 Na1+ 0.0333(11) 0.0279(15) 0.0534(12) 0.0065(9) 0.0010(9) -0.0074(10)
+#End of TTdata_431533-ICSD

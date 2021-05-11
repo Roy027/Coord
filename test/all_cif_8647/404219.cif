@@ -1,0 +1,134 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_404219-ICSD
+_database_code_ICSD 404219
+_audit_creation_date 1996-04-22
+_audit_update_record 2008-08-01
+_chemical_name_systematic
+'Sodium praseodymium aluminium oxide (1.1/0.13/10.96/16.86)'
+_chemical_formula_structural 'Na1.1 Pr0.13 Al10.96 O16.86'
+_chemical_formula_sum 'Al10.96 Na1.1 O16.86 Pr0.13'
+_chemical_name_structure_type Na2.4Fe11O16
+_exptl_crystal_density_diffrn 3.3
+_publ_section_title
+
+;
+Strukturchemische und impedanzspektroskopische Untersuchungen an Mg2+
+stabilisierten Na+/Pr3+ beta-Al2 O3-Kristallen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 191 196 ZAACAB
+loop_
+_publ_author_name
+'Koehler, J.'
+'Urland, W.'
+_cell_length_a 5.6177(15)
+_cell_length_b 5.6177(15)
+_cell_length_c 33.615(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 918.72
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.0826
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al2+ 2.94
+O2- -2
+Na1+ 1
+Pr3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al2+ 3 a 0 0 0 . 1. 0
+Al2 Al2+ 6 c 0 0 0.35028(6) . 0.996(20) 0
+Al3 Al2+ 18 h 0.33462(22) 0.16731(11) 0.07131(3) . 1. 0
+Al4 Al2+ 6 c 0 0 0.45029(5) . 0.984(20) 0
+O1 O2- 18 h 0.1540(3) 0.3080(6) 0.03437(9) . 0.996(16) 0
+O2 O2- 6 c 0 0 0.2953(2) . 1. 0
+O3 O2- 6 c 0 0 0.09720(14) . 1. 0
+O4 O2- 18 h 0.1630(3) 0.3260(5) 0.23517(9) . 0.992(20) 0
+O5 O2- 3 b 0.3333 0.6667 0.1667 . 0.936(50) 0
+Na1 Na1+ 6 c 0 0 0.1748(4) . 0.480(54) 0
+Na2 Na1+ 18 h 0.7874(75) 0.2126(75) 0.1664(27) . 0.024(20) 0
+Pr1 Pr3+ 18 h 0.7874(75) 0.2126(75) 0.1664(27) . 0.022(1) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al2+ 0.0044(8) 0.0044(8) 0.0073(13) 0.0022(4) 0 0
+Al2 Al2+ 0.0050(9) 0.0050(9) 0.0097(11) 0.0025(4) 0 0
+Al3 Al2+ 0.0051(7) 0.0050(6) 0.0087(7) 0.0026(3) 0.0003(3) 0.0001(2)
+Al4 Al2+ 0.0052(9) 0.0052(9) 0.0078(11) 0.0026(4) 0 0
+O1 O2- 0.0086(13) 0.0111(15) 0.009(2) 0.0055(8) -.0010(5) -.0021(9)
+O2 O2- 0.0062(14) 0.0062(14) 0.016(2) 0.0031(7) 0 0
+O3 O2- 0.0053(14) 0.0053(14) 0.011(2) 0.0026(7) 0 0
+O4 O2- 0.0073(14) 0.008(2) 0.010(2) 0.0042(8) 0.0012(5) 0.0024(9)
+O5 O2- 0.069(7) 0.069(7) 0.010(5) 0.035(4) 0 0
+Na1 Na1+ 0.043(6) 0.043(6) 0.024(6) 0.021(3) 0 0
+Na2 Na1+ 0.084(50) 0.084(50) 0.044(11) -.035(51) 0.018(36) -.018(36)
+Pr1 Pr3+ 0.084(50) 0.084(50) 0.044(11) -.035(51) 0.018(36) -.018(36)
+#End of TTdata_404219-ICSD

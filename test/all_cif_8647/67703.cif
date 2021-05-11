@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_67703-ICSD
+_database_code_ICSD 67703
+_audit_creation_date 1994-01-19
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Lithium sodium sulfate(VI) - beta'
+_chemical_formula_structural 'Li Na (S O4)'
+_chemical_formula_sum 'Li1 Na1 O4 S1'
+_chemical_name_structure_type LiNaSO4
+_exptl_crystal_density_diffrn 2.52
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+High resolution neutron diffraction study of the ionic conductor beta-Li Na S
+O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica B: Condensed Matter (Amsterdam, Netherlands)' 1992 180 612 616
+PHYBE3
+loop_
+_publ_author_name
+'Graneli, B.'
+'Fischer, P.'
+'Roos, J.'
+'Brinkmann, D.'
+'Hewat, A.W.'
+_cell_length_a 7.63071(5)
+_cell_length_b 7.63071(5)
+_cell_length_c 9.86196(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 497.31
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.0548
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 6 c 0.0413(17) 0.2436(15) 0.2636(14) . 1. 0
+Na1 Na1+ 6 c 0.0257(9) 0.5454(12) 0.4884(14) . 1. 0
+S1 S6+ 2 a 0 0 0 . 1. 0
+S2 S6+ 2 b 0.3333 0.6667 0.1983(15) . 1. 0
+S3 S6+ 2 b 0.6667 0.3333 0.2603(15) . 1. 0
+O1 O2- 2 a 0 0 0.1541(13) . 1. 0
+O2 O2- 2 b 0.3333 0.6667 0.3452(13) . 1. 0
+O3 O2- 2 b 0.6667 0.3333 0.1124(12) . 1. 0
+O4 O2- 6 c 0.2092(5) 0.1099(9) -.0491(12) . 1. 0
+O5 O2- 6 c 0.2271(11) 0.4561(5) 0.1441(13) . 1. 0
+O6 O2- 6 c 0.4725(8) 0.1660(7) 0.3123(13) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Li1 Li1+ 0.0065(21) 0.0051(19) 0.0028(8) 0.0034(16) 0.0029(11) 0.0036(10)
+Na1 Na1+ 0.0071(13) 0.0161(26) 0.0043(7) 0.0049(14) 0.0006(7) -.0024(11)
+S1 S6+ 0.0036(18) 0.0036(18) 0.0011(9) 0.0018(18) 0 0
+S2 S6+ 0.0041(19) 0.0041(19) 0.0015(9) 0.0021(19) 0 0
+S3 S6+ 0.0051(20) 0.0051(20) 0.0018(10) 0.0025(20) 0 0
+O1 O2- 0.0087(12) 0.0087(12) 0.0004(4) 0.0044(12) 0 0
+O2 O2- 0.0100(14) 0.0100(14) 0.0010(4) 0.0050(14) 0 0
+O3 O2- 0.0113(16) 0.0113(16) 0.0021(6) 0.0057(16) 0 0
+O4 O2- 0.0045(7) 0.0067(12) 0.0031(3) 0.0005(11) 0.0016(4) 0.0000(6)
+O5 O2- 0.0110(15) 0.0044(8) 0.0045(3) 0.0013(13) 0.0026(7) -.0010(5)
+O6 O2- 0.0067(10) 0.0113(13) 0.0048(5) -.0031(8) 0.0006(6) 0.0020(7)
+#End of TTdata_67703-ICSD

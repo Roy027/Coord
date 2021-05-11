@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81427-ICSD
+_database_code_ICSD 81427
+_audit_creation_date 1997-11-05
+_audit_update_record 2015-02-01
+_chemical_name_systematic
+'Sodium tetrarubidium catena-pentanitridooxoditungstate'
+_chemical_formula_structural 'Na Rb4 (W2 N5 O)'
+_chemical_formula_sum 'N5 Na1 O1 Rb4 W2'
+_chemical_name_structure_type NaRb4W2N5O
+_exptl_crystal_density_diffrn 5.26
+_publ_section_title
+
+;
+Na Rb4 ((W N2.5 O0.5)2) and Na Cs ((W N2.5 O0.5)2), the first oxo nitrido
+tungstates(VI) with infinite chains (W X2 X2/2(2.5-)) (0-infinity) with X = N,
+O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1996 33 463
+470 EJSCE5
+loop_
+_publ_author_name
+'Niewa, R.'
+'Jacobs, H.'
+_cell_length_a 7.193(1)
+_cell_length_b 23.1380(40)
+_cell_length_c 6.209(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1033.37
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b a m'
+_symmetry_Int_Tables_number 72
+_refine_ls_R_factor_all 0.023
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, z'
+10 'x+1/2, -y+1/2, z'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z'
+14 '-x+1/2, y+1/2, -z'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Rb1+ 1
+Na1+ 1
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 j 0.14390(4) 0.12379(1) 0 . 1. 0
+Rb1 Rb1+ 8 j 0.1287(1) 0.43026(4) 0 . 1. 0
+Rb2 Rb1+ 8 j 0.2081(1) 0.28703(4) 0 . 1. 0
+Na1 Na1+ 4 a 0 0 0.25 . 1. 0
+N1 N3- 8 j 0.216(1) 0.0488(3) 0 . 0.8333 0
+O1 O2- 8 j 0.216(1) 0.0488(3) 0 . 0.1667 0
+N2 N3- 8 j 0.348(1) 0.1685(3) 0 . 0.8333 0
+O2 O2- 8 j 0.348(1) 0.1685(3) 0 . 0.1667 0
+N3 N3- 8 g 0 0.1410(4) 0.25 . 0.8333 0
+O3 O2- 8 g 0 0.1410(4) 0.25 . 0.1667 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00968(9) 0.01134(9) 0.01198(9) 0.0019(1) 0 0
+Rb1 Rb1+ 0.0205(3) 0.0210(3) 0.0341(4) -.0010(3) 0 0
+Rb2 Rb1+ 0.0173(3) 0.0210(3) 0.0521(6) 0.0018(3) 0 0
+Na1 Na1+ 0.018(2) 0.026(2) 0.022(2) 0 0 0
+N1 N3- 0.019(3) 0.011(3) 0.055(6) -.001(3) 0 0
+O1 O2- 0.019(3) 0.011(3) 0.055(6) -.001(3) 0 0
+N2 N3- 0.011(3) 0.020(3) 0.050(5) -.006(3) 0 0
+O2 O2- 0.011(3) 0.020(3) 0.050(5) -.006(3) 0 0
+N3 N3- 0.027(3) 0.039(4) 0.023(4) 0 0.008(3) 0
+O3 O2- 0.027(3) 0.039(4) 0.023(4) 0 0.008(3) 0
+#End of TTdata_81427-ICSD

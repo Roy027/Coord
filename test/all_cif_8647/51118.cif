@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51118-ICSD
+_database_code_ICSD 51118
+_audit_creation_date 2001-07-16
+_audit_update_record 2002-04-01
+_chemical_name_systematic 'Sodium nonalanthanum hexakis(germanate) dioxide'
+_chemical_formula_structural 'Na La9 (Ge O4)6 O2'
+_chemical_formula_sum 'Ge6 La9 Na1 O26'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 5.74
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Single-crystal growth and structure determination of a new oxide apatite, Na
+La9 (Ge O4)6 O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1998 139 304 309 JSSCBI
+loop_
+_publ_author_name
+'Takahashi, M.'
+'Uematsu, K.'
+'Ye, Z.-G.'
+'Sato, M.'
+_cell_length_a 9.883(2)
+_cell_length_b 9.883(2)
+_cell_length_c 7.267(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 614.7
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Na1+ 1
+La3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 f 0.3333 0.6667 0.0003(2) . 0.750(2) 0
+Na1 Na1+ 4 f 0.3333 0.6667 0.0003(2) 0.905(6) 0.25 0
+La2 La3+ 6 h 0.24157(4) 0.01251(4) 0.25 . 1. 0
+Ge1 Ge4+ 6 h 0.37346(7) 0.40143(7) 0.25 . 1. 0
+O1 O2- 6 h 0.4867(6) 0.3121(6) 0.25 . 1. 0
+O2 O2- 6 h 0.5234(6) 0.3961(5) 0.75 . 1. 0
+O3 O2- 12 i 0.2468(4) 0.3407(6) 0.4396(5) . 1. 0
+O4 O2- 2 a 0 0 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0102 0.0102(2) 0.0140(3) 0.0051 0 0
+La2 La3+ 0.0079(1) 0.0080(1) 0.0045(2) 0.00307(8) 0 0
+Ge1 Ge4+ 0.0068(2) 0.0076(2) 0.0042(3) 0.0039(2) 0 0
+O1 O2- 0.022(2) 0.026(2) 0.016(3) 0.020(1) 0 0
+O2 O2- 0.008(2) 0.006(2) 0.024(3) -0.001(1) 0 0
+O3 O2- 0.017(1) 0.072(3) 0.007(1) 0.027(1) 0.008(1) 0.020(2)
+O4 O2- 0.0116(20) 0.0116 0.018(4) 0.0058 0 0
+#End of TTdata_51118-ICSD

@@ -1,0 +1,85 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200222-ICSD
+_database_code_ICSD 200222
+_audit_creation_date 1980-01-01
+_audit_update_record 1987-04-03
+_chemical_name_systematic 'Lithium europium sulfate'
+_chemical_formula_structural 'Li Eu (S O4)2'
+_chemical_formula_sum 'Eu1 Li1 O8 S2'
+_exptl_crystal_density_diffrn 3.6
+_publ_section_title 'Crystal structure of lithium-europium double sulfate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1977 22 966 970 KRISAJ
+loop_
+_publ_author_name
+'Sirotinkin, S.P.'
+'Efremov, V.A.'
+'Kovba, L.M.'
+'Pokrovskii, A.N.'
+_cell_length_a 7.632(4)
+_cell_length_b 7.632(4)
+_cell_length_c 5.566(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 324.21
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P n n 2'
+_symmetry_Int_Tables_number 34
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+S6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 2 a 0 0 0.0154(2) . 1. 0
+S1 S6+ 4 c 0.2867(1) 0.2871(1) 0.0069(4) . 1. 0
+O1 O2- 4 c 0.2973(3) 0.1104(2) 0.1097(6) . 1. 0
+O2 O2- 4 c 0.3112(3) 0.4156(3) 0.1959(6) . 1. 0
+O3 O2- 4 c 0.1103(3) 0.2979(3) -.0908(6) . 1. 0
+O4 O2- 4 c 0.4163(2) 0.3118(3) -.1769(6) . 1. 0
+Li1 Li1+ 2 a 0 0 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Eu1 Eu3+ 0.00541(15) 0.00482(16) 0.00896(27) -.00016(51) 0 0
+S1 S6+ 0.00447(47) 0.00430(47) 0.00650(12) -.00079(86) 0.0043(39) -0.0018(40)
+O1 O2- 0.0051(20) 0.0058(19) 0.0181(42) 0.0006(36) -0.0010(58) 0.0013(56)
+O2 O2- 0.0113(29) 0.0051(22) 0.0232(56) 0.0032(44) -0.0060(74) 0.0027(62)
+O3 O2- 0.0057(25) 0.0042(23) 0.01577(48) -0.0008(36) -0.0033(50) -0.0027(54)
+O4 O2- 0.0059(23) 0.0123(30) 0.0155(47) -0.0021(46) -0.0032(58) 0.0029(67)
+#End of TTdata_200222-ICSD

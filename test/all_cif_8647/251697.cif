@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251697-ICSD
+_database_code_ICSD 251697
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium-2.08 nonaoxotetratitanate'
+_chemical_formula_structural 'Na2.08 Ti4 O9'
+_chemical_formula_sum 'Na2.08 O9 Ti4'
+_chemical_name_structure_type Na2+xRu4O9
+_exptl_crystal_density_diffrn 3.62
+_publ_section_title
+
+;
+Synthetic, structural, and electrochemical study of monoclinic Na4 Ti5 O12 as
+a sodium-ion battery anode material
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2014 26 7067 7072 CMATEX
+loop_
+_publ_author_name
+'Naeyaert, Pierre J.P.'
+'Avdeev, Maxim'
+'Sharma, Neeraj'
+'Yahia, Hamdi Ben'
+'Ling, Chris D.'
+_cell_length_a 23.1315(6)
+_cell_length_b 2.93731(12)
+_cell_length_c 10.6116(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.5479(33)
+_cell_angle_gamma 90.
+_cell_volume 703.77
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.1366 0. 0.5974 0.0263(24) 0.97 0
+Na2 Na1+ 4 i 0.0742 0. 0.3068 0.0263(24) 0.48 0
+Na3 Na1+ 4 i 0.1407 0.5 0.1041 0.0263(24) 0.63 0
+Ti1 Ti4+ 2 a 0. 0. 0. 0.0263(24) 1. 0
+Ti2 Ti4+ 4 i 0.2232 0.5 0.3745 0.0263(24) 1. 0
+Ti3 Ti4+ 4 i 0.2151 0.5 0.8791 0.0263(24) 1. 0
+Ti4 Ti4+ 4 i 0.0608 0.5 0.809 0.0263(24) 1. 0
+Ti5 Ti4+ 2 c 0. 0. 0.5 0.0263(24) 1. 0
+O1 O2- 4 i 0.0746 0. 0.9394 0.0263(24) 1. 0
+O2 O2- 4 i 0.023 0.5 0.1233 0.0263(24) 1. 0
+O3 O2- 4 i 0.0308 0. 0.6947 0.0263(24) 1. 0
+O4 O2- 4 i 0.1721 0. 0.3186 0.0263(24) 1. 0
+O5 O2- 4 i 0.2033 0. 0.9918 0.0263(24) 1. 0
+O6 O2- 4 i 0.2418 0. 0.7812 0.0263(24) 1. 0
+O7 O2- 4 i 0.056 0.5 0.4878 0.0263(24) 1. 0
+O8 O2- 4 i 0.1369 0.5 0.7829 0.0263(24) 1. 0
+O9 O2- 4 i 0.2152 0.5 0.5528 0.0263(24) 1. 0
+#End of TTdata_251697-ICSD

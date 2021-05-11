@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_433180-ICSD
+_database_code_ICSD 433180
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium alumosilicate Eu-doped'
+_chemical_formula_structural 'Na0.873 Al Si O4'
+_chemical_formula_sum 'Al1 Na0.873 O4 Si1'
+_exptl_crystal_density_diffrn 2.57
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Temperature and Eu2+-doping induced phase selection in NaAlSiO4 polymorphs and
+the controlled yellow/blue emission
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2017 29 6552 6559 CMATEX
+loop_
+_publ_author_name
+'Zhao, Ming'
+'Xia, Zhiguo'
+'Molokeev, Maxim S.'
+'Ning, Lixin'
+'Liu, QuanLin'
+_cell_length_a 9.97620(23)
+_cell_length_b 9.97620(23)
+_cell_length_c 8.34957(20)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 719.65
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.0495
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0 1.99(50) 0.493(14) 0
+Na2 Na1+ 6 c -0.00312(37) 0.44473(31) 0.0176(33) 1.53(13) 1 0
+Al1 Al3+ 2 b 0.3333333 0.6666667 0.2090(32) 1.11(33) 1 0
+Al2 Al3+ 6 c 0.09588(86) 0.33805(68) 0.6913(35) 0.74(14) 1 0
+Si1 Si4+ 2 b 0.3333333 0.6666667 0.8168(37) 0.66(27) 1 0
+Si2 Si4+ 6 c 0.09226(81) 0.32597(59) 0.3196(33) 0.81(15) 1 0
+O1 O2- 2 b 0.3333333 0.6666667 0.0344(39) 2.23(11) 1 0
+O2 O2- 6 c 0.02943(58) 0.31572(56) 0.5140(45) 2.23(11) 1 0
+O3 O2- 6 c 0.1686(11) 0.51670(95) 0.7821(36) 2.23(11) 1 0
+O4 O2- 6 c 0.1725(11) 0.51500(97) 0.3017(38) 2.23(11) 1 0
+O5 O2- 6 c -0.0516(15) 0.2290(17) 0.8215(33) 2.23(11) 1 0
+O6 O2- 6 c 0.2215(18) 0.2660(15) 0.6990(34) 2.23(11) 1 0
+#End of TTdata_433180-ICSD

@@ -1,0 +1,102 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_50232-ICSD
+_database_code_ICSD 50232
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Lithium niobium chloride (2/6/16)'
+_chemical_formula_structural 'Li2 (Nb6 Cl16)'
+_chemical_formula_sum 'Cl16 Li2 Nb6'
+_exptl_crystal_density_diffrn 3.37
+_publ_section_title
+'Two-dimensional networks in the structure of Li2 (Nb6 Cl16)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1997
+623 791 795 ZAACAB
+loop_
+_publ_author_name
+'Bajan, B.'
+'Meyer, H.J.'
+_cell_length_a 12.741(6)
+_cell_length_b 13.162(7)
+_cell_length_c 13.383(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2244.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c a'
+_symmetry_Int_Tables_number 64
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y+1/2, z+1/2'
+2 '-x, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, y+1/2, -z+1/2'
+6 'x, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y, z+1/2'
+10 '-x+1/2, y, -z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, y, -z+1/2'
+14 'x+1/2, -y, z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Nb2+ 2.333
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 f 0 0.4198(12) 0.5877(11) . 1. 0
+Nb1 Nb2+ 8 f 0 0.09191(4) 0.37573(4) . 1. 0
+Nb2 Nb2+ 8 f 0 0.12646(4) 0.59114(4) . 1. 0
+Nb3 Nb2+ 8 d 0.16268(5) 0 0.5 . 1. 0
+Cl1 Cl1- 16 g 0.18927(11) 0.11045(10) 0.35598(9) . 1. 0
+Cl2 Cl1- 16 g 0.18968(10) 0.14791(9) 0.60822(9) . 1. 0
+Cl3 Cl1- 8 f 0 0.25783(12) 0.45883(12) . 1. 0
+Cl4 Cl1- 8 f 0 0.95806(13) 0.24589(12) . 1. 0
+Cl5 Cl1- 8 f 0 0.29443(13) 0.70701(12) . 1. 0
+Cl6 Cl1- 8 d 0.36713(15) 0 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.058(10) 0.0528(86) 0.0541(82) 0 0 0.0127
+Nb1 Nb2+ 0.0277(3) 0.0236(3) 0.0235(3) 0 0 0.0014(2)
+Nb2 Nb2+ 0.0263(3) 0.0236(3) 0.0236(3) 0 0 -.0020(2)
+Nb3 Nb2+ 0.0188(3) 0.0275(3) 0.0287(3) 0 0 -.0005(2)
+Cl1 Cl1- 0.0321(6) 0.0415(6) 0.0369(5) -.0057(5) 0.0086(5) 0.0044(5)
+Cl2 Cl1- 0.0300(6) 0.0372(6) 0.0441(6) -.0073(5) 0.0043(5) -.0071(5)
+Cl3 Cl1- 0.0576(12) 0.0255(7) 0.0297(7) 0 0 -.0007(5)
+Cl4 Cl1- 0.0632(12) 0.0300(7) 0.0259(6) 0 0 0.0005(6)
+Cl5 Cl1- 0.0709(14) 0.0291(8) 0.0295(7) 0 0 -.0060(6)
+Cl6 Cl1- 0.0202(8) 0.0533(11) 0.0603(11) 0 0 0.0017(8)
+#End of TTdata_50232-ICSD

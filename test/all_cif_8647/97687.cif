@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97687-ICSD
+_database_code_ICSD 97687
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Trisodium nitrate(V) hexaborate'
+_chemical_formula_structural 'Na3 (N O3) (B6 O10)'
+_chemical_formula_sum 'B6 N1 Na3 O13'
+_exptl_crystal_density_diffrn 2.44
+_publ_section_title
+
+;
+A new type of boron - oxygen framework in the Na3 (N O3) (B6 O10) crystal
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk' 2002 387 54 60 DAKNEQ
+loop_
+_publ_author_name
+'Yakubovich, O.V.'
+'Perevoznikova, I.V.'
+'Dimitrova, O.V.'
+'Urusov, V.S.'
+_cell_length_a 12.589(3)
+_cell_length_b 10.015(2)
+_cell_length_c 7.679(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 968.16
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+B3+ 3
+N5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+B1 B3+ 8 d 0.1673(2) 0.1203(2) 0.2728(3) 0.0118(5) 1. 0
+B2 B3+ 4 c 0.3139(3) 0.25 0.4415(5) 0.0111(6) 1. 0
+B3 B3+ 4 c 0.0003(3) 0.25 0.2194(5) 0.0138(7) 1. 0
+B4 B3+ 8 d 0.2594(2) 0.0202(2) 0.5261(3) 0.0136(5) 1. 0
+N1 N5+ 4 c 0.0521(3) 0.25 0.7135(4) 0.0215(6) 1. 0
+Na1 Na1+ 4 b 0.5 0 0 0.0233(4) 1. 0
+Na2 Na1+ 4 a 0 0 0 0.0255(4) 1. 0
+Na3 Na1+ 4 c 0.2856(1) 0.25 0.8805(2) 0.0266(4) 1. 0
+O1 O2- 4 c 0.2064(2) 0.25 0.3502(3) 0.0094(4) 1. 0
+O2 O2- 8 d 0.1812(1) 0.0154(2) 0.4017(2) 0.0142(3) 1. 0
+O3 O2- 8 d 0.0532(1) 0.1309(2) 0.2372(2) 0.0148(3) 1. 0
+O4 O2- 8 d 0.2263(1) 0.0953(2) 0.1149(2) 0.0161(4) 1. 0
+O5 O2- 8 d 0.3211(1) 0.1308(2) 0.5514(2) 0.0225(4) 1. 0
+O6 O2- 4 c -0.0180(2) 0.25 0.5976(4) 0.0331(7) 1. 0
+O7 O2- 4 c 0.8953(2) 0.25 0.1883(4) 0.0305(7) 1. 0
+O8 O2- 8 d 0.0872(2) 0.1416(2) 0.7670(3) 0.0450(7) 1. 0
+#End of TTdata_97687-ICSD

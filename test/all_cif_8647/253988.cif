@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253988-ICSD
+_database_code_ICSD 253988
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium holmium cobalt tungsten oxide (1/1/1/1/6)'
+_chemical_formula_structural 'Na Ho Co W O6'
+_chemical_formula_sum 'Co1 Ho1 Na1 O6 W1'
+_chemical_name_structure_type Ca3UO6
+_exptl_crystal_density_diffrn 7.61
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Structural study of a doubly ordered perovskite family NaLnCoWO6 (Ln = Y, La,
+Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Yb): Hybrid Improper Ferroelectricity in
+nine new members
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 8478 8489 INOCAJ
+loop_
+_publ_author_name
+'Zuo, Peng'
+'Colin, Claire V.'
+'Klein, Holger'
+'Bordet, Pierre'
+'Suard, Emmanuelle'
+'Elkaim, Erik'
+'Darie, Celine'
+_cell_length_a 5.346609(4)
+_cell_length_b 5.521138(4)
+_cell_length_c 7.789691(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.28355(5)
+_cell_angle_gamma 90.
+_cell_volume 229.94
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.0941
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ho3+ 3
+Co2+ 2
+W6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ho1 Ho3+ 2 a 0.26548(17) 0.8123(3) 0.50056(9) 0.0108(4) 1. 0
+Co1 Co2+ 2 a 0.7501(4) 0.7588(13) 0.2488(2) 0.0101(5) 1. 0
+W1 W6+ 2 a 0.76168(12) 0.75 0.76467(6) 0.0093(3) 1. 0
+Na1 Na1+ 2 a 0.2443(15) 0.7179(13) 0.0034(7) 0.0051(17) 0.785(10) 0
+O1 O2- 2 a 0.4658(17) 0.5525(17) 0.7006(12) 0.0063(7) 1. 0
+O2 O2- 2 a 0.4494(18) 0.5235(16) 0.2975(12) 0.0063(7) 1. 0
+O3 O2- 2 a 0.0878(18) -0.0575(16) 0.2229(11) 0.0063(7) 1. 0
+O4 O2- 2 a 0.0664(17) -0.0767(17) 0.7719(11) 0.0063(7) 1. 0
+O5 O2- 2 a 0.8444(14) 0.7230(17) 0.5064(9) 0.0063(7) 1. 0
+O6 O2- 2 a 0.6801(13) 0.7804(18) -0.0141(8) 0.0063(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ho1 Ho3+ 0.0106(4) 0.0076(3) 0.0141(4) -0.0004(4) -0.0014(3) -0.0002(3)
+W1 W6+ 0.0087(3) 0.0068(2) 0.0124(3) 0.0002(3) -0.0001(2) 0.0005(3)
+#End of TTdata_253988-ICSD

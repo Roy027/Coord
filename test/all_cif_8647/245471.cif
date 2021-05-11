@@ -1,0 +1,88 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245471-ICSD
+_database_code_ICSD 245471
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Lithium chloride lanthanum diniobate(V) *'
+_chemical_formula_structural 'Li1.92 Cl0.932 La (Nb2 O7)'
+_chemical_formula_sum 'Cl0.932 La1 Li1.92 Nb2 O7'
+_exptl_crystal_density_diffrn 4.22
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Construction of a double-layered tetrahedral network within a perovskite host:
+Two-step route to the alkali-metal-halide layered perovskite, (Lix Cl) La Nb2
+O7
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 583 588 JSSCBI
+loop_
+_publ_author_name
+'Viciu, L.'
+'Kodenkandath, T.A.'
+'Wiley, J.B.'
+_cell_length_a 3.8875(3)
+_cell_length_b 3.8875(3)
+_cell_length_c 12.573(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 190.01
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+_refine_ls_R_factor_all 0.0796
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cl1- -1
+La3+ 3
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 i 0 0.5 0.417(5) 0.0605(2) 0.48(6) 0
+Cl1 Cl1- 1 b 0 0 0.5 0.0468(1) 0.932(2) 0
+La1 La3+ 1 a 0 0 0 0.0057(1) 1. 0
+Nb1 Nb5+ 2 h 0.5 0.5 0.1790(5) 0.0038 1. 0
+O1 O2- 4 i 0 0.5 0.1477(6) 0.0250(1) 1. 0
+O2 O2- 2 h 0.5 0.5 0.3196(2) 0.1246(1) 1. 0
+O3 O2- 1 c 0.5 0.5 0 0.0872(6) 1. 0
+#End of TTdata_245471-ICSD

@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78919-ICSD
+_database_code_ICSD 78919
+_audit_creation_date 1998-06-26
+_chemical_name_systematic
+'Pentasodium diyttrium bis(diphosphate(V)) triphosphate(V)'
+_chemical_formula_structural 'Na7 Y2 (P2 O7)2 (P3 O10)'
+_chemical_formula_sum 'Na7 O24 P7 Y2'
+_exptl_crystal_density_diffrn 2.94
+_publ_section_title
+'Na7 Y2 (P2 O7)2 (P3 O10) - a new layer and tunnel structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 1987 1990 ZAACAB
+loop_
+_publ_author_name
+'Hamady, A.'
+'Jouini, T.'
+_cell_length_a 16.2050(40)
+_cell_length_b 5.3746(9)
+_cell_length_c 12.309(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.96(2)
+_cell_angle_gamma 90.
+_cell_volume 1061.73
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0298
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 g 0.7255(1) 0.3485(1) 0.3120(1) . 1. 0
+P1 P5+ 4 g 0.2784(1) 0.3705(2) 0.9455(1) . 1. 0
+P2 P5+ 4 g 0.3901(1) 0.1564(2) 0.8046(1) . 1. 0
+P3 P5+ 4 g 0.1300(1) 0.1374(2) 0.6575(1) . 1. 0
+P4 P5+ 2 e 0 0.4178(3) 0.75 . 1. 0
+Na1 Na1+ 4 g 0.5950(1) 0.1463(4) 0.9627(2) . 1. 0
+Na2 Na1+ 4 g 0.0645(1) 0.3023(4) 0.0175(2) . 1. 0
+Na3 Na1+ 4 g 0.1369(1) 0.8390(4) 0.8904(2) . 1. 0
+Na4 Na1+ 2 f 0.5 0.7128(5) 0.75 . 1. 0
+O1 O2- 4 g 0.2527(2) 0.5795(6) 0.8661(2) . 1. 0
+O2 O2- 4 g 0.2089(2) 0.2520(6) 0.9979(3) . 1. 0
+O3 O2- 4 g 0.3146(2) 0.1460(6) 0.8802(2) . 1. 0
+O4 O2- 4 g 0.3459(2) 0.4488(6) 0.0376(2) . 1. 0
+O5 O2- 4 g 0.1990(2) 0.3218(7) 0.6531(3) . 1. 0
+O6 O2- 4 g 0.0733(2) 0.1227(6) 0.5512(2) . 1. 0
+O7 O2- 4 g 0.1624(2) -.1105(6) 0.7044(2) . 1. 0
+O8 O2- 4 g 0.0765(2) 0.2301(7) 0.7522(3) . 1. 0
+O9 O2- 4 g 0.4655(2) 0.0616(6) 0.8770(3) . 1. 0
+O10 O2- 4 g 0.3626(2) -.0238(6) 0.7113(2) . 1. 0
+O11 O2- 4 g 0.3929(2) 0.4222(6) 0.7647(2) . 1. 0
+O12 O2- 4 g 0.0158(2) 0.5552(6) 0.8558(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.007(1) 0.009(1) 0.089(1) 0.00(1) 0.002(2) 0.00(1)
+P1 P5+ 0.010(1) 0.011(1) 0.009(1) 0.002(1) 0.003(1) 0.00(1)
+P2 P5+ 0.007(1) 0.008(1) 0.009(1) 0.001(1) 0.001(1) 0.00(1)
+P3 P5+ 0.009(1) 0.010(1) 0.009(1) 0.001(1) 0.001(1) 0.001(1)
+P4 P5+ 0.010(1) 0.010(1) 0.010(1) 0 0.003(1) 0
+Na1 Na1+ 0.020(1) 0.029(1) 0.021(1) -.005(1) 0.00(1) 0.001(1)
+Na2 Na1+ 0.015(1) 0.022(1) 0.021(1) 0.007(1) 0.005(1) 0.003(1)
+Na3 Na1+ 0.025(1) 0.026(1) 0.020(1) 0.004(1) 0.010(1) 0.00(1)
+Na4 Na1+ 0.018(1) 0.015(1) 0.057(2) 0 0.017(1) 0
+O1 O2- 0.021(2) 0.016(2) 0.012(2) 0.008(1) 0.007(1) 0.005(1)
+O2 O2- 0.012(1) 0.020(2) 0.018(2) 0.00(1) 0.009(1) 0.002(1)
+O3 O2- 0.015(1) 0.011(2) 0.014(2) 0.00(1) 0.009(1) -.001(1)
+O4 O2- 0.015(2) 0.022(2) 0.011(1) -.003(1) 0.001(1) -.001(1)
+O5 O2- 0.026(2) 0.019(2) 0.032(2) -.013(2) 0.001(2) 0.003(2)
+O6 O2- 0.014(2) 0.023(2) 0.013(2) 0.004(1) -.003(1) -.001(1)
+O7 O2- 0.014(1) 0.013(2) 0.016(2) 0.004(1) 0.005(1) 0.005(1)
+O8 O2- 0.026(2) 0.031(2) 0.010(2) 0.019(2) 0.003(1) 0.002(1)
+O9 O2- 0.012(1) 0.021(2) 0.018(2) 0.005(1) -.002(1) 0.003(1)
+O10 O2- 0.014(1) 0.013(2) 0.013(2) -.002(1) 0.003(1) -.004(1)
+O11 O2- 0.009(1) 0.010(2) 0.019(2) 0.001(1) 0.002(1) 0.002(1)
+O12 O2- 0.015(2) 0.016(2) 0.015(2) -.001(1) 0.003(1) -.005(1)
+#End of TTdata_78919-ICSD

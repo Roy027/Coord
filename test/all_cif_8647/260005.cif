@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260005-ICSD
+_database_code_ICSD 260005
+_audit_creation_date 2009-02-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Trisodium strontium pentaborate'
+_chemical_formula_structural 'Na3 Sr (B5 O10)'
+_chemical_formula_sum 'B5 Na3 O10 Sr1'
+_chemical_name_structure_type Na3SrB5O10
+_exptl_crystal_density_diffrn 2.76
+_cell_measurement_temperature 200.
+_publ_section_title 'The new pentaborate Na3 Sr B5 O10'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2008 64 i53 i56 ACSCEE
+loop_
+_publ_author_name
+'Wu Li'
+'Roth, G.'
+'Sparta, K.'
+'Chen Xiao Long'
+_cell_length_a 7.277(2)
+_cell_length_b 7.601(2)
+_cell_length_c 9.728(2)
+_cell_angle_alpha 81.062(16)
+_cell_angle_beta 70.538(15)
+_cell_angle_gamma 61.636(15)
+_cell_volume 446.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0504
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 2 i 0.21356(3) 0.94626(3) 0.77505(2) 0.00583(4) 1 0
+Na1 Na1+ 2 i 0.27930(12) 0.01508(12) 0.11506(10) 0.0098(2) 1 0
+Na2 Na1+ 2 i 0.84487(13) 0.50424(13) 0.16342(10) 0.0133(2) 1 0
+Na3 Na1+ 2 i 0.20961(14) 0.27520(17) 0.45000(11) 0.0281(3) 1 0
+O1 O2- 2 i 0.1689(2) 0.75187(19) 0.18955(16) 0.0063(4) 1 0
+O2 O2- 2 i 0.6608(2) 0.8048(2) 0.35726(17) 0.0139(4) 1 0
+O3 O2- 2 i 0.0139(2) 0.7955(2) -0.00078(17) 0.0098(4) 1 0
+O4 O2- 2 i 0.1567(2) 0.6537(2) 0.43867(16) 0.0087(4) 1 0
+O5 O2- 2 i 0.4064(2) 0.4137(2) 0.25015(16) 0.0095(4) 1 0
+O6 O2- 2 i 0.4711(2) 0.6865(2) 0.27103(17) 0.0099(4) 1 0
+O7 O2- 2 i 0.3177(2) 0.8224(2) 0.51172(17) 0.0141(4) 1 0
+O8 O2- 2 i 0.5042(2) 0.1443(2) 0.10496(17) 0.0091(4) 1 0
+O9 O2- 2 i 0.2335(2) 0.4699(2) 0.06442(17) 0.0100(4) 1 0
+O10 O2- 2 i 0.0226(2) 0.7791(2) 0.68077(17) 0.0125(4) 1 0
+B1 B3+ 2 i 0.3029(3) 0.6274(3) 0.2883(3) 0.0076(6) 1 0
+B2 B3+ 2 i 0.3855(3) 0.3365(3) 0.1369(3) 0.0078(6) 1 0
+B3 B3+ 2 i 0.4894(3) 0.7713(3) 0.3780(3) 0.0087(6) 1 0
+B4 B3+ 2 i 0.1401(3) 0.6753(3) 0.0809(3) 0.0086(6) 1 0
+B5 B3+ 2 i 0.1597(3) 0.7518(3) 0.5465(3) 0.0083(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.00487(5) 0.00737(6) 0.00545(7) -0.00267(4) -0.00163(5) -0.00075(5)
+Na1 Na1+ 0.0075(3) 0.0112(3) 0.0111(4) -0.0056(2) -0.0002(3) -0.0022(3)
+Na2 Na1+ 0.0101(3) 0.0174(3) 0.0125(4) -0.0052(2) -0.0038(3) -0.0026(3)
+Na3 Na1+ 0.0225(3) 0.0598(5) 0.0144(4) -0.0288(3) -0.0097(3) 0.0111(4)
+O1 O2- 0.0091(4) 0.0043(5) 0.0085(6) -0.0038(4) -0.0041(4) -0.0016(4)
+O2 O2- 0.0172(5) 0.0225(6) 0.0113(7) -0.0147(4) -0.0093(5) 0.0056(5)
+O3 O2- 0.0090(5) 0.0124(6) 0.0101(6) -0.0046(4) -0.0050(4) -0.0016(5)
+O4 O2- 0.0088(5) 0.0133(5) 0.0045(6) -0.0067(4) 0.0010(4) -0.0022(5)
+O5 O2- 0.0123(5) 0.0073(5) 0.0104(6) -0.0016(4) -0.0074(4) -0.0043(5)
+O6 O2- 0.0093(5) 0.0147(5) 0.0066(6) -0.0071(4) 0.0004(4) -0.0031(5)
+O7 O2- 0.0154(5) 0.0236(6) 0.0085(7) -0.0144(4) 0.0004(5) -0.0044(5)
+O8 O2- 0.0080(5) 0.0075(5) 0.0142(7) -0.0047(4) -0.0038(5) -0.0009(5)
+O9 O2- 0.0126(5) 0.0065(5) 0.0090(6) -0.0005(4) -0.0057(5) -0.0024(5)
+O10 O2- 0.0128(5) 0.0162(6) 0.0080(7) -0.0058(4) -0.0018(5) -0.0042(5)
+B1 B3+ 0.0076(7) 0.0061(8) 0.0080(10) -0.0031(6) -0.0007(7) -0.0010(7)
+B2 B3+ 0.0120(7) 0.0116(8) 0.0038(9) -0.0093(6) -0.0020(7) 0.0018(7)
+B3 B3+ 0.0104(7) 0.0089(8) 0.0065(10) -0.0045(6) -0.0020(7) 0.0002(7)
+B4 B3+ 0.0104(7) 0.0113(8) 0.0086(9) -0.0065(6) -0.0048(6) -0.0019(7)
+B5 B3+ 0.0045(7) 0.0097(8) 0.0100(10) -0.0031(6) -0.0018(7) 0.0007(8)
+#End of TTdata_260005-ICSD

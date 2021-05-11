@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201919-ICSD
+_database_code_ICSD 201919
+_audit_creation_date 1986-12-03
+_audit_update_record 1999-06-02
+_chemical_name_systematic 'Sodium tecto-alumotrisilicat'
+_chemical_formula_structural 'Na Al Si3 O8'
+_chemical_formula_sum 'Al1 Na1 O8 Si3'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral 'Albite low'
+_exptl_crystal_density_diffrn 2.64
+_cell_measurement_temperature 13.
+_publ_section_title
+'Low albite, Na Al Si3 O8: Neutron diffraction of crystal structure at 13 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1986 71 727 733 AMMIAY
+loop_
+_publ_author_name
+'Smith, J.V.'
+'Artioli, G.'
+'Kvick, A.'
+_cell_length_a 8.1151(8)
+_cell_length_b 12.7621(25)
+_cell_length_c 7.1576(6)
+_cell_angle_alpha 94.218(12)
+_cell_angle_beta 116.803(8)
+_cell_angle_gamma 87.707(13)
+_cell_volume 659.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al3+ 4 i 0.00896(5) 0.16774(3) 0.20773(6) . 0.997 0
+Si1 Si4+ 4 i 0.00359(4) 0.82131(3) 0.23701(5) . 1. 0
+Si2 Si4+ 4 i 0.69041(4) 0.10996(3) 0.31323(5) . 1. 0
+Si3 Si4+ 4 i 0.67890(4) 0.88190(3) 0.35960(5) . 1. 0
+Na1 Na1+ 4 i 0.26470(6) 0.98952(1) 0.14441(7) . 0.972 0
+O1 O2- 4 i 0.00565(3) 0.12907(2) 0.96644(4) . 1. 0
+O2 O2- 4 i 0.58864(3) 0.99755(2) 0.27889(4) . 1. 0
+O3 O2- 4 i 0.81264(3) 0.10794(2) 0.19019(4) . 1. 0
+O4 O2- 4 i 0.81931(3) 0.85141(2) 0.25924(4) . 1. 0
+O5 O2- 4 i 0.01020(3) 0.30192(2) 0.26814(4) . 1. 0
+O6 O2- 4 i 0.02294(3) 0.69437(2) 0.22592(1) . 1. 0
+O7 O2- 4 i 0.21013(3) 0.10901(2) 0.38942(4) . 1. 0
+O8 O2- 4 i 0.18503(3) 0.86821(2) 0.43708(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Al1 Al3+ 0.00098(7) 0.00036(2) 0.00109(8) -.00009(2) 0.00049(5) 0.00008(3)
+Si1 Si4+ 0.00084(5) 0.00038(2) 0.00094(7) 0.00003(2) 0.00043(4) 0.00010(2)
+Si2 Si4+ 0.00080(5) 0.00033(2) 0.00113(7) -.00001(2) 0.00040(4) 0.00011(2)
+Si3 Si4+ 0.00087(5) 0.00038(2) 0.00112(7) 0.00000(2) 0.00043(4) 0.00012(2)
+Na1 Na1+ 0.00162(7) 0.00118(3) 0.00320(9) -.00012(3) 0.00099(5) -.00053(3)
+O1 O2- 0.00203(3) 0.00063(1) 0.00138(4) -.00002(2) 0.00097(3) 0.00023(2)
+O2 O2- 0.00125(3) 0.00039(1) 0.00209(4) -.00005(2) 0.00059(3) 0.00020(2)
+O3 O2- 0.00157(3) 0.00070(1) 0.00254(4) -.00023(2) 0.00134(3) 0.00004(2)
+O4 O2- 0.00160(3) 0.00081(1) 0.00313(4) 0.00018(2) 0.00161(3) 0.00013(2)
+O5 O2- 0.00139(3) 0.0006(1) 0.00255(4) -.00019(2) 0.00079(3) -.00002(2)
+O6 O2- 0.00147(3) 0.00043(1) 0.00235(4) 0.00018(2) 0.00059(3) 0.00018(2)
+O7 O2- 0.00158(3) 0.00071(1) 0.00138(4) 0.00012(2) 0.00030(3) 0.00020(2)
+O8 O2- 0.00157(3) 0.00072(1) 0.00138(4) -.00020(2) 0.00008(3) -.00003(2)
+#End of TTdata_201919-ICSD

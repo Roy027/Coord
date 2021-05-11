@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428393-ICSD
+_database_code_ICSD 428393
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium arsenoditungstate'
+_chemical_formula_structural 'Na (As W2 O9)'
+_chemical_formula_sum 'As1 Na1 O9 W2'
+_exptl_crystal_density_diffrn 5.74
+_cell_measurement_temperature 304.
+_publ_section_title 'Synthesis, structure and properties of Na (As W2 O9)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 2014 60 258 263 MRBUAC
+loop_
+_publ_author_name
+'Zhao, Pei'
+'Murshed, M. Mangir'
+'Alekseev, Evgeny V.'
+'Atuchin, V.V.'
+'Pugachev, Alexey M.'
+'Gesing, Thorsten M.'
+_cell_length_a 4.9113(2)
+_cell_length_b 8.7238(4)
+_cell_length_c 16.4585(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 705.16
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.0372
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+As5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 a 0.34997(5) 0.12012(3) 0.044834(15) 0.00631(6) 1 0
+W2 W6+ 4 a 0.12064(5) 0.39034(3) 0.345988(15) 0.00563(6) 1 0
+As1 As5+ 4 a 0.36274(16) 0.72944(7) 0.27103(4) 0.00515(12) 1 0
+Na1 Na1+ 4 a 0.6999(10) 0.0144(5) 0.3894(3) 0.0332(11) 1 0
+O1 O2- 4 a 0.0360(11) 0.7478(7) 0.0990(4) 0.0124(11) 1 0
+O2 O2- 4 a 0.2204(12) 0.0028(7) 0.9726(3) 0.0130(11) 1 0
+O3 O2- 4 a 0.4843(10) 0.7698(6) 0.3626(3) 0.0082(10) 1 0
+O4 O2- 4 a 0.2785(10) 0.5458(5) 0.2572(3) 0.0079(9) 1 0
+O5 O2- 4 a 0.0957(10) 0.8463(6) 0.2558(3) 0.0113(10) 1 0
+O6 O2- 4 a 0.5951(12) 0.7531(6) 0.1958(3) 0.0115(10) 1 0
+O7 O2- 4 a 0.1372(12) 0.0505(5) 0.1321(3) 0.0107(9) 1 0
+O8 O2- 4 a 0.1458(11) 0.2960(5) 0.0237(3) 0.0081(9) 1 0
+O9 O2- 4 a 0.6421(12) 0.9749(5) 0.0800(3) 0.0099(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00596(10) 0.00666(10) 0.00632(11) -0.00053(10) -0.00144(9) 0.00007(10)
+W2 W6+ 0.00595(10) 0.00527(9) 0.00568(10) -0.00125(10) 0.00047(9) -0.00077(10)
+As1 As5+ 0.0056(3) 0.0047(2) 0.0051(3) -0.0001(3) -0.0008(3) 0.0004(2)
+Na1 Na1+ 0.050(3) 0.0257(19) 0.024(2) -0.021(2) -0.0115(19) 0.0068(18)
+O1 O2- 0.011(2) 0.013(2) 0.014(3) 0.0043(19) 0.006(2) 0.003(2)
+O2 O2- 0.016(3) 0.013(2) 0.010(2) -0.001(2) 0.002(2) -0.003(2)
+O3 O2- 0.009(2) 0.010(2) 0.005(2) -0.0003(18) -0.0042(17) 0.0027(19)
+O4 O2- 0.010(2) 0.0053(19) 0.009(2) -0.0036(17) 0.0010(19) 0.0014(19)
+O5 O2- 0.007(2) 0.014(2) 0.013(2) 0.0062(19) -0.0031(19) 0.002(2)
+O6 O2- 0.016(3) 0.011(2) 0.007(2) 0.002(2) 0.005(2) 0.0011(19)
+O7 O2- 0.016(3) 0.0042(18) 0.012(2) -0.002(2) 0.001(2) 0.0010(17)
+O8 O2- 0.009(2) 0.0074(18) 0.008(2) 0.002(2) -0.0043(19) 0.0026(17)
+O9 O2- 0.011(2) 0.0090(19) 0.010(2) 0.003(2) 0.000(2) 0.0040(18)
+#End of TTdata_428393-ICSD

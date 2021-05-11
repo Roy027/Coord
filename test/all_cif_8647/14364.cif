@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_14364-ICSD
+_database_code_ICSD 14364
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Lithium sodium sulfate(VI)'
+_chemical_formula_structural 'Li Na (S O4)'
+_chemical_formula_sum 'Li1 Na1 O4 S1'
+_chemical_name_structure_type LiNaSO4
+_exptl_crystal_density_diffrn 2.53
+_publ_section_title 'The crystal structure of lithium sodium sulfate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica' 1967 22 906 910 ACCRA9
+loop_
+_publ_author_name
+'Morosin, B.'
+'Smith, D.L.'
+_cell_length_a 7.6270(7)
+_cell_length_b 7.6270(7)
+_cell_length_c 9.8579(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 496.62
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.06
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 6 c 0.0308(27) 0.2503(27) 0.2583(17) . 1. 0
+Na1 Na1+ 6 c 0.02517(6) 0.5468(6) 0.4881(6) . 1. 0
+S1 S6+ 2 a 0 0 0 . 1. 0
+S2 S6+ 2 b 0.3333 0.6667 0.1976(7) . 1. 0
+S3 S6+ 2 b 0.6667 0.3333 0.2632(7) . 1. 0
+O1 O2- 2 a 0 0 0.1528(11) . 1. 0
+O2 O2- 2 b 0.3333 0.6667 0.3449(11) . 1. 0
+O3 O2- 2 b 0.6667 0.3333 0.1168(16) . 1. 0
+O4 O2- 6 c 0.2125(9) 0.1108(11) -.0460(7) . 1. 0
+O5 O2- 6 c 0.2218(12) 0.4557(10) 0.1468(8) . 1. 0
+O6 O2- 6 c 0.4776(12) 0.1697(16) 0.3166(10) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Li1 Li1+ 2.17(67) 1.63(64) 1.30(58) 1.10(57) -.21(35) 0.05(50)
+Na1 Na1+ 1.27(14) 1.70(16) 1.64(14) 0.41(14) -.10(11) -.14(16)
+S1 S6+ 0.62(7) 0.62(7) -.23(9) 0.31(7) 0 0
+S2 S6+ 0.40(8) 0.40(8) 0.39(11) 0.20(8) 0 0
+S3 S6+ 0.57(8) 0.57(8) 0.26(10) 0.29(8) 0 0
+O1 O2- 1.06(29) 1.06(29) 0.90(38) 0.53(29) 0 0
+O2 O2- 1.92(34) 1.92(34) -.41(37) 0.96(34) 0 0
+O3 O2- 3.20(51) 3.20(51) 1.35(60) 1.60(51) 0 0
+O4 O2- 1.06(20) 2.14(27) 0.70(25) 0.93(22) 0.65(11) 0.4(2)
+O5 O2- 2.20(31) 0.46(21) 1.40(28) -.08(21) -.07(15) -.28(19)
+O6 O2- 1.28(29) 3.29(25) 2.87(33) 0.22(27) 0.29(10) 0.83(31)
+#End of TTdata_14364-ICSD

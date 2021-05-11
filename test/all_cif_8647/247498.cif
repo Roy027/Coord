@@ -1,0 +1,77 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_247498-ICSD
+_database_code_ICSD 247498
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Lithium cobalt(II) phosphate(V)'
+_chemical_formula_structural 'Li Co (P O4)'
+_chemical_formula_sum 'Co1 Li1 O4 P1'
+_chemical_name_structure_type Olivine-Mg2SiO4
+_exptl_crystal_density_diffrn 3.88
+_publ_section_title
+
+;
+Ordered olivine-type lithium-cobalt and lithium-nickel phosphates prepared by
+a new precursor method
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2010 2010 4091 4099 EJICFO
+loop_
+_publ_author_name
+'Koleva, V.'
+'Zhecheva, E.'
+'Stoyanova, R.'
+_cell_length_a 10.0384(1)
+_cell_length_b 5.85945(5)
+_cell_length_c 4.68020(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 275.29
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0483
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Co2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 a 0 0 0 1.1 1. 0
+Co1 Co2+ 4 c 0.2757(1) 0.25 0.9821(2) 1.2 1. 0
+P1 P5+ 4 c 0.0952(2) 0.25 0.4199(4) 1.1 1. 0
+O1 O2- 4 c 0.0996(3) 0.25 0.7450(7) 0.7 1. 0
+O2 O2- 4 c 0.4503(4) 0.25 0.2019(6) 0.7 1. 0
+O3 O2- 8 d 0.1647(3) 0.0447(4) 0.2760(4) 0.7 1. 0
+#End of TTdata_247498-ICSD

@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156093-ICSD
+_database_code_ICSD 156093
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Lead bismuth sodium phosphate(V) (7.4/0.3/2.3/6)'
+_chemical_formula_structural 'Pb7.4 Bi0.3 Na2.3 (P O4)6'
+_chemical_formula_sum 'Bi0.3 Na2.3 O24 P6 Pb7.4'
+_chemical_name_structure_type Er3Pb1.5(SiO4)3
+_chemical_name_mineral Unnamed_Apatite
+_exptl_crystal_density_diffrn 6.3
+_publ_section_title
+
+;
+Synthesis and distribution of cations in substituted lead phosphate lacunar
+apatites
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 2007 42 299 311 MRBUAC
+loop_
+_publ_author_name
+'Hamdi, B.'
+'El Feki, H.'
+'Savariault, J.-M.'
+'Ben Salah, A.'
+_cell_length_a 9.7065(7)
+_cell_length_b 9.7065(7)
+_cell_length_c 7.1705(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 585.07
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Bi3+ 3
+Na1+ 1
+Pb2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 6 h 0.74486(4) 0.00156(4) 0.25 0.01781(13) 0.923(12) 0
+Bi1 Bi3+ 6 h 0.74486(4) 0.00156(4) 0.25 0.01781(13) 0.050(7) 0
+Na1 Na1+ 6 h 0.74486(4) 0.00156(4) 0.25 0.01781(13) 0.027(5) 0
+Pb2 Pb2+ 4 f 0.6667 0.3333 0.48875(10) 0.0163(2) 0.467(3) 0
+Na2 Na1+ 4 f 0.6667 0.3333 0.48875(10) 0.0163(2) 0.533(3) 0
+P1 P5+ 6 h 0.6000(3) 0.6211(3) 0.25 0.0107(4) 1. 0
+O1 O2- 12 i 0.6531(9) 0.7305(7) 0.4203(7) 0.0301(12) 1. 0
+O2 O2- 6 h 0.4158(8) 0.5204(9) 0.25 0.0314(19) 1. 0
+O3 O2- 6 h 0.6734(9) 0.5145(9) 0.25 0.0214(13) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.01532(17) 0.01541(17) 0.02191(19) 0.00773(12) 0. 0.
+Bi1 Bi3+ 0.01532(17) 0.01541(17) 0.02191(19) 0.00773(12) 0. 0.
+Na1 Na1+ 0.01532(17) 0.01541(17) 0.02191(19) 0.00773(12) 0. 0.
+Pb2 Pb2+ 0.0155(2) 0.0155(2) 0.0179(4) 0.00709(13) 0. 0.
+Na2 Na1+ 0.0155(2) 0.0155(2) 0.0179(4) 0.00709(13) 0. 0.
+P1 P5+ 0.0123(9) 0.0099(8) 0.0109(8) 0.0064(7) 0. 0.
+O1 O2- 0.051(4) 0.030(3) 0.018(2) 0.026(3) -0.013(2) -0.009(2)
+O2 O2- 0.004(2) 0.022(4) 0.064(6) 0.003(2) 0. 0.
+O3 O2- 0.027(3) 0.026(4) 0.019(3) 0.019(3) 0. 0.
+#End of TTdata_156093-ICSD

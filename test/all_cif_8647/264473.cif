@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_264473-ICSD
+_database_code_ICSD 264473
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Sodium europium bis(molybdate)'
+_chemical_formula_structural 'Na Eu (Mo O4)2'
+_chemical_formula_sum 'Eu1 Mo2 Na1 O8'
+_exptl_crystal_density_diffrn 5.21
+_publ_section_title
+
+;
+Determination of the crystal structure and photoluminescence properties of
+NaEu1-xGdx(MoO4)2 phosphor synthesized by a water-assisted low-temperature
+synthesis technique
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'RSC Advances' 2017 7 25089 25094 RSCACL
+loop_
+_publ_author_name
+'Hasegawa, Takuya'
+'Kim, Sun Woog'
+'Abe, Yusuke'
+'Muto, Masaru'
+'Watanabe, Mizuki'
+'Kaneko, Tatsuro'
+'Uematsu, Kazuyoshi'
+'Ishigaki, Tadashi'
+'Toda, Kenji'
+'Sato, Mineo'
+'Koide, Junko'
+'Toda, Masako'
+'Kudo, Yoshiaki'
+_cell_length_a 7.4214(6)
+_cell_length_b 11.4644(1)
+_cell_length_c 5.2475(4)
+_cell_angle_alpha 90
+_cell_angle_beta 134.999(4)
+_cell_angle_gamma 90
+_cell_volume 315.71
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0169
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+Na1+ 1
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 4 e 0 0.1210(4) 0.25 0.0094(5) 0.504(3) 0
+Na1 Na1+ 4 e 0 0.12096 0.25 0.00943 0.4961 0
+Mo1 Mo6+ 4 e 0 0.6266(3) 0.25 0.0076(4) 1. 0
+O1 O2- 8 f 0.127(1) 0.2950(6) 0.077(2) 0.013(1) 1. 0
+O2 O2- 8 f 0.224(2) 0.0381(5) 0.143(2) 0.01271 1. 0
+#End of TTdata_264473-ICSD

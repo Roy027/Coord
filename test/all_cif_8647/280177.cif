@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280177-ICSD
+_database_code_ICSD 280177
+_audit_creation_date 2000-07-15
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Disodium zinc tetrakis(dihydrogenphosphate(V)) tetrahydrate'
+_chemical_formula_structural 'Na2 Zn (H2 P O4)4 (H2 O)4'
+_chemical_formula_sum 'H16 Na2 O20 P4 Zn1'
+_chemical_name_structure_type Na2Zn(H2PO4)4(H2O)4
+_exptl_crystal_density_diffrn 2.23
+_cell_measurement_temperature 298.
+_publ_section_title
+'A sodium zinc phosphate hydrate, Na2 Zn (H2 P O4)4 . 4(H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1999 55 2 2 ACSCEE
+loop_
+_publ_author_name
+'Harrison, W.T.A.'
+_cell_length_a 7.255(1)
+_cell_length_b 10.741(2)
+_cell_length_c 11.115(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.142(14)
+_cell_angle_gamma 90.
+_cell_volume 852.61
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.75357(15) 0.1713(1) 0.4588(1) . 1. 0
+Zn1 Zn2+ 2 a 0.5 0.5 0.5 . 1. 0
+P1 P5+ 4 e 0.23916(8) 0.23850(5) 0.41931(5) . 1. 0
+P2 P5+ 4 e 0.73942(8) 0.45446(6) 0.28217(5) . 1. 0
+O1 O2- 4 e 0.4162(2) 0.15284(17) 0.42332(18) . 1. 0
+O2 O2- 4 e 0.1394(2) 0.25429(17) 0.28856(15) . 1. 0
+O3 O2- 4 e 0.1006(2) 0.16956(17) 0.48941(16) . 1. 0
+O4 O2- 4 e 0.3023(3) 0.35866(17) 0.48377(17) . 1. 0
+O5 O2- 4 e 0.8916(3) 0.5388(2) 0.36267(18) . 1. 0
+O6 O2- 4 e 0.7378(3) 0.48454(17) 0.14999(15) . 1. 0
+O7 O2- 4 e 0.8029(3) 0.31559(18) 0.30745(18) . 1. 0
+O8 O2- 4 e 0.5552(2) 0.46840(17) 0.32604(16) . 1. 0
+O9 O2- 4 e 0.7216(2) 0.36974(17) 0.58396(16) . 1. 0
+O10 O2- 4 e 0.7416(3) 0.06059(17) 0.64791(17) . 1. 0
+H1 H1+ 4 e 0.3985 0.08469 0.41563 0.080(7) 1. 0
+H2 H1+ 4 e 0.1528 0.12233 0.53733 0.080(7) 1. 0
+H3 H1+ 4 e 0.8476 0.5857 0.42041 0.080(7) 1. 0
+H4 H1+ 4 e 0.9289 0.30836 0.29538 0.080(7) 1. 0
+H5 H1+ 4 e 0.6852 0.34661 0.63969 0.080(7) 1. 0
+H6 H1+ 4 e 0.8219 0.40827 0.59525 0.080(7) 1. 0
+H7 H1+ 4 e 0.7052 0.11319 0.68518 0.080(7) 1. 0
+H8 H1+ 4 e 0.8423 0.03319 0.67768 0.080(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0228(5) 0.0205(5) 0.0222(5) -.0012(4) 0.0053(4) 0.0003(4)
+Zn1 Zn2+ 0.01579(18) 0.01575(18) 0.01460(17) -.00149(14) 0.00487(13) -.00251(14)
+P1 P5+ 0.0134(2) 0.0121(2) 0.0132(2) -.00021(19) 0.00242(18) -.00066(19)
+P2 P5+ 0.0135(2) 0.0171(3) 0.0115(2) 0.0010(2) 0.00269(19) -.0007(2)
+O1 O2- 0.0165(8) 0.0176(8) 0.034(1) 0.0039(6) 0.0038(7) -.0013(7)
+O2 O2- 0.0207(8) 0.0244(9) 0.0132(7) 0.0034(7) 0.0029(6) 0.0021(6)
+O3 O2- 0.0161(8) 0.0228(9) 0.0222(8) -.0024(6) 0.0031(6) 0.0102(7)
+O4 O2- 0.0247(9) 0.0189(8) 0.0256(9) -.0065(7) 0.0093(7) -.0090(7)
+O5 O2- 0.0166(8) 0.0415(12) 0.0251(9) -.0071(8) 0.0054(7) -.0135(8)
+O6 O2- 0.0313(9) 0.0189(8) 0.0134(7) 0.0007(7) 0.0056(7) 0.0006(6)
+O7 O2- 0.0225(9) 0.0221(9) 0.030(1) 0.0057(7) 0.0098(7) 0.0089(7)
+O8 O2- 0.0136(7) 0.0268(9) 0.0165(7) 0.0006(6) 0.0027(6) -.0039(6)
+O9 O2- 0.0192(8) 0.0222(9) 0.0186(8) 0.0001(7) 0.0042(6) 0.0031(7)
+O10 O2- 0.0238(9) 0.0192(8) 0.0229(9) 0.0036(7) 0.0005(7) -.0040(7)
+#End of TTdata_280177-ICSD

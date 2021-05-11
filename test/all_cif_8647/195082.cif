@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195082-ICSD
+_database_code_ICSD 195082
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium dirubidium trinitrate'
+_chemical_formula_structural 'Na Rb2 (N O3)3'
+_chemical_formula_sum 'N3 Na1 O9 Rb2'
+_exptl_crystal_density_diffrn 2.68
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Le nitrate double Na Rb2 (N O3)3, compose intermediaire du systeme binaire
+isobare Na N O3 + Rb N O3: etudes thermiques et cristallographiques
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2015 71 455 458 ACSECI
+loop_
+_publ_author_name
+'Ksiksi, Nesrine'
+'Driss, Mohamed'
+'Hellali, Dalila'
+'Guesmi, Abderrahmen'
+'Zamali, Hmida'
+_cell_length_a 5.327(5)
+_cell_length_b 9.079(4)
+_cell_length_c 9.718(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 469.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m c 21'
+_symmetry_Int_Tables_number 26
+_refine_ls_R_factor_all 0.0243
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Na1+ 1
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 b 0.5 0.08278(8) 0.33461(7) 0.0293(2) 1 0
+Rb2 Rb1+ 2 b 0.5 0.37837(8) 0.66067(7) 0.0312(2) 1 0
+Na1 Na1+ 2 a 0 0.7007(3) 0.6151(3) 0.0329(8) 1 0
+N1 N5+ 2 a 1 0.0537(7) 0.6267(7) 0.0292(15) 1 0
+O1 O2- 2 a 1 -0.0580(6) 0.7033(7) 0.0382(14) 1 0
+O2 O2- 4 c 0.7945(12) 0.1047(6) 0.5920(7) 0.0665(17) 1 0
+N2 N5+ 2 a 0 0.4139(7) 0.4141(8) 0.0263(14) 1 0
+O3 O2- 2 a 0 0.4581(7) 0.5370(6) 0.0374(14) 1 0
+O4 O2- 4 c 0.2020(10) 0.3901(5) 0.3557(7) 0.0615(16) 1 0
+N3 N5+ 2 b 0.5 0.2516(6) 0.9835(7) 0.0268(13) 1 0
+O5 O2- 2 b 0.5 0.2981(6) 1.1048(6) 0.0391(14) 1 0
+O6 O2- 4 c 0.7029(8) 0.2278(5) 0.9225(5) 0.0443(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0286(4) 0.0330(4) 0.0263(4) 0 0 0.0045(3)
+Rb2 Rb1+ 0.0313(4) 0.0257(3) 0.0366(4) 0 0 0.0044(3)
+Na1 Na1+ 0.0323(15) 0.0263(15) 0.0400(19) 0 0 -0.0054(13)
+N1 N5+ 0.037(3) 0.022(3) 0.029(4) 0 0 -0.006(3)
+O1 O2- 0.045(3) 0.024(2) 0.046(4) 0 0 0.005(2)
+O2 O2- 0.066(3) 0.067(3) 0.067(4) 0.032(3) -0.027(3) -0.006(3)
+N2 N5+ 0.027(3) 0.023(3) 0.030(4) 0 0 -0.002(3)
+O3 O2- 0.050(4) 0.033(3) 0.029(3) 0 0 -0.006(2)
+O4 O2- 0.053(3) 0.062(3) 0.069(4) 0.007(2) 0.032(3) 0.000(3)
+N3 N5+ 0.029(3) 0.027(3) 0.025(3) 0 0 -0.002(3)
+O5 O2- 0.057(4) 0.033(3) 0.027(3) 0 0 -0.002(3)
+O6 O2- 0.033(2) 0.059(3) 0.041(3) 0.003(2) 0.007(2) -0.007(2)
+#End of TTdata_195082-ICSD

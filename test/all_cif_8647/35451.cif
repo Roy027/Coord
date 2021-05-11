@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35451-ICSD
+_database_code_ICSD 35451
+_audit_creation_date 1983-12-31
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium copper phosphate(V) - alpha'
+_chemical_formula_structural 'Na Cu (P O4)'
+_chemical_formula_sum 'Cu1 Na1 O4 P1'
+_chemical_name_structure_type BaNdGaO4
+_exptl_crystal_density_diffrn 3.61
+_publ_section_title 'Structure de l'orthophosphate double Na Cu P O4-alpha'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1983 39 664 667 ACSCEE
+loop_
+_publ_author_name
+'Quarton, M.'
+'Kolsi, A.W.'
+_cell_length_a 9.708(5)
+_cell_length_b 4.805(2)
+_cell_length_c 7.166(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 334.27
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cu2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.6876(2) 0.0185(5) 0.2317(3) . 1. 0
+Cu1 Cu2+ 4 a 0.54163(5) 0.4975(1) 0.94537(7) . 1. 0
+P1 P5+ 4 a 0.6349(1) 0.5625(2) 0.5272(2) . 1. 0
+O1 O2- 4 a 0.7794(4) 0.6577(8) 0.4764(6) . 1. 0
+O2 O2- 4 a 0.5335(4) 0.7060(7) 0.3935(5) . 1. 0
+O3 O2- 4 a 0.6021(4) 0.6918(7) 0.7202(5) . 1. 0
+O4 O2- 4 a 0.6228(4) 0.2444(8) 0.5245(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00354(17) 0.01338(79) 0.00635(31) 0.00035(38) 0.00031(20) -.00066(53)
+Cu1 Cu2+ 0.00141(4) 0.00751(17) 0.00422(8) -.00004(8) -.00005(4) 0.00033(12)
+P1 P5+ 0.00063(7) 0.00298(33) 0.00235(15) 0.00000(14) 0.00008(9) 0.00009(18)
+O1 O2- 0.00221(27) 0.0097(11) 0.00772(60) -.00013(48) 0.00049(37) 0.00060(76)
+O2 O2- 0.00198(25) 0.0082(11) 0.00499(49) -.00028(50) -.00015(33) 0.00019(64)
+O3 O2- 0.00292(28) 0.0085(12) 0.00419(49) 0.00003(50) -.00014(33) -.00008(70)
+O4 O2- 0.00251(28) 0.0084(11) 0.00533(55) 0.00017(48) -.00025(36) 0.00000(72)
+#End of TTdata_35451-ICSD

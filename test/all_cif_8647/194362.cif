@@ -1,0 +1,78 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194362-ICSD
+_database_code_ICSD 194362
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Disodium iron bis(sulfate) dihydrate'
+_chemical_formula_structural 'Na2 Fe (S O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Fe1 Na2 O10 S2'
+_chemical_name_structure_type Kroehnkite-Na2Cu(SO4)2(H2O)2#Roselite
+_exptl_crystal_density_diffrn 2.8
+_publ_section_title
+
+;
+Kroehnkite-type Na2 Fe (S O4)2 * 2(H2 O) as a novel 3.25 V insertion compound
+for Na-ion batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2014 26 1297 1299 CMATEX
+loop_
+_publ_author_name
+'Barpanda, Prabeer'
+'Oyama, Gosuke'
+'Ling, Chris D.'
+'Yamada, Atsuo'
+_cell_length_a 5.76386(5)
+_cell_length_b 12.97517(10)
+_cell_length_c 5.44923(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.96750(30)
+_cell_angle_gamma 90.
+_cell_volume 391.8
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 2 a 0. 0. 0. 0.01022(30) 1. 0
+Na1 Na1+ 4 e 0.57277(31) 0.11942(14) 0.2494(4) 0.0304(6) 1. 0
+S1 S6+ 4 e 0.22277(21) 0.11647(8) 0.57134(24) 0.01050(34) 1. 0
+O1 O2- 4 e -0.0124(5) 0.16917(17) 0.5159(5) 0.0083(7) 1. 0
+O2 O2- 4 e 0.2672(4) 0.05957(17) 0.8221(5) 0.0123(9) 1. 0
+O3 O2- 4 e 0.2281(4) 0.04282(18) 0.3744(6) 0.0094(8) 1. 0
+O4 O2- 4 e 0.4207(5) 0.18955(18) 0.5916(5) 0.0119(8) 1. 0
+O5 O2- 4 e 0.8237(4) 0.13657(8) 0.9699(4) 0.0126(8) 1. 0
+H1 H1+ 4 e 0.0957(12) 0.69545(6) 0.517(4) 0.0126(8) 1. 0
+H2 H1+ 4 e 0.3136(11) 0.64854(4) 0.647(4) 0.0126(8) 1. 0
+#End of TTdata_194362-ICSD

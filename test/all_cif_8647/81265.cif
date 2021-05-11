@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81265-ICSD
+_database_code_ICSD 81265
+_audit_creation_date 1997-11-05
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Sodium guanidinium tricyanoguanidinate'
+_chemical_formula_structural 'Na (C (N H2)3) (C (N C N)3)'
+_chemical_formula_sum 'C5 H6 N9 Na1'
+_chemical_name_structure_type Na(C(NH2)3)(C(NCN)3)
+_exptl_crystal_density_diffrn 1.57
+_publ_section_title
+
+;
+Syntheses and characterization of salts of N, N', N" tricyanoguanidinate
+dianion (C4 N6(2-)) and the observation of a strong nonlinear optical effect
+by second harmonic generation from Na2 C4 N6 . (H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 1995 7 2213 2216 CMATEX
+loop_
+_publ_author_name
+'Subrayan, R.P.'
+'Francis, A.H.'
+'Kampf, J.W.'
+'Rasmussen, P.G.'
+_cell_length_a 8.942(2)
+_cell_length_b 8.942(2)
+_cell_length_c 6.576(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 455.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+N3- -3
+C4+ 4
+N3- -3
+C4+ 4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 b 0 0 0.5 . 1. 0
+Na2 Na1+ 1 a 0 0 0 . 1. 0
+N1 N3- 6 g 0.1855(1) 0.5138(1) 0.2500(1) . 0.896(4) 0
+N2 N3- 6 g 0.1825(1) 0.2380(1) 0.2499(2) . 1. 0
+N3 N3- 6 g 0.4919(1) 0.8013(1) 0.7500(1) . 1. 0
+C1 C4+ 2 d 0.3333 0.6667 0.2499(2) . 1. 0
+C2 C4+ 6 g 0.1954(2) 0.3736(2) 0.2499(2) . 0.896(4) 0
+C3 C4+ 2 d 0.3333 0.6667 0.7500(2) . 1. 0
+N4 N3- 6 g 0.1656(9) 0.6218(9) 0.2496(11) . 0.104(4) 0
+C4 C4+ 6 g 0.2561(16) 0.3778(16) 0.2492(18) . 0.104(4) 0
+H1 H1+ 6 g 0.5762(20) 0.7824(18) 0.7506(20) 0.037(3) 1. 0
+H2 H1+ 6 g 0.5002(22) 0.9013(23) 0.752(2) 0.031(4) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.028(1) 0.028(1) 0.033(1) 0.014(1) 0 0
+Na2 Na1+ 0.028(1) 0.028(1) 0.033(1) 0.014(1) 0 0
+N1 N3- 0.020(1) 0.020(1) 0.045(1) 0.010(1) 0.000(1) 0.000(1)
+N2 N3- 0.029(1) 0.020(1) 0.052(1) 0.011(1) 0.000(1) 0.000(1)
+N3 N3- 0.023(1) 0.024(1) 0.054(1) 0.011(1) 0.000(1) 0.000(1)
+C1 C4+ 0.021(1) 0.021(1) 0.029(1) 0.010(1) 0 0
+C2 C4+ 0.017(1) 0.023(1) 0.036(1) 0.009(1) 0.000(1) 0.000(1)
+C3 C4+ 0.025(1) 0.025(1) 0.029(1) 0.013(1) 0 0
+N4 N3- 0.022(3) 0.017(3) 0.036(3) 0.014(2) -.001(2) 0.000(2)
+C4 C4+ 0.017(4) 0.025(4) 0.031(4) 0.014(4) 0.000(3) 0.002(3)
+#End of TTdata_81265-ICSD

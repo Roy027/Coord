@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97289-ICSD
+_database_code_ICSD 97289
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Disodium potassium yttrium hexasilicate'
+_chemical_formula_structural 'Na2 K Y (Si6 O15)'
+_chemical_formula_sum 'K1 Na2 O15 Si6 Y1'
+_chemical_name_mineral Moskvinite-(Y)
+_exptl_crystal_density_diffrn 2.84
+_publ_section_title
+
+;
+The crystal structure of moskvinite-(Y); Na2 K (Y, REE) (Si6 O15), a new
+silicate mineral with (Si6 O15) three-membered double rings from the
+Dara-i-Pioz moraine, Tien-Shan mountains, Tajikistan
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2003 41 513 520 CAMIA6
+loop_
+_publ_author_name
+'Sokolova, E.'
+'Hawthorne, F.C.'
+'Agakhanov, A.A.'
+'Pautov, L.A.'
+_cell_length_a 10.623(2)
+_cell_length_b 14.970(2)
+_cell_length_c 8.553(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1360.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b m m'
+_symmetry_Int_Tables_number 74
+_refine_ls_R_factor_all 0.0174
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z+1/2'
+2 'x, -y, -z+1/2'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x, y, -z+1/2'
+6 '-x, y, z+1/2'
+7 '-x, y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y+1/2, z'
+10 'x+1/2, -y+1/2, -z'
+11 'x+1/2, -y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, y+1/2, -z'
+14 '-x+1/2, y+1/2, z'
+15 '-x+1/2, y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+K1+ 1
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 c 0.25 0.25 0.25 0.00679(8) 1. 0
+K1 K1+ 4 e 0.43056(9) 0 0.25 0.0254(2) 1. 0
+Na1 Na1+ 8 f 0.5 0.25636(7) 0 0.0178(2) 1. 0
+Si1 Si4+ 8 i 0.53384(6) 0.40003(5) 0.25 0.00943(15) 1. 0
+Si2 Si4+ 16 j 0.22002(4) 0.39603(3) -.07776(6) 0.00934(12) 1. 0
+O1 O2- 8 i 0.15917(17) 0.37118(13) 0.75 0.0138(4) 1. 0
+O2 O2- 8 i 0.43311(17) 0.32256(12) 0.25 0.0129(4) 1. 0
+O3 O2- 16 j 0.37260(11) 0.38915(9) -.09771(15) 0.0129(3) 1. 0
+O4 O2- 8 h 0.18101(17) 0.5 -0.0448(2) 0.0155(4) 1. 0
+O5 O2- 16 j 0.16655(12) 0.33667(9) 0.05854(15) 0.0136(3) 1. 0
+O6 O2- 4 e 0.4751(3) 0.5 0.25 0.0140(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.00714(13) 0.00699(13) 0.00624(12) -.00077(11) 0. 0.
+K1 K1+ 0.0234(5) 0.0373(6) 0.0154(4) 0. 0. 0.
+Na1 Na1+ 0.0168(5) 0.0167(5) 0.0197(5) 0. 0.0051(4) 0.
+Si1 Si4+ 0.0083(3) 0.0093(3) 0.0108(3) -.0013(2) 0. 0.
+Si2 Si4+ 0.0100(2) 0.0091(2) 0.0089(2) 0.00008(16) 0.00047(16) 0.00111(18)
+O1 O2- 0.0116(9) 0.0192(10) 0.0107(8) -.0025(8) 0. 0.
+O2 O2- 0.0109(6) 0.0123(9) 0.0154(9) -.0038(7) 0. 0.
+O3 O2- 0.0101(6) 0.0173(7) 0.0114(6) 0.0000(5) 0.0003(5) 0.0011(5)
+O4 O2- 0.0170(9) 0.0086(8) 0.0211(10) 0. 0.0034(8) 0.
+O5 O2- 0.0139(6) 0.0143(6) 0.0127(6) -.0012(5) -.0010(5) 0.0050(5)
+O6 O2- 0.0139(13) 0.0097(12) 0.0184(13) 0. 0. 0.
+#End of TTdata_97289-ICSD

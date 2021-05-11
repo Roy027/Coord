@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92850-ICSD
+_database_code_ICSD 92850
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium bismuth vanadium oxide (0.96/3.04/2/10)'
+_chemical_formula_structural 'Na0.96 Bi3.04 V2 O10'
+_chemical_formula_sum 'Bi3.04 Na0.96 O10 V2'
+_chemical_name_structure_type NaBi3V2O10
+_exptl_crystal_density_diffrn 6.41
+_publ_section_title
+'Structure of Na Bi3 V2 O10 and implications for ionic conductivity'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2001 13 3825 3826 CMATEX
+loop_
+_publ_author_name
+'Bliesner, R.'
+'Uma, S.'
+'Yokochi, A.'
+'Sleight, A.W.'
+_cell_length_a 5.538(5)
+_cell_length_b 7.058(4)
+_cell_length_c 7.120(7)
+_cell_angle_alpha 107.66(6)
+_cell_angle_beta 112.21(8)
+_cell_angle_gamma 95.65(7)
+_cell_volume 238.24
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.063
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Na1+ 1
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 2 i 0.0838(1) 0.7574(1) 0.5283(1) 0.013(1) 1. 0
+Bi2 Bi3+ 2 i 0.3134(2) 0.3822(2) 0.2103(2) 0.014(1) 0.523(6) 0
+Na1 Na1+ 2 i 0.3134(2) 0.3822(2) 0.2103(2) 0.014(1) 0.476(6) 0
+V1 V5+ 2 i 0.3446(6) 0.8440(4) 0.1446(4) 0.013(1) 1. 0
+O1 O2- 2 i 0.159(3) 0.690(2) 0.217(2) 0.015(2) 1. 0
+O2 O2- 2 i 0.147(3) 0.803(2) 0.875(2) 0.020(3) 1. 0
+O3 O2- 2 i 0.252(3) 0.500(2) 0.527(2) 0.020(3) 1. 0
+O4 O2- 2 i 0.566(3) 0.895(2) 0.693(2) 0.022(3) 1. 0
+O5 O2- 2 i 0.380(3) 0.235(2) 0.833(3) 0.027(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.014(1) 0.013(1) 0.013(1) 0.004(1) 0.006(1) 0.005(1)
+Bi2 Bi3+ 0.012(1) 0.016(1) 0.013(1) 0.002(1) 0.005(1) 0.004(1)
+Na1 Na1+ 0.012(1) 0.016(1) 0.013(1) 0.002(1) 0.005(1) 0.004(1)
+V1 V5+ 0.010(1) 0.018(1) 0.007(1) -0.002(1) 0.002(1) 0.002(1)
+O1 O2- 0.018(5) 0.019(5) 0.013(4) 0.000(4) 0.013(4) 0.005(4)
+O2 O2- 0.018(6) 0.035(6) 0.008(4) 0.002(5) 0.005(4) 0.011(4)
+O3 O2- 0.007(5) 0.027(7) 0.029(7) 0.004(5) 0.008(5) 0.016(5)
+O4 O2- 0.013(6) 0.025(7) 0.023(6) -0.002(5) 0.005(5) 0.008(5)
+O5 O2- 0.021(7) 0.030(8) 0.034(8) 0.015(6) 0.011(7) 0.015(6)
+#End of TTdata_92850-ICSD

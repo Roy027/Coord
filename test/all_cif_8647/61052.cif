@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61052-ICSD
+_database_code_ICSD 61052
+_audit_creation_date 1986-12-03
+_audit_update_record 1994-06-30
+_chemical_name_systematic 'Disodium tribarium tetrachromium fluoride'
+_chemical_formula_structural 'Na2 Ba3 Cr4 F20'
+_chemical_formula_sum 'Ba3 Cr4 F20 Na2'
+_exptl_crystal_density_diffrn 4.26
+_publ_section_title 'Structure of Na2 Ba3 Cr4 F20'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1985 41 1696 1698 ACSCEE
+loop_
+_publ_author_name
+'Abjean, P.'
+'le Blanc, M.'
+'de Pape, R.'
+'Ferey, G.'
+_cell_length_a 7.262(4)
+_cell_length_b 20.668(8)
+_cell_length_c 5.431(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.76(1)
+_cell_angle_gamma 90.
+_cell_volume 815.07
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.027
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ba2+ 2
+Cr3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.7736(5) 0.4094(2) -.0139(6) . 1. 0
+Ba1 Ba2+ 2 a 0 0 0 . 1. 0
+Ba2 Ba2+ 4 e 0.4947(1) 0.2769(1) -.4763(1) . 1. 0
+Cr1 Cr3+ 4 e 0.4675(2) 0.1386(1) -.0270(2) . 1. 0
+Cr2 Cr3+ 4 e 0.2879(2) 0.3965(1) -.0192(2) . 1. 0
+F1 F1- 4 e 0.2957(6) 0.1791(2) -.2407(8) . 1. 0
+F2 F1- 4 e 0.3072(6) 0.0677(2) 0.0009(9) . 1. 0
+F3 F1- 4 e 0.2730(6) 0.3065(2) -.0498(9) . 1. 0
+F4 F1- 4 e 0.1447(6) 0.4066(2) -.3199(8) . 1. 0
+F5 F1- 4 e 0.3116(6) 0.4870(2) -.0014(9) . 1. 0
+F6 F1- 4 e 0.4998(6) 0.3929(2) -.2168(8) . 1. 0
+F7 F1- 4 e 0.6260(6) 0.2103(2) -.0621(9) . 1. 0
+F8 F1- 4 e 0.5674(6) 0.0991(2) -.3246(8) . 1. 0
+F9 F1- 4 e 0.8566(6) 0.3220(2) -.2550(8) . 1. 0
+F10 F1- 4 e 0.9351(6) 0.1112(2) -.2352(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0239(18) 0.0183(17) 0.0285(21) 0.0046(14) -.0095(15) 0.0008(14)
+Ba1 Ba2+ 0.0150(4) 0.0115(3) 0.0162(4) -.0038(3) 0.0009(3) -.0001(3)
+Ba2 Ba2+ 0.0082(2) 0.0108(2) 0.0151(3) 0.0005(2) 0.0018(2) 0.0004(2)
+Cr1 Cr3+ 0.0053(6) 0.0117(6) 0.0086(7) -.0005(5) 0.0007(5) 0.0000(5)
+Cr2 Cr3+ 0.0072(6) 0.0086(6) 0.0088(7) -.0008(5) 0.0014(5) 0.0000(5)
+F1 F1- 0.0099(24) 0.0180(23) 0.0181(28) -.0006(18) 0.0003(19) 0.0006(19)
+F2 F1- 0.0134(23) 0.0144(23) 0.0345(32) -.0050(19) 0.0043(21) -.0011(20)
+F3 F1- 0.0217(26) 0.0129(23) 0.0234(29) 0.0007(20) 0.006(2) -.0012(20)
+F4 F1- 0.0196(25) 0.0212(24) 0.0166(27) -.0021(20) -.0061(20) 0.0004(19)
+F5 F1- 0.0190(24) 0.0120(24) 0.0298(31) 0.0013(19) 0.0013(21) 0.0007(19)
+F6 F1- 0.0058(21) 0.0178(22) 0.0186(27) -.0033(17) 0.0023(18) 0.0006(18)
+F7 F1- 0.0111(23) 0.0185(23) 0.0235(28) -.0048(18) -.0021(19) 0.0029(20)
+F8 F1- 0.0076(21) 0.0235(25) 0.0144(27) -.0026(18) 0.0047(18) -.0033(19)
+F9 F1- 0.0169(25) 0.0182(23) 0.0133(27) 0.0011(19) 0.0059(19) 0.0043(19)
+F10 F1- 0.0144(23) 0.0221(25) 0.0131(27) -.0016(19) -.0057(19) 0.0011(19)
+#End of TTdata_61052-ICSD

@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_866-ICSD
+_database_code_ICSD 866
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Trisodium lanthanum bis(vanadate)'
+_chemical_formula_structural 'Na3 La (V O4)2'
+_chemical_formula_sum 'La1 Na3 O8 V2'
+_exptl_crystal_density_diffrn 3.77
+_publ_section_title
+'Crystal structure of sodium lanthanum orthovanadate, Na3 La (V O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1976 15 1440 1444 INOCAJ
+loop_
+_publ_author_name
+'Vlasse, M.'
+'Salmon, R.'
+'Parent, C.'
+_cell_length_a 5.582(2)
+_cell_length_b 14.240(8)
+_cell_length_c 19.420(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1543.65
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c 21'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.081
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, z'
+2 'x, -y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+V5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 a 0.4362(4) 0.1358(1) 0 1.14 1. 0
+La2 La3+ 4 a 0.0642(4) 0.1144(1) 0.2284(1) 1.13 1. 0
+V1 V5+ 4 a 0.5295(8) 0.0205(4) 0.1503(3) 0.94 1. 0
+V2 V5+ 4 a -.0392(8) 0.4747(3) 0.4071(2) 0.78 1. 0
+V3 V5+ 4 a 0.5357(9) 0.2255(3) 0.3223(2) 0.4 1. 0
+V4 V5+ 4 a -.0156(7) 0.2296(3) 0.0792(3) 0.31 1. 0
+Na1 Na1+ 4 a 0.0127(14) 0.3605(13) 0.2552(10) 2.05 1. 0
+Na2 Na1+ 4 a 0.5040(18) 0.1182(9) 0.4781(7) 0.63 1. 0
+Na3 Na1+ 4 a 0.0138(21) 0.4507(11) 0.0757(9) 1.07 1. 0
+Na4 Na1+ 4 a 0.5247(14) 0.2995(13) 0.1599(9) 2.14 1. 0
+Na5 Na1+ 4 a -.0226(25) 0.2159(13) 0.4188(9) 2.19 1. 0
+Na6 Na1+ 4 a 0.4568(26) 0.4667(11) 0.3151(8) 1.9 1. 0
+O1 O2- 4 a 0.4678(32) 0.4848(19) 0.0665(13) 1.54 1. 0
+O2 O2- 4 a 0.4859(31) 0.1405(11) 0.1494(8) 0.67 1. 0
+O3 O2- 4 a 0.2089(37) 0.4901(19) 0.1868(13) 2.31 1. 0
+O4 O2- 4 a 0.7118(29) 0.4650(14) 0.1922(10) 1.38 1. 0
+O5 O2- 4 a -.0148(30) 0.2613(16) 0.1634(11) 0.92 1. 0
+O6 O2- 4 a 0.0489(37) 0.1183(19) 0.0736(13) 2.35 1. 0
+O7 O2- 4 a 0.7133(34) 0.2556(18) 0.0444(13) 2.2 1. 0
+O8 O2- 4 a 0.2004(29) 0.2830(14) 0.0348(10) 1.38 1. 0
+O9 O2- 4 a 0.4014(32) 0.1175(13) 0.3093(11) 1.36 1. 0
+O10 O2- 4 a 0.5289(32) 0.2565(16) 0.4091(13) 2.32 1. 0
+O11 O2- 4 a 0.4107(37) 0.3089(17) 0.2766(12) 2.41 1. 0
+O12 O2- 4 a 0.8486(27) 0.2197(13) 0.302(1) 1.22 1. 0
+O13 O2- 4 a 0.1082(32) 0.3736(14) 0.4264(11) 1.68 1. 0
+O14 O2- 4 a 0.0124(26) 0.4961(10) 0.3221(7) 0.65 1. 0
+O15 O2- 4 a 0.8984(28) 0.0567(12) 0.4572(10) 1.47 1. 0
+O16 O2- 4 a 0.6641(28) 0.4660(14) 0.4219(10) 1.51 1. 0
+#End of TTdata_866-ICSD

@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_408113-ICSD
+_database_code_ICSD 408113
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Disodium zinc iron(III) fluoride'
+_chemical_formula_structural 'Na2 Zn Fe F7'
+_chemical_formula_sum 'F7 Fe1 Na2 Zn1'
+_chemical_name_structure_type Na2CoFeF7
+_exptl_crystal_density_diffrn 3.55
+_publ_section_title
+
+;
+Ueber roentgenographische Einkristalluntersuchungen an Na2 Fe Al F7, Na2 MII
+Ga F7 (MII= Ni, Zn) und Na2 Zn Fe F7 und die Strukturchemie der Weberite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1998
+624 1003 1010 ZAACAB
+loop_
+_publ_author_name
+'Dahlke, P.'
+'Peschel, B.'
+'Babel, D.'
+_cell_length_a 12.610(2)
+_cell_length_b 7.3589(6)
+_cell_length_c 24.5380(20)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.70(1)
+_cell_angle_gamma 90.
+_cell_volume 2244.47
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.071
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+Fe3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+Na2 Na1+ 4 b 0 0.5 0 . 1. 0
+Na3 Na1+ 4 d 0.25 0.25 0.5 . 1. 0
+Na4 Na1+ 4 e 0 0.7774(8) 0.25 . 1. 0
+Na5 Na1+ 8 f 0.2536(6) 0.0389(6) 0.2514(2) . 1. 0
+Na6 Na1+ 8 f 0.3735(6) 0.5062(6) 0.1218(2) . 1. 0
+Zn1 Zn2+ 8 f 0.37762(15) 0.00848(13) 0.12777(5) . 1. 0
+Zn2 Zn2+ 8 f 0.1267(2) 0.26062(13) 0.12599(5) . 1. 0
+Fe1 Fe3+ 4 c 0.25 0.25 0 0.0087(5) 1. 0
+Fe2 Fe3+ 4 e 0 0.2471(2) 0.25 0.0091(5) 1. 0
+Fe3 Fe3+ 8 f 0.1265(2) 0.76212(14) 0.12550(6) 0.0069(4) 1. 0
+F1 F1- 8 f 0.3362(7) 0.0820(7) 0.0477(3) 0.0237(15) 1. 0
+F2 F1- 8 f 0.4200(7) -.0566(7) 0.2084(2) 0.0206(14) 1. 0
+F3 F1- 8 f 0.4855(7) 0.2112(7) 0.1407(2) 0.0184(14) 1. 0
+F4 F1- 8 f 0.2699(7) -.1899(7) 0.1118(2) 0.0196(14) 1. 0
+F5 F1- 8 f 0.1436(7) 0.2762(7) 0.0464(3) 0.024(2) 1. 0
+F6 F1- 8 f 0.1106(8) 0.2527(7) 0.2050(3) 0.025(2) 1. 0
+F7 F1- 8 f 0.0727(7) 0.0060(6) 0.1104(2) 0.0166(14) 1. 0
+F8 F1- 8 f 0.1789(7) 0.5178(6) 0.1401(2) 0.0153(13) 1. 0
+F9 F1- 8 f 0.2772(7) 0.1844(7) 0.1527(2) 0.0208(15) 1. 0
+F10 F1- 8 f -.0247(7) 0.3345(7) 0.1007(2) 0.0186(14) 1. 0
+F11 F1- 8 f 0.3298(7) 0.4599(7) 0.0326(2) 0.0187(14) 1. 0
+F12 F1- 8 f 0.0813(7) 0.0587(7) 0.2912(2) 0.0181(14) 1. 0
+F13 F1- 8 f 0.1657(7) 0.8028(6) 0.2046(2) 0.0162(13) 1. 0
+F14 F1- 8 f 0.0887(7) 0.7240(6) 0.0465(3) 0.0172(13) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.023(11) 0.037(4) 0.048(5) 0.006(4) 0.019(5) 0.019(3)
+Na2 Na1+ 0.032(11) 0.023(3) 0.050(5) 0.000(3) -.009(5) -.020(3)
+Na3 Na1+ 0.060(12) 0.037(4) 0.062(6) -.022(4) 0.032(6) -.025(3)
+Na4 Na1+ 0.040(11) 0.026(3) 0.048(5) 0 0.021(5) 0
+Na5 Na1+ 0.024(6) 0.026(2) 0.032(3) -.005(2) 0.004(3) -.013(2)
+Na6 Na1+ 0.040(9) 0.057(3) 0.005(3) 0.014(3) -.006(3) -.014(2)
+Zn1 Zn2+ 0.023(2) 0.0116(5) 0.0141(9) 0.0003(5) 0.0008(8) 0.0008(4)
+Zn2 Zn2+ 0.023(2) 0.0106(5) 0.0177(10) 0.0016(5) 0.0014(9) -.0002(4)
+#End of TTdata_408113-ICSD

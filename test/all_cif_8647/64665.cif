@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_64665-ICSD
+_database_code_ICSD 64665
+_audit_creation_date 1989-12-04
+_chemical_name_systematic 'Disodium terbium(IV) oxide'
+_chemical_formula_structural 'Na2 Tb O3'
+_chemical_formula_sum 'Na2 O3 Tb1'
+_chemical_name_structure_type Li2SnO3
+_exptl_crystal_density_diffrn 5.28
+_publ_section_title 'Ueber Na2 Pr O3 und Na2 Tb O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1988
+556 97 108 ZAACAB
+loop_
+_publ_author_name
+'Wolf, R.'
+'Hoppe, R.'
+_cell_length_a 5.7692(6)
+_cell_length_b 10.0127(9)
+_cell_length_c 11.1791(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.98(1)
+_cell_angle_gamma 90.
+_cell_volume 635.99
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0486
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tb4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tb1 Tb4+ 4 e 0 0.4186(1) 0.25 . 1. 0
+Tb2 Tb4+ 4 e 0 0.7512(1) 0.25 . 1. 0
+Na1 Na1+ 4 e 0 0.0885(8) 0.25 . 1. 0
+Na2 Na1+ 4 d 0.25 0.25 0.5 . 1. 0
+Na3 Na1+ 8 f 0.2630(6) 0.4211(4) 0.0002(18) . 1. 0
+O1 O2- 8 f 0.0988(11) 0.5847(8) 0.1435(5) . 1. 0
+O2 O2- 8 f 0.1483(12) 0.2682(8) 0.1448(7) . 1. 0
+O3 O2- 8 f 0.1454(11) 0.9007(8) 0.1413(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tb1 Tb4+ 0.0081(3) 0.0086(3) 0.0054(3) 0 0.0015(2) 0
+Tb2 Tb4+ 0.0066(3) 0.0069(3) 0.0041(3) 0 0.0014(2) 0
+Na1 Na1+ 0.0157(27) 0.0091(10) 0.0222(24) 0 0.0043(22) 0
+Na2 Na1+ 0.0252(30) 0.0215(28) 0.0105(28) -.0047(33) 0.0093(25) 0.0005(33)
+Na3 Na1+ 0.0132(18) 0.0208(19) 0.0120(18) 0.0004(27) -.0009(15) 0.0043(30)
+O1 O2- 0.0155(28) 0.0110(25) 0.0042(26) 0.0001(30) 0.0053(23) 0.0005(30)
+O2 O2- 0.0105(31) 0.0169(35) 0.0120(33) -.0017(28) 0.0013(27) -.0013(30)
+O3 O2- 0.0117(29) 0.0142(35) 0.0064(28) -.0029(27) 0.0007(24) 0.0057(27)
+#End of TTdata_64665-ICSD

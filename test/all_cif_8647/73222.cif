@@ -1,0 +1,76 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73222-ICSD
+_database_code_ICSD 73222
+_audit_creation_date 1994-06-30
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Dilithium tetrachlorozincate - HT'
+_chemical_formula_structural 'Li2 (Zn Cl4)'
+_chemical_formula_sum 'Cl4 Li2 Zn1'
+_chemical_name_structure_type Olivine-Mg2SiO4
+_exptl_crystal_density_diffrn 2.54
+_cell_measurement_temperature 295.
+_publ_section_title
+'Neue Halogenozinkate(II) M2 Zn X4 (M= Li, Na; X= Cl, Br) mit Olivinstruktur'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1993
+619 993 998 ZAACAB
+loop_
+_publ_author_name
+'Pfitzner, A.'
+'Cockcroft, J.K.'
+'Solinas, I.'
+'Lutz, H.D.'
+_cell_length_a 12.7760(3)
+_cell_length_b 7.4176(2)
+_cell_length_c 6.1110(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 579.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Zn2+ 2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 a 0 0 0 1.8(3) 1. 0
+Li2 Li1+ 4 c 0.2692(26) 0.25 -.0136(61) 4.97(68) 1. 0
+Zn1 Zn2+ 4 c 0.0902(6) 0.25 0.4174(6) 1.00(8) 1. 0
+Cl1 Cl1- 4 c 0.0916(4) 0.25 0.7828(6) 1.31(7) 1. 0
+Cl2 Cl1- 4 c 0.4271(4) 0.25 0.2423(6) 1.55(9) 1. 0
+Cl3 Cl1- 8 d 0.1672(3) 0.0067(4) 0.2522(7) 1.45(5) 1. 0
+#End of TTdata_73222-ICSD

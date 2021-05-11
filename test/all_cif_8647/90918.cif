@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_90918-ICSD
+_database_code_ICSD 90918
+_audit_creation_date 2002-04-01
+_chemical_name_systematic
+'Tetrasodium tricobalt bis(phosphate(V)) bis(hydrogenphosphate(V)) octahydrate'
+_chemical_formula_structural 'Na4 Co3 (H P O4)2 (P O4)2 (H2 O)8'
+_chemical_formula_sum 'H18 Co3 Na4 O24 P4'
+_exptl_crystal_density_diffrn 2.57
+_publ_section_title
+
+;
+Hydrothermal synthesis, crystal structure, and characterization of tetrasodium
+tricobalt(II)-bis-phosphate-bis-hydrogenophosphate octahydrate, Na4 Co3 H2 (P
+O4)4 . 8(H2 O), with a new structure type
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2000 149 292 297 JSSCBI
+loop_
+_publ_author_name
+'Mao, S.-Y.'
+'Huang, Y.-X.'
+'Wei, Z.-B.'
+'Mi Jinxiao'
+'Huang, Z.-L.'
+'Zhao, J.-T.'
+_cell_length_a 7.3547(9)
+_cell_length_b 9.222(1)
+_cell_length_c 15.186(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 95.18(1)
+_cell_angle_gamma 90.
+_cell_volume 1025.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co2+ 2
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.5498(2) 0.1086(2) 0.7187(1) 0.0180(3) 1. 0
+Na2 Na1+ 4 e 0.2591(2) 0.0174(2) 0.8702(1) 0.0161(3) 1. 0
+Co1 Co2+ 2 d 0.5 0 0.5 0.0085(1) 1. 0
+Co2 Co2+ 4 e 0.02642(6) 0.23829(5) 0.50369(3) 0.00870(8) 1. 0
+P1 P5+ 4 e 0.1046(1) 0.02331(9) 0.38326(6) 0.0066(1) 1. 0
+P2 P5+ 4 e 0.7550(1) 0.4789(1) 0.42712(6) 0.0074(1) 1. 0
+O1 O2- 4 e 0.5780(3) 0.4464(3) 0.3743(2) 0.0132(5) 1. 0
+O2 O2- 4 e 0.8042(4) 0.3687(3) 0.5008(2) 0.0113(5) 1. 0
+O3 O2- 4 e 0.2366(4) 0.0554(3) 0.4649(2) 0.0115(5) 1. 0
+O4 O2- 4 e 0.9772(4) 0.1303(3) 0.6128(2) 0.0107(4) 1. 0
+O5 O2- 4 e 0.9519(3) 0.1381(3) 0.3885(2) 0.0100(4) 1. 0
+O6 O2- 4 e 0.2409(4) 0.3689(3) 0.5298(2) 0.0120(5) 1. 0
+O7 O2- 4 e 0.1944(4) 0.0379(3) 0.2973(2) 0.0107(4) 1. 0
+O8 O2- 4 e 0.9172(4) 0.4740(3) 0.3651(2) 0.0131(5) 1. 0
+O9 O2- 4 e 0.2578(4) 0.1821(3) 0.7483(2) 0.0156(5) 1. 0
+O10 O2- 4 e 0.7831(4) 0.1941(3) 0.2205(2) 0.0157(5) 1. 0
+O11 O2- 4 e 0.5326(4) 0.2007(3) 0.5654(2) 0.0126(5) 1. 0
+O12 O2- 4 e 0.5910(4) 0.0912(3) 0.3814(2) 0.0171(5) 1. 0
+H1 H1+ 4 e 0.871 0.024 0.81 0.040(5) 1. 0
+H2 H1+ 4 e 0.17 0.164 0.712 0.040(5) 1. 0
+H3 H1+ 4 e 0.218 0.246 0.267 0.040(5) 1. 0
+H4 H1+ 4 e 0.869 0.237 0.189 0.040(5) 1. 0
+H5 H1+ 4 e 0.85 0.206 0.267 0.040(5) 1. 0
+H6 H1+ 4 e 0.622 0.25 0.046 0.040(5) 1. 0
+H7 H1+ 4 e 0.464 0.231 0.056 0.040(5) 1. 0
+H8 H1+ 4 e 0.707 0.108 0.384 0.040(5) 1. 0
+H9 H1+ 4 e 0.552 0.187 0.373 0.040(5) 1. 0
+#End of TTdata_90918-ICSD

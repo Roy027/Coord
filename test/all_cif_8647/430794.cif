@@ -1,0 +1,133 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430794-ICSD
+_database_code_ICSD 430794
+_audit_creation_date 2018-02-01
+_chemical_name_systematic
+'Sodium hydronium uranium(IV) dodecamolybdate dodecahydrate'
+_chemical_formula_structural 'Na7 H (U Mo12 O42) (H2 O)12'
+_chemical_formula_sum 'H25 Mo12 Na7 O54 U1'
+_chemical_name_structure_type Na7HCeMo12O42(H2O)12
+_exptl_crystal_density_diffrn 3.43
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Synthesis and structure of dodecamolybdates of tetravalent cerium, thorium,
+uranium, neptunium, and plutonium
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Radiochemistry (Moscow, Russian Federation)' 2016 58 457 465 RDIOEO
+loop_
+_publ_author_name
+'Charushnikova, I.A.'
+'Gogolev, A.V.'
+'Grigor''ev, M.S.'
+'Fedoseev, A.M.'
+_cell_length_a 18.9556(5)
+_cell_length_b 18.9556(5)
+_cell_length_c 11.4005(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 3547.55
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0289
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U4+ 4
+Mo6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U4+ 3 a 0.6667 0.3333 0.3333 0.00582(9) 1 0
+Mo1 Mo6+ 18 f 0.75418(2) 0.28595(2) 0.57016(3) 0.00923(9) 1 0
+Mo2 Mo6+ 18 f 0.87383(2) 0.43395(2) 0.41394(3) 0.00947(9) 1 0
+Na1 Na1+ 3 b 0.6667 0.3333 0.8333 0.0167(9) 1 0
+Na2 Na1+ 18 f 0.9917(2) 0.3968(2) 0.1558(4) 0.0668(12) 1 0
+O1 O2- 18 f 0.80858(18) 0.44402(19) 0.2906(3) 0.0092(6) 1 0
+O2 O2- 18 f 0.64622(19) 0.24477(19) 0.5078(3) 0.0095(6) 1 0
+O3 O2- 18 f 0.8676(2) 0.3703(2) 0.5525(3) 0.0141(6) 1 0
+H1 H1+ 18 f 0.8957 0.3681 0.6091 0.021 0.1667 0
+O4 O2- 18 f 0.7649(2) 0.2017(2) 0.5756(3) 0.0154(7) 1 0
+O5 O2- 18 f 0.7418(2) 0.3018(2) 0.7151(3) 0.0158(6) 1 0
+O6 O2- 18 f 0.9465(2) 0.4266(2) 0.3358(3) 0.0161(7) 1 0
+O7 O2- 18 f 0.9234(2) 0.5304(2) 0.4699(3) 0.0166(7) 1 0
+O8 O2- 18 f 1.0911(3) 0.5347(4) 0.2069(6) 0.074(2) 1 0
+H2 H1+ 18 f 1.0764 0.5253 0.2796 0.088 1 0
+H3 H1+ 18 f 1.1413 0.5694 0.209 0.088 1 0
+O9 O2- 18 f 1.0015(4) 0.3846(4) -0.0742(13) 0.152(6) 1 0
+H4 H1+ 18 f 1.0529 0.4072 -0.0841 0.182 1 0
+H5 H1+ 18 f 0.9866 0.4164 -0.0991 0.182 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U4+ 0.00526(11) 0.00526(11) 0.00693(16) 0.00263(6) 0. 0.
+Mo1 Mo6+ 0.00906(17) 0.01020(17) 0.00896(17) 0.00521(13) -0.00123(12)
+0.00140(12)
+Mo2 Mo6+ 0.00572(16) 0.00915(17) 0.01255(17) 0.00298(13) -0.00163(12)
+0.00004(12)
+Na1 Na1+ 0.0190(14) 0.0190(14) 0.012(2) 0.0095(7) 0. 0.
+Na2 Na1+ 0.0312(16) 0.0335(16) 0.141(4) 0.0201(14) 0.035(2) 0.019(2)
+O1 O2- 0.0080(13) 0.0090(13) 0.0106(14) 0.0043(12) 0.0002(11) 0.0007(11)
+O2 O2- 0.0085(13) 0.0084(13) 0.0112(14) 0.0040(11) -0.0002(11) 0.0003(11)
+O3 O2- 0.0096(14) 0.0159(16) 0.0164(16) 0.0061(13) -0.0026(12) 0.0019(12)
+O4 O2- 0.0171(16) 0.0155(16) 0.0149(16) 0.0092(13) -0.0017(12) 0.0022(12)
+O5 O2- 0.0159(16) 0.0194(17) 0.0124(15) 0.0090(14) -0.0019(12) 0.0007(13)
+O6 O2- 0.0084(14) 0.0201(17) 0.0194(16) 0.0069(13) 0.0001(12) 0.0034(13)
+O7 O2- 0.0132(15) 0.0124(15) 0.0204(17) 0.0035(13) -0.0060(13) -0.0025(13)
+O8 O2- 0.034(3) 0.059(4) 0.080(5) -0.013(3) 0.036(3) -0.028(3)
+O9 O2- 0.048(4) 0.031(3) 0.346(17) -0.003(3) 0.103(7) -0.025(6)
+#End of TTdata_430794-ICSD

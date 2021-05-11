@@ -1,0 +1,136 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202398-ICSD
+_database_code_ICSD 202398
+_audit_creation_date 1988-05-17
+_audit_update_record 1999-11-30
+_chemical_name_systematic
+'Potassium sodium gallium oxide (1.5/0.2/10.8/17)- beta'
+_chemical_formula_structural 'K1.52 Na.18 Ga10.82 O17'
+_chemical_formula_sum 'Ga10.82 K1.52 Na0.18 O17'
+_chemical_name_structure_type KAl10.67O17
+_exptl_crystal_density_diffrn 5.17
+_publ_section_title
+
+;
+Crystal structure and charge compensation mechanism of beta prime prime
+-alumina type R+ -gallate (R=K+, (N H4)+)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1987 71 154 163 JSSCBI
+loop_
+_publ_author_name
+'Tsurumi, T.'
+'Ikawa, H.'
+'Nishimura, T.'
+'Urabe, K.'
+'Udagawa, S.'
+_cell_length_a 5.856(2)
+_cell_length_b 5.856(2)
+_cell_length_c 35.34(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1049.54
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.0374
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga2+ 2.99
+O2- -2
+K1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga2+ 18 h 0.16780(8) -.16780(8) -.07036(2) . 1. 0
+Ga2 Ga2+ 6 c 0 0 0.34976(4) . 0.91 0
+Ga3 Ga2+ 6 c 0 0 0.44966(3) . 1. 0
+Ga4 Ga2+ 3 a 0 0 0 . 1. 0
+O1 O2- 18 h 0.1557(4) -.1557(4) 0.0339(1) . 1. 0
+O2 O2- 18 h 0.1630(5) -.1630(5) 0.2360(1) . 1. 0
+O3 O2- 6 c 0 0 0.2962(2) . 1. 0
+O4 O2- 6 c 0 0 0.0948(2) . 1. 0
+O5 O2- 3 b 0 0 0.5 . 1. 0
+K1 K1+ 6 c 0 0 0.1712(2) . 0.55 0
+K2 K1+ 18 h 0.5961(52) -.5961(52) 0.4976(11) . 0.07 0
+Na1 Na1+ 6 c 0 0 0.34976(4) . 0.09 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ga1 Ga2+ 0.0043(1) 0.0043 0.0062(2) 0.0023(2) 0.0000(1) 0
+Ga2 Ga2+ 0.0032(1) 0.0032 0.0043(3) 0.0016 0 0
+Ga3 Ga2+ 0.0046(2) 0.0046 0.0047(3) 0.0023 0 0
+Ga4 Ga2+ 0.0048(2) 0.0048 0.0034(5) 0.0024 0 0
+O1 O2- 0.0095(12) 0.0095 0.0074(23) 0.0053(14) -.0004(7) 0.0004
+O2 O2- 0.0050(9) 0.005 0.0116(15) 0.0024(12) 0.0013(7) -.0013
+O3 O2- 0.0011(10) 0.0011 0.0138(30) 0.00055 0 0
+O4 O2- 0.0082(12) 0.0082 0.0032(23) 0.0041 0 0
+O5 O2- 0.083(10) 0.0828 0.0015(44) 0.0414 0 0
+K1 K1+ 0.0685(37) 0.0685 0.0112(27) 0.03425 0 0
+K2 K1+ 0.195(73) 0.195 0.012(12) 0.018(75) 0.0049(73) -.0049
+Na1 Na1+ 0.0032(1) 0.0032 0.0043(3) 0.0016 0 0
+#End of TTdata_202398-ICSD

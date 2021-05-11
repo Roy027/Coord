@@ -1,0 +1,96 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_86169-ICSD
+_database_code_ICSD 86169
+_audit_creation_date 1999-11-30
+_chemical_name_systematic 'Dilithium zincotrigermanate'
+_chemical_formula_structural 'Li2 (Zn Ge3 O8)'
+_chemical_formula_sum 'Ge3 Li2 O8 Zn1'
+_chemical_name_structure_type Spinel-LiFe5O8
+_exptl_crystal_density_diffrn 5.13
+_publ_section_title
+
+;
+Crystal chemistry and physical properties of complex lithium spinels Li2 M
+(M')3 O8 (M = Mg, Co, Ni, Zn; M' = Ti, Ge)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Chemistry' 1998 8 1273 1280 JMACEP
+loop_
+_publ_author_name
+'Kawai, H.'
+'Tabuchi, M.'
+'Nagata, M.'
+'Tukamoto, H.'
+'West, A.R.'
+_cell_length_a 8.1961(5)
+_cell_length_b 8.1961(5)
+_cell_length_c 8.1961(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 550.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 43 3 2'
+_symmetry_Int_Tables_number 212
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z+1/4, y+3/4, -x+3/4'
+2 '-z+3/4, y+1/4, x+3/4'
+3 'y+1/4, x+3/4, -z+3/4'
+4 '-y+3/4, x+1/4, z+3/4'
+5 'x+1/4, z+3/4, -y+3/4'
+6 '-x+3/4, z+1/4, y+3/4'
+7 'z+3/4, -y+3/4, x+1/4'
+8 '-z+1/4, -y+1/4, -x+1/4'
+9 'y+3/4, -x+3/4, z+1/4'
+10 '-y+1/4, -x+1/4, -z+1/4'
+11 'x+3/4, -z+3/4, y+1/4'
+12 '-x+1/4, -z+1/4, -y+1/4'
+13 '-y+1/2, -z, x+1/2'
+14 '-y, z+1/2, -x+1/2'
+15 'y+1/2, -z+1/2, -x'
+16 'y, z, x'
+17 'z+1/2, -x+1/2, -y'
+18 '-z+1/2, -x, y+1/2'
+19 '-z, x+1/2, -y+1/2'
+20 'z, x, y'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Zn2+ 2
+Li1+ 1
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 c 0.00488(14) 0.00488(14) 0.00488(14) 0.203(12) 0.5 0
+Zn1 Zn2+ 8 c 0.00488(14) 0.00488(14) 0.00488(14) 0.203(12) 0.5 0
+Li2 Li1+ 4 b 0.625 0.625 0.625 0.96(3) 1. 0
+Ge1 Ge4+ 12 d 0.125 0.37464(4) 0.87536(4) 0.226(3) 1. 0
+O1 O2- 8 c 0.38653(4) 0.38653(4) 0.38653(4) 0.302(8) 1. 0
+O2 O2- 24 e 0.09906(4) 0.13104(5) 0.39490(4) 0.321(4) 1. 0
+#End of TTdata_86169-ICSD

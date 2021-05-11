@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79693-ICSD
+_database_code_ICSD 79693
+_audit_creation_date 1996-10-14
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Disodium peroxide octahydrate'
+_chemical_formula_structural 'Na2 O2 (H2 O)8'
+_chemical_formula_sum 'H16 Na2 O10'
+_exptl_crystal_density_diffrn 1.57
+_publ_section_title 'Na2 O2 * 8(H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1995 51 1038 1040 ACSCEE
+loop_
+_publ_author_name
+'Grehl, M.'
+'Froehlich, R.'
+'Thiele, S.'
+_cell_length_a 14.351(3)
+_cell_length_b 6.468(1)
+_cell_length_c 11.498(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.42(1)
+_cell_angle_gamma 90.
+_cell_volume 938.65
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0.30029(4) 0.99547(8) 0.06811(5) . 1. 0
+O1 O1- 8 f 0.4795(1) 0.4837(2) 0.2990(1) . 1. 0
+O2 O2- 8 f 0.1429(1) 0.1869(2) 0.0073(1) . 1. 0
+O3 O2- 8 f 0.3852(1) 0.1309(2) 0.2880(1) . 1. 0
+O4 O2- 8 f 0.4605(1) 0.8363(2) 0.0833(1) . 1. 0
+O5 O2- 8 f 0.2840(1) 0.6585(2) 0.1500(1) . 1. 0
+H1 H1+ 8 f 0.125(2) 0.215(4) 0.059(2) 0.064(7) 1. 0
+H2 H1+ 8 f 0.088(2) 0.130(3) -.060(2) 0.055(6) 1. 0
+H3 H1+ 8 f 0.415(2) 0.240(4) 0.289(2) 0.053(6) 1. 0
+H4 H1+ 8 f 0.432(2) 0.040(3) 0.323(2) 0.044(5) 1. 0
+H5 H1+ 8 f 0.481(2) 0.704(4) 0.125(2) 0.064(6) 1. 0
+H6 H1+ 8 f 0.442(2) 0.819(3) 0.006(2) 0.051(6) 1. 0
+H7 H1+ 8 f 0.249(2) 0.644(3) 0.180(2) 0.046(6) 1. 0
+H8 H1+ 8 f 0.344(2) 0.596(3) 0.200(2) 0.056(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.024(1) 0.027(1) 0.026(1) 0.001(1) 0.009(1) -.001(1)
+O1 O1- 0.026(1) 0.026(1) 0.030(1) -.001(1) 0.010(1) -.001(1)
+O2 O2- 0.024(1) 0.039(1) 0.031(1) 0.001(1) 0.011(1) -.005(1)
+O3 O2- 0.027(1) 0.026(1) 0.033(1) -.002(1) 0.014(1) 0.000(1)
+O4 O2- 0.034(1) 0.029(1) 0.028(1) 0.000(1) 0.013(1) 0.003(1)
+O5 O2- 0.024(1) 0.036(1) 0.030(1) 0.002(1) 0.012(1) 0.005(1)
+#End of TTdata_79693-ICSD

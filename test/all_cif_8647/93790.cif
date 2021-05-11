@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_93790-ICSD
+_database_code_ICSD 93790
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Trisodium iron(III) bis(phosphate(V))'
+_chemical_formula_structural 'Na3 Fe (P O4)2'
+_chemical_formula_sum 'Fe1 Na3 O8 P2'
+_chemical_name_structure_type Na2BaCu(VO4)2
+_exptl_crystal_density_diffrn 3.3
+_publ_section_title
+
+;
+The glaserite-like structure of double sodium and iron phosphate Na3 Fe (P
+O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2001 160 377 381 JSSCBI
+loop_
+_publ_author_name
+'Morozov, V.A.'
+'Lazoryak, B.I.'
+'Malakho, A.P.'
+'Pokholok, K.V.'
+'Polyakov, S.N.'
+'Terekhina, T.P.'
+_cell_length_a 9.0736(2)
+_cell_length_b 5.0344(1)
+_cell_length_c 13.8732(3)
+_cell_angle_alpha 90
+_cell_angle_beta 91.435(2)
+_cell_angle_gamma 90
+_cell_volume 633.53
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.014
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.0435(9) 0.25 2.8(1) 1. 0
+Na2 Na1+ 8 f 0.1703(4) 0.5399(7) 0.1319(2) 2.6(1) 1. 0
+Fe1 Fe3+ 4 a 0 0 0 2.0(1) 1. 0
+P1 P5+ 8 f 0.1680(3) 0.5191(5) 0.3875(1) 2.2(1) 1. 0
+O1 O2- 8 f 0.1641(6) 0.3884(8) 0.2904(3) 2.4(1) 1. 0
+O2 O2- 8 f 0.1099(6) 0.326(1) 0.4738(2) 2.2(1) 1. 0
+O3 O2- 8 f 0.0730(5) 0.7875(8) 0.3848(3) 0.9(1) 1. 0
+O4 O2- 8 f 0.3359(6) 0.5920(9) 0.4148(2) 1.7(1) 1. 0
+#End of TTdata_93790-ICSD

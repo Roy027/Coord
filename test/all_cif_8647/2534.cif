@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2534-ICSD
+_database_code_ICSD 2534
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Disodium dichromate - alpha'
+_chemical_formula_structural 'Na2 (Cr2 O7)'
+_chemical_formula_sum 'Cr2 Na2 O7'
+_exptl_crystal_density_diffrn 2.64
+_publ_section_title
+'The crystal structure of alpha Na Cr2 O7 and the alpha-beta phase transition'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1973 29 890 894 ACBCAR
+loop_
+_publ_author_name
+'Panagiotopoulos, N.C.'
+'Brown, I.D.'
+_cell_length_a 7.82(3)
+_cell_length_b 10.36(3)
+_cell_length_c 9.54(3)
+_cell_angle_alpha 89.5(3)
+_cell_angle_beta 110.1(3)
+_cell_angle_gamma 113.4(3)
+_cell_volume 658.76
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x, -y+1/2, -z+1/2'
+4 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr6+ 6
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr6+ 4 i -.1842(2) 0.0204(2) 0.1397(2) . 1. 0
+Cr2 Cr6+ 4 i 0.2391(2) 0.0680(2) 0.4086(2) . 1. 0
+O1 O2- 4 i -.3569(12) 0.0439(9) 0.1782(8) . 1. 0
+O2 O2- 4 i -.2347(11) -.1456(9) 0.1159(9) . 1. 0
+O3 O2- 4 i -.1536(12) 0.0891(10) -.0088(8) . 1. 0
+O4 O2- 4 i 0.3338(11) 0.1541(9) 0.5757(7) . 1. 0
+O5 O2- 4 i 0.4107(14) 0.1128(15) 0.3367(10) . 1. 0
+O6 O2- 4 i 0.1523(18) -.0981(12) 0.4107(11) . 1. 0
+O7 O2- 4 i 0.0504(11) 0.1137(9) 0.2914(9) . 1. 0
+Na1 Na1+ 4 i 0.3377(8) 0.3429(6) 0.7265(5) . 1. 0
+Na2 Na1+ 4 i -.2351(7) 0.2382(6) 0.3934(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr6+ 0.0362(8) 0.0420(12) 0.0390(8) 0.0164(7) 0.0092(6) 0.0025(7)
+Cr2 Cr6+ 0.0427(9) 0.0438(13) 0.0336(7) 0.0206(8) 0.0074(7) 0.0021(8)
+O1 O2- 0.0649(45) 0.0747(72) 0.0693(45) 0.0366(44) 0.0340(43) 0.0106(47)
+O2 O2- 0.0619(46) 0.0589(61) 0.0759(49) 0.0208(41) 0.0205(41) -0.0039(43)
+O3 O2- 0.0784(52) 0.0867(73) 0.0565(42) 0.0310(48) 0.0385(44) 0.0269(46)
+O4 O2- 0.0691(4) 0.0783(69) 0.0466(37) 0.0336(45) 0.0144(38) -0.0003(43)
+O5 O2- 0.0633(55) 0.1820(137) 0.0852(60) 0.0098(69) 0.0425(56) -0.0310(76)
+O6 O2- 0.1693(99) 0.0641(74) 0.0826(59) 0.0769(72) -0.0022(65) 0.0022(65)
+O7 O2- 0.0667(46) 0.0450(52) 0.0896(55) 0.0238(39) -0.0210(41) 0.0033(45)
+Na1 Na1+ 0.1021(36) 0.0798(44) 0.0586(25) 0.0540(31) 0.0275(27) 0.0168(28)
+Na2 Na1+ 0.0690(27) 0.0697(37) 0.0608(25) 0.0093(24) 0.0302(24) 0.0095(32)
+#End of TTdata_2534-ICSD

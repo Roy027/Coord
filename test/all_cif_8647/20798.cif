@@ -1,0 +1,134 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20798-ICSD
+_database_code_ICSD 20798
+_audit_creation_date 1984-11-20
+_audit_update_record 1999-11-30
+_chemical_name_systematic 'Sodium scandium cyclo-dodecasilicate (14.7/1/1)'
+_chemical_formula_structural 'Na14.67 Sc3 (Si12 O36)'
+_chemical_formula_sum 'Na14.67 O36 Sc3 Si12'
+_exptl_crystal_density_diffrn 2.73
+_publ_section_title
+'The crystal structure of sodium scandium silicate Na5 Sc Si4 O12'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1980 255 577 582 DANKAS
+loop_
+_publ_author_name
+'Merinov, B.V.'
+'Maksimov, B.A.'
+'Belov, N.V.'
+_cell_length_a 21.6790(30)
+_cell_length_b 21.6790(30)
+_cell_length_c 12.441(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 5063.66
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+Si4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 18 e 0 0.75221(4) 0.75 . 1. 0
+Si1 Si4+ 36 f 0.90404(5) 0.55367(5) 0.35320(8) . 1. 0
+Si2 Si4+ 36 f 0.57687(5) 0.14875(5) 0.71035(8) . 1. 0
+O1 O2- 36 f 0.9016(1) 0.5948(1) 0.2486(2) . 1. 0
+O2 O2- 36 f 0.0732(1) 0.2093(1) 0.0090(2) . 1. 0
+O3 O2- 36 f 0.2334(1) 0.6129(1) 0.2964(2) . 1. 0
+O4 O2- 36 f 0.9192(1) 0.2738(1) 0.2538(2) . 1. 0
+O5 O2- 36 f 0.8887(1) 0.4744(1) 0.1089(2) . 1. 0
+O6 O2- 36 f 0.8847(1) 0.3693(1) 0.2196(2) . 1. 0
+Na1 Na1+ 36 f 0.07438(8) 0.14103(8) 0.8606(4) . 0.9796 0
+Na2 Na1+ 6 b 0 0 0 . 1. 0
+Na3 Na1+ 6 a 0 0 0.25 . 0.947 0
+Na4 Na1+ 18 e 0.28213(7) 0 0.75 . 0.974 0
+Na5 Na1+ 36 f 0.3387(2) 0.1849(2) 0.2910(6) . 0.315 0
+Na6 Na1+ 36 f 0.327(1) 0.1587(8) 0.153(1) . 0.338 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Sc1 Sc3+ 0.00018(2) 0.00018(2) 0.00033(4) 0.00009(9) 0.0010(28) 0.00000(3)
+Si1 Si4+ 0.00032(2) 0.00041(2) 0.00074(5) 0.00014(2) -.00004(3) 0.00004(3)
+Si2 Si4+ 0.00030(2) 0.00039(2) 0.00098(5) 0.00017(2) 0.00005(3) -.00002(3)
+O1 O2- 0.00108(7) 0.00078(6) 0.00099(13) 0.00053(6) 0.00018(8) 0.00018(8)
+O2 O2- 0.00120(7) 0.00120(7) 0.00130(15) 0.00096(7) 0.00011(9) 0.00000(9)
+O3 O2- 0.00054(6) 0.00073(7) 0.00315(17) 0.00029(6) -.00038(9) -.00025(9)
+O4 O2- 0.00105(6) 0.00106(6) 0.00176(14) 0.00084(6) 0.00011(8) 0.00027(8)
+O5 O2- 0.00090(6) 0.00048(5) 0.00158(14) 0.00033(5) 0.00016(7) 0.00012(8)
+O6 O2- 0.00119(6) 0.00088(6) 0.00137(13) 0.00078(6) 0.00019(8) 0.00017(8)
+Na1 Na1+ 0.00099(4) 0.00082(3) 0.00269(9) 0.00045(3) 0.00012(5) 0.00034(5)
+Na2 Na1+ 0.0007(19) 0.0007(19) 0.00167(19) 0.0004(39) 0 0
+Na3 Na1+ 0.0008(19) 0.0008(19) 0.00178(19) 0.0004(38) 0 0
+Na4 Na1+ 0.00092(28) 0.00195(6) 0.00209(10) 0.00097(58) 0.00008(13) 0.00015(96)
+Na5 Na1+ 0.00092(10) 0.00077(10) 0.01642(69) 0.00033(9) 0.00029(21) 0.00007(22)
+Na6 Na1+ 0.00120(34) 0.00096(35) 0.0101(15) 0.00030(15) 0.00177(42) 0.00111(43)
+#End of TTdata_20798-ICSD

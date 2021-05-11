@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68744-ICSD
+_database_code_ICSD 68744
+_audit_creation_date 1992-01-20
+_chemical_name_systematic 'Sodium indium scandium catena-silicate (1/.6/.4/2)'
+_chemical_formula_structural 'Na (In0.60 Sc0.40) (Si2 O6)'
+_chemical_formula_sum 'In0.6 Na1 O6 Sc0.4 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_exptl_crystal_density_diffrn 3.78
+_cell_measurement_temperature 296.
+_publ_section_title
+'Structures of Na(In,Sc)Si2O6 clinopyroxenes formed at 6GPa pressure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1990 46 742 747
+ASBSDK
+loop_
+_publ_author_name
+'Ohashi, H.'
+'Osawa, T.'
+'Sato, A.'
+_cell_length_a 9.8782(5)
+_cell_length_b 9.1008(3)
+_cell_length_c 5.3582(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.191(2)
+_cell_angle_gamma 90.
+_cell_volume 460.18
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+In3+ 3
+Sc3+ 3
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 f 0.29160(5) 0.08680(5) 0.2463(1) . 1. 0
+O1 O2- 8 f 0.1188(1) 0.0790(1) 0.1496(2) . 1. 0
+O2 O2- 8 f 0.3576(1) 0.2465(1) 0.3138(2) . 1. 0
+O3 O2- 8 f 0.3494(1) 0.0105(2) 0.0182(2) . 1. 0
+In1 In3+ 4 e 0 0.89511(2) 0.25 . 0.6 0
+Sc1 Sc3+ 4 e 0 0.89511(2) 0.25 . 0.4 0
+Na1 Na1+ 4 e 0 0.3037(1) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0039(2) 0.0065(2) 0.0053(2) -.0006(1) 0.0007(1) 0.0000(1)
+O1 O2- 0.0047(4) 0.0077(4) 0.0076(4) -.0007(4) 0.0007(4) 0.0002(4)
+O2 O2- 0.0095(4) 0.0074(5) 0.0111(4) -.0030(4) 0.0024(4) -.0012(4)
+O3 O2- 0.0062(4) 0.0123(5) 0.0066(4) 0.0000(4) 0.0012(4) -.0022(4)
+In1 In3+ 0.00413(7) 0.00591(9) 0.00529(8) 0 0.00083(6) 0
+Sc1 Sc3+ 0.00413(7) 0.00591(9) 0.00529(8) 0 0.00083(6) 0
+Na1 Na1+ 0.0238(5) 0.0118(5) 0.0122(4) 0 -.0044(4) 0
+#End of TTdata_68744-ICSD

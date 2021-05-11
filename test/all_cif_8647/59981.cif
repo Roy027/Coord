@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59981-ICSD
+_database_code_ICSD 59981
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Sodium titaniumm gallium oxide (0.8/1.2/4.8/10)'
+_chemical_formula_structural 'Na0.8 Ti1.2 Ga4.8 O10'
+_chemical_formula_sum 'Ga4.8 Na0.8 O10 Ti1.2'
+_chemical_name_structure_type Na1-xTi1+xGa5-xO10
+_exptl_crystal_density_diffrn 5.01
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+Structure refinements of Na(0.8) Ti(1.2) Ga(4.8) O10: x-ray diffraction
+analysis for the sodium ion distribution in a one-dimensional tunnel-like
+space
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2004 60 692 697
+ASBSDK
+loop_
+_publ_author_name
+'Michiue, Y.'
+'Sato, A.'
+_cell_length_a 12.0828(9)
+_cell_length_b 3.0099(3)
+_cell_length_c 10.4045(7)
+_cell_angle_alpha 90
+_cell_angle_beta 92.192(4)
+_cell_angle_gamma 90
+_cell_volume 378.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0395
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ga3+ 3
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 c 0 0 0.5 0.103 0.802(6) 0
+Ga1 Ga3+ 4 i 0.063744(18) 0 0.16375(2) 0.00363(5) 1 0
+Ga2 Ga3+ 4 i 0.323584(18) 0 0.10128(2) 0.00381(5) 1 0
+Ga3 Ga3+ 4 i 0.26467(3) 0 0.62570(3) 0.00533(6) 0.401(3) 0
+Ti1 Ti4+ 4 i 0.26467(3) 0 0.62570(3) 0.00533(6) 0.599(3) 0
+O1 O2- 4 i 0.16418(12) 0 0.03200(14) 0.0044(3) 1 0
+O2 O2- 4 i 0.13001(13) 0 0.32565(14) 0.0059(3) 1 0
+O3 O2- 4 i 0.20431(13) 0 0.78880(14) 0.0054(3) 1 0
+O4 O2- 4 i 0.32454(13) 0 0.44571(15) 0.0065(3) 1 0
+O5 O2- 4 i 0.48026(12) 0 0.14288(16) 0.0055(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.013526 0.274117 0.021869 0 0.008462 0
+Ga1 Ga3+ 0.00310(8) 0.00388(9) 0.00391(7) 0 0.00001(6) 0
+Ga2 Ga3+ 0.00289(9) 0.00369(8) 0.00478(7) 0 -0.00065(6) 0
+Ga3 Ga3+ 0.00310(8) 0.00388(9) 0.00391(7) 0 0.00001(6) 0
+Ti1 Ti4+ 0.00705(11) 0.00500(11) 0.00394(8) 0 0.00025(7) 0
+O1 O2- 0.0036(5) 0.0049(5) 0.0047(4) 0 0.0001(4) 0
+O2 O2- 0.0063(5) 0.0067(6) 0.0045(4) 0 -0.0003(4) 0
+O3 O2- 0.0078(6) 0.0046(5) 0.0041(4) 0 0.0008(4) 0
+O4 O2- 0.0067(6) 0.0073(6) 0.0055(4) 0 0.0001(4) 0
+O5 O2- 0.0036(5) 0.0037(5) 0.0092(5) 0 -0.0010(4) 0
+#End of TTdata_59981-ICSD

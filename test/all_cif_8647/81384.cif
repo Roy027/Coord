@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81384-ICSD
+_database_code_ICSD 81384
+_audit_creation_date 1997-11-05
+_audit_update_record 1999-11-30
+_chemical_name_systematic 'Potassium sodium tecto-alumotrisilicate (0.8/0.2/1)'
+_chemical_formula_structural '(K0.831 Na0.169) (Al Si3 O8)'
+_chemical_formula_sum 'Al1 K0.831 Na0.169 O8 Si3'
+_chemical_name_structure_type Feldspar#-(MO,C12/m1)-KAlSi3O8
+_chemical_name_mineral Sanidine
+_exptl_crystal_density_diffrn 2.5
+_cell_measurement_temperature 1208.
+_publ_section_title
+
+;
+High-temperature crystal structure of sanidine. Part II. The crystal structure
+of sanidine at 935 C
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 1996 8 15 24 EJMIER
+loop_
+_publ_author_name
+'Kimata, M.'
+'Shimizu, M.'
+'Saito, S.'
+_cell_length_a 8.677(1)
+_cell_length_b 13.016(2)
+_cell_length_c 7.184(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.73(1)
+_cell_angle_gamma 90.
+_cell_volume 730.91
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 i 0.2905(4) 0 0.1408(6) . 0.831 0
+Na1 Na1+ 4 i 0.2905(4) 0 0.1408(6) . 0.169 0
+Si1 Si4+ 8 j 0.0104(2) 0.1854(1) 0.2244(2) . 0.72 0
+Al1 Al3+ 8 j 0.0104(2) 0.1854(1) 0.2244(2) . 0.28 0
+Si2 Si4+ 8 j 0.7125(2) 0.1183(1) 0.3463(2) . 0.78 0
+Al2 Al3+ 8 j 0.7125(2) 0.1183(1) 0.3463(2) . 0.22 0
+O1 O2- 4 g 0 0.1478(5) 0 . 1. 0
+O2 O2- 4 i 0.6398(7) 0 0.2855(10) . 1. 0
+O3 O2- 8 j 0.8307(6) 0.1483(4) 0.2294(8) . 1. 0
+O4 O2- 8 j 0.0375(5) 0.3100(3) 0.2624(7) . 1. 0
+O5 O2- 8 j 0.1771(5) 0.1257(4) 0.4040(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+K1 K1+ 0.02572(68) 0.01431(34) 0.0516(13) 0 0.01285(81) 0
+Na1 Na1+ 0.02572(68) 0.01431(34) 0.0516(13) 0 0.01285(81) 0
+Si1 Si4+ 0.01304(26) 0.00351(8) 0.01200(34) -.00124(14) 0.00534(26) -.00045(16)
+Al1 Al3+ 0.01304(26) 0.00351(8) 0.01200(34) -.00124(14) 0.00534(26) -.00045(16)
+Si2 Si4+ 0.01170(25) 0.00244(8) 0.01532(37) -.00024(12) 0.00472(26) -.00005(15)
+Al2 Al3+ 0.01170(25) 0.00244(8) 0.01532(37) -.00024(12) 0.00472(26) -.00005(15)
+O1 O2- 0.0273(15) 0.00577(43) 0.0173(15) 0 0.0111(13) 0
+O2 O2- 0.0183(12) 0.00292(31) 0.0305(20) 0 0.0066(14) 0
+O3 O2- 0.02005(94) 0.00848(40) 0.0339(17) -.00191(51) 0.0149(11) 0.00057(65)
+O4 O2- 0.01689(83) 0.00374(25) 0.0295(14) -.00152(38) 0.00620(95) -.00057(51)
+O5 O2- 0.02043(90) 0.00695(34) 0.0188(11) 0.00214(47) 0.00234(90) 0.00161(54)
+#End of TTdata_81384-ICSD

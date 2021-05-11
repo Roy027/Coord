@@ -1,0 +1,185 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78809-ICSD
+_database_code_ICSD 78809
+_audit_creation_date 1997-11-10
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Sodium tecto-alumosilicate *'
+_chemical_formula_structural 'Na92.8 (Al88 Si104 O384)'
+_chemical_formula_sum 'Al88 Na92.8 O384 Si104'
+_chemical_name_structure_type Faujasite-Fd3--frame
+_chemical_name_mineral 'Zeolite X (dehydrated)'
+_exptl_crystal_density_diffrn 1.43
+_publ_section_title 'The crystal structure of dehydrated Na X'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Zeolites 1995 15 439 443 ZEOLD3
+loop_
+_publ_author_name
+'Olson, D.H.'
+_cell_length_a 25.099(5)
+_cell_length_b 25.099(5)
+_cell_length_c 25.099(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 15811.36
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'F d -3 Z'
+_symmetry_Int_Tables_number 203
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, x+3/4, y+3/4'
+2 'z+3/4, x+3/4, -y'
+3 'z+3/4, -x, y+3/4'
+4 '-z, -x, -y'
+5 'y+3/4, -z, x+3/4'
+6 '-y, z+3/4, x+3/4'
+7 'y+3/4, z+3/4, -x'
+8 '-y, -z, -x'
+9 'x+3/4, y+3/4, -z'
+10 'x+3/4, -y, z+3/4'
+11 '-x, y+3/4, z+3/4'
+12 '-x, -y, -z'
+13 'z, -x+1/4, -y+1/4'
+14 '-z+1/4, -x+1/4, y'
+15 '-z+1/4, x, -y+1/4'
+16 'z, x, y'
+17 '-y+1/4, z, -x+1/4'
+18 'y, -z+1/4, -x+1/4'
+19 '-y+1/4, -z+1/4, x'
+20 'y, z, x'
+21 '-x+1/4, -y+1/4, z'
+22 '-x+1/4, y, -z+1/4'
+23 'x, -y+1/4, -z+1/4'
+24 'x, y, z'
+25 '-z, x+1/4, y+1/4'
+26 'z+3/4, x+1/4, -y+1/2'
+27 'z+3/4, -x+1/2, y+1/4'
+28 '-z, -x+1/2, -y+1/2'
+29 'y+3/4, -z+1/2, x+1/4'
+30 '-y, z+1/4, x+1/4'
+31 'y+3/4, z+1/4, -x+1/2'
+32 '-y, -z+1/2, -x+1/2'
+33 'x+3/4, y+1/4, -z+1/2'
+34 'x+3/4, -y+1/2, z+1/4'
+35 '-x, y+1/4, z+1/4'
+36 '-x, -y+1/2, -z+1/2'
+37 'z, -x+3/4, -y+3/4'
+38 '-z+1/4, -x+3/4, y+1/2'
+39 '-z+1/4, x+1/2, -y+3/4'
+40 'z, x+1/2, y+1/2'
+41 '-y+1/4, z+1/2, -x+3/4'
+42 'y, -z+3/4, -x+3/4'
+43 '-y+1/4, -z+3/4, x+1/2'
+44 'y, z+1/2, x+1/2'
+45 '-x+1/4, -y+3/4, z+1/2'
+46 '-x+1/4, y+1/2, -z+3/4'
+47 'x, -y+3/4, -z+3/4'
+48 'x, y+1/2, z+1/2'
+49 '-z+1/2, x+3/4, y+1/4'
+50 'z+1/4, x+3/4, -y+1/2'
+51 'z+1/4, -x, y+1/4'
+52 '-z+1/2, -x, -y+1/2'
+53 'y+1/4, -z, x+1/4'
+54 '-y+1/2, z+3/4, x+1/4'
+55 'y+1/4, z+3/4, -x+1/2'
+56 '-y+1/2, -z, -x+1/2'
+57 'x+1/4, y+3/4, -z+1/2'
+58 'x+1/4, -y, z+1/4'
+59 '-x+1/2, y+3/4, z+1/4'
+60 '-x+1/2, -y, -z+1/2'
+61 'z+1/2, -x+1/4, -y+3/4'
+62 '-z+3/4, -x+1/4, y+1/2'
+63 '-z+3/4, x, -y+3/4'
+64 'z+1/2, x, y+1/2'
+65 '-y+3/4, z, -x+3/4'
+66 'y+1/2, -z+1/4, -x+3/4'
+67 '-y+3/4, -z+1/4, x+1/2'
+68 'y+1/2, z, x+1/2'
+69 '-x+3/4, -y+1/4, z+1/2'
+70 '-x+3/4, y, -z+3/4'
+71 'x+1/2, -y+1/4, -z+3/4'
+72 'x+1/2, y, z+1/2'
+73 '-z+1/2, x+1/4, y+3/4'
+74 'z+1/4, x+1/4, -y'
+75 'z+1/4, -x+1/2, y+3/4'
+76 '-z+1/2, -x+1/2, -y'
+77 'y+1/4, -z+1/2, x+3/4'
+78 '-y+1/2, z+1/4, x+3/4'
+79 'y+1/4, z+1/4, -x'
+80 '-y+1/2, -z+1/2, -x'
+81 'x+1/4, y+1/4, -z'
+82 'x+1/4, -y+1/2, z+3/4'
+83 '-x+1/2, y+1/4, z+3/4'
+84 '-x+1/2, -y+1/2, -z'
+85 'z+1/2, -x+3/4, -y+1/4'
+86 '-z+3/4, -x+3/4, y'
+87 '-z+3/4, x+1/2, -y+1/4'
+88 'z+1/2, x+1/2, y'
+89 '-y+3/4, z+1/2, -x+1/4'
+90 'y+1/2, -z+3/4, -x+1/4'
+91 '-y+3/4, -z+3/4, x'
+92 'y+1/2, z+1/2, x'
+93 '-x+3/4, -y+3/4, z'
+94 '-x+3/4, y+1/2, -z+1/4'
+95 'x+1/2, -y+3/4, -z+1/4'
+96 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 96 g -.05381(7) 0.12565(10) 0.03508(7) . 1. 0
+Si2 Si4+ 96 g -.05524(8) 0.03639(7) 0.12418(10) . 0.0833 0
+Al1 Al3+ 96 g -.05524(8) 0.03639(7) 0.12418(10) . 0.9167 0
+O1 O2- 96 g -.1099(2) 0.0003(2) 0.1056(2) . 1. 0
+O2 O2- 96 g -.0011(2) -.0028(2) 0.1416(2) . 1. 0
+O3 O2- 96 g -.0346(2) 0.0758(2) 0.0711(2) . 1. 0
+O4 O2- 96 g -.0693(2) 0.0726(2) 0.1800(2) . 1. 0
+Na1 Na1+ 16 c 0 0 0 0.121(28) 0.18(3) 0
+Na2 Na1+ 32 e 0.0454(6) 0.0454(6) 0.0454(6) 0.033(3) 0.66(6) 0
+Na3 Na1+ 32 e 0.056(2) 0.056(2) 0.056(2) 0.048(10) 0.25(6) 0
+Na4 Na1+ 32 e 0.2292(1) 0.2292(1) 0.2292(1) . 0.97(1) 0
+Na5 Na1+ 96 g 0.423(2) 0.326(2) 0.158(2) 0.088(13) 0.11(1) 0
+Na6 Na1+ 96 g 0.432(2) 0.280(2) 0.164(2) 0.064(10) 0.11(1) 0
+Na7 Na1+ 96 g 0.465(2) 0.317(2) 0.158(2) 0.063(12) 0.09(1) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0194(10) 0.0174(9) 0.0166(9) -.0031(11) 0.0004(8) -.0013(11)
+Si2 Si4+ 0.0207(10) 0.0162(10) 0.0185(10) 0.004(8) -.0027(11) -.0021(11)
+Al1 Al3+ 0.0207(10) 0.0162(10) 0.0185(10) 0.004(8) -.0027(11) -.0021(11)
+O1 O2- 0.026(4) 0.036(3) 0.032(3) -.010(3) -.004(2) -.005(3)
+O2 O2- 0.026(3) 0.033(3) 0.034(4) 0.006(3) -.012(2) -.012(3)
+O3 O2- 0.043(4) 0.031(3) 0.025(3) -.003(3) -.001(3) 0.004(3)
+O4 O2- 0.031(3) 0.032(3) 0.027(3) 0.001(3) -.002(3) -.019(2)
+Na4 Na1+ 0.032(2) 0.032(2) 0.032(2) 0.008(2) 0.008(2) 0.008(2)
+#End of TTdata_78809-ICSD

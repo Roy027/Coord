@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_164514-ICSD
+_database_code_ICSD 164514
+_audit_creation_date 2010-02-01
+_chemical_name_systematic 'Sodium vanadium oxide (1.16/3/8)'
+_chemical_formula_structural 'Na1.164 (V3 O8)'
+_chemical_formula_sum 'Na1.164 O8 V3'
+_chemical_name_structure_type Li1+xV3O8
+_exptl_crystal_density_diffrn 3.34
+_cell_measurement_temperature 297.
+_publ_section_title
+
+;
+The crystal structures and quasi-one-dimensional electronic properties of
+Ag1+x V3 O8 and Na1+x V3 O8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2004 16 8957 8969 JCOMEL
+loop_
+_publ_author_name
+'Onoda, M.'
+_cell_length_a 7.318(2)
+_cell_length_b 3.610(1)
+_cell_length_c 12.165(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.75(2)
+_cell_angle_gamma 90.
+_cell_volume 306.08
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.945
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 e 0.86148(6) 0.25 0.54115(4) 0.600(6) 1. 0
+V2 V4+ 2 e 0.18411(7) 0.25 0.08024(4) 0.778(6) 1. 0
+V3 V4+ 2 e 0.07868(7) 0.25 0.81083(4) 0.894(7) 1. 0
+O1 O2- 2 e 0.0610(3) 0.25 0.4604(2) 0.88(3) 1. 0
+O2 O2- 2 e 0.8948(3) 0.25 0.9273(2) 0.87(3) 1. 0
+O3 O2- 2 e 0.8373(3) 0.25 0.6766(2) 0.82(3) 1. 0
+O4 O2- 2 e 0.3780(3) 0.25 0.1889(2) 1.20(3) 1. 0
+O5 O2- 2 e 0.6441(3) 0.25 0.4533(2) 1.23(3) 1. 0
+O6 O2- 2 e 0.2671(3) 0.25 0.9613(2) 1.02(3) 1. 0
+O7 O2- 2 e 0.2237(3) 0.25 0.7356(2) 1.34(4) 1. 0
+O8 O2- 2 e 0.9761(3) 0.25 0.1719(2) 0.94(3) 1. 0
+Na1 Na1+ 2 e 0.5085(2) 0.25 0.6745(1) 1.47(2) 1. 0
+Na2 Na1+ 2 e 0.568(1) 0.25 0.0593(9) 2.1(2) 0.164(4) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.0098(2) 0.0066(2) 0.0070(1) 0. 0.0035(1) 0.
+V2 V4+ 0.0134(2) 0.0067(2) 0.0081(2) 0. 0.0013(1) 0.
+V3 V4+ 0.0163(2) 0.0100(2) 0.0089(2) 0. 0.0055(2) 0.
+O1 O2- 0.0170(8) 0.0055(7) 0.0138(8) 0. 0.0091(7) 0.
+O2 O2- 0.0161(8) 0.0076(7) 0.0092(7) 0. 0.0036(6) 0.
+O3 O2- 0.0142(8) 0.0106(8) 0.0072(7) 0. 0.0044(6) 0.
+O4 O2- 0.0175(9) 0.0157(9) 0.0094(7) 0. -0.0006(7) 0.
+O5 O2- 0.0122(8) 0.0182(10) 0.0137(8) 0. 0.0000(7) 0.
+O6 O2- 0.0157(8) 0.0143(9) 0.0081(7) 0. 0.0026(6) 0.
+O7 O2- 0.0174(9) 0.022(1) 0.0141(8) 0. 0.0080(8) 0.
+O8 O2- 0.0184(8) 0.0087(7) 0.0085(7) 0. 0.0041(7) 0.
+Na1 Na1+ 0.0160(6) 0.0175(6) 0.0215(6) 0. 0.0041(5) 0.
+Na2 Na1+ 0.017(4) 0.021(4) 0.048(6) 0. 0.018(4) 0.
+#End of TTdata_164514-ICSD

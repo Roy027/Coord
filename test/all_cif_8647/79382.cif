@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79382-ICSD
+_database_code_ICSD 79382
+_audit_creation_date 1996-10-14
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Trisodium tetramolybdo(V)pentaphosphate(V)'
+_chemical_formula_structural 'Na3 (Mo4 P5 O24)'
+_chemical_formula_sum 'Mo4 Na3 O24 P5'
+_exptl_crystal_density_diffrn 3.5
+_publ_section_title
+'A sodium Mo(V) monophosphate with a tunnel structure: Na3 (Mo O)4 (P O4)5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 114 543 549 JSSCBI
+loop_
+_publ_author_name
+'Leclaire, A.'
+'Hoareau, T.'
+'Borel, M.M.'
+'Grandin, A.'
+'Raveau, B.'
+_cell_length_a 16.7890(10)
+_cell_length_b 8.500(1)
+_cell_length_c 16.3610(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 126.34(1)
+_cell_angle_gamma 90.
+_cell_volume 1880.73
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo5+ 5
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo5+ 8 f 0.13119(1) 0.05912(1) 0.98397(1) 0.445(1) 1. 0
+Mo2 Mo5+ 8 f 0.09579(1) 0.43449(2) 0.18077(1) 0.449(1) 1. 0
+P1 P5+ 8 f 0.54982(2) 0.25494(5) 0.04157(2) 0.457(5) 1. 0
+P2 P5+ 8 f 0.36614(2) 0.07679(5) 0.10400(2) 0.466(5) 1. 0
+P3 P5+ 4 e 0 0.14788(6) 0.25 0.515(7) 1. 0
+Na1 Na1+ 8 f 0.35650(8) 0.3447(2) 0.23134(8) 2.34(2) 1. 0
+Na2 Na1+ 8 f 0.2308(2) 0.2242(3) 0.4257(3) 3.32(7) 0.5 0
+O1 O2- 8 f 0.1795(1) 0.1308(2) 0.0984(1) 1.56(2) 1. 0
+O2 O2- 8 f 0.14381(9) 0.2459(2) 0.91727(9) 1.07(2) 1. 0
+O3 O2- 8 f 0.11417(7) 0.8355(2) 0.01562(8) 0.89(2) 1. 0
+O4 O2- 8 f 0.98761(7) 0.1188(2) 0.91997(8) 0.77(2) 1. 0
+O5 O2- 8 f 0.26786(7) -.0080(2) 0.02360(9) 0.87(2) 1. 0
+O6 O2- 8 f 0.07523(9) -.0426(2) 0.83912(8) 1.15(2) 1. 0
+O7 O2- 8 f 0.21406(8) 0.3844(2) 0.2363(1) 1.14(2) 1. 0
+O8 O2- 8 f 0.03872(8) 0.3285(2) 0.04909(8) 0.87(2) 1. 0
+O9 O2- 8 f 0.0604(1) 0.2482(2) 0.2279(1) 1.68(2) 1. 0
+O10 O2- 8 f 0.11531(8) 0.5700(2) 0.29214(8) 1.12(2) 1. 0
+O11 O2- 8 f 0.11499(8) 0.6401(2) 0.12883(8) 0.86(2) 1. 0
+O12 O2- 8 f 0.94694(8) 0.5027(2) 0.10368(9) 1.07(2) 1. 0
+#End of TTdata_79382-ICSD

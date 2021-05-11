@@ -1,0 +1,133 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413034-ICSD
+_database_code_ICSD 413034
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Octasodium tecto-hexaalumohexasilicate dinitrate(V)'
+_chemical_formula_structural 'Na8 (Al Si O4)6 (N O3)2'
+_chemical_formula_sum 'Al6 N2 Na8 O30 Si6'
+_chemical_name_mineral 'Sodalite (nitrate-exchanged)'
+_exptl_crystal_density_diffrn 2.21
+_cell_measurement_temperature 935.
+_publ_section_title
+
+;
+Anomalous thermal expansion behaviour of Na8 (Al Si O4)6 (N O3)2 - sodalite:
+P4-3n to Pm3-n phase transition by untilting and contraction of T O4 units
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2003 218 332 344 ZEKRDZ
+loop_
+_publ_author_name
+'Ruescher, C.H.'
+'Gesing, T.M.'
+'Buhl, J.C.'
+_cell_length_a 9.153(1)
+_cell_length_b 9.153(1)
+_cell_length_c 9.153(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 766.81
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m -3 n'
+_symmetry_Int_Tables_number 223
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z+1/2, -y+1/2, x+1/2'
+2 'y+1/2, -x+1/2, z+1/2'
+3 'x+1/2, -z+1/2, y+1/2'
+4 '-z+1/2, y+1/2, -x+1/2'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 '-x+1/2, z+1/2, -y+1/2'
+7 'z+1/2, y+1/2, -x+1/2'
+8 'y+1/2, x+1/2, -z+1/2'
+9 'x+1/2, z+1/2, -y+1/2'
+10 '-z+1/2, -y+1/2, x+1/2'
+11 '-y+1/2, -x+1/2, z+1/2'
+12 '-x+1/2, -z+1/2, y+1/2'
+13 '-z+1/2, y+1/2, x+1/2'
+14 '-y+1/2, x+1/2, z+1/2'
+15 '-x+1/2, z+1/2, y+1/2'
+16 'z+1/2, -y+1/2, -x+1/2'
+17 'y+1/2, -x+1/2, -z+1/2'
+18 'x+1/2, -z+1/2, -y+1/2'
+19 '-z+1/2, -y+1/2, -x+1/2'
+20 '-y+1/2, -x+1/2, -z+1/2'
+21 '-x+1/2, -z+1/2, -y+1/2'
+22 'z+1/2, y+1/2, x+1/2'
+23 'y+1/2, x+1/2, z+1/2'
+24 'x+1/2, z+1/2, y+1/2'
+25 'z, x, -y'
+26 'y, z, -x'
+27 'x, y, -z'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 'z, -x, y'
+32 'y, -z, x'
+33 'x, -y, z'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 '-z, x, y'
+38 '-y, z, x'
+39 '-x, y, z'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 '-z, -x, -y'
+44 '-y, -z, -x'
+45 '-x, -y, -z'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+Al3+ 3
+O2- -2
+N5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 16 i 0.2125(3) 0.2125(3) 0.2125(3) 0.106(1) 0.5 0
+Si1 Si4+ 6 c 0.25 0 0.5 0.0239(2) 1. 0
+Al1 Al3+ 6 d 0.25 0.5 0 0.0243(2) 1. 0
+O1 O2- 24 k 0.1457(2) 0.1548(2) 0.5 0.0665(7) 1. 0
+N1 N5+ 2 a 0.5 0.5 0.5 0.62(4) 1. 0
+O2 O2- 48 l 0.3842(8) 0.4353(10) 0.4534(17) 0.62(4) 0.0417 0
+O3 O2- 48 l 0.5769(12) 0.4345(10) 0.5972(14) 0.62(4) 0.0417 0
+O4 O2- 12 f 0.5 0.6405(6) 0.5 0.62(4) 0.1667 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ .1064 .1064 .1064 .0427 .0427 .0427
+O1 O2- .0451 .0469 .108 .0244 0. 0.
+#End of TTdata_413034-ICSD

@@ -1,0 +1,128 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252510-ICSD
+_database_code_ICSD 252510
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Disodium iron(III) bis(sulfate) hydroxide trihydrate'
+_chemical_formula_structural 'Na2 Fe (S O4)2 (O H) (H2 O)3'
+_chemical_formula_sum 'H7 Fe1 Na2 O12 S2'
+_chemical_name_mineral Sideronatrite-2M
+_exptl_crystal_density_diffrn 2.26
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structure of sideronatrite-2M, Na2 Fe (SO4)2 (OH) (H2O)3, a new
+polytype from Xitieshan lead-zinc deposit, Qinghai Province, China
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2015 27 427 432 EJMIER
+loop_
+_publ_author_name
+'Yang, Zhuming'
+'Giester, Gerald'
+'Ding, Kuishou'
+'Li, He'
+_cell_length_a 7.1559(14)
+_cell_length_b 7.2845(15)
+_cell_length_c 20.889(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.37(3)
+_cell_angle_gamma 90.
+_cell_volume 1074.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0388
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+S6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 c 0. 0.5 0. 0.01362(15) 1 0
+Fe2 Fe3+ 2 b 0.5 0.5 0. 0.01379(15) 1 0
+S1 S6+ 4 e 0.68682(10) 0.52376(10) 0.86813(3) 0.01701(17) 1 0
+S2 S6+ 4 e 0.75096(9) 0.12592(10) 0.00447(3) 0.01502(17) 1 0
+Na1 Na1+ 4 e 0.55603(18) 0.0796(2) 0.12352(6) 0.0291(3) 1 0
+Na2 Na1+ 4 e 0.06320(18) 0.0784(2) 0.12144(7) 0.0302(3) 1 0
+O1 O2- 4 e 0.6792(3) 0.7201(3) 0.85523(12) 0.0291(5) 1 0
+O2 O2- 4 e 0.6571(3) 0.4185(3) 0.80773(10) 0.0260(5) 1 0
+O3 O2- 4 e 0.4661(3) 0.5280(3) 0.09444(10) 0.0223(5) 1 0
+O4 O2- 4 e 0.1236(3) 0.5265(3) 0.09432(10) 0.0218(5) 1 0
+O5 O2- 4 e 0.9272(3) 0.2400(3) 0.01824(10) 0.0186(4) 1 0
+O6 O2- 4 e 0.5887(3) 0.2403(3) 0.01884(10) 0.0191(4) 1 0
+O7 O2- 4 e 0.7739(3) 0.9749(3) 0.05145(10) 0.0189(4) 1 0
+O8 O2- 4 e 0.7178(3) 0.0654(3) 0.93771(10) 0.0231(5) 1 0
+O9 O2- 4 e 0.7610(3) 0.5912(3) 0.02320(10) 0.0167(4) 1 0
+H1 H1+ 4 e 0.767(5) 0.694(4) 0.0315(18) 0.025 1 0
+O10 O2- 4 e 0.0480(5) 0.8479(4) 0.19734(14) 0.0465(7) 1 0
+H2 H1+ 4 e 0.133(7) 0.761(6) 0.197(2) 0.07 1 0
+H3 H1+ 4 e 0.079(7) 0.902(7) 0.235(2) 0.07 1 0
+O11 O2- 4 e 0.8309(4) 0.2750(4) 0.16434(14) 0.0423(7) 1 0
+H4 H1+ 4 e 0.849(7) 0.378(6) 0.147(2) 0.063 1 0
+H5 H1+ 4 e 0.857(7) 0.284(7) 0.2055(18) 0.063 1 0
+O12 O2- 4 e 0.6520(5) 0.8443(5) 0.20004(16) 0.0538(8) 1 0
+H6 H1+ 4 e 0.561(7) 0.760(7) 0.189(3) 0.081 1 0
+H7 H1+ 4 e 0.764(6) 0.796(8) 0.188(3) 0.081 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0089(3) 0.0141(3) 0.0178(3) -0.0004(2) 0.0021(2) 0.0002(2)
+Fe2 Fe3+ 0.0090(3) 0.0139(3) 0.0186(3) 0.0002(2) 0.0026(2) -0.0003(2)
+S1 S6+ 0.0150(3) 0.0192(3) 0.0166(3) 0.0001(3) 0.0021(3) -0.0012(3)
+S2 S6+ 0.0116(3) 0.0121(3) 0.0214(4) -0.0003(2) 0.0029(3) -0.0009(3)
+Na1 Na1+ 0.0213(6) 0.0373(8) 0.0291(7) 0.0026(6) 0.0050(5) 0.0001(6)
+Na2 Na1+ 0.0193(6) 0.0380(8) 0.0331(7) -0.0013(6) 0.0034(5) -0.0005(6)
+O1 O2- 0.0266(12) 0.0192(11) 0.0422(14) 0.0018(10) 0.0073(10) 0.0015(10)
+O2 O2- 0.0266(11) 0.0322(12) 0.0186(10) 0.0005(10) 0.0012(9) -0.0090(10)
+O3 O2- 0.0157(10) 0.0319(12) 0.0197(10) -0.0038(9) 0.0047(8) -0.0019(9)
+O4 O2- 0.0131(10) 0.0323(12) 0.0192(10) 0.0019(9) -0.0001(8) -0.0023(9)
+O5 O2- 0.0123(9) 0.0158(10) 0.0275(11) -0.0025(8) 0.0027(8) 0.0011(9)
+O6 O2- 0.0126(9) 0.0158(10) 0.0303(11) 0.0030(8) 0.0074(8) 0.0022(9)
+O7 O2- 0.0181(10) 0.0129(9) 0.0256(11) 0.0017(8) 0.0033(8) 0.0030(8)
+O8 O2- 0.0214(11) 0.0254(11) 0.0224(11) -0.0002(9) 0.0036(9) -0.0054(9)
+O9 O2- 0.0105(9) 0.0139(10) 0.0257(11) 0.0006(8) 0.0025(8) -0.0034(9)
+O10 O2- 0.0560(18) 0.0494(18) 0.0338(15) 0.0202(15) 0.0063(13) -0.0023(13)
+O11 O2- 0.0445(16) 0.0396(16) 0.0432(16) -0.0019(13) 0.0083(13) -0.0073(14)
+O12 O2- 0.0555(19) 0.0514(19) 0.0496(18) -0.0200(16) -0.0058(15) 0.0149(15)
+#End of TTdata_252510-ICSD

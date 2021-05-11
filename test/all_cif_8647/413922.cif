@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413922-ICSD
+_database_code_ICSD 413922
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Dineodymiumm sodium ruthenium oxide'
+_chemical_formula_structural 'Nd2 Na Ru O6'
+_chemical_formula_sum 'Na1 Nd2 O6 Ru1'
+_chemical_name_structure_type Perovskite-Na3AlF6
+_exptl_crystal_density_diffrn 6.6
+_publ_section_title
+
+;
+Synthesis and magnetic properties of the double perovskites Ln2 Na Ru O6 (Ln =
+La, Pr, Nd)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 3560 3567 JSSCBI
+loop_
+_publ_author_name
+'Gemmill, W.R.'
+'Smith, M.D.'
+'zur Loye, H.C.'
+_cell_length_a 5.4944(2)
+_cell_length_b 5.9009(2)
+_cell_length_c 7.8917(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.8830(10)
+_cell_angle_gamma 90.
+_cell_volume 255.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0276
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Na1+ 1
+Ru5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nd1 Nd3+ 4 e 0.48107(4) 0.07099(4) 0.25285(2) 0.00732(7) 1 0
+Na1 Na1+ 2 a 0. 0. 0. 0.0061(4) 1 0
+Ru1 Ru5+ 2 b 0.5 0.5 0. 0.00519(9) 1 0
+O1 O2- 4 e 0.2076(5) 0.3272(5) 0.0506(4) 0.0090(5) 1 0
+O2 O2- 4 e 0.6161(5) 0.4512(5) 0.2309(4) 0.0088(5) 1 0
+O3 O2- 4 e 0.3359(5) 0.7808(5) 0.0666(4) 0.0101(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nd1 Nd3+ 0.00754(10) 0.00631(10) 0.00811(10) -0.00049(6) 0.00000(6) 0.00010(6)
+Na1 Na1+ 0.0049(9) 0.0067(9) 0.0067(8) -0.0010(8) -0.0003(7) 0.0015(8)
+Ru1 Ru5+ 0.00511(16) 0.00500(17) 0.00546(15) -0.00022(13) 0.00003(12)
+0.00005(13)
+O1 O2- 0.0099(11) 0.0064(13) 0.0108(11) -0.0021(9) 0.0009(9) 0.0004(9)
+O2 O2- 0.0111(12) 0.0078(12) 0.0076(11) -0.0022(10) -0.0015(9) 0.0009(9)
+O3 O2- 0.0113(12) 0.0066(12) 0.0124(12) 0.0029(10) -0.0008(10) -0.0044(10)
+#End of TTdata_413922-ICSD

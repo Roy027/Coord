@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60858-ICSD
+_database_code_ICSD 60858
+_audit_creation_date 1988-02-22
+_audit_update_record 2015-08-01
+_chemical_name_systematic 'Sodium bis(carbonato)cuprate(II)'
+_chemical_formula_structural 'Na2 Cu (C O3)2'
+_chemical_formula_sum 'C2 Cu1 Na2 O6'
+_chemical_name_structure_type CuNa2(CO3)2
+_chemical_name_mineral Juangodoyite
+_exptl_crystal_density_diffrn 2.98
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Electron density in non-ideal metal complexes. II. Sodium
+bis(carbonato)cuprate(II)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1986 42 430 436
+ASBSDK
+loop_
+_publ_author_name
+'Maslen, E.N.'
+'Spadaccini, N.'
+'Watson, K.J.'
+_cell_length_a 6.170(2)
+_cell_length_b 8.171(2)
+_cell_length_c 5.648(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.24(1)
+_cell_angle_gamma 90.
+_cell_volume 255.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Na1+ 1
+O2- -2
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 4 e 0.67160(8) 0.09405(5) 0.35690(8) . 1. 0
+O1 O2- 4 e 0.32537(10) -.08168(7) 0.21023(13) . 1. 0
+O2 O2- 4 e 0.36936(11) -.28169(7) -.03111(12) . 1. 0
+O3 O2- 4 e 0.40360(13) -.33579(8) 0.37097(14) . 1. 0
+C1 C4+ 4 e 0.36569(12) -.23665(8) 0.18683(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.00955(4) 0.00756(4) 0.01247(5) 0.00031(3) 0.00480(3) 0.00046(3)
+Na1 Na1+ 0.02181(17) 0.01907(16) 0.01608(15) -.00526(13) 0.00753(13) 0.00026(12)
+O1 O2- 0.01110(18) 0.00980(17) 0.02125(24) 0.00141(14) 0.00428(17) -.00321(16)
+O2 O2- 0.01754(22) 0.01150(18) 0.01402(20) 0.00240(16) 0.00765(17) 0.00028(15)
+O3 O2- 0.01936(25) 0.01816(24) 0.01718(23) 0.00254(19) 0.00804(20) 0.00682(19)
+C1 C4+ 0.00939(20) 0.00923(19) 0.01397(22) 0.00118(16) 0.00443(18) 0.00057(17)
+#End of TTdata_60858-ICSD

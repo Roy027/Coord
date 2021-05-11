@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_88890-ICSD
+_database_code_ICSD 88890
+_audit_creation_date 2001-07-16
+_audit_update_record 2009-02-01
+_chemical_name_systematic 'Disodium hexahydroxohafnate'
+_chemical_formula_structural 'Na2 (Hf (O H)6)'
+_chemical_formula_sum 'H6 Hf1 Na2 O6'
+_exptl_crystal_density_diffrn 3.67
+_publ_section_title
+'Crystal structure of hydroxohafnates Na2 Hf (O H)6 and K2 Hf (O H)6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1999 44 1054 1058 KRISAJ
+loop_
+_publ_author_name
+'Troyanov, S.I.'
+'Kostrikin, A.V.'
+'Lin'ko, I.V. (Linko, I.V.)'
+'Zaitsev, B.E.'
+'Ezhov, A.I.'
+'Spiridonov, F.M.'
+_cell_length_a 6.001(1)
+_cell_length_b 6.001(1)
+_cell_length_c 14.205(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 443.02
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Hf4+ 4
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Hf1 Hf4+ 3 b 0 0 0.5 0.0121(6) 1. 0
+Na1 Na1+ 6 c 0.3333 0.6667 0.4990(8) 0.012(2) 1. 0
+O1 O2- 18 f 0.006(2) 0.291(2) 0.5810(8) 0.018(2) 1. 0
+H1 H1+ 18 f -.01(4) 0.28(4) 0.65(1) 0.02(2) 1. 0
+#End of TTdata_88890-ICSD

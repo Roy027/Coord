@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68261-ICSD
+_database_code_ICSD 68261
+_audit_creation_date 1991-07-10
+_chemical_name_systematic 'Disodium dodecatitanate'
+_chemical_formula_structural 'Na2 (Ti12 O25)'
+_chemical_formula_sum 'Na2 O25 Ti12'
+_exptl_crystal_density_diffrn 3.5
+_publ_section_title 'Na2Ti12O25, a new sodium titanate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'South African Journal of Chemistry' 1987 40 233 236 SAJCDG
+loop_
+_publ_author_name
+'Range, K.J.'
+'Fischer, H.'
+'Ketterl, F.'
+_cell_length_a 14.449(3)
+_cell_length_b 3.776(1)
+_cell_length_c 9.234(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 106.06(8)
+_cell_angle_gamma 90.
+_cell_volume 484.14
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1 2/m 1'
+_symmetry_Int_Tables_number 10
+_refine_ls_R_factor_all 0.073
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 2 m 0.1239(2) 0 0.9889(2) 1.21 1. 0
+Ti2 Ti4+ 2 m 0.1770(1) 0 0.6840(2) 0.96 1. 0
+Ti3 Ti4+ 2 m 0.2434(2) 0 0.3957(2) 0.88 1. 0
+Ti4 Ti4+ 2 n 0.4079(2) 0.5 0.3635(2) 1.12 1. 0
+Ti5 Ti4+ 2 n 0.7078(2) 0.5 0.0340(2) 1.12 1. 0
+Ti6 Ti4+ 2 n 0.6486(2) 0.5 0.3227(2) 1.41 1. 0
+O1 O2- 1 a 0 0 0 2.05 1. 0
+O2 O2- 2 m 0.1751(6) 0 0.2068(8) 0.99 1. 0
+O3 O2- 2 m 0.3785(6) 0 0.3724(8) 1.2 1. 0
+O4 O2- 2 m 0.1343(6) 0 0.4785(8) 1. 1. 0
+O5 O2- 2 m 0.3175(6) 0 0.6438(8) 0.94 1. 0
+O6 O2- 2 m 0.0753(6) 0 0.7604(8) 1.24 1. 0
+O7 O2- 2 m 0.2585(6) 0 0.9300(8) 1.1 1. 0
+O8 O2- 2 n 0.8424(6) 0.5 0.0091(9) 1.48 1. 0
+O9 O2- 2 n 0.6015(6) 0.5 0.1215(8) 1.39 1. 0
+O10 O2- 2 n 0.3660(6) 0.5 0.1551(8) 1.91 1. 0
+O11 O2- 2 n 0.7819(6) 0.5 0.2819(8) 1.6 1. 0
+O12 O2- 2 n 0.5398(6) 0.5 0.3926(8) 1.06 1. 0
+O13 O2- 2 n 0.2786(6) 0.5 0.4334(8) 1.5 1. 0
+Na1 Na1+ 2 m 0.5070(11) 0 0.9760(13) 1.19 0.5 0
+Na2 Na1+ 2 n 0.0427(9) 0.5 0.2951(13) 0.81 0.5 0
+#End of TTdata_68261-ICSD

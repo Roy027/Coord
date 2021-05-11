@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_244165-ICSD
+_database_code_ICSD 244165
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Disodium diaqua tungstate(VI)'
+_chemical_formula_structural 'Na2 (W O4) (H2 O)2'
+_chemical_formula_sum 'H4 Na2 O6 W1'
+_chemical_name_structure_type Na2MoO4(H2O)2
+_exptl_crystal_density_diffrn 3.55
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Comparison of silver and molybdenum microfocus X-ray sources for
+single-crystal structure determination
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Crystallography' 2015 48 3 10 JACGAR
+loop_
+_publ_author_name
+'Krause, Lennard'
+'Herbst-Irmer, Regine'
+'Sheldrick, George M.'
+'Stalke, Dietmar'
+_cell_length_a 8.442(2)
+_cell_length_b 10.569(2)
+_cell_length_c 13.816(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1232.71
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.015
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 c 0.51352(2) 0.30163(2) 0.52276(2) 0.00396(1) 1 0
+Na1 Na1+ 8 c 0.15563(5) 0.49545(4) 0.58567(3) 0.00754(6) 1 0
+Na2 Na1+ 8 c 0.24079(5) 0.45107(4) 0.35226(3) 0.00759(6) 1 0
+O1 O2- 8 c 0.44747(9) 0.32286(7) 0.40073(5) 0.00745(8) 1 0
+O2 O2- 8 c 0.36862(9) 0.35113(7) 0.60982(5) 0.00779(9) 1 0
+O3 O2- 8 c 0.68756(9) 0.39260(7) 0.53761(5) 0.00844(9) 1 0
+O4 O2- 8 c 0.55707(9) 0.13864(6) 0.54168(5) 0.00685(8) 1 0
+O5 O2- 8 c 0.22785(9) 0.35952(7) 0.20105(6) 0.00921(9) 1 0
+H1 H1+ 8 c 0.141(3) 0.356(2) 0.1785(17) 0.014 1 0
+H2 H1+ 8 c 0.268(3) 0.294(2) 0.1780(17) 0.014 1 0
+O6 O2- 8 c 0.03752(10) 0.59210(7) 0.30019(6) 0.01004(10) 1 0
+H3 H1+ 8 c 0.061(3) 0.656(2) 0.3270(18) 0.015 1 0
+H4 H1+ 8 c 0.063(3) 0.603(2) 0.2419(18) 0.015 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00433(1) 0.00344(1) 0.00410(1) 0.00001(1) 0.00014(1) 0.00008(1)
+Na1 Na1+ 0.00776(15) 0.00714(14) 0.00773(14) 0.00070(11) -0.00028(11)
+-0.00044(11)
+Na2 Na1+ 0.00765(15) 0.00804(14) 0.00709(14) 0.00043(11) -0.00063(11)
+-0.00056(11)
+O1 O2- 0.0078(2) 0.0083(2) 0.0062(2) 0.00078(16) -0.00116(16) 0.00078(15)
+O2 O2- 0.0081(2) 0.0082(2) 0.0070(2) 0.00181(16) 0.00158(16) -0.00012(16)
+O3 O2- 0.0085(2) 0.0078(2) 0.0090(2) -0.00282(17) -0.00058(17) -0.00065(17)
+O4 O2- 0.0076(2) 0.00462(18) 0.0083(2) 0.00078(15) -0.00003(16) 0.00059(15)
+O5 O2- 0.0091(2) 0.0101(2) 0.0085(2) 0.00075(18) -0.00142(18) -0.00177(18)
+O6 O2- 0.0130(3) 0.0087(2) 0.0084(2) 0.0003(2) 0.00140(19) 0.00022(18)
+#End of TTdata_244165-ICSD

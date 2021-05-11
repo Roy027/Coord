@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65-ICSD
+_database_code_ICSD 65
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Sodium dihydrogenphosphate(V) dihydrate'
+_chemical_formula_structural 'Na (H2 P O4) (H2 O)2'
+_chemical_formula_sum 'H6 Na1 O6 P1'
+_chemical_name_structure_type NaH2PO4(H2O)2
+_exptl_crystal_density_diffrn 1.89
+_publ_section_title
+
+;
+Hydrogen bonding in the cristalline state. The crystal structure of Na H2 P O4
+(H2 O) by X-ray and neutron diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1976 32 987 994 ACBCAR
+loop_
+_publ_author_name
+'Bartl, H.'
+'Catti, M.'
+'Ferraris, G.'
+_cell_length_a 7.275(9)
+_cell_length_b 11.384(6)
+_cell_length_c 6.606(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 547.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 a 0.7135(1) 0.6508(1) 0.9560(1) . 1. 0
+Na1 Na1+ 4 a 0.3928(2) 0.4204(1) 0.7803(2) . 1. 0
+O1 O2- 4 a 0.7261(3) 0.7819(2) 0.9452(3) . 1. 0
+O2 O2- 4 a 0.8291(3) 0.5853(2) 0.8012(3) . 1. 0
+O3 O2- 4 a 0.5110(3) 0.6038(2) 0.9284(3) . 1. 0
+O4 O2- 4 a 0.7765(3) 0.6142(2) 1.1756(3) . 1. 0
+O5 O2- 4 a 0.0453(4) 0.7229(2) 0.5454(4) . 1. 0
+O6 O2- 4 a 0.1229(3) 0.4570(2) 0.9732(4) . 1. 0
+H1 H1+ 4 a 0.425 0.645 0.97 2. 1. 0
+H2 H1+ 4 a 0.75 0.535 1.215 2. 1. 0
+H3 H1+ 4 a 0 0.69 0.655 2. 1. 0
+H4 H1+ 4 a 0.155 0.75 0.605 2. 1. 0
+H5 H1+ 4 a 0 0.5 0.905 2. 1. 0
+H6 H1+ 4 a 0.075 0.39 0.995 2. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+P1 P5+ 1.07(2) 1.04(2) 1.23(2) -.01(2) -.04(2) -.11(2)
+Na1 Na1+ 1.78(4) 1.93(5) 1.87(5) -.17(4) -.07(4) -.26(4)
+O1 O2- 1.79(7) 1.38(6) 2.11(8) -.10(7) -.61(8) -.04(7)
+O2 O2- 1.73(8) 1.94(8) 2.02(8) 0.04(7) 0.44(7) -.53(7)
+O3 O2- 1.32(7) 1.72(7) 2.47(9) -.10(6) -.08(7) -.58(7)
+O4 O2- 1.93(8) 2.00(7) 1.54(7) -.31(7) -.28(7) 0.34(6)
+O5 O2- 2.97(10) 2.65(9) 2.04(8) -.09(9) 0.51(9) -.14(9)
+O6 O2- 2.04(8) 2.02(8) 2.68(9) 0.20(7) 0.14(9) 0.10(8)
+#End of TTdata_65-ICSD

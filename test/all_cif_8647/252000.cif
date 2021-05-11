@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252000-ICSD
+_database_code_ICSD 252000
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Disodium pentaoxo-dimolybdate(VI) bis(selenate(IV))'
+_chemical_formula_structural 'Na2 Mo2 O5 (Se O3)2'
+_chemical_formula_sum 'Mo2 Na2 O11 Se2'
+_exptl_crystal_density_diffrn 4.17
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Structure-directing effect of alkali metal cations in new molybdenum
+selenites, Na2 Mo2 O5 (Se O3)2, K2 Mo2 O5 (Se O3)2, and Rb2 Mo3 O7 (Se O3)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 8832 8839 INOCAJ
+loop_
+_publ_author_name
+'Bang, Seong-eun'
+'Ok, Kang Min'
+_cell_length_a 9.37710(10)
+_cell_length_b 6.44990(10)
+_cell_length_c 15.2427(2)
+_cell_angle_alpha 90
+_cell_angle_beta 99.252(10)
+_cell_angle_gamma 90
+_cell_volume 909.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0304
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Se4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 8 f 0.62395(3) 0.22024(6) 0.39765(2) 0.00624(16) 1 0
+Se1 Se4+ 8 f 0.44288(5) 0.74643(5) 0.33172(3) 0.00647(16) 1 0
+Na1 Na1+ 4 d 0.75 0.75 0.25 0.0268(7) 1 0
+Na2 Na1+ 4 e 0.25 0.2525(3) 0.5 0.0097(5) 1 0
+O1 O2- 8 f 0.4719(4) 0.2670(4) 0.4425(2) 0.0129(6) 1 0
+O2 O2- 8 f 0.6997(3) 0.4609(4) 0.39263(15) 0.0108(5) 1 0
+O3 O2- 4 e 0.75 0.1202(6) 0.5 0.0096(7) 1 0
+O4 O2- 8 f 0.4912(3) 0.7441(4) 0.22664(17) 0.0107(6) 1 0
+O5 O2- 8 f 0.5833(2) 0.8952(4) 0.37916(14) 0.0091(5) 1 0
+O6 O2- 8 f 0.2967(2) 0.9031(4) 0.32207(14) 0.0089(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0049(2) 0.0088(2) 0.0057(2) 0.00049(10) 0.00262(14) 0.00021(9)
+Se1 Se4+ 0.0045(3) 0.0085(2) 0.0070(3) -0.00060(11) 0.00287(17) -0.00040(11)
+Na1 Na1+ 0.0091(14) 0.0212(14) 0.051(2) -0.0021(9) 0.0084(14) -0.0144(11)
+Na2 Na1+ 0.0095(12) 0.0106(10) 0.0097(11) 0 0.0039(9) 0
+O1 O2- 0.0104(15) 0.0179(14) 0.0116(14) 0.0027(10) 0.0055(12) 0.0017(9)
+O2 O2- 0.0085(12) 0.0096(13) 0.0144(11) -0.0004(9) 0.0023(9) -0.0002(9)
+O3 O2- 0.0098(17) 0.0118(17) 0.0072(14) 0 0.0012(12) 0
+O4 O2- 0.0054(13) 0.0201(14) 0.0072(13) -0.0003(9) 0.0032(10) -0.0037(9)
+O5 O2- 0.0059(11) 0.0119(12) 0.0090(10) -0.0021(10) 0.0002(9) -0.0007(9)
+O6 O2- 0.0037(11) 0.0135(12) 0.0104(10) -0.0004(9) 0.0039(9) 0.0002(9)
+#End of TTdata_252000-ICSD

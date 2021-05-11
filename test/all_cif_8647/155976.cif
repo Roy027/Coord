@@ -1,0 +1,70 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_155976-ICSD
+_database_code_ICSD 155976
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Disodium phosphonate'
+_chemical_formula_structural 'Na2 (H P O3)'
+_chemical_formula_sum 'H1 Na2 O3 P1'
+_exptl_crystal_density_diffrn 2.45
+_cell_measurement_temperature 298.
+_publ_section_title 'The crystal structure of disodium phosphonate, Na2 H P O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2005
+631 2994 2996 ZAACAB
+loop_
+_publ_author_name
+'Sofina, N.'
+'Dinnebier, R.'
+'Jansen, M.'
+_cell_length_a 9.6987(1)
+_cell_length_b 6.9795(1)
+_cell_length_c 5.0561(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.37(1)
+_cell_angle_gamma 90.
+_cell_volume 341.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0615
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.7459(2) 0.0633(2) 0.2754(4) 0.0163(6) 1. 0
+Na2 Na1+ 4 e 0.1032(2) 0.6922(3) 0.2260(3) 0.0217(7) 1. 0
+P1 P3+ 4 e 0.5738(1) 0.2650(2) 0.8100(3) 0.0110(3) 1. 0
+O1 O2- 4 e 0.6818(2) 0.1246(3) 0.7169(4) 0.0110(3) 1. 0
+O2 O2- 4 e 0.4280(2) 0.1878(3) 0.7576(5) 0.0110(3) 1. 0
+O3 O2- 4 e 0.5986(2) 0.3047(3) 0.1043(3) 0.0110(3) 1. 0
+H1 H1+ 4 e 0.5860(4) 0.4245(7) 0.6814(9) 0.0110(3) 1. 0
+#End of TTdata_155976-ICSD

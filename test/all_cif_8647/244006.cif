@@ -1,0 +1,129 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_244006-ICSD
+_database_code_ICSD 244006
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium samarium tetrakis(iodate)'
+_chemical_formula_structural 'Na Sm (I O3)4'
+_chemical_formula_sum 'I4 Na1 O12 Sm1'
+_chemical_name_structure_type NaY(IO3)4
+_exptl_crystal_density_diffrn 5.16
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Photoconversion mechanisms and the origin of second-harmonic generation in
+metal iodates with wide transparency, NaLn(IO3)4 (Ln = La, Ce, Sm, and Eu) and
+NaLa(IO3)4:Ln3+ (Ln = Sm and Eu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 6973 6981 INOCAJ
+loop_
+_publ_author_name
+'Oh, Seung-Jin'
+'Kim, Hyung-Gu'
+'Jo, Hongil'
+'Lim, Tae Gil'
+'Yoo, Jae Soo'
+'Ok, Kang Min'
+_cell_length_a 31.4748(12)
+_cell_length_b 5.6225(2)
+_cell_length_c 12.7071(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.927(4)
+_cell_angle_gamma 90
+_cell_volume 2248.44
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0408
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sm3+ 3
+I5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sm1 Sm3+ 4 a -0.12712(5) -0.1932(2) 0.96622(10) 0.0125(3) 1 0
+Sm2 Sm3+ 4 a 0.07953(4) 0.2114(2) 0.97016(9) 0.0103(3) 1 0
+I1 I5+ 4 a -0.14457(5) -0.2961(3) 1.25957(13) 0.0123(4) 1 0
+I2 I5+ 4 a -0.20391(6) 0.2644(3) 1.06552(12) 0.0127(4) 1 0
+I3 I5+ 4 a -0.24359(6) -0.1739(3) 0.83419(14) 0.0137(4) 1 0
+I4 I5+ 4 a -0.06398(6) -0.1978(3) 0.66956(12) 0.0148(3) 1 0
+I5 I5+ 4 a 0.09841(5) 0.3014(3) 0.67528(12) 0.0116(4) 1 0
+I6 I5+ 4 a 0.15544(6) -0.2600(3) 0.87708(12) 0.0116(4) 1 0
+I7 I5+ 4 a 0.19477(6) 0.1854(3) 1.10575(13) 0.0134(4) 1 0
+I8 I5+ 4 a -0.00601(5) -0.2605(2) 1.00793(12) 0.0116(3) 1 0
+Na1 Na1+ 4 a -0.0378(4) 0.2712(18) 0.8574(9) 0.032(3) 1 0
+Na2 Na1+ 4 a 0.0382(4) 0.774(2) 0.7635(8) 0.031(3) 1 0
+O1 O2- 4 a -0.1143(6) -0.326(3) 1.1398(14) 0.017(4) 1 0
+O2 O2- 4 a -0.1227(6) -0.562(3) 1.3185(13) 0.012(4) 1 0
+O3 O2- 4 a -0.1591(7) 0.059(3) 1.0927(15) 0.021(5) 1 0
+O4 O2- 4 a -0.2007(6) 0.432(3) 1.1870(14) 0.015(4) 1 0
+O5 O2- 4 a -0.1771(7) 0.464(3) 0.9746(17) 0.026(5) 1 0
+O6 O2- 4 a -0.1941(6) -0.058(3) 0.8859(14) 0.014(4) 1 0
+O7 O2- 4 a -0.2785(7) -0.008(3) 0.9190(17) 0.024(5) 1 0
+O8 O2- 4 a -0.2466(7) -0.002(3) 0.7162(16) 0.024(5) 1 0
+O9 O2- 4 a -0.0679(6) -0.106(3) 0.5332(14) 0.022(4) 1 0
+O10 O2- 4 a -0.0268(6) -0.445(3) 0.6633(13) 0.025(4) 1 0
+O11 O2- 4 a -0.0252(9) 0.019(2) 0.714(2) 0.025(3) 1 0
+O12 O2- 4 a 0.0760(6) 0.580(3) 0.6284(14) 0.014(4) 1 0
+O13 O2- 4 a 0.0680(6) 0.313(3) 0.7920(13) 0.015(4) 1 0
+O14 O2- 4 a 0.1092(6) -0.079(3) 0.8475(15) 0.018(5) 1 0
+O15 O2- 4 a 0.1517(7) -0.446(3) 0.7637(15) 0.019(4) 1 0
+O16 O2- 4 a 0.1303(7) -0.454(3) 0.9687(15) 0.018(5) 1 0
+O17 O2- 4 a 0.1466(7) 0.065(3) 1.0446(16) 0.017(4) 1 0
+O18 O2- 4 a 0.2322(7) 0.032(3) 1.0246(17) 0.028(5) 1 0
+O19 O2- 4 a 0.1948(7) 0.004(3) 1.2237(16) 0.021(5) 1 0
+O20 O2- 4 a -0.0558(5) -0.330(3) 0.9352(12) 0.018(4) 1 0
+O21 O2- 4 a 0.0146(6) -0.018(3) 0.9272(12) 0.017(4) 1 0
+O22 O2- 4 a 0.0230(5) -0.501(3) 0.9468(13) 0.018(4) 1 0
+O23 O2- 4 a -0.1092(6) 0.089(3) 0.8293(15) 0.019(5) 1 0
+O24 O2- 4 a 0.0643(6) -0.093(3) 1.1030(14) 0.016(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sm1 Sm3+ 0.0103(7) 0.0153(7) 0.0117(7) 0.0008(6) -0.0001(6) 0.0000(6)
+Sm2 Sm3+ 0.0108(7) 0.0096(6) 0.0104(7) 0.0009(6) -0.0002(6) -0.0006(5)
+I1 I5+ 0.0126(10) 0.0111(8) 0.0132(9) 0.0008(7) -0.0002(8) -0.0012(7)
+I2 I5+ 0.0108(9) 0.0134(8) 0.0138(9) 0.0004(8) 0.0006(7) -0.0015(8)
+I3 I5+ 0.0113(9) 0.0154(8) 0.0143(10) 0.0006(7) -0.0005(8) -0.0009(7)
+I4 I5+ 0.0147(8) 0.0144(7) 0.0153(8) -0.0002(7) 0.0033(7) 0.0018(6)
+I5 I5+ 0.0106(9) 0.0119(8) 0.0122(9) 0.0014(7) -0.0008(7) -0.0010(7)
+I6 I5+ 0.0095(9) 0.0107(7) 0.0146(9) 0.0006(8) 0.0002(7) -0.0010(8)
+I7 I5+ 0.0111(9) 0.0154(8) 0.0137(10) -0.0001(8) -0.0012(7) -0.0003(7)
+I8 I5+ 0.0093(7) 0.0109(7) 0.0145(7) 0.0001(6) 0.0016(6) -0.0009(6)
+Na1 Na1+ 0.032(7) 0.027(6) 0.035(7) 0.007(5) -0.012(5) -0.010(5)
+Na2 Na1+ 0.028(7) 0.041(6) 0.024(6) 0.014(6) 0.001(5) -0.016(5)
+#End of TTdata_244006-ICSD

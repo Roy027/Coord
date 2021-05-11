@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_411988-ICSD
+_database_code_ICSD 411988
+_audit_creation_date 2002-10-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Pentasodium tetracarbonatoscandate dihydrate'
+_chemical_formula_structural 'Na5 (Sc (C O3)4) (H2 O)2'
+_chemical_formula_sum 'C4 H4 Na5 O14 Sc1'
+_chemical_name_structure_type Na5Sc(CO3)4(H2O)2
+_exptl_crystal_density_diffrn 2.25
+_publ_section_title
+
+;
+Ab-initio-Berechnung des Tetracarbonatoscandat-Ions Na5 (Sc (C O3)4) * 2(H2
+O). Einkristallstrukturbestimmung, Schwingungsspektren und thermischer Abbau
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2001
+627 2023 2031 ZAACAB
+loop_
+_publ_author_name
+'Dahm, M.'
+'Adam, A.'
+_cell_length_a 7.4637(4)
+_cell_length_b 7.4637(4)
+_cell_length_c 11.570(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 644.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 c'
+_symmetry_Int_Tables_number 114
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 'y, -x, -z'
+3 '-y+1/2, -x+1/2, z+1/2'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sc3+ 3
+Na1+ 1
+O2- -2
+C4+ 4
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sc1 Sc3+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 2 b 0.5 0.5 0 . 1. 0
+Na2 Na1+ 8 e 0.31873(14) 0.18045(13) 0.20827(9) . 1. 0
+O1 O2- 8 e 0.1627(3) 0.2447(2) 0.03176(13) . 1. 0
+O2 O2- 8 e 0.3322(3) 0.4059(2) 0.35529(14) . 1. 0
+O3 O2- 8 e 0.0941(3) 0.2309(3) 0.38250(17) . 1. 0
+O4 O2- 4 d 0 0.5 0.1670(2) . 1. 0
+C1 C4+ 8 e 0.2211(3) 0.3208(4) 0.4226(2) . 1. 0
+H1 H1+ 8 e 0.046(4) 0.429(4) 0.118(2) 0.028(8) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc1 Sc3+ 0.0162(3) 0.0162(3) 0.0128(4) 0 0 0
+Na1 Na1+ 0.0239(6) 0.0239(6) 0.0252(10) 0 0 0
+Na2 Na1+ 0.0300(5) 0.0252(5) 0.0169(4) 0.0014(5) -.0035(4) -.0029(4)
+O1 O2- 0.0265(9) 0.0217(9) 0.0149(8) 0.0012(8) -.0019(7) -.0006(7)
+O2 O2- 0.0227(9) 0.0184(8) 0.0158(8) -.0041(7) -.0020(7) -.0008(6)
+O3 O2- 0.0255(9) 0.0299(10) 0.0329(10) -.0091(8) -.0087(9) 0.0062(9)
+O4 O2- 0.0317(13) 0.0207(12) 0.0189(12) 0.0048(13) 0 0
+C1 C4+ 0.0182(12) 0.0145(11) 0.0202(11) 0.0035(9) -.0014(9) -.001(1)
+#End of TTdata_411988-ICSD

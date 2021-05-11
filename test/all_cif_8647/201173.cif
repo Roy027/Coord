@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201173-ICSD
+_database_code_ICSD 201173
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Disodium tungsten dioxide fluoride'
+_chemical_formula_structural 'Na2 W O2 F4'
+_chemical_formula_sum 'F4 Na2 O2 W1'
+_chemical_name_structure_type Fe2WO6
+_exptl_crystal_density_diffrn 4.46
+_publ_section_title 'Structure de Na2 W O2 F4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1982 19 58 64 RVCMA8
+loop_
+_publ_author_name
+'Vlasse, M.'
+'Moutou, J.M.'
+'Cervera-Marzal, M.'
+'Chaminade, J.P.'
+'Hagenmuller, P.'
+_cell_length_a 5.074(3)
+_cell_length_b 18.253(8)
+_cell_length_c 5.437(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 503.55
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 c 0 0.10708(3) 0.25 . 1. 0
+Na1 Na1+ 4 c 0 0.7705(4) 0.25 . 1. 0
+Na2 Na1+ 4 c 0 0.4438(4) 0.25 . 1. 0
+O1 O2- 8 d 0.2279(21) 0.0467(6) 0.1184(17) . 1. 0
+F1 F1- 8 d 0.2899(16) 0.3736(5) 0.0393(14) . 1. 0
+F2 F1- 8 d 0.2014(22) 0.1938(5) 0.1062(17) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0159(2) 0.0124(1) 0.0100(1) 0 0.0005(6) 0
+Na1 Na1+ 0.0212(30) 0.0218(27) 0.0146(24) 0 -.0004(75) 0
+Na2 Na1+ 0.0172(30) 0.0313(34) 0.0164(27) 0 0.0092(67) 0
+O1 O2- 0.0221(43) 0.0200(35) 0.0129(32) 0.0057(33) 0.0005(33) -.0028(28)
+F1 F1- 0.0117(29) 0.0209(2) 0.0088(24) 0.0070(24) 0.0049(22) 0.0014(23)
+F2 F1- 0.0232(43) 0.0184(34) 0.0151(33) -.0079(33) -.0050(34) 0.0054(28)
+#End of TTdata_201173-ICSD

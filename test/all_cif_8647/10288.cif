@@ -1,0 +1,128 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_10288-ICSD
+_database_code_ICSD 10288
+_audit_creation_date 1980-01-01
+_audit_update_record 1999-06-02
+_chemical_name_systematic 'Sodium tecto-alumosilicate *'
+_chemical_formula_structural 'Na12 Al12 Si12 O48'
+_chemical_formula_sum 'Al12 Na12 O48 Si12'
+_chemical_name_structure_type Zeolite-A-frame
+_chemical_name_mineral 'Zeolite 4A (dehydrated)'
+_exptl_crystal_density_diffrn 1.53
+_publ_section_title
+'A redetermination of the crystal structure of dehydrated zeolite 4A'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry' 1973 77 805 809 JPCHAX
+loop_
+_publ_author_name
+'Yanagida, R.Y.'
+'Amaro, A.A.'
+'Seff, K.'
+_cell_length_a 12.263(2)
+_cell_length_b 12.263(2)
+_cell_length_c 12.263(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1844.12
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m -3 m'
+_symmetry_Int_Tables_number 221
+_refine_ls_R_factor_all 0.069
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 24 k 0 0.185(1) 0.372(1) 1.4(6) 0.5 0
+Al1 Al3+ 24 k 0 0.185(1) 0.372(1) 1.4(6) 0.5 0
+O1 O2- 12 h 0 0.225(1) 0.5 2.3(4) 1. 0
+O2 O2- 12 i 0 0.290(1) 0.290(1) 2.6(4) 1. 0
+O3 O2- 24 m 0.114(1) 0.114(1) 0.345(1) 2.7(3) 1. 0
+Na1 Na1+ 8 g 0.200(1) 0.200(1) 0.200(1) . 1. 0
+Na2 Na1+ 12 i 0 0.429(3) 0.429(3) . 0.25 0
+Na3 Na1+ 12 j 0.204(7) 0.204(7) 0.5 2. 0.083 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.007(1) 0.007(1) 0.007(1) 0.0010(5) 0.0010(5) 0.0010(5)
+Na2 Na1+ 0.012(6) 0.005(3) 0.005(3) 0 0 0
+#End of TTdata_10288-ICSD

@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171255-ICSD
+_database_code_ICSD 171255
+_audit_creation_date 2006-10-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Sodium yttrium disilicate'
+_chemical_formula_structural 'Na Y Si2 O6'
+_chemical_formula_sum 'Na1 O6 Si2 Y1'
+_chemical_name_structure_type NaYSi2O6
+_exptl_crystal_density_diffrn 3.32
+_cell_measurement_temperature 296.5
+_publ_section_title
+
+;
+Characterization and ab-initio XRPD structure determination of a novel
+silicate with vierer single chains: the crystal structure of Na Y Si2 O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2005 44 9554 9560 INOCAJ
+loop_
+_publ_author_name
+'Toebbens, D.M.'
+'Kahlenberg, V.'
+'Kaindl, R.'
+_cell_length_a 5.40789(2)
+_cell_length_b 13.69782(5)
+_cell_length_c 7.58431(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.9140(3)
+_cell_angle_gamma 90.
+_cell_volume 528.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0434
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 e 0.9849(2) 0.00409(9) 0.24902(17) 0.0073(2) 1. 0
+Na1 Na1+ 4 e 0.1313(6) 0.2653(3) 0.0425(4) 0.0249(10) 1. 0
+Si1 Si4+ 4 e 0.5752(6) 0.1404(2) 0.3589(4) 0.0044(9) 1. 0
+Si2 Si4+ 4 e 0.5795(6) 0.3618(3) 0.4334(4) 0.0064(9) 1. 0
+O1 O2- 4 e 0.6710(7) 0.2524(6) 0.4172(6) 0.0323(15) 1. 0
+O2 O2- 4 e 0.6146(10) 0.1252(3) 0.1573(9) 0.043(2) 1. 0
+O3 O2- 4 e 0.7799(9) 0.0679(3) 0.4801(7) 0.0093(19) 1. 0
+O4 O2- 4 e 0.2786(11) 0.1314(5) 0.3238(7) 0.0153(20) 1. 0
+O5 O2- 4 e 0.7995(10) 0.4341(4) 0.4182(8) 0.038(2) 1. 0
+O6 O2- 4 e 0.2849(11) 0.3743(4) 0.3078(7) 0.023(2) 1. 0
+#End of TTdata_171255-ICSD

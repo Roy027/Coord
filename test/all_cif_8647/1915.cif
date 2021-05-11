@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1915-ICSD
+_database_code_ICSD 1915
+_audit_creation_date 1980-01-01
+_audit_update_record 2015-08-01
+_chemical_name_systematic 'Disodium copper bis(sulfate(VI)) dihydrate'
+_chemical_formula_structural 'Na2 Cu (S O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Cu1 Na2 O10 S2'
+_chemical_name_structure_type Kroehnkite-Na2Cu(SO4)2(H2O)2#Roselite
+_chemical_name_mineral Kroehnkite
+_exptl_crystal_density_diffrn 2.91
+_publ_section_title 'Refinement of the crystal structure of kroehnkite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 1753 1755 ACBCAR
+loop_
+_publ_author_name
+'Hawthorne, F.C.'
+'Ferguson, R.B.'
+_cell_length_a 5.807(1)
+_cell_length_b 12.656(2)
+_cell_length_c 5.517(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.32(1)
+_cell_angle_gamma 90.
+_cell_volume 384.91
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 4 e 0.5714(3) 0.1247(1) 0.2099(3) . 1. 0
+S1 S6+ 4 e 0.2375(1) 0.11793(6) 0.5445(1) . 1. 0
+O1 O2- 4 e 0.0038(5) 0.1725(2) 0.4874(5) . 1. 0
+O2 O2- 4 e 0.2911(4) 0.0573(2) 0.7844(4) . 1. 0
+O3 O2- 4 e 0.2319(4) 0.0425(2) 0.3322(4) . 1. 0
+O4 O2- 4 e 0.4385(4) 0.1923(2) 0.5617(4) . 1. 0
+O5 O2- 4 e 0.8315(4) 0.1343(2) 0.9513(4) . 1. 0
+H1 H1+ 4 e 0.927(9) 0.184(4) 0.992(9) 0.5 1. 0
+H2 H1+ 4 e 0.712(9) 0.140(4) 0.792(9) 0.5 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cu1 Cu2+ 0.00744(16) 0.00141(3) 0.00711(16) 0 0.00050(11) 0
+Na1 Na1+ 0.01377(46) 0.00248(9) 0.01538(49) -.00016(17) 0.00860(39) -.00027(17)
+S1 S6+ 0.00628(19) 0.00119(4) 0.00518(19) 0.00004(6) 0.00156(14) -.00017(7)
+O1 O2- 0.00869(61) 0.00207(12) 0.01132(7) 0.00148(26) 0.00270(53) 0.00013(29)
+O2 O2- 0.01003(65) 0.00195(13) 0.00765(63) 0.00048(24) 0.00250(54) 0.00128(25)
+O3 O2- 0.00854(65) 0.00233(14) 0.00941(72) 0.00046(25) 0.00185(56) -.00198(27)
+O4 O2- 0.01033(67) 0.00189(12) 0.00992(70) -.00167(24) 0.00314(57) 0.00005(25)
+O5 O2- 0.00831(62) 0.00148(12) 0.00842(66) -.00054(23) 0.00157(52) -.00009(23)
+#End of TTdata_1915-ICSD

@@ -1,0 +1,142 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253067-ICSD
+_database_code_ICSD 253067
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium barium polyoxo-hydroxo-ferrate *'
+_chemical_formula_structural 'Na (Ba8 Fe12 O24 (O H)6) Na1.22'
+_chemical_formula_sum 'H6 Ba8 Fe12 Na2.22 O30'
+_chemical_name_mineral Ferrolite
+_exptl_crystal_density_diffrn 3.8
+_cell_measurement_temperature 301.
+_publ_section_title 'Synthesis of a ferrolite: a zeolitic all-iron framework'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2016 55 13195 13199 ACIEF5
+loop_
+_publ_author_name
+'Latshaw, Allison M.'
+'Chance, W.Michael'
+'Morrison, Gregory'
+'zur Loye, Karl D.'
+'Wilkins, Branford O.'
+'Smith, Mark D.'
+'Whitfield, Pamela S.'
+'Kirkham, Melanie J.'
+'Stoian, Sebastian A.'
+'zur Loye, Hans-Conrad'
+_cell_length_a 10.0275(3)
+_cell_length_b 10.0275(3)
+_cell_length_c 10.0275(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1008.27
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m -3 m'
+_symmetry_Int_Tables_number 221
+_refine_ls_R_factor_all 0.0236
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Fe3+ 3
+Na1+ 1
+O2- -2
+H1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 8 g 0.20473(3) 0.20473(3) 0.20473(3) 0.01223(13) 1 0
+Fe1 Fe3+ 12 h 0.5 0.24956(9) 0. 0.00794(18) 1 0
+Na1 Na1+ 1 a 0. 0. 0. 0.0112(17) 1 0
+O1 O2- 12 j 0.5 0.1703(17) 0.1703(17) 0.024(5) 0.5 0
+O2 O2- 12 j 0.5 0.1411(17) 0.1411(17) 0.024(5) 0.5 0
+O3 O2- 12 i 0.3388(3) 0.3388(3) 0. 0.0176(10) 1 0
+O4 O2- 6 e 0.2311(7) 0. 0. 0.0194(15) 1 0
+H1 H1+ 6 e 0.321(2) 0. 0. 0.029 1 0
+Na2 Na1+ 1 b 0.5 0.5 0.5 0.045 0.28(3) 0
+Na3 Na1+ 6 f 0.5 0.5 0.199(4) 0.045 0.155(14) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.01223(13) 0.01223(13) 0.01223(13) 0.00143(10) 0.00143(10) 0.00143(10)
+Fe1 Fe3+ 0.0059(4) 0.0068(4) 0.0111(4) 0. 0. 0.
+Na1 Na1+ 0.0112(17) 0.0112(17) 0.0112(17) 0. 0. 0.
+O1 O2- 0.026(3) 0.024(7) 0.024(7) 0. 0. 0.015(7)
+O2 O2- 0.026(3) 0.024(7) 0.024(7) 0. 0. 0.015(7)
+O3 O2- 0.0129(14) 0.0129(14) 0.027(3) 0.0075(18) 0. 0.
+O4 O2- 0.011(3) 0.024(2) 0.024(2) 0. 0. 0.
+#End of TTdata_253067-ICSD

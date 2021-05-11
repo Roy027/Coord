@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_263735-ICSD
+_database_code_ICSD 263735
+_audit_creation_date 2019-02-01
+_chemical_name_systematic 'Disodium digallium tin sulfide pentaselenide'
+_chemical_formula_structural 'Na2 Ga2 Sn S Se5'
+_chemical_formula_sum 'Ga2 Na2 S1 Se5 Sn1'
+_exptl_crystal_density_diffrn 4.07
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+New strategy for designing promising mid-infrared nonlinear optical materials:
+narrowing the band gap for large nonlinear optical efficiencies and reducing
+the thermal effect for a high laser-induced damage threshold
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemical Science' 2018 9 5700 5708 CSHCCN
+loop_
+_publ_author_name
+'Li, Shu-Fang'
+'Jiang, Xiao-Ming'
+'Fan, Yu-Hang'
+'Liu, Bin-Wen'
+'Zeng, Hui-Yi'
+'Guo, Guo-Cong'
+_cell_length_a 13.264(4)
+_cell_length_b 23.936(7)
+_cell_length_c 7.514(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2385.59
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.0338
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn4+ 4
+Ga3+ 3
+Sn4+ 4
+Se2- -2
+S2- -2
+Se2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sn1 Sn4+ 16 b 0.11685(10) 0.38593(5) 0.68890(17) 0.0202(3) 0.45 0
+Ga1 Ga3+ 16 b 0.11685(10) 0.38593(5) 0.68890(17) 0.0202(3) 0.55 0
+Ga2 Ga3+ 8 a 0.25 0.25 0.7160(3) 0.0176(5) 0.9 0
+Sn2 Sn4+ 8 a 0.25 0.25 0.7160(3) 0.0176(5) 0.1 0
+Se1 Se2- 16 b 0.14494(16) 0.48130(9) 0.7879(3) 0.0221(5) 0.5 0
+S1 S2- 16 b 0.14494(16) 0.48130(9) 0.7879(3) 0.0221(5) 0.5 0
+Se2 Se2- 16 b -0.05981(12) 0.36230(7) 0.6373(2) 0.0294(5) 1 0
+Se3 Se2- 16 b 0.20674(13) 0.32755(7) 0.9041(2) 0.0288(4) 1 0
+Na1 Na1+ 16 b -0.1725(9) 0.4558(6) 0.4665(14) 0.087(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn4+ 0.0154(6) 0.0226(6) 0.0226(7) 0.0011(5) 0.0011(5) -0.0014(5)
+Ga1 Ga3+ 0.0154(6) 0.0226(6) 0.0226(7) 0.0011(5) 0.0011(5) -0.0014(5)
+Ga2 Ga3+ 0.0172(10) 0.0175(10) 0.0181(11) -0.0020(8) 0. 0.
+Sn2 Sn4+ 0.0172(10) 0.0175(10) 0.0181(11) -0.0020(8) 0. 0.
+Se1 Se2- 0.0202(10) 0.0173(11) 0.0288(12) 0.0019(8) 0.0060(9) -0.0039(10)
+S1 S2- 0.0202(10) 0.0173(11) 0.0288(12) 0.0019(8) 0.0060(9) -0.0039(10)
+Se2 Se2- 0.0228(9) 0.0397(10) 0.0258(9) 0.0004(7) 0.0009(7) -0.0062(7)
+Se3 Se2- 0.0319(9) 0.0293(8) 0.0251(9) 0.0025(7) -0.0043(7) -0.0048(7)
+Na1 Na1+ 0.069(7) 0.137(11) 0.057(6) 0.034(7) -0.026(5) -0.027(7)
+#End of TTdata_263735-ICSD

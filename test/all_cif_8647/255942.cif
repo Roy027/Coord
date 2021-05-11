@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_255942-ICSD
+_database_code_ICSD 255942
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Tetrasodium hexaoxo-cuprotellurate(IV)'
+_chemical_formula_structural 'Na4 Cu Te O6'
+_chemical_formula_sum 'Cu1 Na4 O6 Te1'
+_exptl_crystal_density_diffrn 4.44
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, structure and magnetic behaviors of a new spin-1/2 chain compound
+Na4CuTeO6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2018 748 794 797 JALCEU
+loop_
+_publ_author_name
+'He, Zhangzhen'
+'Cui, Meiyan'
+'Qiu, Chaoqun'
+_cell_length_a 5.667(4)
+_cell_length_b 9.917(6)
+_cell_length_c 10.449(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.057(8)
+_cell_angle_gamma 90.
+_cell_volume 567.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0247
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te6+ 6
+Cu2+ 2
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te6+ 4 e 0. 0.39392(4) 0.25 0.00528(18) 1 0
+Cu1 Cu2+ 4 d 0.25 0.25 0.5 0.00767(19) 1 0
+O1 O2- 8 f 0.3265(5) 0.3789(3) 0.3737(3) 0.0080(6) 1 0
+O2 O2- 8 f -0.1072(4) 0.5281(3) 0.3492(2) 0.0077(5) 1 0
+O3 O2- 8 f -0.0732(5) 0.2537(3) 0.3696(2) 0.0079(6) 1 0
+Na1 Na1+ 8 f 0.2427(3) 0.08625(17) 0.00113(15) 0.0109(4) 1 0
+Na2 Na1+ 4 e 0. 0.0620(3) 0.25 0.0109(5) 1 0
+Na3 Na1+ 4 e 0.5 0.2238(3) 0.25 0.0112(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te6+ 0.0076(2) 0.0058(3) 0.0035(2) 0. 0.00347(14) 0.
+Cu1 Cu2+ 0.0092(3) 0.0094(4) 0.0048(3) -0.0009(3) 0.0025(2) 0.0027(3)
+O1 O2- 0.0083(12) 0.0101(17) 0.0052(13) -0.0005(11) 0.0013(10) 0.0018(10)
+O2 O2- 0.0106(12) 0.0066(15) 0.0076(12) 0.0024(10) 0.0058(9) -0.0028(11)
+O3 O2- 0.0114(12) 0.0066(16) 0.0066(12) -0.0011(11) 0.0039(9) 0.0045(11)
+Na1 Na1+ 0.0123(9) 0.0147(10) 0.0067(10) 0.0019(7) 0.0043(7) 0.0004(7)
+Na2 Na1+ 0.0094(11) 0.0123(14) 0.0110(12) 0. 0.0029(9) 0.
+Na3 Na1+ 0.0130(11) 0.0111(15) 0.0108(12) 0. 0.0056(9) 0.
+#End of TTdata_255942-ICSD

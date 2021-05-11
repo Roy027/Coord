@@ -1,0 +1,77 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94513-ICSD
+_database_code_ICSD 94513
+_audit_creation_date 2003-10-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Lithium indium bis(hydroxotrioxophosphate(V))'
+_chemical_formula_structural 'Li In (P O3 (O H))2'
+_chemical_formula_sum 'H2 In1 Li1 O8 P2'
+_chemical_name_structure_type CaCr2O4
+_exptl_crystal_density_diffrn 3.45
+_publ_section_title
+'The new phosphate Li In (P O3 (O H))2: Synthesis and crystal structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zhurnal Neorganicheskoi Khimii' 2001 46 1442 1448 ZNOKAQ
+loop_
+_publ_author_name
+'Gurbanova, O.A.'
+'Belokoneva, E.L.'
+'Dimitrova, O.V.'
+'Al'-Ama, A.G.'
+_cell_length_a 5.490(6)
+_cell_length_b 7.946(6)
+_cell_length_c 6.929(6)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 302.27
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n n'
+_symmetry_Int_Tables_number 58
+_refine_ls_R_factor_all 0.0268
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 'x+1/2, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+In3+ 3
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 f 0.166(3) 0 0.5 1.2(3) 0.5 0
+In1 In3+ 2 a 0 0 0 0.461(4) 1. 0
+P1 P5+ 4 g 0 0.3497(1) 0.7286(1) 0.52(1) 1. 0
+O1 O2- 4 g 0 0.2124(4) 0.5635(5) 1.30(6) 1. 0
+O2 O2- 8 h 0.2698(4) 0.0469(3) 0.2125(4) 1.63(5) 1. 0
+O3 O2- 4 g 0.5 0.2393(4) 0.4235(5) 1.91(8) 1. 0
+H1 H1+ 8 h 0.095 0.235 0.5 0.93 0.5 0
+#End of TTdata_94513-ICSD

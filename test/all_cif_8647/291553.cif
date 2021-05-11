@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_291553-ICSD
+_database_code_ICSD 291553
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium silver tetraniobate'
+_chemical_formula_structural 'Na Ag Nb4 O11'
+_chemical_formula_sum 'Ag1 Na1 Nb4 O11'
+_exptl_crystal_density_diffrn 5.49
+_cell_measurement_temperature 123.
+_publ_section_title
+
+;
+Dielectric properties, polymorphism, structural characterisation and phase
+diagram of Na2 Nb4 O11 - Ag2 Nb4 O11 solid solutions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 225 438 449 JSSCBI
+loop_
+_publ_author_name
+'Maso, Nahum'
+'West, Anthony R.'
+_cell_length_a 6.2430(3)
+_cell_length_b 6.2455(3)
+_cell_length_c 12.7894(3)
+_cell_angle_alpha 103.907(3)
+_cell_angle_beta 103.917(3)
+_cell_angle_gamma 58.832(1)
+_cell_volume 410.11
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0403
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ag1+ 1
+Na1+ 1
+Ag1+ 1
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.844(3) 0.326(3) 0.993(2) 0.010(4) 0.5 0
+Ag1 Ag1+ 2 i 0.844(3) 0.326(3) 0.993(2) 0.010(4) 0.5 0
+Na2 Na1+ 2 i 0.6611(28) 0.176(3) 0.5107(14) 0.0015(31) 0.5 0
+Ag2 Ag1+ 2 i 0.6611(28) 0.176(3) 0.5107(14) 0.0015(31) 0.5 0
+Nb1 Nb5+ 2 i 0.606(2) 0.753(2) 0.2506(11) 0.000(2) 1. 0
+Nb2 Nb5+ 2 i 0.242(3) 0.390(2) 0.248(1) 0.0118(26) 1. 0
+Nb3 Nb5+ 2 i 0.873(2) 0.125(2) 0.2519(15) 0.009(1) 1. 0
+Nb4 Nb5+ 1 g 0 0.5 0.5 0.007(4) 1. 0
+Nb5 Nb5+ 1 d 0.5 0 0 0.022(5) 1. 0
+O1 O2- 2 i 0.702(2) 0.746(2) 0.4082(9) 0.000(2) 1. 0
+O2 O2- 2 i 0.251(2) 0.268(2) 0.0936(9) 0.000(2) 1. 0
+O3 O2- 2 i 0.562(3) 0.745(3) 0.088(1) 0.005(2) 1. 0
+O4 O2- 2 i 0.234(3) 0.435(3) 0.405(1) 0.003(3) 1. 0
+O5 O2- 2 i 0.935(2) 0.217(3) 0.4101(12) 0.000(3) 1. 0
+O6 O2- 2 i 0.782(3) 0.054(3) 0.094(1) 0.009(4) 1. 0
+O7 O2- 2 i 0.245(2) 0.979(2) 0.248(1) 0.003(3) 1. 0
+O8 O2- 2 i -0.004(3) 0.750(3) 0.2514(13) 0.012(3) 1. 0
+O9 O2- 2 i 0.912(2) 0.418(2) 0.2263(7) 0.000(2) 1. 0
+O10 O2- 2 i 0.605(3) 0.099(2) 0.2867(8) 0.008(3) 1. 0
+O11 O2- 2 i 0.507(2) 0.485(2) 0.253(2) 0.005(1) 1. 0
+#End of TTdata_291553-ICSD

@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_261642-ICSD
+_database_code_ICSD 261642
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Trisodium manganese(II) divanadate'
+_chemical_formula_structural 'Na3 Mn V2 O7.5'
+_chemical_formula_sum 'Mn1 Na3 O7.5 V2'
+_exptl_crystal_density_diffrn 3.24
+_publ_section_title
+
+;
+Synthesis, structure and magnetic properties of the new oxygen-deficient
+perovskite Na3 Mn V2 O7.5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2011 13 1235 1241 SSSCFJ
+loop_
+_publ_author_name
+'Ben Yahia, H.'
+'Gaudin, E.'
+'Boulahya, K.'
+'Darriet, J.'
+_cell_length_a 7.4004(4)
+_cell_length_b 5.6065(3)
+_cell_length_c 17.0876(11)
+_cell_angle_alpha 90
+_cell_angle_beta 90.0114(2)
+_cell_angle_gamma 90
+_cell_volume 708.97
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 f 0.5 0.717(5) 0.25 0.046(5) 1. 0
+Na2 Na1+ 2 e 0 0.736(4) 0.25 0.047(7) 1. 0
+Na3 Na1+ 4 g 0.9926(16) 0.239(3) 0.0861(11) 0.052(5) 1. 0
+Na4 Na1+ 4 g 0.5435(13) 0.1932(18) 0.0813(9) 0.025(4) 1. 0
+Mn1 Mn2+ 4 g 0.2559(8) 0.7541(15) 0.0924(2) 0.0211(10) 1. 0
+V1 V5+ 4 g 0.2457(12) 0.2585(13) 0.94398(20) 0.0325(12) 1. 0
+V2 V5+ 4 g 0.2427(10) 0.2539(14) 0.2316(2) 0.0368(14) 1. 0
+O1 O2- 4 g 0.059(3) 0.243(7) 0.894(3) 0.0826(17) 1. 0
+O2 O2- 4 g 0.444(3) 0.245(5) 0.894(3) 0.0826(17) 1. 0
+O3 O2- 4 g 0.241(5) 0.017(5) 0.998(2) 0.0826(17) 1. 0
+O4 O2- 4 g 0.295(3) 0.493(5) 0.004(2) 0.0826(17) 1. 0
+O5 O2- 4 g 0.272(4) 0.506(5) 0.1824(19) 0.0826(17) 1. 0
+O6 O2- 2 f 0.5 0.248(9) 0.25 0.0826(17) 1. 0
+O7 O2- 4 g 0.265(4) 0.997(4) 0.1903(18) 0.0826(17) 1. 0
+O8 O2- 4 g 0.151(2) 0.194(4) 0.3086(10) 0.0826(17) 1. 0
+#End of TTdata_261642-ICSD

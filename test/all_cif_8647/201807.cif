@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201807-ICSD
+_database_code_ICSD 201807
+_audit_creation_date 1985-08-06
+_audit_update_record 2007-04-01
+_chemical_name_systematic
+'Disodium octanickel hexacarbonate hexahydroxide hexahydrate'
+_chemical_formula_structural 'Na2 Ni8 (C O3)6 (O H)6 (H2 O)6'
+_chemical_formula_sum 'C6 H18 Na2 Ni8 O30'
+_chemical_name_structure_type NaCo4(CO3)3(OH)3(H2O)3
+_chemical_name_mineral Kambaldaite
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title
+'Crystal structure of kambaldaite, Na2 Ni8 (C O3)6 (O H)6 (H2 O)6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1985 70 423 427 AMMIAY
+loop_
+_publ_author_name
+'Engelhardt, L.M.'
+'Hall, S.R.'
+'White, A.H.'
+_cell_length_a 10.340(3)
+_cell_length_b 10.340(3)
+_cell_length_c 6.097(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 564.53
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ni2+ 2
+C4+ 4
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0.3745(11) . 1. 0
+Ni1 Ni2+ 6 c 0.51259(7) -.00191(8) 0.25 . 1. 0
+Ni2 Ni2+ 2 b 0.6667 0.3333 0.6374(3) . 1. 0
+C1 C4+ 6 c 0.7796(5) 0.2172(6) 0.0080(11) . 1. 0
+O1 O2- 6 c 0.7324(4) 0.1386(5) 0.1801(8) . 1. 0
+O2 O2- 6 c 0.7015(5) 0.1836(4) -.1705(7) . 1. 0
+O3 O2- 6 c 0.9129(5) 0.3343(4) 0.0070(8) . 1. 0
+O4 O2- 6 c 0.5188(5) 0.1377(4) 0.4873(7) . 1. 0
+H1 H1+ 6 c 0.467(10) 0.159(10) 0.433(17) 0.015 1. 0
+O5 O2- 6 c 0.0998(7) 0.1948(6) 0.1233(14) . 1. 0
+H2 H1+ 6 c 0.081(12) 0.237(12) 0.107(29) 0.022 1. 0
+H3 H1+ 6 c 0.17(1) 0.234(12) 0.179(18) 0.022 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0211(12) 0.0211(12) 0.0133(21) 0.0106(6) 0 0
+Ni1 Ni2+ 0.0072(2) 0.0053(2) 0.0067(2) 0.0020(2) 0.0005(4) 0.0001(3)
+Ni2 Ni2+ 0.0059(2) 0.0059(2) 0.0079(5) 0.0030(1) 0 0
+C1 C4+ 0.003(1) 0.007(2) 0.008(2) 0.002(1) 0.000(2) 0.001(2)
+O1 O2- 0.005(1) 0.009(1) 0.010(2) 0.000(1) 0.000(1) 0.002(1)
+O2 O2- 0.008(1) 0.010(2) 0.007(2) 0.004(1) -.002(1) 0.000(1)
+O3 O2- 0.005(1) 0.009(2) 0.009(1) 0.002(1) 0.000(1) 0.001(2)
+O4 O2- 0.010(1) 0.006(1) 0.006(2) 0.006(1) -.001(1) -.001(1)
+O5 O2- 0.020(2) 0.016(2) 0.037(3) 0.008(2) 0.000(3) 0.000(3)
+#End of TTdata_201807-ICSD

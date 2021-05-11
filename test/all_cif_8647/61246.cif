@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_61246-ICSD
+_database_code_ICSD 61246
+_audit_creation_date 1987-03-16
+_chemical_name_systematic 'Hexasodium diaquatetrasulfatozinc(II)'
+_chemical_formula_structural 'Na6 (Zn (S O4)4 (H2 O)2)'
+_chemical_formula_sum 'H4 Na6 O18 S4 Zn1'
+_exptl_crystal_density_diffrn 2.76
+_cell_measurement_temperature 298.
+_publ_section_title 'Structure of hexasodium trans-diaquatetrasulfatozinc(II)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1986 42 949 952 ACSCEE
+loop_
+_publ_author_name
+'Heeg, M.J.'
+'Redman, W.'
+'Frech, R.E.'
+_cell_length_a 6.052(1)
+_cell_length_b 6.815(1)
+_cell_length_c 10.141(2)
+_cell_angle_alpha 70.07(2)
+_cell_angle_beta 77.29(2)
+_cell_angle_gamma 74.72(2)
+_cell_volume 375.38
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+S6+ 6
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 1 a 1 0 0 . 1. 0
+S1 S6+ 2 i 1.12357(9) -.26617(9) 0.32546(6) . 1. 0
+S2 S6+ 2 i 0.55463(9) 0.20474(9) 0.19979(6) . 1. 0
+O1 O2- 2 i 1.1750(3) -.1156(3) 0.1815(2) . 1. 0
+O2 O2- 2 i 0.9882(3) -.1442(3) 0.4207(2) . 1. 0
+O3 O2- 2 i 0.9874(3) -.4122(3) 0.3179(2) . 1. 0
+O4 O2- 2 i 1.3465(3) -.3860(3) 0.3727(2) . 1. 0
+O5 O2- 2 i 0.3656(3) 0.3519(3) 0.1268(2) . 1. 0
+O6 O2- 2 i 0.4630(3) 0.0976(3) 0.3459(2) . 1. 0
+O7 O2- 2 i 0.6667(3) 0.0426(3) 0.1238(2) . 1. 0
+O8 O2- 2 i 0.7289(3) 0.3231(3) 0.1984(2) . 1. 0
+O9 O2- 2 i 0.9656(3) -.3041(3) 0.0376(2) . 1. 0
+Na1 Na1+ 2 i 0.5617(2) 0.7081(2) 0.1072(1) . 1. 0
+Na2 Na1+ 2 i 1.0409(2) 0.2150(1) 0.3332(1) . 1. 0
+Na3 Na1+ 2 i 0.6081(2) -.2621(2) 0.4636(1) . 1. 0
+H1 H1+ 2 i 1.012(7) -.356(7) 0.119(5) 0.05 1. 0
+H2 H1+ 2 i 1.083(7) -.356(6) -.019(4) 0.05 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0142(2) 0.0083(2) 0.0152(2) -.0050(2) -.0030(2) -.0021(2)
+S1 S6+ 0.0135(3) 0.0085(3) 0.0096(3) -.0045(2) -.0029(2) -.0012(2)
+S2 S6+ 0.0124(3) 0.0100(3) 0.0101(3) -.0042(2) -.0022(2) -.0019(2)
+O1 O2- 0.0173(8) 0.0146(8) 0.0128(8) -.0085(7) -.0037(6) 0.0012(7)
+O2 O2- 0.026(1) 0.0145(9) 0.0182(8) -.0058(7) 0.0001(7) -.0075(7)
+O3 O2- 0.0223(9) 0.0152(8) 0.0199(9) -.0115(7) -.0030(7) -.0051(7)
+O4 O2- 0.0197(9) 0.0157(9) 0.0220(9) -.0028(7) -.0098(7) -.0007(7)
+O5 O2- 0.0202(9) 0.0205(9) 0.0201(9) -.0020(7) -.0089(7) -.0008(8)
+O6 O2- 0.0210(9) 0.0166(9) 0.0110(8) -.0055(7) -.0009(7) -.0010(7)
+O7 O2- 0.0174(9) 0.0198(9) 0.0224(9) -.0087(7) 0.0027(7) -.0120(8)
+O8 O2- 0.0188(9) 0.0160(9) 0.0211(9) -.0085(7) -.0050(7) -.0066(7)
+O9 O2- 0.0198(9) 0.0118(8) 0.0156(8) -.0049(7) -.0058(7) -.0034(7)
+Na1 Na1+ 0.0219(5) 0.0260(6) 0.0272(5) -.0053(4) 0.0006(4) -.0092(4)
+Na2 Na1+ 0.0229(5) 0.0167(5) 0.0210(5) -.0075(4) -.0064(4) -.0025(4)
+Na3 Na1+ 0.0260(6) 0.0162(5) 0.0232(5) -.0067(4) -.0074(4) -.0031(4)
+#End of TTdata_61246-ICSD

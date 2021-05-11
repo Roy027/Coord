@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_412974-ICSD
+_database_code_ICSD 412974
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Pentasodium dioxocuprate(I) sulfate(VI)'
+_chemical_formula_structural 'Na5 (Cu O2) (S O4)'
+_chemical_formula_sum 'Cu1 Na5 O6 S1'
+_exptl_crystal_density_diffrn 2.6
+_publ_section_title
+
+;
+Reactivity, syntheses and crystal structures of Na5 (M O2) (X) with M= Co(+),
+Ni(+), Cu(+); X= (C O3)(2-), (S O4)(2-), (S O3)(2-), S(2-) and Na25 (Cu O2)5
+(S O4)4 (S)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2003
+629 1643 1650 ZAACAB
+loop_
+_publ_author_name
+'Amann, P.'
+'Moeller, A.'
+_cell_length_a 4.7914(7)
+_cell_length_b 4.7914(7)
+_cell_length_c 8.5134(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 195.45
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+_refine_ls_R_factor_all 0.0605
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu1+ 1
+O2- -2
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu1+ 1 a 0 0 0 0.0192(3) 1. 0
+O1 O2- 2 g 0 0 -.2120(6) 0.0187(11) 1. 0
+Na1 Na1+ 4 i 0 0.5 -.2326(3) 0.0294(6) 1. 0
+Na2 Na1+ 1 b 0 0 0.5 0.0346(12) 1. 0
+S1 S6+ 4 k -.5444(7) -.5444(7) -.5 0.0271(18) 0.25 0
+O2 O2- 4 o -.8462(19) 0.5 0.5 0.0422(23) 0.5 0
+O3 O2- 8 r 0.455(2) 0.455(2) 0.3347(16) 0.0826(42) 0.25 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu1+ 0.0228(4) 0.0228(4) 0.0120(6) 0 0 0
+O1 O2- 0.0201(14) 0.0201(14) 0.016(2) 0 0 0
+Na1 Na1+ 0.0371(13) 0.0225(11) 0.0285(11) 0 0 0
+Na2 Na1+ 0.0357(16) 0.0357(16) 0.032(3) 0 0 0
+S1 S6+ 0.027(3) 0.027(3) 0.0282(18) 0.003(2) 0 0
+O2 O2- 0.042(5) 0.046(5) 0.039(5) 0 0 0
+O3 O2- 0.060(4) 0.060(4) 0.127(9) 0.046(5) -0.070(5) -0.070(5)
+#End of TTdata_412974-ICSD

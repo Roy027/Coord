@@ -1,0 +1,134 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73064-ICSD
+_database_code_ICSD 73064
+_audit_creation_date 1994-06-30
+_chemical_name_systematic 'Sodium copper sulfide (7/12/10)'
+_chemical_formula_structural 'Na7 Cu12 S10'
+_chemical_formula_sum 'Cu12 Na7 S10'
+_exptl_crystal_density_diffrn 4.12
+_publ_section_title
+
+;
+Preparation and crystal structure of Na7Cu12S10, a mixed valent thiocuprate
+with a pseudo-one-dimensional structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1993 198 25 30 JALCEU
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Sing, M.'
+'Boller, H.'
+_cell_length_a 16.074(9)
+_cell_length_b 3.847(1)
+_cell_length_c 16.222(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.94(3)
+_cell_angle_gamma 90.
+_cell_volume 1002.54
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/m 1'
+_symmetry_Int_Tables_number 10
+_refine_ls_R_factor_all 0.052
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cu1+ 1.083
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 e 0.5 0.5 0 . 1. 0
+Na2 Na1+ 2 m 0.3184(4) 0 0.1006(4) . 1. 0
+Na3 Na1+ 2 m 0.1193(4) 0 0.7062(4) . 1. 0
+Na4 Na1+ 2 n 0.2783(4) 0.5 0.5964(4) . 1. 0
+Na5 Na1+ 1 b 0 0.5 0 . 1. 0
+Na6 Na1+ 2 m 0.1943(3) 0 0.9134(4) . 1. 0
+Na7 Na1+ 2 m 0.3931(4) 0 0.3041(4) . 1. 0
+Na8 Na1+ 2 n 0.2044(4) 0.5 0.3932(4) . 1. 0
+Cu1 Cu1+ 2 n 0.5153(1) 0.5 0.4216(1) . 1. 0
+Cu2 Cu1+ 2 m 0.5986(1) 0 0.4948(1) . 1. 0
+Cu3 Cu1+ 2 n 0.5516(1) 0.5 0.2679(1) . 1. 0
+Cu4 Cu1+ 2 m 0.6817(1) 0 0.2445(1) . 1. 0
+Cu5 Cu1+ 2 n 0.6537(1) 0.5 0.1325(1) . 1. 0
+Cu6 Cu1+ 2 m 0.5184(1) 0 0.1518(1) . 1. 0
+Cu7 Cu1+ 2 n 0.0783(1) 0.5 0.5514(1) . 1. 0
+Cu8 Cu1+ 2 m -.0465(1) 0 0.5692(1) . 1. 0
+Cu9 Cu1+ 2 n -.0016(1) 0.5 0.7993(1) . 1. 0
+Cu10 Cu1+ 2 m -.0832(1) 0 0.7293(1) . 1. 0
+Cu11 Cu1+ 2 n 0.8075(1) 0.5 0.8081(1) . 1. 0
+Cu12 Cu1+ 2 m 0.8804(1) 0 0.8971(1) . 1. 0
+S1 S2- 2 m 0.5830(2) 0 0.3497(2) . 1. 0
+S2 S2- 2 n 0.3758(2) 0.5 0.4389(2) . 1. 0
+S3 S2- 2 n 0.4413(2) 0.5 0.1750(2) . 1. 0
+S4 S2- 2 n 0.7616(2) 0.5 0.2314(2) . 1. 0
+S5 S2- 2 m 0.6237(2) 0 0.0621(2) . 1. 0
+S6 S2- 2 n -.0194(2) 0.5 0.6536(2) . 1. 0
+S7 S2- 2 m 0.1539(2) 0 0.5274(2) . 1. 0
+S8 S2- 2 m 0.0213(2) 0 0.8644(2) . 1. 0
+S9 S2- 2 m 0.7769(2) 0 0.7382(2) . 1. 0
+S10 S2- 2 n 0.1786(2) 0.5 0.0500(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.017(4) 0.010(4) 0.025(4) 0 0.002(3) 0
+Na2 Na1+ 0.016(4) 0.014(5) 0.025(4) 0 0.002(3) 0
+Na3 Na1+ 0.016(3) 0.021(4) 0.026(3) 0 0.006(2) 0
+Na4 Na1+ 0.016(3) 0.026(4) 0.024(3) 0 0.007(2) 0
+Na5 Na1+ 0.014(3) 0.019(3) 0.026(3) 0 0.005(2) 0
+Na6 Na1+ 0.010(3) 0.029(4) 0.032(3) 0 0.006(3) 0
+Na7 Na1+ 0.014(3) 0.020(4) 0.027(3) 0 0.001(2) 0
+Na8 Na1+ 0.013(3) 0.022(4) 0.026(3) 0 0.006(2) 0
+Cu1 Cu1+ 0.0149(9) 0.037(1) 0.037(1) 0 0.0083(8) 0
+Cu2 Cu1+ 0.026(1) 0.015(1) 0.032(1) 0 0.0027(9) 0
+Cu3 Cu1+ 0.0186(9) 0.019(1) 0.0222(9) 0 0.0000(8) 0
+Cu4 Cu1+ 0.0137(8) 0.012(1) 0.036(1) 0 0.0080(8) 0
+Cu5 Cu1+ 0.0138(8) 0.013(1) 0.0223(9) 0 0.0080(7) 0
+Cu6 Cu1+ 0.0159(8) 0.013(1) 0.0218(9) 0 0.0012(7) 0
+Cu7 Cu1+ 0.0134(8) 0.014(1) 0.0252(9) 0 0.0065(7) 0
+Cu8 Cu1+ 0.0177(9) 0.019(1) 0.0231(9) 0 -.0002(8) 0
+Cu9 Cu1+ 0.035(1) 0.015(1) 0.035(1) 0 -.001(1) 0
+Cu10 Cu1+ 0.0119(9) 0.025(1) 0.046(1) 0 0.0083(9) 0
+Cu11 Cu1+ 0.0161(9) 0.011(1) 0.030(1) 0 0.0066(8) 0
+Cu12 Cu1+ 0.0166(9) 0.011(1) 0.0201(9) 0 0.0038(7) 0
+S1 S2- 0.013(2) 0.008(2) 0.018(2) 0 0.006(1) 0
+S2 S2- 0.010(2) 0.012(2) 0.022(2) 0 0.006(1) 0
+S3 S2- 0.011(2) 0.008(2) 0.017(2) 0 0.003(1) 0
+S4 S2- 0.011(2) 0.010(2) 0.021(2) 0 0.001(1) 0
+S5 S2- 0.009(1) 0.010(2) 0.018(2) 0 0.004(1) 0
+S6 S2- 0.011(2) 0.008(2) 0.018(2) 0 0.006(1) 0
+S7 S2- 0.011(2) 0.009(2) 0.019(2) 0 0.002(1) 0
+S8 S2- 0.011(2) 0.012(2) 0.020(2) 0 0.004(1) 0
+S9 S2- 0.009(1) 0.009(2) 0.019(2) 0 0.004(1) 0
+S10 S2- 0.013(2) 0.010(2) 0.018(2) 0 0.005(1) 0
+#End of TTdata_73064-ICSD

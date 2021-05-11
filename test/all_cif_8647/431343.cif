@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431343-ICSD
+_database_code_ICSD 431343
+_audit_creation_date 2017-08-01
+_chemical_name_systematic '23-Barium undecasodium tetrakis(tetranitridoniobate)'
+_chemical_formula_structural 'Ba23 Na11 (Nb N4)4'
+_chemical_formula_sum 'Ba23 N16 Na11 Nb4'
+_exptl_crystal_density_diffrn 3.42
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Chemical twinning of salt and metal in the subnitridometalates Ba23 Na11 (M
+N4)4 with M = V, Nb, Ta
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2016 55 10868 10871 ACIEF5
+loop_
+_publ_author_name
+'Woersching, Matthias'
+'Tambornino, Frank'
+'Datz, Stefan'
+'Hoch, Constantin'
+_cell_length_a 14.3724(9)
+_cell_length_b 14.3724(9)
+_cell_length_c 18.8431(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3892.34
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/n Z'
+_symmetry_Int_Tables_number 86
+_refine_ls_R_factor_all 0.0373
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x, -z+1/2'
+2 'y, -x+1/2, -z+1/2'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/2, -x, z+1/2'
+6 '-y, x+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Ba0+ 0.74
+Na1+ 1
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 8 g 0.33951(5) 0.06920(5) 0.14184(4) 0.02119(14) 1 0
+Ba1 Ba0+ 8 g 0.03368(4) 0.13406(4) 0.12167(3) 0.02659(11) 1 0
+Ba2 Ba0+ 8 g 0.06944(5) 0.63604(4) 0.19612(3) 0.04145(16) 1 0
+Ba3 Ba0+ 8 g 0.28536(4) 0.56985(5) 0.03195(3) 0.04220(16) 1 0
+Ba4 Ba0+ 8 g 0.51313(4) 0.12283(5) 0.02024(3) 0.03823(15) 1 0
+Ba5 Ba0+ 8 g 0.51438(4) 0.16283(4) 0.24704(3) 0.02677(12) 1 0
+Ba6 Ba0+ 4 f 0.25 0.25 0.04075(4) 0.02804(16) 1 0
+Ba7 Ba0+ 2 a 0.25 0.25 0.25 0.0308(2) 1 0
+Na1 Na1+ 8 g 0.0495(6) 0.1942(5) 0.6526(3) 0.089(2) 1 0
+Na2 Na1+ 8 g 0.3598(4) 0.0713(4) 0.6208(3) 0.0631(13) 1 0
+Na3 Na1+ 4 e 0.75 0.25 0.1383(3) 0.0526(16) 1 0
+Na4 Na1+ 2 b 0.25 0.25 0.75 0.172(10) 1 0
+N1 N3- 8 g 0.0261(6) 0.1405(6) 0.2616(4) 0.0316(16) 1 0
+N2 N3- 8 g 0.1023(5) 0.3086(5) 0.1258(4) 0.0291(16) 1 0
+N3 N3- 8 g 0.1082(6) 0.5242(6) 0.0791(4) 0.0311(17) 1 0
+N4 N3- 8 g 0.2069(5) 0.0730(6) 0.1228(4) 0.0305(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb5+ 0.0233(4) 0.0221(4) 0.0182(3) 0.0014(3) 0.0018(3) -0.0026(3)
+Ba1 Ba0+ 0.0266(3) 0.0290(3) 0.0241(2) -0.0008(2) -0.0022(2) -0.0005(2)
+Ba2 Ba0+ 0.0544(4) 0.0339(3) 0.0360(3) 0.0148(3) -0.0039(3) -0.0027(3)
+Ba3 Ba0+ 0.0361(3) 0.0491(4) 0.0414(3) -0.0033(3) 0.0018(3) 0.0203(3)
+Ba4 Ba0+ 0.0411(3) 0.0389(3) 0.0347(3) 0.0028(3) 0.0145(3) -0.0091(3)
+Ba5 Ba0+ 0.0260(3) 0.0299(3) 0.0244(2) 0.0014(2) -0.0002(2) -0.0029(2)
+Ba6 Ba0+ 0.0290(4) 0.0340(4) 0.0212(3) 0.0027(3) 0. 0.
+Ba7 Ba0+ 0.0325(3) 0.0325(3) 0.0275(5) 0. 0. 0.
+Na1 Na1+ 0.136(6) 0.068(4) 0.062(3) -0.018(4) 0.006(4) -0.006(3)
+Na2 Na1+ 0.059(3) 0.068(3) 0.062(3) -0.005(3) -0.005(3) 0.016(3)
+Na3 Na1+ 0.033(3) 0.073(5) 0.052(4) -0.004(3) 0. 0.
+Na4 Na1+ 0.118(10) 0.118(10) 0.28(3) 0. 0. 0.
+N1 N3- 0.032(4) 0.040(4) 0.023(3) -0.002(3) -0.006(3) 0.003(3)
+N2 N3- 0.033(4) 0.020(3) 0.034(4) 0.001(3) 0.004(3) 0.000(3)
+N3 N3- 0.034(4) 0.033(4) 0.027(4) 0.010(3) -0.010(3) 0.010(3)
+N4 N3- 0.023(4) 0.038(4) 0.031(4) 0.003(3) 0.003(3) 0.002(4)
+#End of TTdata_431343-ICSD

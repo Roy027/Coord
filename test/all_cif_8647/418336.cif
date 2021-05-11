@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_418336-ICSD
+_database_code_ICSD 418336
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium octaoxotriiodate(V)'
+_chemical_formula_structural 'Na I3 O8'
+_chemical_formula_sum 'I3 Na1 O8'
+_exptl_crystal_density_diffrn 4.71
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Promising material for infrared non linear optics: Na I3 O8 salt containing an
+octaoxotriiodate(V) anion formed from condensation of [I O3] ions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2007 46 8488 8491 ACIEF5
+loop_
+_publ_author_name
+'Phanon, D.'
+'Gautier Luneau, I.'
+_cell_length_a 8.082(1)
+_cell_length_b 8.082(1)
+_cell_length_c 5.741(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 374.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4'
+_symmetry_Int_Tables_number 81
+_refine_ls_R_factor_all 0.0163
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+I5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 d 0.5 0.5 0.5 0.0196(9) 1 0
+Na2 Na1+ 1 b 0 0 0.5 0.0224(9) 1 0
+I1 I5+ 4 h 0.25051(3) 0.26821(3) 0.88563(5) 0.01140(9) 1 0
+I2 I5+ 2 g 0.5 0 0.60130(7) 0.01024(11) 1 0
+O1 O2- 4 h 0.4044(5) 0.2332(4) 0.6359(6) 0.0160(7) 1 0
+O2 O2- 4 h 0.0668(5) 0.2305(5) 0.7215(7) 0.0222(8) 1 0
+O3 O2- 4 h 0.2704(5) 0.4854(4) 0.8427(7) 0.0199(8) 1 0
+O4 O2- 4 h 0.6685(5) 0.0567(5) 0.7919(8) 0.0215(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0207(13) 0.0207(13) 0.017(2) 0 0 0
+Na2 Na1+ 0.0272(14) 0.0272(14) 0.013(2) 0 0 0
+I1 I5+ 0.01146(15) 0.01059(15) 0.01213(15) 0.00165(11) -0.00096(14) -0.00051(11)
+I2 I5+ 0.01174(19) 0.01043(18) 0.00854(17) -0.00019(15) 0 0
+O1 O2- 0.0230(18) 0.0131(15) 0.0118(17) 0.0043(13) 0.0067(15) 0.0021(14)
+O2 O2- 0.0165(18) 0.026(2) 0.0243(19) 0.0038(15) -0.0036(17) -0.0054(17)
+O3 O2- 0.029(2) 0.0097(16) 0.021(2) 0.0030(14) 0.0013(16) -0.0003(14)
+O4 O2- 0.0216(19) 0.0196(18) 0.0234(18) 0.0014(15) -0.0082(16) -0.0095(17)
+#End of TTdata_418336-ICSD

@@ -1,0 +1,127 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_99525-ICSD
+_database_code_ICSD 99525
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Sodium tetrakis(dioxouranium(VI)) tris(vanadate(V))'
+_chemical_formula_structural 'Na (U O2)4 (V O4)3'
+_chemical_formula_sum 'Na1 O20 U4 V3'
+_exptl_crystal_density_diffrn 5.4
+_publ_section_title
+
+;
+A novel open-framework with open non-crossing channels in the uranyl vanadates
+A (U O2)4 (V O4)3 (A = Li, Na)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 2058 2067 JSSCBI
+loop_
+_publ_author_name
+'Obbade, S.'
+'Dion, C.'
+'Rivenet, M.'
+'Saadi, M.'
+'Abraham, F.'
+_cell_length_a 7.2267(4)
+_cell_length_b 7.2267(4)
+_cell_length_c 34.079(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1779.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a m d Z'
+_symmetry_Int_Tables_number 141
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+1/4'
+2 'y+1/4, -x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 'x, -y, -z'
+5 '-y+3/4, x+3/4, -z+1/4'
+6 '-y+3/4, -x+3/4, -z+1/4'
+7 '-x, y+1/2, -z'
+8 '-x, -y, -z'
+9 '-y+3/4, -x+1/4, z+3/4'
+10 '-y+3/4, x+1/4, z+3/4'
+11 '-x, -y+1/2, z'
+12 '-x, y, z'
+13 'y+1/4, -x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+3/4'
+15 'x, -y+1/2, z'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+3/4'
+18 'y+3/4, -x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 'x+1/2, -y+1/2, -z+1/2'
+21 '-y+1/4, x+1/4, -z+3/4'
+22 '-y+1/4, -x+1/4, -z+3/4'
+23 '-x+1/2, y, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/4, -x+3/4, z+1/4'
+26 '-y+1/4, x+3/4, z+1/4'
+27 '-x+1/2, -y, z+1/2'
+28 '-x+1/2, y+1/2, z+1/2'
+29 'y+3/4, -x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+1/4'
+31 'x+1/2, -y, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+V5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 8 e 0.5 0.75 0.09833(2) 0.0117(2) 1. 0
+U2 U6+ 8 e 0 0.75 0.97375(2) 0.0157(2) 1. 0
+V1 V5+ 8 e 0 0.75 0.06874(8) 0.0113(5) 1. 0
+V2 V5+ 4 b 0.5 0.25 0.125 0.0138(7) 1. 0
+O1 O2- 8 e 0.5 0.75 0.1534(3) 0.019(3) 1. 0
+O2 O2- 16 h 0.1916(3) 0.75 0.0959(3) 0.033(3) 1. 0
+O3 O2- 8 e 0.5 0.75 0.0458(4) 0.028(3) 1. 0
+O4 O2- 16 h 0.5 0.4462(14) 0.0964(4) 0.036(3) 1. 0
+O5 O2- 16 h 0 0.5720(13) 0.0353(3) 0.033(3) 1. 0
+O6 O2- 16 h 0.2415(12) 0.75 0.9740(3) 0.039(5) 1. 0
+Na1 Na1+ 8 d 0.5 0.5 0 0.065(9) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ .0106(5) .0138(5) .0106(3) 0. 0. 0.
+U2 U6+ .0277(4) .0093(3) .0100(3) 0. 0. 0.
+V1 V5+ .0141(14) .0105(13) .0103(13) 0. 0. 0.
+V2 V5+ .0065(10) .0065(10) .029(2) 0. 0. 0.
+O1 O2- .022(10) .034(12) .000(5) 0. 0. 0.
+O2 O2- .014(5) .078(8) .017(5) 0. -.001(4) 0.
+O3 O2- .020(8) .027(8) .033(9) 0. 0. 0.
+O4 O2- .041(6) .015(5) .056(7) 0. 0. .005(5)
+O5 O2- .071(7) .009(4) .019(5) 0. 0. .001(4)
+O6 O2- .028(7) .093(11) .021(6) 0. .001(5) 0.
+Na1 Na1+ .034(10) .063(13) .12(2) 0. 0. -.077(14)
+#End of TTdata_99525-ICSD

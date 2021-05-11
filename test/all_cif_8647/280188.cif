@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280188-ICSD
+_database_code_ICSD 280188
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Trisodium hexacyanamide'
+_chemical_formula_structural 'Na3 (C6 N9)'
+_chemical_formula_sum 'C6 N9 Na3'
+_exptl_crystal_density_diffrn 1.97
+_publ_section_title
+
+;
+Trimerization of Na C2 N3 to Na3 C6 N9 in the solid: Ab initio crystal
+structure determination of two polymorphs of Na C2 N3 and of Na3 C6 N9 from
+x-ray powder diffractometry
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2000 39 665 670 INOCAJ
+loop_
+_publ_author_name
+'Juergens, B.'
+'Irran, E.'
+'Schneider, J.'
+'Schnick, W.'
+_cell_length_a 11.0482(1)
+_cell_length_b 23.3806(3)
+_cell_length_c 3.51616(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 97.9130(9)
+_cell_angle_gamma 90.
+_cell_volume 899.62
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.059
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e -.4254(5) -.1117(3) 0.810(2) 0.0382(23) 1. 0
+Na2 Na1+ 4 e -.1518(5) 0.0099(3) 1.280(2) 0.0340(23) 1. 0
+Na3 Na1+ 4 e 0.0095(5) 0.2402(3) 0.207(2) 0.0340(22) 1. 0
+C1 C4+ 4 e -.1228(11) 0.1439(6) 0.769(4) 0.0069(19) 1. 0
+C2 C4+ 4 e -.3265(12) 0.1185(5) 0.640(4) 0.0069(19) 1. 0
+C3 C4+ 4 e -.2764(12) 0.2053(5) 0.453(4) 0.0069(19) 1. 0
+C4 C4+ 4 e 0.0324(11) 0.0928(5) 1.046(4) 0.0069(19) 1. 0
+C5 C4+ 4 e -.378(1) 0.0257(5) 0.829(4) 0.0069(19) 1. 0
+C6 C4+ 4 e -.2313(11) 0.2937(6) 0.212(4) 0.0069(19) 1. 0
+N1 N3- 4 e -.2090(11) 0.1029(4) 0.765(3) 0.0167(14) 1. 0
+N2 N3- 4 e -.3698(9) 0.1686(5) 0.489(3) 0.0167(14) 1. 0
+N3 N3- 4 e -.1571(10) 0.1947(5) 0.592(3) 0.0167(14) 1. 0
+N4 N3- 4 e -.0008(10) 0.1426(4) 0.892(3) 0.0167(14) 1. 0
+N5 N3- 4 e -.4162(9) 0.0770(4) 0.692(3) 0.0167(14) 1. 0
+N6 N3- 4 e -.3189(9) 0.2563(5) 0.266(3) 0.0167(14) 1. 0
+N7 N3- 4 e 0.0626(9) 0.0531(4) 1.231(3) 0.0167(14) 1. 0
+N8 N3- 4 e -.3457(9) -.0208(4) 0.952(3) 0.0167(14) 1. 0
+N9 N3- 4 e -.1656(9) 0.3275(4) 0.136(3) 0.0167(14) 1. 0
+#End of TTdata_280188-ICSD

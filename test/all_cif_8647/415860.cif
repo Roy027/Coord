@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_415860-ICSD
+_database_code_ICSD 415860
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Tetrasodium vanadylbis(orthophosphate)'
+_chemical_formula_structural 'Na4.285 V O (P O4)2'
+_chemical_formula_sum 'Na4.285 O9 P2 V1'
+_exptl_crystal_density_diffrn 2.96
+_cell_measurement_temperature 70.
+_publ_section_title
+'Structure transformations in the Na(4+x) V O (P O4)2 vanadylphosphates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2006 179 2681 2689 JSSCBI
+loop_
+_publ_author_name
+'Shpanchenko, R.V.'
+'Dikarev, E.V.'
+'Mironov, A.V.'
+'Mudretsova, S.N.'
+'Antipov, E.V.'
+_cell_length_a 15.4450(10)
+_cell_length_b 14.7690(11)
+_cell_length_c 6.9870(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1593.79
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I b a m'
+_symmetry_Int_Tables_number 72
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, z'
+10 'x+1/2, -y+1/2, z'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z'
+14 '-x+1/2, y+1/2, -z'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3.75
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 8 e 0.25 0.25 -0.25 0.01577(17) 1 0
+P1 P5+ 8 j 0.37822(6) 0.11979(6) -0.5 0.0127(2) 1 0
+P2 P5+ 8 j 0.11803(5) 0.12189(6) -0.5 0.0088(2) 1 0
+Na1 Na1+ 8 j 0.38065(13) 0.11693(16) 0 0.0222(7) 0.760(7) 0
+Na2 Na1+ 8 j 0.11711(12) 0.13664(12) 0 0.0106(6) 0.729(7) 0
+Na3 Na1+ 8 f 0.23454(10) 0 -0.25 0.0245(4) 1 0
+Na4 Na1+ 8 g 0.5 0.23139(10) -0.25 0.0261(5) 1 0
+Na5 Na1+ 8 f 0.0259(3) 0.5 -0.25 0.0267(16) 0.322(6) 0
+Na6 Na1+ 8 g 0 0.02034(16) -0.25 0.0181(10) 0.474(5) 0
+O1 O2- 8 j 0.25540(16) 0.20426(17) 0 0.0146(7) 1 0
+O2 O2- 8 j 0.10811(17) 0.01861(16) -0.5 0.0159(7) 1 0
+O3 O2- 8 j 0.02979(16) 0.16822(18) -0.5 0.0177(7) 1 0
+O4 O2- 8 j 0.33305(17) -0.02826(18) 0 0.0171(7) 1 0
+O5 O2- 8 j 0.52334(16) 0.11199(18) 0 0.0178(7) 1 0
+O6 O2- 16 k 0.35357(11) 0.17523(13) -0.3179(3) 0.0185(5) 1 0
+O7 O2- 16 k 0.16895(11) 0.14814(12) -0.3172(2) 0.0153(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V3+ 0.0099(3) 0.0179(3) 0.0196(3) -0.0034(2) 0.0005(2) -0.0077(2)
+P1 P5+ 0.0134(4) 0.0178(4) 0.0068(4) 0.0005(3) 0 0
+P2 P5+ 0.0107(4) 0.0100(4) 0.0058(4) -0.0005(3) 0 0
+Na1 Na1+ 0.0186(11) 0.0350(13) 0.0129(11) -0.0043(9) 0 0
+Na2 Na1+ 0.0123(10) 0.0113(10) 0.0083(10) 0.0011(7) 0 0
+Na3 Na1+ 0.0220(7) 0.0311(8) 0.0203(7) 0 0 0.0151(7)
+Na4 Na1+ 0.0509(10) 0.0159(7) 0.0115(7) 0 -0.0016(7) 0
+Na5 Na1+ 0.040(3) 0.017(2) 0.023(3) 0 0 0.011(2)
+Na6 Na1+ 0.0230(15) 0.013(2) 0.0186(15) 0 0.0126(15) 0
+O1 O2- 0.0123(11) 0.0181(12) 0.0134(12) -0.0026(9) 0 0
+O2 O2- 0.0281(13) 0.0106(12) 0.0089(11) -0.0007(10) 0 0
+O3 O2- 0.0145(12) 0.0243(13) 0.0144(12) 0.0052(10) 0 0
+O4 O2- 0.0176(12) 0.0232(13) 0.0105(11) 0.0048(10) 0 0
+O5 O2- 0.0143(12) 0.0219(12) 0.0172(12) -0.0002(10) 0 0
+O6 O2- 0.0190(9) 0.0271(9) 0.0093(8) 0.0050(7) -0.0007(7) -0.0021(7)
+O7 O2- 0.0172(8) 0.0211(8) 0.0076(7) -0.0074(7) -0.0010(7) -0.0013(7)
+#End of TTdata_415860-ICSD

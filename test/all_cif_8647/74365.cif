@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74365-ICSD
+_database_code_ICSD 74365
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Disodium tetrabismuth bismuth(V) gold(III) oxide'
+_chemical_formula_structural 'Na2 Bi5 Au O11'
+_chemical_formula_sum 'Au1 Bi5 Na2 O11'
+_exptl_crystal_density_diffrn 8.46
+_publ_section_title
+
+;
+Preparation and crystal structure of an oxide containing gold and mixed valent
+bismuth (Na2Bi(III)4Bi(V)AuO11)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1993 28 989 995 MRBUAC
+loop_
+_publ_author_name
+'Pannetier, J.'
+'Duc Tran Qui'
+'Sleight, A.W.'
+_cell_length_a 12.193(1)
+_cell_length_b 12.193(1)
+_cell_length_c 3.8643(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 574.5
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/m b m'
+_symmetry_Int_Tables_number 127
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y+1/2, -x+1/2, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x+1/2, -y+1/2, -z'
+6 '-x+1/2, y+1/2, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y+1/2, x+1/2, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x+1/2, y+1/2, z'
+14 'x+1/2, -y+1/2, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Au3+ 3
+Bi5+ 5
+Bi3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Au1 Au3+ 2 a 0 0 0 . 1. 0
+Bi1 Bi5+ 2 d 0 0.5 0 . 1. 0
+Bi2 Bi3+ 8 j 0.2295(1) 0.0502(1) 0.5 . 1. 0
+Na1 Na1+ 4 g 0.298(2) 0.798(2) 0 0.0227(44) 1. 0
+O1 O2- 2 c 0 0.5 0.5 0.048(18) 1. 0
+O2 O2- 8 i 0.510(5) 0.166(4) 0 0.055(14) 1. 0
+O3 O2- 4 h 0.212(3) 0.712(3) 0.5 0.0234(68) 1. 0
+O4 O2- 8 i 0.125(4) 0.113(3) 0 0.0437(97) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au1 Au3+ 0.0126(20) 0.0126(20) 0.0095(13) 0 0 0
+Bi1 Bi5+ 0.0128(22) 0.0128(22) 0.0094(13) 0.0000(9) 0 0
+Bi2 Bi3+ 0.0141(10) 0.0169(11) 0.0108(10) 0.0001(5) 0 0
+#End of TTdata_74365-ICSD

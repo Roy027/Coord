@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426703-ICSD
+_database_code_ICSD 426703
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Sodium barium arsenate nonahydrate'
+_chemical_formula_structural 'Na Ba (As O4) (H2 O)9'
+_chemical_formula_sum 'H18 As1 Ba1 Na1 O13'
+_exptl_crystal_density_diffrn 2.41
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, crystal structure and infrared and Raman spectra of a sodium barium
+orthoarsenate (V) nonahydrate Na Ba As O4 (H2 O)9
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Molecular Structure' 2014 1059 260 264 JMOSB4
+loop_
+_publ_author_name
+'Edhokkar, Fadhila'
+'Hadrich, Ahmed'
+'Mhiri, Tahar'
+'Graia, Mohsen'
+_cell_length_a 10.8381(2)
+_cell_length_b 10.8381(2)
+_cell_length_c 10.8381(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1273.09
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.0426
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+As5+ 5
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 a 0.69750(4) 0.19750(4) 0.30250(4) 0.0191(2) 1 0
+As1 As5+ 4 a 1.17652(7) 0.17652(7) 0.17652(7) 0.0213(3) 1 0
+Na1 Na1+ 4 a 0.5725(4) -0.0725(4) 0.0725(4) 0.0323(14) 1 0
+O1 O2- 12 b 1.1087(13) 0.1964(12) 0.3152(10) 0.031(2) 0.476(11) 0
+O2 O2- 12 b 1.226(2) 0.130(2) 0.3174(19) 0.031(2) 0.258(12) 0
+O3 O2- 12 b 1.146(2) 0.065(2) 0.275(2) 0.031(2) 0.265(12) 0
+O4 O2- 4 a 1.0885(11) 0.0885(11) 0.0885(11) 0.098(9) 0.735(12) 0
+O5 O2- 4 a 1.266(3) 0.266(3) 0.266(3) 0.098(9) 0.265(12) 0
+O6 O2- 12 b 0.8371(6) 0.1479(8) 0.0912(6) 0.0381(17) 1 0
+H1 H1+ 12 b 0.806(8) 0.195(9) 0.040(8) 0.046 1 0
+H2 H1+ 12 b 0.913(4) 0.144(10) 0.086(10) 0.046 1 0
+O7 O2- 12 b 0.7909(6) -0.1089(7) 0.0488(6) 0.0364(14) 1 0
+H3 H1+ 12 b 0.825(10) -0.037(5) 0.053(10) 0.044 1 0
+H4 H1+ 12 b 0.830(9) -0.154(7) 0.097(8) 0.044 1 0
+O8 O2- 12 b 0.5417(6) 0.1471(6) 0.0973(6) 0.0303(13) 1 0
+H5 H1+ 12 b 0.570(7) 0.177(9) 0.034(7) 0.036 1 0
+H6 H1+ 12 b 0.467(5) 0.170(9) 0.106(8) 0.036 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.0191(2) 0.0191(2) 0.0191(2) 0.00024(18) -0.00024(18) -0.00024(18)
+As1 As5+ 0.0213(3) 0.0213(3) 0.0213(3) 0.0002(3) 0.0002(3) 0.0002(3)
+Na1 Na1+ 0.0323(14) 0.0323(14) 0.0323(14) -0.0028(18) 0.0028(18) -0.0028(18)
+O1 O2- 0.045(5) 0.035(5) 0.014(4) 0.000(5) 0.013(4) 0.005(5)
+O2 O2- 0.045(5) 0.035(5) 0.014(4) 0.000(5) 0.013(4) 0.005(5)
+O3 O2- 0.045(5) 0.035(5) 0.014(4) 0.000(5) 0.013(4) 0.005(5)
+O4 O2- 0.098(9) 0.098(9) 0.098(9) -0.043(7) -0.043(7) -0.043(7)
+O5 O2- 0.098(9) 0.098(9) 0.098(9) -0.043(7) -0.043(7) -0.043(7)
+O6 O2- 0.025(3) 0.064(5) 0.025(3) 0.010(3) 0.001(3) 0.004(3)
+O7 O2- 0.034(3) 0.045(4) 0.029(3) -0.001(4) -0.001(3) -0.001(3)
+O8 O2- 0.027(3) 0.033(3) 0.031(3) -0.005(3) -0.004(3) 0.001(3)
+#End of TTdata_426703-ICSD

@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92836-ICSD
+_database_code_ICSD 92836
+_audit_creation_date 2003-04-01
+_chemical_name_systematic
+'Tetrasodium trimanganese bis(phosphate(V)) diphosphate(V)'
+_chemical_formula_structural 'Na4 Mn3 (P O4)2 (P2 O7)'
+_chemical_formula_sum 'Mn3 Na4 O15 P4'
+_chemical_name_structure_type Na4Co3(PO4)2P2O7
+_exptl_crystal_density_diffrn 3.2
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis, structural characterization, magnetic properties, and ionic
+conductivity of Na4 M(II)3 (P O4)2 (P2 O7) (M(II) = Mn, Co, Ni)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2001 13 1334 1340 CMATEX
+loop_
+_publ_author_name
+'Sanz, F.'
+'Parada, C.'
+'Rojo, J.M.'
+'Ruiz Valero, C.'
+_cell_length_a 17.991(3)
+_cell_length_b 6.648(1)
+_cell_length_c 10.765(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1287.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n 21 a'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.05
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 4 a 0.3411(1) 0.1010(4) 0.5049(5) 0.013(1) 1. 0
+Mn2 Mn2+ 4 a 0.1413(1) 0.5890(4) 0.4849(5) 0.015(1) 1. 0
+Mn3 Mn2+ 4 a 0.2410(1) 0.3216(4) 0.7436(4) 0.012(1) 1. 0
+P1 P5+ 4 a 0.30005(2) 0.5909(6) 0.5061(5) 0.010(1) 1. 0
+P2 P5+ 4 a 0.1797(2) 0.0825(6) 0.4834(9) 0.011(1) 1. 0
+P3 P5+ 4 a 0.5638(2) 0.4603(6) 0.7296(8) 0.010(1) 1. 0
+P4 P5+ 4 a 0.4468(2) 0.1546(5) 0.7539(1) 0.010(1) 1. 0
+Na1 Na1+ 4 a 0.4920(3) 0.8058(9) 0.9798(7) 0.016(1) 1. 0
+Na2 Na1+ 4 a 0.2905(3) 0.8384(9) 0.7554(7) 0.021(1) 1. 0
+Na3 Na1+ 4 a 0.3998(3) 0.4400(10) 0.2640(8) 0.027(2) 1. 0
+Na4 Na1+ 4 a 0.4650(3) 0.6827(11) 0.5452(3) 0.026(1) 1. 0
+O1 O2- 4 a 0.2422(4) 0.5549(14) 0.6105(3) 0.012(2) 1. 0
+O2 O2- 4 a 0.3555(5) 0.4173(14) 0.4879(8) 0.012(2) 1. 0
+O3 O2- 4 a 0.3434(4) 0.7852(15) 0.5366(7) 0.010(2) 1. 0
+O4 O2- 4 a 0.2512(4) 0.6098(7) 0.3872(5) 0.015(2) 1. 0
+O5 O2- 4 a 0.2289(4) 0.1030(15) 0.6012(1) 0.016(2) 1. 0
+O6 O2- 4 a 0.1259(5) -0.0945(6) 0.5004(4) 0.019(2) 1. 0
+O7 O2- 4 a 0.2383(4) 0.0499(14) 0.3790(9) 0.015(2) 1. 0
+O8 O2- 4 a 0.1367(4) 0.2745(15) 0.4503(8) 0.015(2) 1. 0
+O9 O2- 4 a 0.4817(4) 0.3776(14) 0.7085(6) 0.016(2) 1. 0
+O10 O2- 4 a 0.5558(4) 0.5594(15) 0.8540(0) 0.018(2) 1. 0
+O11 O2- 4 a 0.6176(5) 0.2870(15) 0.7561(4) 0.012(2) 1. 0
+O12 O2- 4 a 0.5800(4) 0.6141(16) 0.6274(5) 0.016(2) 1. 0
+O13 O2- 4 a 0.4655(4) 0.0933(16) 0.8615(6) 0.016(2) 1. 0
+O14 O2- 4 a 0.3640(3) 0.1739(9) 0.7088(4) 0.019(2) 1. 0
+O15 O2- 4 a 0.4814(3) -0.0238(16) 0.6318(9) 0.023(2) 1. 0
+#End of TTdata_92836-ICSD

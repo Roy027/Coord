@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_150828-ICSD
+_database_code_ICSD 150828
+_audit_creation_date 2006-04-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic
+'Disodium hexamagnesium dihydroxodocosaoxooctasilicate - HT'
+_chemical_formula_structural 'Na2 Mg6 (Si8 O22 (O H)2)'
+_chemical_formula_sum 'H2 Mg6 Na2 O24 Si8'
+_chemical_name_structure_type Amphibole#-(MO,C12/m1)
+_chemical_name_mineral Cummingtonite
+_exptl_crystal_density_diffrn 2.93
+_cell_measurement_temperature 643.
+_publ_section_title
+
+;
+The P21/m - C2/m phase transition in synthetic amphibole Na Na Mg Mg5 Si8 O22
+(O H)2: thermodynamic and crystal-chemical evaluation
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2003 30 570 581 PCMIDU
+loop_
+_publ_author_name
+'Camara, F.'
+'Oberti, R.'
+'Iezzi, G.'
+'della Ventura, G.'
+_cell_length_a 9.737(1)
+_cell_length_b 18.049(3)
+_cell_length_c 5.303(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.22(1)
+_cell_angle_gamma 90.
+_cell_volume 910.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Mg2+ 2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 j 0.1133(7) 0.0862(3) 0.2098(12) 0.93 1. 0
+O2 O2- 8 j 0.1218(8) 0.1722(3) 0.7198(13) 1.44 1. 0
+O3 O2- 4 i 0.1090(11) 0 0.7091(22) 1.79 1. 0
+O4 O2- 8 j 0.3728(10) 0.2467(4) 0.7846(19) 2.04 1. 0
+O5 O2- 8 j 0.3466(9) 0.1263(4) 0.0572(13) 1.85 1. 0
+O6 O2- 8 j 0.3445(8) 0.1193(4) 0.5583(14) 1.98 1. 0
+O7 O2- 4 i 0.3389(12) 0 0.2588(24) 1.7 1. 0
+Si1 Si4+ 8 j 0.2812(3) 0.0850(1) 0.2756(5) 0.8 1. 0
+Si2 Si4+ 8 j 0.2917(3) 0.1707(1) 0.7826(6) 0.97 1. 0
+Mg1 Mg2+ 4 h 0 0.0882(2) 0.5 1.14 1. 0
+Mg2 Mg2+ 4 g 0 0.1801(3) 0 1.37 1. 0
+Mg3 Mg2+ 2 a 0 0 0 1.59 1. 0
+Mg4 Mg2+ 4 h 0 0.2617(4) 0.5 2.36 0.5 0
+Na1 Na1+ 2 b 0 0.5 0 2.64 1. 0
+Na2 Na1+ 4 i 0.0340(31) 0.5 0.1132(52) 3.21 0.5 0
+H1 H1+ 4 i 0.177(15) 0 0.733(27) 2.84 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+O1 O2- 0.0020(8) 0.0009(2) 0.0102(28) 0.0000(3) 0.0036(10) -0.0001(5)
+O2 O2- 0.0052(9) 0.0011(3) 0.0071(26) -0.0005(3) -0.0020(13) -0.0005(6)
+O3 O2- 0.0057(14) 0.0006(3) 0.0225(56) 0. 0.0022(22) 0.
+O4 O2- 0.0069(12) 0.0015(2) 0.0128(38) -0.0012(4) -0.0008(15) 0.0006(6)
+O5 O2- 0.0056(9) 0.0021(2) 0.0083(27) -0.0001(3) 0.0029(13) 0.0026(6)
+O6 O2- 0.0032(8) 0.0025(3) 0.0143(3) 0.0005(3) 0.0010(13) -0.0029(7)
+O7 O2- 0.0031(12) 0.0011(3) 0.0245(49) 0. 0.0026(19) 0.
+Si1 Si4+ 0.0023(3) 0.0008(1) 0.0056(9) -0.0001(1) 0.0012(4) 0.0001(2)
+Si2 Si4+ 0.0037(3) 0.0007(1) 0.0067(9) -0.0003(1) 0.0013(4) 0.0001(2)
+Mg1 Mg2+ 0.0049(6) 0.0012(2) 0.0035(17) 0. 0.0041(8) 0.
+Mg2 Mg2+ 0.0035(5) 0.0009(1) 0.0151(19) 0. 0.0012(9) 0.
+Mg3 Mg2+ 0.0053(9) 0.0003(2) 0.0207(34) 0. 0.0001(15) 0.
+Mg4 Mg2+ 0.0058(9) 0.0031(3) 0.0127(29) 0. 0.0076(13) 0.
+Na1 Na1+ 0.0045(44) 0.0043(15) 0.0031(125) 0. -0.0028(57) 0.
+Na2 Na1+ 0.0070(36) 0.0041(9) 0.0144(105) 0. 0.0002(49) 0.
+#End of TTdata_150828-ICSD

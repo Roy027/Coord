@@ -1,0 +1,90 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239960-ICSD
+_database_code_ICSD 239960
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Dilithium iron(II) iron(III) bis(sulfate(VI))'
+_chemical_formula_structural 'Li1.5 Fe (S O4)2'
+_chemical_formula_sum 'Fe1 Li1.5 O8 S2'
+_exptl_crystal_density_diffrn 3.04
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Unveiling the electrochemical mechanisms of Li2 Fe (S O4)2 polymorphs by
+neutron diffraction and density functional theory calculations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Chemistry Chemical Physics' 2016 18 14509 14519 PPCPFQ
+loop_
+_publ_author_name
+'Lander, Laura'
+'Reynaud, Marine'
+'Carrasco, Javier'
+'Katcho, Nebil A.'
+'Bellin, Christophe'
+'Polian, Alain'
+'Baptiste, Benoit'
+'Rousse, Gwenaelle'
+'Tarascon, Jean-Marie'
+_cell_length_a 9.1776(3)
+_cell_length_b 9.049(3)
+_cell_length_c 13.612(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1130.45
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.0216
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe2+ 2.5
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 8 c 0.464(16) 0.750(19) 0.374(14) 0.3(2) 1. 0
+Li2 Li1+ 8 c 0.69(3) 0.64(3) 0.670(2) 0.3(2) 0.5 0
+Fe1 Fe2+ 8 c 0.846(4) 0.606(4) 0.3650(3) 1.08(16) 1. 0
+S1 S6+ 8 c 0.6265(14) 0.8080(14) 0.5102(10) 0.8(3) 1. 0
+S2 S6+ 8 c 0.5905(14) 0.4411(16) 0.2683(10) 0.8(3) 1. 0
+O1 O2- 8 c 0.4667(2) 0.789(6) 0.528(5) 1.33(7) 1. 0
+O2 O2- 8 c 0.646(6) 0.9629(3) 0.473(4) 1.33(7) 1. 0
+O3 O2- 8 c 0.637(19) 0.719(5) 0.4175(2) 1.33(7) 1. 0
+O4 O2- 8 c 0.74267(4) 0.782(6) 0.586(3) 1.33(7) 1. 0
+O5 O2- 8 c 0.493(4) 0.489(6) 0.3507(3) 1.33(7) 1. 0
+O6 O2- 8 c 0.527(5) 0.496(6) 0.1738(2) 1.33(7) 1. 0
+O7 O2- 8 c 0.587(5) 0.2768(18) 0.282(4) 1.33(7) 1. 0
+O8 O2- 8 c 0.7506(2) 0.471(6) 0.273(5) 1.33(7) 1. 0
+#End of TTdata_239960-ICSD

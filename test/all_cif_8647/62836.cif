@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62836-ICSD
+_database_code_ICSD 62836
+_audit_creation_date 1988-07-15
+_chemical_name_systematic 'Disodium dipotassium cyclo-tetraphosphate dihydrate'
+_chemical_formula_structural 'Na2 K2 P4 O12 (H2 O)2'
+_chemical_formula_sum 'H4 K2 Na2 O14 P4'
+_chemical_name_structure_type (KPO3)4(H2O)2
+_exptl_crystal_density_diffrn 2.34
+_publ_section_title
+'Contribution to the crystal chemistry of tetrametaphosphates (I).'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1985 58 119 132 JSSCBI
+loop_
+_publ_author_name
+'Averbuch-Pouchot, M.T.'
+'Durif, A.'
+_cell_length_a 11.341(17)
+_cell_length_b 7.907(12)
+_cell_length_c 7.918(14)
+_cell_angle_alpha 89.94(9)
+_cell_angle_beta 106.95(8)
+_cell_angle_gamma 95.61(7)
+_cell_volume 675.65
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 2 i 0.43767(5) 0.22608(8) 0.64107(8) 2.03(1) 1. 0
+K2 K1+ 2 i 0.06139(5) 0.34210(8) 0.76355(8) 2.03(1) 1. 0
+Na1 Na1+ 2 i 0.42060(9) 0.6667(1) 0.8525(1) 1.65(1) 1. 0
+Na2 Na1+ 2 i 0.07762(9) 0.1235(1) 0.2097(1) 1.69(1) 1. 0
+P1 P5+ 2 i 0.29076(5) 0.44672(8) 0.15962(8) 1.09(1) 1. 0
+P2 P5+ 2 i 0.21053(5) 0.78151(8) 0.06786(8) 1.09(1) 1. 0
+P3 P5+ 2 i 0.28748(5) 0.85313(8) 0.44719(8) 1.16(1) 1. 0
+P4 P5+ 2 i 0.20919(5) 0.49185(8) 0.47291(8) 1.17(1) 1. 0
+O1 O2- 2 i 0.1982(1) 0.5770(2) 0.0796(2) 1.32(2) 1. 0
+O2 O2- 2 i 0.3107(1) 0.8323(2) 0.2554(2) 1.26(3) 1. 0
+O3 O2- 2 i 0.1885(1) 0.6911(2) 0.4431(2) 1.32(2) 1. 0
+O4 O2- 2 i 0.3103(1) 0.4668(2) 0.3690(2) 1.37(2) 1. 0
+O5 O2- 2 i 0.2290(2) 0.2754(2) 0.0927(2) 1.58(3) 1. 0
+O6 O2- 2 i 0.4110(1) 0.5071(2) 0.1310(2) 1.51(3) 1. 0
+O7 O2- 2 i 0.0905(1) 0.8459(2) 0.0575(1) 1.50(3) 1. 0
+O8 O2- 2 i 0.2727(2) 0.8238(2) 0.9305(2) 1.57(3) 1. 0
+O9 O2- 2 i 0.4075(2) 0.8348(2) 0.5797(2) 1.77(3) 1. 0
+O10 O2- 2 i 0.2240(2) 0.0078(2) 0.4494(2) 1.68(3) 1. 0
+O11 O2- 2 i 0.2719(2) 0.4642(2) 0.6608(2) 1.66(3) 1. 0
+O12 O2- 2 i 0.0889(2) 0.3951(2) 0.3824(2) 1.73(3) 1. 0
+O13 O2- 2 i 0.4123(2) 0.1433(2) 0.9646(3) 2.36(3) 1. 0
+O14 O2- 2 i 0.0907(2) 0.0121(3) 0.6962(3) 2.40(3) 1. 0
+H1 H1+ 2 i 0.350(3) 0.175(4) 0.001(5) 3.3(3) 1. 0
+H2 H1+ 2 i 0.404(3) 0.049(5) -.014(5) 3.7(3) 1. 0
+H3 H1+ 2 i 0.116(3) 0.017(4) 0.610(5) 2.9(3) 1. 0
+H4 H1+ 2 i 0.149(3) 0.966(4) 0.770(4) 3.2(3) 1. 0
+#End of TTdata_62836-ICSD

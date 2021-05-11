@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_259252-ICSD
+_database_code_ICSD 259252
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Sodium calcium magnesium silicon oxide (2/4/2/4/15)'
+_chemical_formula_structural 'Na2 Ca4 Mg2 Si4 O15'
+_chemical_formula_sum 'Ca4 Mg2 Na2 O15 Si4'
+_exptl_crystal_density_diffrn 3.19
+_publ_section_title
+
+;
+Synthesis, synchrotron diffraction study and twinning in Na2Ca4Mg2Si4O15 - a
+heteropolyhedral framework compound
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2017 232 815
+825 ZKCMAJ
+loop_
+_publ_author_name
+'Kahlenberg, Volker'
+'Schmidmair, Daniela'
+'Hildebrandt, Elias'
+'Ennemoser, Patrick'
+'Zoell, Klaus'
+'Krueger, Hannes'
+_cell_length_a 7.1717(3)
+_cell_length_b 5.3512(2)
+_cell_length_c 16.4789(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90.911(4)
+_cell_angle_gamma 90
+_cell_volume 632.33
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0311
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 4 g 0.2609(1) 0.2444(1) 0.0932(1) 0.008(1) 1. 0
+Na1 Na1+ 2 f 0.5 0.2200(2) 0.25 0.011(1) 0.744(1) 0
+Ca1 Ca2+ 2 f 0.5 0.2200(2) 0.25 0.011(1) 0.256(1) 0
+Ca2 Ca2+ 2 e 0 0.1760(1) 0.25 0.010(1) 1. 0
+Na2 Na1+ 4 g 0.5306(1) 0.7501(1) 0.0847(1) 0.014(1) 0.628(1) 0
+Ca3 Ca2+ 4 g 0.5306(1) 0.7501(1) 0.0847(1) 0.014(1) 0.372(1) 0
+Ca4 Ca2+ 4 g 0.99963(1) 0.7381(1) 0.0794(1) 0.011(1) 1. 0
+Si1 Si4+ 4 g 0.7472(1) 0.2443(1) 0.0576(1) 0.005(1) 1. 0
+Si2 Si4+ 4 g 0.2748(1) -0.2775(1) 0.2333(1) 0.006(1) 1. 0
+O1 O2- 4 g 0.9470(2) 0.2774(2) 0.1040(1) 0.012(1) 1. 0
+O2 O2- 4 g 0.2565(2) 0.5305(2) 0.0107(1) 0.013(1) 1. 0
+O3 O2- 4 g 0.2420(2) 0.0183(2) -0.0066(1) 0.012(1) 1. 0
+O4 O2- 4 g 0.2316(2) 0.4448(2) 0.2006(1) 0.011(1) 1. 0
+O5 O2- 4 g 0.2360(2) -0.0732(2) 0.1632(1) 0.015(1) 1. 0
+O6 O2- 2 f 0.5 -0.2653(4) 0.25 0.026(1) 1. 0
+O7 O2- 4 g 0.1816(2) -0.1936(3) 0.3151(1) 0.022(1) 1. 0
+O8 O2- 4 g 0.5579(2) 0.2562(2) 0.1092(1) 0.014(1) 1. 0
+#End of TTdata_259252-ICSD

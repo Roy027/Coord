@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92535-ICSD
+_database_code_ICSD 92535
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium cesium disilicate'
+_chemical_formula_structural 'Na Cs (Si2 O5)'
+_chemical_formula_sum 'Cs1 Na1 O5 Si2'
+_exptl_crystal_density_diffrn 3.48
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Mixed alkali systems: Dietzel's theorem, X-ray structure, hygroscopicity, and
+29-Si MAS NMR of Na Rb Si2 O5 and Na Cs Si2 O5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2000 215 347 405 ZEKRDZ
+loop_
+_publ_author_name
+'de Jong, B.H.W.S.'
+'Super, H.T.J.'
+'Frijhoff, R.M.'
+'Spek, A.L.'
+'Nachtegaal, G.'
+_cell_length_a 17.0743(10)
+_cell_length_b 4.9011(10)
+_cell_length_c 13.3391(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1116.25
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+O2- -2
+Na1+ 1
+Cs1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 4 a 0.1442(2) 0.7220(4) 0.1880(4) 0.0093(7) 1. 0
+Si2 Si4+ 4 a 0.0232(2) 0.7764(4) 0.3630(4) 0.0089(7) 1. 0
+Si3 Si4+ 4 a 0.1045(2) 0.2723(4) 0.4588(4) 0.0096(7) 1. 0
+Si4 Si4+ 4 a 0.2224(2) 0.2169(5) 0.2835(4) 0.0091(7) 1. 0
+O1 O2- 4 a 0.1304(6) 0.7677(9) 0.0717(9) 0.0110(12) 1. 0
+O2 O2- 4 a -0.0633(5) 0.6965(12) 0.3605(8) 0.0160(16) 1. 0
+O3 O2- 4 a 0.1148(6) 0.2208(11) 0.5722(9) 0.0153(17) 1. 0
+O4 O2- 4 a 0.3140(5) 0.2979(11) 0.2848(8) 0.0132(14) 1. 0
+O5 O2- 4 a 0.1688(2) 0.4051(9) 0.2119(6) 0.0110(11) 1. 0
+O6 O2- 4 a 0.2149(2) 0.9059(8) 0.2398(6) 0.0104(11) 1. 0
+O7 O2- 4 a 0.0645(5) 0.7783(10) 0.2526(8) 0.0143(16) 1. 0
+O8 O2- 4 a 0.0352(2) 0.0892(8) 0.4077(6) 0.0117(13) 1. 0
+O9 O2- 4 a 0.0806(2) 0.5900(8) 0.4362(6) 0.0119(14) 1. 0
+O10 O2- 4 a 0.1858(5) 0.2160(10) 0.3973(8) 0.0107(16) 1. 0
+Na1 Na1+ 4 a 0.0964(4) 0.7471(4) -0.0869(5) 0.0123(12) 1. 0
+Na2 Na1+ 4 a 0.1539(3) 0.2410(5) 0.7356(6) 0.0150(16) 1. 0
+Cs1 Cs1+ 4 a 0.23440(6) 0.23747(9) 0.00493(3) 0.0181(3) 1. 0
+Cs2 Cs1+ 4 a 0.48342(6) 0.24725(8) 0.14210(3) 0.0176(3) 1. 0
+#End of TTdata_92535-ICSD

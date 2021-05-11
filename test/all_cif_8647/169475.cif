@@ -1,0 +1,84 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_169475-ICSD
+_database_code_ICSD 169475
+_audit_creation_date 2011-08-01
+_chemical_name_systematic 'Lithium iron digermanate'
+_chemical_formula_structural 'Li Fe (Ge2 O6)'
+_chemical_formula_sum 'Fe1 Ge2 Li1 O6'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_exptl_crystal_density_diffrn 4.56
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Thermal expansion and high-temperature P21/c - C2/c phase transition in
+clinopyroxene-type Li Fe Ge2 O6 and comparison to Na Fe (Si, Ge)2 O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2010 37 685 704 PCMIDU
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Camara, F.'
+'Alvaro, M.'
+'Nestola, F.'
+'Tippelt, G.'
+'Prinz, S.'
+'Simons, J.'
+'Roth, G.'
+'Amthauer, G.'
+_cell_length_a 9.8803(8)
+_cell_length_b 8.81001(8)
+_cell_length_c 5.3764(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.846(4)
+_cell_angle_gamma 90.
+_cell_volume 442.9
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0242
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.2589(6) 0.4882(8) 0.7217(11) 0.0196(13) 1. 0
+Fe1 Fe3+ 4 e 0.25070(4) 0.65059(5) 0.21444(9) 0.0073(2) 1. 0
+Ge1 Ge4+ 4 e 0.04581(3) 0.34191(4) 0.27978(7) 0.0075(1) 1. 0
+Ge2 Ge4+ 4 e 0.55209(3) 0.83960(4) 0.23046(7) 0.0073(1) 1. 0
+O1 O2- 4 e -0.1409(2) 0.3315(2) 0.1748(4) 0.0077(5) 1. 0
+O2 O2- 4 e 0.1143(2) 0.5213(2) 0.2860(5) 0.0133(5) 1. 0
+O3 O2- 4 e 0.1170(2) 0.2895(3) 0.6120(4) 0.0111(5) 1. 0
+O4 O2- 4 e 0.3644(2) 0.8318(2) 0.1081(4) 0.0083(5) 1. 0
+O5 O2- 4 e 0.6290(2) 0.0042(2) 0.3825(4) 0.0109(5) 1. 0
+O6 O2- 4 e 0.6120(2) 0.6908(2) 0.4593(4) 0.0097(5) 1. 0
+#End of TTdata_169475-ICSD

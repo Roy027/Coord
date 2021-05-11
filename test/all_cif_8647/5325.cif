@@ -1,0 +1,145 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_5325-ICSD
+_database_code_ICSD 5325
+_audit_creation_date 2015-08-01
+_chemical_name_systematic
+'Pentasodium uranyl trisulfate hydrogensulfate monohydrate'
+_chemical_formula_structural 'Na5 (U O2) (S O4)3 (S O3 O H) H2 O'
+_chemical_formula_sum 'H3 Na5 O19 S4 U1'
+_chemical_name_mineral Meisserite
+_exptl_crystal_density_diffrn 3.27
+_publ_section_title
+
+;
+Meisserite, Na5(UO2)(SO4)3(SO3OH)(H2O), a new uranyl sulfate mineral from the
+Blue Lizard mine, San Juan County, Utah, USA
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Magazine' 2013 77 2975 2988 MNLMBB
+loop_
+_publ_author_name
+'Plasil, J.'
+'Kampf, A.R.'
+'Kasatkin, A.V.'
+'Marty, J.'
+'Skoda, R.'
+'Silva, S.'
+'Cejka, K.'
+_cell_length_a 5.32317(10)
+_cell_length_b 11.5105(2)
+_cell_length_c 13.5562(10)
+_cell_angle_alpha 102.864(7)
+_cell_angle_beta 97.414(7)
+_cell_angle_gamma 91.461(6)
+_cell_volume 801.74
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+U6+ 6
+S6+ 6
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 c 0 0.5 0 .0466(11) 1. 0
+Na2 Na1+ 2 i -.4716(3) 0.32662(15) 0.08994(12) .0281(6) 1. 0
+Na3 Na1+ 1 b 0 0 0.5 .0287(9) 1. 0
+Na4 Na1+ 2 i 0.0011(3) 0.47903(15) 0.25123(13) .0263(6) 1. 0
+Na5 Na1+ 2 i 0.9482(3) 0.21045(14) 0.32254(13) .0251(6) 1. 0
+Na6 Na1+ 2 i 0.5866(4) 0.9623(2) 0.11352(15) .0566(9) 1. 0
+U1 U6+ 2 i 0.51553(2) 0.726339(11) 0.421436(10) .01041(5) 1. 0
+S1 S6+ 2 i 0.53696(16) 0.61313(8) 0.14996(7) .0121(3) 1. 0
+S2 S6+ 2 i 0.48968(17) 0.02464(8) 0.36262(7) .0128(3) 1. 0
+S3 S6+ 2 i 0.47165(17) 0.60341(8) 0.64320(7) .0125(3) 1. 0
+S4 S6+ 2 i 0.03710(18) 0.17485(9) 0.06747(8) .0196(3) 1. 0
+O1 O2- 2 i 0.5202(6) 0.7039(3) 0.0909(2) .0301(11) 1. 0
+O2 O2- 2 i 0.2901(5) 0.5562(3) 0.1505(2) .0269(10) 1. 0
+O3 O2- 2 i -.2907(5) 0.5217(2) 0.1105(2) .0205(9) 1. 0
+O4 O2- 2 i 0.6528(5) 0.6709(2) 0.25806(19) .0157(8) 1. 0
+O5 O2- 2 i 0.5627(5) 0.0682(2) 0.2774(2) .0223(9) 1. 0
+O6 O2- 2 i 0.2126(5) 0.0214(2) 0.3616(2) .0212(9) 1. 0
+O7 O2- 2 i 0.5863(5) 0.9044(2) 0.3697(2) .0221(9) 1. 0
+O8 O2- 2 i 0.6176(5) 0.1035(2) 0.46937(19) .0143(8) 1. 0
+O9 O2- 2 i 0.2566(5) 0.3748(3) 0.3309(2) .0293(11) 1. 0
+O10 O2- 2 i -.3360(5) 0.3569(2) 0.26893(19) .0195(9) 1. 0
+O11 O2- 2 i 0.5954(6) 0.5256(2) 0.3980(2) .0281(10) 1. 0
+O12 O2- 2 i 0.3715(5) 0.6662(2) 0.56277(19) .0167(8) 1. 0
+O13 O2- 2 i -.0691(6) 0.1245(3) 0.1416(2) .0308(11) 1. 0
+O14 O2- 2 i 0.0305(6) 0.3043(3) 0.0879(2) .0317(11) 1. 0
+O15 O2- 2 i 0.2895(5) 0.1365(2) 0.0487(2) .0216(9) 1. 0
+O16 O2- 2 i -.1472(5) 0.1239(3) -.0331(2) .0268(10) 1. 0
+H1 H1+ 2 i -.079(8) 0.132(4) -.085(3) .0322 1. 0
+O17 O2- 2 i 0.2030(5) 0.7982(2) 0.3568(2) .0193(9) 1. 0
+O18 O2- 2 i 0.8268(5) 0.7599(2) 0.4885(2) .0390(9) 1. 0
+O19 O2- 2 i 0.9502(7) 0.8665(3) 0.1920(3) .0403(12) 1. 0
+H2 H1+ 2 i 0.017(10) 0.912(4) 0.251(3) .0483 1. 0
+H3 H1+ 2 i 0.922(10) 0.799(3) 0.205(4) .0483 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ .0171 .104 .0132 -.0051 .0023 .0017
+Na2 Na1+ .0366 .0272 .0183 -.0109 -.0009 .0047
+Na3 Na1+ .0179 .0495 .0257 .0091 .0077 .0197
+Na4 Na1+ .0208 .0324 .0282 -.0044 -.0023 .0157
+Na5 Na1+ .0249 .0243 .0272 .0001 .003 .0084
+Na6 Na1+ .0341 .0974 .0243 -.0123 .0092 -.0168
+U1 U6+ .01315 .00957 .00852 .00027 .00252 .00154
+S1 S6+ .0132 .014 .0087 -.0005 .0011 .0022
+S2 S6+ .0183 .0112 .0093 -.0007 .0047 .0022
+S3 S6+ .0164 .0118 .0112 .0027 .0049 .0046
+S4 S6+ .0195 .0205 .0186 -.0009 .0071 .0018
+O1 O2- .0464 .0266 .0183 .0002 -.0035 .0123
+O2 O2- .0188 .0418 .0158 -.0115 .0034 -.0019
+O3 O2- .0208 .0206 .0181 .0065 .0053 -.0021
+O4 O2- .0169 .0185 .0094 -.0003 .0013 -.0014
+O5 O2- .0313 .0259 .0117 -.0031 .0081 .0064
+O6 O2- .0168 .028 .0159 -.0027 .0014 -.0002
+O7 O2- .0363 .0113 .0215 .0038 .0161 .0025
+O8 O2- .0155 .013 .0114 .0006 .0005 -.0008
+O9 O2- .0168 .0428 .0348 .0006 .0023 .0233
+O10 O2- .0252 .0246 .0108 .0049 .0089 .0042
+O11 O2- .051 .0105 .0241 .0036 .01 .0041
+O12 O2- .0209 .018 .0142 .0037 .0028 .0095
+O13 O2- .0324 .035 .0274 -.0049 .0175 .0051
+O14 O2- .039 .0191 .0344 .0001 .0083 -.0013
+O15 O2- .0175 .0278 .0202 .0003 .007 .0043
+O16 O2- .0205 .0333 .0239 -.002 .0005 .0027
+H1 H1+ .014 .0279 .0158 -.0013 .0029 .0041
+O17 O2- .0145 .0245 .016 .0005 .0006 .0023
+O18 O2- .054 .041 .0202 -.0213 .0048 -.0026
+#End of TTdata_5325-ICSD

@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431363-ICSD
+_database_code_ICSD 431363
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Disodium pentasulfate(VI)'
+_chemical_formula_structural 'Na2 (S5 O16)'
+_chemical_formula_sum 'Na2 O16 S5'
+_exptl_crystal_density_diffrn 2.49
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+The pentasulfates A2[S5O16] (a = li, na, cs, ag): rare species by reactions in
+SO3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2017 2017 958 964 EJICFO
+loop_
+_publ_author_name
+'Schindler, Lisa Verena'
+'Struckmann, Mona'
+'Becker, Anna'
+'Wickleder, Mathias S.'
+_cell_length_a 8.8017(3)
+_cell_length_b 10.3988(4)
+_cell_length_c 13.4858(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1234.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.016
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S6+ 6
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S6+ 8 d 0.26947(2) 0.14660(2) 0.70136(2) 0.00819(4) 1 0
+Na1 Na1+ 8 d 0.22249(4) 0.00625(3) 0.45125(2) 0.01115(7) 1 0
+S2 S6+ 4 c 0.5 0.33039(2) 0.75 0.00799(5) 1 0
+S3 S6+ 8 d 0.04834(2) 0.26195(2) 0.56463(2) 0.00842(4) 1 0
+O1 O2- 8 d 0.13772(7) 0.23838(6) 0.68541(4) 0.01059(10) 1 0
+O2 O2- 8 d 0.41934(6) 0.23684(5) 0.67366(4) 0.00921(9) 1 0
+O3 O2- 8 d 0.27874(7) 0.04970(6) 0.62773(5) 0.01315(11) 1 0
+O4 O2- 8 d 0.28265(8) 0.11795(6) 0.80346(4) 0.01429(11) 1 0
+O5 O2- 8 d 0.17420(7) 0.30790(6) 0.50778(5) 0.01392(11) 1 0
+O6 O2- 8 d 0.00060(7) 0.13336(6) 0.54165(5) 0.01247(11) 1 0
+O7 O2- 8 d 0.60894(7) 0.39561(6) 0.69223(5) 0.01462(11) 1 0
+O8 O2- 8 d -0.06446(7) 0.35195(6) 0.59441(5) 0.01437(11) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S6+ 0.00918(8) 0.00855(7) 0.00683(7) -0.00165(5) -0.00119(5) -0.00008(5)
+Na1 Na1+ 0.01194(14) 0.01151(14) 0.01002(14) 0.00013(11) -0.00124(10)
+-0.00046(11)
+S2 S6+ 0.00773(10) 0.00712(9) 0.00911(10) 0. -0.00059(7) 0.
+S3 S6+ 0.00720(8) 0.00877(7) 0.00930(8) -0.00060(5) 0.00013(5) -0.00070(5)
+O1 O2- 0.0084(2) 0.0146(2) 0.0088(2) 0.00140(18) -0.00029(18) -0.00248(18)
+O2 O2- 0.0081(2) 0.0124(2) 0.0071(2) -0.00224(17) -0.00012(17) -0.00046(16)
+O3 O2- 0.0161(3) 0.0105(2) 0.0128(2) 0.00135(19) -0.0038(2) -0.00413(18)
+O4 O2- 0.0189(3) 0.0160(3) 0.0079(2) -0.0068(2) -0.00258(19) 0.00353(19)
+O5 O2- 0.0132(2) 0.0164(3) 0.0121(2) -0.0034(2) 0.0038(2) 0.0018(2)
+O6 O2- 0.0122(2) 0.0099(2) 0.0153(2) -0.00236(18) -0.00419(19) -0.00172(19)
+O7 O2- 0.0141(3) 0.0140(2) 0.0158(3) -0.0060(2) 0.0001(2) 0.0042(2)
+O8 O2- 0.0105(2) 0.0146(2) 0.0180(3) 0.00454(19) -0.0007(2) -0.0025(2)
+#End of TTdata_431363-ICSD

@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_83814-ICSD
+_database_code_ICSD 83814
+_audit_creation_date 1999-01-19
+_chemical_name_systematic 'Disodium calcium hexagermanate'
+_chemical_formula_structural 'Na2 Ca (Ge6 O14)'
+_chemical_formula_sum 'Ca1 Ge6 Na2 O14'
+_chemical_name_structure_type Ca3Ga2Ge4O14
+_exptl_crystal_density_diffrn 4.42
+_publ_section_title
+'Growth and characterization of Na2 Ca Ge6 O14 single crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Research and Technology' 1997 32 939 945 CRTEDF
+loop_
+_publ_author_name
+'Takeda, H.'
+'Uecker, R.'
+'Kumatoriya, M.'
+'Shimamura, K.'
+'Reiche, P.'
+'Fukuda, T.'
+_cell_length_a 8.180(1)
+_cell_length_b 8.180(1)
+_cell_length_c 4.836(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 280.24
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3 2 1'
+_symmetry_Int_Tables_number 150
+_refine_ls_R_factor_all 0.064
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 3 e 0.4249(7) 0 0 . 0.667 0
+Ca1 Ca2+ 3 e 0.4249(7) 0 0 . 0.333 0
+Ge1 Ge4+ 1 a 0 0 0 . 1. 0
+Ge2 Ge4+ 2 d 0.3333 0.6667 0.4793(2) . 1. 0
+Ge3 Ge4+ 3 f 0.7529(1) 0 0.5 . 1. 0
+O1 O2- 2 d 0.3333 0.6667 0.829(2) . 1. 0
+O2 O2- 6 g 0.4580(7) 0.3040(9) 0.6775(9) . 1. 0
+O3 O2- 6 g 0.2137(6) 0.0888(6) 0.2339(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0034(6) 0.0034(8) 0.007(2) 0.0017(4) 0.0000(5) 0.0000(9)
+Ca1 Ca2+ 0.0034(6) 0.0034(8) 0.007(2) 0.0017(4) 0.0000(5) 0.0000(9)
+Ge1 Ge4+ 0.0027(1) 0.0027(1) 0.0028(3) 0.0014(1) 0 0
+Ge2 Ge4+ 0.00277(9) 0.00277(9) 0.0051(3) 0.00138(5) 0 0
+Ge3 Ge4+ 0.00255(8) 0.0026(8) 0.0043(2) 0.0013(4) 0.0005(1) 0.0010(1)
+O1 O2- 0.018(2) 0.018(2) 0.005(2) 0.009(1) 0 0
+O2 O2- 0.0033(6) 0.011(1) 0.011(1) 0.0040(6) -.0031(8) -.006(1)
+O3 O2- 0.0036(65) 0.0039(7) 0.007(1) 0.0019(5) -.0023(6) -.0026(7)
+#End of TTdata_83814-ICSD

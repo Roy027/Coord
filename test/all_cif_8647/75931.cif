@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75931-ICSD
+_database_code_ICSD 75931
+_audit_creation_date 1996-04-22
+_audit_update_record 2014-08-01
+_chemical_name_systematic
+'Tetrasodium dititanium phyllo-octasilicate tetrahydrate'
+_chemical_formula_structural 'Na4 Ti2 (Si8 O22) (H2 O)4'
+_chemical_formula_sum 'H8 Na4 O26 Si8 Ti2'
+_chemical_name_structure_type Na2TiSi9O11(H2O)2
+_chemical_name_mineral 'Penkvilskite 1M'
+_exptl_crystal_density_diffrn 2.61
+_publ_section_title
+
+;
+Penkvilksite, a new kind of silicate structure: OD character, X-ray
+single-crystal (1M), and powder Rietveld (2O) refinements of two MDO polytypes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1994 79 1185 1193 AMMIAY
+loop_
+_publ_author_name
+'Merlino, S.'
+'Pasero, M.'
+'Artioli, G.'
+'Khomyakov, A.P.'
+_cell_length_a 8.956(4)
+_cell_length_b 8.727(3)
+_cell_length_c 7.387(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.74(3)
+_cell_angle_gamma 90.
+_cell_volume 532.48
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+Si4+ 4
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 2 c 0 0.5 0 0.0072(3) 1. 0
+Si1 Si4+ 4 e 0.1598(1) 0.1599(1) 0.1981(2) 0.0081(4) 1. 0
+Si2 Si4+ 4 e 0.3138(1) 0.4423(1) 0.4067(2) 0.0082(3) 1. 0
+Na1 Na1+ 4 e 0.1928(3) 0.6912(2) 0.7136(3) 0.0266(7) 1. 0
+O1 O2- 4 e 0.3136(3) 0.2621(3) 0.3462(4) 0.0124(10) 1. 0
+O2 O2- 4 e 0.1032(3) 0.0379(3) 0.3202(4) 0.0118(10) 1. 0
+O3 O2- 4 e 0.0207(3) 0.2781(3) 0.0677(4) 0.0119(10) 1. 0
+O4 O2- 4 e 0.2347(4) 0.0519(4) 0.0704(4) 0.0126(10) 1. 0
+O5 O2- 4 e 0.2091(4) 0.5387(3) 0.2153(4) 0.0109(10) 1. 0
+O6 O2- 2 b 0.5 0 0 0.0142(16) 1. 0
+O7 O2- 4 e 0.3696(5) 0.6888(6) 0.0286(6) 0.0451(16) 1. 0
+H1 H1+ 4 e 0.33 0.605 0.093 0.17(4) 1. 0
+H2 H1+ 4 e 0.488 0.667 0.066 0.17(4) 1. 0
+#End of TTdata_75931-ICSD

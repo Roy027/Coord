@@ -1,0 +1,114 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89899-ICSD
+_database_code_ICSD 89899
+_audit_creation_date 2002-04-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic
+'Dizirconium potassium trilithium closo-tridecaoxododecasilicate'
+_chemical_formula_structural 'Zr2 K Li3 (Si12 O30)'
+_chemical_formula_sum 'K1 Li3 O30 Si12 Zr2'
+_chemical_name_structure_type KMg2Al3(Al2Si10O30)
+_chemical_name_mineral Sogdianite
+_exptl_crystal_density_diffrn 2.77
+_publ_section_title
+
+;
+The crystal chemistry of Li-bearing minerals with the milarite-type structure:
+the crystal structure of end-member sogdianite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2000 38 853 859 CAMIA6
+loop_
+_publ_author_name
+'Sokolova, E.V.'
+'Hawthorne, F.C.'
+'Pautov, L.A.'
+_cell_length_a 10.1240(3)
+_cell_length_b 10.1240(3)
+_cell_length_c 14.3198(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1271.08
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 6/m c c'
+_symmetry_Int_Tables_number 192
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 'x, x-y, -z+1/2'
+5 '-x+y, y, -z+1/2'
+6 '-y, -x, -z+1/2'
+7 'x-y, x, z'
+8 'y, -x+y, z'
+9 '-x, -y, z'
+10 'x-y, x, -z'
+11 'y, -x+y, -z'
+12 '-x, -y, -z'
+13 '-x, -x+y, -z+1/2'
+14 'x-y, -y, -z+1/2'
+15 'y, x, -z+1/2'
+16 '-x, -x+y, z+1/2'
+17 'x-y, -y, z+1/2'
+18 'y, x, z+1/2'
+19 '-x+y, -x, -z'
+20 '-y, x-y, -z'
+21 'x, y, -z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+K1+ 1
+Si4+ 4
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 4 c 0.3333 0.6667 0.25 . 1. 0
+K1 K1+ 2 a 0 0 0.25 . 1. 0
+Si1 Si4+ 24 m 0.11184(5) 0.35135(5) 0.10941(3) . 1. 0
+Li1 Li1+ 6 f 0 0.5 0.25 . 1. 0
+O1 O2- 12 l 0.1246(2) 0.3911(2) 0 . 1. 0
+O2 O2- 24 m 0.2179(1) 0.2779(2) 0.13483(8) . 1. 0
+O3 O2- 24 m 0.1565(1) 0.4983(1) 0.17173(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zr1 Zr4+ 0.0059(2) 0.0059(2) 0.0067(2) 0.0029(1) 0 0
+K1 K1+ 0.0207(4) 0.0207(4) 0.0236(7) 0.0104(2) 0 0
+Si1 Si4+ 0.0068(2) 0.0080(2) 0.0071(2) 0.0037(2) -.0005(2) -.0010(2)
+Li1 Li1+ 0.0074(26) 0.0146(21) 0.0178(28) 0.0037(13) 0 0
+O1 O2- 0.0232(10) 0.0197(10) 0.0061(8) 0.0105(8) 0 0
+O2 O2- 0.0134(6) 0.0164(7) 0.0164(7) 0.0109(5) -.0005(5) -.0003(5)
+O3 O2- 0.0099(5) 0.0102(5) 0.0097(6) 0.0046(5) -.0012(4) -.0028(5)
+#End of TTdata_89899-ICSD

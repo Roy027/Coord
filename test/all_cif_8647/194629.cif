@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_194629-ICSD
+_database_code_ICSD 194629
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Disodium cobalt bis(sulfate)'
+_chemical_formula_structural 'Na2 Co (S O4)2'
+_chemical_formula_sum 'Co1 Na2 O8 S2'
+_chemical_name_structure_type Mg3Ca3(PO4)3
+_exptl_crystal_density_diffrn 2.86
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Unique edge-sharing sulfate-transition metal coordination in Na2 M (S O4)2 (M
+= Ni and Co)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 222 129 135 JSSCBI
+loop_
+_publ_author_name
+'Fry, Allyson M.'
+'Sweeney, Owen T.'
+'Adam Phelan, W.'
+'Drichko, Natalia'
+'Siegler, Maxime A.'
+'McQueen, Tyrel M.'
+_cell_length_a 23.34610(26)
+_cell_length_b 10.30040(12)
+_cell_length_c 17.41151(20)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.8659(9)
+_cell_angle_gamma 90.
+_cell_volume 4136.98
+_cell_formula_units_Z 24
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0133
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co2+ 2
+O2- -2
+S6+ 6
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0.24423(23) 0.6153(5) 0.23503(34) 0.01445(25) 1. 0
+Na2 Na1+ 8 f 0.09822(26) 0.3784(6) 0.10991(33) 0.01445(25) 1. 0
+Na3 Na1+ 8 f 0.05465(22) 0.8803(6) 0.08562(32) 0.01445(25) 1. 0
+Na4 Na1+ 4 e 0. 0.4118(8) 0.25 0.01445(25) 1. 0
+Na5 Na1+ 4 e 0. 0.8772(8) 0.25 0.01445(25) 1. 0
+Na6 Na1+ 8 f 0.17154(26) 0.3186(5) 0.9281(4) 0.01445(25) 1. 0
+Na7 Na1+ 8 f 0.15048(27) 0.9644(5) 0.9167(4) 0.01445(25) 1. 0
+Co1 Co2+ 8 f 0.09686(34) 0.1137(5) 0.2229(4) 0.0128(5) 1. 0
+Co2 Co2+ 8 f 0.24198(27) 0.8752(5) 0.1246(5) 0.0128(5) 1. 0
+Co3 Co2+ 8 f 0.06811(30) 0.5971(5) 0.9363(4) 0.0128(5) 1. 0
+O1 O2- 8 f 0.26199(14) 0.8731(4) 0.01874(19) 0.02387(4) 1. 0
+O2 O2- 8 f 0.15740(16) 0.97642(29) 0.07125(22) 0.02387(4) 1. 0
+O3 O2- 8 f 0.20741(16) 0.8320(4) 0.23444(20) 0.02387(4) 1. 0
+O4 O2- 8 f 0.17296(17) 0.02997(30) 0.29550(21) 0.02387(4) 1. 0
+O5 O2- 8 f 0.94101(16) 0.59773(34) 0.03753(22) 0.02387(4) 1. 0
+O6 O2- 8 f 0.14904(16) 0.1862(4) 0.13547(21) 0.02387(4) 1. 0
+O7 O2- 8 f 0.21654(16) 0.6823(4) 0.10452(23) 0.02387(4) 1. 0
+O8 O2- 8 f 0.11299(17) 0.53458(31) 0.84331(20) 0.02387(4) 1. 0
+O9 O2- 8 f 0.18980(16) 0.1795(4) 0.01938(17) 0.02387(4) 1. 0
+O10 O2- 8 f 0.30959(17) 0.8096(4) 0.17288(24) 0.02387(4) 1. 0
+O11 O2- 8 f 0.06077(17) 0.05482(33) 0.32023(20) 0.02387(4) 1. 0
+O12 O2- 8 f 0.03797(16) 0.65274(33) 0.03097(21) 0.02387(4) 1. 0
+O13 O2- 8 f 0.35326(16) 0.7946(4) 0.01761(22) 0.02387(4) 1. 0
+O14 O2- 8 f 0.14990(17) 0.82444(35) 0.33937(21) 0.02387(4) 1. 0
+O15 O2- 8 f 0.15923(17) 0.4836(4) 0.22636(20) 0.02387(4) 1. 0
+O16 O2- 8 f 0.33437(15) 0.00431(33) 0.96107(21) 0.02387(4) 1. 0
+O17 O2- 8 f 0.09795(13) 0.31300(28) 0.23971(24) 0.02387(4) 1. 0
+O18 O2- 8 f 0.03440(14) 0.0832(4) 0.13727(21) 0.02387(4) 1. 0
+O19 O2- 8 f 0.05169(17) 0.91213(33) 0.94873(21) 0.02387(4) 1. 0
+O20 O2- 8 f 0.23814(14) 0.08482(33) 0.13440(23) 0.02387(4) 1. 0
+O21 O2- 8 f 0.10449(17) 0.9051(4) 0.21311(24) 0.02387(4) 1. 0
+O22 O2- 8 f 0.99449(17) 0.73947(34) 0.14310(20) 0.02387(4) 1. 0
+O23 O2- 8 f 0.01251(16) 0.50684(31) 0.12763(20) 0.02387(4) 1. 0
+O24 O2- 8 f 0.02842(17) 0.26535(30) 0.36500(24) 0.02387(4) 1. 0
+S1 S6+ 8 f 0.02626(22) 0.1235(5) 0.36855(28) 0.02455(33) 1. 0
+S2 S6+ 8 f 0.18354(21) 0.1018(5) 0.08975(28) 0.02455(33) 1. 0
+S3 S6+ 8 f 0.30914(22) 0.8780(5) 0.96918(28) 0.02455(33) 1. 0
+S4 S6+ 8 f 0.15905(22) 0.9021(5) 0.26796(29) 0.02455(33) 1. 0
+S5 S6+ 8 f 0.14209(22) 0.6039(5) 0.78712(28) 0.02455(33) 1. 0
+S6 S6+ 8 f 0.99543(23) 0.6348(5) 0.08776(28) 0.02455(33) 1. 0
+#End of TTdata_194629-ICSD

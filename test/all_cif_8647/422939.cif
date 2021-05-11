@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_422939-ICSD
+_database_code_ICSD 422939
+_audit_creation_date 2012-02-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium diiron trihydrogendioxide bis(molybdate)'
+_chemical_formula_structural 'Na Fe2 (H3 O2) (Mo O4)2'
+_chemical_formula_sum 'H3 Fe2 Mo2 Na1 O10'
+_chemical_name_structure_type NaCu2OH(SO4)2H2O
+_chemical_name_mineral Natrochalcite
+_exptl_crystal_density_diffrn 3.91
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Existence of two concomitant magnetic structures below T(Neel) for the
+Natrochalcite, Na Fe(II)2 (H3 O2) (Mo O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2011 50 9191 9199 INOCAJ
+loop_
+_publ_author_name
+'Maalej, W.'
+'Vilminot, S.'
+'Andre, G.'
+'Elaoud, Z.'
+'Mhiri, T.'
+'Kurmoo, M.'
+_cell_length_a 9.4863(13)
+_cell_length_b 6.3903(8)
+_cell_length_c 7.6386(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 116.008(3)
+_cell_angle_gamma 90.
+_cell_volume 416.16
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0195
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe2+ 2
+Mo6+ 6
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe2+ 4 e 0.25 0.25 0. 0.00640(15) 1 0
+Mo1 Mo6+ 4 i 0.08226(4) 0. 0.28891(5) 0.00561(11) 1 0
+O1 O2- 4 i 0.3511(4) 0. 0.9156(4) 0.0104(7) 1 0
+O2 O2- 4 i 0.7635(3) 0. 0.4805(4) 0.0118(7) 1 0
+O3 O2- 8 j 0.4656(2) 0.7242(3) 0.2602(3) 0.0100(5) 1 0
+O4 O2- 4 i 0.8309(4) 0. 0.8811(4) 0.0097(6) 1 0
+Na1 Na1+ 2 d 0. 0.5 0.5 0.0123(5) 1 0
+H1 H1+ 4 i 0.320(6) 0. 0.805(8) 0.02 1 0
+H2 H1+ 4 i 0.553(11) 0. 0.022(19) 0.02 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe2+ 0.0057(3) 0.0062(3) 0.0075(3) -0.0002(2) 0.0030(2) 0.0000(2)
+Mo1 Mo6+ 0.00498(16) 0.00543(19) 0.00593(17) 0. 0.00194(13) 0.
+O1 O2- 0.0082(14) 0.0147(17) 0.0060(14) 0. 0.0009(12) 0.
+O2 O2- 0.0100(14) 0.0134(17) 0.0089(14) 0. 0.0014(12) 0.
+O3 O2- 0.0094(10) 0.0101(11) 0.0103(10) -0.0001(8) 0.0041(9) -0.0007(8)
+O4 O2- 0.0105(15) 0.0059(16) 0.0160(15) 0. 0.0090(12) 0.
+Na1 Na1+ 0.0150(13) 0.0093(13) 0.0127(12) 0. 0.0062(11) 0.
+#End of TTdata_422939-ICSD

@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59345-ICSD
+_database_code_ICSD 59345
+_audit_creation_date 1999-06-02
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium vanadium(IV) vanadium oxide - alpha'
+_chemical_formula_structural 'Na (V2 O5)'
+_chemical_formula_sum 'Na1 O5 V2'
+_chemical_name_structure_type CaV2O5
+_exptl_crystal_density_diffrn 3.47
+_cell_measurement_temperature 295.
+_publ_section_title
+'Inversion symmetry in the spin-peierls compound alpha-Na V2 O5.'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1998 54 1558 1561 ACSCEE
+loop_
+_publ_author_name
+'Meetsma, A.'
+'de Boer, J.L.'
+'Damascelli, A.'
+'Jegoudez, J.'
+'Revcolevschi, A.'
+'Palstra, T.T.M.'
+_cell_length_a 11.311(1)
+_cell_length_b 3.610(1)
+_cell_length_c 4.800(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 196.
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m m n Z'
+_symmetry_Int_Tables_number 59
+_refine_ls_R_factor_all 0.015
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y+1/2, -z'
+2 '-x, y+1/2, -z'
+3 'x+1/2, -y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y+1/2, z'
+6 'x, -y+1/2, z'
+7 '-x+1/2, y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 f 0.09788(1) 0.75 0.60781(3) . 1. 0
+O1 O2- 2 b 0.25 0.75 0.4805(2) . 1. 0
+O2 O2- 4 f 0.11452(7) 0.75 0.94197(17) . 1. 0
+O3 O2- 4 f 0.07302(6) 0.25 0.48769(16) . 1. 0
+Na1 Na1+ 2 a 0.25 0.25 0.14080(15) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V4+ 0.0058(1) 0.0049(1) 0.0113(1) 0 -.0022(1) 0
+O1 O2- 0.0064(3) 0.0084(4) 0.0135(4) 0 0 0
+O2 O2- 0.0140(3) 0.0181(4) 0.0132(3) 0 -.0008(2) 0
+O3 O2- 0.0066(2) 0.0053(2) 0.0173(3) 0 -.0018(2) 0
+Na1 Na1+ 0.0230(3) 0.0125(3) 0.0154(3) 0 0 0
+#End of TTdata_59345-ICSD

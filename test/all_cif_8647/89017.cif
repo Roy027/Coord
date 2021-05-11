@@ -1,0 +1,72 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89017-ICSD
+_database_code_ICSD 89017
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Disodium stannotellurate'
+_chemical_formula_structural 'Na2 (Sn Te O6)'
+_chemical_formula_sum 'Na2 O6 Sn1 Te1'
+_chemical_name_structure_type Perovskite-Ba2LaRuO6
+_exptl_crystal_density_diffrn 5.68
+_publ_section_title
+'Synthesis, structure and dielectric properties of Na2 Sn Te O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Society Symposium Proceedings' 1999 547 139 144
+MRSPDH
+loop_
+_publ_author_name
+'Park, J.-H.'
+'Woodward, P.M.'
+'Parise, J.B.'
+'Lubomirsky, I.'
+'Stafsudd, O.'
+_cell_length_a 5.40361(5)
+_cell_length_b 5.46152(5)
+_cell_length_c 7.69288(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.034(3)
+_cell_angle_gamma 90.
+_cell_volume 227.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sn4+ 4
+Te6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e -.0085(14) 0.0328(7) 0.250(3) 0.0069(7) 1. 0
+Sn1 Sn4+ 2 d 0.5 0 0 0.00025(7) 1. 0
+Te1 Te6+ 2 c 0 0.5 0 0.00025(7) 1. 0
+O1 O2- 4 e 0.0852(6) 0.476(1) 0.2417(1) -.00017(7) 1. 0
+O2 O2- 4 e 0.1931(5) 0.2129(4) -.0481(8) -.00017(7) 1. 0
+O3 O2- 4 e 0.2858(4) 0.7012(6) -.0393(7) -.00017(7) 1. 0
+#End of TTdata_89017-ICSD

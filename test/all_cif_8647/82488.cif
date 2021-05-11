@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82488-ICSD
+_database_code_ICSD 82488
+_audit_creation_date 1997-11-10
+_audit_update_record 1999-11-30
+_chemical_name_systematic
+'Tetrasodium dizirconium titanium tetraoxide tetracarbonate'
+_chemical_formula_structural 'Na4 Zr2 Ti O4 (C O3)4'
+_chemical_formula_sum 'C4 Na4 O16 Ti1 Zr2'
+_chemical_name_mineral Sabinaite
+_exptl_crystal_density_diffrn 3.44
+_publ_section_title 'The crystal structure of sabinaite, Na4 Zr2 Ti O4 (C O3)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 1996 34 811 815 CAMIA6
+loop_
+_publ_author_name
+'McDonald, A.M.'
+_cell_length_a 10.196(1)
+_cell_length_b 6.616(1)
+_cell_length_c 17.9579(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.14(1)
+_cell_angle_gamma 90.
+_cell_volume 1208.22
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zr4+ 4
+Ti4+ 4
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 f 0.8971(1) 0.5593(2) 0.4184(1) . 1. 0
+Na2 Na1+ 8 f 0.8721(1) 0.0874(2) 0.4335(1) . 1. 0
+Zr1 Zr4+ 8 f 0.6916(1) 0.3123(1) 0.2478(1) . 1. 0
+Ti1 Ti4+ 4 e 0 0.3079(1) 0.25 . 1. 0
+C1 C4+ 8 f 0.1499(2) 0.3512(4) 0.3996(1) . 1. 0
+C2 C4+ 8 f 0.5942(2) 0.3353(33) 0.3834(1) . 1. 0
+O1 O2- 8 f 0.0374(2) 0.3073(3) 0.3643(1) . 1. 0
+O2 O2- 8 f 0.7195(2) 0.3316(3) 0.3723(1) . 1. 0
+O3 O2- 8 f 0.1360(2) 0.5034(3) 0.2400(1) . 1. 0
+O4 O2- 8 f 0.8638(2) 0.1207(3) 0.2630(1) . 1. 0
+O5 O2- 8 f 0.1547(2) 0.4306(4) 0.4624(1) . 1. 0
+O6 O2- 8 f 0.5195(2) 0.3091(3) 0.3215(1) . 1. 0
+O7 O2- 8 f 0.2593(2) 0.3159(3) 0.3673(1) . 1. 0
+O8 O2- 8 f 0.5488(2) 0.3568(3) 0.4450(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0179(5) 0.0162(5) 0.0160(5) 0.0016(4) 0.0008(4) 0.0005(4)
+Na2 Na1+ 0.0178(5) 0.0168(6) 0.0210(6) 0.0011(4) -.0057(4) -.0024(4)
+Zr1 Zr4+ 0.0049(1) 0.0045(1) 0.0063(1) 0.0001(1) 0.0006(1) 0.0001(1)
+Ti1 Ti4+ 0.0048(2) 0.0052(2) 0.0090(2) 0 0.0006(2) 0
+C1 C4+ 0.012(1) 0.0087(10) 0.0107(10) 0.0008(8) 0.0013(8) 0.0016(8)
+C2 C4+ 0.0107(10) 0.0078(10) 0.0093(10) 0.0005(8) 0.0013(8) -.0002(8)
+O1 O2- 0.0082(8) 0.0189(9) 0.0111(8) 0.0002(6) 0.0012(6) 0.0006(7)
+O2 O2- 0.0089(8) 0.0181(9) 0.0101(8) -.0008(6) 0.0008(6) 0.0000(7)
+O3 O2- 0.0090(8) 0.0049(7) 0.0134(8) 0.0009(6) 0.0010(6) 0.0007(6)
+O4 O2- 0.0063(8) 0.0055(7) 0.0160(8) -.0002(6) -.0004(6) -.0005(6)
+O5 O2- 0.0199(10) 0.0300(11) 0.0127(8) -.0035(8) 0.0047(7) -.0072(8)
+O6 O2- 0.0089(7) 0.0127(8) 0.0088(7) -.0005(6) 0.0004(6) -.0010(6)
+O7 O2- 0.0087(8) 0.0143(8) 0.0095(8) 0.0009(6) 0.0011(6) 0.0004(6)
+O8 O2- 0.0159(9) 0.0263(10) 0.0092(8) 0.0022(8) 0.0030(6) -.0026(7)
+#End of TTdata_82488-ICSD

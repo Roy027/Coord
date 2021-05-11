@@ -1,0 +1,104 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60824-ICSD
+_database_code_ICSD 60824
+_audit_creation_date 1988-02-22
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Dilithium sodium potassium bis(sulfate(VI))'
+_chemical_formula_structural 'Li2 Na K (S O4)2'
+_chemical_formula_sum 'K1 Li2 Na1 O8 S2'
+_chemical_name_structure_type Na2PO3F
+_exptl_crystal_density_diffrn 2.47
+_cell_measurement_temperature 138.
+_publ_section_title 'The structure of the triple cation salt Li2 Na K (S O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 161 162 ACSCEE
+loop_
+_publ_author_name
+'Heeg, M.J.'
+'Hurd, A.'
+_cell_length_a 4.905(4)
+_cell_length_b 7.753(6)
+_cell_length_c 18.923(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 719.61
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.022
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+Na1+ 1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 a 0.00163(13) 0.05485(8) 0.07186(3) . 1. 0
+S1 S6+ 4 a 0.49000(15) -.54748(9) 0.55847(3) . 1. 0
+O1 O2- 4 a 0.1948(4) -.5368(3) 0.57576(11) . 1. 0
+O2 O2- 4 a 0.5183(5) -.5666(3) 0.48144(10) . 1. 0
+O3 O2- 4 a 0.6291(5) -.38919(25) 0.58122(11) . 1. 0
+O4 O2- 4 a 0.6060(5) -.6994(3) 0.59449(11) . 1. 0
+S2 S6+ 4 a 0.96643(15) 0.46739(9) 0.79270(4) . 1. 0
+O5 O2- 4 a 0.8674(5) 0.3098(3) 0.82857(10) . 1. 0
+O6 O2- 4 a 1.2661(4) 0.4672(3) 0.79036(12) . 1. 0
+O7 O2- 4 a 0.8515(4) 0.4721(3) 0.72076(11) . 1. 0
+O8 O2- 4 a 0.8680(5) 0.6206(3) 0.83158(10) . 1. 0
+Na1 Na1+ 4 a 0.5149(3) 0.24714(15) 0.72572(6) . 1. 0
+Li1 Li1+ 4 a 0.4650(11) -.1010(6) 0.36036(23) . 1. 0
+Li2 Li1+ 4 a 0.4941(12) 0.2550(6) 0.4103(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0078(3) 0.0100(3) 0.0147(3) 0.0011(4) -0.0010(3) -0.0004(2)
+S1 S6+ 0.0023(3) 0.0072(3) 0.0088(3) -0.0001(4) 0.0001(3) -0.0005(2)
+O1 O2- 0.0018(9) 0.011(1) 0.016(1) 0.0008(9) 0.0014(8) -0.0007(9)
+O2 O2- 0.011(1) 0.014(1) 0.0104(9) 0.000(1) 0.0004(8) -0.0016(8)
+O3 O2- 0.008(1) 0.0067(9) 0.016(1) -0.0008(9) -0.0028(9) -0.0003(9)
+O4 O2- 0.005(1) 0.008(1) 0.016(1) 0.0015(9) -0.0013(9) 0.0011(8)
+S2 S6+ 0.0032(3) 0.0073(3) 0.0079(3) 0.0003(3) 0.0000(3) -0.0001(3)
+O5 O2- 0.009(1) 0.009(1) 0.014(1) 0.0011(9) 0.002(1) 0.0015(9)
+O6 O2- 0.003(1) 0.015(1) 0.018(1) 0.000(1) 0.0009(9) -0.002(1)
+O7 O2- 0.007(1) 0.015(1) 0.012(1) -0.003(1) -0.0025(8) -0.0005(9)
+O8 O2- 0.008(1) 0.0075(9) 0.013(1) 0.0013(9) -0.002(1) -0.0016(8)
+Na1 Na1+ 0.0069(6) 0.0113(6) 0.0166(6) -0.0011(5) -0.0007(5) -0.0038(4)
+Li1 Li1+ 0.010(3) 0.010(2) 0.011(2) 0.002(2) -0.001(2) -0.002(2)
+Li2 Li1+ 0.010(3) 0.011(2) 0.019(3) 0.000(3) 0.002(2) 0.002(2)
+#End of TTdata_60824-ICSD

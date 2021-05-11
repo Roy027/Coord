@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_24819-ICSD
+_database_code_ICSD 24819
+_audit_creation_date 1982-12-31
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Pentasodium niobium oxide'
+_chemical_formula_structural 'Na5 Nb O5'
+_chemical_formula_sum 'Na5 Nb1 O5'
+_chemical_name_structure_type Na5NbO5
+_exptl_crystal_density_diffrn 3.13
+_publ_section_title
+'Les phases Na5 Nb O5 et Na5 Ta O5. Structure cristalline de Na5 Nb O5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1982
+485 115 121 ZAACAB
+loop_
+_publ_author_name
+'Darriet, J.'
+'Maazaz, A.'
+'Bouloux, J.C.'
+'Delmas, C.'
+_cell_length_a 6.24(1)
+_cell_length_b 10.20(1)
+_cell_length_c 10.16(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.3(1)
+_cell_angle_gamma 90.
+_cell_volume 610.32
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 4 e 0.5 0.34240(4) 0.75 . 1. 0
+Na1 Na1+ 4 e 0 0.41907(20) 0.75 . 1. 0
+Na2 Na1+ 8 f 0.12950(27) 0.36469(13) 0.04976(17) . 1. 0
+Na3 Na1+ 8 f 0.33875(28) 0.40725(15) 0.42127(18) . 1. 0
+O1 O2- 8 f 0.15150(38) 0.14343(20) 0.10592(24) . 1. 0
+O2 O2- 8 f 0.26004(43) 0.07875(25) 0.38000(27) . 1. 0
+O3 O2- 4 e 0 0.34186(32) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Nb1 Nb5+ 0.00318(6) 0.00105(2) 0.00128(2) 0 0.00084(3) 0
+Na1 Na1+ 0.00375(42) 0.00272(15) 0.00219(18) 0 0.00101(22) 0
+Na2 Na1+ 0.00791(33) 0.00177(10) 0.00290(13) -.00011(12) 0.00246(17) 0.00022(8)
+Na3 Na1+ 0.00658(36) 0.00293(11) 0.00235(14) -.00008(14) 0.00049(17) 0.00003(9)
+O1 O2- 0.00383(40) 0.00160(16) 0.00167(16) 0.00011(17) 0.00145(21) -.00001(11)
+O2 O2- 0.00462(49) 0.00315(18) 0.00174(20) 0.00193(22) 0.00112(25) 0.00108(13)
+O3 O2- 0.00598(60) 0.00080(15) 0.00187(21) 0 0.00128(29) 0
+#End of TTdata_24819-ICSD

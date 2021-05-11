@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_5458-ICSD
+_database_code_ICSD 5458
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Sodium hydroxide tetrahydrate - alpha'
+_chemical_formula_structural 'Na (O H) (H2 O)4'
+_chemical_formula_sum 'H9 Na1 O5'
+_chemical_name_structure_type NaOH(H2O)4
+_exptl_crystal_density_diffrn 1.38
+_cell_measurement_temperature 243.
+_publ_section_title
+
+;
+Hydroxidhydrate - Phasenbeziehungen und Kristallstrukturen in den Systemen
+Me4NOH-H2O und NaOH-H2O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dissertation Universitaet Duesseldorf' 1988 1988 1 125 DMY004
+loop_
+_publ_author_name
+'Seidel, R.'
+_cell_length_a 15.561(5)
+_cell_length_b 4.123(2)
+_cell_length_c 9.491(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 117.37(3)
+_cell_angle_gamma 90.
+_cell_volume 540.76
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.95514(4) 0 0.13994(7) .0238(3) 1. 0
+O1 O2- 4 i 0.72560(8) 0 0.3167(1) .0257(5) 1. 0
+H1 H1+ 4 i 0.708(1) 0 0.386(3) .034(6) 1. 0
+O2 O2- 4 i 0.85279(8) 0.5 0.4276(1) .0259(5) 1. 0
+H2 H1+ 8 j 0.812(1) 0.325(6) 0.394(2) .048(5) 1. 0
+O3 O2- 4 i 0.79399(9) 0 0.0997(2) .0265(5) 1. 0
+H3 H1+ 4 i 0.772(2) 0 0.167(3) .041(6) 1. 0
+H4 H1+ 8 j 0.763(2) 0.143(8) 0.035(3) .027(7) .5 0
+O4 O2- 4 i 0.9789(9) 0.5 0.2854(1) .0261(5) 1. 0
+H5 H1+ 4 i 0.935(2) 0.5 0.320(3) .041(6) 1. 0
+H6 H1+ 4 i 0.034(2) 0.5 0.366(3) .045(7) 1. 0
+O5 O2- 4 i 0.89225(8) 0 -.1420(1) .0244(5) 1. 0
+H7 H1+ 8 j 0.8554(9) 0.167(4) -.194(2) .039(4) 1. 0
+#End of TTdata_5458-ICSD

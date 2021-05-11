@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171342-ICSD
+_database_code_ICSD 171342
+_audit_creation_date 2006-10-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Sodium scandium niobium oxide (2/4/20/36)'
+_chemical_formula_structural 'Na2 Sc4 Nb20 O36'
+_chemical_formula_sum 'Na2 Nb20 O36 Sc4'
+_exptl_crystal_density_diffrn 5.42
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis and crystal and electronic structures of the Na2 (Sc4 Nb2) (Nb6
+O12)3 octahedral niobium cluster oxide. Structural correlations between An B
+M6 L12(Z) series and chevrel phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 883 893 INOCAJ
+loop_
+_publ_author_name
+'Cordier, S.'
+'Kirakci, K.'
+'Fontaine, B.'
+'Halet, J.F.'
+'Gautier, R.'
+'Perrin, C.'
+_cell_length_a 8.0335(3)
+_cell_length_b 8.0335(3)
+_cell_length_c 14.5718(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 814.43
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0278
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb3+ 3
+O2- -2
+Nb3+ 3
+Sc2+ 2.5
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb3+ 18 f 0.21522(3) 0.18934(3) 0.077003(17) 0.00444(8) 1 0
+O1 O2- 18 f 0.0284(3) 0.2124(3) 0.17160(13) 0.0072(3) 1 0
+O2 O2- 18 f 0.2453(3) 0.1616(3) 0.33814(12) 0.0085(4) 1 0
+Nb2 Nb3+ 6 c 0 0 0.2675(7) 0.0053(14) 0.327(5) 0
+Sc1 Sc2+ 6 c 0 0 0.2746(8) 0.0043(9) 0.673(5) 0
+Na1 Na1+ 18 f 0.261(6) 0.614(14) 0.1560(19) 0.024(5) 0.11 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb1 Nb3+ 0.00423(12) 0.00450(12) 0.00407(10) 0.00180(9) -0.00022(7) 0.00016(8)
+O1 O2- 0.0070(9) 0.0085(10) 0.0066(8) 0.0042(8) 0.0001(7) -0.0012(7)
+O2 O2- 0.0072(9) 0.0099(10) 0.0072(8) 0.0033(8) 0.0008(7) -0.0014(7)
+Sc1 Sc2+ 0.0052(14) 0.0052(14) 0.0024(15) 0.0026(7) 0 0
+Na1 Na1+ 0.028(12) 0.03(2) 0.011(13) 0.012(11) 0.005(9) 0.002(17)
+#End of TTdata_171342-ICSD

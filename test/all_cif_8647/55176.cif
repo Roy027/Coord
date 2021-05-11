@@ -1,0 +1,81 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_55176-ICSD
+_database_code_ICSD 55176
+_audit_creation_date 2005-10-01
+_chemical_name_systematic
+'Lithium scandium indium catena-disilicate (1/0.45/0.55/1)'
+_chemical_formula_structural 'Li Sc0.447 In0.553 (Si2 O6)'
+_chemical_formula_sum 'In0.553 Li1 O6 Sc0.447 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Clinopyroxene
+_exptl_crystal_density_diffrn 3.63
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Structural variation and crystal chemistry of Li Me(3+) Si2 O6 clinopyroxenes
+Me(3+) = Al, Ga, Cr, V, Fe, Sc and In
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie (1979-2010)' 2004 219 278 294 ZEKRDZ
+loop_
+_publ_author_name
+'Redhammer, G.J.'
+'Roth, G.'
+_cell_length_a 9.802(2)
+_cell_length_b 9.005(3)
+_cell_length_c 5.370(1)
+_cell_angle_alpha 90
+_cell_angle_beta 110.41(3)
+_cell_angle_gamma 90
+_cell_volume 444.24
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0138
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sc3+ 3
+In3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0 0.2523(6) 0.25 0.0181(12) 1. 0
+Sc1 Sc3+ 4 e 0 0.89341(3) 0.25 0.0032(1) 0.447(2) 0
+In1 In3+ 4 e 0 0.89341(3) 0.25 0.0032(1) 0.553(2) 0
+Si1 Si4+ 8 f 0.30044(5) 0.08581(5) 0.2786(1) 0.0039(1) 1. 0
+O1 O2- 8 f 0.1221(1) 0.0832(1) 0.1606(3) 0.0054(3) 1. 0
+O2 O2- 8 f 0.3715(1) 0.2465(2) 0.3566(3) 0.0092(3) 1. 0
+O3 O2- 8 f 0.3544(1) 0.0126(2) 0.0504(3) 0.0096(3) 1. 0
+#End of TTdata_55176-ICSD

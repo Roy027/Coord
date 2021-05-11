@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237261-ICSD
+_database_code_ICSD 237261
+_audit_creation_date 2015-02-01
+_chemical_name_systematic
+'Europium sodium scandium silicon oxide (0.13/0.94/0.94/2)'
+_chemical_formula_structural 'Eu0.13 Na0.94 Sc0.94 Si2 O6'
+_chemical_formula_sum 'Eu0.13 Na0.94 O6 Sc0.94 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_exptl_crystal_density_diffrn 3.43
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Structural and luminescence properties of yellow-emitting Na Sc Si2 O6:Eu2+
+phosphors: Eu2+ Site preference analysis and generation of red emission by
+codoping Mn2+ for white-light-emitting diode applications
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry C' 2013 117 20847 20854 JPCCCK
+loop_
+_publ_author_name
+'Xia, Zhiguo'
+'Zhang, Yuanyuan'
+'Molokeev, Maxim S.'
+'Atuchin, Victor V.'
+_cell_length_a 9.8339(4)
+_cell_length_b 9.0740(4)
+_cell_length_c 5.3447(2)
+_cell_angle_alpha 90
+_cell_angle_beta 107.022(2)
+_cell_angle_gamma 90
+_cell_volume 456.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0427
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sc3+ 3
+Eu3+ 3
+Sc3+ 3
+Na1+ 1
+Eu3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.3083(6) 0.25 6.2(3) 0.5 0
+Sc1 Sc3+ 4 e 0 0.3083(6) 0.25 6.2(3) 0.5 0
+Eu1 Eu3+ 4 e 0 0.3083(6) 0.25 6.2(3) 0.0000(44) 0
+Sc2 Sc3+ 4 e 0 0.8963(4) 0.25 1.0(2) 0.4353(28) 0
+Na2 Na1+ 4 e 0 0.8963(4) 0.25 1.0(2) 0.4353(28) 0
+Eu2 Eu3+ 4 e 0 0.8963(4) 0.25 1.0(2) 0.1296(55) 0
+Si1 Si4+ 8 f 0.2919(3) 0.0857(4) 0.2428(6) 2.2(2) 1. 0
+O1 O2- 8 f 0.1127(5) 0.0767(8) 0.1369(10) 0.6(1) 1. 0
+O2 O2- 8 f 0.3566(6) 0.2522(7) 0.2952(11) 0.6(1) 1. 0
+O3 O2- 8 f 0.3500(8) 0.0066(6) 0.0186(16) 0.6(1) 1. 0
+#End of TTdata_237261-ICSD

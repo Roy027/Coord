@@ -1,0 +1,102 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419672-ICSD
+_database_code_ICSD 419672
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Dilithium tetraborate'
+_chemical_formula_structural 'Li2 B4 O7'
+_chemical_formula_sum 'B4 Li2 O7'
+_chemical_name_structure_type Li2B4O7
+_exptl_crystal_density_diffrn 2.44
+_cell_measurement_temperature 198.
+_publ_section_title
+'Temperature-dependent changes of the crystal structure of Li2 B4 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2008
+634 2601 2607 ZAACAB
+loop_
+_publ_author_name
+'Sennova, N.'
+'Bubnova, R.S.'
+'Cordier, G.'
+'Albert, B.'
+'Filatov, S.K.'
+'Isaenko, L.'
+_cell_length_a 9.461(5)
+_cell_length_b 9.461(5)
+_cell_length_c 10.286(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 920.71
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 41 c d'
+_symmetry_Int_Tables_number 110
+_refine_ls_R_factor_all 0.0293
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x+1/2, z+3/4'
+2 '-y, x+1/2, z+1/4'
+3 'x, -y, z+1/2'
+4 '-x, -y, z'
+5 'y, x+1/2, z+3/4'
+6 'y, -x+1/2, z+1/4'
+7 '-x, y, z+1/2'
+8 'x, y, z'
+9 '-y+1/2, -x, z+1/4'
+10 '-y+1/2, x, z+3/4'
+11 'x+1/2, -y+1/2, z'
+12 '-x+1/2, -y+1/2, z+1/2'
+13 'y+1/2, x, z+1/4'
+14 'y+1/2, -x, z+3/4'
+15 '-x+1/2, y+1/2, z'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 16 b 0.3497(4) 0.3330(4) 0.3493(4) 0.0198(8) 1 0
+B1 B3+ 16 b 0.0867(2) 0.3318(2) 0.4513(2) 0.0074(4) 1 0
+B2 B3+ 16 b 0.0539(2) 0.1121(2) 0.5827(2) 0.0065(4) 1 0
+O1 O2- 16 b 0.13790(13) 0.21814(13) 0.51572(12) 0.0074(3) 1 0
+O2 O2- 16 b 0.17801(13) 0.43303(14) 0.40613(13) 0.0074(3) 1 0
+O3 O2- 16 b -0.05681(13) 0.34341(13) 0.43129(11) 0.0075(3) 1 0
+O4 O2- 8 a 0. 0. 0.49976(18) 0.0068(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0156(18) 0.0206(18) 0.023(2) 0.0087(14) 0.0083(15) 0.0094(16)
+B1 B3+ 0.0076(9) 0.0072(8) 0.0074(8) 0.0001(6) -0.0004(7) -0.0004(7)
+B2 B3+ 0.0048(8) 0.0073(8) 0.0074(8) 0.0001(7) 0.0002(7) 0.0017(7)
+O1 O2- 0.0052(6) 0.0080(7) 0.0091(6) 0.0004(4) 0.0005(5) 0.0027(5)
+O2 O2- 0.0066(6) 0.0065(6) 0.0090(6) -0.0001(4) 0.0005(4) 0.0019(4)
+O3 O2- 0.0063(6) 0.0082(5) 0.0079(6) -0.0011(5) -0.0003(5) 0.0024(5)
+O4 O2- 0.0075(8) 0.0078(8) 0.0051(8) -0.0012(6) 0. 0.
+#End of TTdata_419672-ICSD

@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20271-ICSD
+_database_code_ICSD 20271
+_audit_creation_date 1984-09-04
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Pentadecasodium triyttrium hexakis(disilicate)'
+_chemical_formula_structural 'Na15 Y3 (Si2 O6)6'
+_chemical_formula_sum 'Na15 O36 Si12 Y3'
+_chemical_name_structure_type Na15Y3Si12O36
+_exptl_crystal_density_diffrn 2.86
+_cell_measurement_temperature 295.
+_publ_section_title
+'The high temperature X-ray analysis of the monocrystals Na5 Y Si4 O12'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1981 261 623 627 DANKAS
+loop_
+_publ_author_name
+'Maksimov, B.A.'
+'Belov, N.V.'
+_cell_length_a 22.062(8)
+_cell_length_b 22.062(3)
+_cell_length_c 12.621(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 5320.03
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Si4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 18 e 0 0.75086(6) 0.75 0.89 1. 0
+Si1 Si4+ 36 f 0.9022(2) 0.5496(2) 0.3572(2) 1.08 1. 0
+Si2 Si4+ 36 f 0.5786(2) 0.1515(2) 0.7099(2) 0.96 1. 0
+O1 O2- 36 f 0.9050(4) 0.5959(4) 0.2588(6) 1.61 1. 0
+O2 O2- 36 f 0.0728(4) 0.2077(4) 0.0126(6) 1.62 1. 0
+O3 O2- 36 f 0.2342(4) 0.6154(4) 0.2964(6) 1.26 1. 0
+O4 O2- 36 f 0.9104(4) 0.2708(4) 0.2454(7) 1.29 1. 0
+O5 O2- 36 f 0.8857(4) 0.4693(4) 0.1099(6) 1.29 1. 0
+O6 O2- 36 f 0.8776(4) 0.3660(4) 0.2203(6) 1.47 1. 0
+Na1 Na1+ 36 f 0.0715(2) 0.1394(2) 0.8602(4) 1.87 1. 0
+Na2 Na1+ 6 b 0 0 0 1.05 1. 0
+Na3 Na1+ 6 a 0 0 0.25 1.91 1. 0
+Na4 Na1+ 18 e 0.2753(3) 0 0.75 3.99 1. 0
+Na5 Na1+ 36 f 0.335(1) 0.188(1) 0.278(2) 3.24 0.333 0
+Na6 Na1+ 36 f 0.329(1) 0.157(1) 0.138(1) 3.16 0.333 0
+#End of TTdata_20271-ICSD

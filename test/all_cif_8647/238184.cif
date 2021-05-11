@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238184-ICSD
+_database_code_ICSD 238184
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium hydrogen lanthanum silicate oxide *'
+_chemical_formula_structural 'Na1.42 H0.62 La8.42 ((Si O4)6 O1.88)'
+_chemical_formula_sum 'H0.62 La8.42 Na1.42 O25.88 Si6'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_exptl_crystal_density_diffrn 5.04
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Hydrothermal synthesis, structure investigation, and oxide ion conductivity of
+mixed Si/Ge-based apatite-type phases
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 4803 4812 INOCAJ
+loop_
+_publ_author_name
+'Li, Henan'
+'Baikie, Tom'
+'Pramana, Stevin S.'
+'Shin, J. Felix'
+'Keenan, Philip J.'
+'Slater, Peter R.'
+'Brink, Frank'
+'Hester, James'
+'An, Tao'
+'White, Tim J.'
+_cell_length_a 9.7272(3)
+_cell_length_b 9.7272(3)
+_cell_length_c 7.1816(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 588.47
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0414
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Na1+ 1
+La3+ 3
+Na1+ 1
+Si4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 6 h 0.2369(4) -0.0118(5) 0.25 0.0212(13) 0.881(15) 0
+Na1 Na1+ 6 h 0.2369(4) -0.0118(5) 0.25 0.0212(13) 0.119(15) 0
+La2 La3+ 4 f 0.333333 0.666667 0.5029(7) 0.0199(12) 0.784(12) 0
+Na2 Na1+ 4 f 0.333333 0.666667 0.5029(7) 0.0199(12) 0.177(15) 0
+Si1 Si4+ 6 h 0.4024(8) 0.3700(7) 0.25 0.024(3) 1 0
+O1 O2- 6 h 0.3223(5) 0.4852(5) 0.25 0.026(2) 1 0
+O2 O2- 6 h 0.5956(4) 0.4724(5) 0.25 0.025(2) 1 0
+O3 O2- 12 i 0.3484(4) 0.2570(4) 0.0732(4) 0.0400(19) 1 0
+O4 O2- 4 e 0 0 0.174(2) 0.072(11) 0.471(14) 0
+H1 H1+ 4 e 0 0 0.0329(7) 0.02 0.156(14) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0288(17) 0.0223(17) 0.0109(12) 0.0116(15) 0 0
+Na1 Na1+ 0.0288(17) 0.0223(17) 0.0109(12) 0.0116(15) 0 0
+La2 La3+ 0.0174(15) 0.0174(15) 0.025(2) 0.0087(7) 0 0
+Na2 Na1+ 0.0174(15) 0.0174(15) 0.025(2) 0.0087(7) 0 0
+O2 O2- 0.024(3) 0.0143(19) 0.035(3) 0.008(2) 0 0
+O3 O2- 0.077(3) 0.0237(19) 0.0199(15) 0.0253(19) -0.0218(15) 0.0013(12)
+O4 O2- 0.011(4) 0.011(4) 0.19(3) 0.0053(18) 0 0
+#End of TTdata_238184-ICSD

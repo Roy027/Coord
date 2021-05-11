@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_99050-ICSD
+_database_code_ICSD 99050
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Disodium dithallium decaborate'
+_chemical_formula_structural 'Na2 Tl2 (B10 O17)'
+_chemical_formula_sum 'B10 Na2 O17 Tl2'
+_chemical_name_structure_type Cs2Na2B10O17
+_exptl_crystal_density_diffrn 3.76
+_publ_section_title
+'Crystal structure of two new sodium borates Na3 B7 O12 and Na2 Tl2 B10 O17'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2004 363 104 111 JALCEU
+loop_
+_publ_author_name
+'Penin, N.'
+'Touboul, M.'
+'Nowogrocki, G.'
+_cell_length_a 21.711(10)
+_cell_length_b 6.446(3)
+_cell_length_c 10.952(5)
+_cell_angle_alpha 90
+_cell_angle_beta 105.897(8)
+_cell_angle_gamma 90
+_cell_volume 1474.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0387
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Na1+ 1
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 8 f 0.06513(2) 0.19141(4) 0.57983(3) 0.03734(1) 1. 0
+Na1 Na1+ 8 f 0.2321(1) 0.0530(4) 0.6839(2) 0.0198(5) 1. 0
+O1 O2- 4 e 0 0.5816(9) 0.75 0.0236(12) 1. 0
+O2 O2- 8 f 0.0777(2) 0.6078(7) 0.6395(4) 0.0190(8) 1. 0
+O3 O2- 8 f 0.0827(2) 0.8285(6) 0.8154(4) 0.0214(9) 1. 0
+O4 O2- 8 f 0.1375(2) 0.8100(5) 0.5255(4) 0.0171(8) 1. 0
+O5 O2- 8 f 0.1653(2) 0.9095(5) 0.3373(3) 0.0136(7) 1. 0
+O6 O2- 8 f 0.1747(2) 0.4698(6) 0.6156(3) 0.0160(7) 1. 0
+O7 O2- 8 f 0.1803(2) 0.7705(5) 0.7479(3) 0.0123(7) 1. 0
+O8 O2- 8 f 0.1822(2) 0.2123(5) 0.4711(4) 0.0183(8) 1. 0
+O9 O2- 8 f 0.1850(2) 0.5698(6) 0.4137(3) 0.0182(8) 1. 0
+B1 B3+ 8 f 0.0546(3) 0.6772(9) 0.7343(6) 0.0147(10) 1. 0
+B2 B3+ 8 f 0.1431(3) 0.6684(8) 0.6350(5) 0.0112(10) 1. 0
+B3 B3+ 8 f 0.1525(3) 0.8661(8) 0.8400(5) 0.0118(10) 1. 0
+B4 B3+ 8 f 0.1621(3) 0.7684(8) 0.4279(5) 0.0113(9) 1. 0
+B5 B3+ 8 f 0.1816(3) 0.4169(9) 0.5000(5) 0.0137(10) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ .0371(2) .0328(2) .0431(3) -.0108(1) .0125(1) .0013(1)
+Na1 Na1+ .021(1) .021(1) .020(1) -.006(1) .009(1) .001(1)
+O1 O2- .014(3) .016(3) .046(4) 0. .017(3) 0.
+O2 O2- .017(2) .026(2) .015(2) -.009(2) .008(2) -.004(2)
+O3 O2- .016(2) .024(2) .028(2) -.002(2) .013(2) -.011(2)
+O4 O2- .026(2) .014(2) .015(2) .006(1) .013(2) .003(1)
+O5 O2- .026(2) .007(1) .009(2) -.000(1) .008(1) -.001(1)
+O6 O2- .029(2) .012(2) .011(2) .004(1) .011(2) .002(1)
+O7 O2- .016(2) .009(1) .013(2) .001(1) .004(1) -.004(1)
+O8 O2- .035(2) .010(2) .011(2) -.001(2) .007(2) -.001(1)
+O9 O2- .035(2) .009(2) .015(2) .002(2) .015(2) .002(1)
+B1 B3+ .010(2) .016(2) .019(3) .001(2) .005(2) .003(2)
+B2 B3+ .016(3) .009(2) .009(2) .001(2) .005(2) -.002(2)
+B3 B3+ .018(3) .009(2) .011(2) -.001(2) .007(2) -.002(2)
+B4 B3+ .017(3) .008(2) .010(2) -.003(2) .005(2) -.001(2)
+B5 B3+ .021(3) .011(2) .010(2) .001(2) .005(2) .001(2)
+#End of TTdata_99050-ICSD

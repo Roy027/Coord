@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432676-ICSD
+_database_code_ICSD 432676
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Cobalt sodium molybdate (1.32/3.36/3)'
+_chemical_formula_structural 'Co1.32 Na3.36 (Mo O4)3'
+_chemical_formula_sum 'Co1.32 Mo3 Na3.36 O12'
+_exptl_crystal_density_diffrn 3.75
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Nonstoichiometry in the systems Na2MoO4-MMoO4 (M = Co, Cd), crystal structures
+of Na3.36Co1.32(MoO4)3, Na3.13Mn1.43(MoO4)3 and Na3.72Cd1.14(MoO4)3, crystal
+chemistry, compositions and ionic conductivity of alluaudite-type double
+molybdates and tungstates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2017 253 121 128 JSSCBI
+loop_
+_publ_author_name
+'Solodovnikov, Sergey F.'
+'Solodovnikova, Zoya A.'
+'Zolotova, Evgeniya S.'
+'Yudin, Vasiliy N.'
+'Gulyaeva, Oksana A.'
+'Tushinova, Yunna L.'
+'Kuchumov, Boris M.'
+_cell_length_a 12.6381(3)
+_cell_length_b 13.4888(4)
+_cell_length_c 7.1244(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.1270(10)
+_cell_angle_gamma 90.
+_cell_volume 1125.06
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0207
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Co2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 e 0. 0.785507(18) 0.25 0.01816(6) 1 0
+Mo2 Mo6+ 8 f 0.231978(14) 0.608572(13) 0.12388(2) 0.01774(5) 1 0
+Co1 Co2+ 8 f 0.28801(3) 0.83920(3) 0.37723(5) 0.01540(9) 0.6597(11) 0
+Na1 Na1+ 8 f 0.28801(3) 0.83920(3) 0.37723(5) 0.01540(9) 0.34 0
+Na2 Na1+ 4 a 0. 0. 0. 0.0356(5) 0.962(5) 0
+Na3 Na1+ 4 e 0. 0.23390(10) 0.25 0.0236(2) 1 0
+Na4 Na1+ 4 e 0. 0.5044(3) 0.25 0.0671(11) 0.719(5) 0
+O1 O2- 8 f 0.17192(14) 0.32970(13) 0.3892(2) 0.0273(3) 1 0
+O2 O2- 8 f 0.12350(14) 0.08614(13) 0.3173(3) 0.0285(3) 1 0
+O3 O2- 8 f 0.39146(17) 0.36784(14) 0.2492(3) 0.0378(4) 1 0
+O4 O2- 8 f 0.28085(15) 0.18062(15) 0.1753(2) 0.0310(4) 1 0
+O5 O2- 8 f 0.04146(14) 0.71213(12) 0.4723(2) 0.0242(3) 1 0
+O6 O2- 8 f 0.16059(19) 0.49418(15) 0.1030(3) 0.0408(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.02437(11) 0.01574(10) 0.01101(9) 0. 0.00283(8) 0.
+Mo2 Mo6+ 0.01737(7) 0.02235(8) 0.01179(7) -0.00306(6) 0.00356(5) 0.00057(5)
+Co1 Co2+ 0.01478(14) 0.01947(16) 0.01171(14) -0.00123(11) 0.00471(11)
+0.00132(11)
+Na1 Na1+ 0.01478(14) 0.01947(16) 0.01171(14) -0.00123(11) 0.00471(11)
+0.00132(11)
+Na2 Na1+ 0.0476(10) 0.0210(7) 0.0253(7) -0.0011(6) -0.0010(6) 0.0012(5)
+Na3 Na1+ 0.0202(5) 0.0311(7) 0.0222(6) 0. 0.0113(5) 0.
+Na4 Na1+ 0.0244(12) 0.121(3) 0.0472(16) 0. 0.0040(11) 0.
+O1 O2- 0.0299(8) 0.0290(8) 0.0181(7) -0.0070(6) 0.0034(6) -0.0015(6)
+O2 O2- 0.0224(7) 0.0256(8) 0.0351(9) -0.0021(6) 0.0081(6) -0.0046(7)
+O3 O2- 0.0403(10) 0.0265(9) 0.0356(10) 0.0072(8) 0.0017(8) -0.0090(7)
+O4 O2- 0.0310(8) 0.0438(10) 0.0188(7) 0.0011(7) 0.0099(6) 0.0041(7)
+O5 O2- 0.0268(7) 0.0312(8) 0.0157(6) 0.0029(6) 0.0091(5) 0.0057(6)
+O6 O2- 0.0420(11) 0.0388(10) 0.0374(10) -0.0190(9) 0.0103(8) 0.0052(8)
+#End of TTdata_432676-ICSD

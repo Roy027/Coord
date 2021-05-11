@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_90483-ICSD
+_database_code_ICSD 90483
+_audit_creation_date 2002-04-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Sodium magnesium tris(catena-phosphate(V))'
+_chemical_formula_structural 'Na Mg (P O3)3'
+_chemical_formula_sum 'Mg1 Na1 O9 P3'
+_chemical_name_structure_type NaMg(PO3)3
+_exptl_crystal_density_diffrn 2.61
+_publ_section_title
+
+;
+Cation distribution in cubic Na M (P O3)3 (M = Mg or Zn) using X-ray powder
+diffraction and solid state NMR
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton (2000) - An International Journal of Inorganic Chemistry' 2000
+2000 155 160 DALTFG
+loop_
+_publ_author_name
+'Abrahams, I.'
+'Ahmed, A.'
+'Groombridge, C.J.'
+'Hawkes, G.E.'
+'Nunes, T.G.'
+_cell_length_a 14.2502(6)
+_cell_length_b 14.2502(6)
+_cell_length_c 14.2502(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2893.76
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'P a -3'
+_symmetry_Int_Tables_number 205
+_refine_ls_R_factor_all 0.098
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, x+1/2, y'
+2 'z+1/2, x, -y+1/2'
+3 'z, -x+1/2, y+1/2'
+4 '-z, -x, -y'
+5 'y, -z+1/2, x+1/2'
+6 '-y+1/2, z+1/2, x'
+7 'y+1/2, z, -x+1/2'
+8 '-y, -z, -x'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x, -y, -z'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0.5 0.5 0.5 0.026(2) 1. 0
+Na2 Na1+ 4 a 0 0 0 0.026(2) 1. 0
+Na3 Na1+ 8 c 0.2445(5) 0.2445(5) 0.2445(5) 0.026(2) 1. 0
+Mg1 Mg2+ 8 c 0.1269(7) 0.1269(7) 0.1269(7) 0.012(2) 1. 0
+Mg2 Mg2+ 8 c 0.3846(6) 0.3846(6) 0.3846(6) 0.012(2) 1. 0
+P1 P5+ 24 d 0.0247(4) 0.2386(4) 0.4850(4) 0.021(3) 1. 0
+P2 P5+ 24 d 0.2308(4) 0.2199(5) 0.4986(5) 0.038(3) 1. 0
+O1 O2- 24 d 0.4832(5) 0.2676(7) 0.1151(5) 0.018(1) 1. 0
+O2 O2- 24 d 0.0273(11) 0.1605(5) 0.0102(10) 0.018(1) 1. 0
+O3 O2- 24 d 0.4729(8) 0.3386(7) 0.4681(9) 0.018(1) 1. 0
+O4 O2- 24 d 0.2203(10) 0.2135(8) 0.0778(6) 0.018(1) 1. 0
+O5 O2- 24 d 0.2843(9) 0.2591(9) 0.4186(7) 0.018(1) 1. 0
+O6 O2- 24 d 0.1259(4) 0.1922(7) 0.4691(9) 0.018(1) 1. 0
+#End of TTdata_90483-ICSD

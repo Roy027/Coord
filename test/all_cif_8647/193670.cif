@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193670-ICSD
+_database_code_ICSD 193670
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Octasodium dinitrate(III) hexakis(gallium germanate)'
+_chemical_formula_structural '(Na8 (N O2)2) (Ga Ge O4)6'
+_chemical_formula_sum 'Ga6 Ge6 N2 Na8 O28'
+_chemical_name_structure_type Sodalite-frame
+_chemical_name_mineral 'Sodalite, gallogermanate'
+_exptl_crystal_density_diffrn 3.28
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, crystal structure and temperature-dependent properties of
+gallogermanate nitrite sodalite Na8 (N O2)2 (Ga Ge O4)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Microporous and Mesoporous Materials' 2015 203 100 105 MIMMFJ
+loop_
+_publ_author_name
+'Poltz, Irma'
+'Robben, Lars'
+'Buhl, Josef-Christian'
+'Gesing, Thorsten M.'
+_cell_length_a 9.1528(1)
+_cell_length_b 9.1528(1)
+_cell_length_c 9.1528(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 766.76
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -4 3 n'
+_symmetry_Int_Tables_number 218
+_refine_ls_R_factor_all 0.0192
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, y+1/2, -x+1/2'
+2 '-y+1/2, x+1/2, -z+1/2'
+3 '-x+1/2, z+1/2, -y+1/2'
+4 'z+1/2, -y+1/2, -x+1/2'
+5 'y+1/2, -x+1/2, -z+1/2'
+6 'x+1/2, -z+1/2, -y+1/2'
+7 '-z+1/2, -y+1/2, x+1/2'
+8 '-y+1/2, -x+1/2, z+1/2'
+9 '-x+1/2, -z+1/2, y+1/2'
+10 'z+1/2, y+1/2, x+1/2'
+11 'y+1/2, x+1/2, z+1/2'
+12 'x+1/2, z+1/2, y+1/2'
+13 '-z, -x, y'
+14 '-y, -z, x'
+15 '-x, -y, z'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 '-z, x, -y'
+20 '-y, z, -x'
+21 '-x, y, -z'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ga3+ 3
+Ge4+ 4
+O2- -2
+N3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 e 0.1762(2) 0.1762(2) 0.1762(2) 1.49(6) 1. 0
+Ga1 Ga3+ 6 c 0.25 0.5 0 0.30(10) 1. 0
+Ge1 Ge4+ 6 d 0.25 0 0.5 0.45(10) 1. 0
+O1 O2- 24 i 0.1465(5) 0.1387(6) 0.4212(2) 0.33(6) 1. 0
+N1 N3+ 8 e 0.4744(10) 0.4744(10) 0.4744(10) 3.0(5) 0.25 0
+O2 O2- 24 i 0.373(1) 0.544(17) 0.453(16) 3.0(5) 0.1667 0
+#End of TTdata_193670-ICSD

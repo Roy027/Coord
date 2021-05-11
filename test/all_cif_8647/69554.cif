@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69554-ICSD
+_database_code_ICSD 69554
+_audit_creation_date 1992-08-20
+_chemical_name_systematic
+'Dipotassium sodium dihydrogeniodate(VII) tetrahydrate'
+_chemical_formula_structural 'K2 Na (H2 I O6) (H2 O)4'
+_chemical_formula_sum 'H10 I1 K2 Na1 O10'
+_exptl_crystal_density_diffrn 2.65
+_cell_measurement_temperature 295.
+_publ_section_title
+'Structure of potassium sodium orthoperiodate(VII) tetrahydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1991 47 1133 1136 ACSCEE
+loop_
+_publ_author_name
+'Kellersohn, T.'
+_cell_length_a 6.7201(5)
+_cell_length_b 7.3601(4)
+_cell_length_c 10.7671(6)
+_cell_angle_alpha 97.607(5)
+_cell_angle_beta 108.002(5)
+_cell_angle_gamma 93.935(6)
+_cell_volume 498.62
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.018
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+I7+ 7
+K1+ 1
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+I1 I7+ 2 i 0.13927(1) 0.18159(1) 0.24671(1) . 1. 0
+K1 K1+ 2 i 0.37746(8) 0.65452(6) 0.37756(4) . 1. 0
+K2 K1+ 2 i 0.43226(6) 0.68775(6) 0.85359(4) . 1. 0
+Na1 Na1+ 2 i 0.22080(11) 0.18658(10) 0.76637(7) . 1. 0
+O1 O2- 2 i 0.8540(2) 0.0718(2) 0.1335(1) . 1. 0
+O2 O2- 2 i 0.1386(2) -.0470(2) 0.3257(1) . 1. 0
+O3 O2- 2 i 0.0005(2) 0.2778(2) 0.3606(1) . 1. 0
+O4 O2- 2 i 0.2402(2) 0.0531(2) 0.1250(1) . 1. 0
+O5 O2- 2 i 0.1227(2) 0.3865(2) 0.1652(1) . 1. 0
+O6 O2- 2 i 0.4019(2) 0.2650(2) 0.3640(1) . 1. 0
+O7 O2- 2 i 0.4129(2) 0.7421(2) 0.1376(2) . 1. 0
+O8 O2- 2 i 0.1871(3) 0.4074(2) 0.6241(1) . 1. 0
+O9 O2- 2 i 0.2919(2) 0.9638(2) 0.5992(1) . 1. 0
+O10 O2- 2 i 0.1861(2) 0.4169(2) 0.9332(1) . 1. 0
+H1 H1+ 2 i 0.858(5) 0.026(5) 0.053(3) 2.5 1. 0
+H2 H1+ 2 i 0.191(5) -.003(5) 0.405(3) 2.5 1. 0
+H3 H1+ 2 i 0.357(5) 0.834(5) 0.135(3) 2.5 1. 0
+H4 H1+ 2 i 0.346(5) 0.663(5) 0.098(3) 2.5 1. 0
+H5 H1+ 2 i 0.122(5) 0.494(5) 0.624(3) 2.5 1. 0
+H6 H1+ 2 i 0.144(5) 0.360(5) 0.542(3) 2.5 1. 0
+H7 H1+ 2 i 0.396(5) 0.899(5) 0.614(3) 2.5 1. 0
+H8 H1+ 2 i 0.212(5) 0.897(5) 0.607(3) 2.5 1. 0
+H9 H1+ 2 i 0.076(5) 0.469(5) 0.888(3) 2.5 1. 0
+H10 H1+ 2 i 0.156(5) 0.377(5) 0.998(3) 2.5 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+I1 I7+ 0.01334(2) 0.01228(2) 0.01011(2) 0.00284(2) 0.00347(2) 0.00141(2)
+K1 K1+ 0.0405(2) 0.0230(1) 0.0215(1) 0.0093(1) 0.0018(1) 0.0001(1)
+K2 K1+ 0.0235(1) 0.0284(2) 0.0321(1) 0.0019(1) 0.0119(1) 0.0054(1)
+Na1 Na1+ 0.0211(3) 0.0203(3) 0.0248(3) -.0002(2) 0.0056(2) 0.0028(1)
+O1 O2- 0.0145(3) 0.0259(3) 0.0140(4) 0.0018(3) 0.0022(3) 0.0002(3)
+O2 O2- 0.0239(4) 0.0149(4) 0.0160(4) 0.0024(3) 0.0040(3) 0.0042(3)
+O3 O2- 0.0235(4) 0.0217(4) 0.0174(4) 0.0065(3) 0.0098(3) -.0009(3)
+O4 O2- 0.0189(3) 0.0214(4) 0.0152(3) 0.0034(3) 0.0075(3) -.0012(3)
+O5 O2- 0.0323(5) 0.0181(4) 0.0209(4) 0.0059(4) 0.0080(4) 0.0090(3)
+O6 O2- 0.0163(4) 0.0204(4) 0.0177(4) -.0003(3) 0.0002(3) -.0003(3)
+O7 O2- 0.0222(5) 0.0227(5) 0.0330(6) 0.0049(4) 0.0037(4) 0.0011(5)
+O8 O2- 0.0404(7) 0.0245(5) 0.0218(5) 0.0107(5) 0.0014(5) 0.0025(4)
+O9 O2- 0.0245(4) 0.0293(5) 0.0244(4) 0.0067(4) 0.0090(4) 0.0072(4)
+O10 O2- 0.0263(4) 0.0347(6) 0.0276(5) 0.0094(4) 0.0133(3) 0.0095(4)
+#End of TTdata_69554-ICSD

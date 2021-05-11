@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_88894-ICSD
+_database_code_ICSD 88894
+_audit_creation_date 2001-07-16
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Trisodium hydrogenbis(hydrogenselenate(VI)) bis(hydrogenselenate(VI))'
+_chemical_formula_structural 'Na3 (H (H Se O4)2) (H Se O4)2'
+_chemical_formula_sum 'H5 Na3 O16 Se4'
+_chemical_name_structure_type Na3H(HSeO4)4
+_exptl_crystal_density_diffrn 3.05
+_publ_section_title
+
+;
+Synthesis and crystal structure of sodium hydrogen selenates, Na H Se O4 and
+Na3 (H (H Se O4)2) (H Se O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1999 44 448 453 KRISAJ
+loop_
+_publ_author_name
+'Zakharov, M.A.'
+'Troyanov, S.I.'
+'Rybakov, V.B.'
+'Aslanov, L.A.'
+'Kemnitz, E.'
+_cell_length_a 5.857(1)
+_cell_length_b 7.254(1)
+_cell_length_c 8.943(2)
+_cell_angle_alpha 104.83(3)
+_cell_angle_beta 91.69(3)
+_cell_angle_gamma 105.41(3)
+_cell_volume 352.15
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se6+ 2 i 0.20774(8) 0.85846(6) 0.84172(5) 0.0152(1) 1. 0
+Se2 Se6+ 2 i 0.33301(8) 0.67057(7) 0.32566(5) 0.0148(1) 1. 0
+Na1 Na1+ 2 i 0.1939(5) 0.3705(3) 0.9174(2) 0.0211(4) 1. 0
+Na2 Na1+ 1 b 0 0 0.5 0.0228(6) 1. 0
+O1 O2- 2 i 0.2597(6) 0.0770(5) 0.9629(4) 0.023(1) 1. 0
+O2 O2- 2 i 0.1186(7) 0.6785(5) 0.9201(4) 0.023(1) 1. 0
+O3 O2- 2 i 0.0323(7) 0.8335(5) 0.6891(4) 0.026(1) 1. 0
+O4 O2- 2 i 0.4705(7) 0.8438(6) 0.7687(5) 0.027(1) 1. 0
+O5 O2- 2 i 0.4227(6) 0.5587(6) 0.1691(4) 0.025(1) 1. 0
+O6 O2- 2 i 0.1109(6) 0.7560(6) 0.3042(4) 0.024(1) 1. 0
+O7 O2- 2 i 0.5616(7) 0.8500(6) 0.4315(4) 0.023(1) 1. 0
+O8 O2- 2 i 0.2621(7) 0.5165(6) 0.4414(5) 0.026(1) 1. 0
+H1 H1+ 2 i 0.552(2) 0.886(1) 0.832(3) 0.03(1) 1. 0
+H2 H1+ 2 i 0.533(2) 0.918(7) 0.453(4) 0.02(1) 0.5 0
+H3 H1+ 2 i 0.172(7) 0.403(6) 0.395(2) 0.09(3) 1. 0
+#End of TTdata_88894-ICSD

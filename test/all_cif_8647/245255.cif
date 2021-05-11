@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245255-ICSD
+_database_code_ICSD 245255
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Sodium trivanadium octaoxide'
+_chemical_formula_structural 'Na1.2 (V3 O8)'
+_chemical_formula_sum 'Na1.2 O8 V3'
+_chemical_name_structure_type Li1+xV3O8
+_exptl_crystal_density_diffrn 3.34
+_publ_section_title
+'Na-Li-[V3 O8] insertion electrodes: structure and diffusion pathways'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2006 179 2616 2628 JSSCBI
+loop_
+_publ_author_name
+'Schindler, M.'
+'Hawthorne, F.C.'
+'Alexander, M.A.'
+'Kutluoglu, R.A.'
+'Mandaliev, P.'
+'Halden, N.M.'
+'Mitchell, R.H.'
+_cell_length_a 7.3316(7)
+_cell_length_b 3.6070(4)
+_cell_length_c 12.139(1)
+_cell_angle_alpha 90
+_cell_angle_beta 107.368(2)
+_cell_angle_gamma 90
+_cell_volume 306.38
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0428
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.93
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 e 0.1792(2) 0.25 0.0409(1) 0.0070(5) 1. 0
+V2 V4+ 2 e 0.6029(2) 0.75 0.4195(1) 0.0086(5) 1. 0
+V3 V4+ 2 e 0.2325(2) 0.25 0.3102(1) 0.0100(5) 1. 0
+O1 O2- 2 e -0.0987(9) 0.25 -0.0391(5) 0.011(1) 1. 0
+O2 O2- 2 e 0.0117(9) 0.25 0.2360(5) 0.017(1) 1. 0
+O3 O2- 2 e 0.3053(8) 0.75 0.3284(5) 0.011(1) 1. 0
+O4 O2- 2 e 0.3382(8) 0.25 0.1757(5) 0.009(1) 1. 0
+O5 O2- 2 e 0.8056(9) 0.75 0.5382(5) 0.013(1) 1. 0
+O6 O2- 2 e 0.5314(9) 0.25 0.4274(5) 0.010(1) 1. 0
+O7 O2- 2 e 0.6880(9) 0.75 0.3111(5) 0.017(1) 1. 0
+O8 O2- 2 e 0.3089(8) 0.25 -0.0457(5) 0.012(1) 1. 0
+Na1 Na1+ 2 e 0.6657(5) 0.25 0.1741(3) 0.0173(9) 1. 0
+Na2 Na1+ 2 e 0.995(2) 0.25 0.558(2) 0.033(8) 0.21 0
+#End of TTdata_245255-ICSD

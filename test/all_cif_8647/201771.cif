@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201771-ICSD
+_database_code_ICSD 201771
+_audit_creation_date 1986-12-03
+_audit_update_record 1998-06-29
+_chemical_name_systematic 'Sodium manganese phosphate'
+_chemical_formula_structural 'Na Mn (P O4)'
+_chemical_formula_sum 'Mn1 Na1 O4 P1'
+_chemical_name_structure_type Olivine-Mg2SiO4
+_chemical_name_mineral Natrophilite
+_exptl_crystal_density_diffrn 3.58
+_publ_section_title 'The crystal structure of Na Mn P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1986 61 379 383 JSSCBI
+loop_
+_publ_author_name
+'Moring, J.'
+'Kostiner, E.'
+_cell_length_a 6.9041(1)
+_cell_length_b 9.0882(1)
+_cell_length_c 5.1134(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 320.84
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P m n b'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z+1/2'
+2 '-x+1/2, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z+1/2'
+6 'x+1/2, -y, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 4 a 0 0 0 . 1. 0
+P1 P5+ 4 c 0.25 0.8228(2) 0.5298(4) . 1. 0
+Na1 Na1+ 4 c 0.75 0.8515(3) 0.5257(7) . 1. 0
+O1 O2- 4 c 0.25 0.8787(7) 0.2436(11) . 1. 0
+O2 O2- 8 d 0.4313(6) 0.8776(4) 0.6697(7) . 1. 0
+O3 O2- 4 c 0.25 0.6509(5) 0.5414(10) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Mn1 Mn2+ 1.08(4) 1.03(4) 1.03(4) -.36(4) 0.38(5) -.45(4)
+P1 P5+ 0.85(7) 0.48(6) 0.41(6) 0 0 0.02(6)
+Na1 Na1+ 1.30(12) 1.20(11) 1.09(13) 0 0 0.17(11)
+O1 O2- 1.35(22) 0.76(18) 0.76(18) 0 0 0.23(15)
+O2 O2- 1.02(14) 1.23(13) 0.88(13) -.26(14) -.17(12) -.29(11)
+O3 O2- 0.93(20) 0.54(17) 1.07(20) 0 0 0.07(16)
+#End of TTdata_201771-ICSD

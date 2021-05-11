@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424557-ICSD
+_database_code_ICSD 424557
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Trisodium hexaborate bromide'
+_chemical_formula_structural 'Na3 (B6 O10) Br'
+_chemical_formula_sum 'B6 Br1 Na3 O10'
+_exptl_crystal_density_diffrn 2.61
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Exploration of a new compound in the M - B - O -X (M: alkali metals; X:
+halogen) system: Preparation, crystal and electronic structures, and optical
+properties of Na3 B6 O10 Br
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganica Chimica Acta' 2013 406 205 210 ICHAA3
+loop_
+_publ_author_name
+'Chen, Zhaohui'
+'Pan, Shilie'
+'Dong, Xiaoyu'
+'Yang, Zhihua'
+'Zhang, Min'
+'Su, Xin'
+_cell_length_a 12.780(8)
+_cell_length_b 9.914(6)
+_cell_length_c 7.518(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 952.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0354
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+O2- -2
+Br1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.5 0.5 0.5 0.0289(5) 1 0
+Na2 Na1+ 4 c 0.20339(19) 0.25 0.1472(3) 0.0375(6) 1 0
+Na3 Na1+ 4 b 0. 0. 0.5 0.0440(7) 1 0
+B1 B3+ 8 d 0.2301(3) 0.0179(3) 0.5118(5) 0.0101(7) 1 0
+B2 B3+ 8 d 0.3370(3) 0.3810(3) 0.7507(4) 0.0083(7) 1 0
+B3 B3+ 4 c 0.1838(4) 0.25 0.6056(7) 0.0110(10) 1 0
+B4 B3+ 4 c 0.0045(4) 0.25 0.7416(6) 0.0114(10) 1 0
+O1 O2- 4 c 0.1111(3) 0.25 0.7508(4) 0.0176(7) 1 0
+O2 O2- 4 c 0.2939(2) 0.25 0.6796(4) 0.0070(6) 1 0
+O3 O2- 8 d 0.31333(17) 0.01077(19) 0.6275(3) 0.0119(5) 1 0
+O4 O2- 8 d 0.20816(17) -0.0979(2) 0.4241(3) 0.0131(5) 1 0
+O5 O2- 8 d 0.17080(17) 0.1309(2) 0.4940(3) 0.0166(5) 1 0
+O6 O2- 8 d 0.45156(16) 0.3701(2) 0.7592(3) 0.0104(5) 1 0
+Br1 Br1- 4 c -0.04401(4) 0.25 0.21193(7) 0.02674(18) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0347(13) 0.0253(11) 0.0268(12) -0.0070(9) 0.0092(10) 0.0031(9)
+Na2 Na1+ 0.0366(14) 0.0195(11) 0.0566(16) 0. 0.0124(11) 0.
+Na3 Na1+ 0.0200(12) 0.0627(17) 0.0492(15) -0.0107(11) 0.0111(11) -0.0419(13)
+B1 B3+ 0.0098(17) 0.0094(16) 0.0109(17) -0.0016(13) 0.0024(13) 0.0001(13)
+B2 B3+ 0.0076(16) 0.0085(15) 0.0088(16) -0.0006(13) -0.0012(12) 0.0001(12)
+B3 B3+ 0.006(2) 0.010(2) 0.017(3) 0. -0.0024(19) 0.
+B4 B3+ 0.009(2) 0.018(3) 0.007(2) 0. 0.0020(18) 0.
+O1 O2- 0.0078(16) 0.0224(18) 0.0224(17) 0. -0.0001(13) 0.
+O2 O2- 0.0033(14) 0.0065(13) 0.0111(15) 0. -0.0003(11) 0.
+O3 O2- 0.0141(12) 0.0078(10) 0.0139(11) 0.0024(8) -0.0057(9) -0.0030(8)
+O4 O2- 0.0178(12) 0.0104(11) 0.0111(11) 0.0005(9) -0.0045(9) -0.0029(9)
+O5 O2- 0.0139(12) 0.0121(11) 0.0237(13) 0.0032(9) -0.0097(10) -0.0062(9)
+O6 O2- 0.0065(10) 0.0091(10) 0.0156(11) -0.0015(8) -0.0014(9) -0.0003(8)
+Br1 Br1- 0.0291(3) 0.0262(3) 0.0248(3) 0. -0.0032(2) 0.
+#End of TTdata_424557-ICSD

@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_242227-ICSD
+_database_code_ICSD 242227
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Cobalt sodium sulfate (0.61/0.79/1)'
+_chemical_formula_structural 'Co1.84 Na2.41 (S O4)3'
+_chemical_formula_sum 'Co1.84 Na2.41 O12 S3'
+_exptl_crystal_density_diffrn 3.2
+_publ_section_title
+
+;
+Na2.32Co1.84(SO4)3 as a new member of the alluaudite family of high-voltage
+sodium battery cathodes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2017 46 55 63 DTARAF
+loop_
+_publ_author_name
+'Dwibedi, Debasmita'
+'Gond, Ritambhara'
+'Dayamani, Allumolu'
+'Araujo, Rafael B.'
+'Chakraborty, Sudip'
+'Ahuja, Rajeev'
+'Barpanda, Prabeer'
+_cell_length_a 12.6097(4)
+_cell_length_b 12.69839(30)
+_cell_length_c 6.48221(17)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.2421(31)
+_cell_angle_gamma 90.
+_cell_volume 938.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0142
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co2+ 2
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.5 0.7375 0.75 0.00794 1. 0
+Na2 Na1+ 4 a 0. 0. 0. 0.02981 0.805 0
+Na3 Na1+ 4 e 0.5 0.9907 0.25 0.00612 0.605 0
+Co1 Co2+ 8 f 0.73061 0.15438 0.14802 0.00828 0.9203 0
+S1 S6+ 4 e 0. 0.78351 0.75 0.02647 1. 0
+O1 O2- 8 f 0.0683 0.84794 0.70505 0.01904 1. 0
+O2 O2- 8 f 0.45952 0.20561 0.54757 0.00937 1. 0
+S2 S6+ 8 f 0.75793 0.59737 0.86891 0.01876 1. 0
+O3 O2- 8 f 0.76608 0.66352 0.69413 0.00275 1. 0
+O4 O2- 8 f 0.33739 0.99175 0.38046 0.00646 1. 0
+O5 O2- 8 f 0.3668 0.58351 0.68667 0.00343 1. 0
+O6 O2- 8 f 0.32429 0.15668 0.06623 0.01761 1. 0
+#End of TTdata_242227-ICSD

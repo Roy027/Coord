@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6293-ICSD
+_database_code_ICSD 6293
+_audit_creation_date 1980-01-01
+_audit_update_record 1999-01-19
+_chemical_name_systematic 'Sodium carbonate hydrate'
+_chemical_formula_structural 'Na2 (C O3) H2 O'
+_chemical_formula_sum 'C1 H2 Na2 O4'
+_chemical_name_structure_type Na2CO3H2O
+_chemical_name_mineral Thermonatrite
+_exptl_crystal_density_diffrn 2.26
+_publ_section_title 'A refinement of the crystal structure of Na2 C O3 H2 O'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Journal of Research of the National Bureau of Standards, Section A: Physics
+and Chemistry
+; 1970 74 319 324 JNBAAR
+loop_
+_publ_author_name
+'Dickens, B.'
+'Mauer, F.A.'
+'Brown, W.E.'
+_cell_length_a 6.474(2)
+_cell_length_b 10.724(3)
+_cell_length_c 5.259(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 365.12
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 a b'
+_symmetry_Int_Tables_number 29
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 'x+1/2, -y+1/2, z'
+3 'x+1/2, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0 0.1938(1) 0.1398(1) . 1. 0
+Na2 Na1+ 4 a 0.0651(2) 0.0020(1) -.3786(2) . 1. 0
+C1 C4+ 4 a -.2151(3) 0.2556(2) 0.6025(3) . 1. 0
+O1 O2- 4 a -.2010(3) 0.1381(1) 0.5457(3) . 1. 0
+O2 O2- 4 a -.2027(3) 0.3369(1) 0.4267(2) . 1. 0
+O3 O2- 4 a -.2398(3) 0.2876(1) -.1639(2) . 1. 0
+O4 O2- 4 a 0.0325(3) -.0296(1) 0.0683(3) . 1. 0
+H1 H1+ 4 a 0.11 -.06 0.15 1.66 1. 0
+H2 H1+ 4 a -.1 -.08 0.12 1.66 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 1.40(3) 1.54(3) 1.36(3) 0.17(3) 0.17(3) 0.08(2)
+Na2 Na1+ 1.44(3) 1.19(3) 1.76(3) 0.31(2) 0.25(3) 0.09(3)
+C1 C4+ 0.45(6) 1.11(6) 1.17(5) -.06(5) -.05(5) -.03(5)
+O1 O2- 1.56(6) 0.72(5) 2.72(7) 0.08(5) -.15(6) -.47(4)
+O2 O2- 1.73(6) 1.27(5) 1.24(5) -.05(5) -.04(5) 0.47(4)
+O3 O2- 1.42(6) 2.14(6) 0.90(4) -.28(5) 0.25(4) -.32(4)
+O4 O2- 1.64(7) 1.43(6) 1.92(6) -.21(5) -.25(5) 0.39(4)
+#End of TTdata_6293-ICSD

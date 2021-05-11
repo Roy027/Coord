@@ -58,7 +58,7 @@ fprintf(' %d \n', idx(1:5));
 fprintf('\nComputing centroids means.\n\n');
 
 %  Compute means based on the closest centroids found in the previous part.
-centroids = computeCentroids(X, idx, K);
+centroids = computeCentroids(X, idx, K, initial_centroids);
 
 fprintf('Centroids computed after initial finding of closest centroids: \n')
 fprintf(' %f %f %f %f %f %f \n' , centroids');
@@ -80,11 +80,11 @@ pause;
 fprintf('\nRunning K-Means clustering on example dataset.\n\n');
 
 % Load an example dataset
-X = csvread('Angles.csv');
-X = X(2:end,:);
+X = csvread('CN4_Angles_all_cat_12000.csv');
+%X = X(2:end,:);
 % Settings for running K-Means
 K = 9;
-max_iters = 200;
+max_iters = 20;
 
 % For consistency, here we set centroids to specific values
 % but in practice you want to generate them automatically, such as by

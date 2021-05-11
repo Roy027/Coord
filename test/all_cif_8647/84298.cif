@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_84298-ICSD
+_database_code_ICSD 84298
+_audit_creation_date 1999-01-19
+_chemical_name_systematic 'Trisodium tetrathiovanadate'
+_chemical_formula_structural 'Na3 (V S4)'
+_chemical_formula_sum 'Na3 S4 V1'
+_exptl_crystal_density_diffrn 2.27
+_publ_section_title
+
+;
+New complex sulfides of the Va-metals: preparation and crystal structure of
+Na3 V S4 (with a note on the crystal structure of the low temperature
+modification of Na3 P O4)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1997 34 1143
+1154 EJSCE5
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Gabl, G.'
+_cell_length_a 13.502(1)
+_cell_length_b 13.502(1)
+_cell_length_c 7.9504(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1449.39
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P -4 21 c'
+_symmetry_Int_Tables_number 114
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 'y, -x, -z'
+3 '-y+1/2, -x+1/2, z+1/2'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+V5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 d 0 0.5 0.5736(3) . 1. 0
+Na2 Na1+ 4 c 0.5 0.5 0.7142(3) . 1. 0
+Na3 Na1+ 8 e 0.7559(1) 0.5449(1) 0.8534(2) . 1. 0
+Na4 Na1+ 8 e 0.7538(1) 0.7997(1) 0.9366(2) . 1. 0
+V1 V5+ 8 e 0.01112(4) 0.73847(4) 0.77960(6) . 1. 0
+S1 S2- 8 e 0.68696(6) 0.50936(8) 0.5137(1) . 1. 0
+S2 S2- 8 e 0.87067(6) 0.68985(7) 0.6781(1) . 1. 0
+S3 S2- 8 e 0.60810(7) 0.88677(7) 0.6818(1) . 1. 0
+S4 S2- 8 e 0.57972(7) 0.66146(7) 0.8964(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 5.2(1) 2.37(9) 2.02(9) -1.33(9) 0 0
+Na2 Na1+ 2.98(9) 2.34(8) 3.9(1) -.6(1) 0 0
+Na3 Na1+ 1.99(6) 1.94(5) 1.78(5) 0.40(5) 0.04(6) 0.00(5)
+Na4 Na1+ 3.07(7) 2.23(6) 2.64(6) 0.06(6) 0.16(6) -.48(6)
+V1 V5+ 1.10(2) 1.08(2) 1.08(2) -.04(2) -.04(2) -.02(2)
+S1 S2- 1.85(13) 2.17(4) 1.38(3) 0.06(3) 0.29(3) -.22(4)
+S2 S2- 1.28(3) 2.35(3) 1.67(3) -.55(3) -.14(3) 0.18(3)
+S3 S2- 1.95(3) 1.46(3) 1.74(3) -.51(3) 0.20(3) 0.05(3)
+S4 S2- 1.76(3) 1.62(3) 1.70(3) 0.53(3) -.20(4) 0.09(3)
+#End of TTdata_84298-ICSD

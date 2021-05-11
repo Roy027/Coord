@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35194-ICSD
+_database_code_ICSD 35194
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Sodium carbonate heptahydrate'
+_chemical_formula_structural 'Na2 C O3 (H2 O)7'
+_chemical_formula_sum 'C1 H14 Na2 O10'
+_exptl_crystal_density_diffrn 1.56
+_publ_section_title 'Sodium Carbonate Heptahydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 2802 2804 ACBCAR
+loop_
+_publ_author_name
+'Betzel, C.'
+'Saenger, W.'
+'Loewus, D.'
+_cell_length_a 14.492(7)
+_cell_length_b 19.490(5)
+_cell_length_c 7.017(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1981.95
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.067
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.5119(1) 0.2361(1) 0.0584(3) . 1. 0
+Na2 Na1+ 8 c 0.4471(1) 0.0577(1) 0.3542(3) . 1. 0
+O1 O2- 8 c 0.4944(2) 0.1153(1) 0.0531(5) . 1. 0
+O2 O2- 8 c 0.6250(2) 0.2542(2) -.1885(5) . 1. 0
+O3 O2- 8 c 0.3959(2) 0.2534(2) 0.3006(5) . 1. 0
+O4 O2- 8 c 0.3132(2) 0.1282(2) 0.3731(5) . 1. 0
+O5 O2- 8 c -.0986(2) -.0044(2) 0.8700(5) . 1. 0
+O6 O2- 8 c 0.0220(2) 0.1379(2) 0.9275(5) . 1. 0
+O7 O2- 8 c -.1222(2) -.0287(2) 1.3668(5) . 1. 0
+C1 C4+ 8 c 0.7574(3) 0.1143(2) 0.6033(7) . 1. 0
+O8 O2- 8 c 0.7039(2) 0.1214(2) -.5433(5) . 1. 0
+O9 O2- 8 c 0.8304(2) 0.0765(2) 0.5905(5) . 1. 0
+O10 O2- 8 c -.2392(2) -.1436(2) 1.2591(5) . 1. 0
+H1 H1+ 8 c 0.540(4) 0.075(3) -.009(8) 16. 1. 0
+H2 H1+ 8 c 0.427(4) 0.096(3) 0.012(8) 8. 1. 0
+H3 H1+ 8 c 0.139(4) 0.204(3) 0.148(8) 10. 1. 0
+H4 H1+ 8 c 0.672(4) 0.212(3) -.241(8) 17. 1. 0
+H5 H1+ 8 c 0.366(4) 0.203(3) 0.339(8) 6. 1. 0
+H6 H1+ 8 c 0.149(4) -.209(3) 0.314(8) 12. 1. 0
+H7 H1+ 8 c 0.269(4) 0.116(3) 0.271(9) 5. 1. 0
+H8 H1+ 8 c 0.291(4) 0.128(3) 0.484(9) 11. 1. 0
+H9 H1+ 8 c 0.147(4) 0.048(3) 0.134(8) 16. 1. 0
+H10 H1+ 8 c 0.108(5) -.033(4) 0.201(8) 14. 1. 0
+H11 H1+ 8 c 0.509(4) 0.177(3) 0.612(9) 12. 1. 0
+H12 H1+ 8 c 0.079(4) 0.134(4) 0.918(8) 18. 1. 0
+H13 H1+ 8 c 0.167(4) 0.071(3) 0.673(8) 6. 1. 0
+H14 H1+ 8 c -.142(4) 0.000(3) 1.444(8) 9. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0035(1) 0.0019(1) 0.0197(5) -.0001(1) -.0001(2) -.0001(1)
+Na2 Na1+ 0.0037(1) 0.0018(6) 0.0202(7) 0.0001(1) 0.0001(2) 0.0002(1)
+O1 O2- 0.0039(2) 0.0020(1) 0.0301(1) 0.0000(1) -.0005(4) 0.0003(3)
+O2 O2- 0.0040(2) 0.0025(1) 0.0204(9) -.0001(1) -.0002(4) -.0004(3)
+O3 O2- 0.0036(2) 0.0025(1) 0.0227(10) 0.0001(1) 0.0004(4) -.0001(3)
+O4 O2- 0.0038(2) 0.0024(1) 0.0222(9) 0.0000(1) 0.0002(4) 0.0001(3)
+O5 O2- 0.0035(2) 0.0020(1) 0.0210(9) 0.0001(1) -.0006(3) -.0002(3)
+O6 O2- 0.0041(2) 0.0019(1) 0.0249(10) 0.0000(1) 0.0007(4) 0.0003(3)
+O7 O2- 0.0042(2) 0.0024(1) 0.0218(9) -.0001(1) 0.0001(4) -.0003(3)
+C1 C4+ 0.0028(3) 0.0017(1) 0.0239(15) -.0002(2) 0.0003(6) 0.0008(4)
+O8 O2- 0.0035(2) 0.0022(1) 0.0196(9) 0.0001(1) -.0005(4) 0.0001(3)
+O9 O2- 0.0043(2) 0.0025(1) 0.0209(10) 0.0006(1) 0.0002(4) 0.0003(3)
+O10 O2- 0.0051(2) 0.0028(1) 0.0157(8) 0.0005(1) 0.0004(4) 0.0007(3)
+#End of TTdata_35194-ICSD

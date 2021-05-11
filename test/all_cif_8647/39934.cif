@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_39934-ICSD
+_database_code_ICSD 39934
+_audit_creation_date 1996-10-14
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium magnesium titanium oxide (20/2/20/52)'
+_chemical_formula_structural 'Na20 Mg2 Ti20 O52'
+_chemical_formula_sum 'Mg2 Na20 O52 Ti20'
+_exptl_crystal_density_diffrn 3.63
+_publ_section_title
+
+;
+Composition and structure of solid electrolyte: sodium-magnesium-titanium
+ternary oxide.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1995 40 824 828 KRISAJ
+loop_
+_publ_author_name
+'Shilov, G.V.'
+'Atovmyan, L.O.'
+_cell_length_a 37.586(10)
+_cell_length_b 9.451(3)
+_cell_length_c 2.969(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 86.29
+_cell_volume 1052.45
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'B 1 1 2/m'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z'
+2 '-x, -y, -z'
+3 'x, y, -z'
+4 'x, y, z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x+1/2, -y, -z+1/2'
+7 'x+1/2, y, -z+1/2'
+8 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+Mg2+ 2
+Ti4+ 4
+Mg2+ 2
+Ti4+ 4
+Mg2+ 2
+Ti4+ 4
+Mg2+ 2
+Ti4+ 4
+Mg2+ 2
+Ti4+ 4
+Mg2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 2 a 0 0 0 0.008 0.909 0
+Mg1 Mg2+ 2 a 0 0 0 0.008 0.091 0
+Ti2 Ti4+ 4 i -.0656(1) -.1311(4) 0.5 0.005 0.909 0
+Mg2 Mg2+ 4 i -.0656(1) -.1311(4) 0.5 0.005 0.091 0
+Ti3 Ti4+ 4 i -.0764(1) 0.5321(4) 0 0.01 0.909 0
+Mg3 Mg2+ 4 i -.0764(1) 0.5321(4) 0 0.01 0.091 0
+Ti4 Ti4+ 4 i -.2186(1) 0.5611(5) 0 0.01 0.909 0
+Mg4 Mg2+ 4 i -.2186(1) 0.5611(5) 0 0.01 0.091 0
+Ti5 Ti4+ 4 i -.2203(1) -.0896(4) 0.5 0.007 0.909 0
+Mg5 Mg2+ 4 i -.2203(1) -.0896(4) 0.5 0.007 0.091 0
+Ti6 Ti4+ 4 i -.1394(1) 0.3977(4) 0.5 0.005 0.909 0
+Mg6 Mg2+ 4 i -.1394(1) 0.3977(4) 0.5 0.005 0.091 0
+Na1 Na1+ 4 i -.2056(3) 0.233(1) 0 0.012 1. 0
+Na2 Na1+ 4 i -.1443(3) 0.742(1) 0 0.012 1. 0
+Na3 Na1+ 4 i -.0638(4) 0.207(2) 0.5 0.011 0.52 0
+Na4 Na1+ 4 i -.1361(3) 0.062(1) 0 0.022 1. 0
+Na5 Na1+ 4 i -.0017(5) -.357(2) 0 0.065 0.74 0
+Na6 Na1+ 4 i 0.047(2) -.253(5) 0 0.11 0.48 0
+Na7 Na1+ 2 c 0 0.5 0.5 0.1 0.28 0
+Na8 Na1+ 2 d 0 -.5 0 0.06 0.24 0
+O1 O2- 4 i -.0458(4) 0.468(2) 0.5 0.011 1. 0
+O2 O2- 4 i -.2136(4) 0.695(2) 0.5 0.01 1. 0
+O3 O2- 4 i -.1896(4) 0.934(2) 0 0.007 1. 0
+O4 O2- 4 i -.1025(4) 0.360(2) 0 0.007 1. 0
+O5 O2- 4 i 0.0011(4) 0.135(2) 0.5 0.007 1. 0
+O6 O2- 4 i -.2276(4) 0.424(2) 0.5 0.009 1. 0
+O7 O2- 4 i -.2418(4) 0.108(2) 0.5 0.008 1. 0
+O8 O2- 4 i -.0530(4) 0.004(2) 0 0.007 1. 0
+O9 O2- 4 i -.1673(4) 0.489(2) 0 0.008 1. 0
+O10 O2- 4 i -.1096(4) 0.588(2) 0.5 0.007 1. 0
+O11 O2- 4 i -.0593(4) -.272(2) 0 0.007 1. 0
+O12 O2- 4 i -.1554(4) 0.232(2) 0.5 0.005 1. 0
+O13 O2- 4 i -.1102(4) -.095(2) 0.5 0.013 1. 0
+#End of TTdata_39934-ICSD

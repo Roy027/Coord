@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_100357-ICSD
+_database_code_ICSD 100357
+_audit_creation_date 1981-12-31
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Sodium iron sulfide (3/2/4)'
+_chemical_formula_structural 'Na3 (Fe2 S4)'
+_chemical_formula_sum 'Fe2 Na3 S4'
+_chemical_name_structure_type Na3Fe2S4
+_exptl_crystal_density_diffrn 2.71
+_publ_section_title
+'Na3 Fe2 S4: ein Thioferrat mit gemischt valenter (Fe S2)-Kette'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Monatshefte fuer Chemie' 1981 112 83 89 MOCMB7
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Boller, H.'
+_cell_length_a 6.6333(5)
+_cell_length_b 10.675(1)
+_cell_length_c 10.677(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 756.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe2+ 2.5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.0813(4) 0.25 0.7674(3) . 1. 0
+Na2 Na1+ 8 d 0.0426(3) 0.4148(2) 0.1428(2) . 1. 0
+Fe1 Fe2+ 8 d 0.0469(1) 0.3786(1) 0.4686(1) . 1. 0
+S1 S2- 8 d 0.1708(2) 0.5545(1) 0.3731(1) . 1. 0
+S2 S2- 4 c 0.3001(2) 0.25 0.5396(1) . 1. 0
+S3 S2- 4 c 0.3731(2) 0.25 0.1639(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0224(14) 0.0307(15) 0.0181(14) 0 0.0030(12) 0
+Na2 Na1+ 0.0303(11) 0.0356(12) 0.0282(11) 0.0088(10) -.0017(10) 0.0022(10)
+Fe1 Fe2+ 0.0150(3) 0.0136(3) 0.0128(3) -.0004(3) -.0006(2) 0.0001(2)
+S1 S2- 0.0226(5) 0.0157(5) 0.0194(5) -.0003(5) 0.0076(5) 0.0016(5)
+S2 S2- 0.0148(7) 0.0219(8) 0.0133(7) 0 -.0022(6) 0
+S3 S2- 0.0171(8) 0.0176(8) 0.0150(7) 0 -.0041(6) 0
+#End of TTdata_100357-ICSD

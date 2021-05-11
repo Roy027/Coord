@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6212-ICSD
+_database_code_ICSD 6212
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Heptasodium 4.5-magnesium diphosphate'
+_chemical_formula_structural 'Na7 Mg4.5 (P2 O7)4'
+_chemical_formula_sum 'Mg4.5 Na7 O28 P8'
+_exptl_crystal_density_diffrn 2.84
+_publ_section_title 'The crystal structure of Na7 Mg4.5 (P2 O7)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1974 10 12 19 JSSCBI
+loop_
+_publ_author_name
+'Hanic, F.'
+'Zak, Z.'
+_cell_length_a 10.882(1)
+_cell_length_b 9.734(1)
+_cell_length_c 6.372(1)
+_cell_angle_alpha 112.49(1)
+_cell_angle_beta 99.63(1)
+_cell_angle_gamma 107.40(1)
+_cell_volume 563.9
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.071
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Mg2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 2 i 0.4535(2) 0.6567(1) 0.7333(3) . 1. 0
+P2 P5+ 2 i 0.6835(1) 0.6392(2) 0.0180(3) . 1. 0
+P3 P5+ 2 i 0.2168(1) 0.8947(2) 0.3247(3) . 1. 0
+P4 P5+ 2 i 0.9626(1) 0.2704(2) 0.4783(3) . 1. 0
+Mg1 Mg2+ 2 i 0.2155(2) 0.6086(2) 0.8370(3) . 1. 0
+Mg2 Mg2+ 2 i 0.2638(2) 0.2624(2) 0.4054(3) . 1. 0
+Mg3 Mg2+ 1 a 0 0 0 . 0.5 0
+Na1 Na1+ 2 i 0.5239(2) 0.2100(3) 0.6806(5) . 1. 0
+Na2 Na1+ 2 i 0.8841(5) 0.5359(5) 0.8140(9) . 1. 0
+Na3 Na1+ 2 i 0.6608(3) 0.0161(3) 0.0931(6) . 1. 0
+Na4 Na1+ 2 i 0.9579(7) 0.9404(7) 0.2230(22) . 0.5 0
+O1 O2- 2 i 0.5392(4) 0.7231(5) 0.6086(8) . 1. 0
+O2 O2- 2 i 0.4315(4) 0.7855(4) 0.9338(8) . 1. 0
+O3 O2- 2 i 0.3148(3) 0.5192(4) 0.5761(7) . 1. 0
+O4 O2- 2 i 0.6931(5) 0.7362(8) 0.2731(8) . 1. 0
+O5 O2- 2 i 0.7039(4) 0.4853(5) 0.9679(8) . 1. 0
+O6 O2- 2 i 0.5313(4) 0.5781(5) 0.8547(8) . 1. 0
+O7 O2- 2 i 0.7744(4) 0.7426(5) 0.9295(8) . 1. 0
+O8 O2- 2 i 0.1741(6) 0.7287(6) 0.1268(10) . 1. 0
+O9 O2- 2 i 0.2013(4) 0.0124(4) 0.2348(8) . 1. 0
+O10 O2- 2 i 0.3508(5) 0.9543(7) 0.5072(22) . 1. 0
+O11 O2- 2 i 0.0365(4) 0.4252(5) 0.7067(8) . 1. 0
+O12 O2- 2 i 0.8999(4) 0.1252(5) 0.5438(8) . 1. 0
+O13 O2- 2 i 0.8414(4) 0.2712(5) 0.3292(9) . 1. 0
+O14 O2- 2 i 0.0569(4) 0.2226(5) 0.3465(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+P1 P5+ 0.0006(1) 0.0006(2) 0.0036(5) -.0003(1) -.0021(1) -.0012(2)
+P2 P5+ 0.0008(1) 0.0014(2) 0.0031(5) 0.0002(1) -.0017(2) -.0018(2)
+P3 P5+ 0.0010(1) 0.0024(2) 0.0093(5) 0.0008(1) -.0004(2) 0.0010(3)
+P4 P5+ 0.0004(1) 0.0008(2) 0.0056(5) 0.0001(1) -.0013(2) -.0013(2)
+Mg1 Mg2+ 0.0004(2) 0.0009(2) 0.0063(7) 0.0004(2) -.0013(3) -.0016(3)
+Mg2 Mg2+ 0.0007(2) 0.0012(2) 0.0025(6) 0.0001(2) -.0012(3) -.0017(3)
+Mg3 Mg2+ 0.0113(2) 0.0266(25) 0.0515(51) 0.0152(16) -.0235(22) -.0317(31)
+Na1 Na1+ 0.0028(2) 0.0041(3) 0.0079(9) 0.0006(2) -.0025(3) 0.0009(4)
+Na2 Na1+ 0.0152(6) 0.0206(8) 0.0621(22) 0.0161(6) 0.0252(10) 0.0257(11)
+Na3 Na1+ 0.0049(3) 0.0043(4) 0.0247(12) -.0016(3) -.0040(5) 0.0022(5)
+Na4 Na1+ 0.0055(7) 0.0038(8) 0.1090(65) 0.0016(6) -.0211(18) -.0107(17)
+O1 O2- 0.0010(3) 0.0047(6) 0.0106(16) 0.0007(4) -.0010(6) 0.0012(7)
+O2 O2- 0.0019(4) 0.0011(5) 0.0073(15) 0.0002(4) -.0015(6) -.0023(6)
+O3 O2- 0.0007(3) 0.0010(5) 0.0091(15) -.0007(3) -.0017(5) -.0007(6)
+O4 O2- 0.0066(5) 0.0045(6) 0.0040(16) 0.0014(5) 0.0001(7) -.0011(7)
+O5 O2- 0.0043(4) 0.0047(6) 0.0097(16) 0.0040(4) 0.0024(6) 0.0018(8)
+O6 O2- 0.0007(3) 0.0028(5) 0.0123(16) 0.0004(4) -.0011(5) 0.0016(7)
+O7 O2- 0.0008(3) 0.0046(6) 0.0065(15) -.0005(4) -.0021(5) 0.0009(7)
+O8 O2- 0.0132(8) 0.0036(6) 0.0220(21) 0.0061(6) 0.0122(11) 0.0045(9)
+O9 O2- 0.0026(4) 0.0013(5) 0.0059(14) 0.0001(4) -.0011(6) -.0014(6)
+O10 O2- 0.0014(4) 0.0145(10) 0.0329(25) 0.0008(5) -.0025(8) 0.0152(13)
+O11 O2- 0.0016(4) 0.0016(5) 0.0130(16) -.0007(4) -.0006(3) -.0030(7)
+O12 O2- 0.0026(4) 0.0026(5) 0.0088(15) 0.0012(4) 0.0005(6) 0.0006(7)
+O13 O2- 0.0009(3) 0.0041(6) 0.0201(18) 0.0008(4) -.0018(6) 0.0053(8)
+O14 O2- 0.0012(4) 0.0036(5) 0.0112(16) 0.0006(4) 0.0003(4) -.0012(7)
+#End of TTdata_6212-ICSD

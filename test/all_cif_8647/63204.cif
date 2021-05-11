@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_63204-ICSD
+_database_code_ICSD 63204
+_audit_creation_date 1989-12-04
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium catena-tritantalate'
+_chemical_formula_structural 'Na Ta3 O8'
+_chemical_formula_sum 'Na1 O8 Ta3'
+_chemical_name_structure_type NaNb3O8
+_exptl_crystal_density_diffrn 8.69
+_cell_measurement_temperature 297.
+_publ_section_title
+
+;
+Extrem kurze nichtbindende Sauerstoff-Sauerstoff-Abstaende: Die
+Kristallstrukturen von Nb B O4, Na Nb3 O8 und Na Ta3 O8.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie' 1988 100 973 975 ANCEAD
+loop_
+_publ_author_name
+'Range, K.J.'
+'Wildenauer, M.'
+'Heyns, A.M.'
+_cell_length_a 7.242(2)
+_cell_length_b 10.462(3)
+_cell_length_c 7.001(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 530.44
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b a m'
+_symmetry_Int_Tables_number 72
+_refine_ls_R_factor_all 0.042
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, z+1/2'
+2 'x, -y, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, z'
+10 'x+1/2, -y+1/2, z'
+11 'x+1/2, y+1/2, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, -y+1/2, -z'
+14 '-x+1/2, y+1/2, -z'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 4 b 0 0.5 0.75 . 1. 0
+Ta2 Ta5+ 8 j 0.2385(1) 0.2642 0 . 1. 0
+Na1 Na1+ 4 a 0 0 0.25 . 1. 0
+O1 O2- 8 j 0.9902(13) 0.1742(7) 0 . 1. 0
+O2 O2- 8 j 0.1183(10) 0.4322(7) 0 . 1. 0
+O3 O2- 16 k 0.1926(8) 0.3570(5) 0.2971(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.0027(2) 0.0020(2) 0.0017(2) 0 0 0
+Ta2 Ta5+ 0.0024(1) 0.0029(1) 0.0029(1) 0 0 0.0007(2)
+Na1 Na1+ 0.0536(66) 0.0242(51) 0.0385(57) 0 0 0
+O1 O2- 0.0020(27) 0.0072(31) 0.0134(33) 0 0 -.0006(27)
+O2 O2- 0.0010(26) 0.0054(29) 0.0064(31) 0 0 -.0014(23)
+O3 O2- 0.0069(21) 0.0056(20) 0.0058(21) 0.0007(18) 0.0011(19) 0.0020(18)
+#End of TTdata_63204-ICSD

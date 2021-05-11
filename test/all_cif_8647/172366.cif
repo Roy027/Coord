@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_172366-ICSD
+_database_code_ICSD 172366
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Octasodium tecto-triberyllononasilicate dichloride'
+_chemical_formula_structural 'Na8 (Be3 Si9 O24) Cl2'
+_chemical_formula_sum 'Be3 Cl2 Na8 O24 Si9'
+_chemical_name_structure_type Zn4B6O13
+_chemical_name_mineral Tugtupite
+_exptl_crystal_density_diffrn 2.29
+_cell_measurement_temperature 873.
+_publ_section_title
+
+;
+New sodalite frameworks; synthetic tugtupite and a beryllosilicate framework
+with a 3:1 Si:Be ratio
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2006 2006 2998 3005 DTARAF
+loop_
+_publ_author_name
+'Armstrong, J.A.'
+'Weller, M.T.'
+_cell_length_a 8.7306(6)
+_cell_length_b 8.7306(6)
+_cell_length_c 8.7306(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 665.48
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'I -4 3 m'
+_symmetry_Int_Tables_number 217
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, -y, x'
+2 '-y, -x, z'
+3 '-x, -z, y'
+4 '-z, -x, y'
+5 '-y, -z, x'
+6 '-x, -y, z'
+7 '-z, y, -x'
+8 '-y, x, -z'
+9 '-x, z, -y'
+10 '-z, x, -y'
+11 '-y, z, -x'
+12 '-x, y, -z'
+13 'z, -y, -x'
+14 'y, -x, -z'
+15 'x, -z, -y'
+16 'z, -x, -y'
+17 'y, -z, -x'
+18 'x, -y, -z'
+19 'z, y, x'
+20 'y, x, z'
+21 'x, z, y'
+22 'z, x, y'
+23 'y, z, x'
+24 'x, y, z'
+25 '-z+1/2, -y+1/2, x+1/2'
+26 '-y+1/2, -x+1/2, z+1/2'
+27 '-x+1/2, -z+1/2, y+1/2'
+28 '-z+1/2, -x+1/2, y+1/2'
+29 '-y+1/2, -z+1/2, x+1/2'
+30 '-x+1/2, -y+1/2, z+1/2'
+31 '-z+1/2, y+1/2, -x+1/2'
+32 '-y+1/2, x+1/2, -z+1/2'
+33 '-x+1/2, z+1/2, -y+1/2'
+34 '-z+1/2, x+1/2, -y+1/2'
+35 '-y+1/2, z+1/2, -x+1/2'
+36 '-x+1/2, y+1/2, -z+1/2'
+37 'z+1/2, -y+1/2, -x+1/2'
+38 'y+1/2, -x+1/2, -z+1/2'
+39 'x+1/2, -z+1/2, -y+1/2'
+40 'z+1/2, -x+1/2, -y+1/2'
+41 'y+1/2, -z+1/2, -x+1/2'
+42 'x+1/2, -y+1/2, -z+1/2'
+43 'z+1/2, y+1/2, x+1/2'
+44 'y+1/2, x+1/2, z+1/2'
+45 'x+1/2, z+1/2, y+1/2'
+46 'z+1/2, x+1/2, y+1/2'
+47 'y+1/2, z+1/2, x+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Be2+ 2
+Si4+ 4
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.1733(12) 0.1733(12) 0.1733(12) 5.3(5) 1 0
+Be1 Be2+ 12 d 0.25 0.5 0 6.2(5) .25 0
+Si1 Si4+ 12 d 0.25 0.5 0 6.2(5) .75 0
+O1 O2- 24 g 0.3551(9) 0.3551(9) 0.0455(10) 5.2(6) 1. 0
+Cl1 Cl1- 2 a 0 0 0 12.6(11) 1. 0
+#End of TTdata_172366-ICSD

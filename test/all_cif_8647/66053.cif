@@ -1,0 +1,129 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66053-ICSD
+_database_code_ICSD 66053
+_audit_creation_date 1991-07-10
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Tetrasodium tetracalcium cyclo-hexasilicate'
+_chemical_formula_structural 'Na4 Ca4 (Si6 O18)'
+_chemical_formula_sum 'Ca4 Na4 O18 Si6'
+_chemical_name_structure_type Combeite(HT)
+_exptl_crystal_density_diffrn 2.76
+_cell_measurement_temperature 888.
+_publ_section_title
+'Structural study of the phase transition of Na4 Ca4 (Si6 O18)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1990 46 125 131
+ASBSDK
+loop_
+_publ_author_name
+'Ohsato, H.'
+'Takeuchi, Y.'
+'Maki, I.'
+_cell_length_a 10.574(1)
+_cell_length_b 10.574(1)
+_cell_length_c 13.209(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1279.03
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.0509
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 18 g 0.2476(5) 0 0.5 . 1. 0
+O2 O2- 18 h 0.1186(3) 0.2372(6) 0.6729(3) . 1. 0
+O3 O2- 18 h 0.2371(3) 0.4742(6) 0.5500(3) . 1. 0
+Si1 Si4+ 18 h 0.1506(1) 0.3012(2) 0.5623(1) . 1. 0
+Na1 Na1+ 6 c 0 0 0.2569(2) . 0.57(1) 0
+Ca1 Ca2+ 6 c 0 0 0.2569(2) . 0.43(1) 0
+Na2 Na1+ 9 e 0.5 0 0 . 0.67(1) 0
+Na3 Na1+ 9 d 0.5 0 0.5 . 0.29(1) 0
+Ca2 Ca2+ 9 d 0.5 0 0.5 . 0.71(1) 0
+Ca3 Ca2+ 3 a 0 0 0 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.01771(69) 0.00703(49) 0.00651(29) 0.00352(24) 0.00181(16) 0.00362(32)
+O2 O2- 0.01742(61) 0.01742(61) 0.00217(16) 0.01186(68) 0.00056(14) -.00056(17)
+O3 O2- 0.01461(56) 0.01461(56) 0.00452(23) 0.01198(61) -.00013(13) 0.00013(16)
+Si1 Si4+ 0.00451(9) 0.00451(9) 0.00211(5) 0.00186(10) -.00013(3) 0.00013(7)
+Na1 Na1+ 0.01013(24) 0.01013(24) 0.00467(17) 0.00507(12) 0 0
+Ca1 Ca2+ 0.01013(24) 0.01013(24) 0.00467(17) 0.00507(12) 0 0
+Na2 Na1+ 0.01498(66) 0.0220(13) 0.00533(33) 0.01098(66) 0.00235(28) 0.00470(56)
+Na3 Na1+ 0.0102(11) 0.01591(36) 0.00348(54) 0.00795(18) -.00123(7) -.00246(15)
+Ca2 Ca2+ 0.0102(11) 0.01591(36) 0.00348(54) 0.00795(18) -.00123(7) -.00246(15)
+Ca3 Ca2+ 0.00689(16) 0.00689(16) 0.00215(10) 0.00344(8) 0 0
+#End of TTdata_66053-ICSD

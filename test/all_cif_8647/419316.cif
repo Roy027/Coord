@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419316-ICSD
+_database_code_ICSD 419316
+_audit_creation_date 2009-08-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Disodium hexaaquacobalt bis(sulfate)'
+_chemical_formula_structural 'Na2 (Co (H2 O)6) (S O4)2'
+_chemical_formula_sum 'H12 Co1 Na2 O14 S2'
+_chemical_name_structure_type 'Picromerite-(NH4)2Mg(SO4)2(H2O)6(e9 a)'
+_exptl_crystal_density_diffrn 2.01
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Crystal structure and properties of a new Tutton Salt Na2 [Co (H2 O)6] (S O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chinese Journal of Chemistry' 2009 25 447 453 CJOCEV
+loop_
+_publ_author_name
+'Lu Yaokang'
+'Feng Yunlong'
+_cell_length_a 6.18520(10)
+_cell_length_b 12.3337(3)
+_cell_length_c 9.1371(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.7750(10)
+_cell_angle_gamma 90.
+_cell_volume 670.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0322
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+S6+ 6
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 2 c 0. 0.5 0. 0.0189(2) 1 0
+S1 S6+ 4 e 0.73077(11) 0.36382(6) 0.40940(7) 0.0225(2) 1 0
+O1 O2- 4 e -0.3004(3) 0.43147(16) 0.0024(2) 0.0262(4) 1 0
+H1 H1+ 4 e -0.328(6) 0.442(3) 0.086(3) 0.039 1 0
+H2 H1+ 4 e -0.343(6) 0.3688(19) -0.024(4) 0.039 1 0
+O2 O2- 4 e 0.1652(3) 0.38949(18) 0.1701(2) 0.0286(5) 1 0
+H3 H1+ 4 e 0.297(4) 0.410(3) 0.219(4) 0.043 1 0
+H4 H1+ 4 e 0.112(5) 0.372(3) 0.240(3) 0.043 1 0
+O3 O2- 4 e -0.0330(3) 0.61299(17) 0.1673(2) 0.0275(5) 1 0
+H5 H1+ 4 e 0.052(5) 0.612(3) 0.259(2) 0.041 1 0
+H6 H1+ 4 e 0.008(6) 0.674(2) 0.137(4) 0.041 1 0
+O4 O2- 4 e 0.9462(3) 0.32492(18) 0.3895(2) 0.0330(5) 1 0
+O5 O2- 4 e 0.6193(3) 0.43531(16) 0.2822(2) 0.0277(5) 1 0
+O6 O2- 4 e 0.5808(4) 0.27135(19) 0.4102(3) 0.0394(6) 1 0
+O7 O2- 4 e 0.7664(4) 0.4243(2) 0.5513(2) 0.0484(7) 1 0
+Na1 Na1+ 4 e 0.65587(17) 0.65139(9) 0.36811(11) 0.0209(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0197(3) 0.0193(4) 0.0175(3) -0.00060(17) 0.0047(2) 0.00116(15)
+S1 S6+ 0.0238(4) 0.0226(4) 0.0200(4) 0.0030(2) 0.0041(3) 0.0035(2)
+O1 O2- 0.0257(10) 0.0244(11) 0.0311(10) -0.0039(8) 0.0125(8) -0.0026(8)
+O2 O2- 0.0252(10) 0.0328(12) 0.0262(9) -0.0003(8) 0.0046(7) 0.0089(8)
+O3 O2- 0.0339(11) 0.0252(11) 0.0231(9) -0.0010(9) 0.0073(8) -0.0024(8)
+O4 O2- 0.0245(10) 0.0303(12) 0.0447(12) 0.0055(9) 0.0106(8) 0.0044(9)
+O5 O2- 0.0311(11) 0.0293(12) 0.0223(9) 0.0052(8) 0.0068(7) 0.0081(8)
+O6 O2- 0.0324(12) 0.0291(13) 0.0569(14) -0.0006(9) 0.0126(10) 0.0155(10)
+O7 O2- 0.0579(16) 0.0598(18) 0.0222(10) 0.0133(13) 0.0019(9) -0.0068(10)
+Na1 Na1+ 0.0201(5) 0.0217(6) 0.0232(5) 0.0001(4) 0.0100(4) -0.0022(4)
+#End of TTdata_419316-ICSD

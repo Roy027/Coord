@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_7228-ICSD
+_database_code_ICSD 7228
+_audit_creation_date 2019-08-01
+_chemical_name_systematic 'Copper sodium tin oxide (1/0.33/0.66/2)'
+_chemical_formula_structural 'Cu (Na0.33 Sn0.66) O2'
+_chemical_formula_sum 'Cu1 Na0.33 O2 Sn0.66'
+_exptl_crystal_density_diffrn 5.73
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Crystal chemistry and phonon heat capacity in quaternary honeycomb
+delafossites: Cu[Li1/3Sn2/3]O2 and Cu[Na1/3Sn2/3]O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 12709 12717 INOCAJ
+loop_
+_publ_author_name
+'Abramchuk, Mykola'
+'Lebedev, Oleg I.'
+'Hellman, Olle'
+'Bahrami, Faranak'
+'Mordvinova, Natalia E.'
+'Krizan, Jason W.'
+'Metz, Kenneth R.'
+'Broido, David'
+'Tafti, Fazel'
+_cell_length_a 5.59383(19)
+_cell_length_b 9.6640(4)
+_cell_length_c 11.8182(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.156(2)
+_cell_angle_gamma 90.
+_cell_volume 630.73
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Sn4+ 4
+Na1+ 1
+Sn4+ 4
+Na1+ 1
+Cu1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 f 0.94993 0.75 0.09087 0.01267 1. 0
+O2 O2- 8 f 0.9406 0.42078 0.07809 0.01267 1. 0
+O3 O2- 8 f 0.93269 0.0848 0.09165 0.01267 1. 0
+Sn1 Sn4+ 8 f 0.25 0.0762(2) 0. 0.00939 0.854(2) 0
+Na1 Na1+ 8 f 0.25 0.0762(2) 0. 0.01075 0.146(2) 0
+Sn2 Sn4+ 4 d 0.75 0.25 0. 0.0101 0.291(4) 0
+Na2 Na1+ 4 d 0.75 0.25 0. 0.01139 0.709(5) 0
+Cu1 Cu1+ 4 e 0. 0.75 0.25 0.01084 1. 0
+Cu2 Cu1+ 4 e 0. 0.4704(6) 0.25 0.01084 1. 0
+Cu3 Cu1+ 4 e 0. 0.0779(8) 0.25 0.01084 1. 0
+#End of TTdata_7228-ICSD

@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_33236-ICSD
+_database_code_ICSD 33236
+_audit_creation_date 1983-12-31
+_audit_update_record 1999-11-30
+_chemical_name_systematic 'Sodium tetrathiozincate'
+_chemical_formula_structural 'Na6 (Zn S4)'
+_chemical_formula_sum 'Na6 S4 Zn1'
+_chemical_name_structure_type K6HgS4
+_exptl_crystal_density_diffrn 2.32
+_publ_section_title 'Na2 Zn S2 und Na6 Zn S4, zwei neue Thiozinkate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1983 20 682 688 RVCMA8
+loop_
+_publ_author_name
+'Klepp, K.O.'
+'Bronger, W.'
+_cell_length_a 8.924(3)
+_cell_length_b 8.924(3)
+_cell_length_c 6.889(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 475.12
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63 m c'
+_symmetry_Int_Tables_number 186
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 'x-y, x, z+1/2'
+5 'y, -x+y, z+1/2'
+6 '-x, -y, z+1/2'
+7 'x, x-y, z'
+8 '-x+y, y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 c 0.1480(6) -.1480(6) 0.539(1) . 1. 0
+Na2 Na1+ 6 c 0.5316(5) -.5316(5) 0.366(1) . 1. 0
+Zn1 Zn2+ 2 b 0.3333 0.6667 0.25 . 1. 0
+S1 S2- 2 b 0.3333 0.6667 0.587(1) . 1. 0
+S2 S2- 6 c 0.1879(3) -.1879(3) 0.1425(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.014(2) 0.014(2) 0.018(5) 0.0005(10) -.001(1) 0
+Na2 Na1+ 0.026(2) 0.026(2) 0.007(3) 0.008(1) -.001(1) 0
+Zn1 Zn2+ 0.010(1) 0.010(1) 0.012(2) 0.005 0 0
+S1 S2- 0.009(3) 0.009(3) 0.007(3) 0.0045 0 0
+S2 S2- 0.013(1) 0.013(1) 0.012(2) 0.005(1) -.002(1) 0
+#End of TTdata_33236-ICSD

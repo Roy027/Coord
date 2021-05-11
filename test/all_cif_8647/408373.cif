@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_408373-ICSD
+_database_code_ICSD 408373
+_audit_creation_date 1999-06-02
+_audit_update_record 2015-08-01
+_chemical_name_systematic 'Disodium calcium magnesium bis(phosphate(V)) - alpha'
+_chemical_formula_structural 'Na2 Ca Mg (P O4)2'
+_chemical_formula_sum 'Ca1 Mg1 Na2 O8 P2'
+_chemical_name_structure_type Na2MgSr(PO4)2
+_chemical_name_mineral Brianite
+_exptl_crystal_density_diffrn 3.15
+_publ_section_title
+
+;
+The crystal structures of Na Mg P O4, Na2 Ca Mg (P O4)2 and Na18 Ca13 Mg5 (P
+O4)18: new examples for glaserite related structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1998 213 282 287 ZEKRDZ
+loop_
+_publ_author_name
+'Alkemper, J.'
+'Fuess, H.'
+_cell_length_a 9.120(3)
+_cell_length_b 5.198(2)
+_cell_length_c 13.370(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.78(1)
+_cell_angle_gamma 90.
+_cell_volume 633.76
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0629
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ca2+ 2
+Mg2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.58119(11) 0.2786(2) 0.39859(8) . 1. 0
+Na2 Na1+ 4 e 0.08346(10) 0.7774(2) 0.41006(8) . 1. 0
+Ca1 Ca2+ 4 e 0.23727(5) 0.31491(9) 0.24943(3) . 1. 0
+Mg1 Mg2+ 4 e 0.25258(7) 0.25415(12) 0.50179(5) . 1. 0
+P1 P5+ 4 e 0.41366(5) 0.77267(9) 0.36948(3) . 1. 0
+P2 P5+ 4 e 0.91847(5) 0.27066(9) 0.36545(3) . 1. 0
+O1 O2- 4 e 0.4024(2) 0.6723(3) 0.26328(12) . 1. 0
+O2 O2- 4 e 0.9236(2) 0.1951(3) 0.25578(12) . 1. 0
+O3 O2- 4 e 0.33481(15) 0.0341(3) 0.38114(11) . 1. 0
+O4 O2- 4 e 0.83193(15) 0.5215(3) 0.38124(11) . 1. 0
+O5 O2- 4 e 0.0758(2) 0.3052(3) 0.40679(12) . 1. 0
+O6 O2- 4 e 0.5752(2) 0.8028(3) 0.40137(13) . 1. 0
+O7 O2- 4 e 0.3410(2) 0.5746(3) 0.43859(12) . 1. 0
+O8 O2- 4 e 0.8455(2) 0.0505(3) 0.42420(12) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0157(4) 0.0130(4) 0.0118(4) -0.0010(3) -0.0006(3) -0.0024(3)
+Na2 Na1+ 0.0146(4) 0.0130(4) 0.0094(4) 0.0009(3) -0.0009(3) -0.0025(3)
+Ca1 Ca2+ 0.0242(2) 0.0098(2) 0.0067(2) 0.00096(15) -0.00016(14) 0.00024(13)
+Mg1 Mg2+ 0.0063(3) 0.0067(3) 0.0044(3) -0.0003(2) -0.0003(2) 0.0007(2)
+P1 P5+ 0.0054(2) 0.0050(2) 0.0037(2) 0.00044(12) -0.0006(2) -0.00014(13)
+P2 P5+ 0.0057(2) 0.0047(2) 0.0030(2) 0.00043(12) -0.00037(15) -0.00061(13)
+O1 O2- 0.0248(7) 0.0187(8) 0.0080(7) 0.0025(6) -0.0021(6) -0.0069(6)
+O2 O2- 0.0270(8) 0.0149(7) 0.0043(6) 0.0027(6) 0.0004(5) -0.0031(5)
+O3 O2- 0.0148(6) 0.0075(6) 0.0082(6) 0.0032(5) 0.0025(5) 0.0002(5)
+O4 O2- 0.0129(6) 0.0084(6) 0.0080(6) 0.0036(5) 0.0030(5) 0.0003(5)
+O5 O2- 0.0084(5) 0.0152(7) 0.0139(7) -0.0009(5) -0.0050(5) 0.0035(6)
+O6 O2- 0.0081(5) 0.0154(7) 0.0153(7) -0.0007(5) -0.0057(5) 0.0040(6)
+O7 O2- 0.0147(6) 0.0102(6) 0.0167(7) -0.0031(5) 0.0041(5) 0.0055(5)
+O8 O2- 0.0138(6) 0.0092(6) 0.0127(6) -0.0029(5) 0.0024(5) 0.0035(5)
+#End of TTdata_408373-ICSD

@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62089-ICSD
+_database_code_ICSD 62089
+_audit_creation_date 1988-02-22
+_audit_update_record 2003-04-01
+_chemical_name_systematic 'Dilithium sulfate(VI) hydrate'
+_chemical_formula_structural 'Li2 (S O4) (H2 O)'
+_chemical_formula_sum 'H2 Li2 O5 S1'
+_chemical_name_structure_type Li2SO4H2O
+_exptl_crystal_density_diffrn 2.05
+_publ_section_title
+'Charge density in pyroelectric lithium sulfate monohydrate at 80 and 298 K'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Physics' 1986 85 5221 5227 JCPSA6
+loop_
+_publ_author_name
+'Karppinen, M.'
+'Liminga, R.'
+'Lundgren, J.O.'
+_cell_length_a 5.4553(1)
+_cell_length_b 4.8690(1)
+_cell_length_c 8.1761(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.337(2)
+_cell_angle_gamma 90.
+_cell_volume 207.31
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 a 0.30396(11) 0.49595(20) 0.99399(7) . 1. 0
+Li2 Li1+ 2 a 0.56197(12) 0.48827(19) 0.39526(7) . 1. 0
+S1 S6+ 2 a 0.29407(1) 0 0.20839(1) . 1. 0
+O1 O2- 2 a 0.02146(9) 0.06892(6) 0.16954(4) . 1. 0
+O2 O2- 2 a 0.43486(6) 0.11178(6) 0.37862(5) . 1. 0
+O3 O2- 2 a 0.4001(1) 0.1222(1) 0.07851 . 1. 0
+O4 O2- 2 a 0.32999(6) -.30064(8) 0.21043(3) . 1. 0
+O5 O2- 2 a 0.91040(7) 0.47657(10) 0.39492(6) . 1. 0
+H1 H1+ 2 a 0.96561(34) 0.3969(11) 0.30815(20) . 1. 0
+H2 H1+ 2 a 0.99972(41) 0.63493(65) 0.42811(55) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.01810(22) 0.01675(21) 0.01768(21) 0.00065(32) 0.00531(16) 0.00155(33)
+Li2 Li1+ 0.02105(24) 0.01766(24) 0.01690(21) 0.00036(30) 0.00379(17) 0.00009(28)
+S1 S6+ 0.01249(4) 0.00964(3) 0.00948(3) 0.00053(3) 0.00318(2) 0.00010(3)
+O1 O2- 0.01244(11) 0.02689(13) 0.02116(12) 0.00285(8) 0.00315(7) -0.00378(9)
+O2 O2- 0.02124(11) 0.01538(9) 0.01116(9) -0.00324(9) 0.00150(7) -0.00177(7)
+O3 O2- 0.02419(13) 0.01601(10) 0.01711(10) 0.00327(9) 0.01209(10) 0.00467(8)
+O4 O2- 0.02713(15) 0.00944(10) 0.01539(10) 0.00124(7) 0.00396(8) 0.00028(6)
+O5 O2- 0.02537(15) 0.04130(32) 0.04751(21) -0.00274(16) 0.01825(16) -0.01049(19)
+H1 H1+ 0.05113(72) 0.11630(223) 0.05408(72) 0.01688(94) -0.01057(97)
+-0.01057(97)
+H2 H1+ 0.04917(79) 0.06436(115) 0.12950(217) -0.02236(91) 0.02734(102)
+-0.00945(122)
+#End of TTdata_62089-ICSD

@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243978-ICSD
+_database_code_ICSD 243978
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Disodium tetraamine dodecahydro-closo-dodecaborate'
+_chemical_formula_structural 'Na2 B12 H12 (N H3)4'
+_chemical_formula_sum 'H24 B12 N4 Na2'
+_exptl_crystal_density_diffrn 1.06
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Synthesis, structures and thermal decomposition of ammine MxB12H12 complexes
+(M = Li, Na, Ca)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2017 46 7770 7781 DTARAF
+loop_
+_publ_author_name
+'Hansen, Bjarne R.S.'
+'Tumanov, Nikolay'
+'Santoru, Antonio'
+'Pistidda, Claudio'
+'Bednarcik, Jozef'
+'Klassen, Thomas'
+'Dornheim, Martin'
+'Filinchuk, Yaroslav'
+'Jensen, Torben R.'
+_cell_length_a 8.6875(2)
+_cell_length_b 9.4168(3)
+_cell_length_c 9.9096(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.3296(18)
+_cell_angle_gamma 90.
+_cell_volume 802.13
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0187
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+H1+ 1
+N3- -3
+H1+ 1
+Na1+ 1
+B0+ 0.83
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+N1 N3- 4 e -0.0137(4) 0.2082(4) 0.4968(4) 0.0947(13) 1. 0
+H1 H1+ 4 e 0.0488(10) 0.1316(8) 0.5242(14) 0.0947(13) 1. 0
+H2 H1+ 4 e -0.0081(10) 0.2710(11) 0.5678(12) 0.0947(13) 1. 0
+H3 H1+ 4 e -0.1125(6) 0.1789(10) 0.4694(15) 0.0947(13) 1. 0
+N2 N3- 4 e 0.4114(4) 0.0059(4) 0.6805(4) 0.0947(13) 1. 0
+H4 H1+ 4 e 0.4090(14) -0.0725(11) 0.7339(11) 0.0947(13) 1. 0
+H5 H1+ 4 e 0.4506(14) -0.0176(14) 0.6029(8) 0.0947(13) 1. 0
+H6 H1+ 4 e 0.3144(10) 0.0432(14) 0.6584(10) 0.0947(13) 1. 0
+Na1 Na1+ 4 e 0.5818(3) 0.1791(3) 0.8078(3) 0.1287(12) 1. 0
+B1 B0+ 4 e -0.10727 0.0158 -0.16156 0.0653(11) 1. 0
+B2 B0+ 4 e 0.08469 -0.06287 -0.13483 0.0653(11) 1. 0
+B3 B0+ 4 e -0.19902 -0.02451 -0.01191 0.0653(11) 1. 0
+B4 B0+ 4 e 0.11216 -0.15065 0.03132 0.0653(11) 1. 0
+B5 B0+ 4 e -0.07618 -0.15502 -0.07699 0.0653(11) 1. 0
+B6 B0+ 4 e -0.06352 -0.12588 0.10615 0.0653(11) 1. 0
+H7 H1- 4 e -0.18475 0.02659 -0.27854 0.0653(11) 1. 0
+H8 H1- 4 e 0.14653 -0.10961 -0.23314 0.0653(11) 1. 0
+H9 H1- 4 e -0.34362 -0.04205 -0.02014 0.0653(11) 1. 0
+H10 H1- 4 e 0.19633 -0.26241 0.05487 0.0653(11) 1. 0
+H11 H1- 4 e -0.13036 -0.26588 -0.13336 0.0653(11) 1. 0
+H12 H1- 4 e -0.10701 -0.21843 0.18359 0.0653(11) 1. 0
+#End of TTdata_243978-ICSD

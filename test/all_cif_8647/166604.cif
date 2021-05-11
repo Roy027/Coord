@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_166604-ICSD
+_database_code_ICSD 166604
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Hexasodium yttrium scandium bis(disilicate)'
+_chemical_formula_structural 'Na6 Y Sc (Si2 O7)2'
+_chemical_formula_sum 'Na6 O14 Sc1 Si4 Y1'
+_exptl_crystal_density_diffrn 3.01
+_publ_section_title 'On the crystal structure of Na6 Y Sc (Si2 O7)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1979 247 103 106 DANKAS
+loop_
+_publ_author_name
+'Maksimov, B.A.'
+'Zhdanova, T.A.'
+'Voronkov, A.A.'
+'Mironova, G.S.'
+'Ilyukhin, V.V.'
+'Belov, N.V.'
+_cell_length_a 10.726(2)
+_cell_length_b 10.726(2)
+_cell_length_c 13.491(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1344.16
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 63'
+_symmetry_Int_Tables_number 173
+_refine_ls_R_factor_all 0.081
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Sc3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 2 a 0 0 0.7479(4) 0.53(3) 1. 0
+Y2 Y3+ 6 c 0.0018(4) 0.4982(4) -0.0011(4) 0.45(3) 0.3333 0
+Sc1 Sc3+ 6 c 0.0018(4) 0.4982(4) -0.0011(4) 0.45(3) 0.6667 0
+Si1 Si4+ 2 b 0.6667 0.3333 0.6380(8) 0.44(13) 1. 0
+Si2 Si4+ 2 b 0.6667 0.3333 0.8678(8) 0.53(12) 1. 0
+Si3 Si4+ 6 c 0.1663(6) 0.3427(6) 0.6412(5) 0.59(6) 1. 0
+Si4 Si4+ 6 c 0.1686(6) 0.3386(6) 0.8653(5) 0.54(6) 1. 0
+Na1 Na1+ 2 a 0 0 0.4991(9) 1.69(19) 1. 0
+Na2 Na1+ 6 c 0.5041(8) 0.0002(8) 0.7473(9) 1.57(10) 1. 0
+Na3 Na1+ 6 c 0.3375(8) 0.1668(9) 0.9139(7) 1.24(21) 1. 0
+Na4 Na1+ 6 c 0.1729(9) 0.3436(9) 0.0903(8) 1.80(26) 1. 0
+Na5 Na1+ 2 b 0.6667 0.3333 0.0990(9) 1.54(39) 1. 0
+Na6 Na1+ 2 b 0.6667 0.3333 0.4124(9) 1.90(31) 1. 0
+O1 O2- 6 c 0.2408(9) 0.3819(9) 0.7524(9) 1.46(12) 1. 0
+O2 O2- 6 c 0.0461(9) 0.1733(9) 0.6362(9) 2.29(21) 1. 0
+O3 O2- 6 c 0.1098(10) 0.4529(14) 0.6086(13) 3.91(24) 1. 0
+O4 O2- 6 c 0.2931(12) 0.3757(12) 0.5624(8) 1.57(15) 1. 0
+O5 O2- 6 c 0.2934(11) 0.3558(12) 0.9365(8) 1.43(16) 1. 0
+O6 O2- 6 c 0.0338(8) 0.1772(9) 0.8604(6) 0.60(10) 1. 0
+O7 O2- 6 c 0.1097(9) 0.4508(10) 0.8843(7) 0.89(13) 1. 0
+O8 O2- 6 c 0.5731(22) 0.3978(21) 0.6011(15) 4.31(33) 1. 0
+O9 O2- 6 c 0.5838(22) 0.1604(24) 0.8875(15) 2.56(37) 1. 0
+O10 O2- 6 c 0.6351(27) 0.3616(28) 0.7469(34) 1.21(38) 0.3333 0
+#End of TTdata_166604-ICSD

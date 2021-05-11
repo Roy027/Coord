@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35445-ICSD
+_database_code_ICSD 35445
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Tetracadmium sodium vanadate'
+_chemical_formula_structural 'Cd1.333 Na.3333 (V O4)'
+_chemical_formula_sum 'Cd1.333 Na0.3333 O4 V1'
+_exptl_crystal_density_diffrn 4.89
+_publ_section_title
+
+;
+Reinvestigation of the Structure of Tetracadmium Sodium Orthovanadate, Cd4 Na
+(V O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1983 39 680 683 ACSCEE
+loop_
+_publ_author_name
+'Abrahams, S.C.'
+'Marsh, P.'
+'Ravez, J.'
+_cell_length_a 9.8189(3)
+_cell_length_b 7.0298(2)
+_cell_length_c 5.3610(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 370.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0185
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Na1+ 1
+Cd2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 4 c 0.35336(5) 0.25 0.99564(6) . 0.3333 0
+Na1 Na1+ 4 c 0.35336(5) 0.25 0.99564(6) . 0.3333 0
+Cd2 Cd2+ 4 a 0 0 0 . 1. 0
+V1 V5+ 4 c 0.18098(3) 0.25 0.49293(4) . 1. 0
+O1 O2- 8 d 0.1175(1) 0.0554(2) 0.3507(2) . 1. 0
+O2 O2- 4 c 0.3583(1) 0.25 0.4443(4) . 1. 0
+O3 O2- 4 c 0.1310(1) 0.25 0.8038(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Cd1 Cd2+ 0.00495(3) 0.00831(6) 0.01075(9) 0 -.00177(4) 0
+Na1 Na1+ 0.00495(3) 0.00831(6) 0.01075(9) 0 -.00177(4) 0
+Cd2 Cd2+ 0.00341(1) 0.00467(2) 0.01396(5) 0.00106(1) -.00268(1) -.00235(2)
+V1 V5+ 0.00151(2) 0.00529(4) 0.00534(6) 0 -.00010(2) 0
+O1 O2- 0.00511(9) 0.01158(19) 0.01108(23) -.00295(12) -.00173(12) -.00189(20)
+O2 O2- 0.00185(8) 0.00442(17) 0.02816(53) 0 -.00010(17) 0
+O3 O2- 0.00486(12) 0.00698(20) 0.00852(31) 0 0.00216(15) 0
+#End of TTdata_35445-ICSD

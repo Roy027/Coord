@@ -1,0 +1,116 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427375-ICSD
+_database_code_ICSD 427375
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Lithium carbamide'
+_chemical_formula_structural 'Li (H2 N C O N H)'
+_chemical_formula_sum 'C1 H3 Li1 N2 O1'
+_exptl_crystal_density_diffrn 1.49
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Synthesis and crystal structure of a "high-temperature" phase of Li [H2 N C(O)
+N H], the missing ureate, alkali-metal
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: Chemical Sciences' 2014 69 651 654
+ZNBSEN
+loop_
+_publ_author_name
+'Sawinski, Hannah'
+'Dronskowski, Richard'
+_cell_length_a 7.5770(9)
+_cell_length_b 9.0594(11)
+_cell_length_c 13.0464(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 98.896(2)
+_cell_angle_gamma 90.
+_cell_volume 884.77
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0331
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+C4+ 4
+O2- -2
+N3- -3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.5306(3) 0.9319(2) 0.63727(17) 0.0181(5) 1 0
+Li2 Li1+ 4 e 0.3368(3) 0.8510(3) 0.44855(18) 0.0206(5) 1 0
+Li3 Li1+ 4 e 0.4730(3) 0.8031(2) 0.27332(17) 0.0196(5) 1 0
+C1 C4+ 4 e 0.72518(17) 0.86511(14) 0.47229(10) 0.0163(3) 1 0
+C2 C4+ 4 e 0.77340(17) 0.42382(14) 0.67236(9) 0.0160(3) 1 0
+C3 C4+ 4 e 0.76341(17) 0.27136(14) 0.37086(10) 0.0171(3) 1 0
+O1 O2- 4 e 0.57495(12) 0.87912(10) 0.41094(7) 0.0162(2) 1 0
+O2 O2- 4 e 0.90283(12) 0.50029(10) 0.72003(7) 0.0183(2) 1 0
+O3 O2- 4 e 0.63006(13) 0.22100(10) 0.41110(7) 0.0195(2) 1 0
+N1 N3- 4 e 0.84870(19) 0.77947(16) 0.43541(11) 0.0311(3) 1 0
+N2 N3- 4 e 0.75187(16) 0.92904(13) 0.56383(9) 0.0187(3) 1 0
+N3 N3- 4 e 0.64020(18) 0.49831(16) 0.60947(10) 0.0259(3) 1 0
+N4 N3- 4 e 0.75961(16) 0.27872(13) 0.67560(9) 0.0187(3) 1 0
+N5 N3- 4 e 0.8287(2) 0.40417(16) 0.40813(12) 0.0351(4) 1 0
+N6 N3- 4 e 0.84424(16) 0.20647(13) 0.30110(9) 0.0207(3) 1 0
+H1 H1+ 4 e 0.824(2) 0.749(2) 0.3698(15) 0.0341(16) 1 0
+H2 H1+ 4 e 0.950(3) 0.764(2) 0.4742(15) 0.0341(16) 1 0
+H3 H1+ 4 e 0.857(3) 0.912(2) 0.5947(14) 0.0341(16) 1 0
+H4 H1+ 4 e 0.630(2) 0.588(2) 0.6193(14) 0.0341(16) 1 0
+H5 H1+ 4 e 0.543(3) 0.447(2) 0.5890(14) 0.0341(16) 1 0
+H6 H1+ 4 e 0.864(3) 0.242(2) 0.7155(14) 0.0341(16) 1 0
+H7 H1+ 4 e 0.775(2) 0.450(2) 0.4524(15) 0.0341(16) 1 0
+H8 H1+ 4 e 0.914(3) 0.444(2) 0.3795(14) 0.0341(16) 1 0
+H9 H1+ 4 e 0.795(2) 0.117(2) 0.2855(14) 0.0341(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0199(11) 0.0174(11) 0.0170(11) -0.0008(9) 0.0032(9) 0.0001(8)
+Li2 Li1+ 0.0225(12) 0.0218(11) 0.0183(11) -0.0039(9) 0.0056(9) -0.0007(9)
+Li3 Li1+ 0.0239(12) 0.0180(11) 0.0177(11) 0.0024(9) 0.0049(9) 0.0007(9)
+C1 C4+ 0.0157(6) 0.0156(6) 0.0181(6) 0.0006(5) 0.0046(5) 0.0032(5)
+C2 C4+ 0.0169(6) 0.0203(6) 0.0114(6) -0.0010(5) 0.0044(5) -0.0008(5)
+C3 C4+ 0.0182(7) 0.0180(6) 0.0144(6) -0.0015(5) 0.0001(5) 0.0029(5)
+O1 O2- 0.0155(5) 0.0184(5) 0.0142(4) 0.0004(4) 0.0008(3) 0.0006(3)
+O2 O2- 0.0217(5) 0.0189(5) 0.0140(5) -0.0049(4) 0.0020(4) -0.0013(4)
+O3 O2- 0.0220(5) 0.0207(5) 0.0170(5) -0.0060(4) 0.0064(4) 0.0003(4)
+N1 N3- 0.0241(7) 0.0429(8) 0.0243(7) 0.0148(6) -0.0024(6) -0.0105(6)
+N2 N3- 0.0140(6) 0.0252(6) 0.0161(6) 0.0017(5) -0.0002(4) -0.0014(5)
+N3 N3- 0.0267(7) 0.0230(7) 0.0258(7) 0.0034(5) -0.0033(5) -0.0011(5)
+N4 N3- 0.0196(6) 0.0187(6) 0.0172(6) -0.0030(5) 0.0013(5) -0.0007(4)
+N5 N3- 0.0394(8) 0.0300(7) 0.0426(8) -0.0182(6) 0.0278(7) -0.0184(6)
+N6 N3- 0.0255(6) 0.0170(6) 0.0205(6) -0.0045(5) 0.0067(5) -0.0020(4)
+#End of TTdata_427375-ICSD

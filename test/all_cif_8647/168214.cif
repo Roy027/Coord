@@ -1,0 +1,84 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_168214-ICSD
+_database_code_ICSD 168214
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Dilanthanum lithium rhenium(V) hexaoxide'
+_chemical_formula_structural 'La2 Li Re O6'
+_chemical_formula_sum 'La2 Li1 O6 Re1'
+_chemical_name_structure_type Perovskite-Ba2LaRuO6
+_exptl_crystal_density_diffrn 7.57
+_cell_measurement_temperature 2.8
+_publ_section_title
+
+;
+Structure and magnetic properties of the S=1 geometrically frustrated double
+perovskites La2 Li Re O6 and Ba2 Y Re O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2010 81
+064436-1 064436-9 PRBMDO
+loop_
+_publ_author_name
+'Aharen, T.'
+'Greedan, J.E.'
+'Bridges, C.A.'
+'Aczel, A.A.'
+'Rodriguez, J.'
+'MacDougall, G.'
+'Luke, G.M.'
+'Michaelis, V.K.'
+'Kroeker, S.'
+'Wiebe, C.R.'
+'Zhou Hai Dong'
+'Cranswick, L.M.D.'
+_cell_length_a 5.58070(31)
+_cell_length_b 5.68591(28)
+_cell_length_c 7.8405(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.464(5)
+_cell_angle_gamma 90.
+_cell_volume 248.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0443
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Li1+ 1
+Re5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e -0.0117(9) 0.0493(7) 0.2559(6) 0.0033(12) 1. 0
+Li1 Li1+ 2 d 0.5 0 0 0.001(6) 1. 0
+Re1 Re5+ 2 c 0.5 0 0.5 0.0034(14) 1. 0
+O1 O2- 4 e 0.1926(12) 0.2187(11) -0.0474(9) 0.0065(24) 1. 0
+O2 O2- 4 e -0.2869(12) 0.3042(11) 0.0405(10) 0.0058(21) 1. 0
+O3 O2- 4 e 0.0823(11) -0.5216(11) 0.2399(8) 0.0091(20) 1. 0
+#End of TTdata_168214-ICSD

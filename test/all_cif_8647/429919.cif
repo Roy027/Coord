@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_429919-ICSD
+_database_code_ICSD 429919
+_audit_creation_date 2016-02-01
+_chemical_name_systematic 'Dipotassium disodium hexaoxoxenate(VIII) octahydrate'
+_chemical_formula_structural 'K2 Na2 (Xe O6) (H2 O)8'
+_chemical_formula_sum 'H16 K2 Na2 O14 Xe1'
+_exptl_crystal_density_diffrn 2.46
+_cell_measurement_temperature 296.
+_publ_section_title 'Perovskites with the Framework-Forming xenon'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2015 54 14340 14344 ACIEF5
+loop_
+_publ_author_name
+'Britvin, Sergey N.'
+'Kashtanov, Sergei A.'
+'Krzhizhanovskaya, Maria G.'
+'Gurinov, Andrey A.'
+'Glumov, Oleg V.'
+'Strekopytov, Stanislav'
+'Kretser, Yury L.'
+'Zaitsev, Anatoly N.'
+'Chukanov, Nikita V.'
+'Krivovichev, Sergey V.'
+_cell_length_a 10.6926(5)
+_cell_length_b 12.2550(5)
+_cell_length_c 10.7859(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.020(6)
+_cell_angle_gamma 90.
+_cell_volume 1336.19
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0167
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Xe8+ 8
+Na1+ 1
+K1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Xe1 Xe8+ 4 e 0. 0.319908(9) 0.25 0.01025(10) 1 0
+Na1 Na1+ 4 e 0. 0.14970(10) 0.75 0.0199(2) 1 0
+Na2 Na1+ 4 e 0. 0.58995(8) 0.25 0.0213(2) 1 0
+K1 K1+ 8 f 0.86637(5) 0.09951(4) 0.02588(5) 0.02780(12) 1 0
+O1 O2- 8 f 0.89623(13) 0.21206(13) 0.28658(14) 0.0201(3) 1 0
+O2 O2- 8 f 0.10375(13) 0.42644(12) 0.21363(13) 0.0184(3) 1 0
+O3 O2- 8 f 0.89289(16) 0.32109(9) 0.07735(14) 0.0199(3) 1 0
+O4 O2- 8 f 0.12235(18) 0.15159(18) -0.02553(18) 0.0327(4) 1 0
+O5 O2- 8 f 0.87259(15) 0.28198(13) 0.82040(15) 0.0230(3) 1 0
+O6 O2- 8 f 0.14038(15) 0.98851(14) 0.22191(16) 0.0286(3) 1 0
+O7 O2- 8 f 0.36710(17) 0.05256(16) 0.02368(18) 0.0252(3) 1 0
+H1 H1+ 8 f 0.123(3) 0.184(2) 0.028(3) 0.015(7) 1 0
+H2 H1+ 8 f 0.201(4) 0.136(3) 0.001(3) 0.049(9) 1 0
+H3 H1+ 8 f 0.886(2) 0.297(2) 0.899(3) 0.016(5) 1 0
+H4 H1+ 8 f 0.809(4) 0.275(3) 0.790(3) 0.031(8) 1 0
+H5 H1+ 8 f 0.147(4) 0.057(4) 0.233(4) 0.058(10) 1 0
+H6 H1+ 8 f 0.209(4) 0.976(3) 0.242(4) 0.056(11) 1 0
+H7 H1+ 8 f 0.389(3) 0.001(3) 0.037(3) 0.029(8) 1 0
+H8 H1+ 8 f 0.380(2) 0.066(2) 0.964(3) 0.014(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Xe1 Xe8+ 0.01075(12) 0.00821(12) 0.01202(12) 0. 0.00402(7) 0.
+Na1 Na1+ 0.0231(5) 0.0161(5) 0.0216(5) 0. 0.0086(4) 0.
+Na2 Na1+ 0.0244(5) 0.0126(5) 0.0287(6) 0. 0.0111(4) 0.
+K1 K1+ 0.0299(2) 0.0217(2) 0.0332(3) -0.00218(17) 0.01221(19) -0.00441(18)
+O1 O2- 0.0191(6) 0.0154(6) 0.0267(7) -0.0055(6) 0.0086(5) 0.0024(6)
+O2 O2- 0.0185(6) 0.0154(6) 0.0250(6) -0.0044(5) 0.0120(5) 0.0001(5)
+O3 O2- 0.0209(7) 0.0228(8) 0.0124(7) -0.0001(4) 0.0003(6) -0.0008(4)
+O4 O2- 0.0262(8) 0.0453(9) 0.0243(8) 0.0061(8) 0.0049(6) -0.0081(8)
+O5 O2- 0.0195(7) 0.0253(8) 0.0247(7) -0.0009(5) 0.0080(6) -0.0020(6)
+O6 O2- 0.0223(7) 0.0219(8) 0.0404(8) -0.0019(6) 0.0084(6) 0.0036(6)
+O7 O2- 0.0271(7) 0.0266(9) 0.0231(8) 0.0085(7) 0.0100(6) 0.0081(6)
+#End of TTdata_429919-ICSD

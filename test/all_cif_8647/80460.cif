@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80460-ICSD
+_database_code_ICSD 80460
+_audit_creation_date 1997-05-13
+_chemical_name_systematic
+'Dibarium copper(III) sodium carbonate oxide (2/0.5/0.5/1/2)'
+_chemical_formula_structural 'Ba2 (Cu0.5 Na0.5) (C O3) O2'
+_chemical_formula_sum 'C1 Ba2 Cu0.5 Na0.5 O5'
+_exptl_crystal_density_diffrn 5.16
+_publ_section_title
+
+;
+Synthesis, single crystal growth and structural characterization of the new
+layered perovskite Ba2 Cu0.5 Na0.5 C O5
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1995 30 821 828 MRBUAC
+loop_
+_publ_author_name
+'Matacotta, F.C.'
+'Nozar, P.'
+'Thomas, K.A.'
+'Calestani, G.'
+'Migliori, A.'
+_cell_length_a 4.135(1)
+_cell_length_b 4.135(1)
+_cell_length_c 7.712(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 131.86
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 4/m m m'
+_symmetry_Int_Tables_number 123
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z'
+2 '-y, -x, -z'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 '-x, y, -z'
+6 'x, -y, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z'
+10 'y, x, z'
+11 'y, -x, z'
+12 '-y, x, z'
+13 'x, -y, z'
+14 '-x, y, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu3+ 3
+Na1+ 1
+Ba2+ 2
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu3+ 1 a 0 0 0 . 0.5 0
+Na1 Na1+ 1 a 0 0 0 . 0.5 0
+Ba1 Ba2+ 2 h 0.5 0.5 0.2344(1) . 1. 0
+C1 C4+ 2 g 0 0 0.469(3) . 0.5 0
+O1 O2- 4 l 0.446(4) 0 0 . 0.5 0
+O2 O2- 2 g 0 0 0.302(3) . 0.5 0
+O3 O2- 8 s 0 0.274(5) 0.544(2) . 0.25 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu3+ 0.001(1) 0.001(1) 0.001(1) 0 0 0
+Na1 Na1+ 0.001(1) 0.001(1) 0.001(1) 0 0 0
+Ba1 Ba2+ 0.004(1) 0.004(1) 0.001(1) 0 0 0
+C1 C4+ 0.007(7) 0.007(7) 0.003(24) 0 0 0
+O1 O2- 0.000(15) 0.003(4) 0.003(4) 0 0 0
+O2 O2- 0.017(6) 0.017(7) 0.003(7) 0 0 0
+O3 O2- 0.018(7) 0.019(8) 0.018(8) 0.0(6) 0 -.017(6)
+#End of TTdata_80460-ICSD

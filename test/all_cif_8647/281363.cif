@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281363-ICSD
+_database_code_ICSD 281363
+_audit_creation_date 2004-04-01
+_chemical_name_systematic
+'Sodium potassium oxotitanium phosphate(V) (0.11/1.89/2/2)'
+_chemical_formula_structural '(Na0.114 K0.886) K (Ti O)2 (P O4)2'
+_chemical_formula_sum 'K1.886 Na0.114 O10 P2 Ti2'
+_chemical_name_structure_type TlSbOGeO4(Pna21)
+_exptl_crystal_density_diffrn 3.03
+_cell_measurement_temperature 10.5
+_publ_section_title
+
+;
+Cation movement and phase transitions in KTP isostructures; X-ray study of
+sodium-doped KTP at 10.5 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2003 59 353 360
+ASBSDK
+loop_
+_publ_author_name
+'Norberg, S.T.'
+'Sobolev, A.N.'
+'Strel'tsov, V.A. (Streltsov, V.A.)'
+_cell_length_a 12.7919(5)
+_cell_length_b 6.3798(4)
+_cell_length_c 10.5880(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 864.08
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.017
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+K1+ 1
+Ti4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 a 0.37665(3) 0.22060(4) 0.30013(4) 0.00501(10) 0.886(3) 0
+Na1 Na1+ 4 a 0.3435(6) 0.2317(7) 0.2723(6) 0.0067(18) 0.114(3) 0
+K2 K1+ 4 a 0.104799(18) 0.30202(4) 0.05454(4) 0.00607(7) 1. 0
+Ti1 Ti4+ 4 a 0.373144(12) 0.50094(2) -.00824(4) 0.00264(5) 1. 0
+Ti2 Ti4+ 4 a 0.246260(12) 0.73089(3) 0.24322(4) 0.00265(5) 1. 0
+P1 P5+ 4 a 0.49765(2) 0.66341(4) 0.25211(5) 0.00294(8) 1. 0
+P2 P5+ 4 a 0.18144(2) 0.49851(4) 0.50443(5) 0.00284(9) 1. 0
+O1 O2- 4 a 0.48538(7) 0.51197(12) 0.14237(9) 0.0047(2) 1. 0
+O2 O2- 4 a 0.50893(6) 0.53385(13) 0.37516(9) 0.0046(2) 1. 0
+O3 O2- 4 a 0.39995(6) 0.80223(13) 0.27100(9) 0.0046(2) 1. 0
+O4 O2- 4 a 0.59339(6) 0.80653(12) 0.23296(9) 0.0047(2) 1. 0
+O5 O2- 4 a 0.27502(6) 0.53280(13) 0.13510(8) 0.0045(2) 1. 0
+O6 O2- 4 a 0.22370(6) 0.96044(13) 0.38101(8) 0.0046(2) 1. 0
+O7 O2- 4 a 0.11282(6) 0.69039(12) 0.53248(9) 0.0042(2) 1. 0
+O8 O2- 4 a 0.11135(6) 0.30862(12) 0.47983(9) 0.0047(2) 1. 0
+O9 O2- 4 a 0.25356(6) 0.46234(14) 0.61972(9) 0.0046(2) 1. 0
+O10 O2- 4 a 0.25368(6) 0.53840(15) 0.3910(6) 0.0048(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.00598(12) 0.00376(8) 0.00530(11) -0.00074(5) 0.00085(8) -0.00008(6)
+Na1 Na1+ 0.010(2) 0.0036(14) 0.0066(17) 0.0002(12) -0.0021(18) -0.0018(12)
+K2 K1+ 0.00511(6) 0.00640(6) 0.00670(8) -0.00123(5) 0.00005(5) -0.00003(6)
+Ti1 Ti4+ 0.00294(5) 0.00232(5) 0.00266(6) 0.00003(3) -0.00010(4) -0.00010(4)
+Ti2 Ti4+ 0.00290(5) 0.00257(5) 0.00248(5) 0.00006(3) 0.00005(4) -0.00013(4)
+P1 P5+ 0.00296(7) 0.00304(7) 0.00282(9) 0.00004(6) -0.00011(6) -0.00019(7)
+P2 P5+ 0.00368(8) 0.00220(8) 0.00262(10) 0.00010(5) 0.00005(7) 0.00017(5)
+O1 O2- 0.0048(2) 0.0050(2) 0.0043(3) 0.00094(17) -0.00069(19) -0.00161(18)
+O2 O2- 0.0049(2) 0.0053(2) 0.0036(2) -0.00009(18) -0.00063(17) 0.0012(2)
+O3 O2- 0.0036(2) 0.0044(2) 0.0059(2) 0.00048(16) -0.00007(18) -0.0007(2)
+O4 O2- 0.0038(2) 0.0043(2) 0.0061(3) -0.00028(15) -0.00008(18) 0.0001(2)
+O5 O2- 0.0054(2) 0.0045(2) 0.0037(2) 0.00012(18) 0.00098(18) -0.0007(2)
+O6 O2- 0.0041(2) 0.0050(2) 0.0047(2) 0.00008(17) 0.00096(17) -0.0006(2)
+O7 O2- 0.0050(2) 0.0025(2) 0.0051(2) 0.00030(16) 0.00069(18) -0.00018(18)
+O8 O2- 0.0054(2) 0.0027(2) 0.0059(3) -0.00112(16) -0.00034(18) -0.0004(2)
+O9 O2- 0.0049(2) 0.0049(2) 0.0040(3) -0.00052(17) -0.00083(16) 0.0003(2)
+O10 O2- 0.0053(2) 0.0058(2) 0.0034(2) 0.00012(17) 0.00126(16) 0.0011(2)
+#End of TTdata_281363-ICSD

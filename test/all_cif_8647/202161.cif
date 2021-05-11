@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202161-ICSD
+_database_code_ICSD 202161
+_audit_creation_date 1988-12-19
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'disodium dititaniumdisilicate'
+_chemical_formula_structural 'Na2 (Ti2 Si2 O9)'
+_chemical_formula_sum 'Na2 O9 Si2 Ti2'
+_chemical_name_structure_type MgNi3Nb2O9
+_chemical_name_mineral Ramsayite
+_exptl_crystal_density_diffrn 3.44
+_publ_section_title
+'Refinement of the crystal structure of ramsayaite (lorenzenite)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1987 72 173 177 AMMIAY
+loop_
+_publ_author_name
+'Sundberg, M.R.'
+'Lehtinen, M.'
+'Kivekas, R.'
+_cell_length_a 8.7128(10)
+_cell_length_b 5.2327(5)
+_cell_length_c 14.487(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 660.48
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c n'
+_symmetry_Int_Tables_number 60
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 8 d 0.1513(1) 0.1322(1) 0.3309(1) . 1. 0
+Na1 Na1+ 8 d 0.0643(1) 0.6450(2) 0.1537(1) . 1. 0
+Si1 Si4+ 8 d 0.3421(1) 0.2961(1) 0.5267(1) . 1. 0
+O1 O2- 4 c 0 0.0060(5) 0.25 . 1. 0
+O2 O2- 8 d 0.1817(2) 0.4407(3) 0.2758(1) . 1. 0
+O3 O2- 8 d 0.3336(2) 0.2967(3) 0.4152(1) . 1. 0
+O4 O2- 8 d 0.0089(2) 0.2428(3) 0.4280(1) . 1. 0
+O5 O2- 8 d 0.2357(2) 0.0598(3) 0.5670(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti1 Ti4+ 0.0032(2) 0.0033(2) 0.0065(2) 0.00013(12) 0.00023(13) 0.00061(12)
+Na1 Na1+ 0.0131(5) 0.0123(5) 0.0142(5) 0.0038(4) 0.0011(4) -.0001(4)
+Si1 Si4+ 0.0049(3) 0.0041(3) 0.0076(3) -.0002(2) -.0004(2) 0.0001(2)
+O1 O2- 0.0084(11) 0.0069(9) 0.0103(10) 0 -.0024(9) 0
+O2 O2- 0.0079(8) 0.0076(7) 0.0097(7) -.0017(5) -.0023(6) 0.0013(6)
+O3 O2- 0.0067(8) 0.0069(7) 0.0078(7) -.0007(5) -.0005(6) 0.0009(6)
+O4 O2- 0.0058(8) 0.0094(7) 0.0130(8) -.0006(5) 0.0023(6) -.0001(6)
+O5 O2- 0.0077(8) 0.0054(7) 0.0099(7) -.0023(5) 0.0010(6) 0.0003(6)
+#End of TTdata_202161-ICSD

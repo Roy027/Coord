@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92987-ICSD
+_database_code_ICSD 92987
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Dicesium sodium tris(hydrogensulfate(VI))'
+_chemical_formula_structural 'Cs2 Na (H S O4)3'
+_chemical_formula_sum 'H3 Cs2 Na1 O12 S3'
+_exptl_crystal_density_diffrn 3.03
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis, structure and properties of compounds in the Na H S O4 - Cs H S O4
+system. 1. Crystal structures of Cs2 Na (H S O4)3 and Cs Na2 (H S O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2001 13 2574 2583 CMATEX
+loop_
+_publ_author_name
+'Chisholm, C.R.I.'
+'Cowan, L.A.'
+'Haile, S.M.'
+'Klooster, W.T.'
+_cell_length_a 8.5712(17)
+_cell_length_b 8.5712(17)
+_cell_length_c 9.980(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 634.96
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 4 f 0.6667 0.3333 0.00613(3) 0.0421(2) 1. 0
+Na1 Na1+ 2 b 0 0 0 0.0304(5) 1. 0
+S1 S6+ 6 h 0.0272(1) 0.7202(1) 0.25 0.0254(2) 1. 0
+O1 O2- 6 h 0.8185(4) 0.6294(5) 0.25 0.054(1) 1. 0
+O2 O2- 6 h 0.0641(5) 0.5762(4) 0.25 0.056(1) 1. 0
+O3 O2- 12 i 0.1098(7) 0.8639(7) 0.1547(5) 0.035(1) 0.5 0
+O4 O2- 12 i 0.0650(9) 0.7879(9) 0.1107(5) 0.046(1) 0.5 0
+H1 H1+ 12 i 0.783(9) 0.706(8) 0.208(6) 0.05 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0470(2) 0.0470(2) 0.0325(2) 0.0235(1) 0. 0.
+Na1 Na1+ 0.0336(8) 0.0336(8) 0.024(1) 0.0168(4) 0. 0.
+S1 S6+ 0.0257(5) 0.0206(4) 0.0333(5) 0.0141(4) 0. 0.
+O1 O2- 0.025(2) 0.029(2) 0.107(3) 0.012(1) 0. 0.
+O2 O2- 0.040(2) 0.028(2) 0.107(3) 0.022(2) 0. 0.
+O3 O2- 0.037(3) 0.028(3) 0.037(3) 0.015(2) -0.001(2) 0.008(2)
+O4 O2- 0.058(4) 0.062(4) 0.033(3) 0.042(4) -0.001(3) 0.003(3)
+#End of TTdata_92987-ICSD

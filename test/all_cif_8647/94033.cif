@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94033-ICSD
+_database_code_ICSD 94033
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Sodium titanium phospho(V)arsenate(V) (1/2/2.7/0.3)'
+_chemical_formula_structural 'Na Ti2 (P0.9 As0.1 O4)3'
+_chemical_formula_sum 'As0.3 Na1 O12 P2.7 Ti2'
+_chemical_name_structure_type NaZr2(PO4)3
+_exptl_crystal_density_diffrn 3.05
+_publ_section_title
+
+;
+Crystal structure and electric conductivity of the NASICON - related solid
+solution Na Ti2 P3-x Asx O12 synthesized hydrothermally
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Materials Science Letters' 2001 20 1881 1883 JMSLD5
+loop_
+_publ_author_name
+'Shimanouchi-Futagami, R.'
+'Nishimori, M.'
+'Nishizawa, H.'
+_cell_length_a 8.50(1)
+_cell_length_b 8.50(1)
+_cell_length_c 21.76(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1361.53
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+P5+ 5
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 b 0 0 0 2.344(3) 1. 0
+Ti1 Ti4+ 12 c 0 0 0.1449 0.551 1. 0
+P1 P5+ 18 e 0.2863(2) 0 0.25 1.100(1) 0.9 0
+As1 As5+ 18 e 0.2863(2) 0 0.25 1.100(1) 0.1 0
+O1 O2- 36 f 0.1746(5) -0.0245(5) 0.1925(1) 0.455(2) 1. 0
+O2 O2- 36 f 0.1928(9) 0.1601(1) 0.0886(7) 0.283 1. 0
+#End of TTdata_94033-ICSD

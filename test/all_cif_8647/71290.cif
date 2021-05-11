@@ -1,0 +1,123 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71290-ICSD
+_database_code_ICSD 71290
+_audit_creation_date 1993-01-06
+_chemical_name_systematic 'Sodium tecto-galloalumosilicate *'
+_chemical_formula_structural 'Na ((Al0.9 Ga0.1) Si3 O8)'
+_chemical_formula_sum 'Al0.9 Ga0.1 Na1 O8 Si3'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_exptl_crystal_density_diffrn 2.65
+_publ_section_title
+
+;
+Tetrahedral-site occupancies in sodium aluminium-gallium feldspar solid
+solutions (Na(Al1-xGax)Si3O8)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 92 295 300 JSSCBI
+loop_
+_publ_author_name
+'Fleet, M.E.'
+_cell_length_a 8.149(3)
+_cell_length_b 12.870(2)
+_cell_length_c 7.127(2)
+_cell_angle_alpha 93.76(2)
+_cell_angle_beta 116.48(2)
+_cell_angle_gamma 89.75(2)
+_cell_volume 667.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ga3+ 3
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Ga3+ 3
+Al3+ 3
+Si4+ 4
+Ga3+ 3
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.2727(2) 0.0036(2) 0.1366(3) . 1. 0
+Ga1 Ga3+ 4 i 0.0085(1) 0.1656(1) 0.2130(1) . 0.07 0
+Al1 Al3+ 4 i 0.0085(1) 0.1656(1) 0.2130(1) . 0.35 0
+Si1 Si4+ 4 i 0.0085(1) 0.1656(1) 0.2130(1) . 0.58 0
+Al2 Al3+ 4 i 0.0043(1) 0.8153(1) 0.2306(1) . 0.19 0
+Si2 Si4+ 4 i 0.0043(1) 0.8153(1) 0.2306(1) . 0.81 0
+Ga2 Ga3+ 4 i 0.6906(1) 0.1082(1) 0.3187(1) . 0.014(1) 0
+Al3 Al3+ 4 i 0.6906(1) 0.1082(1) 0.3187(1) . 0.18 0
+Si3 Si4+ 4 i 0.6906(1) 0.1082(1) 0.3187(1) . 0.806(1) 0
+Ga3 Ga3+ 4 i 0.6838(1) 0.8783(1) 0.3551(1) . 0.014(1) 0
+Al4 Al3+ 4 i 0.6838(1) 0.8783(1) 0.3551(1) . 0.18 0
+Si4 Si4+ 4 i 0.6838(1) 0.8783(1) 0.3551(1) . 0.806(1) 0
+O1 O2- 4 i 0.0056(3) 0.1343(2) 0.9801(3) . 1. 0
+O2 O2- 4 i 0.5920(2) 0.9918(1) 0.2791(3) . 1. 0
+O3 O2- 4 i 0.8192(3) 0.1079(2) 0.1963(3) . 1. 0
+O4 O2- 4 i 0.8184(3) 0.8469(2) 0.2487(3) . 1. 0
+O5 O2- 4 i 0.0151(3) 0.2924(1) 0.2763(3) . 1. 0
+O6 O2- 4 i 0.0223(3) 0.6882(1) 0.2200(3) . 1. 0
+O7 O2- 4 i 0.1985(3) 0.1115(1) 0.3878(3) . 1. 0
+O8 O2- 4 i 0.1868(3) 0.8672(2) 0.4295(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 1.40(6) 11.53(15) 6.11(10) 0.39(8) 0.28(7) -6.28(10)
+Ga1 Ga3+ 1.09(3) 1.14(3) 0.88(3) -.16(3) 0.48(3) 0.03(2)
+Al1 Al3+ 1.09(3) 1.14(3) 0.88(3) -.16(3) 0.48(3) 0.03(2)
+Si1 Si4+ 1.09(3) 1.14(3) 0.88(3) -.16(3) 0.48(3) 0.03(22)
+Al2 Al3+ 0.74(3) 0.86(3) 0.62(3) 0.19(2) 0.30(2) 0.14(2)
+Si2 Si4+ 0.74(3) 0.86(3) 0.62(3) 0.19(2) 0.30(2) 0.14(2)
+Ga2 Ga3+ 0.72(3) 0.70(3) 0.84(3) -.03(2) 0.30(2) 0.06(2)
+Al3 Al3+ 0.72(3) 0.70(3) 0.84(3) -.03(2) 0.30(2) 0.06(2)
+Si3 Si4+ 0.72(3) 0.70(3) 0.84(3) -.03(2) 0.30(2) 0.06(2)
+Ga3 Ga3+ 0.73(3) 0.66(3) 0.81(3) 0.02(2) 0.33(2) 0.08(2)
+Al4 Al3+ 0.73(3) 0.66(3) 0.81(3) 0.02(2) 0.33(2) 0.08(2)
+Si4 Si4+ 0.73(3) 0.66(3) 0.81(3) 0.02(2) 0.33(2) 0.08(2)
+O1 O2- 2.17(9) 1.58(8) 1.42(8) 0.11(7) 1.01(7) 0.19(7)
+O2 O2- 1.05(7) 1.17(7) 1.41(8) -.04(6) 0.37(6) 0.25(6)
+O3 O2- 1.62(8) 1.68(9) 1.96(9) -.35(7) 1.04(7) -.04(7)
+O4 O2- 1.46(8) 2.05(9) 2.35(10) 0.22(7) 1.14(7) -.03(7)
+O5 O2- 1.39(8) 1.50(8) 1.69(8) -.17(6) 0.67(7) -.17(7)
+O6 O2- 1.38(8) 1.49(8) 1.39(8) 0.28(6) 0.33(7) 0.06(6)
+O7 O2- 1.46(8) 1.42(8) 1.18(8) 0.25(6) 0.29(6) 0.25(6)
+O8 O2- 1.44(8) 1.63(8) 1.31(8) -.07(7) 0.14(7) -.20(7)
+#End of TTdata_71290-ICSD

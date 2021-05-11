@@ -1,0 +1,75 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280187-ICSD
+_database_code_ICSD 280187
+_audit_creation_date 2002-04-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium dicyanamide'
+_chemical_formula_structural 'Na (C2 N3)'
+_chemical_formula_sum 'C2 N3 Na1'
+_chemical_name_structure_type NaC2N3
+_exptl_crystal_density_diffrn 1.71
+_publ_section_title
+
+;
+Trimerization of Na C2 N3 to Na3 C6 N9 in the solid: Ab initio crystal
+structure determination of two polymorphs of Na C2 N3 and of Na3 C6 N9 from
+x-ray powder diffractometry
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2000 39 665 670 INOCAJ
+loop_
+_publ_author_name
+'Juergens, B.'
+'Irran, E.'
+'Schneider, J.'
+'Schnick, W.'
+_cell_length_a 6.477(1)
+_cell_length_b 14.948(3)
+_cell_length_c 3.5725(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.469(1)
+_cell_angle_gamma 90.
+_cell_volume 345.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.072
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+N3- -3
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.6437(3) 0.0878(1) 0.2606(8) 0.037(1) 1. 0
+N1 N3- 4 e 0.2747(5) 0.0269(2) 0.2267(14) 0.031(2) 1. 0
+N2 N3- 4 e 0.0056(5) 0.1410(3) 0.2840(13) 0.040(2) 1. 0
+N3 N3- 4 e 0.0570(6) 0.3030(2) 0.2573(15) 0.044(2) 1. 0
+C1 C4+ 4 e 0.1558(8) 0.0832(4) 0.2593(17) 0.031(2) 1. 0
+C2 C4+ 4 e 0.0468(7) 0.2269(4) 0.2623(19) 0.053(2) 1. 0
+#End of TTdata_280187-ICSD

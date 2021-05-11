@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432970-ICSD
+_database_code_ICSD 432970
+_audit_creation_date 2018-02-01
+_chemical_name_systematic
+'Heptasodium trivanadium aluminium tetrakis(diphosphate) orthophosphate'
+_chemical_formula_structural 'Na7 V3 Al (P2 O7)4 (P O4)'
+_chemical_formula_sum 'Al1 Na7 O32 P9 V3'
+_chemical_name_structure_type Na7(InP2O7)4PO4
+_exptl_crystal_density_diffrn 2.98
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Structural and electrochemical studies of novel Na7V3Al(P2O7)4(PO4) and
+Na7V2Al2(P2O7)4(PO4) high-voltage cathode materials for Na-ion batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'Journal of Materials Chemistry A: Materials for Energy and Sustainability' 2017 5 14365 14376 JMCAET
+loop_
+_publ_author_name
+'Kovrugin, Vadim M.'
+'Chotard, Jean-Noel'
+'Fauth, Francois'
+'Jamali, Arash'
+'David, Renald'
+'Masquelier, Christian'
+_cell_length_a 14.1488(10)
+_cell_length_b 14.1488(10)
+_cell_length_c 6.2933(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1259.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 c'
+_symmetry_Int_Tables_number 114
+_refine_ls_R_factor_all 0.062
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 'y, -x, -z'
+3 '-y+1/2, -x+1/2, z+1/2'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+Al3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 8 e 0.81757(12) 0.12096(12) 0.1317(3) 0.0090(4) 0.75 0
+Al1 Al3+ 8 e 0.81757(12) 0.12096(12) 0.1317(3) 0.0090(4) 0.25 0
+P1 P5+ 2 a 0. 0. 0. 0.0068(10) 1 0
+P2 P5+ 8 e 0.62231(17) 0.25698(16) 0.1444(4) 0.0062(5) 1 0
+P3 P5+ 8 e 0.95720(17) 0.30166(16) 0.1063(4) 0.0068(5) 1 0
+Na1 Na1+ 2 b 0. 0. 0.5 0.050(3) 1 0
+Na2 Na1+ 4 d 0. 0.5 0.8235(9) 0.0277(15) 1 0
+Na3 Na1+ 8 e 0.9187(3) 0.2590(3) 0.6009(7) 0.0195(10) 1 0
+O1 O2- 8 e 0.1378(4) 0.1713(4) 0.1843(9) 0.0101(15) 1 0
+O2 O2- 8 e 0.7019(4) 0.1906(5) 0.1096(12) 0.0192(16) 1 0
+O3 O2- 8 e 0.9347(4) 0.0542(4) 0.1483(10) 0.0087(13) 1 0
+O4 O2- 8 e 0.5355(4) 0.1898(5) 0.2112(11) 0.0188(17) 1 0
+O5 O2- 8 e 0.5903(5) 0.3056(5) 0.9447(10) 0.0171(17) 1 0
+O6 O2- 8 e 0.0034(5) 0.2561(4) 0.9175(10) 0.0107(14) 1 0
+O7 O2- 8 e 0.9269(4) 0.4017(4) 0.0690(10) 0.0105(16) 1 0
+O8 O2- 8 e 0.8802(5) 0.2421(5) 0.2030(10) 0.0179(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V3+ 0.0109(10) 0.0082(9) 0.0081(9) -0.0006(8) 0.0005(9) 0.0002(9)
+Al1 Al3+ 0.0109(10) 0.0082(9) 0.0081(9) -0.0006(8) 0.0005(9) 0.0002(9)
+P1 P5+ 0.0100(17) 0.0100(17) 0.001(2) 0. 0. 0.
+P2 P5+ 0.0071(12) 0.0054(12) 0.0060(11) 0.0004(11) 0.0005(11) 0.0024(11)
+P3 P5+ 0.0066(12) 0.0056(12) 0.0081(12) 0.0024(10) -0.0009(10) 0.0006(10)
+Na1 Na1+ 0.070(4) 0.070(4) 0.009(4) 0. 0. 0.
+Na2 Na1+ 0.028(3) 0.040(4) 0.015(3) -0.021(3) 0. 0.
+Na3 Na1+ 0.023(2) 0.021(2) 0.015(2) -0.0045(19) -0.0009(19) 0.004(2)
+O2 O2- 0.011(4) 0.026(4) 0.021(4) 0.012(3) 0.000(3) -0.004(4)
+O3 O2- 0.005(3) 0.015(3) 0.006(3) 0.003(3) -0.001(3) -0.004(3)
+O4 O2- 0.014(4) 0.021(4) 0.022(4) -0.015(3) 0.010(3) -0.011(3)
+O5 O2- 0.025(4) 0.018(4) 0.008(4) 0.008(4) -0.002(3) 0.002(3)
+O6 O2- 0.012(3) 0.012(3) 0.008(3) 0.007(3) -0.001(3) -0.003(3)
+O7 O2- 0.015(4) 0.003(3) 0.013(4) 0.003(3) -0.001(3) -0.002(3)
+O8 O2- 0.019(4) 0.018(4) 0.017(4) -0.003(4) 0.006(3) -0.004(3)
+#End of TTdata_432970-ICSD

@@ -1,0 +1,93 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80108-ICSD
+_database_code_ICSD 80108
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Lithium gallium catena-disilicate'
+_chemical_formula_structural 'Li Ga (Si2 O6)'
+_chemical_formula_sum 'Ga1 Li1 O6 Si2'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_exptl_crystal_density_diffrn 3.77
+_cell_measurement_temperature 273.
+_publ_section_title 'Low-temperature form of Li Ga Si2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1995 51 1959 1960 ACSCEE
+loop_
+_publ_author_name
+'Sato, A.'
+'Osawa, T.'
+'Ohashi, H.'
+_cell_length_a 9.5394(4)
+_cell_length_b 8.5756(2)
+_cell_length_c 5.2508(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.124(2)
+_cell_angle_gamma 90.
+_cell_volume 403.32
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+Li1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 4 e 0.25033(3) 0.65098(3) 0.23963(5) . 1. 0
+Li1 Li1+ 4 e 0.2479(9) 0.0125(9) 0.237(1) . 1. 0
+Si1 Si4+ 4 e 0.04726(8) 0.34077(9) 0.2683(1) . 1. 0
+Si2 Si4+ 4 e 0.54799(8) 0.84060(9) 0.2525(1) . 1. 0
+O1 O2- 4 e 0.8640(2) 0.3326(2) 0.1534(3) . 1. 0
+O2 O2- 4 e 0.1148(2) 0.5121(3) 0.3132(4) . 1. 0
+O3 O2- 4 e 0.1081(2) 0.2623(3) 0.5688(4) . 1. 0
+O4 O2- 4 e 0.3645(2) 0.8336(3) 0.1340(4) . 1. 0
+O5 O2- 4 e 0.6189(2) 0.0085(3) 0.3431(4) . 1. 0
+O6 O2- 4 e 0.6064(2) 0.7307(3) 0.5210(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.00387(7) 0.00479(8) 0.00365(7) 0.0001(1) 0.00145(6) 0.00014(8)
+Li1 Li1+ 0.015(2) 0.020(3) 0.014(2) -.002(2) 0.006(2) -.001(2)
+Si1 Si4+ 0.0037(2) 0.0053(3) 0.0035(2) -.0004(2) 0.0016(2) -.0001(2)
+Si2 Si4+ 0.0037(2) 0.0049(3) 0.0038(2) -.0007(2) 0.0017(2) -.0001(2)
+O1 O2- 0.0038(5) 0.0065(7) 0.0038(5) -.0002(5) 0.0008(4) -.0002(5)
+O2 O2- 0.0075(6) 0.0070(7) 0.0089(6) -.0023(6) 0.0041(4) -.0004(5)
+O3 O2- 0.0046(6) 0.0108(7) 0.0055(5) -.0002(6) 0.0014(4) 0.0026(5)
+O4 O2- 0.0040(5) 0.0072(7) 0.0043(5) -.0002(5) 0.0013(4) 0.0003(5)
+O5 O2- 0.0087(6) 0.0072(7) 0.0082(5) -.0032(6) 0.0046(4) -.0019(5)
+O6 O2- 0.0058(6) 0.0132(8) 0.0072(6) 0.0008(6) 0.0027(4) 0.0054(6)
+#End of TTdata_80108-ICSD

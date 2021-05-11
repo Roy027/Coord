@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_924-ICSD
+_database_code_ICSD 924
+_audit_creation_date 1980-01-01
+_audit_update_record 2011-08-01
+_chemical_name_systematic 'Disodium zincotrisilicate'
+_chemical_formula_structural 'Na2 (Zn Si3 O8)'
+_chemical_formula_sum 'Na2 O8 Si3 Zn1'
+_exptl_crystal_density_diffrn 3.
+_publ_section_title 'Disodium zincosilicate, Na2 Zn Si3 O8'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1977 33 1333 1337 ACBCAR
+loop_
+_publ_author_name
+'Hesse, K.F.'
+'Liebau, F.'
+'Boehm, H.'
+'Ribbe, P.H.'
+'Phillips, M.W.'
+_cell_length_a 6.660(6)
+_cell_length_b 8.629(6)
+_cell_length_c 6.411(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.70(7)
+_cell_angle_gamma 90.
+_cell_volume 357.95
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.033
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.4673(7) 0.8764(6) 0.0847(7) . 1. 0
+Na2 Na1+ 2 a 0.2155(6) 0.4337(5) 0.3297(6) . 1. 0
+Zn1 Zn2+ 2 a 0.6070(1) 0.2428(1) 0.4646(1) . 1. 0
+Si1 Si4+ 2 a 0.2660(3) 0.0746(3) 0.6440(3) . 1. 0
+Si2 Si4+ 2 a -.1038(3) 0.0568(3) -.7508(3) . 1. 0
+Si3 Si4+ 2 a 0.0127(3) 0.2391(4) 0.9067(3) . 1. 0
+O1 O2- 2 a 0.5729(9) 0.4352(8) 0.2965(9) . 1. 0
+O2 O2- 2 a 0.6691(10) 0.0830(9) 0.2817(10) . 1. 0
+O3 O2- 2 a 0.3509(8) 0.2297(9) 0.5606(9) . 1. 0
+O4 O2- 2 a 0.7935(9) 0.2247(9) 0.7478(9) . 1. 0
+O5 O2- 2 a 0.8874(9) -.0862(8) 0.0798(9) . 1. 0
+O6 O2- 2 a 0.0546(9) 0.0109(8) 0.4755(10) . 1. 0
+O7 O2- 2 a 0.1848(10) 0.1173(8) 0.863(1) . 1. 0
+O8 O2- 2 a -.0070(9) 0.2075(7) -.8476(9) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0111(7) 0.0085(5) 0.0108(8) -.0029(5) 0.0012(6) 0.0012(5)
+Na2 Na1+ 0.0058(6) 0.0031(3) 0.0084(7) 0.0008(4) 0.0012(5) 0.0001(4)
+Zn1 Zn2+ 0.0025(1) 0.0017(1) 0.0048(1) 0.0003(1) 0.0008(1) 0.0003(1)
+Si1 Si4+ 0.0018(3) 0.0013(2) 0.0044(3) 0.0002(2) 0.0005(3) 0.0000(2)
+Si2 Si4+ 0.0025(3) 0.0012(2) 0.0035(3) 0.0002(2) 0.0005(3) 0.0000(2)
+Si3 Si4+ 0.0022(3) 0.0014(2) 0.0035(3) 0.0000(3) 0.0003(2) -.0001(3)
+O1 O2- 0.0033(9) 0.0011(5) 0.0082(11) -.0007(6) 0.0008(8) 0.0007(6)
+O2 O2- 0.0038(9) 0.0030(6) 0.0092(11) -.0002(7) 0.0018(8) -.0020(7)
+O3 O2- 0.0028(8) 0.0017(5) 0.0094(10) -.0004(7) 0.0019(7) 0.0010(8)
+O4 O2- 0.0041(8) 0.0031(6) 0.0066(10) -.0009(7) -.0008(7) -.0001(7)
+O5 O2- 0.005(1) 0.0015(5) 0.0055(10) 0.0009(6) 0.0004(8) -.0007(7)
+O6 O2- 0.0038(9) 0.0024(6) 0.0054(10) -.0012(6) -.0004(8) 0.0002(6)
+O7 O2- 0.0051(10) 0.0032(6) 0.0060(11) 0.0013(6) 0.0019(8) 0.0001(7)
+O8 O2- 0.0049(9) 0.0017(6) 0.0052(10) 0.0006(5) 0.0017(7) 0.0004(6)
+#End of TTdata_924-ICSD

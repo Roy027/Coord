@@ -1,0 +1,112 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251050-ICSD
+_database_code_ICSD 251050
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Sodium indium tellurium oxide (1.4/1/3.6/9.4)'
+_chemical_formula_structural 'Na1.4 In Te3.6 O9.4'
+_chemical_formula_sum 'In1 Na1.4 O9.4 Te3.6'
+_exptl_crystal_density_diffrn 5.37
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Na1.4InTe3.6O9.4: New variant of a hexagonal tungsten oxide (HTO)-like layered
+framework containing both a main-group cation, In3+, and a lone-pair cation,
+Te4+
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 6236 6238 INOCAJ
+loop_
+_publ_author_name
+'Lee, Dong Woo'
+'Ok, Kang Min'
+_cell_length_a 11.2026(5)
+_cell_length_b 6.7162(3)
+_cell_length_c 13.0527(6)
+_cell_angle_alpha 90
+_cell_angle_beta 107.457(2)
+_cell_angle_gamma 90
+_cell_volume 936.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 2/c 1'
+_symmetry_Int_Tables_number 13
+_refine_ls_R_factor_all 0.0299
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Te4+ 4
+In3+ 3
+Na1+ 1
+Te4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Te1 Te4+ 4 g 0.09135(5) 0.25506(9) 0.01030(4) 0.00894(16) 1 0
+Te2 Te4+ 2 e 0 0.35223(14) 0.25 0.0127(2) 1 0
+Te3 Te4+ 4 g -0.20445(5) -0.06164(9) 0.23738(4) 0.01222(17) 1 0
+Te4 Te4+ 4 g -0.56797(5) 0.25868(9) 0.00013(4) 0.01096(17) 1 0
+In1 In3+ 4 g 0.31192(5) 0.45586(10) 0.25528(4) 0.00884(17) 1 0
+Na1 Na1+ 4 g -0.2580(3) 0.2544(5) -0.0198(3) 0.0208(9) 1 0
+Na2 Na1+ 2 f -0.5 -0.0758(9) 0.25 0.060(2) 0.88(3) 0
+Te5 Te4+ 2 f -0.5 -0.0758(9) 0.25 0.060(2) 0.119(8) 0
+O1 O2- 4 g 0.2301(5) 0.4040(8) 0.0853(4) 0.0116(14) 1 0
+O2 O2- 4 g 0.1307(5) 0.0156(9) 0.0863(4) 0.0141(14) 1 0
+O3 O2- 4 g -0.0242(5) 0.3509(9) 0.0808(4) 0.0120(13) 1 0
+O4 O2- 4 g 0.1313(6) 0.5270(10) 0.2759(5) 0.0114(17) 0.904(9) 0
+O5 O2- 4 g 0.3060(5) 0.7658(9) 0.2166(5) 0.0185(15) 1 0
+O6 O2- 4 g -0.3152(6) 0.1518(10) 0.2149(5) 0.0260(17) 1 0
+O7 O2- 4 g -0.2730(5) -0.1325(9) 0.0810(4) 0.0110(13) 1 0
+O8 O2- 4 g -0.4696(5) 0.1546(11) -0.0763(5) 0.0232(16) 1 0
+O9 O2- 4 g 0.3862(5) 0.4948(9) 0.4262(4) 0.0140(14) 1 0
+O10 O2- 2 f 0.5 0.4769(15) 0.25 0.043(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 Te4+ 0.0101(3) 0.0099(4) 0.0064(3) 0.0005(2) 0.0018(2) 0.0005(2)
+Te2 Te4+ 0.0107(4) 0.0139(5) 0.0128(4) 0 0.0025(3) 0
+Te3 Te4+ 0.0142(3) 0.0098(4) 0.0132(3) -0.0018(3) 0.0050(2) 0.0004(2)
+Te4 Te4+ 0.0127(3) 0.0127(4) 0.0077(3) 0.0015(2) 0.0035(2) 0.0014(2)
+In1 In3+ 0.0092(3) 0.0082(4) 0.0090(3) 0.0002(3) 0.0026(2) 0.0008(2)
+Na1 Na1+ 0.017(2) 0.023(3) 0.023(2) -0.0038(17) 0.0066(16) -0.0035(17)
+Na2 Na1+ 0.016(2) 0.143(6) 0.020(2) 0 0.0047(17) 0
+Te5 Te4+ 0.016(2) 0.143(6) 0.020(2) 0 0.0047(17) 0
+O1 O2- 0.013(3) 0.008(4) 0.015(3) -0.002(3) 0.005(3) -0.003(2)
+O2 O2- 0.019(3) 0.011(4) 0.011(3) -0.002(3) 0.002(3) 0.004(3)
+O3 O2- 0.010(3) 0.019(4) 0.009(3) 0.004(3) 0.006(2) -0.004(3)
+O5 O2- 0.020(3) 0.020(4) 0.016(3) 0.005(3) 0.006(3) 0.006(3)
+O6 O2- 0.039(4) 0.008(4) 0.023(4) 0.005(3) -0.003(3) 0.004(3)
+O7 O2- 0.012(3) 0.012(4) 0.008(3) 0.002(3) 0.001(2) 0.000(3)
+O8 O2- 0.014(3) 0.035(5) 0.021(4) 0.001(3) 0.005(3) -0.011(3)
+O9 O2- 0.019(3) 0.014(4) 0.006(3) 0.000(3) -0.002(3) -0.005(3)
+O10 O2- 0.019(6) 0.013(6) 0.107(10) 0 0.034(6) 0
+#End of TTdata_251050-ICSD

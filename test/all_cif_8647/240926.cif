@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240926-ICSD
+_database_code_ICSD 240926
+_audit_creation_date 2008-08-01
+_chemical_name_systematic
+'Poly(hexaaquacopper(II) (di-mue3-sulfato-disodiate(I)))'
+_chemical_formula_structural '(Cu (H2 O)6) (Na2 (S O4)2)'
+_chemical_formula_sum 'H12 Cu1 Na2 O14 S2'
+_chemical_name_structure_type 'Picromerite-(NH4)2Mg(SO4)2(H2O)6(e9 a)'
+_exptl_crystal_density_diffrn 2.
+_cell_measurement_temperature 291.
+_publ_section_title 'Poly[hexaaquacopper(II) [di-mu3-sulfato-disodiate(I)]]'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2008 64 i7
+i7 ACSEBH
+loop_
+_publ_author_name
+'Wu Wen'
+'Xie, J.-M.'
+'Xie, D.-P.'
+'Xuan, Y.-W.'
+_cell_length_a 6.2345(12)
+_cell_length_b 12.333(3)
+_cell_length_c 9.1822(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.56(3)
+_cell_angle_gamma 90.
+_cell_volume 680.14
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.036
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+S6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 2 d 0.5 0.5 1. 0.0195(2) 1 0
+S1 S6+ 4 e 0.76455(13) 0.63853(6) 0.59661(9) 0.0249(2) 1 0
+Na1 Na1+ 4 e 0.8483(3) 0.35098(12) 0.62649(17) 0.0382(4) 1 0
+O1 O2- 4 e 0.5346(4) 0.3875(2) 0.8249(3) 0.0340(6) 1 0
+O2 O2- 4 e 0.3313(4) 0.6137(2) 0.8339(3) 0.0360(6) 1 0
+H1 H1+ 4 e 0.192(3) 0.594(4) 0.786(4) 0.045(12) 1 0
+H2 H1+ 4 e 0.409(8) 0.620(4) 0.765(4) 0.062(15) 1 0
+O3 O2- 4 e 0.7863(4) 0.5650(2) 0.9976(3) 0.0253(5) 1 0
+H3 H1+ 4 e 0.801(8) 0.627(4) 1.025(6) 0.054(15) 1 0
+O4 O2- 4 e 0.8777(4) 0.56884(18) 0.7250(2) 0.0289(5) 1 0
+O5 O2- 4 e 0.7360(5) 0.5768(3) 0.4569(3) 0.0486(8) 1 0
+O6 O2- 4 e 0.9065(4) 0.7338(2) 0.5942(3) 0.0412(7) 1 0
+O7 O2- 4 e 0.5467(4) 0.6744(2) 0.6153(3) 0.0357(6) 1 0
+H4 H1+ 4 e 0.825(7) 0.563(3) 0.911(3) 0.036(11) 1 0
+H5 H1+ 4 e 0.439(7) 0.401(4) 0.734(3) 0.068(16) 1 0
+H6 H1+ 4 e 0.503(7) 0.327(4) 0.846(5) 0.038(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0200(3) 0.0198(3) 0.0185(3) -0.00122(18) 0.0047(2) 0.00199(18)
+S1 S6+ 0.0269(4) 0.0244(4) 0.0222(4) 0.0025(3) 0.0046(3) 0.0043(3)
+Na1 Na1+ 0.0385(8) 0.0395(8) 0.0391(8) -0.0010(6) 0.0149(7) -0.0020(6)
+O1 O2- 0.0213(14) 0.0204(14) 0.0257(13) -0.0061(11) 0.0075(11) 0.0023(11)
+O2 O2- 0.0210(13) 0.0221(15) 0.0255(13) -0.0063(11) 0.0076(11) 0.0023(11)
+O3 O2- 0.0262(11) 0.0255(12) 0.0260(12) -0.0027(9) 0.0099(9) -0.0009(9)
+O4 O2- 0.0315(12) 0.0313(13) 0.0239(11) 0.0042(10) 0.0075(9) 0.0080(9)
+O5 O2- 0.0633(19) 0.0553(18) 0.0234(13) 0.0095(15) 0.0051(12) -0.0072(12)
+O6 O2- 0.0347(14) 0.0320(13) 0.0557(17) -0.0018(11) 0.0100(12) 0.0155(12)
+O7 O2- 0.0258(12) 0.0333(13) 0.0477(15) 0.0045(10) 0.0094(11) 0.0033(11)
+#End of TTdata_240926-ICSD

@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200265-ICSD
+_database_code_ICSD 200265
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium undecalead hexabromide 18-fluoride'
+_chemical_formula_structural 'Na2 Pb11 F18 Br6'
+_chemical_formula_sum 'Br6 F18 Na2 Pb11'
+_chemical_name_structure_type Na2Pb11F18Br6
+_exptl_crystal_density_diffrn 7.24
+_publ_section_title
+
+;
+X-ray studies on mixed sodium lead bromide fluorides with the limiting
+composition 3Pb F2 * Pb Br2 and similar substances
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemica Scripta' 1977 12 18 22 CSRPB9
+loop_
+_publ_author_name
+'Aurivillius, B.'
+_cell_length_a 14.3421(10)
+_cell_length_b 14.3421(10)
+_cell_length_c 4.0528(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 721.96
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.071
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Pb2+ 2
+Br1- -1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0 0 0 3.8 0.5 0
+Na2 Na1+ 6 h 0.87580(6) 0.48954(6) 0.25 . 0.1667 0
+Pb1 Pb2+ 6 h 0.87580(6) 0.48954(6) 0.25 . 0.8333 0
+Pb2 Pb2+ 6 h 0.27109(6) 0.05036 0.25 . 1. 0
+Br1 Br1- 6 h 0.28326(15) 0.48426(16) 0.25 . 1. 0
+F1 F1- 6 h 0.0895(12) 0.1790(11) 0.25 2.1 1. 0
+F2 F1- 6 h 0.3199(9) 0.2554(9) 0.25 1.4 1. 0
+F3 F1- 6 h 0.0165(10) 0.436(1) 0.25 1.8 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na2 Na1+ 0.00244(5) 0.00235(4) 0.0224(6) 0.00121(4) 0 0
+Pb1 Pb2+ 0.00244(5) 0.00235(4) 0.0224(6) 0.00121(4) 0 0
+Pb2 Pb2+ 0.00273(4) 0.00240(4) 0.0251(5) 0.00100(3) 0 0
+Br1 Br1- 0.00242(10) 0.00312(11) 0.0236(12) 0.00147(9) 0 0
+#End of TTdata_200265-ICSD

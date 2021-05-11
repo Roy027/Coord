@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_430317-ICSD
+_database_code_ICSD 430317
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Pentaamminesodium azide'
+_chemical_formula_structural '(Na (N H3)5) N3'
+_chemical_formula_sum 'H15 N8 Na1'
+_exptl_crystal_density_diffrn 1.08
+_cell_measurement_temperature 100.
+_publ_section_title 'Ammine complexes of Na-, Ag-, Mn-, and Zn-azides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2016 642 796 803
+ZAACAB
+loop_
+_publ_author_name
+'Mueller, Thomas G.'
+'Buchner, Magnus R.'
+'Scheubeck, Thomas J.'
+'Korber, Nikolaus'
+'Kraus, Florian'
+_cell_length_a 13.5104(14)
+_cell_length_b 5.6400(5)
+_cell_length_c 13.5034(15)
+_cell_angle_alpha 90
+_cell_angle_beta 115.901(8)
+_cell_angle_gamma 90
+_cell_volume 925.58
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+N3- -3
+H1+ 1
+N3- -3
+N0+ -0.33
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.5 0.31065(7) 0.25 0.02287(13) 1 0
+N1 N3- 4 e 0.5 0.74788(19) 0.25 0.0341(2) 1 0
+H1 H1+ 8 f 0.4815 0.8017 0.3032 0.051 0.5 0
+H2 H1+ 8 f 0.4502 0.8017 0.1832 0.051 0.5 0
+H3 H1+ 8 f 0.5682 0.8017 0.2636 0.051 0.5 0
+N2 N3- 8 f 0.45331(12) 0.24995(14) 0.05261(12) 0.0270(3) 1 0
+N3 N3- 8 f 0.30254(12) 0.24618(14) 0.20342(12) 0.0270(3) 1 0
+N4 N0+ 8 f 0.30140(14) 0.24758(13) 0.44840(15) 0.02728(15) 1 0
+N5 N0+ 4 d 0.25 0.25 0.5 0.01940(15) 1 0
+H4 H1+ 8 f 0.4113(14) 0.370(3) 0.0070(15) 0.042(5) 1 0
+H5 H1+ 8 f 0.4110(13) 0.131(3) 0.0079(14) 0.038(4) 1 0
+H6 H1+ 8 f 0.5121(12) 0.2506(17) 0.0329(12) 0.014(3) 1 0
+H7 H1+ 8 f 0.2738(13) 0.379(3) 0.1681(14) 0.039(4) 1 0
+H8 H1+ 8 f 0.309(2) 0.248(3) 0.264(2) 0.059(7) 1 0
+H9 H1+ 8 f 0.2727(13) 0.120(3) 0.1668(14) 0.035(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0229(2) 0.0206(2) 0.0241(2) 0. 0.00941(14) 0.
+N1 N3- 0.0361(11) 0.0227(4) 0.0377(12) 0. 0.0106(4) 0.
+N2 N3- 0.0239(6) 0.0309(6) 0.0244(6) 0.0001(3) 0.0088(4) -0.0015(2)
+N3 N3- 0.0255(6) 0.0275(6) 0.0260(6) -0.0018(3) 0.0095(5) -0.0002(3)
+N4 N0+ 0.0283(6) 0.0275(3) 0.0307(6) -0.0008(3) 0.0172(2) -0.0006(2)
+N5 N0+ 0.0197(7) 0.0163(3) 0.0202(7) 0.0002(3) 0.0069(2) 0.0003(3)
+#End of TTdata_430317-ICSD

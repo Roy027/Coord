@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_244242-ICSD
+_database_code_ICSD 244242
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Disodium cobalt phosphate arsenate'
+_chemical_formula_structural 'Na2 Co (P1.07 As0.93) O7'
+_chemical_formula_sum 'As0.93 Co1 Na2 O7 P1.07'
+_exptl_crystal_density_diffrn 3.34
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The influence of P/As substitution in the melilite-like Na2Co(P2-xAsx)O7 (x =
+0.40 and 0.93) solid solutions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Structural Chemistry' 2017 73 331
+336 ACSCGG
+loop_
+_publ_author_name
+'Issaoui, Chokri'
+'Chebbi, Hammouda'
+'Guesmi, Abderrahmen'
+_cell_length_a 7.8084(10)
+_cell_length_b 7.8084(10)
+_cell_length_c 10.4329(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 636.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+As5+ 5
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 d 0. 0.5 0.25 0.0287(5) 1 0
+As1 As5+ 8 j 0.36231(8) 0.36231(8) 0.28780(11) 0.0236(4) 0.467(6) 0
+P1 P5+ 8 j 0.36231(8) 0.36231(8) 0.28780(11) 0.0236(4) 0.533(6) 0
+Na1 Na1+ 4 f 0.2007(3) 0.2007(3) 0. 0.0403(11) 1 0
+Na2 Na1+ 4 g 0.3604(3) 0.6396(3) 0. 0.0314(11) 1 0
+O1 O2- 8 j 0.3659(4) 0.3659(4) 0.1393(6) 0.0361(14) 1 0
+O2 O2- 8 j 0.4630(7) 0.5370(7) 0.3463(10) 0.029(3) 0.5 0
+O3 O2- 16 k 0.196(7) 0.425(8) 0.393(6) 0.033(2) 0.11(2) 0
+O4 O2- 16 k 0.181(2) 0.3809(19) 0.3458(16) 0.033(2) 0.432(17) 0
+O5 O2- 16 k 0.200(2) 0.4574(19) 0.3540(19) 0.033(2) 0.45(2) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0268(5) 0.0268(5) 0.0325(11) 0. 0. 0.
+As1 As5+ 0.0221(4) 0.0221(4) 0.0265(8) 0.0026(4) 0.0008(3) 0.0008(3)
+P1 P5+ 0.0221(4) 0.0221(4) 0.0265(8) 0.0026(4) 0.0008(3) 0.0008(3)
+Na1 Na1+ 0.0389(15) 0.0389(15) 0.043(3) -0.0259(19) 0. 0.
+Na2 Na1+ 0.0283(13) 0.0283(13) 0.038(3) 0.0063(16) 0. 0.
+O1 O2- 0.0346(17) 0.0346(17) 0.039(4) -0.013(2) -0.0024(15) -0.0024(15)
+O2 O2- 0.026(3) 0.026(3) 0.034(7) -0.003(4) 0.008(2) -0.008(2)
+O3 O2- 0.037(4) 0.046(7) 0.014(5) 0.022(6) -0.002(3) 0.001(6)
+O4 O2- 0.037(4) 0.046(7) 0.014(5) 0.022(6) -0.002(3) 0.001(6)
+O5 O2- 0.037(4) 0.046(7) 0.014(5) 0.022(6) -0.002(3) 0.001(6)
+#End of TTdata_244242-ICSD

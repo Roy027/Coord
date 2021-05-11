@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_33765-ICSD
+_database_code_ICSD 33765
+_audit_creation_date 1991-07-10
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Sodium ferrate(III) - beta'
+_chemical_formula_structural 'Na (Fe O2)'
+_chemical_formula_sum 'Fe1 Na1 O2'
+_chemical_name_structure_type NaFeO2(beta)
+_exptl_crystal_density_diffrn 3.26
+_cell_measurement_temperature 1023.
+_publ_section_title
+
+;
+A neutron powder diffraction study of the beta to gamma phase transformation
+in Na Fe O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1990 193 51 69 ZEKRDZ
+loop_
+_publ_author_name
+'Grey, I.E.'
+'Hill, R.J.'
+'Hewat, A.W.'
+_cell_length_a 5.6819(2)
+_cell_length_b 5.4493(2)
+_cell_length_c 7.2997(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 226.02
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n 21 a'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0.0622(3) 0 0.1264(4) . 1. 0
+Na1 Na1+ 4 a 0.440(1) 0.533(2) 0.122(2) . 1. 0
+O1 O2- 4 a 0.0387(9) 0.6662(8) 0.0808(6) . 1. 0
+O2 O2- 4 a 0.3753(8) 0.0751(8) 0.1688(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Fe1 Fe3+ 0.0182(6) 0.022(1) 0.0121(5) 0.003(1) 0.0015(7) 0.0017(7)
+Na1 Na1+ 0.075(4) 0.055(5) 0.021(2) 0.004(5) 0.005(3) 0.033(3)
+O1 O2- 0.038(2) 0.015(2) 0.013(1) 0.000(1) -.001(1) 0.0002(9)
+O2 O2- 0.022(1) 0.036(2) 0.025(2) 0.000(1) -.004(1) 0.004(1)
+#End of TTdata_33765-ICSD

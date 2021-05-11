@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_84070-ICSD
+_database_code_ICSD 84070
+_audit_creation_date 1999-01-19
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Octasodium dilead bis(hexathiodigermanate)'
+_chemical_formula_structural 'Na8 Pb2 (Ge2 S6)2'
+_chemical_formula_sum 'Ge4 Na8 Pb2 S12'
+_chemical_name_structure_type Na8Pb2Ge4S12
+_exptl_crystal_density_diffrn 3.54
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+The ethane-like (Ge2 S6)(6-) and (Si2 Se6)(6-) ligands bound to main-group
+metals in Na8 Pb2 (Ge2 S6)2, Na8 Sn2 (Ge2 S6)2, and Na8 Pb2 (Si2 Se6)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1997 259 122 128 JALCEU
+loop_
+_publ_author_name
+'Marking, G.A.'
+'Kanatzidis, M.G.'
+_cell_length_a 6.839(2)
+_cell_length_b 11.783(2)
+_cell_length_c 7.744(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.00(2)
+_cell_angle_gamma 90.
+_cell_volume 596.77
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Pb2+ 2
+Na1+ 1
+Ge3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0.5 0 0 1.9(2) 1. 0
+Na2 Na1+ 4 h 0.5 0.83519(4) 0.5 1.22(2) 0.5 0
+Pb1 Pb2+ 4 h 0.5 0.83519(4) 0.5 1.22(2) 0.5 0
+Na3 Na1+ 4 g 0 0.1792(3) 0 1.7(1) 1. 0
+Ge1 Ge3+ 4 i 0.0524(1) 0 0.6617(1) 0.69(3) 1. 0
+S1 S2- 4 i 0.7745(3) 0 0.7539(3) 1.17(6) 1. 0
+S2 S2- 8 j 0.2381(2) 0.1556(1) 0.7516(2) 1.11(5) 1. 0
+#End of TTdata_84070-ICSD

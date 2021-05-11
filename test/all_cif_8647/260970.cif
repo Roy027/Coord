@@ -1,0 +1,140 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260970-ICSD
+_database_code_ICSD 260970
+_audit_creation_date 2011-02-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Octasodium 24-uranyl 24-peroxo 12-diphosphate'
+_chemical_formula_structural 'Na8 ((U O2)24 (O2)24 (P2 O7)12)'
+_chemical_formula_sum 'Na8 O180 P24 U24'
+_exptl_crystal_density_diffrn 2.01
+_cell_measurement_temperature 273.
+_publ_section_title
+'Uranium pyrophosphate/methylenediphosphonate polyoxometalate cage clusters'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2010 132 13395 13402 JACSAT
+loop_
+_publ_author_name
+'Ling Jie'
+'Qiu Jie'
+'Sigmon, G.E.'
+'Ward, M.'
+'Szymanowski, J.E.S.'
+'Burns, P.C.'
+_cell_length_a 22.746(2)
+_cell_length_b 22.746(2)
+_cell_length_c 30.426(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 15741.82
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.0493
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+P5+ 5
+Na1+ 1
+O1- -1
+O2- -2
+O1- -1
+O2- -2
+O1- -1
+O2- -2
+O1- -1
+O2- -2
+O1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 8 j 0.59441(4) 0.40559(4) 0.24574(5) 0.0572(5) 1 0
+U2 U6+ 16 k 0.74585(4) 0.43809(4) 0.32116(3) 0.0581(5) 1 0
+U3 U6+ 8 j 0.70949(5) 0.29051(5) 0.39698(5) 0.0680(6) 1 0
+U4 U6+ 16 k 0.78913(5) 0.65794(5) 0.43065(3) 0.0750(5) 1 0
+P1 P5+ 16 k 0.7977(3) 0.5893(3) 0.3227(2) 0.069(2) 1 0
+P2 P5+ 8 j 0.5448(3) 0.5448(3) 0.1961(3) 0.065(3) 1 0
+P3 P5+ 16 k 0.8496(3) 0.5204(3) 0.3882(3) 0.075(2) 1 0
+P4 P5+ 8 i 0.6979(6) 0.2144(6) 0.5 0.101(4) 1 0
+Na1 Na1+ 8 j 0.5840(4) 0.4160(4) 0.3796(5) 0.079(4) 1 0
+Na2 Na1+ 8 j 0.8210(5) 0.1790(5) 0.2660(5) 0.084(5) 1 0
+O1 O1- 16 k 0.7776(6) 0.3637(6) 0.3719(5) 0.062(5) 1 0
+O2 O2- 8 j 0.5760(7) 0.5760(7) 0.1597(8) 0.078(8) 1 0
+O3 O2- 8 j 0.7609(6) 0.2391(6) 0.3900(7) 0.055(6) 1 0
+O4 O1- 8 j 0.7532(7) 0.7532(7) 0.4382(7) 0.060(6) 1 0
+O5 O1- 16 k 0.6617(6) 0.2564(6) 0.3337(5) 0.058(5) 1 0
+O6 O2- 16 k 0.8004(7) 0.4794(7) 0.3815(5) 0.072(5) 1 0
+O7 O2- 16 k 0.8519(7) 0.6881(7) 0.4120(5) 0.071(5) 1 0
+O8 O2- 4 e 0.5 0.5 0.1723(9) 0.062(9) 1 0
+O9 O1- 8 j 0.7336(7) 0.7336(7) 0.3952(7) 0.067(7) 1 0
+O10 O2- 16 k 0.6822(6) 0.4510(6) 0.3534(5) 0.062(5) 1 0
+O11 O2- 8 j 0.6557(7) 0.3443(7) 0.4064(7) 0.065(7) 1 0
+O12 O2- 16 k 0.7590(7) 0.5389(7) 0.3068(5) 0.076(5) 1 0
+O13 O2- 8 j 0.6141(6) 0.3859(6) 0.1893(7) 0.059(6) 1 0
+O14 O1- 16 k 0.6868(6) 0.4542(6) 0.2549(4) 0.055(4) 1 0
+O15 O1- 16 k 0.6908(6) 0.3920(6) 0.2657(4) 0.053(4) 1 0
+O16 O2- 16 k 0.5841(6) 0.5069(6) 0.2231(5) 0.061(5) 1 0
+O17 O1- 8 i 0.8385(10) 0.6380(10) 0.5 0.082(8) 1 0
+O18 O2- 16 k 0.8551(7) 0.5575(7) 0.3430(6) 0.088(6) 1 0
+O19 O2- 16 k 0.6698(7) 0.2419(8) 0.4598(6) 0.088(6) 1 0
+O20 O2- 16 k 0.7238(8) 0.6221(8) 0.4505(6) 0.101(6) 1 0
+O21 O2- 16 k 0.8108(7) 0.4245(7) 0.2913(5) 0.078(5) 1 0
+O22 O2- 16 k 0.8207(7) 0.6281(7) 0.2865(6) 0.084(6) 1 0
+O23 O2- 16 k 0.7673(8) 0.6216(8) 0.3573(6) 0.093(6) 1 0
+O24 O2- 16 k 0.8330(9) 0.5595(9) 0.4244(7) 0.117(7) 1 0
+O25 O2- 8 j 0.5748(7) 0.4252(7) 0.2977(7) 0.070(7) 1 0
+O26 O2- 8 i 0.8074(10) 0.6962(10) 0.5 0.077(7) 1 0
+O27 O2- 16 k 0.9069(9) 0.4943(8) 0.3938(6) 0.109(7) 1 0
+O28 O2- 8 i 0.7024(11) 0.1490(12) 0.5 0.098(9) 1 0
+O29 O2- 4 f 0.7646(11) 0.2354(11) 0.5 0.091(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ 0.0499(7) 0.0499(7) 0.0720(11) 0.0013(8) 0.0090(6) -0.0090(6)
+U2 U6+ 0.0520(8) 0.0581(8) 0.0642(8) -0.0025(6) 0.0091(6) -0.0061(6)
+U3 U6+ 0.0675(8) 0.0675(8) 0.0691(12) -0.0055(9) 0.0057(6) -0.0057(6)
+U4 U6+ 0.1021(10) 0.0670(9) 0.0560(8) -0.0130(7) -0.0006(7) -0.0017(6)
+#End of TTdata_260970-ICSD

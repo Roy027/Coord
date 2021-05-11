@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171376-ICSD
+_database_code_ICSD 171376
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Trisodium iron(III) trioxide'
+_chemical_formula_structural 'Na3 Fe O3'
+_chemical_formula_sum 'Fe1 Na3 O3'
+_exptl_crystal_density_diffrn 2.92
+_publ_section_title
+'Synthesis, crystal structure and magnetic properties of beta-Na3 Fe O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2006 8 19 23 SSSCFJ
+loop_
+_publ_author_name
+'Sofin, M.'
+'Jansen, M.'
+_cell_length_a 6.1740(12)
+_cell_length_b 10.750(2)
+_cell_length_c 11.852(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.51(3)
+_cell_angle_gamma 90.
+_cell_volume 786.59
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I 1 a 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0825
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 'x, y, z'
+3 'x, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0.0700(2) 0.23898(19) 0.11438(13) 0.0077(5) 1 0
+Fe2 Fe3+ 4 a -0.1061(2) 0.73934(19) -0.13914(14) 0.0078(6) 1 0
+Na1 Na1+ 4 a -0.0776(8) 0.4592(5) -0.0205(5) 0.0164(12) 1 0
+Na2 Na1+ 4 a -0.1460(10) 0.2128(5) -0.1511(6) 0.0205(13) 1 0
+Na3 Na1+ 4 a 0.1140(9) -0.0217(5) 0.2297(5) 0.0173(12) 1 0
+Na4 Na1+ 4 a 0.2115(10) 0.4781(4) 0.2458(5) 0.0119(11) 1 0
+Na5 Na1+ 4 a 0.2156(10) 0.4745(4) 0.4900(5) 0.0170(11) 1 0
+Na6 Na1+ 4 a -0.3998(10) 0.2633(5) 0.0902(5) 0.0164(12) 1 0
+O1 O2- 4 a -0.0802(12) 0.3782(7) 0.1634(7) 0.0105(19) 1 0
+O2 O2- 4 a -0.1128(15) 0.1034(7) 0.1131(9) 0.015(2) 1 0
+O3 O2- 4 a 0.1572(12) 0.2703(8) -0.0388(7) 0.0169(17) 1 0
+O4 O2- 4 a 0.3154(13) 0.2025(8) 0.2075(7) 0.0186(19) 1 0
+O5 O2- 4 a 0.1107(14) 0.6250(8) -0.0940(7) 0.0107(19) 1 0
+O6 O2- 4 a 0.0031(14) 0.9022(7) -0.1281(8) 0.0148(19) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0130(13) 0.0057(12) 0.0045(12) 0.0016(9) 0.0004(9) -0.0019(9)
+Fe2 Fe3+ 0.0085(12) 0.0058(11) 0.0089(13) -0.0002(8) 0.0019(9) 0.0016(8)
+Na1 Na1+ 0.013(3) 0.021(3) 0.015(3) -0.0061(19) -0.003(2) 0.003(2)
+Na2 Na1+ 0.012(3) 0.025(3) 0.025(3) -0.003(2) 0.003(2) -0.018(3)
+Na3 Na1+ 0.023(3) 0.016(3) 0.013(3) 0.003(2) 0.002(2) 0.006(2)
+Na4 Na1+ 0.012(2) 0.0111(19) 0.013(3) -0.009(2) 0.004(2) -0.002(3)
+Na5 Na1+ 0.023(3) 0.013(2) 0.015(2) 0.005(2) -0.004(2) -0.002(2)
+Na6 Na1+ 0.011(2) 0.021(3) 0.017(3) 0.002(2) 0.000(2) 0.001(3)
+O1 O2- 0.008(4) 0.008(4) 0.014(5) 0.006(3) -0.006(4) -0.004(3)
+O2 O2- 0.015(5) 0.012(4) 0.019(6) -0.005(4) 0.001(4) -0.001(4)
+O3 O2- 0.015(4) 0.023(5) 0.013(4) 0.009(4) 0.001(3) -0.004(4)
+O4 O2- 0.021(4) 0.028(5) 0.006(4) -0.002(4) 0.001(3) -0.001(3)
+O5 O2- 0.016(4) 0.013(4) 0.003(4) 0.000(3) 0.005(4) 0.000(3)
+O6 O2- 0.016(4) 0.015(4) 0.014(5) -0.001(3) -0.007(4) 0.002(4)
+#End of TTdata_171376-ICSD

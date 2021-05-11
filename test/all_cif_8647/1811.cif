@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1811-ICSD
+_database_code_ICSD 1811
+_audit_creation_date 1980-01-01
+_audit_update_record 1988-07-25
+_chemical_name_systematic 'Sodium strontium borate phosphate *'
+_chemical_formula_structural 'Sr9.402 Na0.209 B0.996 O2 (P O4)6'
+_chemical_formula_sum 'B0.996 Na0.209 O26 P6 Sr9.402'
+_chemical_name_structure_type Apatite#-(TG,P3-)
+_exptl_crystal_density_diffrn 4.01
+_publ_section_title
+
+;
+The crystal structure of sodium strontium boron dioxide hexaphosphate - a
+deviant apatite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1975 31 188 192 ACBCAR
+loop_
+_publ_author_name
+'Calvo, C.'
+'Faggiani, R.'
+'Krishnamachari, N.'
+_cell_length_a 9.734(4)
+_cell_length_b 9.734(4)
+_cell_length_c 7.279(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 597.29
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3'
+_symmetry_Int_Tables_number 147
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Sr2+ 2
+P5+ 5
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0.3333 0.6667 0.0067(2) . 0.104 0
+Sr1 Sr2+ 2 d 0.3333 0.6667 0.0067(2) . 0.701 0
+Sr2 Sr2+ 2 d 0.3333 0.6667 0.5098(2) . 1. 0
+Sr3 Sr2+ 6 g 0.25482(8) 0.98189(8) 0.23949(9) . 1. 0
+P1 P5+ 6 g 0.3942(2) 0.3642(2) 0.2529(2) . 1. 0
+O1 O2- 6 g 0.3315(6) 0.4817(6) 0.2563(7) . 1. 0
+O2 O2- 6 g 0.5756(6) 0.4540(6) 0.2303(8) . 1. 0
+O3 O2- 6 g 0.3154(8) 0.2474(6) 0.0936(8) . 1. 0
+O4 O2- 6 g -.3555(6) -.2666(6) 0.5712(6) . 1. 0
+O5 O2- 2 c 0 0 0.3278(13) . 1. 0
+B1 B3+ 1 b 0 0 0.5 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0218(8) 0.0218(8) 0.0136(7) 0.0109(4) 0 0
+Sr1 Sr2+ 0.0218(8) 0.0218(8) 0.0136(7) 0.0109(4) 0 0
+Sr2 Sr2+ 0.0145(5) 0.0145(5) 0.0167(5) 0.0073(3) 0 0
+Sr3 Sr2+ 0.0181(3) 0.0149(3) 0.0133(3) 0.0078(3) -.0003(3) 0.0010(2)
+P1 P5+ 0.0124(8) 0.0110(8) 0.0102(7) 0.0071(6) -.0004(86) -.0013(6)
+O1 O2- 0.0137(24) 0.143(24) 0.0131(23) 0.0074(20) 0.0027(20) 0.0044(20)
+O2 O2- 0.0088(23) 0.0165(26) 0.0287(30) 0.0054(21) 0.0025(21) 0.0037(22)
+O3 O2- 0.0565(4) 0.0828(24) 0.0143(24) 0.0127(27) -.0159(27) -.0073(20)
+O4 O2- 0.0204(26) 0.0217(26) 0.041(2) 0.0109(22) 0.0054(18) 0.0046(18)
+O5 O2- 0.017(4) 0.017(4) 0.0220(5) 0.0085(20) 0 0
+B1 B3+ 0.007(8) 0.007(8) 0.0380(14) 0.0035(40) 0 0
+#End of TTdata_1811-ICSD

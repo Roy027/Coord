@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239394-ICSD
+_database_code_ICSD 239394
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Sodium vanadate - beta phase'
+_chemical_formula_structural 'Na0.33 V2 O5'
+_chemical_formula_sum 'Na0.33 O5 V2'
+_exptl_crystal_density_diffrn 4.3
+_cell_measurement_pressure 13.9
+_publ_section_title
+
+;
+Pressure-induced non-superconducting phase of beta-Na0.33 V2 O5 and the
+mechanism of high-pressure phase transitions in beta-Na0.33 V2 O5 and
+beta-Li0.33 V2 O5 at room temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2016 28 035401-1 035401-9 JCOMEL
+loop_
+_publ_author_name
+'Grzechnik, A.'
+'Ueda, Y.'
+'Yamauchi, T.'
+'Hanfland, M.'
+'Hering, P.'
+'Potapkin, V.'
+'Friese, K.'
+_cell_length_a 13.948(2)
+_cell_length_b 3.62002(1)
+_cell_length_c 8.7380(8)
+_cell_angle_alpha 90
+_cell_angle_beta 96.14(1)
+_cell_angle_gamma 90
+_cell_volume 438.67
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'C 1 m 1'
+_symmetry_Int_Tables_number 8
+_refine_ls_R_factor_all 0.0492
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.83
+V5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 2 a 0.3237(14) 0 0.0927(16) 0.0066(13) 1. 0
+V2 V4+ 2 a 0.6792(15) 0 0.9019(18) 0.0108(13) 1. 0
+V3 V4+ 2 a 0.1035(12) 0 0.1438(15) 0.0112(13) 1. 0
+V4 V5+ 2 a 0.9025(10) 0 0.8597(13) 0.0079(11) 1. 0
+V5 V5+ 2 a 0.3903(16) 0 0.4018(19) 0.0083(11) 1. 0
+V6 V5+ 2 a 0.7840(13) 0 0.5610(16) 0.0155(14) 1. 0
+O1 O2- 2 a 0 0 0 0.010(4) 1. 0
+O2 O2- 2 a 0.844(6) 0 0.080(7) 0.015(3) 1. 0
+O3 O2- 2 a 0.199(6) 0 0.956(7) 0.015(3) 1. 0
+O4 O2- 2 a 0.637(5) 0 0.114(6) 0.007(2) 1. 0
+O5 O2- 2 a 0.390(4) 0 0.908(5) 0.007(2) 1. 0
+O6 O2- 2 a 0.427(6) 0 0.208(8) 0.009(3) 1. 0
+O7 O2- 2 a 0.582(5) 0 0.785(6) 0.009(3) 1. 0
+O8 O2- 2 a 0.247(7) 0 0.236(9) 0.010(3) 1. 0
+O9 O2- 2 a 0.760(5) 0 0.755(6) 0.010(3) 1. 0
+O10 O2- 2 a 0.068(7) 0 0.320(6) 0.014(3) 1. 0
+O11 O2- 2 a 0.951(5) 0 0.710(7) 0.014(3) 1. 0
+O12 O2- 2 a 0.268(5) 0 0.513(5) 0.007(3) 1. 0
+O13 O2- 2 a 0.870(6) 0 0.399(7) 0.007(3) 1. 0
+O14 O2- 2 a 0.503(7) 0 0.490(9) 0.007(3) 1. 0
+O15 O2- 2 a 0.673(5) 0 0.459(6) 0.007(3) 1. 0
+Na1 Na1+ 2 a 0.080(2) 0 0.581(3) 0.011(3) 1. 0
+#End of TTdata_239394-ICSD

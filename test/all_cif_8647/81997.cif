@@ -1,0 +1,113 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81997-ICSD
+_database_code_ICSD 81997
+_audit_creation_date 1999-11-30
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Sodium dititanium tris(tetrathiophosphate(V))'
+_chemical_formula_structural 'Na Ti2 (P S4)3'
+_chemical_formula_sum 'Na1 P3 S12 Ti2'
+_exptl_crystal_density_diffrn 2.
+_publ_section_title
+'Na Ti2 (P S4)3: a new thiophosphate with an interlocked structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1996 121 230 235 JSSCBI
+loop_
+_publ_author_name
+'Cieren, X.'
+'Angenault, J.'
+'Couturier, J.C.'
+'Jaulmes, S.'
+'Quarton, M.'
+'Robert, F.'
+_cell_length_a 19.9060(40)
+_cell_length_b 19.9060(40)
+_cell_length_c 11.552(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 3964.2
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 6 c c'
+_symmetry_Int_Tables_number 184
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, z+1/2'
+2 '-x+y, y, z+1/2'
+3 '-y, -x, z+1/2'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 'x-y, x, z'
+8 'y, -x+y, z'
+9 '-x, -y, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ti4+ 4
+P5+ 5
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ti1 Ti4+ 4 b 0.3333 0.6667 0 . 1. 0
+Ti2 Ti4+ 12 d 0.6993(2) 0.0453(1) 0.0094(5) . 1. 0
+P1 P5+ 12 d 0.6704(2) 0.1835(2) 0.0098(6) . 1. 0
+P2 P5+ 12 d 0.7094(2) 0.0112(3) 0.7562(5) . 1. 0
+S1 S2- 12 d 0.6185(3) 0.2201(2) 0.1237(5) . 1. 0
+S2 S2- 12 d 0.5977(3) 0.0752(2) -.0502(6) . 1. 0
+S3 S2- 12 d 0.7100(2) 0.2634(2) 0.8797(5) . 1. 0
+S4 S2- 12 d 0.7560(2) 0.1727(2) 0.0898(5) . 1. 0
+S5 S2- 12 d 0.7892(2) 0.1004(2) 0.8499(5) . 1. 0
+S6 S2- 12 d 0.6051(3) -.0423(2) 0.1514(5) . 1. 0
+S7 S2- 12 d 0.6400(3) -.0659(2) 0.8787(5) . 1. 0
+S8 S2- 12 d 0.7877(3) 0.0336(3) 0.1395(6) . 1. 0
+Na1 Na1+ 12 d 0.550(2) 0.060(2) 0.244(3) 5.1(7) 0.25(2) 0
+Na2 Na1+ 12 d 0.513(5) 0.021(3) 0.205(4) 7.(2) 0.13(2) 0
+Na3 Na1+ 12 d 0.083(4) 0.019(5) -.084(6) 6.(2) 0.10(2) 0
+Na4 Na1+ 12 d 0.088(4) 0.038(6) 0.314(6) 6.(2) 0.09(2) 0
+Na5 Na1+ 2 a 0 0 0.410(9) 5.(2) 0.23(3) 0
+Na6 Na1+ 2 a 0 0 -.043(5) 5.(2) 0.35(3) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Ti1 Ti4+ 0.026(1) 0.026(1) 0.039(3) 0.013(1) 0 0
+Ti2 Ti4+ 0.035(1) 0.026(1) 0.025(2) 0.014(1) 0.004(2) 0.002(2)
+P1 P5+ 0.030(2) 0.024(2) 0.036(3) 0.013(2) -.030(2) 0.001(2)
+P2 P5+ 0.034(2) 0.027(2) 0.028(2) 0.012(2) 0.001(2) -.003(2)
+S1 S2- 0.040(2) 0.029(2) 0.043(3) 0.018(2) 0.012(2) 0.004(2)
+S2 S2- 0.035(2) 0.024(2) 0.073(4) 0.012(2) -.018(3) -.010(2)
+S3 S2- 0.039(2) 0.033(2) 0.035(3) 0.020(2) 0.009(2) 0.007(2)
+S4 S2- 0.033(2) 0.028(2) 0.041(3) 0.014(2) -.010(2) -.005(2)
+S5 S2- 0.035(2) 0.035(2) 0.036(3) 0.000(2) 0.002(2) -.003(2)
+S6 S2- 0.038(2) 0.037(2) 0.028(3) 0.009(2) 0.004(2) 0.006(2)
+S7 S2- 0.044(2) 0.021(2) 0.036(3) 0.012(2) 0.008(2) 0.000(2)
+S8 S2- 0.043(2) 0.055(3) 0.033(3) 0.031(2) 0.010(2) 0.010(3)
+#End of TTdata_81997-ICSD

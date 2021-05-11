@@ -1,0 +1,75 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85558-ICSD
+_database_code_ICSD 85558
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Trisodium iron bis(phosphate(V))'
+_chemical_formula_structural 'Na3 Fe (P O4)2'
+_chemical_formula_sum 'Fe1 Na3 O8 P2'
+_chemical_name_structure_type Na2BaCu(VO4)2
+_exptl_crystal_density_diffrn 3.31
+_publ_section_title 'Structure of Na3 Fe (P O4)2 from powder X-ray data'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Annales de Chimie (Cachan, France)' 1998 23 117 120 ANCPAC
+loop_
+_publ_author_name
+'Belkhiria, M.S.'
+'Laaribi, S.'
+'Ben Hadj Amara, A.'
+'Ben Amara, M.'
+_cell_length_a 9.0637(3)
+_cell_length_b 5.0281(2)
+_cell_length_c 13.8581(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.434(2)
+_cell_angle_gamma 90.
+_cell_volume 631.36
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.064
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 a 0 0 0 0.56(8) 1. 0
+P1 P5+ 8 f 0.1678(6) 0.5194(11) 0.3863(2) 0.34(9) 1. 0
+Na1 Na1+ 4 e 0 0.0481(21) 0.25 1.63(21) 1. 0
+Na2 Na1+ 8 f 0.3331(8) 0.0392(14) 0.3666(3) 0.48(13) 1. 0
+O1 O2- 8 f 0.1107(13) 0.3270(21) 0.4599(4) 0.27(21) 1. 0
+O2 O2- 8 f 0.3308(13) 0.594(2) 0.4151(4) 0.27(21) 1. 0
+O3 O2- 8 f 0.0776(12) 0.7819(19) 0.3834(5) 0.3(2) 1. 0
+O4 O2- 8 f 0.1669(13) 0.3870(19) 0.2864(4) 0.76(24) 1. 0
+#End of TTdata_85558-ICSD

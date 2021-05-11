@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_161321-ICSD
+_database_code_ICSD 161321
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Sodium oxomolybdenum diphosphate(V) (0.74/5/4)'
+_chemical_formula_structural 'Na0.74 (Mo O)5 (P2 O7)4'
+_chemical_formula_sum 'Mo5 Na0.74 O33 P8'
+_exptl_crystal_density_diffrn 3.3
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal structure of Nax (Mo O)5 (P2 O7)4 studied by synchrotron X-ray
+diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2008 463 124 128 JALCEU
+loop_
+_publ_author_name
+'Filinchuk, Y.'
+'Lisnyak, V.V.'
+'Stratiichuk, D.A.'
+'Stus', N.V. (Stus, N.V.)'
+_cell_length_a 22.905(3)
+_cell_length_b 23.069(2)
+_cell_length_c 4.8537(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.641(9)
+_cell_volume 2564.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 1 2/a'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0996
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, -y, z'
+2 'x+1/2, y, -z'
+3 '-x, -y, -z'
+4 'x, y, z'
+5 '-x, -y+1/2, z+1/2'
+6 'x, y+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo5+ 5.052
+P5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo5+ 4 e 0.25 0 0.7517(5) 0.0131(5) 0.722(5) 0
+Mo2 Mo5+ 4 e 0.75 0 0.4945(13) 0.0131(11) 0.275(7) 0
+Mo3 Mo5+ 8 f 0.15694(5) 0.80426(5) 0.1089(2) 0.0120(3) 1. 0
+Mo4 Mo5+ 8 f 0.44536(5) 0.90761(5) 0.1468(2) 0.0117(3) 1. 0
+P1 P5+ 8 f 0.34814(16) 0.89800(15) 0.6463(7) 0.0123(6) 1. 0
+P2 P5+ 8 f 0.37759(16) 0.78754(14) 0.8840(8) 0.0138(7) 1. 0
+P3 P5+ 8 f 0.14736(16) 0.90144(14) 0.6013(7) 0.0118(6) 1. 0
+P4 P5+ 8 f 0.53738(16) 0.87295(15) 0.6438(8) 0.0138(7) 1. 0
+O1 O2- 8 f 0.1764(5) 0.9607(4) 0.621(2) 0.0175(19) 1. 0
+O2 O2- 8 f 0.5121(6) 0.9073(5) 0.887(3) 0.026(2) 1. 0
+O3 O2- 8 f 0.1791(5) 0.8621(5) 0.410(2) 0.020(2) 1. 0
+O4 O2- 8 f 0.0679(5) 0.6826(4) 0.514(2) 0.016(2) 1. 0
+O5 O2- 8 f 0.2888(5) 0.9269(4) 0.642(2) 0.0156(18) 1. 0
+O6 O2- 8 f 0.4569(6) 0.9731(4) 0.271(2) 0.019(2) 1. 0
+O7 O2- 8 f 0.6086(6) 0.2541(6) 0.345(3) 0.034(3) 1. 0
+O8 O2- 8 f 0.8624(5) 0.1254(6) 0.116(2) 0.030(3) 1. 0
+O9 O2- 8 f 0.1293(5) 0.1104(5) 0.362(2) 0.022(2) 1. 0
+O10 O2- 8 f 0.0076(5) 0.1391(5) 0.418(2) 0.025(2) 1. 0
+O11 O2- 8 f 0.4336(4) 0.1834(4) 0.271(2) 0.0128(18) 1. 0
+O12 O2- 8 f 0.7773(5) 0.2091(5) 0.019(2) 0.021(2) 1. 0
+O13 O2- 8 f 0.6089(5) 0.0714(4) 0.173(2) 0.019(2) 1. 0
+O14 O2- 8 f 0.1580(5) 0.2417(6) 0.111(3) 0.035(3) 1. 0
+O15 O2- 8 f 0.6666(5) 0.1645(4) 0.2302(19) 0.0115(18) 1. 0
+O16 O2- 8 f 0.4142(5) 0.0834(4) 0.483(2) 0.015(2) 1. 0
+O17 O2- 4 e 0.25 0 0.163(5) 0.035(5) 1. 0
+Na1 Na1+ 8 f 0.4935(15) 0.2567(14) 0.201(7) 0.063(13) 0.37(4) 0
+#End of TTdata_161321-ICSD

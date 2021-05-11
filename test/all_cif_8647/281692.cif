@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281692-ICSD
+_database_code_ICSD 281692
+_audit_creation_date 2004-10-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Disodium ruthenate(VI)'
+_chemical_formula_structural 'Na2 (Ru O4)'
+_chemical_formula_sum 'Na2 O4 Ru1'
+_exptl_crystal_density_diffrn 3.92
+_publ_section_title
+
+;
+Synthesis and characterization of a magnetic semiconductor Na2 Ru O4
+containing one-dimensional chains of Ru(6+)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2004 43 5 7 INOCAJ
+loop_
+_publ_author_name
+'Shikano, M.'
+'Kremer, R.K.'
+'Ahrens, M.'
+'Koo, H.-J.'
+'Whangbo Myunghwan'
+'Darriet, J.'
+_cell_length_a 10.7098(1)
+_cell_length_b 7.0356(1)
+_cell_length_c 10.9253(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 119.668(10)
+_cell_angle_gamma 90.
+_cell_volume 715.3
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0437
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ru6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ru1 Ru6+ 4 e 0.25222(11) 0.26886(8) 0.25166(12) 0.0069(4) 1. 0
+Ru2 Ru6+ 4 e 0.24903(11) 0.24411(6) 0.74878(12) 0.0080(5) 1. 0
+Na1 Na1+ 4 e 0.0552(6) 0.0059(5) 0.9021(7) 0.019(2) 1. 0
+Na2 Na1+ 4 e 0.3950(5) 0.0406(5) 0.0894(6) 0.017(2) 1. 0
+Na3 Na1+ 4 e 0.0634(5) 0.0636(5) 0.4144(5) 0.021(2) 1. 0
+Na4 Na1+ 4 e 0.3961(5) 0.0137(5) 0.5878(6) 0.015(2) 1. 0
+O1 O2- 4 e 0.0847(8) 0.2721(7) 0.2501(9) 0.012(4) 1. 0
+O2 O2- 4 e 0.1968(9) 0.0202(7) 0.1498(9) 0.011(4) 1. 0
+O3 O2- 4 e 0.2251(7) -.1449(8) 0.3879(7) 0.017(4) 1. 0
+O4 O2- 4 e 0.4083(7) 0.1504(8) 0.8887(7) 0.015(3) 1. 0
+O5 O2- 4 e 0.4052(6) 0.1779(8) 0.3982(7) 0.011(3) 1. 0
+O6 O2- 4 e 0.2576(7) 0.3195(8) 0.5985(7) 0.013(3) 1. 0
+O7 O2- 4 e 0.0882(9) 0.2528(7) 0.7588(11) 0.018(4) 1. 0
+O8 O2- 4 e 0.1877(9) -.0062(6) 0.6532(10) 0.016(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ru1 Ru6+ 0.0068(6) 0.0068(3) 0.0090(6) -.0002(4) 0.0055(5) 0.0005(5)
+Ru2 Ru6+ 0.0081(6) 0.0062(3) 0.0106(6) 0.0006(4) 0.0054(5) 0.0010(5)
+Na1 Na1+ 0.011(3) 0.028(2) 0.019(3) 0.0028(16) 0.008(2) -.0006(17)
+Na2 Na1+ 0.018(3) 0.0173(19) 0.020(3) -.0020(17) 0.014(3) -.0032(19)
+Na3 Na1+ 0.021(3) 0.032(2) 0.013(3) 0.007(2) 0.011(2) 0.003(2)
+Na4 Na1+ 0.014(3) 0.018(2) 0.012(3) -.0025(15) 0.005(2) -.0012(16)
+O1 O2- 0.013(4) 0.010(3) 0.022(6) -.001(2) 0.015(4) -.003(2)
+O2 O2- 0.018(5) 0.008(3) 0.008(6) 0.005(2) 0.008(5) 0.002(2)
+O3 O2- 0.025(4) 0.014(3) 0.022(5) -.003(3) 0.020(4) -.002(3)
+O4 O2- 0.015(4) 0.016(3) 0.016(5) 0.005(2) 0.008(4) 0.002(3)
+O5 O2- 0.006(3) 0.014(3) 0.011(4) 0.005(2) 0.003(3) 0.006(3)
+O6 O2- 0.011(4) 0.019(3) 0.010(4) 0.003(2) 0.005(3) 0.006(3)
+O7 O2- 0.015(5) 0.021(3) 0.021(6) 0.001(2) 0.011(5) 0.000(2)
+O8 O2- 0.021(6) 0.008(3) 0.010(6) 0.003(2) 0.001(5) -.001(2)
+#End of TTdata_281692-ICSD

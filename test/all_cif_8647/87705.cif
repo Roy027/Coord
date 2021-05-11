@@ -1,0 +1,89 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_87705-ICSD
+_database_code_ICSD 87705
+_audit_creation_date 2000-12-16
+_chemical_name_systematic 'Magnesium lithium scandium catena-disilicate *'
+_chemical_formula_structural '(Mg1.54 Li0.23 Sc0.23) (Si2 O6)'
+_chemical_formula_sum 'Li0.23 Mg1.54 O6 Sc0.23 Si2'
+_chemical_name_structure_type AlFeO3
+_chemical_name_mineral Unnamed_Pyroxene
+_exptl_crystal_density_diffrn 3.27
+_cell_measurement_pressure 4220000.
+_publ_section_title
+
+;
+A new pyroxene structure at high pressure: single-crystal X-ray and Raman
+study of the Pbcn-P21cn phase transition in protopyroxene
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1999 84 245 256 AMMIAY
+loop_
+_publ_author_name
+'Yang, H.-X.'
+'Finger, L.W.'
+'Conrad, P.G.'
+'Prewitt, C.T.'
+'Hazen, R.M.'
+_cell_length_a 9.0877(5)
+_cell_length_b 8.7526(5)
+_cell_length_c 5.1531(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 409.88
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 c n'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 'x+1/2, y+1/2, -z+1/2'
+3 'x+1/2, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Li1+ 1
+Sc3+ 3
+Mg2+ 2
+Li1+ 1
+Sc3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 4 a 0 0.3486(2) 0.7161(3) 0.52(3) 0.77 0
+Li1 Li1+ 4 a 0 0.3486(2) 0.7161(3) 0.52(3) 0.115 0
+Sc1 Sc3+ 4 a 0 0.3486(2) 0.7161(3) 0.52(3) 0.115 0
+Mg2 Mg2+ 4 a 0.0086(5) 0.5145(3) 0.2151(5) 0.65(5) 0.77 0
+Li2 Li1+ 4 a 0.0086(5) 0.5145(3) 0.2151(5) 0.65(5) 0.115 0
+Sc2 Sc3+ 4 a 0.0086(5) 0.5145(3) 0.2151(5) 0.65(5) 0.115 0
+Si1 Si4+ 4 a 0.7016(4) 0.1606(3) 0.8651(3) 0.38(3) 1. 0
+Si2 Si4+ 4 a 0.2992(4) 0.3376(3) 0.0699(3) 0.40(3) 1. 0
+O1 O2- 4 a 0.8794(7) 0.1612(8) 0.8777(7) 0.57(8) 1. 0
+O2 O2- 4 a 0.1242(7) 0.3362(9) 0.0570(8) 0.41(8) 1. 0
+O3 O2- 4 a 0.6228(7) 0.0089(8) 0.9590(8) 0.63(9) 1. 0
+O4 O2- 4 a 0.3760(7) 0.4970(7) 0.1034(8) 0.74(9) 1. 0
+O5 O2- 4 a 0.6447(6) 0.2034(6) 0.5701(8) 0.79(9) 1. 0
+O6 O2- 4 a 0.3587(5) 0.2153(6) 0.2781(7) 0.42(9) 1. 0
+#End of TTdata_87705-ICSD

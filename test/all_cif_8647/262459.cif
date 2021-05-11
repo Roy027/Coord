@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262459-ICSD
+_database_code_ICSD 262459
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Sodium dinickel bis(selenate(VI)) hydroxide hydrate'
+_chemical_formula_structural 'Na Ni2 (Se O4)2 (O H) (H2 O)'
+_chemical_formula_sum 'H3 Na1 Ni2 O10 Se2'
+_chemical_name_structure_type NaCu2OH(SO4)2H2O
+_exptl_crystal_density_diffrn 4.07
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal and magnetic structures and magnetic properties of selenate containing
+natrochalcite, AI MII2 (H3 O2) (Se O4)2 where A = Na or K and M = Mn, Co, or
+Ni
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 1953 1962 INOCAJ
+loop_
+_publ_author_name
+'Maalej, W.'
+'Vilminot, S.'
+'Andre, G.'
+'Elaoud, Z.'
+'Mhiri, T.'
+'Kurmoo, M.'
+_cell_length_a 8.8476(4)
+_cell_length_b 6.2451(3)
+_cell_length_c 7.4883(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.5310(10)
+_cell_angle_gamma 90.
+_cell_volume 376.41
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0142
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+Se6+ 6
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ni1 Ni2+ 4 e 0.25 0.25 0. 0.00425(14) 1 0
+Se1 Se6+ 4 i 0.08629(3) 0. 0.29183(4) 0.00407(13) 1 0
+O1 O2- 4 i 0.2304(3) 0. 0.5121(3) 0.0096(4) 1 0
+O2 O2- 4 i 0.1825(2) 0. 0.1411(3) 0.0068(4) 1 0
+O3 O2- 8 j -0.02978(17) 0.2157(2) 0.2490(2) 0.0068(3) 1 0
+O4 O2- 4 i 0.3483(2) 0. -0.0821(3) 0.0055(4) 1 0
+Na1 Na1+ 2 d 0. 0.5 0.5 0.0120(4) 1 0
+H1 H1+ 4 i 0.315(5) 0. -0.193(7) 0.017(11) 1 0
+H2 H1+ 4 i 0.554(9) 0. 0.038(14) 0.02(2) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0047(2) 0.0030(2) 0.0048(2) 0.00003(11) 0.00171(15) -0.00006(11)
+Se1 Se6+ 0.00428(18) 0.00377(19) 0.00379(18) 0. 0.00131(12) 0.
+O1 O2- 0.0085(9) 0.0119(11) 0.0049(10) 0. -0.0009(8) 0.
+O2 O2- 0.0099(9) 0.0046(9) 0.0096(10) 0. 0.0078(8) 0.
+O3 O2- 0.0071(6) 0.0046(6) 0.0073(7) 0.0013(6) 0.0015(5) -0.0003(6)
+O4 O2- 0.0059(9) 0.0059(9) 0.0042(10) 0. 0.0015(8) 0.
+Na1 Na1+ 0.0127(8) 0.0120(8) 0.0132(9) 0. 0.0073(7) 0.
+#End of TTdata_262459-ICSD

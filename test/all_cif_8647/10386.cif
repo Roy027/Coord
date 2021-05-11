@@ -1,0 +1,100 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_10386-ICSD
+_database_code_ICSD 10386
+_audit_creation_date 1980-01-01
+_audit_update_record 2004-10-01
+_chemical_name_systematic 'Lithium trihydrogen bis(selenate(IV))'
+_chemical_formula_structural 'Li H3 (Se O3)2'
+_chemical_formula_sum 'H3 Li1 O6 Se2'
+_chemical_name_structure_type LiH3(SeO3)2
+_exptl_crystal_density_diffrn 3.39
+_publ_section_title
+
+;
+Hydrogen bond studies. 54. A neutron diffraction study of the ferroelectric
+lithium trihydrogen selenite, Li H3 (Se O3)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1972 4 255 261 JSSCBI
+loop_
+_publ_author_name
+'Tellgren, R.'
+'Liminga, R.'
+_cell_length_a 6.2554(3)
+_cell_length_b 7.8823(5)
+_cell_length_c 5.4339(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.325(5)
+_cell_angle_gamma 90.
+_cell_volume 258.4
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 n 1'
+_symmetry_Int_Tables_number 7
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se4+ 4
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Se1 Se4+ 2 a 0.233 0.39507(23) 0.088 . 1. 0
+Se2 Se4+ 2 a 0.7669(2) 0.10074(21) 0.91095(26) . 1. 0
+O1 O2- 2 a 0.19252(40) 0.22747(32) -.13341(47) . 1. 0
+O2 O2- 2 a 0.79816(38) 0.27366(31) 0.10145(46) . 1. 0
+O3 O2- 2 a 0.30176(43) 0.29114(33) 0.36189(49) . 1. 0
+O4 O2- 2 a 0.70944(42) 0.20193(35) 0.61072(49) . 1. 0
+O5 O2- 2 a 0.47888(42) 0.47641(32) 0.05452(46) . 1. 0
+O6 O2- 2 a 0.51917(40) 0.02447(29) 0.91695(44) . 1. 0
+Li1 Li1+ 2 a 0.0024(15) 0.2487(15) 0.4807(16) . 1. 0
+H1 H1+ 2 a 0.32880(84) 0.14685(64) -.09938(82) . 1. 0
+H2 H1+ 2 a 0.6200(11) 0.38177(71) 0.07074(98) . 1. 0
+H3 H1+ 2 a 0.55051(60) 0.23084(52) 0.52793(75) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Se1 Se4+ 0.00562(30) 0.00479(21) 0.00793(34) 0.00083(19) 0.00033(21) 0.00118(26)
+Se2 Se4+ 0.00478(30) 0.00418(19) 0.00915(36) -.00018(19) 0.00027(21) 0.00070(25)
+O1 O2- 0.00917(43) 0.00682(30) 0.01015(51) -.00014(35) -.00195(38) 0.0006(4)
+O2 O2- 0.00777(44) 0.00602(29) 0.01221(54) 0.00013(34) -.00206(36) 0.00065(40)
+O3 O2- 0.00747(42) 0.00823(35) 0.01017(47) 0.00062(32) 0.00260(36) 0.00146(39)
+O4 O2- 0.00797(46) 0.00924(38) 0.01093(54) -.00053(31) 0.00266(37) 0.00161(42)
+O5 O2- 0.00774(44) 0.00684(35) 0.01646(70) -.00119(34) 0.00117(38) 0.00373(48)
+O6 O2- 0.00756(43) 0.00555(31) 0.01621(67) -.00131(31) -.00017(37) 0.00392(47)
+Li1 Li1+ 0.01207(112) 0.00921(68) 0.01245(138) 0.00033(62) 0.00028(78)
+0.00355(96)
+H1 H1+ 0.01903(104) 0.00910(55) 0.01833(108) -.00153(58) -.00139(62) 0.00350(83)
+H2 H1+ 0.02771(150) 0.01408(88) 0.02187(126) -.01046(99) -.00187(86)
+0.00732(111)
+H3 H1+ 0.01097(85) 0.01270(59) 0.01967(114) -.00025(53) 0.00129(65) 0.00249(73)
+#End of TTdata_10386-ICSD

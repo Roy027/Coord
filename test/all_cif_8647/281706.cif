@@ -1,0 +1,120 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281706-ICSD
+_database_code_ICSD 281706
+_audit_creation_date 2004-10-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Disodium dicobalt dodecaborate'
+_chemical_formula_structural 'Na2 Co2 (B12 O21)'
+_chemical_formula_sum 'B12 Co2 Na2 O21'
+_chemical_name_structure_type Na2Co2B12O21
+_exptl_crystal_density_diffrn 2.83
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Structure and ion exchange properties of a new cobalt borate with a tunnel
+structure "templated" by Na(+)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2002 124 6522 6523 JACSAT
+loop_
+_publ_author_name
+'Rowsell, J.L.C.'
+'Taylor, N.J.'
+'Nazar, L.F.'
+_cell_length_a 17.1447(15)
+_cell_length_b 4.5530(5)
+_cell_length_c 19.4408(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.212(5)
+_cell_angle_gamma 90.
+_cell_volume 1477.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 1 2/a 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0265
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y, -z'
+4 'x, y, z'
+5 'x, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+O2- -2
+B3+ 3
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 8 f 0.557353(11) -.00380(5) 0.451351(10) 0.00957(5) 1. 0
+O1 O2- 4 e 0.25 1.1239(3) 0 0.0069(2) 1. 0
+O2 O2- 8 f 0.21577(6) 0.7570(2) 0.07712(5) 0.00877(18) 1. 0
+O3 O2- 8 f 0.34342(5) 0.7334(2) 0.04872(5) 0.00808(18) 1. 0
+O4 O2- 8 f 0.31043(6) 0.4457(2) 0.14338(5) 0.0103(2) 1. 0
+O5 O2- 8 f 0.43453(6) 0.2305(2) 0.13272(5) 0.00785(17) 1. 0
+O6 O2- 8 f 0.36588(6) 0.0705(2) 0.22047(5) 0.00968(19) 1. 0
+O7 O2- 8 f 0.48450(6) -.1812(2) 0.20829(5) 0.00800(17) 1. 0
+O8 O2- 8 f 0.42600(6) -.2818(2) 0.30491(5) 0.00829(18) 1. 0
+O9 O2- 8 f 0.46947(6) -.6358(2) 0.39542(5) 0.00697(17) 1. 0
+O10 O2- 8 f 0.45659(6) -.2046(2) 0.46039(5) 0.00798(18) 1. 0
+O11 O2- 8 f 0.37880(5) -.6276(2) 0.47174(5) 0.00717(17) 1. 0
+B1 B3+ 8 f 0.18756(8) 0.9496(3) 0.01499(7) 0.0065(3) 1. 0
+B2 B3+ 8 f 0.29052(9) 0.6440(3) 0.08783(8) 0.0080(3) 1. 0
+B3 B3+ 8 f 0.37158(9) 0.2501(3) 0.16492(8) 0.0077(2) 1. 0
+B4 B3+ 8 f 0.42783(9) -.1298(3) 0.24527(8) 0.0074(2) 1. 0
+B5 B3+ 8 f 0.49385(8) -.4686(3) 0.33859(7) 0.0068(2) 1. 0
+B6 B3+ 8 f 0.43586(8) -.4825(4) 0.44332(7) 0.0059(2) 1. 0
+Na1 Na1+ 8 f 0.34748(4) 0.05327(14) 0.35692(3) 0.01970(15) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.00937(8) 0.01026(8) 0.01124(8) -.00457(8) 0.00682(6) -.00501(8)
+O1 O2- 0.0058(5) 0.0066(6) 0.0090(6) 0 0.0031(5) 0
+O2 O2- 0.0052(4) 0.0117(5) 0.0100(4) 0.0019(4) 0.0029(3) 0.0038(4)
+O3 O2- 0.0065(4) 0.0092(4) 0.0094(4) 0.0018(3) 0.0037(3) 0.0030(3)
+O4 O2- 0.0099(4) 0.0125(5) 0.0093(4) 0.0039(4) 0.0040(3) 0.0046(3)
+O5 O2- 0.0086(4) 0.0080(4) 0.0076(4) 0.0012(4) 0.0031(3) 0.0019(3)
+O6 O2- 0.0089(4) 0.0114(5) 0.0099(4) 0.0032(3) 0.0045(3) 0.0049(3)
+O7 O2- 0.0104(4) 0.0070(4) 0.0081(4) 0.0012(3) 0.0051(3) 0.0015(3)
+O8 O2- 0.0090(4) 0.0091(4) 0.0074(4) 0.0021(4) 0.0033(3) 0.0028(3)
+O9 O2- 0.0101(4) 0.0059(4) 0.0063(4) 0.0006(3) 0.0048(3) 0.0006(3)
+O10 O2- 0.0086(4) 0.0068(4) 0.0095(4) -.0016(3) 0.0042(3) -.0021(3)
+O11 O2- 0.0062(4) 0.0061(4) 0.0107(4) 0.0005(3) 0.0049(3) 0.0007(3)
+B1 B3+ 0.0064(5) 0.0065(7) 0.0074(6) 0.0006(5) 0.0029(4) 0.0003(4)
+B2 B3+ 0.0072(6) 0.0086(6) 0.0087(6) 0.0002(5) 0.0031(5) 0.0007(5)
+B3 B3+ 0.0080(6) 0.0078(6) 0.0074(6) -.0003(5) 0.0019(5) -.0003(5)
+B4 B3+ 0.0072(6) 0.0066(6) 0.0084(6) 0.0000(5) 0.0021(5) 0.0006(5)
+B5 B3+ 0.0075(5) 0.0073(6) 0.0060(5) -.0009(5) 0.0027(4) 0.0000(5)
+B6 B3+ 0.0052(5) 0.0071(6) 0.0050(5) 0.0004(5) 0.0005(4) 0.0016(5)
+Na1 Na1+ 0.0208(3) 0.0174(4) 0.0246(3) -.0036(3) 0.0126(3) -.0018(3)
+#End of TTdata_281706-ICSD

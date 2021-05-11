@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202278-ICSD
+_database_code_ICSD 202278
+_audit_creation_date 1988-12-19
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Sodium zirconium silicon phosphorus oxide (3.12/2/2.12/.88/12)'
+_chemical_formula_structural 'Na3.12 Zr2 Si2.12 P.88 O12'
+_chemical_formula_sum 'Na3.12 O12 P0.88 Si2.12 Zr2'
+_chemical_name_structure_type 'Nasicon low'
+_chemical_name_mineral 'Nasicon low'
+_exptl_crystal_density_diffrn 3.26
+_cell_measurement_temperature 293.
+_publ_section_title 'Crystal structure of the true Nasicon Na3 Zr2 Si2 P O12'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 1987 22 669 676 MRBUAC
+loop_
+_publ_author_name
+'Boilot, J.P.'
+'Collin, G.'
+'Colomban, P.'
+_cell_length_a 15.669(7)
+_cell_length_b 9.246(6)
+_cell_length_c 9.055(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 124.20(7)
+_cell_volume 1085.
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'B 1 1 2/b'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0751
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 '-x, -y, -z'
+3 '-x, -y+1/2, z'
+4 'x, y, z'
+5 'x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zr4+ 4
+P5+ 5
+Si4+ 4
+P5+ 5
+Si4+ 4
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zr1 Zr4+ 8 f 0.1008(1) 0.0565(1) 0.2491(2) 0.0148(4) 1. 0
+P1 P5+ 8 f 0.3587(3) 0.2606(5) 0.1102(4) 0.0282(12) 0.3 0
+Si1 Si4+ 8 f 0.3587(3) 0.2606(5) 0.1102(4) 0.0282(12) 0.7 0
+P2 P5+ 4 e 0 0.25 0.0443(6) 0.0328(18) 0.3 0
+Si2 Si4+ 4 e 0 0.25 0.0443(6) 0.0328(18) 0.7 0
+O1 O2- 8 f 0.1470(9) 0.2218(18) 0.4372(13) 0.0358(40) 1. 0
+O2 O2- 8 f 0.4359(10) 0.0798(17) 0.4472(12) 0.0257(46) 1. 0
+O3 O2- 8 f 0.2503(9) 0.2063(19) 0.1827(15) 0.0042(45) 1. 0
+O4 O2- 8 f 0.3795(9) 0.1136(15) 0.1366(14) 0.0366(49) 1. 0
+O5 O2- 8 f 0.4500(8) 0.4406(15) 0.1806(12) 0.0256(36) 1. 0
+O6 O2- 8 f 0.0799(7) 0.2402(13) 0.1474(12) 0.0219(36) 1. 0
+Na1 Na1+ 4 c 0.25 0.5 0.25 0.0151(47) 0.22(2) 0
+Na2 Na1+ 4 e 0 0.25 0.3919(10) 0.0398(39) 1. 0
+Na3 Na1+ 8 f 0.3271(10) 0.3099(29) 0.4221(17) 0.1188(87) 0.56(3) 0
+Na4 Na1+ 8 f 0.1821(14) 0.5618(26) 0.1408(23) 0.0454(80) 0.39(1) 0
+#End of TTdata_202278-ICSD

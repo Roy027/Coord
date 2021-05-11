@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71624-ICSD
+_database_code_ICSD 71624
+_audit_creation_date 1993-01-06
+_chemical_name_systematic 'Dicesium disodium iridate(IV)'
+_chemical_formula_structural 'Cs2 Na2 (Ir O4)'
+_chemical_formula_sum 'Cs2 Ir1 Na2 O4'
+_exptl_crystal_density_diffrn 5.76
+_publ_section_title
+
+;
+Das erste Caesium-haltige Oxoiridat(IV): Cs2Na2(IrO4) mit quadratisch-planarer
+Baugruppe (IrO4)(4-)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1992 183 198 209 JALCEU
+loop_
+_publ_author_name
+'Mader, K.'
+'Hoppe, R.'
+_cell_length_a 11.9249(14)
+_cell_length_b 5.9082(6)
+_cell_length_c 9.6037(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.27(1)
+_cell_angle_gamma 90.
+_cell_volume 655.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir4+ 4
+Cs1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir4+ 2 a 0 0 0 . 1. 0
+Ir2 Ir4+ 2 d 0 0.5 0.5 . 1. 0
+Cs1 Cs1+ 4 i 0.3271(1) 0 0.7593(1) . 1. 0
+Cs2 Cs1+ 4 i 0.3362(1) 0 0.1371(1) . 1. 0
+Na1 Na1+ 4 i 0.2165(5) 0 0.4258(8) . 1. 0
+Na2 Na1+ 4 i 0.9741(6) 0 0.3409(8) . 1. 0
+O1 O2- 8 j 0.1170(6) 0.7282(14) 0.5314(10) . 1. 0
+O2 O2- 4 i 0.1236(11) 0 0.9061(15) . 1. 0
+O3 O2- 4 i 0.896(1) 0 0.8111(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir4+ 0.0111(3) 0.0081(4) 0.0054(4) 0 0.0022(3) 0
+Ir2 Ir4+ 0.0092(3) 0.0049(3) 0.0065(4) 0 0.0038(2) 0
+Cs1 Cs1+ 0.0237(5) 0.0198(5) 0.0164(5) 0 0.0084(5) 0
+Cs2 Cs1+ 0.0194(4) 0.0198(5) 0.0140(5) 0 0.0039(4) 0
+Na1 Na1+ 0.0099(25) 0.0188(33) 0.0119(32) 0 -.0015(22) 0
+Na2 Na1+ 0.0188(29) 0.0206(35) 0.0142(35) 0 0.0055(25) 0
+O1 O2- 0.0122(31) 0.0096(36) 0.0257(47) -.0003(25) 0.0084(30) 0.0011(34)
+O2 O2- 0.0204(54) 0.0429(87) 0.0105(59) 0 0.0088(84) 0
+O3 O2- 0.0164(48) 0.0299(71) 0.0068(54) 0 0.0016(41) 0
+#End of TTdata_71624-ICSD

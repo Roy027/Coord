@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_27191-ICSD
+_database_code_ICSD 27191
+_audit_creation_date 1982-12-31
+_audit_update_record 2003-10-01
+_chemical_name_systematic 'Sodium nonayttrium hexakis(silicate) dioxide'
+_chemical_formula_structural 'Na Y9 (Si O4)6 O2'
+_chemical_formula_sum 'Na1 O26 Si6 Y9'
+_chemical_name_structure_type Apatite#-(HE,P63/m)
+_chemical_name_mineral Oxyapatite-(Y)
+_exptl_crystal_density_diffrn 4.58
+_publ_section_title 'Structure of the Oxyapatite Na Y9 (Si O4)6 O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1982 38 1564 1566 ACBCAR
+loop_
+_publ_author_name
+'Gunawardane, R.P.'
+'Howie, R.A.'
+'Glasser, F.P.'
+_cell_length_a 9.334(2)
+_cell_length_b 9.334(2)
+_cell_length_c 6.759(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 509.97
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.071
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Y3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 12 i 0.2486(10) 0.3389(11) 0.4380(15) 1.19 1. 0
+O2 O2- 6 h 0.4868(15) 0.3171(15) 0.25 0.98 1. 0
+O3 O2- 6 h 0.5252(14) 0.4013(14) 0.75 0.83 1. 0
+Si1 Si4+ 6 h 0.3723(5) 0.3994(5) 0.25 0.26 1. 0
+Y1 Y3+ 6 h 0.2375(2) 0.0042(2) 0.25 . 1. 0
+Y2 Y3+ 4 f 0.3333 0.6666 -.0019(3) . 0.75 0
+Na1 Na1+ 4 f 0.3333 0.6666 -.0019(3) 0.711 0.25 0
+O4 O2- 2 a 0 0 0.25 1.2 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.0030(2) 0.0034(2) 0.0022(2) 0.0029(3) 0 0
+Y2 Y3+ 0.0034(4) 0.0034(5) 0.0019(4) 0.0034(12) 0 0
+#End of TTdata_27191-ICSD

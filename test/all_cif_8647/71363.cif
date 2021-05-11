@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71363-ICSD
+_database_code_ICSD 71363
+_audit_creation_date 1993-01-06
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Trisodium bismuth bis(phosphate(V)) - beta'
+_chemical_formula_structural 'Na3 Bi (P O4)2'
+_chemical_formula_sum 'Bi1 Na3 O8 P2'
+_exptl_crystal_density_diffrn 4.26
+_cell_measurement_temperature 923.
+_publ_section_title 'Order-disorder transition in Na3 Bi (P O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Phase Transitions' 1990 27 91 105 PHTRDP
+loop_
+_publ_author_name
+'Mairesse, G.'
+'Drache, M.'
+'Nowogrocki, G.'
+'Abraham, F.'
+_cell_length_a 18.71(3)
+_cell_length_b 7.18(2)
+_cell_length_c 5.429(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 729.32
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a m'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.055
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 'x, y, -z+1/2'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x, -y, z+1/2'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 4 c 0.11815(4) 0.03270(9) 0.25 . 1. 0
+P1 P5+ 4 c 0.2913(2) 0.2866(6) 0.25 . 1. 0
+P2 P5+ 4 c 0.4621(2) 0.7070(5) 0.25 . 1. 0
+Na1 Na1+ 4 c 0.4609(5) 0.1606(14) 0.25 . 1. 0
+Na2 Na1+ 4 c 0.1365(6) 0.5266(13) 0.25 . 1. 0
+Na3 Na1+ 4 c 0.2993(5) 0.8049(15) 0.25 . 1. 0
+O1 O2- 8 d 0.4206(5) 0.7709(14) 0.0230(16) . 1. 0
+O2 O2- 4 c 0.4673(12) 0.4953(22) 0.25 . 1. 0
+O3 O2- 4 c 0.5354(8) 0.7921(23) 0.25 . 1. 0
+O4 O2- 4 c 0.2101(6) 0.2474(19) 0.25 . 1. 0
+O5 O2- 8 d 0.3112(13) 0.3230(36) -.0245(46) . 0.5 0
+O6 O2- 8 d 0.3036(16) 0.4564(37) 0.1044(62) . 0.5 0
+O7 O2- 8 d 0.3338(10) 0.130(3) 0.1619(40) . 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 Bi3+ 0.0412(4) 0.0272(3) 0.0687(6) 0.0018(3) 0 0
+P1 P5+ 0.022(2) 0.030(2) 0.040(2) -0.002(1) 0 0
+P2 P5+ 0.025(2) 0.028(2) 0.030(2) -0.001(1) 0 0
+Na1 Na1+ 0.062(6) 0.053(5) 0.081(7) -0.006(4) 0 0
+Na2 Na1+ 0.061(6) 0.044(5) 0.107(9) 0.019(4) 0 0
+Na3 Na1+ 0.044(5) 0.084(7) 0.078(7) -0.001(4) 0 0
+O1 O2- 0.061(6) 0.056(5) 0.033(5) 0.014(5) -0.011(5) 0.001(4)
+O2 O2- 0.103(16) 0.042(8) 0.077(13) -0.002(8) 0 0
+O3 O2- 0.041(8) 0.074(12) 0.106(14) -0.033(8) 0 0
+O4 O2- 0.023(5) 0.047(7) 0.08(1) -0.004(26) 0 0
+O5 O2- 0.067(14) 0.080(15) 0.066(15) -0.029(12) 0.028(13) 0.001(13)
+O6 O2- 0.093(20) 0.079(18) 0.092(22) -0.008(14) -0.004(18) 0.050(17)
+O7 O2- 0.047(11) 0.072(13) 0.075(18) 0.011(10) 0.008(9) -0.034(11)
+#End of TTdata_71363-ICSD

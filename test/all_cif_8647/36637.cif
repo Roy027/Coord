@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36637-ICSD
+_database_code_ICSD 36637
+_audit_creation_date 1993-01-06
+_chemical_name_systematic 'Sodium pentaoxorhenate(VII)'
+_chemical_formula_structural 'Na3 (Re O5)'
+_chemical_formula_sum 'Na3 O5 Re1'
+_exptl_crystal_density_diffrn 4.62
+_publ_section_title
+'Ueber Perrhenate. 3: Zum Aufbau des Mesoperrhenates Na3(ReO5)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1992
+610 7 14 ZAACAB
+loop_
+_publ_author_name
+'Vielhaber, E.'
+'Hoppe, R.'
+_cell_length_a 5.5439(12)
+_cell_length_b 5.5439(12)
+_cell_length_c 13.5795(67)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 361.45
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 31'
+_symmetry_Int_Tables_number 144
+_refine_ls_R_factor_all 0.0608
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, z+2/3'
+2 '-y, x-y, z+1/3'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Re7+ 7
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Re1 Re7+ 3 a 0.7092(2) 0.0417(2) 0.337 . 1. 0
+Na1 Na1+ 3 a 0.6232(35) 0.9410(27) 0.8376(17) . 1. 0
+Na2 Na1+ 3 a 0.2768(32) 0.2929(28) 0.7522(14) . 1. 0
+Na3 Na1+ 3 a 0.4053(34) 0.3719(32) 0.2503(17) . 1. 0
+O1 O2- 3 a 0.492(4) 0.5132(38) 0.9003(18) . 1. 0
+O2 O2- 3 a 0.1712(40) 0.8302(36) 0.7775(16) . 1. 0
+O3 O2- 3 a 0.8478(39) 0.8506(40) 0.2741(18) . 1. 0
+O4 O2- 3 a 0.0284(36) 0.3637(34) 0.3389(17) . 1. 0
+O5 O2- 3 a 0.8234(39) 0.3337(37) 0.7357(14) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Re1 Re7+ 0.0131(8) 0.0179(10) 0.0126(3) 0.0078(3) -.0003(5) -.0009(5)
+Na1 Na1+ 0.0336(46) 0.0145(42) 0.0277(34) 0.0011(37) 0.0048(39) 0.0134(43)
+Na2 Na1+ 0.0373(45) 0.0238(42) 0.0187(43) 0.0064(38) 0.0012(40) 0.0029(39)
+Na3 Na1+ 0.0354(46) 0.036(5) 0.0317(50) 0.0218(39) -.0006(44) -.0063(44)
+O1 O2- 0.0445(56) 0.0245(52) 0.0282(55) 0.0159(47) -.0050(51) 0.0021(49)
+O2 O2- 0.0425(56) 0.0259(52) 0.0166(51) 0.0104(49) -.0031(49) 0.0020(47)
+O3 O2- 0.0496(55) 0.0521(55) 0.0351(57) 0.0421(46) -.0006(51) -.0150(52)
+O4 O2- 0.0273(53) 0.0154(50) 0.0229(48) -.0032(44) 0.0027(47) -.0034(45)
+O5 O2- 0.0519(57) 0.0227(52) 0.0083(46) 0.0121(48) 0.0016(48) -.0045(46)
+#End of TTdata_36637-ICSD

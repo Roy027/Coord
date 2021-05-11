@@ -1,0 +1,83 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252512-ICSD
+_database_code_ICSD 252512
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Lithium chromium hexaoxodigermanate'
+_chemical_formula_structural 'Li Cr Si2 O6'
+_chemical_formula_sum 'Cr1 Li1 O6 Si2'
+_chemical_name_structure_type Pyroxene-MgSiO3-LT
+_exptl_crystal_density_diffrn 3.5
+_cell_measurement_temperature 2.
+_publ_section_title
+
+;
+Magnetic pyroxenes LiCrGe2O6 and LiCrSi2O6: dimensionality crossover in a
+nonfrustrated S = 3/2 Heisenberg model
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review, Serie 3. B - Condensed Matter (18,1978-)' 2014 90
+214424-1 214424-11 PRBMDO
+loop_
+_publ_author_name
+'Janson, O.'
+'Nenert, G.'
+'Isobe, M.'
+'Skourski, Y.'
+'Ueda, Y.'
+'Rosner, H.'
+'Tsirlin, A.A.'
+_cell_length_a 9.5122(4)
+_cell_length_b 8.5713(4)
+_cell_length_c 5.2229(2)
+_cell_angle_alpha 90
+_cell_angle_beta 109.7569(7)
+_cell_angle_gamma 90
+_cell_volume 400.77
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0455
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cr3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.2517(10) 0.0120(7) 0.2280(17) 0.0077(13) 1. 0
+Cr1 Cr3+ 4 e 0.2516(5) 0.6579(5) 0.2351(8) 0.0062(6) 1. 0
+Si1 Si4+ 4 e 0.0497(3) 0.3412(4) 0.2729(6) 0.0026(6) 1. 0
+Si2 Si4+ 4 e 0.5501(4) 0.8409(4) 0.2485(6) 0.0040(6) 1. 0
+O1 O2- 4 e 0.8668(3) 0.3325(3) 0.1660(5) 0.0054(5) 1. 0
+O2 O2- 4 e 0.3668(3) 0.8355(3) 0.1290(5) 0.0074(5) 1. 0
+O3 O2- 4 e 0.1171(3) 0.5116(3) 0.3066(5) 0.0065(5) 1. 0
+O4 O2- 4 e 0.6252(3) 0.0056(3) 0.3561(5) 0.0044(5) 1. 0
+O5 O2- 4 e 0.1100(3) 0.2692(3) 0.5835(5) 0.0053(4) 1. 0
+O6 O2- 4 e 0.6069(3) 0.7171(3) 0.5000(5) 0.0055(5) 1. 0
+#End of TTdata_252512-ICSD

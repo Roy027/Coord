@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_9060-ICSD
+_database_code_ICSD 9060
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Sodium dihydrogenduo-diphosphate(IV) hexahydrate'
+_chemical_formula_structural 'Na2 (H2 P2 O6) (H2 O)6'
+_chemical_formula_sum 'H14 Na2 O12 P2'
+_exptl_crystal_density_diffrn 1.85
+_publ_section_title
+
+;
+The Crystal Structure of Disodium Dihydrogen Hypophosphate Hexahydrate Na2 (H2
+P2 O6) (H2 O)6 and Disodium Dihydrogen Pyrophosphate Hexahydrate Na2 (H2 P2
+O7) (H2 O)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1971 27 291 302 ACBCAR
+loop_
+_publ_author_name
+'Collin, R.L.'
+'Willis, M.'
+_cell_length_a 14.090(3)
+_cell_length_b 6.998(1)
+_cell_length_c 12.700(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.94(2)
+_cell_angle_gamma 90.
+_cell_volume 1126.08
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P4+ 4
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P4+ 8 f 0.00148(4) 0.13517(9) 0.16451(5) . 1. 0
+O1 O2- 8 f -.10942 0.10786(28) 0.07065(16) . 1. 0
+O2 O2- 8 f 0.05980(14) 0.30826(27) 0.15327(18) . 1. 0
+O3 O2- 8 f 0.07116(14) -.04784(28) 0.17315(18) . 1. 0
+O4 O2- 8 f 0.26224(18) 0.12426(36) 0.12098(20) . 1. 0
+O5 O2- 8 f 0.21581(16) 0.64529(32) 0.11450(18) . 1. 0
+O6 O2- 8 f -.04475(17) 0.64855(33) 0.08454(20) . 1. 0
+Na1 Na1+ 8 f 0.23850(8) 0.38336(17) 0.23565(9) . 1. 0
+H1 H1+ 8 f 0.2164(36) 0.0828(67) 0.0616(42) 2.5 1. 0
+H2 H1+ 8 f 0.2639(36) 0.6306(71) 0.1028(40) 2.5 1. 0
+H3 H1+ 8 f -.0185(36) 0.5562(71) 0.1030(41) 2.5 1. 0
+H4 H1+ 8 f 0.3056(37) 0.1324(73) 0.1036(41) 2.5 1. 0
+H5 H1+ 8 f -.0548(34) 0.6591(68) 0.0134(44) 2.5 1. 0
+H6 H1+ 8 f 0.1759(36) 0.7105(69) 0.0577(43) 2.5 1. 0
+H7 H1+ 8 f 0.0349(35) -.1389(68) 0.1491(40) 2.5 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P4+ 0.0133(2) 0.0151(3) 0.0174(4) 0.0007(2) 0.0012(2) 0.0066(2)
+O1 O2- 0.0164(8) 0.0288(10) 0.0215(9) 0.0011(7) 0.0005(8) 0.0060(6)
+O2 O2- 0.0206(9) 0.0212(9) 0.0307(10) -.0020(7) 0.0045(8) 0.0118(8)
+O3 O2- 0.0169(8) 0.0204(9) 0.0308(10) 0.0031(7) 0.0019(8) 0.0098(8)
+O4 O2- 0.0330(11) 0.0346(12) 0.0344(11) -.0027(10) -.0042(10) 0.0186(9)
+O5 O2- 0.0242(9) 0.0269(10) 0.0281(10) 0.0030(9) 0.0044(9) 0.0120(8)
+O6 O2- 0.0331(11) 0.0213(10) 0.0358(10) 0.0027(8) -.0025(9) 0.0151(8)
+Na1 Na1+ 0.0228(5) 0.0207(5) 0.0293(6) -.0022(4) 0.0018(4) 0.0106(4)
+#End of TTdata_9060-ICSD

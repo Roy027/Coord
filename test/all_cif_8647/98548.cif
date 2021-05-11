@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_98548-ICSD
+_database_code_ICSD 98548
+_audit_creation_date 2005-04-01
+_audit_update_record 2009-08-01
+_chemical_name_systematic 'Disodium dioxourano(VI)ditungstate(VI)'
+_chemical_formula_structural 'Na2 ((U O2) W2 O8)'
+_chemical_formula_sum 'Na2 O10 U1 W2'
+_exptl_crystal_density_diffrn 6.64
+_publ_section_title
+
+;
+A novel rigid uranyl tungstate sheet in the structures of Na2 ((U O2) W2 O8)
+and alpha- and beta-(Ag2 ((U O2) W2 O8))
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2003 5 373 381 SSSCFJ
+loop_
+_publ_author_name
+'Krivovichev, S.V.'
+'Burns, P.C.'
+_cell_length_a 6.6484(6)
+_cell_length_b 7.5308(7)
+_cell_length_c 8.4869(7)
+_cell_angle_alpha 89.952(2)
+_cell_angle_beta 86.190(2)
+_cell_angle_gamma 73.299(2)
+_cell_volume 406.02
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+W6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 2 i -.00590(7) 0.75059(6) 0.02342(4) 0.00970(9) 1. 0
+W1 W6+ 2 i 0.16495(7) 0.95751(6) 0.63595(4) 0.00862(9) 1. 0
+W2 W6+ 2 i 0.16731(7) 0.45544(6) 0.63511(4) 0.00886(9) 1. 0
+Na1 Na1+ 2 i 0.3934(8) 0.9079(7) 0.1981(5) 0.0173(10) 1. 0
+Na2 Na1+ 2 i 0.5884(9) 0.6063(7) 0.7952(6) 0.0236(12) 1. 0
+O1 O2- 2 i 0.7130(13) 0.8195(12) 0.9995(9) 0.0167(17) 1. 0
+O2 O2- 2 i 0.4188(13) 0.9123(12) 0.6832(9) 0.0179(18) 1. 0
+O3 O2- 2 i 0.2773(13) 0.6786(12) 0.0370(9) 0.0171(17) 1. 0
+O4 O2- 2 i 0.4251(13) 0.3746(13) 0.6777(9) 0.0200(19) 1. 0
+O5 O2- 2 i 0.1657(15) 0.7053(12) 0.6369(8) 0.0180(18) 1. 0
+O6 O2- 2 i 0.0136(14) 0.9746(12) 0.8505(8) 0.0156(17) 1. 0
+O7 O2- 2 i 0.0186(14) 0.5168(12) 0.8503(8) 0.0169(18) 1. 0
+O8 O2- 2 i 0.0918(13) 0.2259(11) 0.6868(8) 0.0125(15) 1. 0
+O9 O2- 2 i 0.1728(14) 0.9860(13) 0.4253(9) 0.0189(18) 1. 0
+O10 O2- 2 i 0.1735(13) 0.4274(12) 0.4241(8) 0.0146(17) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ .0109(2) .0080(2) .0101(2) .0024(1) -.0017(1) .0014(1)
+W1 W6+ .0109(2) .0098(2) .0050(2) .0028(2) -.0010(1) .0009(1)
+W2 W6+ .0115(2) .0099(2) .0048(2) .0025(2) -.0011(1) .0010(1)
+Na1 Na1+ .021(3) .017(3) .014(2) .004(2) -.002(2) -.000(2)
+Na2 Na1+ .026(3) .022(3) .020(2) .003(2) .000(2) .002(2)
+O1 O2- .013(4) .021(5) .015(4) .004(4) .000(3) -.002(3)
+O2 O2- .012(4) .021(5) .024(4) .008(4) -.006(3) .003(3)
+O3 O2- .014(4) .017(5) .018(4) .002(4) -.003(3) .001(3)
+O4 O2- .015(4) .031(6) .016(4) .009(4) -.006(3) .006(3)
+O5 O2- .029(5) .016(4) .008(3) .005(4) -.005(3) .000(3)
+O6 O2- .022(5) .017(4) .008(3) .005(4) .000(3) .002(3)
+O7 O2- .028(5) .021(5) .002(3) .008(4) .003(3) -.005(3)
+O8 O2- .018(4) .009(4) .011(3) .003(3) -.006(3) .007(3)
+O9 O2- .020(5) .025(5) .010(3) .004(4) .001(3) .000(3)
+O10 O2- .016(4) .018(4) .009(3) .004(3) .001(3) .000(3)
+#End of TTdata_98548-ICSD

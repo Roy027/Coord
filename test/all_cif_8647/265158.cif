@@ -1,0 +1,132 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_265158-ICSD
+_database_code_ICSD 265158
+_audit_creation_date 2019-02-01
+_chemical_name_systematic
+
+;
+Pentacesium hexasodium tetrakis(tetrathiophosphato) uranium(IV)
+tetrathiophosphate
+;
+_chemical_formula_structural 'Cs5 Na6 (U (P S4)4) (P S4)'
+_chemical_formula_sum 'Cs5 Na6 P5 S20 U1'
+_exptl_crystal_density_diffrn 3.02
+_cell_measurement_temperature 300.
+_publ_section_title
+'Complex topologies from simple building blocks: Uranium(IV) thiophosphates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 11175 11183 INOCAJ
+loop_
+_publ_author_name
+'Klepov, Vladislav V.'
+'Zur Loye, Hans-Conrad'
+_cell_length_a 16.7652(7)
+_cell_length_b 24.3661(8)
+_cell_length_c 9.8909(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 4040.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A m a 2'
+_symmetry_Int_Tables_number 40
+_refine_ls_R_factor_all 0.0393
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U4+ 4
+Cs1+ 1
+S2- -2
+P5+ 5
+S2- -2
+P5+ 5
+S2- -2
+P5+ 5
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U4+ 4 a 0. 0. 0.37707(8) 0.01808(12) 1 0
+Cs1 Cs1+ 4 b 0.25 0.20370(5) 0.73613(13) 0.0389(3) 1 0
+Cs2 Cs1+ 4 b 0.25 0.47883(5) 0.17821(14) 0.0356(3) 1 0
+Cs3 Cs1+ 8 c 0.02912(7) 0.30195(4) 0.36602(12) 0.0541(3) 1 0
+Cs4 Cs1+ 4 b 0.25 0.54641(8) 0.57182(16) 0.0608(5) 1 0
+S1 S2- 8 c 0.1441(2) -0.04604(15) 0.2892(3) 0.0312(8) 1 0
+S2 S2- 8 c 0.04344(19) -0.06764(13) 0.5977(3) 0.0262(7) 1 0
+S3 S2- 8 c 0.13450(19) 0.06026(13) 0.4673(3) 0.0248(7) 1 0
+P1 P5+ 8 c 0.0690(2) 0.10104(13) 0.6111(3) 0.0207(6) 1 0
+S4 S2- 8 c 0.1138(2) 0.08900(14) 0.7970(3) 0.0303(7) 1 0
+S5 S2- 8 c 0.0284(2) 0.07471(17) 0.1643(4) 0.0407(9) 1 0
+P2 P5+ 8 c 0.0907(2) -0.09375(14) 0.1462(3) 0.0294(8) 1 0
+S6 S2- 8 c 0.1282(2) 0.42551(15) 0.4585(3) 0.0345(8) 1 0
+S7 S2- 8 c -0.0626(2) 0.31856(14) 0.0619(4) 0.0357(8) 1 0
+S8 S2- 8 c 0.1084(4) 0.32566(16) 0.6851(5) 0.0670(16) 1 0
+P3 P5+ 4 b 0.25 0.25567(19) 0.1588(4) 0.0260(10) 1 0
+S9 S2- 4 b 0.25 0.2324(2) 0.3584(5) 0.0447(13) 1 0
+S10 S2- 4 b 0.25 0.3393(2) 0.1501(6) 0.0396(12) 1 0
+S11 S2- 8 c -0.1499(2) 0.27387(18) 0.5680(4) 0.0433(9) 1 0
+Na1 Na1+ 8 c 0.1157(4) -0.1606(3) 0.4701(7) 0.0466(16) 1 0
+Na2 Na1+ 8 c -0.1133(6) 0.3399(3) -0.2045(8) 0.063(2) 1 0
+Na3 Na1+ 4 b 0.25 0.3431(4) 0.4721(10) 0.048(2) 1 0
+Na4 Na1+ 4 a 0. 0.5 0.3715(13) 0.0417(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U4+ 0.0159(2) 0.0229(3) 0.0154(2) 0.0001(2) 0. 0.
+Cs1 Cs1+ 0.0347(7) 0.0433(7) 0.0388(7) 0. 0. 0.0014(6)
+Cs2 Cs1+ 0.0303(7) 0.0336(6) 0.0428(7) 0. 0. 0.0083(6)
+Cs3 Cs1+ 0.0616(6) 0.0510(6) 0.0496(6) 0.0027(4) -0.0152(6) 0.0079(6)
+Cs4 Cs1+ 0.0563(10) 0.0780(12) 0.0482(9) 0. 0. 0.0095(8)
+S1 S2- 0.0236(18) 0.044(2) 0.0260(16) 0.0066(14) 0.0030(13) -0.0046(14)
+S2 S2- 0.0190(16) 0.0319(17) 0.0278(16) -0.0014(13) -0.0019(13) 0.0088(14)
+S3 S2- 0.0190(15) 0.0334(17) 0.0221(15) -0.0011(13) 0.0014(12) -0.0020(13)
+P1 P5+ 0.0233(17) 0.0210(14) 0.0178(14) 0.0001(12) -0.0035(12) -0.0026(12)
+S4 S2- 0.0362(19) 0.0351(17) 0.0194(14) -0.0009(15) -0.0080(13) 0.0013(14)
+S5 S2- 0.035(2) 0.056(2) 0.0313(18) -0.0153(17) -0.0109(16) 0.0234(18)
+P2 P5+ 0.043(2) 0.0264(17) 0.0191(17) 0.0047(15) 0.0070(14) 0.0009(13)
+S6 S2- 0.041(2) 0.0404(19) 0.0224(16) 0.0092(16) 0.0102(15) 0.0054(14)
+S7 S2- 0.049(2) 0.0238(16) 0.0347(18) -0.0006(15) 0.0049(16) -0.0043(14)
+S8 S2- 0.141(5) 0.0283(19) 0.032(2) 0.016(2) 0.001(3) 0.0023(19)
+P3 P5+ 0.028(2) 0.030(2) 0.020(2) 0. 0. 0.003(2)
+S9 S2- 0.060(4) 0.055(3) 0.019(2) 0. 0. 0.006(2)
+S10 S2- 0.047(3) 0.030(3) 0.042(3) 0. 0. -0.003(2)
+S11 S2- 0.039(2) 0.059(2) 0.0321(18) -0.0167(18) 0.0087(16) -0.0037(17)
+Na1 Na1+ 0.048(4) 0.055(4) 0.037(3) 0.015(3) -0.003(3) -0.005(3)
+Na2 Na1+ 0.096(6) 0.048(4) 0.046(4) -0.020(4) -0.030(4) 0.003(3)
+Na3 Na1+ 0.040(5) 0.043(5) 0.061(6) 0. 0. 0.003(4)
+Na4 Na1+ 0.035(4) 0.044(4) 0.047(4) 0.004(4) 0. 0.
+#End of TTdata_265158-ICSD

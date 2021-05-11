@@ -1,0 +1,86 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_72548-ICSD
+_database_code_ICSD 72548
+_audit_creation_date 1994-01-19
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Rubidium lithium chromate - G3'
+_chemical_formula_structural 'Rb Li (Cr O4)'
+_chemical_formula_sum 'Cr1 Li1 O4 Rb1'
+_chemical_name_structure_type RbLiCrO4
+_exptl_crystal_density_diffrn 2.97
+_cell_measurement_temperature 428.
+_publ_section_title 'Structure and twinning of Rb Li Cr O4 crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1993 49 19 28
+ASBSDK
+loop_
+_publ_author_name
+'Makarova, I.P.'
+'Verin, I.A.'
+'Aleksandrov, K.S.'
+_cell_length_a 5.423(1)
+_cell_length_b 5.423(1)
+_cell_length_c 9.161(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 233.32
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Li1+ 1
+Cr6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 2 a 0 0 0 . 1. 0
+Li1 Li1+ 2 b 0.3333 0.6667 0.184(1) . 1. 0
+Cr1 Cr6+ 2 b 0.3333 0.6667 0.7940(1) . 1. 0
+O1 O2- 2 b 0.3333 0.6667 0.4706(5) . 1. 0
+O2 O2- 6 c 0.3922(5) 0.3537(4) 0.2372(3) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Rb1 Rb1+ 0.0327(1) 0.0327(1) 0.00704(5) 0.0164(1) 0 0
+Li1 Li1+ 0.049(3) 0.049(3) 0.008(1) 0.025(2) 0 0
+Cr1 Cr6+ 0.0171(1) 0.0171(1) 0.00424(6) 0.0086(1) 0 0
+O1 O2- 0.068(2) 0.068(2) 0.0040(4) 0.034(1) 0 0
+O2 O2- 0.0262(9) 0.0262(9) 0.0040(4) 0.0093(1) 0.0052(4) 0.0046(5)
+#End of TTdata_72548-ICSD

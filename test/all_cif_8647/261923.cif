@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_261923-ICSD
+_database_code_ICSD 261923
+_audit_creation_date 2012-02-01
+_chemical_name_systematic 'Silver disodium trimolybdenum(VI) nonaoxide arsenate'
+_chemical_formula_structural 'Ag Na2 Mo3 O9 As O4'
+_chemical_formula_sum 'Ag1 As1 Mo3 Na2 O13'
+_exptl_crystal_density_diffrn 4.46
+_cell_measurement_temperature 298.
+_publ_section_title 'Ag Na2 Mo3 O9 As O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2011 67
+i63 i63 ACSEBH
+loop_
+_publ_author_name
+'Hamza, H.'
+'Zid, M.F.'
+'Driss, A.'
+_cell_length_a 8.1767(8)
+_cell_length_b 9.7687(9)
+_cell_length_c 8.0451(8)
+_cell_angle_alpha 99.49(2)
+_cell_angle_beta 106.07(2)
+_cell_angle_gamma 113.29(2)
+_cell_volume 539.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0236
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+As5+ 5
+Ag1+ 1
+Na1+ 1
+Ag1+ 1
+Na1+ 1
+Ag1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 i 0.71234(5) 0.14251(5) 0.48605(5) 0.00818(11) 1 0
+Mo2 Mo6+ 2 i 0.58834(6) 0.75426(5) 0.30104(5) 0.00827(11) 1 0
+Mo3 Mo6+ 2 i 0.43503(6) 0.22968(5) 0.11436(5) 0.00868(11) 1 0
+As1 As5+ 2 i 0.22233(7) 0.82953(5) 0.04824(6) 0.00761(12) 1 0
+Ag1 Ag1+ 2 i 0.14302(10) 0.43681(8) -0.09577(9) 0.0213(3) 0.524(3) 0
+Na1 Na1+ 2 i 0.14302(10) 0.43681(8) -0.09577(9) 0.0213(3) 0.476(4) 0
+Ag2 Ag1+ 2 i 0.84335(15) 0.57626(11) 0.60990(13) 0.0320(4) 0.391(3) 0
+Na2 Na1+ 2 i 0.84335(15) 0.57626(11) 0.60990(13) 0.0320(4) 0.609(4) 0
+Ag3 Ag1+ 2 i 0.97290(18) -0.02400(16) 0.74218(18) 0.0194(5) 0.147(3) 0
+Na3 Na1+ 2 i 0.97290(18) -0.02400(16) 0.74218(18) 0.0194(5) 0.853(4) 0
+O1 O2- 2 i 0.2244(5) -0.0212(4) 0.9676(5) 0.0135(7) 1 0
+O2 O2- 2 i 0.8795(5) 0.3378(4) 0.5567(5) 0.0173(8) 1 0
+O3 O2- 2 i 0.0460(5) 0.6539(4) 0.9111(5) 0.0168(8) 1 0
+O4 O2- 2 i 0.6979(5) 0.7508(4) 0.1170(4) 0.0120(7) 1 0
+O5 O2- 2 i 0.3912(5) 0.5759(4) 0.2330(5) 0.0202(8) 1 0
+O6 O2- 2 i 0.4357(5) 0.8235(4) 0.0849(4) 0.0114(7) 1 0
+O7 O2- 2 i 0.5640(5) 0.1338(4) 0.2611(5) 0.0139(7) 1 0
+O8 O2- 2 i 0.5097(5) 0.8757(4) 0.4424(5) 0.0130(7) 1 0
+O9 O2- 2 i 0.6297(5) 0.4137(4) 0.2142(5) 0.0177(8) 1 0
+O10 O2- 2 i 0.2813(5) 0.2401(5) 0.2173(5) 0.0196(8) 1 0
+O11 O2- 2 i 0.8223(5) 0.0337(4) 0.4165(5) 0.0152(7) 1 0
+O12 O2- 2 i 0.8183(5) 0.1370(4) 0.7539(4) 0.0133(7) 1 0
+O13 O2- 2 i 0.7650(5) 0.7405(4) 0.4636(5) 0.0146(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0074(2) 0.0088(2) 0.0082(2) 0.00380(16) 0.00317(15) 0.00218(15)
+Mo2 Mo6+ 0.0096(2) 0.0090(2) 0.00853(19) 0.00560(16) 0.00429(15) 0.00358(15)
+Mo3 Mo6+ 0.0106(2) 0.0086(2) 0.0085(2) 0.00513(16) 0.00467(16) 0.00320(15)
+As1 As5+ 0.0071(2) 0.0071(2) 0.0090(2) 0.00346(18) 0.00316(18) 0.00267(18)
+Ag1 Ag1+ 0.0186(4) 0.0182(4) 0.0256(4) 0.0050(3) 0.0110(3) 0.0074(3)
+Na1 Na1+ 0.0186(4) 0.0182(4) 0.0256(4) 0.0050(3) 0.0110(3) 0.0074(3)
+Ag2 Ag1+ 0.0444(7) 0.0255(5) 0.0269(5) 0.0217(5) 0.0045(4) 0.0116(4)
+Na2 Na1+ 0.0444(7) 0.0255(5) 0.0269(5) 0.0217(5) 0.0045(4) 0.0116(4)
+Ag3 Ag1+ 0.0142(7) 0.0231(8) 0.0215(8) 0.0102(6) 0.0056(5) 0.0060(6)
+Na3 Na1+ 0.0142(7) 0.0231(8) 0.0215(8) 0.0102(6) 0.0056(5) 0.0060(6)
+O1 O2- 0.0152(17) 0.0105(17) 0.0143(17) 0.0060(14) 0.0036(14) 0.0065(14)
+O2 O2- 0.0177(18) 0.0111(17) 0.0166(18) 0.0035(15) 0.0031(15) 0.0026(14)
+O3 O2- 0.0119(17) 0.0117(17) 0.0181(18) 0.0012(14) 0.0014(15) 0.0015(14)
+O4 O2- 0.0155(17) 0.0157(17) 0.0116(16) 0.0120(15) 0.0062(14) 0.0066(14)
+O5 O2- 0.0182(19) 0.0136(19) 0.027(2) 0.0057(16) 0.0079(16) 0.0069(16)
+O6 O2- 0.0118(16) 0.0171(17) 0.0100(16) 0.0093(14) 0.0054(14) 0.0066(14)
+O7 O2- 0.0164(18) 0.0140(17) 0.0117(16) 0.0088(15) 0.0035(14) 0.0032(14)
+O8 O2- 0.0119(17) 0.0153(17) 0.0123(16) 0.0067(14) 0.0054(14) 0.0037(14)
+O9 O2- 0.0188(18) 0.0132(18) 0.0201(19) 0.0065(15) 0.0087(16) 0.0028(15)
+O10 O2- 0.024(2) 0.025(2) 0.0181(19) 0.0152(17) 0.0126(16) 0.0087(16)
+O11 O2- 0.0165(18) 0.0140(18) 0.0186(18) 0.0079(15) 0.0102(15) 0.0053(15)
+O12 O2- 0.0140(17) 0.0224(19) 0.0102(16) 0.0129(15) 0.0060(14) 0.0071(14)
+O13 O2- 0.0159(18) 0.0184(19) 0.0119(17) 0.0113(16) 0.0035(14) 0.0054(14)
+#End of TTdata_261923-ICSD

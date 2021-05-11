@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251525-ICSD
+_database_code_ICSD 251525
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Sodium tris(formato)-manganate(II)'
+_chemical_formula_structural 'Na (Mn (H C O O)3)'
+_chemical_formula_sum 'C3 H3 Mn1 Na1 O6'
+_chemical_name_structure_type Na(Mn(HCOO)3)
+_exptl_crystal_density_diffrn 1.85
+_cell_measurement_temperature 250.
+_publ_section_title
+
+;
+Alkali metal ion templated transition metal formate framework materials:
+synthesis, crystal structures, ion migration, and magnetism
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 10178 10188 INOCAJ
+loop_
+_publ_author_name
+'Eikeland, Espen'
+'Lock, Nina'
+'Filsoe, Mette'
+'Stingaciu, Marian'
+'Shen, Yanbin'
+'Overgaard, Jacob'
+'Iversen, Bo Brummerstedt'
+_cell_length_a 9.1451(5)
+_cell_length_b 9.1451(5)
+_cell_length_c 9.1451(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 764.83
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.0356
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C2+ 2
+H1+ 1
+O2- -2
+Mn2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C2+ 12 b 0.3641(3) 0.4660(2) 0.7627(2) 0.0261(4) 1 0
+H1 H1+ 12 b 0.2656 0.4682 0.7919 0.031 1 0
+O1 O2- 12 b 0.43029(15) 0.35079(15) 0.78345(15) 0.0235(3) 1 0
+Mn1 Mn2+ 4 a 0.63577(3) 0.63577(3) 0.63577(3) 0.01553(10) 1 0
+Na1 Na1+ 4 a 0.31493(8) 0.81493(8) 0.68507(8) 0.0171(3) 1 0
+O2 O2- 12 b 0.41355(16) 0.58050(15) 0.70703(17) 0.0262(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C2+ 0.0173(8) 0.0203(9) 0.0406(12) -0.0015(7) 0.0028(10) 0.0060(8)
+O1 O2- 0.0216(7) 0.0169(7) 0.0319(8) 0.0010(5) 0.0017(6) 0.0047(6)
+Mn1 Mn2+ 0.01553(10) 0.01553(10) 0.01553(10) 0.00104(11) 0.00104(11) 0.00104(11)
+Na1 Na1+ 0.0171(3) 0.0171(3) 0.0171(3) 0.0027(3) -0.0027(3) -0.0027(3)
+O2 O2- 0.0207(7) 0.0190(7) 0.0389(9) -0.0002(6) 0.0028(6) 0.0096(6)
+#End of TTdata_251525-ICSD

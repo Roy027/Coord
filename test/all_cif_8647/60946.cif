@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_60946-ICSD
+_database_code_ICSD 60946
+_audit_creation_date 1988-02-22
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Sodium tetracopper tris(arsenate(V))'
+_chemical_formula_structural 'Na Cu4 (As O4)3'
+_chemical_formula_sum 'As3 Cu4 Na1 O12'
+_chemical_name_structure_type NaCu4(AsO4)3
+_exptl_crystal_density_diffrn 4.79
+_publ_section_title
+
+;
+Hydrothermal synthesis and structure of sodium tetracopper (II) triarsenate(V)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 381 383 ACSCEE
+loop_
+_publ_author_name
+'Pertlik, F.'
+_cell_length_a 12.051(1)
+_cell_length_b 12.420(1)
+_cell_length_c 7.290(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 118.10(1)
+_cell_angle_gamma 90.
+_cell_volume 962.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+As5+ 5
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 e 0 0.50441(4) 0.25 . 1. 0
+Cu2 Cu2+ 4 e 0 0.26567(5) 0.25 . 1. 0
+Cu3 Cu2+ 8 f 0.21999(3) 0.15632(3) 0.14007(7) . 1. 0
+As1 As5+ 4 e 0 0.72320(4) 0.25 . 1. 0
+As2 As5+ 8 f 0.27310(3) 0.38249(3) 0.37936(5) . 1. 0
+O1 O2- 8 f 0.8968(2) 0.6236(2) 0.2420(4) . 1. 0
+O2 O2- 8 f 0.9566(2) 0.7982(2) 0.0366(4) . 1. 0
+O3 O2- 8 f 0.1184(2) 0.3898(2) 0.3249(4) . 1. 0
+O4 O2- 8 f 0.2778(2) 0.3064(2) 0.1922(4) . 1. 0
+O5 O2- 8 f 0.3331(2) 0.5048(2) 0.3825(4) . 1. 0
+O6 O2- 8 f 0.3562(2) 0.3333(2) 0.6225(4) . 1. 0
+Na1 Na1+ 4 e 0 0.9923(2) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0091(2) 0.0051(2) 0.0190(3) 0 0.0060(2) 0
+Cu2 Cu2+ 0.0088(2) 0.0057(2) 0.0214(3) 0 0.0049(2) 0
+Cu3 Cu2+ 0.0081(1) 0.0059(2) 0.0155(2) -.0001(1) 0.0039(1) -.0005(1)
+As1 As5+ 0.0090(2) 0.0051(2) 0.0100(2) 0 0.0029(1) 0
+As2 As5+ 0.0080(1) 0.0048(1) 0.0102(1) 0.0002(1) 0.0035(1) 0.0000(1)
+O1 O2- 0.0103(9) 0.0065(9) 0.0210(11) 0.0013(7) 0.0070(8) 0.0004(8)
+O2 O2- 0.0099(8) 0.0135(11) 0.0148(10) 0.0026(8) 0.0057(8) 0.0048(8)
+O3 O2- 0.0092(9) 0.0071(9) 0.0258(13) 0.0018(7) 0.0071(9) 0.0008(9)
+O4 O2- 0.0137(9) 0.0087(10) 0.0137(10) -.0018(7) 0.0066(8) -.0023(8)
+O5 O2- 0.0131(10) 0.0057(9) 0.0207(12) -.0025(7) 0.0068(9) -.0011(8)
+O6 O2- 0.0126(9) 0.0113(10) 0.0098(9) 0.0042(8) 0.0039(7) 0.0021(8)
+Na1 Na1+ 0.0177(10) 0.0222(12) 0.0197(11) 0 0.0028(8) 0
+#End of TTdata_60946-ICSD

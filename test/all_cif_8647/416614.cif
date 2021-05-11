@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416614-ICSD
+_database_code_ICSD 416614
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Sodium europium diphosphate(V)'
+_chemical_formula_structural 'Na Eu (P2 O7)'
+_chemical_formula_sum 'Eu1 Na1 O7 P2'
+_chemical_name_structure_type Ca2P2O7
+_exptl_crystal_density_diffrn 4.2
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Crystal and band structures and optical characterizations of sodium rare earth
+phosphates Na Ln P2 O7 and Na Ln (P O3)4 (Ln= Ce, Eu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2008 454 419 426 JALCEU
+loop_
+_publ_author_name
+'Zhu Jing'
+'Cheng Wen Dan'
+'Wu Dongsheng'
+'Zhang Hao'
+'Gong Yajing'
+'Tong Huanan'
+'Zhao Dan'
+_cell_length_a 5.2393(9)
+_cell_length_b 8.4427(17)
+_cell_length_c 12.478(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.411(12)
+_cell_angle_gamma 90.
+_cell_volume 551.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0275
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 4 e 0.26690(5) 0.80119(3) 0.23332(2) 0.00733(14) 1 0
+P1 P5+ 4 e 0.7432(3) 1.25531(18) 0.46777(11) 0.0075(3) 1 0
+P2 P5+ 4 e 0.7396(3) 1.00233(17) 0.31788(10) 0.0067(3) 1 0
+Na1 Na1+ 4 e 0.7696(5) 0.6122(3) 0.42187(19) 0.0172(5) 1 0
+O1 O2- 4 e 0.5330(8) 0.8344(5) 0.0855(3) 0.0131(8) 1 0
+O2 O2- 4 e 0.2265(8) 0.7395(5) 0.4125(3) 0.0129(8) 1 0
+O3 O2- 4 e 0.0065(8) 0.8246(5) 0.0747(4) 0.0143(9) 1 0
+O4 O2- 4 e -0.0049(8) 1.0434(5) 0.2683(3) 0.0114(8) 1 0
+O5 O2- 4 e 0.6992(9) 0.8272(5) 0.3228(4) 0.0160(9) 1 0
+O6 O2- 4 e -0.0070(8) 0.5734(5) 0.2390(3) 0.0109(8) 1 0
+O7 O2- 4 e 0.7483(8) 1.0706(5) 0.4376(3) 0.0102(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu3+ 0.00721(19) 0.00964(19) 0.00505(19) -0.00033(9) -0.00165(11) 0.00012(9)
+P1 P5+ 0.0071(6) 0.0105(7) 0.0049(6) -0.0003(5) -0.0015(5) -0.0007(5)
+P2 P5+ 0.0062(6) 0.0084(7) 0.0054(6) 0.0002(5) -0.0016(5) 0.0000(5)
+Na1 Na1+ 0.0217(13) 0.0173(13) 0.0126(11) 0.0028(10) -0.0023(9) 0.0022(10)
+O1 O2- 0.011(2) 0.018(2) 0.011(2) 0.0025(17) 0.0010(16) 0.0005(16)
+O2 O2- 0.014(2) 0.019(2) 0.0050(19) -0.0013(17) -0.0021(15) -0.0018(17)
+O3 O2- 0.012(2) 0.018(2) 0.012(2) -0.0042(16) -0.0063(16) 0.0038(16)
+O4 O2- 0.0080(19) 0.015(2) 0.0112(18) -0.0008(15) -0.0005(15) 0.0010(16)
+O5 O2- 0.022(2) 0.0079(19) 0.017(2) -0.0014(17) -0.0077(18) -0.0005(16)
+O6 O2- 0.0057(18) 0.015(2) 0.0119(18) -0.0025(15) -0.0028(14) 0.0008(16)
+O7 O2- 0.014(2) 0.012(2) 0.0052(16) -0.0008(16) -0.0021(14) 0.0055(15)
+#End of TTdata_416614-ICSD

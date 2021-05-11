@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251521-ICSD
+_database_code_ICSD 251521
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Disodium octakis(formato)-tricuprate(II)'
+_chemical_formula_structural 'Na2 (Cu3 (H C O O)8)'
+_chemical_formula_sum 'C8 H8 Cu3 Na2 O16'
+_exptl_crystal_density_diffrn 2.28
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Alkali metal ion templated transition metal formate framework materials:
+synthesis, crystal structures, ion migration, and magnetism
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 10178 10188 INOCAJ
+loop_
+_publ_author_name
+'Eikeland, Espen'
+'Lock, Nina'
+'Filsoe, Mette'
+'Stingaciu, Marian'
+'Shen, Yanbin'
+'Overgaard, Jacob'
+'Iversen, Bo Brummerstedt'
+_cell_length_a 7.6608(4)
+_cell_length_b 7.7698(3)
+_cell_length_c 8.7954(4)
+_cell_angle_alpha 113.244(4)
+_cell_angle_beta 108.608(4)
+_cell_angle_gamma 97.554(3)
+_cell_volume 435.51
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0373
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+C2+ 2
+O2- -2
+C2+ 2
+H1+ 1
+C2+ 2
+H1+ 1
+C2+ 2
+H1+ 1
+O2- -2
+Na1+ 1
+Cu2+ 2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 2 i 0.2151(3) -0.0120(3) 0.1823(3) 0.0466(5) 1 0
+O2 O2- 2 i 0.7136(3) 0.2773(3) 0.3844(3) 0.0486(5) 1 0
+C1 C2+ 2 i 0.2642(5) -0.1625(5) 0.1747(5) 0.0466(7) 1 0
+O3 O2- 2 i 0.2116(3) 0.3373(4) 0.5688(3) 0.0475(5) 1 0
+C2 C2+ 2 i 0.7582(5) 0.1730(5) 0.2617(4) 0.0447(7) 1 0
+H1 H1+ 2 i 0.669 0.0516 0.1764 0.054 1 0
+C3 C2+ 2 i 0.1455(5) 0.3339(5) 0.6812(5) 0.0475(7) 1 0
+H2 H1+ 2 i 0.1969 0.27 0.7465 0.057 1 0
+C4 C2+ 2 i 0.6921(4) 0.6353(4) 0.8498(4) 0.0415(6) 1 0
+H3 H1+ 2 i 0.6003 0.5688 0.8713 0.05 1 0
+O4 O2- 2 i 0.6721(3) 0.5668(3) 0.6894(3) 0.0405(4) 1 0
+O5 O2- 2 i 0.8185(3) 0.7809(3) 0.9857(3) 0.0452(5) 1 0
+O6 O2- 2 i 0.9085(3) 0.2131(3) 0.2405(3) 0.0453(5) 1 0
+O7 O2- 2 i 1.0190(4) 0.4065(4) 0.7149(3) 0.0520(6) 1 0
+O8 O2- 2 i 0.4146(4) -0.1586(4) 0.2830(4) 0.0611(7) 1 0
+Na1 Na1+ 2 i 0.45753(17) 0.22501(18) 0.47687(17) 0.0431(3) 1 0
+Cu1 Cu2+ 1 a 0. 0. 0. 0.03809(14) 1 0
+Cu2 Cu2+ 2 i 0.88604(5) 0.53850(5) 0.58507(5) 0.03737(12) 1 0
+H4 H1+ 2 i 0.181(4) -0.285(2) 0.084(3) 0.049(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0426(11) 0.0386(11) 0.0405(11) 0.0091(9) 0.0019(9) 0.0140(9)
+O2 O2- 0.0409(11) 0.0397(11) 0.0472(12) 0.0029(9) 0.0172(10) 0.0067(10)
+C1 C2+ 0.0455(16) 0.0413(16) 0.0418(16) 0.0073(13) 0.0075(13) 0.0185(13)
+O3 O2- 0.0443(12) 0.0568(13) 0.0440(12) 0.0181(10) 0.0160(10) 0.0265(11)
+C2 C2+ 0.0387(15) 0.0371(14) 0.0387(15) 0.0023(11) 0.0093(12) 0.0070(12)
+C3 C2+ 0.0455(17) 0.0531(18) 0.0445(17) 0.0163(14) 0.0137(14) 0.0263(15)
+C4 C2+ 0.0369(14) 0.0394(14) 0.0400(15) 0.0055(11) 0.0133(12) 0.0144(12)
+O4 O2- 0.0358(10) 0.0405(11) 0.0353(10) 0.0074(8) 0.0128(8) 0.0109(9)
+O5 O2- 0.0462(12) 0.0414(11) 0.0336(10) 0.0023(9) 0.0089(9) 0.0129(9)
+O6 O2- 0.0384(11) 0.0425(11) 0.0370(10) 0.0054(9) 0.0127(9) 0.0057(9)
+O7 O2- 0.0544(14) 0.0638(15) 0.0511(14) 0.0250(12) 0.0254(12) 0.0337(12)
+O8 O2- 0.0497(14) 0.0592(15) 0.0665(17) 0.0139(12) 0.0069(12) 0.0358(14)
+Na1 Na1+ 0.0362(6) 0.0425(6) 0.0399(6) 0.0080(5) 0.0102(5) 0.0146(5)
+Cu1 Cu2+ 0.0347(3) 0.0350(3) 0.0320(3) 0.00579(19) 0.00464(19) 0.0121(2)
+Cu2 Cu2+ 0.03257(19) 0.0375(2) 0.0341(2) 0.00746(14) 0.01050(14) 0.01253(15)
+#End of TTdata_251521-ICSD

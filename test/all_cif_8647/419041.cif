@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_419041-ICSD
+_database_code_ICSD 419041
+_audit_creation_date 2009-02-01
+_chemical_name_systematic 'Sodium tetrahydridoborate dihydrate'
+_chemical_formula_structural 'Na (B H4) (H2 O)2'
+_chemical_formula_sum 'H8 B1 Na1 O2'
+_chemical_name_structure_type NaBH4(H2O)2
+_exptl_crystal_density_diffrn 1.13
+_cell_measurement_temperature 150.
+_publ_section_title
+'Structure and properties of Na (B H4) * 2 H2O and Na (B H4)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2008 2008 3127 3133 EJICFO
+loop_
+_publ_author_name
+'Filinchuk, Y.'
+'Hagemann, H.'
+_cell_length_a 10.3390(16)
+_cell_length_b 6.8894(12)
+_cell_length_c 12.1434(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 864.97
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.0242
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.67153(3) 0.04891(5) 0.51216(3) 0.02057(13) 1 0
+O1 O2- 8 c 0.49079(7) 0.14323(13) 0.39961(7) 0.02109(18) 1 0
+H1 H1+ 8 c 0.5053(13) 0.113(2) 0.3359(14) 0.038(4) 1 0
+H2 H1+ 8 c 0.4794(14) 0.252(2) 0.3927(12) 0.039(4) 1 0
+O2 O2- 8 c 0.69427(8) -0.24544(12) 0.39598(8) 0.02372(19) 1 0
+H3 H1+ 8 c 0.7249(15) -0.230(2) 0.3360(17) 0.050(5) 1 0
+H4 H1+ 8 c 0.6280(15) -0.283(2) 0.3807(14) 0.044(5) 1 0
+B1 B3+ 8 c 0.88654(11) -0.09873(18) 0.65011(12) 0.0206(3) 1 0
+H5 H1- 8 c 0.8863(12) -0.0833(18) 0.5580(13) 0.038(3) 1 0
+H6 H1- 8 c 0.8031(14) -0.035(2) 0.6873(14) 0.058(5) 1 0
+H7 H1- 8 c 0.9739(13) -0.024(2) 0.6816(13) 0.043(4) 1 0
+H8 H1- 8 c 0.8960(14) -0.250(2) 0.6766(15) 0.058(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.01750(18) 0.0193(2) 0.0249(2) -0.00073(16) -0.00099(17) 0.00148(18)
+O1 O2- 0.0243(4) 0.0182(4) 0.0208(5) 0.0006(3) 0.0005(3) 0.0017(4)
+O2 O2- 0.0208(4) 0.0279(4) 0.0225(5) -0.0013(3) -0.0013(4) 0.0002(4)
+B1 B3+ 0.0210(5) 0.0186(6) 0.0222(7) 0.0008(5) -0.0037(5) -0.0017(5)
+#End of TTdata_419041-ICSD

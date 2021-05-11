@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170309-ICSD
+_database_code_ICSD 170309
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Sodium cyanomolybdate selenide'
+_chemical_formula_structural 'Na8 Mo4 Se4 (C N)12'
+_chemical_formula_sum 'C12 Mo4 N12 Na8 Se4'
+_exptl_crystal_density_diffrn 3.04
+_cell_measurement_temperature 110.
+_publ_section_title
+'Cyanide-melt synthesis of reduced molybdenum selenide clusters'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2004 43 1902 1911 INOCAJ
+loop_
+_publ_author_name
+'Magliocchi, C.'
+'Xie, X.'
+'Hughbanks, T.'
+_cell_length_a 15.362(2)
+_cell_length_b 15.362(2)
+_cell_length_c 11.055(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2608.88
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a m d Z'
+_symmetry_Int_Tables_number 141
+_refine_ls_R_factor_all 0.0651
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/4, x+3/4, -z+1/4'
+2 'y+1/4, -x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 'x, -y, -z'
+5 '-y+3/4, x+3/4, -z+1/4'
+6 '-y+3/4, -x+3/4, -z+1/4'
+7 '-x, y+1/2, -z'
+8 '-x, -y, -z'
+9 '-y+3/4, -x+1/4, z+3/4'
+10 '-y+3/4, x+1/4, z+3/4'
+11 '-x, -y+1/2, z'
+12 '-x, y, z'
+13 'y+1/4, -x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+3/4'
+15 'x, -y+1/2, z'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+3/4'
+18 'y+3/4, -x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 'x+1/2, -y+1/2, -z+1/2'
+21 '-y+1/4, x+1/4, -z+3/4'
+22 '-y+1/4, -x+1/4, -z+3/4'
+23 '-x+1/2, y, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/4, -x+3/4, z+1/4'
+26 '-y+1/4, x+3/4, z+1/4'
+27 '-x+1/2, -y, z+1/2'
+28 '-x+1/2, y+1/2, z+1/2'
+29 'y+3/4, -x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+1/4'
+31 'x+1/2, -y, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo0+ 0
+Se0+ 0
+Na0+ 0
+C0+ 0
+N0+ 0
+C0+ 0
+N0+ 0
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo0+ 16 h 0.40607(5) 0.25 0.03144(6) 0.0153(3) 1 0
+Se1 Se0+ 16 h 0.5 0.38155(5) 0.00030(7) 0.0160(3) 1 0
+Na1 Na0+ 16 f 0.25 0.3909(2) -0.25 0.0216(8) 1 0
+Na2 Na0+ 16 h 0.5 0.3837(2) -0.2668(3) 0.0220(8) 1 0
+C1 C0+ 32 i 0.2981(4) 0.3391(4) 0.0076(5) 0.0190(12) 1 0
+N1 N0+ 32 i 0.2362(4) 0.3786(3) -0.0159(5) 0.0180(11) 1 0
+C2 C0+ 16 h 0.3923(6) 0.25 -0.1638(9) 0.0195(17) 1 0
+N2 N0+ 16 h 0.3797(5) 0.25 -0.2668(6) 0.0207(16) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo0+ 0.0152(4) 0.0155(4) 0.0152(4) 0. -0.0005(2) 0.
+Se1 Se0+ 0.0166(4) 0.0155(4) 0.0159(4) 0. 0. 0.0003(3)
+Na1 Na0+ 0.0235(19) 0.0200(18) 0.0213(16) 0. 0.0028(13) 0.
+Na2 Na0+ 0.0215(19) 0.0226(19) 0.0220(17) 0. 0. -0.0010(14)
+C1 C0+ 0.023(3) 0.018(3) 0.017(2) -0.002(3) -0.001(2) -0.001(2)
+N1 N0+ 0.019(3) 0.014(2) 0.021(2) 0.003(2) 0.000(2) 0.0025(18)
+C2 C0+ 0.020(4) 0.009(4) 0.030(4) 0. 0.003(3) 0.
+N2 N0+ 0.027(4) 0.022(4) 0.014(3) 0. -0.003(3) 0.
+#End of TTdata_170309-ICSD

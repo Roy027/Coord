@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_425875-ICSD
+_database_code_ICSD 425875
+_audit_creation_date 2014-02-01
+_chemical_name_systematic
+'Disodium trimagnesium dihydroxide trisulfate tetrahydrate'
+_chemical_formula_structural 'Na2 Mg3 (O H)2 (S O4)3 (H2 O)4'
+_chemical_formula_sum 'H10 Mg3 Na2 O18 S3'
+_exptl_crystal_density_diffrn 2.38
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Syntheses and Structures of Na2 Mg3 (O H)2 (S O4)3 * 4 H2 O and K2 Mg3 (O H)2
+(S O4)3 * 2 H2 O
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2013
+639 1782 1786 ZAACAB
+loop_
+_publ_author_name
+'Kubel, Frank'
+'Cabaret-Lampin, Marie'
+_cell_length_a 19.7351(3)
+_cell_length_b 7.22280(14)
+_cell_length_c 10.02845(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1429.48
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c 21'
+_symmetry_Int_Tables_number 36
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 b .2094(3) .0471(9) .7511(8) .112(2) 1. 0
+Mg1 Mg2+ 4 a . .2188(7) . .0141(10) 1. 0
+Mg2 Mg2+ 8 b .07900(15) .4483(6) .2824(5) .0141(10) 1. 0
+S1 S6+ 8 b .15898(9) .3156(3) .00830(19) .0173(7) 1. 0
+O1 O2- 8 b .1016(2) .1811(7) .0000(8) .0281(9) 1. 0
+O2 O2- 8 b .1552(3) .4461(8) .8928(6) .0281(9) 1. 0
+O3 O2- 8 b .2241(3) .2216(6) .9995(8) .0281(9) 1. 0
+O4 O2- 8 b .1521(3) .4192(8) .1390(6) .0281(9) 1. 0
+S2 S6+ 4 a . .1812(4) .6817(3) .0173(7) 1. 0
+O5 O2- 4 a . .0705(12) .5560(10) .0281(9) 1. 0
+O6 O2- 8 b .0607(3) .3084(9) .6807(7) .0281(9) 1. 0
+O7 O2- 4 a . .0792(9) .8138(8) .0281(9) 1. 0
+O8 O2- 4 a . .3139(13) .1761(10) .0281(9) 1. 0
+O9 O2- 4 a . .4920(11) .9029(9) .0281(9) 1. 0
+O10 O2- 8 b .1123(4) .1869(8) .3547(7) .0281(9) 1. 0
+O11 O2- 8 b .6673(3) .2736(7) .0780(6) .0281(9) 1. 0
+H1 H1+ 4 a . .14887 .20412 .02533 1. 0
+H2 H1+ 4 a . .4356 .49674 .02533 1. 0
+H3 H1+ 8 b .40512 .58522 .38075 .02533 1. 0
+H4 H1+ 8 b .64297 .28657 .91163 .02533 1. 0
+H5 H1+ 8 b .29307 .7705 .55318 .02533 1. 0
+H6 H1+ 8 b .36795 .78085 .62054 .02533 1. 0
+#End of TTdata_425875-ICSD

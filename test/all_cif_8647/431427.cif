@@ -1,0 +1,98 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431427-ICSD
+_database_code_ICSD 431427
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Lithium hydrogen bis(hydrogen disulfate)'
+_chemical_formula_structural 'Li (H (H S2 O7)2)'
+_chemical_formula_sum 'H3 Li1 O14 S4'
+_exptl_crystal_density_diffrn 2.31
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Increasing H2SO4 contents in disulfates cresting in the new
+hydrogenium-bis-hydrogendisulfate anion [H(HS2O7)2]-: Li2[S2O7]*H2SO4,
+Li[HS2O7], and Li[H(HS2O7)2]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'New Journal of Chemistry' 2017 41 56 62 NJCHE5
+loop_
+_publ_author_name
+'Schindler, Lisa Verena'
+'Wickleder, Mathias S.'
+_cell_length_a 4.9869(2)
+_cell_length_b 8.0857(3)
+_cell_length_c 12.9722(5)
+_cell_angle_alpha 90
+_cell_angle_beta 94.8750(16)
+_cell_angle_gamma 90
+_cell_volume 521.18
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0157
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S6+ 6
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S6+ 4 e 0.51479(2) 0.73807(2) 0.07019(2) 0.00606(3) 1 0
+S2 S6+ 4 e 0.46938(2) 0.77154(2) 0.28942(2) 0.00646(3) 1 0
+O1 O2- 4 e 0.33945(7) 0.60192(5) 0.08423(3) 0.00895(6) 1 0
+O2 O2- 4 e 0.76522(8) 0.70918(5) 0.02835(3) 0.01028(6) 1 0
+O3 O2- 4 e 0.48324(9) 0.59929(5) 0.31182(3) 0.01274(7) 1 0
+O4 O2- 4 e 0.17356(8) 0.81082(5) 0.26071(3) 0.01148(6) 1 0
+O5 O2- 4 e 0.59651(8) 0.88507(5) 0.36142(3) 0.00983(6) 1 0
+O6 O2- 4 e 0.36722(8) 0.88230(5) 0.02507(3) 0.01298(7) 1 0
+O7 O2- 4 e 0.61441(8) 0.80737(6) 0.18764(3) 0.01206(7) 1 0
+Li1 Li1+ 2 c 0. 0.5 0. 0.0124(2) 1 0
+H1 H1+ 4 e 0.142(3) 0.914(2) 0.2450(11) 0.040(4) 1 0
+H2 H1+ 4 e 0.470(6) 0.955(3) 0.012(2) 0.028(6) 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S6+ 0.00654(5) 0.00552(4) 0.00611(4) -0.00050(3) 0.00056(3) -0.00026(3)
+S2 S6+ 0.00667(5) 0.00663(5) 0.00606(5) -0.00007(3) 0.00037(3) -0.00075(3)
+O1 O2- 0.00978(13) 0.00815(13) 0.00880(12) -0.00338(10) 0.00006(10) 0.00016(10)
+O2 O2- 0.00969(14) 0.01015(13) 0.01168(14) 0.00016(11) 0.00475(11) -0.00150(11)
+O3 O2- 0.01776(16) 0.00721(13) 0.01247(14) 0.00062(12) -0.00339(12) 0.00093(11)
+O4 O2- 0.00629(12) 0.01104(14) 0.01692(15) 0.00120(10) -0.00019(11) -0.00151(12)
+O5 O2- 0.01050(13) 0.01100(14) 0.00789(12) -0.00154(10) 0.00026(10) -0.00370(10)
+O6 O2- 0.01147(15) 0.00799(13) 0.01882(17) 0.00128(11) -0.00266(12) 0.00378(12)
+O7 O2- 0.01120(14) 0.01855(17) 0.00671(12) -0.00771(12) 0.00239(10) -0.00379(11)
+Li1 Li1+ 0.0125(6) 0.0131(6) 0.0116(5) -0.0002(5) 0.0013(4) 0.0008(4)
+#End of TTdata_431427-ICSD

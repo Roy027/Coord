@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_71597-ICSD
+_database_code_ICSD 71597
+_audit_creation_date 1993-01-06
+_chemical_name_systematic 'Disodium phyllo-tetrathiotrimercurate'
+_chemical_formula_structural 'Na2 (Hg3 S4)'
+_chemical_formula_sum 'Hg3 Na2 S4'
+_exptl_crystal_density_diffrn 6.12
+_publ_section_title 'Na2Hg3S4: a thiomercurate with layered anions'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1992 182 281 288 JALCEU
+loop_
+_publ_author_name
+'Klepp, K.O.'
+_cell_length_a 7.308(5)
+_cell_length_b 14.011(8)
+_cell_length_c 8.231(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 842.79
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.056
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Hg2+ 2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.568(2) 0.6076(9) 0.381(1) . 1. 0
+Hg1 Hg2+ 8 c 0.7285(2) 0.30704(9) 0.2226(2) . 1. 0
+Hg2 Hg2+ 4 a 0.5 0.5 0 . 1. 0
+S1 S2- 8 c 0.262(1) 0.4816(5) 0.3388(8) . 1. 0
+S2 S2- 8 c 0.487(1) 0.7287(5) 0.0999(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.033(6) 0.020(6) 0.013(5) 0.003(6) -.004(5) 0.001(5)
+Hg1 Hg2+ 0.0135(5) 0.0335(6) 0.0221(5) -.0037(5) 0.0027(5) 0.0079(5)
+Hg2 Hg2+ 0.0116(6) 0.0251(7) 0.0144(6) 0.0022(7) -.0045(6) 0.0012(7)
+S1 S2- 0.009(3) 0.016(3) 0.018(3) 0.000(3) 0.004(3) 0.002(3)
+S2 S2- 0.017(3) 0.012(3) 0.012(3) 0.001(3) 0.000(3) -.003(3)
+#End of TTdata_71597-ICSD

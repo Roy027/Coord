@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_8161-ICSD
+_database_code_ICSD 8161
+_audit_creation_date 1980-01-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Hexasodium hexathio-duo-diferrate(III)'
+_chemical_formula_structural 'Na6 (Fe2 S6)'
+_chemical_formula_sum 'Fe2 Na6 S6'
+_chemical_name_structure_type Na3FeS3
+_exptl_crystal_density_diffrn 2.35
+_publ_section_title 'Na3 Fe S3, ein Thioferrat mit isolierten (Fe2 S6)-Anions'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Zeitschrift fuer Naturforschung, Teil B: Anorganische Chemie, Organische
+Chemie
+; 1979 34 1264 1266 ZNBAD2
+loop_
+_publ_author_name
+'Mueller, P.'
+'Bronger, W.'
+_cell_length_a 7.172(3)
+_cell_length_b 6.906(2)
+_cell_length_c 12.615(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.7(1)
+_cell_angle_gamma 90.
+_cell_volume 624.77
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 4 e 0.5781(1) 0.1326(1) 0.0764(1) . 1. 0
+S1 S2- 4 e 0.9161(3) 0.2999(2) 0.4262(1) . 1. 0
+S2 S2- 4 e 0.0705(2) 0.7309(3) 0.2768(1) . 1. 0
+S3 S2- 4 e 0.8708(2) 0.2492(3) 0.0727(1) . 1. 0
+Na1 Na1+ 4 e 0.7290(4) 0.5184(4) 0.2154(2) . 1. 0
+Na2 Na1+ 4 e 0.3457(4) 0.4865(4) 0.3843(2) . 1. 0
+Na3 Na1+ 4 e 0.2096(4) 0.4880(5) 0.0968(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 Fe3+ 0.0132(2) 0.0114(2) 0.0129(2) 0.0005(2) -.0010(2) -.0009(4)
+S1 S2- 0.0314(8) 0.0125(7) 0.0214(8) -.0033(8) -.0114(7) -.0006(6)
+S2 S2- 0.0166(5) 0.0173(7) 0.0154(8) -.0008(5) 0.0023(5) -.0028(6)
+S3 S2- 0.0133(5) 0.0169(8) 0.0238(8) -.0005(5) -.0001(2) -.0031(8)
+Na1 Na1+ 0.0286(11) 0.0198(14) 0.0244(8) -.0029(2) -.0056(10) -.0034(11)
+Na2 Na1+ 0.0232(1) 0.0193(14) 0.0237(16) 0.0024(12) 0.0029(9) -.0026(11)
+Na3 Na1+ 0.0322(13) 0.0221(14) 0.0354(16) 0.0039(14) -.0049(11) 0.0047(13)
+#End of TTdata_8161-ICSD

@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_400462-ICSD
+_database_code_ICSD 400462
+_audit_creation_date 1995-01-10
+_chemical_name_systematic 'Sodium aluminium diphosphate'
+_chemical_formula_structural 'Na Al (P2 O7)'
+_chemical_formula_sum 'Al1 Na1 O7 P2'
+_chemical_name_structure_type Mg2P2O7
+_exptl_crystal_density_diffrn 3.09
+_publ_section_title
+'Crystal structure of aluminium sodium pyrophosphate, NaAlP2O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1994 209 616 616 ZEKRDZ
+loop_
+_publ_author_name
+'Alkemper, J.'
+'Paulus, H.'
+'Fuess, H.'
+_cell_length_a 7.203(2)
+_cell_length_b 7.710(2)
+_cell_length_c 9.326(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.743(5)
+_cell_angle_gamma 90.
+_cell_volume 481.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.021
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Al3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 e 0.32945(4) 0.20732(3) 0.54583(3) . 1. 0
+P2 P5+ 4 e 0.92728(3) 0.25483(3) 0.54842(3) . 1. 0
+Al1 Al3+ 4 e 0.73955(4) 0.49009(4) 0.25307(3) . 1. 0
+Na1 Na1+ 4 e 0.29051(8) 0.97549(7) 0.79762(7) . 1. 0
+O1 O2- 4 e 0.1219(1) 0.14595(9) 0.55843(9) . 1. 0
+O2 O2- 4 e 0.4756(1) 0.0847(1) 0.65636(8) . 1. 0
+O3 O2- 4 e 0.8144(1) 0.1368(1) 0.61439(9) . 1. 0
+O4 O2- 4 e 0.0006(1) 0.4179(1) 0.64478(8) . 1. 0
+O5 O2- 4 e 0.3578(1) 0.39524(9) 0.60054(8) . 1. 0
+O6 O2- 4 e 0.8066(1) 0.29186(9) 0.38064(8) . 1. 0
+O7 O2- 4 e 0.3134(1) 0.19318(9) 0.38010(8) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0049(1) 0.0054(1) 0.0050(1) 0.00006(7) 0.00179(8) -.00045(7)
+P2 P5+ 0.0049(1) 0.0053(1) 0.0048(1) -.00024(1) 0.00205(9) 0.00001(7)
+Al1 Al3+ 0.0052(1) 0.0055(1) 0.0051(1) -.00034(9) 0.0019(1) -.00032(9)
+Na1 Na1+ 0.0147(2) 0.0239(3) 0.0217(3) 0.0020(2) 0.0104(2) 0.0097(2)
+O1 O2- 0.0056(3) 0.0071(3) 0.0120(3) -.0001(2) 0.0041(2) -.0013(2)
+O2 O2- 0.0061(3) 0.0096(3) 0.0084(3) 0.0019(2) 0.0015(2) 0.0023(2)
+O3 O2- 0.0110(3) 0.0099(3) 0.0093(3) -.0024(2) 0.0059(2) 0.0008(2)
+O4 O2- 0.0072(3) 0.0072(3) 0.0078(3) -.0005(2) 0.0019(2) -.0020(2)
+O5 O2- 0.0093(3) 0.0073(3) 0.0095(3) -.0007(2) 0.0045(2) -.0017(2)
+O6 O2- 0.0114(3) 0.0074(3) 0.0054(3) -.0002(2) 0.0006(2) 0.0012(2)
+O7 O2- 0.0108(3) 0.0084(3) 0.0053(3) -.0002(2) 0.0034(2) -.0005(2)
+#End of TTdata_400462-ICSD

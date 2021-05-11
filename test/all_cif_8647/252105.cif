@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252105-ICSD
+_database_code_ICSD 252105
+_audit_creation_date 2016-08-01
+_chemical_name_systematic 'Trisodium hepatoxo-chloro-tetraborate'
+_chemical_formula_structural 'Na3 B4 O7 Cl'
+_chemical_formula_sum 'B4 Cl1 Na3 O7'
+_exptl_crystal_density_diffrn 2.27
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Na3 B4 O7 X (X = Cl, Br): two new borate halides with a 1D Na-X (X = Cl, Br)
+chain formed by the face-sharing XNa6 octahedra
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'RSC Advances' 2015 5 12416 12422 RSCACL
+loop_
+_publ_author_name
+'Bai, Chunyan'
+'Han, Shujuan'
+'Pan, Shilie'
+'Zhang, Bingbing'
+'Yang, Yun'
+'Li, Lin'
+'Yang, Zhihua'
+_cell_length_a 8.0310(6)
+_cell_length_b 8.0310(6)
+_cell_length_c 20.369(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1137.73
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P 65 2 2'
+_symmetry_Int_Tables_number 179
+_refine_ls_R_factor_all 0.0609
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z'
+4 '-x, -x+y, -z+1/3'
+5 'x-y, -y, -z'
+6 'y, x, -z+2/3'
+7 'x-y, x, z'
+8 'y, -x+y, z'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z+1/3'
+11 '-y, x-y, z+2/3'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+O2- -2
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 12 c 0.5438(5) 0.7980(5) 0.55757(15) 0.0490(11) 1 0
+Na2 Na1+ 6 a 1. 0.8478(6) 0.6667 0.0336(12) 1 0
+B1 B3+ 12 c 0.5134(11) 0.3653(10) 0.5298(3) 0.0173(15) 1 0
+B2 B3+ 12 c 0.8631(10) 0.5462(11) 0.5479(4) 0.0176(16) 1 0
+O1 O2- 6 b 0.5131(4) 0.4869(4) 0.5833 0.0173(14) 1 0
+O2 O2- 12 c 0.7133(7) 0.4383(7) 0.5050(2) 0.0228(12) 1 0
+O3 O2- 12 c 0.4374(7) 0.1675(6) 0.5546(2) 0.0223(12) 1 0
+O4 O2- 12 c 0.3994(8) 0.3529(7) 0.4734(2) 0.0242(12) 1 0
+Cl1 Cl1- 6 b 0.9023(2) 1.0977(2) 0.5833 0.0489(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.056(2) 0.0305(18) 0.0401(18) 0.0059(17) -0.0104(17) 0.0002(14)
+Na2 Na1+ 0.031(2) 0.0317(18) 0.038(2) 0.0157(12) -0.011(2) -0.0054(10)
+B1 B3+ 0.017(3) 0.018(3) 0.018(3) 0.009(3) 0.000(3) 0.003(3)
+B2 B3+ 0.020(4) 0.021(4) 0.014(3) 0.012(3) 0.003(3) 0.002(3)
+O1 O2- 0.021(2) 0.021(2) 0.014(3) 0.012(3) 0.000(2) 0.000(2)
+O2 O2- 0.020(2) 0.028(3) 0.017(2) 0.009(2) 0.002(2) -0.006(2)
+O3 O2- 0.029(3) 0.020(2) 0.014(2) 0.009(2) -0.002(2) 0.0003(18)
+O4 O2- 0.037(3) 0.028(3) 0.018(2) 0.024(2) -0.006(2) -0.003(2)
+Cl1 Cl1- 0.0252(11) 0.0252(11) 0.085(2) 0.0041(12) 0.0041(13) 0.0041(13)
+#End of TTdata_252105-ICSD

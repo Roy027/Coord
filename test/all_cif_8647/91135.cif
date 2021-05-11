@@ -1,0 +1,147 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_91135-ICSD
+_database_code_ICSD 91135
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Disodium zinc diphosphate(V) - LC model'
+_chemical_formula_structural 'Na2 Zn (P2 O7)'
+_chemical_formula_sum 'Na2 O7 P2 Zn1'
+_exptl_crystal_density_diffrn 3.11
+_publ_section_title 'Crystal structure of Na2 Zn P2 O7: reinvestigation'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2000 152 466 473 JSSCBI
+loop_
+_publ_author_name
+'Belharouak, I.'
+'Gravereau, P.'
+'Parent, C.'
+'Chaminade, J.P.'
+'Lebraud, E.'
+'le Flem, G.'
+_cell_length_a 21.771(3)
+_cell_length_b 21.771(3)
+_cell_length_c 10.285(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 4874.85
+_cell_formula_units_Z 32
+_symmetry_space_group_name_H-M 'P 42/n Z'
+_symmetry_Int_Tables_number 86
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x, -z+1/2'
+2 'y, -x+1/2, -z+1/2'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/2, -x, z+1/2'
+6 '-y, x+1/2, z+1/2'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 a 0.25 0.25 0.25 . 1. 0
+Zn2 Zn2+ 2 b 0.75 0.75 0.25 . 1. 0
+Zn3 Zn2+ 4 e 0.75 0.25 0.2466(2) . 1. 0
+Zn4 Zn2+ 8 g 0.5074(1) 0.5039(1) 0.2500(2) . 1. 0
+Zn5 Zn2+ 8 g 0.4944(1) 0.7486(1) 0.2509(2) . 1. 0
+Zn6 Zn2+ 8 g 0.2534(1) 0.4949(1) 0.2499(2) . 1. 0
+Na1 Na1+ 8 g 0.4460(2) 0.6229(3) 0.0002(7) 0.026(1) 1. 0
+Na2 Na1+ 8 g 0.4733(2) 0.6270(3) 0.4930(8) 0.024(1) 1. 0
+Na3 Na1+ 8 g 0.3837(2) 0.2753(2) 0.0078(6) 0.018(1) 1. 0
+Na4 Na1+ 8 g 0.3743(3) 0.3044(2) 0.4995(8) 0.024(1) 1. 0
+Na5 Na1+ 8 g 0.6958(2) 0.3741(3) 0.0004(9) 0.027(1) 1. 0
+Na6 Na1+ 8 g 0.7243(2) 0.3689(3) 0.4906(8) 0.029(1) 1. 0
+Na7 Na1+ 8 g 0.3792(3) 0.4440(2) 0.4987(8) 0.022(1) 1. 0
+Na8 Na1+ 8 g 0.6280(3) 0.5263(2) 0.0063(7) 0.021(1) 1. 0
+P1 P5+ 8 g 0.6979(2) 0.6213(2) 0.2163(4) 0.013(1) 1. 0
+O1 O2- 8 g 0.7130(4) 0.5599(5) 0.1484(10) 0.020(2) 1. 0
+O2 O2- 8 g 0.7380(4) 0.6709(4) 0.1624(9) 0.023(2) 1. 0
+O3 O2- 8 g 0.6941(5) 0.6195(4) 0.3601(11) 0.020(3) 1. 0
+O4 O2- 8 g 0.6302(4) 0.6430(5) 0.1575(10) 0.017(2) 1. 0
+P2 P5+ 8 g 0.5608(2) 0.6288(2) 0.2075(4) 0.016(1) 1. 0
+O5 O2- 8 g 0.5275(4) 0.6834(4) 0.1409(9) 0.015(2) 1. 0
+O6 O2- 8 g 0.5423(4) 0.5689(4) 0.1468(10) 0.017(2) 1. 0
+O7 O2- 8 g 0.5599(5) 0.6269(4) 0.3540(11) 0.020(3) 1. 0
+P3 P5+ 8 g 0.6272(2) 0.4388(2) 0.2894(4) 0.017(1) 1. 0
+O9 O2- 8 g 0.6273(4) 0.4393(5) 0.1421(11) 0.021(3) 1. 0
+O10 O2- 8 g 0.5802(4) 0.4796(4) 0.3518(9) 0.018(2) 1. 0
+O11 O2- 8 g 0.6897(4) 0.4505(4) 0.3575(10) 0.023(2) 1. 0
+O12 O2- 8 g 0.6070(5) 0.3715(4) 0.341(1) 0.018(2) 1. 0
+P4 P5+ 8 g 0.6212(2) 0.3022(2) 0.2836(4) 0.015(1) 1. 0
+O13 O2- 8 g 0.6239(4) 0.3042(5) 0.1416(11) 0.018(3) 1. 0
+O14 O2- 8 g 0.6827(4) 0.2861(4) 0.3473(9) 0.018(2) 1. 0
+O15 O2- 8 g 0.5693(4) 0.2651(4) 0.3478(9) 0.015(2) 1. 0
+P5 P5+ 8 g 0.3704(2) 0.6882(2) 0.2927(4) 0.010(1) 1. 0
+O16 O2- 8 g 0.3672(4) 0.6889(5) 0.1466(11) 0.017(3) 1. 0
+O17 O2- 8 g 0.3177(5) 0.7209(4) 0.3571(10) 0.021(2) 1. 0
+O18 O2- 8 g 0.4309(4) 0.7099(4) 0.3576(10) 0.017(2) 1. 0
+O19 O2- 8 g 0.3587(5) 0.6184(4) 0.3425(10) 0.019(2) 1. 0
+P6 P5+ 8 g 0.3785(2) 0.5522(2) 0.2877(4) 0.013(1) 1. 0
+O20 O2- 8 g 0.3829(4) 0.5531(5) 0.1413(11) 0.020(3) 1. 0
+O21 O2- 8 g 0.3281(4) 0.5105(4) 0.3454(9) 0.018(2) 1. 0
+O22 O2- 8 g 0.4400(4) 0.5377(4) 0.3507(9) 0.016(2) 1. 0
+P7 P5+ 8 g 0.4475(2) 0.3778(2) 0.2131(4) 0.013(1) 1. 0
+O23 O2- 8 g 0.4699(5) 0.3188(5) 0.1472(10) 0.025(3) 1. 0
+O24 O2- 8 g 0.4826(5) 0.4307(4) 0.1528(10) 0.019(2) 1. 0
+O25 O2- 8 g 0.4469(5) 0.3790(4) 0.3600(11) 0.019(3) 1. 0
+O26 O2- 8 g 0.3798(4) 0.3857(4) 0.1564(10) 0.018(2) 1. 0
+P8 P5+ 8 g 0.3114(2) 0.3708(2) 0.2113(4) 0.011(1) 1. 0
+O27 O2- 8 g 0.2719(4) 0.4220(4) 0.1446(9) 0.016(2) 1. 0
+O28 O2- 8 g 0.2988(4) 0.3097(4) 0.1504(9) 0.019(2) 1. 0
+O29 O2- 8 g 0.3111(4) 0.3683(4) 0.3534(10) 0.012(2) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0146(13) 0.0146(13) 0.0199(20) 0 0 0
+Zn2 Zn2+ 0.0153(13) 0.0153(13) 0.0135(19) 0 0 0
+Zn3 Zn2+ 0.0116(14) 0.0188(14) 0.0165(14) -.0002(16) 0 0
+Zn4 Zn2+ 0.0153(9) 0.0146(8) 0.0176(10) -.0013(6) 0.0010(8) 0.0018(8)
+Zn5 Zn2+ 0.0162(11) 0.0136(9) 0.0128(10) -.0005(9) 0.0009(7) -.0007(8)
+Zn6 Zn2+ 0.0138(9) 0.0122(10) 0.0181(11) 0.0009(5) -.0007(8) 0.0005(8)
+#End of TTdata_91135-ICSD

@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167726-ICSD
+_database_code_ICSD 167726
+_audit_creation_date 2011-02-01
+_chemical_name_systematic 'Sodium potassium lead vanadate (0.5/0.5/4/3)'
+_chemical_formula_structural '(Na0.5 K0.5) Pb4 (V O4)3'
+_chemical_formula_sum 'K0.5 Na0.5 O12 Pb4 V3'
+_chemical_name_structure_type Er3Pb1.5(SiO4)3
+_exptl_crystal_density_diffrn 6.17
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, Rietveld refinements and Raman spectroscopy studies of the solid
+solution Na1-x Kx Pb4 (V O4)3 (0 <= x <= 1)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Molecular Structure' 2010 963 258 266 JMOSB4
+loop_
+_publ_author_name
+'Azdouz, M.'
+'Manoun, B.'
+'Azrour, M.'
+'Bih, L.'
+'El Ammari, L.'
+'Benmokhtar, S.'
+'Lazor, P.'
+_cell_length_a 10.0709(4)
+_cell_length_b 10.0709(4)
+_cell_length_c 7.3795(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 648.18
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.067
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Na1+ 1
+K1+ 1
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 6 h 0.2525 0.0006 0.25 1.171(2) 1. 0
+Pb2 Pb2+ 4 f 0.6667 0.3333 0.4873 0.545(2) 0.5 0
+Na1 Na1+ 4 f 0.6667 0.3333 0.4873 0.545(2) 0.25 0
+K1 K1+ 4 f 0.6667 0.3333 0.4873 0.545(2) 0.25 0
+V1 V5+ 6 h 0.6212 0.6053 0.75 0.783(3) 1. 0
+O1 O2- 12 i 0.0815 0.738 0.0675 0.509(2) 1. 0
+O2 O2- 6 h 0.1838 0.48 0.75 0.509(2) 1. 0
+O3 O2- 6 h 0.095 0.5023 0.25 0.509(2) 1. 0
+#End of TTdata_167726-ICSD

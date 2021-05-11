@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424737-ICSD
+_database_code_ICSD 424737
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Disodium lutetium orthophosphate tungstate'
+_chemical_formula_structural 'Na2 Lu (P O4) (W O4)'
+_chemical_formula_sum 'Lu1 Na2 O8 P1 W1'
+_chemical_name_structure_type Na2YMoO4PO4
+_exptl_crystal_density_diffrn 5.15
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, crystal structure and optical properties of Na2 RE (P O4) (W O4)
+(RE = Y, Tb-Lu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2012 41 12121 12128 DTARAF
+loop_
+_publ_author_name
+'Daub, Michael'
+'Lehner, Anna J.'
+'Hoeppe, Henning A.'
+_cell_length_a 18.008(4)
+_cell_length_b 11.988(2)
+_cell_length_c 6.7329(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1453.49
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I b c a'
+_symmetry_Int_Tables_number 73
+_refine_ls_R_factor_all 0.0437
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 'x+1/2, -y, z'
+3 '-x, y, z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z'
+6 '-x+1/2, y, -z'
+7 'x, -y, -z+1/2'
+8 'x, y, z'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+W6+ 6
+Lu3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 16 f 0.5971(5) 0.1856(9) -0.2614(19) 0.049(2) 1 0
+W1 W6+ 8 c 0.42627(6) 0. 0.75 0.0266(5) 1 0
+Lu1 Lu3+ 8 d 0.75 0.07176(8) 0. 0.0196(5) 1 0
+P1 P5+ 8 d 0.25 0.1799(5) 0. 0.0220(15) 1 0
+O1 O2- 16 f 0.1814(7) 0.2560(10) 0.019(2) 0.018(3) 1 0
+O2 O2- 16 f 0.2432(8) 0.1000(10) -0.1756(17) 0.019(3) 1 0
+O3 O2- 16 f 0.3700(6) -0.0253(12) 0.9621(18) 0.025(3) 1 0
+O4 O2- 16 f 0.4802(10) -0.1182(17) 0.707(3) 0.049(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.043(5) 0.059(7) 0.045(5) -0.020(5) 0.007(5) 0.001(5)
+W1 W6+ 0.0317(7) 0.0222(8) 0.0259(7) 0. 0. 0.0015(5)
+Lu1 Lu3+ 0.0349(7) 0.0113(7) 0.0127(7) 0. -0.0001(5) 0.
+P1 P5+ 0.041(4) 0.013(4) 0.012(3) 0. -0.001(3) 0.
+O1 O2- 0.036(7) 0.014(7) 0.004(6) -0.003(5) -0.005(7) 0.001(4)
+O2 O2- 0.023(6) 0.011(6) 0.022(6) 0.004(6) -0.001(5) 0.007(5)
+O3 O2- 0.016(6) 0.032(9) 0.028(6) 0.011(6) -0.007(5) 0.005(6)
+O4 O2- 0.040(9) 0.056(13) 0.052(12) 0.028(9) -0.004(8) 0.005(9)
+#End of TTdata_424737-ICSD

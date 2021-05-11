@@ -1,0 +1,132 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6270-ICSD
+_database_code_ICSD 6270
+_audit_creation_date 1980-01-01
+_audit_update_record 2000-12-16
+_chemical_name_systematic 'Sodium manganese tecto-alumosilicate *'
+_chemical_formula_structural 'Mn4.5 Na3 (Si12 Al12 O48)'
+_chemical_formula_sum 'Al12 Mn4.5 Na3 O48 Si12'
+_chemical_name_structure_type Zeolite-A-frame
+_chemical_name_mineral 'Zeolite A (Mn-exchanged, dehydrated)'
+_exptl_crystal_density_diffrn 1.61
+_publ_section_title
+
+;
+Five-coordinate and three-coordinate manganese(II). Hydrated and dehydrated
+crystal structures of partially manganese(II)exchanged zeolite A
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1974 13 723 727 INOCAJ
+loop_
+_publ_author_name
+'Yanagida, R.Y.'
+'Vance, T.B.jr.'
+'Seff, K.'
+_cell_length_a 12.175(3)
+_cell_length_b 12.175(3)
+_cell_length_c 12.175(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1804.71
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m -3 m'
+_symmetry_Int_Tables_number 221
+_refine_ls_R_factor_all 0.1
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Mn2+ 2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 24 k 0 0.183(1) 0.368(1) 1.45(6) 0.5 0
+Al1 Al3+ 24 k 0 0.183(1) 0.368(1) 1.45(6) 0.5 0
+O1 O2- 12 h 0 0.198(2) 0.5 3.0(4) 1. 0
+O2 O2- 12 i 0 0.296(1) 0.296(1) 2.7(4) 1. 0
+O3 O2- 24 m 0.113(1) 0.113(1) 0.325(1) 3.0(3) 1. 0
+Mn1 Mn2+ 8 g 0.178(1) 0.178(1) 0.178(1) . 0.56 0
+Na1 Na1+ 8 g 0.205 0.205 0.205 . 0.375 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 Mn2+ 0.014(1) 0.014(1) 0.014(1) 0.0125(10) 0.0125(10) 0.0125(10)
+Na1 Na1+ 0.007 0.007 0.007 0.001 0.001 0.001
+#End of TTdata_6270-ICSD

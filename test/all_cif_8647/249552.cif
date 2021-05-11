@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249552-ICSD
+_database_code_ICSD 249552
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Trisodium hydrogen bis(sulfate)'
+_chemical_formula_structural 'Na3 H (S O4)2'
+_chemical_formula_sum 'H1 Na3 O8 S2'
+_chemical_name_structure_type Na3H(SO4)2
+_exptl_crystal_density_diffrn 2.44
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Analysis of phase transition pathways in X3 H (S O4)2 (X = Rb, N H4, K, Na):
+Variable temperature single-crystal X-ray diffraction studies
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2007 46 4411 4421 INOCAJ
+loop_
+_publ_author_name
+'Swain, D.'
+'Row, T.N.G.'
+_cell_length_a 8.6362(8)
+_cell_length_b 9.6156(9)
+_cell_length_c 9.0702(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.7460(10)
+_cell_angle_gamma 90.
+_cell_volume 713.25
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0228
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S6+ 6
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S6+ 4 e 0.36119(4) 0.80913(4) 0.14249(4) 0.00832(14) 1 0
+S2 S6+ 4 e 0.86605(4) 0.68010(4) 0.09535(4) 0.00805(14) 1 0
+Na1 Na1+ 4 e 0.24199(7) 0.99503(6) 0.77589(6) 0.01073(17) 1 0
+Na2 Na1+ 4 e 0.11442(7) 0.65641(7) 0.87243(6) 0.01272(17) 1 0
+Na3 Na1+ 2 d 0.5 0.5 0. 0.0120(2) 1 0
+Na4 Na1+ 2 a 0. 1. 0. 0.0144(2) 1 0
+O1 O2- 4 e 0.53293(12) 0.84983(11) 0.14496(13) 0.0129(2) 1 0
+O2 O2- 4 e 0.24391(12) 0.87587(11) 0.00708(11) 0.0125(2) 1 0
+O3 O2- 4 e 0.34677(13) 0.65711(11) 0.12601(11) 0.0111(2) 1 0
+O4 O2- 4 e 0.34143(12) 0.85736(11) 0.28718(12) 0.0128(2) 1 0
+O5 O2- 4 e 0.90916(13) 0.82734(11) 0.12617(11) 0.0111(2) 1 0
+O6 O2- 4 e 0.88530(13) 0.63407(11) -0.05122(12) 0.0134(2) 1 0
+O7 O2- 4 e 0.68968(13) 0.66277(11) 0.08289(13) 0.0140(2) 1 0
+O8 O2- 4 e 0.96508(12) 0.59351(11) 0.22464(12) 0.0138(3) 1 0
+H1 H1+ 4 e 0.606(3) 0.762(3) 0.117(3) 0.062(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S6+ 0.0077(2) 0.0087(2) 0.0088(2) 0.00000(11) 0.00283(14) -0.00011(11)
+S2 S6+ 0.0072(2) 0.0080(2) 0.0092(2) -0.00004(11) 0.00297(14) -0.00051(12)
+Na1 Na1+ 0.0112(3) 0.0105(3) 0.0109(3) -0.0007(2) 0.0042(2) -0.0004(2)
+Na2 Na1+ 0.0102(3) 0.0172(3) 0.0107(3) -0.0010(2) 0.0033(2) -0.0013(2)
+Na3 Na1+ 0.0097(4) 0.0107(4) 0.0142(4) -0.0013(3) 0.0020(3) -0.0008(3)
+Na4 Na1+ 0.0153(4) 0.0125(4) 0.0190(4) 0.0032(3) 0.0103(4) 0.0052(3)
+O1 O2- 0.0093(5) 0.0115(5) 0.0197(5) -0.0015(4) 0.0071(4) -0.0027(4)
+O2 O2- 0.0119(5) 0.0137(5) 0.0113(5) 0.0021(4) 0.0028(4) 0.0022(4)
+O3 O2- 0.0123(5) 0.0095(5) 0.0120(5) -0.0007(4) 0.0044(4) 0.0000(4)
+O4 O2- 0.0127(5) 0.0154(5) 0.0114(5) -0.0004(4) 0.0054(4) -0.0023(4)
+O5 O2- 0.0126(5) 0.0091(5) 0.0121(5) -0.0021(4) 0.0048(4) -0.0011(4)
+O6 O2- 0.0137(5) 0.0161(5) 0.0114(5) -0.0005(4) 0.0055(4) -0.0037(4)
+O7 O2- 0.0089(5) 0.0121(5) 0.0223(6) -0.0011(4) 0.0069(4) -0.0039(4)
+O8 O2- 0.0146(5) 0.0141(5) 0.0132(5) 0.0038(4) 0.0050(4) 0.0028(4)
+#End of TTdata_249552-ICSD

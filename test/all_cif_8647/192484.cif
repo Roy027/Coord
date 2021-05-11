@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_192484-ICSD
+_database_code_ICSD 192484
+_audit_creation_date 2015-02-01
+_chemical_name_systematic 'Trieuropium pentadecasodium dodecasilicate'
+_chemical_formula_structural 'Eu3 Na15 (Si O3)12'
+_chemical_formula_sum 'Eu3 Na15 O36 Si12'
+_exptl_crystal_density_diffrn 3.36
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Novel open-framework europium silicates prepared under high-temperature and
+high-pressure conditions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2014 43 13892 13898 DTARAF
+loop_
+_publ_author_name
+'Liu, Wei'
+'Ji, Ying'
+'Bao, Xinjian'
+'Wang, Ying'
+'Li, Benxian'
+'Wang, Xiaofeng'
+'Zhao, Xudong'
+'Liu, Xiaoyang'
+'Feng, Shouhua'
+_cell_length_a 10.7143(9)
+_cell_length_b 7.5271(7)
+_cell_length_c 10.4913(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 846.09
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P n n m'
+_symmetry_Int_Tables_number 58
+_refine_ls_R_factor_all 0.0288
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu3+ 3
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Eu1 Eu3+ 2 c 0.5 1. 0.5 0.0120(3) 1 0
+Eu2 Eu3+ 4 g 0.75180(17) 0.7657(2) 0. 0.0180(4) 0.16 0
+Eu3 Eu3+ 2 a 1. 1. 0. 0.0151(6) 0.18 0
+Na1 Na1+ 4 g 0.75180(17) 0.7657(2) 0. 0.0180(4) 0.84 0
+Na2 Na1+ 2 a 1. 1. 0. 0.0151(6) 0.82 0
+Na3 Na1+ 2 d 0.5 1. 0. 0.051(2) 1 0
+Na4 Na1+ 8 h 0.7605(3) 0.5249(3) 0.2482(3) 0.0287(7) 1 0
+Si1 Si4+ 4 g 0.7871(2) 0.7600(2) 0.5 0.0072(5) 1 0
+Si2 Si4+ 8 h 0.99109(12) 0.7870(2) 0.27635(17) 0.0078(4) 1 0
+O1 O2- 4 g 0.7112(5) 0.9408(8) 0.5 0.0272(14) 1 0
+O2 O2- 4 g 0.7084(5) 0.5816(7) 0.5 0.0229(13) 1 0
+O3 O2- 8 h 0.8790(5) 0.7503(7) 0.3791(5) 0.0432(15) 1 0
+O4 O2- 8 h 0.9405(4) 0.7150(5) 0.1428(4) 0.0247(10) 1 0
+O5 O2- 4 e 1. 1. 0.2600(8) 0.057(3) 1 0
+O6 O2- 8 h 1.1172(4) 0.7089(7) 0.3258(4) 0.0354(12) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu3+ 0.0107(4) 0.0125(4) 0.0129(4) -0.00177(16) 0. 0.
+Eu2 Eu3+ 0.0212(9) 0.0174(8) 0.0153(8) 0.0028(6) 0. 0.
+Eu3 Eu3+ 0.0106(11) 0.0194(13) 0.0154(11) 0.0020(6) 0. 0.
+Na1 Na1+ 0.0212(9) 0.0174(8) 0.0153(8) 0.0028(6) 0. 0.
+Na2 Na1+ 0.0106(11) 0.0194(13) 0.0154(11) 0.0020(6) 0. 0.
+Na3 Na1+ 0.087(6) 0.044(4) 0.022(3) -0.048(3) 0. 0.
+Na4 Na1+ 0.0208(14) 0.0250(13) 0.0404(18) 0.0015(10) -0.0067(13) -0.0076(11)
+Si1 Si4+ 0.0051(10) 0.0113(10) 0.0052(9) 0.0006(7) 0. 0.
+Si2 Si4+ 0.0085(8) 0.0079(9) 0.0070(8) 0.0002(4) 0.0011(5) -0.0001(6)
+O1 O2- 0.014(3) 0.010(3) 0.058(4) 0.004(2) 0. 0.
+O2 O2- 0.015(3) 0.022(3) 0.031(3) -0.009(2) 0. 0.
+O3 O2- 0.038(3) 0.064(4) 0.028(3) -0.020(2) 0.026(2) -0.017(2)
+O4 O2- 0.025(2) 0.033(2) 0.016(2) 0.0061(18) -0.0076(17) -0.0147(17)
+O5 O2- 0.123(10) 0.009(4) 0.040(5) 0.000(3) 0. 0.
+O6 O2- 0.025(2) 0.051(3) 0.030(2) 0.025(2) -0.016(2) -0.021(2)
+#End of TTdata_192484-ICSD

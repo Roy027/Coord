@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74859-ICSD
+_database_code_ICSD 74859
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Tetrasodium plumbate'
+_chemical_formula_structural 'Na4 (Pb O4)'
+_chemical_formula_sum 'Na4 O4 Pb1'
+_chemical_name_structure_type Na4SiO4
+_exptl_crystal_density_diffrn 4.31
+_publ_section_title
+
+;
+Na4(PbO4) - Darstellung neuer Plumbate(IV) durch Oxydation intermetallischer
+Phasen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 1346 1350 ZAACAB
+loop_
+_publ_author_name
+'Brandes, R.'
+'Hoppe, R.'
+_cell_length_a 8.985(3)
+_cell_length_b 6.756(3)
+_cell_length_c 5.922(2)
+_cell_angle_alpha 124.75(1)
+_cell_angle_beta 96.75(1)
+_cell_angle_gamma 100.18(2)
+_cell_volume 279.93
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb4+ 2 i 0.2275 0.3427 0.0720(1) . 1. 0
+Na1 Na1+ 2 i 0.5674(4) 0.0171(5) 0.2809(6) . 1. 0
+Na2 Na1+ 2 i 0.4093(4) 0.4377(5) 0.6933(6) . 1. 0
+Na3 Na1+ 2 i 0.2074(4) 0.8913(6) 0.1711(6) . 1. 0
+Na4 Na1+ 2 i 0.9940(4) 0.2443(6) 0.4994(7) . 1. 0
+O1 O2- 2 i 0.3806(6) 0.1996(9) 0.1879(10) . 1. 0
+O2 O2- 2 i 0.6267(7) 0.3181(9) 0.7981(10) . 1. 0
+O3 O2- 2 i 0.0284(9) 0.3480(13) 0.1913(15) . 1. 0
+O4 O2- 2 i 0.1950(7) 0.1220(9) 0.635(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb4+ 0.0147(2) 0.0155(2) 0.0179(2) 0.0044(1) 0.0010(1) 0.0101(1)
+Na1 Na1+ 0.0196(17) 0.0204(14) 0.0201(13) 0.0077(13) 0.0064(12) 0.0119(12)
+Na2 Na1+ 0.0134(16) 0.0197(13) 0.0231(14) 0.0064(12) 0.0046(12) 0.0128(12)
+Na3 Na1+ 0.0148(16) 0.0224(14) 0.0243(14) 0.0075(12) 0.0068(12) 0.0150(13)
+Na4 Na1+ 0.0165(18) 0.0296(17) 0.0339(17) 0.0052(14) 0.0028(14) 0.0199(15)
+O1 O2- 0.0110(26) 0.0210(24) 0.0207(23) 0.0062(21) 0.0044(20) 0.0126(21)
+O2 O2- 0.0112(26) 0.0191(23) 0.0237(24) 0.0055(20) 0.0066(20) 0.0134(21)
+O3 O2- 0.0286(41) 0.0444(38) 0.0501(40) 0.0106(33) 0.0102(33) 0.0292(35)
+O4 O2- 0.0154(27) 0.0171(22) 0.0177(22) 0.005(2) 0.0037(20) 0.010(2)
+#End of TTdata_74859-ICSD

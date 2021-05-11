@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413025-ICSD
+_database_code_ICSD 413025
+_audit_creation_date 2007-08-01
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Decasodium dicobalto(II)dicobaltate'
+_chemical_formula_structural 'Na10 (Co4 O10)'
+_chemical_formula_sum 'Co4 Na10 O10'
+_exptl_crystal_density_diffrn 3.11
+_publ_section_title
+
+;
+Na10 Co4 O10, a novel oligooxocobaltate(II,III) with unusual magnetic
+properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Angewandte Chemie, International Edition' 2003 42 3527 3529 ACIEF5
+loop_
+_publ_author_name
+'Sofin, M.'
+'Guedel, H.U.'
+'Bircher, R.'
+'Peters, E.M.'
+'Jansen, M.'
+_cell_length_a 14.9061(4)
+_cell_length_b 8.1008(2)
+_cell_length_c 11.4233(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.6102(9)
+_cell_angle_gamma 90.
+_cell_volume 1334.78
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0294
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Co3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 8 f 0.265412(11) 0.878619(19) 0.231805(14) 0.01182(4) 1 0
+Co2 Co3+ 8 f 0.049680(10) 0.864639(19) 0.057104(14) 0.01047(4) 1 0
+Na1 Na1+ 8 f -0.01229(4) 0.60950(6) -0.12427(5) 0.01549(9) 1 0
+Na2 Na1+ 8 f 0.10607(4) 0.67189(6) 0.28883(5) 0.01699(10) 1 0
+Na3 Na1+ 8 f 0.10612(3) 0.90646(7) -0.19108(5) 0.01656(10) 1 0
+Na4 Na1+ 8 f 0.16337(4) 0.16598(7) 0.03809(5) 0.01879(10) 1 0
+Na5 Na1+ 8 f 0.19811(4) 0.59404(7) 0.01676(5) 0.01878(10) 1 0
+O1 O2- 8 f 0.01989(6) 1.08066(11) 0.10704(7) 0.01405(15) 1 0
+O2 O2- 8 f 0.37445(6) 0.88835(10) 0.19173(8) 0.01351(14) 1 0
+O3 O2- 8 f 0.17468(6) 0.86630(12) 0.07480(8) 0.01750(17) 1 0
+O4 O2- 8 f 0.22305(6) 0.87164(11) 0.36620(8) 0.01465(15) 1 0
+O5 O2- 8 f -0.00359(7) 0.67995(11) 0.08970(9) 0.01914(17) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.01090(7) 0.01279(7) 0.01237(6) 0.00002(5) 0.00407(5) 0.00027(5)
+Co2 Co3+ 0.00923(6) 0.01076(6) 0.01079(6) -0.00027(5) 0.00134(5) 0.00061(5)
+Na1 Na1+ 0.0148(2) 0.0168(2) 0.0144(2) -0.00056(17) 0.00287(17) -0.00176(17)
+Na2 Na1+ 0.0170(2) 0.0152(2) 0.0179(2) -0.00143(18) 0.00271(18) -0.00059(18)
+Na3 Na1+ 0.0151(2) 0.0168(2) 0.0182(2) -0.00095(18) 0.00478(19) -0.00053(18)
+Na4 Na1+ 0.0187(2) 0.0192(2) 0.0198(3) -0.00323(19) 0.0073(2) -0.00284(19)
+Na5 Na1+ 0.0201(2) 0.0192(2) 0.0160(2) 0.0035(2) 0.00259(19) 0.00220(19)
+O1 O2- 0.0160(4) 0.0143(4) 0.0106(3) 0.0030(3) 0.0009(3) -0.0013(3)
+O2 O2- 0.0096(3) 0.0156(4) 0.0153(3) -0.0001(3) 0.0031(3) 0.0004(3)
+O3 O2- 0.0095(3) 0.0229(4) 0.0186(4) 0.0011(3) 0.0008(3) -0.0029(3)
+O4 O2- 0.0150(4) 0.0166(4) 0.0132(3) -0.0012(3) 0.0051(3) -0.0004(3)
+O5 O2- 0.0251(5) 0.0145(4) 0.0188(4) -0.0051(3) 0.0074(4) 0.0015(3)
+#End of TTdata_413025-ICSD

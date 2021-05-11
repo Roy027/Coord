@@ -1,0 +1,88 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_58-ICSD
+_database_code_ICSD 58
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dilithium sulfate(VI) - beta'
+_chemical_formula_structural 'Li2 (S O4)'
+_chemical_formula_sum 'Li2 O4 S1'
+_chemical_name_structure_type Li2SO4
+_exptl_crystal_density_diffrn 2.22
+_publ_section_title 'Crystal structure of beta-Li2 S O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1976 32 982 983 ACBCAR
+loop_
+_publ_author_name
+'Nord, A.G.'
+_cell_length_a 8.239(1)
+_cell_length_b 4.954(1)
+_cell_length_c 8.474(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.98(3)
+_cell_angle_gamma 90.
+_cell_volume 328.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0.1986(3) 0.5693(4) 0.3806(3) . 1. 0
+Li2 Li1+ 4 e 0.4356(3) 0.5755(4) 0.1287(3) . 1. 0
+S1 S6+ 4 e 0.3110(1) 0.0640(1) 0.2516(1) . 1. 0
+O1 O2- 4 e 0.4636(1) -.0644(2) 0.2299(1) . 1. 0
+O2 O2- 4 e 0.1636(1) 0.0058(2) 0.1053(1) . 1. 0
+O3 O2- 4 e 0.2747(1) -.0507(2) 0.3981(1) . 1. 0
+O4 O2- 4 e 0.3389(1) 0.3572(2) 0.2739(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0058 0.0117 0.0047 -.0007 0.0036 0.0003
+Li2 Li1+ 0.0058 0.0151 0.0049 -.0004 0.0045 -.0032
+S1 S6+ 0.0031 0.0071 0.0028 -.0005 0.0019 -.0005
+O1 O2- 0.0037 0.0121 0.006 0.0019 0.0034 -.0036
+O2 O2- 0.0037 0.0201 0.0034 -.0034 0.0002 -.0003
+O3 O2- 0.0078 0.0117 0.0036 -.0045 0.0042 -.0002
+O4 O2- 0.0064 0.0069 0.0063 -.0011 0.0061 -.0011
+#End of TTdata_58-ICSD

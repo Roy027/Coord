@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_9012-ICSD
+_database_code_ICSD 9012
+_audit_creation_date 1980-01-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Calcium disodium bis(carbonate) dihydrate'
+_chemical_formula_structural 'Ca Na2 (C O3)2 (H2 O)2'
+_chemical_formula_sum 'C2 H4 Ca1 Na2 O8'
+_chemical_name_structure_type CaNa2(CO3)2(H2O)2
+_chemical_name_mineral Pirssonite
+_exptl_crystal_density_diffrn 2.34
+_publ_section_title
+
+;
+The crystal structure of Ca Na2 (C O3)2 (H2 O)5, synthetic gaylussite, and Ca
+Na2 (C O3)2 (H2 O)2, synthetic pirssonite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1969 8 2093 2103 INOCAJ
+loop_
+_publ_author_name
+'Dickens, B.'
+'Brown, W.E.'
+_cell_length_a 11.340(4)
+_cell_length_b 20.0960(50)
+_cell_length_c 6.034(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1375.08
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 8 a 0 0 0 . 1. 0
+Na1 Na1+ 16 b 0.5653(4) 0.1118(3) -.0073(12) . 1. 0
+C1 C4+ 16 b 0.0841(8) 0.1355(5) -.0072(24) . 1. 0
+O1 O2- 16 b 0.1169(7) 0.1975(4) -.0121(18) . 1. 0
+O2 O2- 16 b 0.0052(6) 0.1161(4) 0.1291(15) . 1. 0
+O3 O2- 16 b 0.1297(6) 0.0935(4) -.1420(15) . 1. 0
+O4 O2- 16 b 0.6093(7) 0.2432(4) 0.0645(18) . 1. 0
+H1 H1+ 16 b 0.53 0.26 0.04 1.62 1. 0
+H2 H1+ 16 b 0.61 0.23 0.21 1.62 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Ca1 Ca2+ 0.73(8) 0.63(8) 0.50(8) 0.00(1) 0 0
+Na1 Na1+ 1.09(16) 2.89(23) 0.82(16) 0.00(2) 0.10(19) 0.00(2)
+C1 C4+ 0.84(33) 1.05(36) 0.55(30) 0.00(2) -.41(36) 0.00(1)
+O1 O2- 1.76(29) 0.81(26) 1.24(31) -.04(2) -.43(34) 0.02(3)
+O2 O2- 0.87(25) 1.45(29) 0.73(27) -.01(2) 0.23(26) 0.00(3)
+O3 O2- 1.08(27) 1.29(27) 1.05(33) 0.01(2) 0.30(28) -.02(3)
+O4 O2- 1.26(28) 1.99(34) 1.62(36) 0.06(2) 0.63(29) 0.07(3)
+#End of TTdata_9012-ICSD

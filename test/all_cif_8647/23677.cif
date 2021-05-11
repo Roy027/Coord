@@ -1,0 +1,108 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_23677-ICSD
+_database_code_ICSD 23677
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Sodium barium niobium oxide (1.74/4.13/10/30)'
+_chemical_formula_structural 'Na1.74 Ba4.13 Nb10 O30'
+_chemical_formula_sum 'Ba4.13 Na1.74 Nb10 O30'
+_exptl_crystal_density_diffrn 5.41
+_publ_section_title
+
+;
+Ferroelectric tungsten bronze-type crystal structures. II. Barium sodium
+niobate Ba(4+x) Na(2-2x) Nb10 O30
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Physics' 1969 50 4352 4363 JCPSA6
+loop_
+_publ_author_name
+'Jamieson, P.B.'
+'Abrahams, S.C.'
+'Bernstein, J.L.'
+_cell_length_a 17.5918(1)
+_cell_length_b 17.62549(10)
+_cell_length_c 3.99491(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1238.68
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C m m 2'
+_symmetry_Int_Tables_number 35
+_refine_ls_R_factor_all 0.0579
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z'
+6 '-x+1/2, y+1/2, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ba2+ 2
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.25 0.25 0.4912(28) . 0.87 0
+Ba1 Ba2+ 4 c 0.25 0.25 0.4912(28) . 0.065 0
+Ba2 Ba2+ 8 f 0.00804(37) 0.17159(8) 0.4871(7) . 0.5 0
+Ba3 Ba2+ 4 d 0.32751(7) 0 0.4826(6) . 1. 0
+Nb1 Nb5+ 2 a 0 0 0.0086(10) . 1. 0
+Nb2 Nb5+ 2 b 0 0.5 0.004(1) . 1. 0
+Nb3 Nb5+ 8 f 0.18207(5) 0.10839(5) 0 . 1. 0
+Nb4 Nb5+ 8 f 0.39169(5) 0.18198(5) 0.0019(7) . 1. 0
+O1 O2- 8 f 0.0758(7) 0.0814(8) -.0559(40) 1.75 1. 0
+O2 O2- 4 d 0.2151(7) 0 -.0483(31) 0.55 1. 0
+O3 O2- 4 e 0 0.2825(7) 0.0330(33) 0.45 1. 0
+O4 O2- 8 f 0.1459(7) 0.2147(7) -.0476(34) 1.4 1. 0
+O5 O2- 8 f 0.2146(7) 0.3572(7) -.0673(28) 1.29 1. 0
+O6 O2- 8 f 0.0826(6) 0.4252(6) -.0554(27) 0.98 1. 0
+O7 O2- 8 f 0.1675(15) 0.1135(14) 0.4548(70) 1.29 0.5 0
+O8 O2- 8 f 0.1995(14) 0.1056(12) 0.4653(71) 1.08 0.5 0
+O9 O2- 8 f 0.1056(16) 0.3050(18) 0.462(10) 1.96 0.5 0
+O10 O2- 8 f 0.1147(16) 0.3317(18) 0.4513(78) 1.64 0.5 0
+O11 O2- 4 d 0.0158(12) 0 0.4448(52) 0.36 0.5 0
+O12 O2- 4 d 0.5108(18) 0 0.4608(83) 1.23 0.5 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.00057(11) 0.00009(11) 0.0144(20) 0 0 0
+Ba1 Ba2+ 0.00057(11) 0.00009(11) 0.0144(20) 0 0 0
+Ba2 Ba2+ 0.00137(17) 0.00059(3) 0.01038(45) -.00014(4) -.00026(35) 0.00021(18)
+Ba3 Ba2+ 0.00061(2) 0.00182(4) 0.00694(42) 0 0.00020(15) 0
+Nb1 Nb5+ 0.00031(4) 0.00015(4) 0.00148(75) 0 0 0
+Nb2 Nb5+ 0.00019(4) 0.00023(4) 0.00300(71) 0 0 0
+Nb3 Nb5+ 0.00025(2) 0.00024(2) 0.00449(33) -.00002(2) 0.00031(17) 0.00015(16)
+Nb4 Nb5+ 0.00036(2) 0.00022(2) 0.00261(31) 0.00002(2) -.00005(16) 0.00015(16)
+#End of TTdata_23677-ICSD

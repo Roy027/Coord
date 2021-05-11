@@ -1,0 +1,82 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_93089-ICSD
+_database_code_ICSD 93089
+_audit_creation_date 2003-04-01
+_chemical_name_systematic 'Lithium gallium vanadium oxide (1/0.97/0.03/2)'
+_chemical_formula_structural 'Li (Ga0.967 V0.033) O2'
+_chemical_formula_sum 'Ga0.967 Li1 O2 V0.033'
+_chemical_name_structure_type NaFeO2(beta)
+_exptl_crystal_density_diffrn 4.15
+_publ_section_title 'Structure and properties of Li Ga O2 crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Materials' 2001 37 281 285 INOMAF
+loop_
+_publ_author_name
+'Kuz'micheva, G.M. (Kuzmicheva, G.M.)'
+'Rybakov, V.B.'
+'Gaister, A.V.'
+'Zharikov, E.V.'
+_cell_length_a 5.3995(6)
+_cell_length_b 6.3996(8)
+_cell_length_c 5.0060(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 172.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ga3+ 3
+V3+ 3
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ga1 Ga3+ 4 a 0.91781(2) 0.87367(1) 0 0.00469(1) 0.967(4) 0
+V1 V3+ 4 a 0.91781(2) 0.87367(1) 0 0.00469(1) 0.033(4) 0
+Li1 Li1+ 4 a 0.5806(4) 0.8704(3) 0.493(2) 0.0103(4) 1. 0
+O1 O2- 4 a 0.5923(1) 0.8616(1) 0.1088(2) 0.0065(1) 1. 0
+O2 O2- 4 a 0.9328(1) 0.8889(1) 0.6304(2) 0.0057(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ga1 Ga3+ 0.00779(3) 0.00433(2) 0.00194(2) -0.00013(1) -0.00033(2) 0.00039(2)
+V1 V3+ 0.00779(3) 0.00433(2) 0.00194(2) -0.00013(1) -0.00033(2) 0.00039(2)
+Li1 Li1+ 0.0118(7) 0.0097(7) 0.0093(8) -0.0004(6) -0.0011(11) -0.0017(17)
+O1 O2- 0.0077(2) 0.0087(2) 0.0035(2) -0.0026(2) 0.0003(2) -0.0004(2)
+O2 O2- 0.0100(2) 0.0056(2) 0.0013(2) -0.0011(2) 0.0011(2) 0.0002(2)
+#End of TTdata_93089-ICSD

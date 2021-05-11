@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_55113-ICSD
+_database_code_ICSD 55113
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Pentasodium tetraoxonitridomolybdate'
+_chemical_formula_structural 'Na5 (Mo O4 N)'
+_chemical_formula_sum 'Mo1 N1 Na5 O4'
+_exptl_crystal_density_diffrn 3.16
+_publ_section_title
+'Synthesis and structure of sodium tetraoxo nitrido molybdate, Na5 Mo O4 N'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+2004 59 274 276 ZNBSEN
+loop_
+_publ_author_name
+'Arumugam, N.'
+'Peters, E.M.'
+'Jansen, M.'
+_cell_length_a 9.911(2)
+_cell_length_b 5.743(1)
+_cell_length_c 10.677(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 607.72
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0153
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Na1+ 1
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 4 c 0 0.2086(1) 0.25 0.008(1) 1. 0
+Na1 Na1+ 8 e 0.1904(1) 0 0 0.019(1) 1. 0
+Na2 Na1+ 8 g 0.1893(1) 0.6419(2) 0.25 0.014(1) 1. 0
+Na3 Na1+ 4 b 0 0.5 0 0.033(1) 1. 0
+O1 O2- 16 h 0.1366(1) 0.3030(2) 0.3723(1) 0.011(1) 1. 0
+N1 N3- 4 c 0 -.0907(5) 0.25 0.024(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ .007(1) .007(1) .010(1) 0. 0. 0.
+Na1 Na1+ .023(1) .016(1) .018(1) 0.(1) 0. -.006(1)
+Na2 Na1+ .013(1) .013(1) .016(1) .002(1) 0. 0.
+Na3 Na1+ .012(1) .057(1) .031(1) 0. 0. .032(1)
+O1 O2- .010(1) .014(1) .009(1) .000(1) -.001(1) .000(1)
+N1 N3- .014(1) .010(1) .049(2) 0. 0. 0.
+#End of TTdata_55113-ICSD

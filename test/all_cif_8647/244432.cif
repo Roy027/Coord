@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_244432-ICSD
+_database_code_ICSD 244432
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Zinc copper sodium germanate'
+_chemical_formula_structural 'Zn Cu1.812 Na0.188 Ge O4'
+_chemical_formula_sum 'Cu1.812 Ge1 Na0.188 O4 Zn1'
+_exptl_crystal_density_diffrn 5.56
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Wurtzite-derived quaternary oxide semiconductor Cu2ZnGeO4. Its structural
+characteristics, optical properties, and electronic structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2017 56 14277 14283 INOCAJ
+loop_
+_publ_author_name
+'Kita, Masao'
+'Suzuki, Issei'
+'Ohashi, Naoki'
+'Omata, Takahisa'
+_cell_length_a 5.29790(29)
+_cell_length_b 5.51080(8)
+_cell_length_c 8.41494(45)
+_cell_angle_alpha 90
+_cell_angle_beta 128.6480(32)
+_cell_angle_gamma 90
+_cell_volume 191.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 c 1'
+_symmetry_Int_Tables_number 7
+_refine_ls_R_factor_all 0.0262
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Zn2+ 2
+Cu1+ 1
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ge1 Ge4+ 2 a 0.724(5) 0.3194(13) 0.252(4) 0.852 1. 0
+Zn1 Zn2+ 2 a 0.482(3) 0.1755(8) 0.4955(15) 0.681 1. 0
+Cu1 Cu1+ 2 a 0. 0.2023(10) 0. 1.352 0.906 0
+Cu2 Cu1+ 2 a 0.225(6) 0.6657(16) 0.238(5) 1.352 0.906 0
+O1 O2- 2 a 0.616(6) 0.620(4) 0.230(5) 0.837 1. 0
+O2 O2- 2 a 0.811(6) 0.178(4) 0.466(4) 0.837 1. 0
+O3 O2- 2 a 0.074(6) 0.314(4) 0.271(5) 0.837 1. 0
+O4 O2- 2 a 0.425(6) 0.161(5) 0.032(4) 0.837 1. 0
+Na1 Na1+ 2 a 0. 0.20225 0. 1.352 0.094 0
+Na2 Na1+ 2 a 0.2251 0.66571 0.23803 1.352 0.094 0
+#End of TTdata_244432-ICSD

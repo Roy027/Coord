@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82023-ICSD
+_database_code_ICSD 82023
+_audit_creation_date 1999-11-30
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Sodium vanadium oxide (0.64/2/5)'
+_chemical_formula_structural 'Na0.64 V2 O5'
+_chemical_formula_sum 'Na0.64 O5 V2'
+_exptl_crystal_density_diffrn 3.44
+_publ_section_title
+
+;
+tau-Nax V2 O5 (x=0.64): a vanadium bronze with an original intergrowth
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1996 122 1 6 JSSCBI
+loop_
+_publ_author_name
+'Savariault, J.M.'
+'Parize, J.L.'
+'Ballivet-Tkachenko, D.'
+'Galy, J.'
+_cell_length_a 11.674(9)
+_cell_length_b 3.650(2)
+_cell_length_c 8.905(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.04(4)
+_cell_angle_gamma 90.
+_cell_volume 379.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.085
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V4+ 4.68
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V4+ 4 i 0.0844(2) 0 0.1659(3) 0.55(5) 1. 0
+V2 V4+ 4 i 0.3832(6) 0 0.1637(9) 2.9(2) 0.5 0
+V3 V4+ 4 i 0.2105(5) 0 0.8352(8) 2.9(2) 0.5 0
+O1 O2- 4 i -.079(1) 0 0.102(1) 2.4(3) 1. 0
+O2 O2- 4 i 0.087(1) 0 0.346(1) 2.5(3) 1. 0
+O3 O2- 4 i 0.241(1) 0 0.118(2) 2.6(3) 1. 0
+O4 O2- 4 i 0.551(1) 0 0.144(2) 1.2(4) 0.5 0
+O5 O2- 4 i 0.391(2) 0 0.866(2) 1.6(4) 0.5 0
+O6 O2- 4 i 0.360(2) 0 0.350(2) 2.5(5) 0.5 0
+O7 O2- 4 i 0.190(2) 0 0.647(2) 2.5(4) 0.5 0
+Na1 Na1+ 4 i 0.284(3) 0 0.521(4) 4.3(5) 0.28(1) 0
+Na2 Na1+ 4 i 0.462(2) 0 0.484(3) 2.9(5) 0.36(1) 0
+#End of TTdata_82023-ICSD

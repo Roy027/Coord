@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_172207-ICSD
+_database_code_ICSD 172207
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Dineodymium disodium platinum oxide'
+_chemical_formula_structural 'Nd2 Na2 Pt O6'
+_chemical_formula_sum 'Na2 Nd2 O6 Pt1'
+_chemical_name_structure_type K4CdCl6
+_exptl_crystal_density_diffrn 7.27
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Single-crystal structure of the 2H-related perovskites (A(3-x) Na(x)) Na B O6
+(A = La, Pr, Nd; B = Rh, Pt)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 4391 4395 INOCAJ
+loop_
+_publ_author_name
+'Macquart, R.B.'
+'Gemmill, W.R.'
+'Davis, M.J.'
+'Smith, M.D.'
+'zur Loye, H.C.'
+_cell_length_a 9.3618(3)
+_cell_length_b 9.3618(3)
+_cell_length_c 11.2959(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 857.37
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.0275
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pt4+ 4
+Nd3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pt1 Pt4+ 6 b 0. 0. 0. 0.0057(3) 1 0
+Nd1 Nd3+ 18 e 0.36066(10) 0. 0.25 0.0103(3) 0.67 0
+Na1 Na1+ 18 e 0.36066(10) 0. 0.25 0.0103(3) 0.33 0
+Na2 Na1+ 6 a 0. 0. 0.25 0.0113(17) 1 0
+O1 O2- 36 f 0.1905(8) 0.0284(8) 0.1025(6) 0.0131(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pt1 Pt4+ 0.0058(3) 0.0058(3) 0.0053(4) 0.00292(16) 0. 0.
+Nd1 Nd3+ 0.0125(4) 0.0095(5) 0.0077(5) 0.0048(2) -0.00015(15) -0.0003(3)
+Na1 Na1+ 0.0125(4) 0.0095(5) 0.0077(5) 0.0048(2) -0.00015(15) -0.0003(3)
+#End of TTdata_172207-ICSD

@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78923-ICSD
+_database_code_ICSD 78923
+_audit_creation_date 1998-06-26
+_audit_update_record 1999-01-19
+_chemical_name_systematic 'Sodium phyllo-tetrazincate'
+_chemical_formula_structural 'Na9.93 (Zn4 O9)'
+_chemical_formula_sum 'Na9.93 O9 Zn4'
+_exptl_crystal_density_diffrn 3.48
+_publ_section_title
+'Na10 Zn4 O9 - ein neues Oxozinkat mit trigonal-planar koordiniertem Zink'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 245 250 ZAACAB
+loop_
+_publ_author_name
+'Trinschek, D.'
+'Jansen, M.'
+_cell_length_a 10.815(3)
+_cell_length_b 10.815(3)
+_cell_length_c 17.9300(70)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1816.2
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.062
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 6 c 0 0 0.41094(5) . 1. 0
+Zn2 Zn2+ 18 h 0.09977(2) -.09977(2) 0.86802(2) . 1. 0
+O1 O2- 18 h 0.1319(2) -.1319(2) 0.7603(2) . 1. 0
+O2 O2- 18 h 0.1020(2) -.1020(2) 0.4039(2) . 1. 0
+O3 O2- 18 h 0.1027(2) -.1027(2) 0.1056(3) . 1. 0
+Na1 Na1+ 18 h 0.2266(1) -.2266(1) 0.3968(1) . 1. 0
+Na2 Na1+ 18 g 0.7282(2) 0 0.5 . 1. 0
+Na3 Na1+ 3 a 0 0 0 . 1. 0
+Na4 Na1+ 18 h 0.1904(2) -.1904(2) 0.0277(2) 0.026(1) 0.614(6) 0
+Na5 Na1+ 18 f 0.303(2) 0 0 0.024(5) 0.150(1) 0
+Na6 Na1+ 36 i 0.265(2) 0.325(1) 0.6498(7) 0.036(4) 0.19(1) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0153(2) 0.0153(2) 0.0133(3) 0.0077(1) 0 0
+Zn2 Zn2+ 0.0108(2) 0.0108(2) 0.0089(2) 0.0057(2) -.0003(1) 0.0003(1)
+O1 O2- 0.027(2) 0.027(2) 0.012(1) 0.021(1) -.0016(5) 0.0016(5)
+O2 O2- 0.017(1) 0.017(1) 0.013(1) 0.010(1) -.0005(4) 0.0005(4)
+O3 O2- 0.0107(9) 0.0107(9) 0.045(2) 0.003(1) 0.0033(7) -.0033(7)
+Na1 Na1+ 0.0144(6) 0.0144(6) 0.0236(9) 0.0049(6) 0.0044(3) -.0044(3)
+Na2 Na1+ 0.0188(7) 0.0202(9) 0.0228(9) 0.0101(4) -.0034(4) -.0069(7)
+Na3 Na1+ 0.028(2) 0.028(2) 0.020(2) 0.0137(8) 0 0
+#End of TTdata_78923-ICSD

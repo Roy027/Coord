@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248066-ICSD
+_database_code_ICSD 248066
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Bismuth sodium lead germanium oxide (3/3/9/9/33)'
+_chemical_formula_structural 'Bi3 Na3 Pb9 Ge9 O33'
+_chemical_formula_sum 'Bi3 Ge9 Na3 O33 Pb9'
+_chemical_name_structure_type Pb5Ge3O11
+_exptl_crystal_density_diffrn 6.78
+_cell_measurement_temperature 298.
+_publ_section_title 'Polysomatic apatites'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2010 66 1 16
+ASBSDK
+loop_
+_publ_author_name
+'Baikie, T.'
+'Pramana, S.S.'
+'Ferraris, C.'
+'Huang Yizhong'
+'Kendrick, E.'
+'Knight, K.S.'
+'Ahmad, Z.'
+'White, T.J.'
+_cell_length_a 10.08745(3)
+_cell_length_b 10.08745(3)
+_cell_length_c 10.40506(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 916.93
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P 3'
+_symmetry_Int_Tables_number 143
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, z'
+2 '-y, x-y, z'
+3 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Na1+ 1
+Pb2+ 2
+Na1+ 1
+Pb2+ 2
+Na1+ 1
+Pb2+ 2
+Na1+ 1
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 1 b 0.3333 0.6667 0.326(5) 0.025(2) 0.32 0
+Na1 Na1+ 1 b 0.3333 0.6667 0.326(5) 0.025(2) 0.173 0
+Bi1 Bi3+ 1 b 0.3333 0.6667 0.326(5) 0.025(2) 0.507 0
+Na2 Na1+ 1 b 0.3333 0.6667 0.643(6) 0.023(2) 0.323 0
+Bi2 Bi3+ 1 b 0.3333 0.6667 0.643(6) 0.023(2) 0.677 0
+Na3 Na1+ 1 c 0.6667 0.3333 0.296(5) 0.032(3) 0.198 0
+Bi3 Bi3+ 1 c 0.6667 0.3333 0.296(5) 0.032(3) 0.802 0
+Na4 Na1+ 1 c 0.6667 0.3333 0.684(5) 0.0170(10) 0.253 0
+Bi4 Bi3+ 1 c 0.6667 0.3333 0.684(5) 0.0170(10) 0.747 0
+Na5 Na1+ 1 b 0.3333 0.6667 0.997 0.035(3) 0.726 0
+Bi5 Bi3+ 1 b 0.3333 0.6667 0.997 0.035(3) 0.274 0
+Na6 Na1+ 1 c 0.6667 0.3333 -0.034(6) 0.032(3) 1. 0
+Pb2 Pb2+ 3 d 0.2648(9) 0.2666(10) 0.167(5) 0.017(2) 0.995 0
+Na7 Na1+ 3 d 0.2648(9) 0.2666(10) 0.167(5) 0.017(2) 0.005 0
+Pb3 Pb2+ 3 d 0.2574(10) 0.2621(11) 0.810(5) 0.016(2) 0.901 0
+Na8 Na1+ 3 d 0.2574(10) 0.2621(11) 0.810(5) 0.016(2) 0.099 0
+Pb4 Pb2+ 3 d 0.2443(5) 0.9969(7) 0.489(5) 0.025(2) 0.975 0
+Na9 Na1+ 3 d 0.2443(5) 0.9969(7) 0.489(5) 0.025(2) 0.015 0
+Ge1 Ge4+ 3 d 0.0127(12) 0.3971(12) 0.1420(10) 0.021(2) 1. 0
+Ge2 Ge4+ 3 d 0.0169(13) 0.3959(12) 0.833(5) 0.017(2) 1. 0
+Ge3 Ge4+ 3 d 0.3994(6) 0.3932(6) 0.486(5) 0.014(2) 1. 0
+O1 O2- 3 d 0.0707(14) 0.2950(10) 0.248(5) 0.025(2) 1. 0
+O2 O2- 3 d 0.0888(15) 0.3331(13) 0.718(5) 0.021(2) 1. 0
+O3 O2- 3 d 0.119(2) 0.597(2) 0.165(5) 0.044(4) 1. 0
+O4 O2- 3 d 0.1158(18) 0.6002(18) 0.830(5) 0.033(3) 1. 0
+O5 O2- 3 d 0.8245(14) 0.3306(15) 0.150(5) 0.022(2) 1. 0
+O6 O2- 3 d 0.8128(16) 0.3126(16) 0.831(5) 0.026(3) 1. 0
+O7 O2- 3 d 0.0677(7) 0.3550(7) 0.989(6) 0.023(2) 1. 0
+O8 O2- 3 d 0.2906(8) 0.4852(7) 0.491(6) 0.027(3) 1. 0
+O9 O2- 3 d 0.5961(9) 0.5108(10) 0.514(5) 0.029(3) 1. 0
+O10 O2- 3 d 0.3751(17) 0.2795(16) 0.354(5) 0.041(4) 1. 0
+O11 O2- 3 d 0.3334(16) 0.2534(16) 0.609(5) 0.029(3) 1. 0
+#End of TTdata_248066-ICSD

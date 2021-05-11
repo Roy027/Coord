@@ -1,0 +1,143 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80883-ICSD
+_database_code_ICSD 80883
+_audit_creation_date 1997-05-13
+_audit_update_record 1999-06-02
+_chemical_name_systematic
+'Trirubidium nonasodium tecto-dodecaalumododecasilicate'
+_chemical_formula_structural 'Rb3 Na9 (Al12 Si12 O48)'
+_chemical_formula_sum 'Al12 Na9 O48 Rb3 Si12'
+_chemical_name_structure_type Zeolite-A-frame
+_chemical_name_mineral 'Zeolite A (Rb-exchanged, dehydrated)'
+_exptl_crystal_density_diffrn 1.71
+_publ_section_title
+
+;
+Remarkable structure relaxation of zeolite windows in Rb3 and K3-A.Crystal
+structures of M3 Na9-x Hx Si12 Al12 O48, where M =Rb or K and x =1 or 0
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Bulletin of the Korean Chemical Society' 1995 16 923 929 BKCSDE
+loop_
+_publ_author_name
+'Park, C.S.'
+'Yoon, M.S.'
+'Lim, W.T.'
+'Kim, C.K.'
+'Suh, S.H.'
+'Heo, N.-H.'
+_cell_length_a 12.258(3)
+_cell_length_b 12.258(3)
+_cell_length_c 12.258(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1841.87
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m -3 m'
+_symmetry_Int_Tables_number 221
+_refine_ls_R_factor_all 0.058
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+Rb1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 24 k 0 0.1835(3) 0.3719(3) . 0.5 0
+Al1 Al3+ 24 k 0 0.1835(3) 0.3719(3) . 0.5 0
+O1 O2- 12 h 0 0.225(1) 0.5 . 1. 0
+O2 O2- 12 i 0 0.2920(7) 0.2920(7) . 1. 0
+O3 O2- 24 m 0.1125(4) 0.1125(4) 0.3424(7) . 1. 0
+Na1 Na1+ 8 g 0.2019(5) 0.2019(5) 0.2019(5) . 1. 0
+Rb1 Rb1+ 12 i 0 0.4798(7) 0.4798(7) . 0.25 0
+Na2 Na1+ 12 j 0.2457(87) 0.2457(87) 0.5 9.(5) 0.0833 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Si1 Si4+ 0.0030(2) 0.0019(2) 0.0010(2) 0 0 0.0004(3)
+Al1 Al3+ 0.0030(2) 0.0019(2) 0.0010(2) 0 0 0.0004(3)
+O1 O2- 0.003(1) 0.0048(11) 0.0028(10) 0 0 0
+O2 O2- 0.0071(12) 0.0033(6) 0.0033(6) 0 0 0.0015(9)
+O3 O2- 0.0036(4) 0.0036(4) 0.0042(7) 0.0006(7) 0.0002(5) 0.0002(5)
+Na1 Na1+ 0.0053(4) 0.0053(4) 0.0053(4) 0.0030(5) 0.0030(5) 0.0030(5)
+Rb1 Rb1+ 0.0118(9) 0.0141(8) 0.0141(8) 0 0 -.0026(24)
+#End of TTdata_80883-ICSD

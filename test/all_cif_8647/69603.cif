@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69603-ICSD
+_database_code_ICSD 69603
+_audit_creation_date 1992-08-20
+_audit_update_record 2015-08-01
+_chemical_name_systematic 'Sodium tecto-alumotrigermanate'
+_chemical_formula_structural 'Na (Al Ge3 O8)'
+_chemical_formula_sum 'Al1 Ge3 Na1 O8'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral 'Albite-Ge high'
+_exptl_crystal_density_diffrn 3.58
+_publ_section_title
+
+;
+Structures of low gallium albite (NaGaSi3O4) and intermediate germanium albite
+(NaAlGe3O8): tetrahedral-site ordering in sodium feldspar
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1991 76 92 99 AMMIAY
+loop_
+_publ_author_name
+'Fleet, M.E.'
+_cell_length_a 8.419(1)
+_cell_length_b 13.298(3)
+_cell_length_c 7.354(1)
+_cell_angle_alpha 94.49(1)
+_cell_angle_beta 116.25(1)
+_cell_angle_gamma 90.88(2)
+_cell_volume 735.
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+Al3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.2732(3) 0.0187(3) 0.1218(4) . 1. 0
+Al1 Al3+ 4 i 0.01066(6) 0.15782(3) 0.21137(7) . 0.274(2) 0
+Ge1 Ge4+ 4 i 0.01066(6) 0.15782(3) 0.21137(7) . 0.726(2) 0
+Al2 Al3+ 4 i 0.00205(7) 0.81213(4) 0.22968(8) . 0.375(2) 0
+Ge2 Ge4+ 4 i 0.00205(7) 0.81213(4) 0.22968(8) . 0.625(2) 0
+Al3 Al3+ 4 i 0.68829(5) 0.10494(3) 0.31238(6) . 0.185(2) 0
+Ge3 Ge4+ 4 i 0.68829(5) 0.10494(3) 0.31238(6) . 0.815(2) 0
+Al4 Al3+ 4 i 0.67675(5) 0.87440(3) 0.35631(6) . 0.166(2) 0
+Ge4 Ge4+ 4 i 0.67675(5) 0.87440(3) 0.35631(6) . 0.834(2) 0
+O1 O2- 4 i 0.0105(4) 0.1281(2) 0.9783(4) . 1. 0
+O2 O2- 4 i 0.5758(3) 0.9865(2) 0.2713(4) . 1. 0
+O3 O2- 4 i 0.8202(3) 0.0920(2) 0.1839(4) . 1. 0
+O4 O2- 4 i 0.8080(4) 0.8363(2) 0.2443(5) . 1. 0
+O5 O2- 4 i 0.0033(3) 0.2837(2) 0.2875(4) . 1. 0
+O6 O2- 4 i 0.0152(3) 0.6822(2) 0.1971(4) . 1. 0
+O7 O2- 4 i 0.2042(3) 0.1058(2) 0.3795(4) . 1. 0
+O8 O2- 4 i 0.1914(4) 0.8645(2) 0.4323(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 1.63(8) 12.34(22) 6.72(15) 1.76(11) -.51(9) -7.26(16)
+Al1 Al3+ 0.80(2) 0.64(2) 0.68(2) -.08(1) 0.36(1) 0.02(1)
+Ge1 Ge4+ 0.80(2) 0.64(2) 0.68(2) -.08(1) 0.36(1) 0.02(1)
+Al2 Al3+ 0.84(2) 0.71(2) 0.66(2) 0.21(1) 0.31(2) 0.06(1)
+Ge2 Ge4+ 0.84(2) 0.71(2) 0.66(2) 0.21(1) 0.31(2) 0.06(1)
+Al3 Al3+ 0.69(1) 0.48(1) 0.99(2) 0.00(1) 0.31(1) 0.04(1)
+Ge3 Ge4+ 0.69(1) 0.48(1) 0.99(2) 0.00(1) 0.31(1) 0.04(1)
+Al4 Al3+ 0.78(1) 0.59(1) 0.96(1) 0.08(1) 0.33(1) 0.13(1)
+Ge4 Ge4+ 0.78(1) 0.59(1) 0.96(1) 0.08(1) 0.33(1) 0.13(1)
+O1 O2- 2.60(11) 1.09(9) 0.93(8) 0.27(8) 0.95(8) 0.18(7)
+O2 O2- 0.72(8) 0.43(7) 1.48(9) 0.01(6) 0.22(7) 0.32(6)
+O3 O2- 1.5(1) 1.21(9) 2.63(12) -.67(7) 1.45(9) -.67(8)
+O4 O2- 1.64(11) 2.80(13) 3.32(14) 0.62(9) 1.76(11) 0.22(10)
+O5 O2- 1.31(9) 0.66(7) 1.93(10) -.22(6) 0.85(8) -.12(7)
+O6 O2- 1.37(9) 0.77(8) 1.51(9) 0.38(7) 0.04(7) -.07(7)
+O7 O2- 1.43(9) 1.43(9) 1.03(9) 0.48(7) 0.09(7) 0.11(7)
+O8 O2- 1.91(11) 1.91(11) 1.33(10) -.35(8) -.23(8) -.10(8)
+#End of TTdata_69603-ICSD

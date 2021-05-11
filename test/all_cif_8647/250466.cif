@@ -1,0 +1,123 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250466-ICSD
+_database_code_ICSD 250466
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'Disodium tetranitrato(V)cobaltate'
+_chemical_formula_structural 'Na2 (Co (N O3)4)'
+_chemical_formula_sum 'Co1 N4 Na2 O12'
+_exptl_crystal_density_diffrn 2.39
+_publ_section_title
+
+;
+Synthesis and crystal structures of nitratocobaltates Na2 [Co (N O3)4], K2 [Co
+(N O3)4], and Ag [Co (N O3)3], and potassium nitratonickelate K2 [Ni (N O3)4]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 2008 53 264 272 KRISAJ
+loop_
+_publ_author_name
+'Morozov,  I.V.'
+'Fedorova, A.A.'
+'Albov, D.V.'
+'Kuznetsova, N.R.'
+'Romanov, I.A.'
+'Rybakov, V.B.'
+'Troyanov, S.I.'
+_cell_length_a 10.7596(11)
+_cell_length_b 7.7440(8)
+_cell_length_c 11.8019(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.923(9)
+_cell_angle_gamma 90.
+_cell_volume 982.08
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0471
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2
+Na1+ 1
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+N5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 4 e 0.25474(6) 0.05044(10) 0.53295(6) 0.00800(19) 1 0
+Na1 Na1+ 4 e 0.00921(15) 0.3431(2) 0.34030(14) 0.0142(5) 1 0
+Na2 Na1+ 4 e 0.46332(15) 0.3318(3) 0.33011(14) 0.0138(5) 1 0
+N1 N5+ 4 e 0.2512(4) -0.2675(5) 0.5918(3) 0.0125(10) 1 0
+O1 O2- 4 e 0.1620(3) -0.1620(4) 0.5902(2) 0.0116(8) 1 0
+O2 O2- 4 e 0.2355(3) -0.4187(5) 0.6191(3) 0.0270(10) 1 0
+O3 O2- 4 e 0.3536(3) -0.2087(4) 0.5664(2) 0.0188(9) 1 0
+N2 N5+ 4 e 0.0710(3) 0.2626(5) 0.5993(3) 0.0134(10) 1 0
+O4 O2- 4 e 0.1174(2) 0.2319(4) 0.5034(2) 0.0153(8) 1 0
+O5 O2- 4 e 0.1146(3) 0.1825(5) 0.6805(3) 0.0327(11) 1 0
+O6 O2- 4 e -0.0133(3) 0.3683(5) 0.6035(3) 0.0428(12) 1 0
+N3 N5+ 4 e 0.2610(4) -0.0408(5) 0.3099(3) 0.0115(9) 1 0
+O7 O2- 4 e 0.2737(3) -0.0990(5) 0.2151(3) 0.0309(11) 1 0
+O8 O2- 4 e 0.3495(3) 0.0204(5) 0.3684(3) 0.0397(11) 1 0
+O9 O2- 4 e 0.1610(3) -0.0454(5) 0.3530(3) 0.0414(11) 1 0
+N4 N5+ 4 e 0.4290(3) 0.2697(5) 0.6096(3) 0.0093(9) 1 0
+O10 O2- 4 e 0.3837(3) 0.1375(4) 0.6572(3) 0.0228(9) 1 0
+O11 O2- 4 e 0.3885(3) 0.3030(4) 0.5138(2) 0.0211(9) 1 0
+O12 O2- 4 e 0.5072(3) 0.3563(5) 0.6653(3) 0.0244(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.0064(4) 0.0126(4) 0.0049(4) -0.0004(4) -0.0008(3) 0.0050(4)
+Na1 Na1+ 0.0158(10) 0.0161(12) 0.0107(10) -0.0030(10) 0.0020(8) 0.0002(10)
+Na2 Na1+ 0.0175(10) 0.0164(12) 0.0076(10) 0.0053(10) 0.0022(8) 0.0042(9)
+N1 N5+ 0.027(3) 0.004(2) 0.005(2) -0.005(2) -0.0025(19) -0.0004(19)
+O1 O2- 0.0137(18) 0.010(2) 0.0119(18) 0.0057(17) 0.0038(15) 0.0043(16)
+O2 O2- 0.041(2) 0.017(2) 0.022(2) 0.002(2) -0.0036(18) -0.0076(19)
+O3 O2- 0.0113(18) 0.034(3) 0.0121(18) -0.0060(18) 0.0057(15) 0.0022(17)
+N2 N5+ 0.010(2) 0.012(3) 0.017(2) 0.008(2) 0.000(2) -0.007(2)
+O4 O2- 0.0101(17) 0.027(2) 0.0086(18) 0.0047(18) 0.0005(15) 0.0054(17)
+O5 O2- 0.034(2) 0.049(3) 0.014(2) 0.005(2) -0.0024(18) 0.007(2)
+O6 O2- 0.021(2) 0.039(3) 0.069(3) 0.001(2) 0.011(2) -0.026(3)
+N3 N5+ 0.021(2) 0.006(2) 0.008(2) -0.003(2) 0.0025(19) -0.002(2)
+O7 O2- 0.034(2) 0.043(3) 0.016(2) 0.010(2) 0.0065(18) -0.0109(19)
+O8 O2- 0.039(2) 0.042(3) 0.036(2) -0.006(2) -0.0207(19) 0.006(2)
+O9 O2- 0.039(2) 0.058(3) 0.030(2) 0.003(2) 0.023(2) 0.004(2)
+N4 N5+ 0.014(2) 0.006(2) 0.009(2) 0.005(2) 0.0067(19) -0.002(2)
+O10 O2- 0.022(2) 0.029(3) 0.017(2) -0.006(2) -0.0039(17) 0.0079(19)
+O11 O2- 0.024(2) 0.035(3) 0.0044(17) 0.0073(19) 0.0006(16) 0.0047(17)
+O12 O2- 0.015(2) 0.031(3) 0.027(2) -0.0072(19) -0.0012(17) -0.0077(19)
+#End of TTdata_250466-ICSD

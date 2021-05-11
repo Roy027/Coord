@@ -1,0 +1,95 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95248-ICSD
+_database_code_ICSD 95248
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Dilithium calcium hafnium(IV) fluoride'
+_chemical_formula_structural 'Li2 Ca Hf F8'
+_chemical_formula_sum 'Ca1 F8 Hf1 Li2'
+_chemical_name_structure_type AgBi(CrO4)2
+_exptl_crystal_density_diffrn 4.65
+_publ_section_title
+
+;
+Single-crystal structure determination and infrared reflectivity study of the
+Li2 Ca Hf F8 scheelite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physics: Condensed Matter' 2002 14 5485 5495 JCOMEL
+loop_
+_publ_author_name
+'Ayala, A.'
+'Paschoal, C.W.A.'
+'Gesland, J.Y.'
+'Ellena, J.'
+'Castellano, E.E.'
+'Moreira, R.L.'
+_cell_length_a 5.1063(2)
+_cell_length_b 5.1063(2)
+_cell_length_c 10.5248(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 274.43
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.0326
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ca2+ 2
+Hf4+ 4
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 2 c 0 0.5 0.25 0.019(4) 1. 0
+Li2 Li1+ 2 b 0 0 0.5 0.019(4) 1. 0
+Ca1 Ca2+ 2 a 0.5 0.5 0.5 0.014(1) 1. 0
+Hf1 Hf4+ 2 d 0.5 0 0.25 0.014(1) 1. 0
+F1 F1- 8 g 0.2886(11) 0.6868(11) 0.3204(5) 0.017(1) 1. 0
+F2 F1- 8 g 0.2877(13) 0.1468(12) 0.4102(6) 0.019(1) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.016(6) 0.016(6) 0.025(11) 0. 0. 0.
+Li2 Li1+ 0.016(6) 0.016(6) 0.025(11) 0. 0. 0.
+Ca1 Ca2+ 0.015(1) 0.015(1) 0.012(2) 0. 0. 0.
+Hf1 Hf4+ 0.014(1) 0.014(1) 0.013(1) 0. 0. 0.
+F1 F1- 0.016(2) 0.016(2) 0.017(2) -0.005(2) -0.003(2) 0.001(2)
+F2 F1- 0.018(2) 0.019(3) 0.018(3) -0.003(2) 0.006(2) -0.004(2)
+#End of TTdata_95248-ICSD

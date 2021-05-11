@@ -1,0 +1,134 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_151908-ICSD
+_database_code_ICSD 151908
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Sodium iron(III) titanium oxide (2.65/0.65/3.35/9)'
+_chemical_formula_structural 'Na2.65 Fe0.65 Ti3.35 O9'
+_chemical_formula_sum 'Fe0.65 Na2.65 O9 Ti3.35'
+_chemical_name_structure_type Na2+xRu4O9
+_exptl_crystal_density_diffrn 3.78
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Synthesis and structure analysis of a new sodium iron titanate Na2+x Fex Ti4-x
+O9 with x = 0.65
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2004 172 495 497 SSIOD3
+loop_
+_publ_author_name
+'Akimoto, J.'
+'Takahashi, Y.'
+'Kijima, N.'
+'Gotoh, Y.'
+_cell_length_a 23.057(3)
+_cell_length_b 2.945(3)
+_cell_length_c 10.684(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 103.54(2)
+_cell_angle_gamma 90.
+_cell_volume 705.31
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti4+ 4
+Fe3+ 3
+Ti4+ 4
+Fe3+ 3
+Ti4+ 4
+Fe3+ 3
+Ti4+ 4
+Fe3+ 3
+Ti4+ 4
+Fe3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.13808(9) 0 0.6039(2) 0.0144(10) 1.00(1) 0
+Na2 Na1+ 4 i 0.07361(16) 0 0.3067(4) 0.098(4) 0.78(1) 0
+Na3 Na1+ 4 i 0.14279(13) 0.5 0.0959(3) 0.038(2) 0.87(1) 0
+Ti1 Ti4+ 2 a 0 0 0 0.0096(4) 0.84 0
+Fe1 Fe3+ 2 a 0 0 0 0.0096(4) 0.16 0
+Ti2 Ti4+ 4 i 0.22361(3) 0.5 0.37367(8) 0.0078(3) 0.84 0
+Fe2 Fe3+ 4 i 0.22361(3) 0.5 0.37367(8) 0.0078(3) 0.16 0
+Ti3 Ti4+ 4 i 0.21561(3) 0.5 0.87754(8) 0.0075(3) 0.84 0
+Fe3 Fe3+ 4 i 0.21561(3) 0.5 0.87754(8) 0.0075(3) 0.16 0
+Ti4 Ti4+ 4 i 0.06044(3) 0.5 0.80781(7) 0.0064(3) 0.84 0
+Fe4 Fe3+ 4 i 0.06044(3) 0.5 0.80781(7) 0.0064(3) 0.16 0
+Ti5 Ti4+ 2 c 0 0 0.5 0.0254(7) 0.84 0
+Fe5 Fe3+ 2 c 0 0 0.5 0.0254(7) 0.16 0
+O1 O2- 4 i 0.07401(14) 0 0.9406(3) 0.0089(13) 1. 0
+O2 O2- 4 i 0.02556(15) 0.5 0.1239(3) 0.0114(14) 1. 0
+O3 O2- 4 i 0.02814(14) 0 0.6932(3) 0.0085(13) 1. 0
+O4 O2- 4 i 0.17136(14) 0 0.3125(3) 0.0106(13) 1. 0
+O5 O2- 4 i 0.20299(13) 0 0.9918(3) 0.0075(12) 1. 0
+O6 O2- 4 i 0.24218(14) 0 0.7811(3) 0.0076(12) 1. 0
+O7 O2- 4 i 0.05596(14) 0.5 0.4889(3) 0.0099(13) 1. 0
+O8 O2- 4 i 0.13609(14) 0.5 0.7814(3) 0.0076(12) 1. 0
+O9 O2- 4 i 0.21520(14) 0.5 0.5523(3) 0.0077(12) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0139(10) 0.0136(11) 0.0143(11) 0. 0.0005(8) 0.
+Na2 Na1+ 0.0134(19) 0.269(10) 0.0119(19) 0. 0.0015(14) 0.
+Na3 Na1+ 0.0169(15) 0.083(3) 0.0132(14) 0. -0.0000(11) 0.
+Ti1 Ti4+ 0.0114(5) 0.0090(5) 0.0098(5) 0. 0.0052(4) 0.
+Fe1 Fe3+ 0.0114(5) 0.0090(5) 0.0098(5) 0. 0.0052(4) 0.
+Ti2 Ti4+ 0.0091(3) 0.0079(5) 0.0059(3) 0. 0.0007(2) 0.
+Fe2 Fe3+ 0.0091(3) 0.0079(5) 0.0059(3) 0. 0.0007(2) 0.
+Ti3 Ti4+ 0.0093(3) 0.0062(3) 0.0061(3) 0. 0.0004(3) 0.
+Fe3 Fe3+ 0.0093(3) 0.0062(3) 0.0061(3) 0. 0.0004(3) 0.
+Ti4 Ti4+ 0.0082(3) 0.0049(3) 0.0050(3) 0. -0.0002(2) 0.
+Fe4 Fe3+ 0.0082(3) 0.0049(3) 0.0050(3) 0. -0.0002(2) 0.
+Ti5 Ti4+ 0.0108(5) 0.0574(12) 0.0063(5) 0. -0.0014(4) 0.
+Fe5 Fe3+ 0.0108(5) 0.0574(12) 0.0063(5) 0. -0.0014(4) 0.
+O1 O2- 0.0078(13) 0.0124(16) 0.0072(13) 0. 0.0029(11) 0.
+O2 O2- 0.0163(16) 0.0102(16) 0.0083(14) 0. 0.0037(12) 0.
+O3 O2- 0.0100(14) 0.0087(15) 0.0056(13) 0. -0.0005(11) 0.
+O4 O2- 0.0080(13) 0.0115(16) 0.0114(15) 0. 0.0004(11) 0.
+O5 O2- 0.0078(13) 0.0083(15) 0.0060(13) 0. 0.0006(11) 0.
+O6 O2- 0.0101(14) 0.0073(15) 0.0057(13) 0. 0.0025(11) 0.
+O7 O2- 0.0078(13) 0.0125(16) 0.0084(14) 0. 0.0000(11) 0.
+O8 O2- 0.0077(13) 0.0070(14) 0.0069(13) 0. -0.0007(11) 0.
+O9 O2- 0.0079(13) 0.0080(15) 0.0070(13) 0. 0.0012(11) 0.
+#End of TTdata_151908-ICSD

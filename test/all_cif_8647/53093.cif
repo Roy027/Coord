@@ -1,0 +1,81 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_53093-ICSD
+_database_code_ICSD 53093
+_audit_creation_date 2002-04-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Lithium dithioindate'
+_chemical_formula_structural 'Li (In S2)'
+_chemical_formula_sum 'In1 Li1 S2'
+_chemical_name_structure_type NaGaO2
+_exptl_crystal_density_diffrn 3.44
+_publ_section_title 'Synthesis and crystal stucture of lithium thioindate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1985 280 398 401 DANKAS
+loop_
+_publ_author_name
+'Kish, Z.Z.'
+'Kanishcheva, A.S.'
+'Mikhailov, Yu.N.'
+'Lazarev, V.B.'
+'Semrad, E.E.'
+'Peresh, E.Yu.'
+_cell_length_a 6.474(1)
+_cell_length_b 6.887(1)
+_cell_length_c 8.050(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 358.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 n b'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, z+1/2'
+3 'x+1/2, -y, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+In3+ 3
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 a 0.5744(1) 0.0912(22) 0.3879(24) 2. 1. 0
+In1 In3+ 4 a 0.0625 0.41946(4) 0.37442(5) . 1. 0
+S1 S2- 4 a 0.1882(4) 0.5842(2) 0.1263(2) . 1. 0
+S2 S2- 4 a 0.6821(4) 0.4198(2) 0.3704(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.74(1) 0.69(1) 0.74(1) -.17(1) 0.02(2) -.04(1)
+S1 S2- 0.86(5) 0.65(5) 0.82(5) 0.14(3) 0.39(5) 0.17(3)
+S2 S2- 0.65(5) 0.84(5) 0.69(5) -.07(3) -.30(4) -.00(4)
+#End of TTdata_53093-ICSD

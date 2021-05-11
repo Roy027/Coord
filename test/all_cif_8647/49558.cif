@@ -1,0 +1,127 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_49558-ICSD
+_database_code_ICSD 49558
+_audit_creation_date 1984-12-31
+_audit_update_record 2012-02-01
+_chemical_name_systematic
+'Disodium dideuterium silicate octakis(dideuteriohydrate)'
+_chemical_formula_structural 'Na2 D2 (Si O4) (D2 O)8'
+_chemical_formula_sum 'D18 Na2 O12 Si1'
+_chemical_name_structure_type Na2H2SiO4(H2O)8
+_exptl_crystal_density_diffrn 1.77
+_cell_measurement_temperature 173.
+_publ_section_title
+
+;
+Location and anisotropic refinement of deuterium atoms in deuterium sodium
+silicate - deuterium oxide (1/8) Na2 D2 Si O4 (D2 O)8 by neutron diffraction;
+hydrogen bonding at 173 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1984 40 733 736 ACSCEE
+loop_
+_publ_author_name
+'Schmid, R.L.'
+'Felsche, L.'
+'McIntyre, G.J.'
+_cell_length_a 11.658(5)
+_cell_length_b 16.927(4)
+_cell_length_c 11.477(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2264.81
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'I b c a'
+_symmetry_Int_Tables_number 73
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, y+1/2, -z'
+2 'x+1/2, -y, z'
+3 '-x, y, z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z'
+6 '-x+1/2, y, -z'
+7 'x, -y, -z+1/2'
+8 'x, y, z'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 '-x+1/2, -y, z+1/2'
+14 '-x, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 16 f 0.1231(3) 0.18200(2) 0.4103(3) . 1. 0
+Si1 Si4+ 8 c 0.3734(3) 0 0.25 . 1. 0
+O1 O2- 16 f 0.2875(2) 0.0563(1) 0.1680(2) . 1. 0
+O2 O2- 16 f 0.4443(2) 0.0565(1) 0.3343(2) . 1. 0
+O3 O2- 16 f 0.1202(2) 0.0359(1) 0.4332(2) . 1. 0
+O4 O2- 16 f 0.1079(2) 0.1612(1) 0.2024(2) . 1. 0
+O5 O2- 16 f 0.4144(2) 0.1780(1) 0.0575(2) . 1. 0
+O6 O2- 16 f 0.3262(2) 0.1891(1) 0.3847(2) . 1. 0
+D1 D1+ 16 f 0.2359(2) 0.0246(1) 0.1199(2) . 1. 0
+D2 D1+ 16 f 0.0998(2) 0.0389(1) 0.5161(2) . 1. 0
+D3 D1+ 16 f 0.0571(2) 0.0066(1) 0.3964(2) . 1. 0
+D4 D1+ 16 f 0.0452(2) 0.1216(1) 0.1948(2) . 1. 0
+D5 D1+ 16 f 0.1775(2) 0.1293(1) 0.2011(2) . 1. 0
+D6 D1+ 16 f 0.3712(2) 0.1355(1) 0.0936(2) . 1. 0
+D7 D1+ 16 f 0.4038(2) 0.1709(1) -.0248(2) . 1. 0
+D8 D1+ 16 f 0.3688(2) 0.1425(1) 0.3569(2) . 1. 0
+D9 D1+ 16 f 0.3572(2) 0.2345(1) 0.3449(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0161(16) 0.0137(13) 0.0111(14) -0.0004(11) -0.0020(13) 0.0022(12)
+Si1 Si4+ 0.0086(17) 0.0032(12) 0.0059(15) -0.0003(13) 0 0
+O1 O2- 0.0080(9) 0.0100(7) 0.0115(9) -0.0003(7) -0.0031(8) 0.0003(7)
+O2 O2- 0.0095(9) 0.0104(7) 0.0094(9) -0.0004(6) -0.0005(7) -0.0024(7)
+O3 O2- 0.0138(11) 0.0165(9) 0.0096(12) 0.0002(7) 0.0021(10) -0.0004(9)
+O4 O2- 0.0112(10) 0.0117(8) 0.0153(10) -0.0010(7) -0.0004(8) -0.0002(10)
+O5 O2- 0.0174(11) 0.0132(9) 0.0148(13) 0.0033(8) -0.0006(9) -0.0009(9)
+O6 O2- 0.0149(10) 0.0108(9) 0.0147(10) -0.0006(8) 0.0033(9) 0.0004(8)
+D1 D1+ 0.0202(10) 0.0212(8) 0.0196(9) -0.0026(8) -0.0042(9) 0.0014(8)
+D2 D1+ 0.0239(10) 0.0247(9) 0.0169(12) 0.0015(8) 0.0002(9) -0.0024(8)
+D3 D1+ 0.0196(10) 0.0251(9) 0.0202(10) -0.0017(8) -0.0013(9) -0.0002(8)
+D4 D1+ 0.0163(9) 0.0207(9) 0.0211(10) 0.0014(7) -0.0016(8) -0.0024(9)
+D5 D1+ 0.0170(11) 0.0225(9) 0.0248(10) 0.0003(8) -0.0008(8) 0.0020(9)
+D6 D1+ 0.0256(11) 0.0213(9) 0.0285(11) 0.0058(9) 0.0008(9) -0.0034(9)
+D7 D1+ 0.0350(13) 0.0295(10) 0.0227(14) 0.0022(9) -0.0028(10) -0.0040(9)
+D8 D1+ 0.0222(10) 0.0186(9) 0.022(10) -0.0033(8) 0.0007(8) 0.0010(8)
+D9 D1+ 0.0288(11) 0.0195(10) 0.0239(10) 0.0021(8) 0.0021(9) -0.0021(8)
+#End of TTdata_49558-ICSD

@@ -1,0 +1,86 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_87657-ICSD
+_database_code_ICSD 87657
+_audit_creation_date 2000-12-16
+_chemical_name_systematic 'Sodium tecto-alumotrisilicate'
+_chemical_formula_structural 'Na (Al Si3 O8)'
+_chemical_formula_sum 'Al1 Na1 O8 Si3'
+_chemical_name_structure_type Feldspar#-(TC)-Albite-NaAlSi3O8
+_chemical_name_mineral 'Albite (heat-treated)'
+_exptl_crystal_density_diffrn 2.63
+_publ_section_title 'Order-disorder process in the tetrahedral sites of albite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1999 84 1144 1151 AMMIAY
+loop_
+_publ_author_name
+'Meneghinello, E.'
+'Alberti, A.'
+'Cruciani, G.'
+_cell_length_a 8.140(2)
+_cell_length_b 12.791(2)
+_cell_length_c 7.132(1)
+_cell_angle_alpha 93.94(1)
+_cell_angle_beta 116.54(1)
+_cell_angle_gamma 88.46(1)
+_cell_volume 662.75
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.044
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+3 '-x+1/2, -y+1/2, -z'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 4 i 0.0089(1) 0.1681(1) 0.2105(1) 0.78(1) 0.22 0
+Al1 Al3+ 4 i 0.0089(1) 0.1681(1) 0.2105(1) 0.78(1) 0.78 0
+Si2 Si4+ 4 i 0.0039(1) 0.8185(1) 0.2348(1) 0.74(1) 0.92 0
+Al2 Al3+ 4 i 0.0039(1) 0.8185(1) 0.2348(1) 0.74(1) 0.08 0
+Si3 Si4+ 4 i 0.6921(1) 0.1100(1) 0.3172(1) 0.77(1) 0.94 0
+Al3 Al3+ 4 i 0.6921(1) 0.1100(1) 0.3172(1) 0.77(1) 0.06 0
+Si4 Si4+ 4 i 0.6837(1) 0.8807(1) 0.3585(1) 0.75(1) 0.92 0
+Al4 Al3+ 4 i 0.6837(1) 0.8807(1) 0.3585(1) 0.75(1) 0.08 0
+O1 O2- 4 i 0.0057(3) 0.1331(1) 0.9728(3) 1.38(1) 1. 0
+O2 O2- 4 i 0.5930(2) 0.9955(1) 0.2803(3) 1.01(1) 1. 0
+O3 O2- 4 i 0.8153(2) 0.1109(1) 0.1933(3) 1.45(1) 1. 0
+O4 O2- 4 i 0.8206(3) 0.8501(1) 0.2546(3) 1.56(1) 1. 0
+O5 O2- 4 i 0.0140(2) 0.2992(1) 0.2720(3) 1.28(1) 1. 0
+O6 O2- 4 i 0.0237(2) 0.6920(1) 0.2279(3) 1.24(1) 1. 0
+O7 O2- 4 i 0.2035(2) 0.1102(1) 0.3882(3) 1.26(1) 1. 0
+O8 O2- 4 i 0.1842(3) 0.8682(1) 0.4324(3) 1.42(1) 1. 0
+Na1 Na1+ 4 i 0.2704(2) 0.9937(1) 0.1441(2) 4.11(1) 1. 0
+#End of TTdata_87657-ICSD

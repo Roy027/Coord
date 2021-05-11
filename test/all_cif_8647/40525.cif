@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_40525-ICSD
+_database_code_ICSD 40525
+_audit_creation_date 1999-11-30
+_audit_update_record 2015-08-01
+_chemical_name_systematic 'Disodium magnesium bis(sulfate(VI)) tetrahydrate'
+_chemical_formula_structural 'Na2 Mg (S O4)2 (H2 O)4'
+_chemical_formula_sum 'H8 Mg1 Na2 O12 S2'
+_chemical_name_structure_type Bloedite
+_chemical_name_mineral Bloedite
+_exptl_crystal_density_diffrn 2.23
+_publ_section_title
+
+;
+Refinement of the crystal structure of bloedite: Structural similarities in
+the (VI)M ((IV)T phi 4)2 (phi n) finite cluster minerals
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 1985 23 669 674 CAMIA6
+loop_
+_publ_author_name
+'Hawthorne, F.C.'
+_cell_length_a 11.126(2)
+_cell_length_b 8.242(1)
+_cell_length_c 5.539(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.84(1)
+_cell_angle_gamma 90.
+_cell_volume 498.87
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mg2+ 2
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mg1 Mg2+ 2 a 0 0 0 . 1. 0
+Na1 Na1+ 4 e 0.36178(8) 0.0705(1) 0.1305(2) . 1. 0
+S1 S6+ 4 e 0.13640(4) 0.29075(6) 0.36935(8) . 1. 0
+O1 O2- 4 e 0.2663(1) 0.2712(2) 0.3476(3) . 1. 0
+O2 O2- 4 e 0.0802(1) 0.4214(2) 0.2091(3) . 1. 0
+O3 O2- 4 e 0.0704(2) 0.1372(2) 0.3058(3) . 1. 0
+O4 O2- 4 e 0.1321(2) 0.3283(2) 0.6297(3) . 1. 0
+O5 O2- 4 e 0.1603(1) 0.0378(2) 0.8727(3) . 1. 0
+O6 O2- 4 e 0.0809(2) 0.7908(2) 0.1774(3) . 1. 0
+H1 H1+ 4 e 0.153(2) 0.119(3) 0.802(5) 1. 1. 0
+H2 H1+ 4 e -.175(2) 0.034 0.215(5) 1. 1. 0
+H3 H1+ 4 e 0.466(2) 0.226(3) 0.755(5) 1. 1. 0
+H4 H1+ 4 e -.137(3) 0.202(3) -.276(5) 1. 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 Mg2+ 0.0106(4) 0.0100(4) 0.0114(4) -.0013(3) 0.0021(3) -.0005(3)
+Na1 Na1+ 0.0177(4) 0.0196(4) 0.0221(4) 0.0015(3) 0.0018(3) -.0008(4)
+S1 S6+ 0.0108(2) 0.0107(2) 0.0096(2) -.0009(2) 0.0011(1) 0.0004(2)
+O1 O2- 0.0114(6) 0.0214(8) 0.0263(8) 0.0015(6) 0.0047(6) 0.0021(7)
+O2 O2- 0.0173(7) 0.0200(8) 0.0225(8) 0.0041(6) 0.0014(6) 0.0106(6)
+O3 O2- 0.0243(8) 0.0172(7) 0.0148(7) -.0104(6) 0.0023(6) -.0040(6)
+O4 O2- 0.0312(9) 0.0165(7) 0.0116(6) -.0035(6) 0.0052(6) -.0042(6)
+O5 O2- 0.0158(7) 0.0142(7) 0.0154(7) 0.0004(6) 0.0061(6) 0.0007(6)
+O6 O2- 0.0161(7) 0.0149(7) 0.0179(7) -.0015(6) -.0054(6) 0.0029(6)
+#End of TTdata_40525-ICSD

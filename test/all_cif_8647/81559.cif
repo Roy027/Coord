@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_81559-ICSD
+_database_code_ICSD 81559
+_audit_creation_date 1997-05-13
+_chemical_name_systematic 'Sodium iron(III) bis(selenate(IV))'
+_chemical_formula_structural 'Na Fe (Se O3)2'
+_chemical_formula_sum 'Fe1 Na1 O6 Se2'
+_chemical_name_structure_type KFe(SeO3)2
+_exptl_crystal_density_diffrn 4.17
+_publ_section_title
+
+;
+Crystal structures of the new pseudo-isotypic compounds Na Fe (Se O3)2 and Ba
+Co (Se O3)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1996 239 99 102 JALCEU
+loop_
+_publ_author_name
+'Giester, G.'
+'Wildner, M.'
+_cell_length_a 12.553(6)
+_cell_length_b 5.349(2)
+_cell_length_c 7.899(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 530.39
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+Se4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 c 0.8859(2) 0.25 0.5100(3) . 1. 0
+Fe1 Fe3+ 4 c 0.60059(5) 0.25 0.70197(8) . 1. 0
+Se1 Se4+ 4 c 0.56812(3) 0.25 0.28725(5) . 1. 0
+Se2 Se4+ 4 c 0.29317(3) 0.25 0.50536(5) . 1. 0
+O1 O2- 8 d 0.4999(2) 0.0080(4) 0.2007(3) . 1. 0
+O2 O2- 4 c 0.5228(2) 0.25 0.4880(3) . 1. 0
+O3 O2- 8 d 0.2892(2) 0.0028(5) 0.3717(3) . 1. 0
+O4 O2- 4 c 0.1634(3) 0.25 0.5614(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0324(10) 0.0282(11) 0.0208(9) 0 0.0004(7) 0
+Fe1 Fe3+ 0.0167(2) 0.0112(2) 0.0094(2) 0 -.0008(2) 0
+Se1 Se4+ 0.0153(2) 0.0105(2) 0.0112(2) 0 -.00032(12) 0
+Se2 Se4+ 0.0155(2) 0.0148(2) 0.0128(2) 0 0.00026(12) 0
+O1 O2- 0.0315(10) 0.0139(9) 0.0122(8) -.0076(8) 0.0011(8) -.0031(9)
+O2 O2- 0.0227(14) 0.0156(13) 0.0077(11) 0 -.0017(9) 0
+O3 O2- 0.0276(11) 0.0272(13) 0.0388(13) 0.0121(10) -.0075(11) -.0176(13)
+O4 O2- 0.0173(13) 0.035(2) 0.0137(13) 0 0.0031(10) 0
+#End of TTdata_81559-ICSD

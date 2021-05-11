@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_154708-ICSD
+_database_code_ICSD 154708
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Disodium lanthanum phosphate(V) thiosulfate(VI)'
+_chemical_formula_structural 'Na2 La ((P O4) (S2 O3))'
+_chemical_formula_sum 'La1 Na2 O7 P1 S2'
+_exptl_crystal_density_diffrn 3.79
+_publ_section_title
+
+;
+Characterization and structural determination of a new sodium lanthanum
+phosphate thiosulfate, Na2 La (P O4) (S2 O3)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2006 418 90 94 JALCEU
+loop_
+_publ_author_name
+'Zhizhin, M.G.'
+'Pounds, H.A.'
+'Spiridonov, F.M.'
+'Komissarova, L.N.'
+'Dorhout, P.K.'
+_cell_length_a 13.7789(3)
+_cell_length_b 5.3358(1)
+_cell_length_c 9.3558(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 89.972(2)
+_cell_angle_gamma 90.
+_cell_volume 687.85
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0159
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+La3+ 3
+P5+ 5
+O2- -2
+S6+ 6
+S2- -2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 c 0 0.5 0 1.37(8) 1. 0
+Na2 Na1+ 2 d 0.5 0 0.5 1.37(8) 1. 0
+Na3 Na1+ 4 e 0.4113(4) 0.5229(13) 0.3095(7) 1.37(8) 1. 0
+La1 La3+ 4 e 0.2514(2) 0.0557(2) 0.4633(1) 2.49(3) 1. 0
+P1 P5+ 4 e 0.1487(3) 0.5471(7) 0.3116(4) 1.2(2) 1. 0
+O1 O2- 4 e 0.0874(5) 0.3419(11) 0.3930(7) 2.8(2) 1. 0
+O2 O2- 4 e 0.1302(5) 0.5281(14) 0.1501(4) 2.8(2) 1. 0
+O3 O2- 4 e 0.2567(3) 0.5095(12) 0.3477(7) 2.8(2) 1. 0
+O4 O2- 4 e 0.1131(5) 0.8089(9) 0.3676(7) 2.8(2) 1. 0
+S1 S6+ 4 e 0.3691(3) 0.4902(9) 0.6540(5) 6.3(2) 1. 0
+S2 S2- 4 e 0.2219(3) 0.4470(12) 0.6626(6) 6.3(2) 1. 0
+O5 O2- 4 e 0.4115(4) 0.4332(16) 0.7904(6) 4.7(2) 1. 0
+O6 O2- 4 e 0.3911(5) 0.7511(9) 0.6178(9) 4.7(2) 1. 0
+O7 O2- 4 e 0.4075(4) 0.3271(13) 0.5425(7) 4.7(2) 1. 0
+#End of TTdata_154708-ICSD

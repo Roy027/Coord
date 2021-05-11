@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_201064-ICSD
+_database_code_ICSD 201064
+_audit_creation_date 1982-12-31
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium sulfide nonakis(dideuteriohydrate)'
+_chemical_formula_structural 'Na2 S (D2 O)9'
+_chemical_formula_sum 'D18 Na2 O9 S1'
+_chemical_name_structure_type Na2S(H2O)9
+_exptl_crystal_density_diffrn 1.54
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Hydrogen bonds in Na2 S (D2 O)9: Neutron diffraction, x-ray diffraction and
+vibrational spectroscopic studies
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganica Chimica Acta' 1982 57 237 246 ICHAA3
+loop_
+_publ_author_name
+'Preisinger, A.'
+'Mereiter, K.'
+'Baumgartner, O.'
+'Heger, G.'
+'Mikenda, W.'
+'Steidl, H.'
+_cell_length_a 9.337(1)
+_cell_length_b 9.337(1)
+_cell_length_c 12.783(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1114.42
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 43 2 2'
+_symmetry_Int_Tables_number 95
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x, -z+3/4'
+2 'y, x, -z+1/4'
+3 'x, -y, -z+1/2'
+4 '-x, y, -z'
+5 'y, -x, z+1/4'
+6 '-y, x, z+3/4'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S2- -2
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0.5 0.3055(11) 0 . 1. 0
+Na2 Na1+ 4 a 0.1473(11) 0 0.75 . 1. 0
+S1 S2- 4 b 0.5 0.1895(12) 0.5 . 1. 0
+O1 O2- 4 c 0.4999(6) 0.4999(6) 0.125 . 1. 0
+O2 O2- 8 d 0.1887(6) 0.9899(6) 0.5500(4) . 1. 0
+O3 O2- 8 d 0.4662(5) 0.1174(5) 0.1244(4) . 1. 0
+O4 O2- 8 d 0.3304(5) 0.1807(5) 0.7294(4) . 1. 0
+O5 O2- 8 d 0.2996(5) 0.2373(5) 0.2807(4) . 1. 0
+D1 D1+ 8 d 0.4975(7) 0.5898(5) 0.0883(4) . 1. 0
+D2 D1+ 8 d 0.2046(5) 0.8894(5) 0.5368(4) . 1. 0
+D3 D1+ 8 d 0.2765(6) 0.0376(6) 0.5319(5) . 1. 0
+D4 D1+ 8 d 0.4717(5) 0.0228(5) 0.0920(4) . 1. 0
+D5 D1+ 8 d 0.5459(5) 0.1265(6) 0.1705(3) . 1. 0
+D6 D1+ 8 d 0.2924(5) 0.2780(5) 0.7385(4) . 1. 0
+D7 D1+ 8 d 0.3800(5) 0.1834(6) 0.6624(3) . 1. 0
+D8 D1+ 8 d 0.3443(5) 0.1860(6) 0.2255(4) . 1. 0
+D9 D1+ 8 d 0.3535(5) 0.2136(5) 0.3429(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0294(46) 0.0207(40) 0.0275(39) 0 0.0050(41) 0
+Na2 Na1+ 0.0280(48) 0.0238(42) 0.0332(43) 0 0 -.0041(41)
+S1 S2- 0.0158(45) 0.0152(42) 0.0265(46) 0 -.0017(42) 0
+O1 O2- 0.0233(13) 0.0233(13) 0.0238(25) 0.0015(25) 0.0004(18) -.0004(18)
+O2 O2- 0.0284(22) 0.0244(23) 0.0503(27) 0.0065(22) -.0016(26) -.0034(22)
+O3 O2- 0.0272(23) 0.0268(23) 0.0241(16) 0.0012(16) -.0051(19) -.0017(19)
+O4 O2- 0.0282(22) 0.0181(19) 0.0265(20) 0.0001(18) -.0010(18) 0.0017(17)
+O5 O2- 0.0202(19) 0.0376(27) 0.0275(19) 0.0004(18) 0.0029(20) -.0002(20)
+D1 D1+ 0.0437(25) 0.0360(24) 0.0389(22) -.0025(23) -.0023(21) 0.0055(21)
+D2 D1+ 0.0434(26) 0.0295(22) 0.0545(28) 0.0071(19) -.0034(26) -.0043(22)
+D3 D1+ 0.0473(31) 0.0403(27) 0.0695(36) 0.0031(22) 0.0042(31) 0.0028(26)
+D4 D1+ 0.045(3) 0.0337(27) 0.0406(23) -.0002(18) -.0032(23) -.0060(21)
+D5 D1+ 0.0344(23) 0.0415(27) 0.0399(23) -.0013(20) -.0010(21) -.0011(21)
+D6 D1+ 0.0362(22) 0.0363(24) 0.0376(20) 0.0004(17) -.0009(22) 0.0006(20)
+D7 D1+ 0.0399(24) 0.0358(23) 0.0371(20) 0.0012(20) 0.0022(21) 0.0021(20)
+D8 D1+ 0.0384(25) 0.0437(26) 0.0442(24) 0.0030(23) 0.0060(22) -.0077(24)
+D9 D1+ 0.0346(22) 0.0388(26) 0.0425(23) 0.0068(20) 0.0044(20) 0.0010(21)
+#End of TTdata_201064-ICSD

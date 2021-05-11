@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202150-ICSD
+_database_code_ICSD 202150
+_audit_creation_date 1988-12-19
+_chemical_name_systematic 'Dicesium decasodium tetrakis(trioxoferrate(III))'
+_chemical_formula_structural 'Cs2 Na10 (Fe O3)4'
+_chemical_formula_sum 'Cs2 Fe4 Na10 O12'
+_exptl_crystal_density_diffrn 3.57
+_publ_section_title 'Neue oxoferrate(III) der Alkalimetalle Cs Na10 (Fe O3)4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Revue de Chimie Minerale' 1986 23 201 216 RVCMA8
+loop_
+_publ_author_name
+'Luge, R.'
+'Hoppe, R.'
+_cell_length_a 9.182(2)
+_cell_length_b 9.182(2)
+_cell_length_c 20.117(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1696.05
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I -4 2 d'
+_symmetry_Int_Tables_number 122
+_refine_ls_R_factor_all 0.0961
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, -x+1/2, z+1/4'
+2 'y, -x, -z'
+3 'y, x+1/2, z+1/4'
+4 '-y, x, -z'
+5 'x, -y+1/2, -z+1/4'
+6 '-x, -y, z'
+7 '-x, y+1/2, -z+1/4'
+8 'x, y, z'
+9 '-y+1/2, -x, z+3/4'
+10 'y+1/2, -x+1/2, -z+1/2'
+11 'y+1/2, x, z+3/4'
+12 '-y+1/2, x+1/2, -z+1/2'
+13 'x+1/2, -y, -z+3/4'
+14 '-x+1/2, -y+1/2, z+1/2'
+15 '-x+1/2, y, -z+3/4'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Na1+ 1
+Fe3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cs1 Cs1+ 8 d 0.25 0.0356(1) 0.875 . 1. 0
+Na1 Na1+ 4 a 0 0 0 . 1. 0
+Na2 Na1+ 4 b 0.5 0 0.25 . 1. 0
+Na3 Na1+ 8 c 0 0 0.2579(3) . 1. 0
+Na4 Na1+ 16 e 0.2476(5) 0.7524(5) 0.2598(2) . 1. 0
+Na5 Na1+ 16 e 0.5426(8) 0.2477(10) 0.1605(3) . 0.5 0
+Fe1 Fe3+ 16 e 0.2972(1) 0.0427(1) 0.1290(1) . 1. 0
+O1 O2- 8 c 0.5 0 0.1286(6) . 1. 0
+O2 O2- 8 d 0.2901(9) 0.25 0.125 . 1. 0
+O3 O2- 16 e 0.4820(8) 0.2279(10) 0.9609(3) . 1. 0
+O4 O2- 16 e 0.2741(8) 0.9644(7) 0.6995(4) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0233(4) 0.0126(4) 0.0234(5) 0 0 -.0089(22)
+Na1 Na1+ 0.0353(38) 0.0353(38) 0.0327(50) 0 0 0
+Na2 Na1+ 0.0646(49) 0.0646(49) 0.0292(51) 0 0 0
+Na3 Na1+ 0.0066(24) 0.0033(22) 0.0216(29) 0.0094(20) 0 0
+Na4 Na1+ 0.0472(21) 0.0174(15) 0.0158(22) 0.0196(33) -.0205(19) -.0030(16)
+Na5 Na1+ 0.0203(32) 0.0203(33) 0.0387(35) 0.0134(49) 0.0041(31) 0.0169(37)
+Fe1 Fe3+ 0.0084(4) 0.0094(5) 0.0072(5) 0.0016(4) 0.0015(5) 0.0003(6)
+O1 O2- 0.0126(31) 0.0138(33) 0.0240(42) 0.0039(26) 0 0
+O2 O2- 0.0151(34) 0.0135(33) 0.0330(47) 0 0 0.0134(41)
+O3 O2- 0.0286(33) 0.0240(43) 0.0169(30) 0.0079(29) 0.0048(25) 0.0017(29)
+O4 O2- 0.0126(37) 0.0289(32) 0.0177(30) 0.0025(29) -.0038(25) 0.0083(25)
+#End of TTdata_202150-ICSD

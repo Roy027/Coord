@@ -1,0 +1,96 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94355-ICSD
+_database_code_ICSD 94355
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Trilithium indium diborate'
+_chemical_formula_structural 'Li3 In (B2 O6)'
+_chemical_formula_sum 'B2 In1 Li3 O6'
+_exptl_crystal_density_diffrn 3.62
+_cell_measurement_temperature 298.
+_publ_section_title
+'Crystal structure of a new lithium indium borate Li3 In B2 O6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2001 3 461 468 SSSCFJ
+loop_
+_publ_author_name
+'Penin, N.'
+'Touboul, M.'
+'Nowogrocki, G.'
+_cell_length_a 5.168(5)
+_cell_length_b 8.899(9)
+_cell_length_c 10.099(10)
+_cell_angle_alpha 90
+_cell_angle_beta 91.112(17)
+_cell_angle_gamma 90
+_cell_volume 464.37
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0249
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+O2- -2
+B3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In3+ 4 e 0.14845(7) 0.32611(4) 0.12343(4) 0.008(1) 1. 0
+O1 O2- 4 e 0.4043(7) 0.1539(4) 0.0899(4) 0.009(1) 1. 0
+O2 O2- 4 e 0.7515(8) 0.3171(4) 0.1502(4) 0.010(1) 1. 0
+O3 O2- 4 e 0.8264(8) 0.0550(4) 0.1208(4) 0.013(1) 1. 0
+O4 O2- 4 e 0.5885(8) 0.1704(4) 0.4109(4) 0.009(1) 1. 0
+O5 O2- 4 e 0.2046(8) 0.2992(4) 0.3356(4) 0.009(1) 1. 0
+O6 O2- 4 e 0.2001(8) 0.0374(4) 0.3612(4) 0.015(1) 1. 0
+B1 B3+ 4 e 0.6629(12) 0.1736(7) 0.1201(6) 0.011(2) 1. 0
+B2 B3+ 4 e 0.3329(13) 0.1681(7) 0.3689(6) 0.010(2) 1. 0
+Li1 Li1+ 4 e 0.828(2) 0.346(1) 0.381(1) 0.018(3) 1. 0
+Li2 Li1+ 4 e 0.657(2) 0.525(1) 0.169(1) 0.024(2) 1. 0
+Li3 Li1+ 4 e 0.324(2) 0.485(1) 0.399(1) 0.030(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In3+ 0.008(1) 0.007(1) 0.010(1) 0.001(1) -0.001(1) -0.001(1)
+O1 O2- 0.007(2) 0.007(2) 0.011(2) 0.001(2) 0.000(2) 0.000(2)
+O2 O2- 0.007(2) 0.007(2) 0.015(2) -0.001(2) 0.001(2) 0.000(2)
+O3 O2- 0.013(2) 0.007(2) 0.018(2) 0.004(2) -0.001(2) -0.002(2)
+O4 O2- 0.008(2) 0.008(2) 0.009(2) 0.000(1) -0.001(2) -0.002(2)
+O5 O2- 0.013(2) 0.005(2) 0.008(2) 0.003(2) -0.002(2) 0.000(2)
+O6 O2- 0.013(2) 0.005(2) 0.026(3) -0.001(2) -0.007(2) 0.000(2)
+B1 B3+ 0.015(4) 0.011(5) 0.006(4) 0.001(3) 0.003(3) 0.000(3)
+B2 B3+ 0.015(4) 0.012(5) 0.003(4) 0.002(3) 0.002(3) 0.000(3)
+Li1 Li1+ 0.018(6) 0.010(5) 0.027(7) 0.004(4) 0.005(5) 0.002(4)
+Li2 Li1+ 0.027(6) 0.016(6) 0.028(6) 0.003(5) 0.000(5) -0.003(5)
+Li3 Li1+ 0.019(6) 0.012(6) 0.060(9) -0.002(5) 0.010(6) -0.013(6)
+#End of TTdata_94355-ICSD

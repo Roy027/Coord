@@ -1,0 +1,153 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73443-ICSD
+_database_code_ICSD 73443
+_audit_creation_date 1994-06-30
+_audit_update_record 2012-08-01
+_chemical_name_systematic
+'Dioxouranium sodium magnesium aluminium oxide (0.1/1.73/0.67/10.33/17) - beta'
+_chemical_formula_structural '(U O2)0.1 Na1.73 (Mg0.667 Al10.333) O17'
+_chemical_formula_sum 'Al10.333 Mg0.667 Na1.73 O17.2 U0.1'
+_exptl_crystal_density_diffrn 3.42
+_cell_measurement_temperature 295.
+_publ_section_title
+'Structure of the luminescent system Na+/UO2+2 beta" - alumina'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1993 49 610 614
+ASBSDK
+loop_
+_publ_author_name
+'Wolf, M.'
+'Wendsjoe, A.'
+'Thomas, J.O.'
+'Barrie, J.D.'
+_cell_length_a 5.6206(3)
+_cell_length_b 5.6206(3)
+_cell_length_c 33.703(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 922.07
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'R -3 m H'
+_symmetry_Int_Tables_number 166
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+Na1+ 1
+Al3+ 3
+Mg2+ 2
+Al3+ 3
+Mg2+ 2
+Al3+ 3
+Mg2+ 2
+Al3+ 3
+Mg2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 18 h -.0672(8) -.0336(4) 0.17210(5) . 0.0167(30) 0
+Na1 Na1+ 6 c 0 0 0.166(2) . 0.15(2) 0
+Na2 Na1+ 18 h 0.141(2) 0.0705(10) 0.1707(1) . 0.238(6) 0
+Al1 Al3+ 3 a 0 0 0 . 0.9394 0
+Mg1 Mg2+ 3 a 0 0 0.0(1) . 0.0606 0
+Al2 Al3+ 6 c 0 0 0.35017(1) . 0.9394 0
+Mg2 Mg2+ 6 c 0 0 0.35017(1) . 0.0606 0
+Al3 Al3+ 18 h 0.33428(3) 0.16714(2) 0.07094(1) . 0.9394 0
+Mg3 Mg2+ 18 h 0.33428(3) 0.16714(2) 0.07094(1) . 0.0606 0
+Al4 Al3+ 6 c 0 0 0.44999(1) . 0.9394 0
+Mg4 Mg2+ 6 c 0 0 0.44999(1) . 0.0606 0
+O1 O2- 18 h 0.15391(4) 0.30782(8) 0.03431(1) . 1. 0
+O2 O2- 6 c 0 0 0.29513(2) . 1. 0
+O3 O2- 6 c 0 0 0.09706(2) . 1. 0
+O4 O2- 18 h 0.16331(4) 0.32662(8) 0.23521(1) . 1. 0
+O5 O2- 18 g 0.291(4) 0.6667 0.1667 . 0.1667 0
+O6 O2- 36 i -.0672(4) 0.2689(2) 0.17210(4) . 0.0167(30) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+U1 U6+ 0.00767(27) 0.01094(26) 0.000125(6) 0.00383(14) 0.000266(32) 0.000134(16)
+Na1 Na1+ 0.216(34) 0.216(34) 0.00445(84) 0.108(17) 0 0
+Na2 Na1+ 0.02471(81) 0.0837(21) 0.000732(29) 0.01235(40) -0.00484(23)
+-0.00242(12)
+Al1 Al3+ 0.003263(60) 0.003263(60) 0.000089(2) 0.001632(30) 0 0
+Mg1 Mg2+ 0.003263(60) 0.003263(60) 0.000089(2) 0.001632(30) 0 0
+Al2 Al3+ 0.003778(46) 0.003778(46) 0.000110(1) 0.001892(23) 0 0
+Mg2 Mg2+ 0.003778(46) 0.003778(46) 0.000110(1) 0.001892(23) 0 0
+Al3 Al3+ 0.003175(43) 0.003273(35) 0.000114(1) 0.001588(21) -.000003(4)
+0.000005(2)
+Mg3 Mg2+ 0.003175(43) 0.003273(35) 0.000114(1) 0.001588(21) 0 0
+Al4 Al3+ 0.003656(45) 0.003655(45) 0.000069(1) 0.001834(22) 0 0
+Mg4 Mg2+ 0.003656(45) 0.003655(45) 0.000069(1) 0.001834(22) 0 0
+O1 O2- 0.05197(63) 0.006962(92) 0.000122(2) 0.003484(46) -.000142(5)
+-.000277(10)
+O2 O2- 0.003793(86) 0.003793(86) 0.000168(3) 0.001900(43) 0 0
+O3 O2- 0.004010(88) 0.004009(88) 0.000152(3) 0.002006(44) 0 0
+O4 O2- 0.003763(60) 0.003861(80) 0.000153(2) 0.001932(40) 0.000066(5)
+0.000144(10)
+O5 O2- 0.0240(28) 0.035(26) 0.000065(6) 0.017(13) -0.00008(15) -0.00017(30)
+O6 O2- 0.00767(27) 0.01094(26) 0.000125(6) 0.00383(14) 0.000266(32) 0.000134(16)
+#End of TTdata_73443-ICSD

@@ -1,0 +1,116 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35265-ICSD
+_database_code_ICSD 35265
+_audit_creation_date 1982-12-31
+_chemical_name_systematic 'Disodium tetrachloroaluminate tris(sulfur(IV) oxide)'
+_chemical_formula_structural 'Na2 (Al Cl4)2 (S O2)3'
+_chemical_formula_sum 'Al2 Cl8 Na2 O6 S3'
+_exptl_crystal_density_diffrn 1.89
+_publ_section_title 'Die Kristallstruktur von NaAlCl4 * 1.5SO2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1982
+492 7 14 ZAACAB
+loop_
+_publ_author_name
+'Peters, K.'
+'Simon, A.'
+'Peters, E.M.'
+'Kuehnl, H.'
+'Koslowski, B.'
+_cell_length_a 31.598(33)
+_cell_length_b 10.046(11)
+_cell_length_c 6.370(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.39(9)
+_cell_angle_gamma 90.
+_cell_volume 2018.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.059
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Cl1- -1
+S4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.0590(1) 0.1599(4) 0.2038(5) . 1. 0
+Na2 Na1+ 4 e 0.2020(1) 0.4886(4) 0.8803(5) . 1. 0
+Al1 Al3+ 4 e 0.19722(7) 0.2125(3) 0.3956(4) . 1. 0
+Al2 Al3+ 4 e 0.03599(8) 0.7713(3) 0.3508(4) . 1. 0
+Cl1 Cl1- 4 e 0.24434(7) 0.3312(3) 0.5556(3) . 1. 0
+Cl2 Cl1- 4 e 0.13575(7) 0.2700(3) 0.4720(4) . 1. 0
+Cl3 Cl1- 4 e 0.20458(7) 0.2251(3) 0.0653(3) . 1. 0
+Cl4 Cl1- 4 e 0.01874(7) 0.3053(3) 0.5112(4) . 1. 0
+Cl5 Cl1- 4 e 0.20866(8) 0.0099(3) 0.4889(4) . 1. 0
+Cl6 Cl1- 4 e 0.05856(9) 0.9472(3) 0.5048(4) . 1. 0
+Cl7 Cl1- 4 e 0.02250(9) 0.8185(4) 0.0298(4) . 1. 0
+Cl8 Cl1- 4 e 0.08367(8) 0.6230(3) 0.3779(4) . 1. 0
+S1 S4+ 4 e 0.18516(8) 0.6765(3) 0.3793(4) . 1. 0
+S2 S4+ 4 e 0.08306(9) 0.4710(3) 0.9081(4) . 1. 0
+S3 S4+ 4 e 0.13337(9) 0.9630(4) 0.9019(4) . 1. 0
+O1 O2- 4 e 0.1890(2) 0.6337(7) 0.5895(9) . 1. 0
+O2 O2- 4 e 0.1919(2) 0.5819(7) 0.2224(9) . 1. 0
+O3 O2- 4 e 0.1264(2) 0.4902(8) 0.885(1) . 1. 0
+O4 O2- 4 e 0.0710(2) 0.3596(9) 0.012(1) . 1. 0
+O5 O2- 4 e 0.1076(2) 0.0484(9) 0.010(1) . 1. 0
+O6 O2- 4 e 0.1409(3) 0.831(1) 0.978(2) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+Na1 Na1+ 6.2(2) 7.9(3) 6.9(2) 0.8(2) 0.5(2) 0.2(2)
+Na2 Na1+ 6.4(2) 8.7(3) 6.0(2) 1.2(2) 0.3(2) -.1(1)
+Al1 Al3+ 4.1(1) 4.4(1) 4.6(1) 0.14(9) 0.03(8) 0.2(1)
+Al2 Al3+ 4.2(1) 5.1(1) 5.8(1) -.2(1) -.03(9) 0.2(1)
+Cl1 Cl1- 5.1(1) 6.4(1) 5.9(1) -.9(1) -.46(8) -.6(1)
+Cl2 Cl1- 4.7(1) 6.8(2) 7.3(1) 1.0(1) 0.52(9) -1.1(1)
+Cl3 Cl1- 5.7(1) 6.2(1) 4.9(9) -.3(1) 0.04(8) 0.1(1)
+Cl4 Cl1- 5.4(1) 6.1(1) 7.7(1) -1.1(1) 1.7(1) -.6(1)
+Cl5 Cl1- 5.9(1) 4.9(1) 7.8(1) 0.4(1) 0.6(1) 1.0(1)
+Cl6 Cl1- 8.4(2) 5.7(2) 7.9(1) -1.9(1) -.1(1) 0.0(1)
+Cl7 Cl1- 6.7(1) 13.7(3) 6.8(1) -2.9(2) -1.4(1) 3.2(2)
+Cl8 Cl1- 5.3(1) 7.0(2) 10.0(2) 1.2(1) 0.8(1) 0.7(1)
+S1 S4+ 6.9(1) 5.4(2) 6.7(1) -.5(1) 0.1(1) -.2(1)
+S2 S4+ 6.1(1) 7.7(2) 7.3(2) -.8(1) -.6(1) 0.5(1)
+S3 S4+ 6.5(2) 9.5(2) 7.3(2) -1. 1.3(1) -.8(2)
+O1 O2- 5.9(3) 8.0(5) 6.0(3) -.8(3) 0.1(3) -.2(3)
+O2 O2- 5.6(3) 7.5(4) 6.2(3) 0.3(3) 0.2(3) -1.2(3)
+O3 O2- 6.4(4) 9.7(5) 8.3(4) -1.4(4) 0.3(3) -1.4(4)
+O4 O2- 11.7(6) 10.1(6) 7.4(4) -4.9(5) -.5(4) 1.0(4)
+O5 O2- 7.0(4) 10.0(6) 10.2(5) -1.7(4) 1.6(4) -4.2(4)
+O6 O2- 11.0(7) 11.5(8) 17.2(9) 1.3(6) -1.6(6) 3.3(7)
+#End of TTdata_35265-ICSD

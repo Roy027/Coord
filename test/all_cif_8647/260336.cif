@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260336-ICSD
+_database_code_ICSD 260336
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Potassium sodium niobate(V) (0.05/0.95/1)'
+_chemical_formula_structural 'K0.05 Na0.95 Nb1 O3'
+_chemical_formula_sum 'K0.05 Na0.95 Nb1 O3'
+_chemical_name_structure_type NaNbO3
+_exptl_crystal_density_diffrn 4.51
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Structures of K0.05 Na0.95 Nb O3 (50-300 K) and K0.30 Na0.70 Nb O3 (100-200 K)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2009 65 291 299
+ASBSDK
+loop_
+_publ_author_name
+'Zhang, N.'
+'Glazer, A.M.'
+'Baker, D.'
+'Thomas, P.A.'
+_cell_length_a 5.60123(12)
+_cell_length_b 7.79834(15)
+_cell_length_c 5.54800(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90.051(4)
+_cell_angle_gamma 90
+_cell_volume 242.34
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 m 1'
+_symmetry_Int_Tables_number 6
+_refine_ls_R_factor_all 0.0791
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+K1+ 1
+Na1+ 1
+K1+ 1
+Na1+ 1
+K1+ 1
+Na1+ 1
+K1+ 1
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 1 a 0.538(2) 0 0.0048(15) . 0.95 0
+K1 K1+ 1 a 0.538(2) 0 0.0048(15) . 0.05 0
+Na2 Na1+ 1 a 0.038(2) 0 0.4952(15) . 0.95 0
+K2 K1+ 1 a 0.038(2) 0 0.4952(15) . 0.05 0
+Na3 Na1+ 1 b 0.538(2) 0.5 0.0048(15) . 0.95 0
+K3 K1+ 1 b 0.538(2) 0.5 0.0048(15) . 0.05 0
+Na4 Na1+ 1 b 0.038(2) 0.5 0.4952(15) . 0.95 0
+K4 K1+ 1 b 0.038(2) 0.5 0.4952(15) . 0.05 0
+Nb1 Nb5+ 2 c 0.0322(8) 0.25 0.004(4) . 1 0
+Nb2 Nb5+ 2 c 0.5322(8) 0.25 0.504(4) . 1 0
+O1 O2- 1 a -0.0033(15) 0 0.0561(8) . 1 0
+O2 O2- 1 a 0.5033(15) 0 0.4439(8) . 1 0
+O3 O2- 1 b 0.0033(15) 0.5 -0.0561(8) . 1 0
+O4 O2- 1 b 0.4967(15) 0.5 0.5561(8) . 1 0
+O5 O2- 2 c 0.2839(9) 0.2835(9) 0.2174(9) . 1 0
+O6 O2- 2 c 0.2174(9) 0.2311(9) 0.7161(9) . 1 0
+O7 O2- 2 c 0.7826(9) 0.2690(9) 0.2839(9) . 1 0
+O8 O2- 2 c 0.7161(9) 0.2165(9) 0.7826(9) . 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+K1 K1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+Na2 Na1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+K2 K1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+Na3 Na1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+K3 K1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+Na4 Na1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+K4 K1+ 0.017(3) 0.0173(18) 0.028(3) 0 -0.020(6) 0
+Nb1 Nb5+ 0.0026(13) 0.0067(10) 0.0048(10) 0.0002(16) -0.002(4) -0.011(3)
+Nb2 Nb5+ 0.0026(13) 0.0067(10) 0.0048(10) 0.0002(16) -0.002(4) -0.011(3)
+O1 O2- 0.021(2) 0.0027(12) 0.019(2) 0 -0.023(3) 0
+O2 O2- 0.021(2) 0.0027(12) 0.019(2) 0 -0.023(3) 0
+O3 O2- 0.021(2) 0.0027(12) 0.019(2) 0 -0.023(3) 0
+O4 O2- 0.021(2) 0.0027(12) 0.019(2) 0 -0.023(3) 0
+O5 O2- 0.0074(9) 0.0148(13) 0.0076(8) -0.0036(9) -0.010(2) 0.007(2)
+O6 O2- 0.0074(9) 0.0148(13) 0.0076(8) -0.0036(9) -0.010(2) 0.007(2)
+O7 O2- 0.0074(9) 0.0148(13) 0.0076(8) -0.0036(9) -0.010(2) 0.007(2)
+O8 O2- 0.0074(9) 0.0148(13) 0.0076(8) -0.0036(9) -0.010(2) 0.007(2)
+#End of TTdata_260336-ICSD

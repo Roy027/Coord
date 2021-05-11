@@ -1,0 +1,98 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156473-ICSD
+_database_code_ICSD 156473
+_audit_creation_date 2007-08-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic
+'Sodium gadolinium ytterbium tungstate (0.93/0.89/0.17/2)'
+_chemical_formula_structural '(Na0.58 Gd0.41) (Na0.35 Gd0.48 Yb0.17) (W O4)2'
+_chemical_formula_sum 'Gd0.89 Na0.93 O8 W2 Yb0.17'
+_chemical_name_structure_type AgBi(CrO4)2
+_exptl_crystal_density_diffrn 7.3
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Structural, spectroscopic and tunable laser properties of Yb(3+)-doped Na Gd
+(W O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2006 74
+174114-1 174114-15 PRBMDO
+loop_
+_publ_author_name
+'Cascales, C.'
+'Serrano, M.D.'
+'Esteban-Betegon, F.'
+'Zaldo, C.'
+'Peters, R.'
+'Petermann, K.'
+'Huber, G.'
+'Ackermann, L.'
+'Rytz, D.'
+'Dupre, C.'
+'Rico, M.'
+'Liu, J.'
+'Griebner, U.'
+'Petrov, V.'
+_cell_length_a 5.2406(6)
+_cell_length_b 5.2406(6)
+_cell_length_c 11.3670(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 312.18
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I -4'
+_symmetry_Int_Tables_number 82
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Gd3+ 3
+Na1+ 1
+Gd3+ 3
+Yb3+ 3
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0.5 0 0.25 0.0011(6) 0.58(5) 0
+Gd1 Gd3+ 2 d 0.5 0 0.25 0.0011(6) 0.41(7) 0
+Na2 Na1+ 2 b 0.5 0.5 0 0.0012(5) 0.35(3) 0
+Gd2 Gd3+ 2 b 0.5 0.5 0 0.0012(5) 0.48(6) 0
+Yb1 Yb3+ 2 b 0.5 0.5 0 0.0012(5) 0.17(7) 0
+W1 W6+ 2 a 0 0 0 0.0012(3) 1. 0
+W2 W6+ 2 c 0 0.5 0.25 0.0012(3) 1. 0
+O1 O2- 8 g 0.240(4) 0.153(3) 0.0850(30) 0.0017(7) 1. 0
+O2 O2- 8 g 0.244(4) 0.653(4) 0.166(3) 0.0019(7) 1. 0
+#End of TTdata_156473-ICSD

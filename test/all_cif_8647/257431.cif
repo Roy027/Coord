@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257431-ICSD
+_database_code_ICSD 257431
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Sodium magnesium titantium sulfide oxide'
+_chemical_formula_structural 'Na0.86 Mg0.71 Ti0.433 Si2 O6'
+_chemical_formula_sum 'Mg0.71 Na0.86 O6 Si2 Ti0.433'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Pyroxene
+_exptl_crystal_density_diffrn 3.24
+_publ_section_title
+
+;
+X-ray single-crystal and Raman study of (Na0.86Mg0.14)(Mg0.57Ti0.43)Si2O6, a
+new pyroxene synthesized at 7 GPa and 1700C
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2016 43 731 738 PCMIDU
+loop_
+_publ_author_name
+'Sirotkina, Ekaterina A.'
+'Bobrov, Andrey V.'
+'Spivak, Anna V.'
+'Bindi, Luca'
+'Pushcharovsky, Dmitry Yu.'
+_cell_length_a 9.687(2)
+_cell_length_b 8.814(1)
+_cell_length_c 5.290(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.853(2)
+_cell_angle_gamma 90.
+_cell_volume 429.92
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0212
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Mg2+ 2
+Ti4+ 4
+Na1+ 1
+Mg2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 f 0.29137 0.08939 0.24183 0.0076(2) 1. 0
+Mg1 Mg2+ 4 e 0 0.90048 0.25 0.0087(3) 0.57 0
+Ti1 Ti4+ 4 e 0 0.90048 0.25 0.0087(3) 0.43 0
+Na1 Na1+ 4 e 0 0.29366 0.25 0.0226(5) 0.86 0
+Mg2 Mg2+ 4 e 0 0.29366 0.25 0.0226(5) 0.14 0
+O1 O2- 8 f 0.11581 0.07996 0.14043 0.0125(5) 1. 0
+O2 O2- 8 f 0.36046 0.25452 0.30714 0.0157(6) 1. 0
+O3 O2- 8 f 0.35251 0.00722 0.01968 0.0123(5) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0071(4) 0.0083(8) 0.0070(4) -0.0001(5) 0.0018(3) 0.0000(2)
+Mg1 Mg2+ 0.0082(6) 0.0085(8) 0.0085(4) 0. 0.0014(4) 0.
+Ti1 Ti4+ 0.0082(6) 0.0085(8) 0.0085(4) 0. 0.0014(4) 0.
+Na1 Na1+ 0.0230(5) 0.0235(3) 0.0163(1) 0. -0.0012(7) 0.
+Mg2 Mg2+ 0.0230(5) 0.0235(3) 0.0163(1) 0. -0.0012(7) 0.
+O1 O2- 0.0086(9) 0.0168(1) 0.0110(9) -0.0010(1) 0.0016(6) -0.0021(4)
+O2 O2- 0.0190(2) 0.0100(5) 0.0188(6) -0.0034(2) 0.0064(9) -0.0023(7)
+O3 O2- 0.0089(8) 0.0170(1) 0.0109(1) -0.0001(8) 0.0027(4) -0.0039(9)
+#End of TTdata_257431-ICSD

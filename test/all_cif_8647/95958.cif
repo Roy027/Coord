@@ -1,0 +1,87 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95958-ICSD
+_database_code_ICSD 95958
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Disodium zincodiphosphate(V)'
+_chemical_formula_structural 'Na2 (Zn P2 O7)'
+_chemical_formula_sum 'Na2 O7 P2 Zn1'
+_chemical_name_structure_type Na2CoP2O7
+_exptl_crystal_density_diffrn 3.12
+_publ_section_title
+
+;
+Crystal structures of Na2 Zn P2 O7, K2 Zn P2 O7 and Li K Zn P2 O7 phases in
+the (M2 O) - (Zn O) - (P2 O5) glass-forming system (M = Li, Na and K)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Glass Physics and Chemistry' 2002 28 317 321 GPHCEE
+loop_
+_publ_author_name
+'Shepelev, Yu.F.'
+'Petrova, M.A.'
+'Novikova, A.S.'
+'Lapshin, A.E.'
+_cell_length_a 7.687(5)
+_cell_length_b 7.687(5)
+_cell_length_c 10.275(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 607.15
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.081
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0.8002(6) 0.1998(6) 0.5 2.4(1) 1. 0
+Na2 Na1+ 4 g 0.8524(7) 0.1476(7) 0 2.7(1) 1. 0
+Zn1 Zn2+ 4 d 0.5 0 0.25 3.1(1) 1. 0
+P1 P5+ 8 j 0.1371(3) 0.1371(3) 0.2857(3) 2.17(6) 1. 0
+O1 O2- 4 e 0 0 0.3444(18) 5.6(5) 1. 0
+O2 O2- 8 j 0.1379(7) 0.1379(7) 0.1418(9) 2.3(2) 1. 0
+O3 O2- 16 k 0.3028(11) 0.0829(11) 0.3515(7) 2.7(1) 1. 0
+#End of TTdata_95958-ICSD

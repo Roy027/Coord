@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_433292-ICSD
+_database_code_ICSD 433292
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Disodium tellurate(VI) - gamma'
+_chemical_formula_structural 'Na2 (Te O4)'
+_chemical_formula_sum 'Na2 O4 Te1'
+_exptl_crystal_density_diffrn 4.09
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+The hydrous sodium oxotellurates(VI) Na[TeO(OH)5], Na2[TeO2(OH)4],
+Na4[Te2O6(OH)4](H2O)6, and a third polymorph of anhydrous Na2[TeO4]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2017 643 1888 1897
+ZAACAB
+loop_
+_publ_author_name
+'Weil, Matthias'
+'Stoeger, Berthold'
+'Larvor, Carla'
+'Raih, Ilyes'
+'Gierl-Mayer, Christian'
+_cell_length_a 13.5390(7)
+_cell_length_b 8.4169(4)
+_cell_length_c 6.7781(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 772.4
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P n n a'
+_symmetry_Int_Tables_number 52
+_refine_ls_R_factor_all 0.0342
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x, y+1/2, z+1/2'
+3 'x+1/2, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z+1/2'
+7 '-x+1/2, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Te6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 d 0.3716(2) 0.25 0.75 0.0072(6) 1 0
+Na2 Na1+ 8 e 0.1179(2) 0.1245(4) 0.5313(4) 0.0182(6) 1 0
+Na3 Na1+ 4 a 0. 0. 0. 0.0179(8) 1 0
+Te1 Te6+ 4 c 0.25 0. 0.01265(8) 0.00687(13) 1 0
+Te2 Te6+ 4 d 0.37041(4) 0.25 0.25 0.00816(14) 1 0
+O1 O2- 8 e 0.3512(3) 0.0179(5) 0.2302(7) 0.0105(9) 1 0
+O2 O2- 8 e 0.4594(3) 0.2759(5) 0.0446(7) 0.0109(9) 1 0
+O3 O2- 8 e 0.2389(3) -0.2300(5) 0.0497(6) 0.0098(9) 1 0
+O4 O2- 8 e 0.1485(3) 0.0215(6) -0.1664(7) 0.0143(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0111(15) 0.0057(15) 0.0049(15) 0. 0. 0.0017(14)
+Na2 Na1+ 0.0157(13) 0.0247(15) 0.0141(13) 0.0016(12) 0.0010(11) 0.0033(12)
+Na3 Na1+ 0.0091(16) 0.0190(19) 0.026(2) 0.0018(18) 0.0000(16) 0.0054(19)
+Te1 Te6+ 0.0082(2) 0.0078(2) 0.0045(2) -0.0005(2) 0. 0.
+Te2 Te6+ 0.0101(3) 0.0091(3) 0.0053(2) 0. 0. -0.0008(2)
+O1 O2- 0.011(2) 0.012(2) 0.009(2) 0.0007(17) -0.0029(18) 0.002(2)
+O2 O2- 0.012(2) 0.010(2) 0.011(2) -0.0010(18) 0.0042(17) 0.0003(18)
+O3 O2- 0.011(2) 0.007(2) 0.011(2) -0.0044(18) 0.0033(17) -0.0003(16)
+O4 O2- 0.011(2) 0.021(3) 0.011(2) 0.000(2) -0.0032(18) 0.005(2)
+#End of TTdata_433292-ICSD

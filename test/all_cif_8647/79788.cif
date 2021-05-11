@@ -1,0 +1,111 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79788-ICSD
+_database_code_ICSD 79788
+_audit_creation_date 1996-10-14
+_chemical_name_systematic 'Trisodium yttrium tecto-15-oxohexasilicate'
+_chemical_formula_structural 'Na3 Y (Si6 O15)'
+_chemical_formula_sum 'Na3 O15 Si6 Y1'
+_exptl_crystal_density_diffrn 2.81
+_publ_section_title
+
+;
+Structure of Na3 Y Si6 O15 - a unique silicate based on discrete Si6 O15
+units, and a possible fast-ion conductor
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1995 51 673 680
+ASBSDK
+loop_
+_publ_author_name
+'Haile, S.M.'
+'Maier, J.'
+'Wuensch, B.J.'
+'Laudise, R.A.'
+_cell_length_a 10.468(2)
+_cell_length_b 15.2467(13)
+_cell_length_c 8.3855(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1338.35
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b m m'
+_symmetry_Int_Tables_number 74
+_refine_ls_R_factor_all 0.082
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, z+1/2'
+2 'x, -y, -z+1/2'
+3 'x, -y, z'
+4 '-x, -y, -z'
+5 'x, y, -z+1/2'
+6 '-x, y, z+1/2'
+7 '-x, y, -z'
+8 'x, y, z'
+9 '-x+1/2, -y+1/2, z'
+10 'x+1/2, -y+1/2, -z'
+11 'x+1/2, -y+1/2, z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'x+1/2, y+1/2, -z'
+14 '-x+1/2, y+1/2, z'
+15 '-x+1/2, y+1/2, -z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 c 0.25 0.25 0.25 . 1. 0
+Si1 Si4+ 8 i 0.96647(8) 0.40244(6) 0.25 . 1. 0
+Si2 Si4+ 16 j 0.71562(6) 0.40016(5) 0.42866(8) . 1. 0
+Na1 Na1+ 8 f 0.5 0.24005(9) 0 . 1. 0
+Na2 Na1+ 8 i 0.4227(4) 0.4606(3) 0.25 . 0.5 0
+O1 O2- 8 i 0.3481(2) 0.38768(18) 0.75 . 1. 0
+O2 O2- 8 i 0.4338(2) 0.17522(16) 0.25 . 1. 0
+O3 O2- 16 j 0.62972(15) 0.10678(12) 0.0952(2) . 1. 0
+O4 O2- 8 h 0.3210(2) 0.5 -.0135(3) . 1. 0
+O5 O2- 16 j 0.16320(17) 0.16573(13) 0.05732 . 1. 0
+O6 O2- 4 e 0.4715(3) 0 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y1 Y3+ 0.01147(18) 0.01068(17) 0.01068(19) 0.01126(19) 0 0
+Si1 Si4+ 0.0118(4) 0.0119(4) 0.0134(4) 0.0010(3) 0 0
+Si2 Si4+ 0.0125(3) 0.0129(3) 0.0122(3) 0.0002(2) 0.0004(2) 0.0015(2)
+Na1 Na1+ 0.0215(7) 0.0185(9) 0.0216(8) 0 0.0062(6) 0
+Na2 Na1+ 0.0357(20) 0.0520(25) 0.0246(19) 0.0017(18) 0 0
+O1 O2- 0.0130(11) 0.0228(14) 0.0146(12) -.0002(10) 0 0
+O2 O2- 0.0137(11) 0.0141(11) 0.0162(12) 0.0023(9) 0 0
+O3 O2- 0.0127(7) 0.0196(8) 0.0145(8) 0.0010(7) 0.0009(5) 0.0008(7)
+O4 O2- 0.0182(13) 0.0146(12) 0.0198(13) 0 -.004(1) 0
+O5 O2- 0.0170(8) 0.0215(9) 0.0176(9) 0.0028(7) -.0015(7) -.0077(7)
+O6 O2- 0.0154(16) 0.0112(15) 0.0213(19) 0 0 0
+#End of TTdata_79788-ICSD

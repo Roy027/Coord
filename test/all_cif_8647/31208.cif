@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_31208-ICSD
+_database_code_ICSD 31208
+_audit_creation_date 1983-12-31
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Sodium vanadium oxide (.8/6/15)'
+_chemical_formula_structural 'Na0.76 V6 O15'
+_chemical_formula_sum 'Na0.76 O15 V6'
+_chemical_name_structure_type NaxV2O5
+_chemical_name_mineral Bannermanite
+_exptl_crystal_density_diffrn 3.53
+_publ_section_title
+
+;
+Bannermanite, a new sodium-potassium vanadate isostructural with beta Nax V6
+O15
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1983 68 634 641 AMMIAY
+loop_
+_publ_author_name
+'Hughes, J.M.'
+'Finger, L.W.'
+_cell_length_a 15.413(7)
+_cell_length_b 3.615(2)
+_cell_length_c 10.066(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.29(8)
+_cell_angle_gamma 90.
+_cell_volume 529.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.094
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+V4+ 4.873
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.002(1) 0 0.411(2) . 0.38 0
+V1 V4+ 4 i 0.3370(2) 0 0.1030(3) . 1. 0
+V2 V4+ 4 i 0.1163(2) 0 0.1176(2) . 1. 0
+V3 V4+ 4 i 0.2873(2) 0 0.4100(2) . 1. 0
+O1 O2- 2 a 0 0 0 . 1. 0
+O2 O2- 4 i 0.8171(7) 0 0.058(1) . 1. 0
+O3 O2- 4 i 0.6342(7) 0 0.078(1) . 1. 0
+O4 O2- 4 i 0.4354(8) 0 0.218(1) . 1. 0
+O5 O2- 4 i 0.2618(7) 0 0.221(1) . 1. 0
+O6 O2- 4 i 0.1070(7) 0 0.272(1) . 1. 0
+O7 O2- 4 i 0.7554(8) 0 0.426(1) . 1. 0
+O8 O2- 4 i 0.3952(8) 0 0.469(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ 0.0017(9) 0.04(2) 0.006(2) 0 0.001(1) 0
+V1 V4+ 0.0011(1) 0.009(2) 0.0029(2) 0 0.0012(1) 0
+V2 V4+ 0.0008(1) 0.007(2) 0.0020(2) 0 0.0008(1) 0
+V3 V4+ 0.0013(1) 0.014(2) 0.0024(3) 0 0.0010(1) 0
+O1 O2- 0.0020(7) 0.007(11) 0.004(2) 0 0.0006(8) 0
+O2 O2- 0.0017(5) 0.004(7) 0.003(1) 0 0.0017(6) 0
+O3 O2- 0.0014(5) 0.012(8) 0.004(1) 0 0.0022(6) 0
+O4 O2- 0.0021(5) 0.03(1) 0.003(1) 0 0.0006(6) 0
+O5 O2- 0.0017(5) 0.04(1) 0.002(1) 0 0.0012(6) 0
+O6 O2- 0.0014(5) 0.020(9) 0.005(1) 0 0.0019(6) 0
+O7 O2- 0.0037(6) 0.002(7) 0.003(1) 0 0.0027(7) 0
+O8 O2- 0.0020(6) 0.06(1) 0.004(1) 0 0.0012(7) 0
+#End of TTdata_31208-ICSD

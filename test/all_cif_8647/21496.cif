@@ -1,0 +1,115 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_21496-ICSD
+_database_code_ICSD 21496
+_audit_creation_date 2019-08-01
+_chemical_name_systematic 'Sodium-1.6 potassium-0.4 calcium dicarbonate'
+_chemical_formula_structural '(Na1.64 K0.36) Ca (C O3)2'
+_chemical_formula_sum 'C2 Ca1 K0.36 Na1.64 O6'
+_chemical_name_mineral Nyerereite
+_exptl_crystal_density_diffrn 2.48
+_cell_measurement_temperature 293.
+_publ_section_title
+'Incommensurately modulated twin structure of nyerereite Na1.64K0.36Ca(CO3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Science, Crystal Engineering and
+Materials
+; 2017 73 276 284 ACSBDA
+loop_
+_publ_author_name
+'Bolotina, Nadezhda B.'
+'Gavryushkin, Pavel N.'
+'Korsakov, Andrey V.'
+'Rashchenko, Sergey V.'
+'Seryotkin, Yurii V.'
+'Golovin, Alexander V.'
+'Moine, Bertrand N.'
+'Zaitsev, Anatoly N.'
+'Litasov, Konstantin D.'
+_cell_length_a 5.0620(4)
+_cell_length_b 8.7900(7)
+_cell_length_c 12.7440(13)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 567.04
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C m c m'
+_symmetry_Int_Tables_number 63
+_refine_ls_R_factor_all 0.0699
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+K1+ 1
+C4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 8 f 0 0.48023(6) 0.22334(5) 0.03083(19) 0.5 0
+Na1 Na1+ 8 f 0 0.82098(10) 0.09973(6) 0.0481(3) 0.82 0
+K1 K1+ 8 f 0 0.82098(10) 0.09973(6) 0.0481(3) 0.18 0
+C1 C4+ 8 f 0 0.1467(4) 0.2274(2) 0.0260(5) 0.5 0
+C2 C4+ 4 b 0 0.5 0 0.0260(5) 1 0
+O1 O2- 4 c 0 0.00194(19) 0.25 0.0419(8) 1 0
+O2 O2- 8 g 0.2196(2) 0.22057(15) 0.25 0.0431(6) 1 0
+O3 O2- 8 f 0 0.5440(4) -0.10157(15) 0.0927(14) 0.5 0
+O4 O2- 16 h 0.1683(8) 0.5574(4) 0.0498(3) 0.0587(18) 0.25 0
+O5 O2- 16 h 0.1150(6) 0.3993(4) 0.0282(3) 0.064(2) 0.25 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0190(3) 0.0201(3) 0.0533(4) 0 0 0.0048(3)
+Na1 Na1+ 0.0470(5) 0.0474(5) 0.0500(5) 0 0 -0.0001(4)
+K1 K1+ 0.0470(5) 0.0474(5) 0.0500(5) 0 0 -0.0001(4)
+O1 O2- 0.0213(11) 0.0136(11) 0.091(2) 0 0 0
+O2 O2- 0.0179(8) 0.0270(8) 0.0843(13) -0.0051(6) 0 0
+O3 O2- 0.070(2) 0.124(3) 0.085(2) 0 0 0.039(2)
+O4 O2- 0.072(3) 0.074(3) 0.030(3) 0.015(2) -0.017(2) -0.029(3)
+O5 O2- 0.034(5) 0.044(4) 0.115(4) -0.011(3) 0.010(3) 0.004(3)
+#End of TTdata_21496-ICSD

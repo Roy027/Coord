@@ -1,0 +1,121 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251518-ICSD
+_database_code_ICSD 251518
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Disodium octakis(formato)-tricuprate(II)'
+_chemical_formula_structural 'Na2 (Cu3 (H C O O)8)'
+_chemical_formula_sum 'C8 H8 Cu3 Na2 O16'
+_exptl_crystal_density_diffrn 2.31
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Alkali metal ion templated transition metal formate framework materials:
+synthesis, crystal structures, ion migration, and magnetism
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 10178 10188 INOCAJ
+loop_
+_publ_author_name
+'Eikeland, Espen'
+'Lock, Nina'
+'Filsoe, Mette'
+'Stingaciu, Marian'
+'Shen, Yanbin'
+'Overgaard, Jacob'
+'Iversen, Bo Brummerstedt'
+_cell_length_a 7.6222(3)
+_cell_length_b 7.7185(3)
+_cell_length_c 8.7417(3)
+_cell_angle_alpha 113.083(4)
+_cell_angle_beta 108.255(3)
+_cell_angle_gamma 97.964(3)
+_cell_volume 428.72
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0248
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+C2+ 2
+O2- -2
+C2+ 2
+H1+ 1
+O2- -2
+C2+ 2
+H1+ 1
+C2+ 2
+H1+ 1
+O2- -2
+Na1+ 1
+Cu2+ 2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+C1 C2+ 2 i 0.7630(5) 0.3341(5) 0.1722(5) 0.0149(7) 1 0
+O1 O2- 2 i 1.2871(3) 0.5124(3) 0.8166(3) 0.0161(5) 1 0
+C2 C2+ 2 i 0.6424(5) -0.1688(5) 0.6823(4) 0.0153(7) 1 0
+H1 H1+ 2 i 0.6937 -0.2352 0.749 0.018 1 0
+O2 O2- 2 i 0.5149(4) -0.0946(4) 0.7159(3) 0.0193(6) 1 0
+O3 O2- 2 i 0.9160(4) 0.3392(4) 0.2813(4) 0.0239(6) 1 0
+O4 O2- 2 i 0.7101(3) -0.1645(3) 0.5687(3) 0.0153(5) 1 0
+O5 O2- 2 i 0.8310(3) -0.0659(3) 0.3120(3) 0.0123(5) 1 0
+C3 C2+ 2 i 0.2557(5) -0.3303(5) 0.2583(5) 0.0141(7) 1 0
+H2 H1+ 2 i 0.1637 -0.4549 0.1705 0.017 1 0
+C4 C2+ 2 i 0.8126(5) -0.1336(5) 0.1502(4) 0.0127(7) 1 0
+H3 H1+ 2 i 0.908 -0.0654 0.1283 0.015 1 0
+O6 O2- 2 i 0.4086(3) -0.2885(3) 0.2386(3) 0.0156(5) 1 0
+O7 O2- 2 i 0.7886(3) 0.2239(3) 0.6171(3) 0.0163(5) 1 0
+O8 O2- 2 i 0.6834(3) -0.2804(3) 0.0136(3) 0.0146(5) 1 0
+Na1 Na1+ 2 i 1.04445(18) 0.27587(19) 0.52310(17) 0.0139(3) 1 0
+Cu1 Cu2+ 1 e 1.5 0.5 1. 0.01075(17) 1 0
+Cu2 Cu2+ 2 i 0.61504(5) -0.03841(5) 0.41533(5) 0.01046(15) 1 0
+H4 H1+ 2 i 0.677(4) 0.210(2) 0.076(3) 0.015(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 C2+ 0.0161(19) 0.0134(17) 0.0120(17) 0.0025(14) 0.0035(16) 0.0053(15)
+O1 O2- 0.0155(13) 0.0114(12) 0.0119(12) 0.0029(10) -0.0025(11) 0.0029(10)
+C2 C2+ 0.0174(19) 0.0166(17) 0.0111(17) 0.0050(14) 0.0042(15) 0.0069(15)
+O2 O2- 0.0242(14) 0.0246(14) 0.0203(13) 0.0131(11) 0.0139(12) 0.0152(12)
+O3 O2- 0.0201(15) 0.0235(14) 0.0250(15) 0.0057(11) 0.0022(13) 0.0139(12)
+O4 O2- 0.0151(13) 0.0204(13) 0.0135(12) 0.0085(10) 0.0062(11) 0.0093(11)
+O5 O2- 0.0120(12) 0.0120(11) 0.0094(11) 0.0033(9) 0.0051(10) 0.0010(10)
+C3 C2+ 0.0108(17) 0.0122(16) 0.0115(17) -0.0001(13) 0.0021(15) 0.0012(14)
+C4 C2+ 0.0128(17) 0.0109(16) 0.0136(17) 0.0027(13) 0.0065(15) 0.0044(14)
+O6 O2- 0.0145(13) 0.0142(12) 0.0099(11) 0.0030(10) 0.0043(10) -0.0010(10)
+O7 O2- 0.0131(12) 0.0125(12) 0.0165(13) 0.0014(10) 0.0077(11) -0.0001(10)
+O8 O2- 0.0176(13) 0.0133(12) 0.0085(12) 0.0007(10) 0.0031(11) 0.0037(10)
+Na1 Na1+ 0.0122(7) 0.0138(7) 0.0122(7) 0.0031(5) 0.0044(6) 0.0035(6)
+Cu1 Cu2+ 0.0109(3) 0.0094(3) 0.0073(3) 0.0019(2) 0.0007(2) 0.0021(2)
+Cu2 Cu2+ 0.0099(3) 0.0107(2) 0.0082(2) 0.00266(17) 0.00349(18) 0.00230(18)
+#End of TTdata_251518-ICSD

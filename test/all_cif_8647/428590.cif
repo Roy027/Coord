@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428590-ICSD
+_database_code_ICSD 428590
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Octasodium dieuropium(II) bis(hexathiodisilicate)'
+_chemical_formula_structural 'Na8 Eu2 (Si2 S6)2'
+_chemical_formula_sum 'Eu2 Na8 S12 Si4'
+_chemical_name_structure_type Na8Pb2Ge4S12
+_exptl_crystal_density_diffrn 2.82
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Structural, optical, and magnetic properties of Na8 Eu2 (Si2 S6)2 and Na8 Eu2
+(Ge2 S6)2: Europium(II) quaternary chalcogenides that contain an ethane-like
+(Si2 S6)(6-) or (Ge2 S6)(6-) moiety
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 226 74 80 JSSCBI
+loop_
+_publ_author_name
+'Choudhury, Amitava'
+'Ghosh, Kartik'
+'Grandjean, Fernande'
+'Long, Gary J.'
+'Dorhout, Peter K.'
+_cell_length_a 6.7784(14)
+_cell_length_b 11.680(2)
+_cell_length_c 7.6622(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.271(3)
+_cell_angle_gamma 90.
+_cell_volume 579.27
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0606
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si3+ 3
+Eu2+ 2
+Na1+ 1
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si3+ 4 i 0.4482(4) 0. 0.3417(4) 0.0127(6) 1 0
+Eu1 Eu2+ 4 h 0. 0.16582(8) 0.5 0.0141(3) 0.5 0
+Na1 Na1+ 4 h 0. 0.16582(8) 0.5 0.0141(3) 0.5 0
+S1 S2- 8 j 0.2670(3) 0.15130(17) 0.2524(3) 0.0157(5) 1 0
+S2 S2- 4 i 0.7194(4) 0. 0.2532(4) 0.0156(6) 1 0
+Na2 Na1+ 4 g 0. 0.3237(4) 0. 0.0222(10) 1 0
+Na3 Na1+ 2 a 0. 0. 0. 0.0271(17) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si3+ 0.0104(13) 0.0081(13) 0.0205(17) 0. 0.0060(12) 0.
+Eu1 Eu2+ 0.0148(5) 0.0108(5) 0.0173(5) 0. 0.0057(4) 0.
+Na1 Na1+ 0.0148(5) 0.0108(5) 0.0173(5) 0. 0.0057(4) 0.
+S1 S2- 0.0163(9) 0.0108(9) 0.0201(11) 0.0017(7) 0.0057(8) -0.0002(7)
+S2 S2- 0.0131(13) 0.0149(13) 0.0200(14) 0. 0.0068(11) 0.
+Na2 Na1+ 0.020(2) 0.028(3) 0.021(2) 0. 0.0093(19) 0.
+Na3 Na1+ 0.037(4) 0.009(3) 0.027(4) 0. -0.004(3) 0.
+#End of TTdata_428590-ICSD

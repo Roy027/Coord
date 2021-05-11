@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34688-ICSD
+_database_code_ICSD 34688
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium phyllo-disilicate - beta'
+_chemical_formula_structural 'Na2 (Si2 O5)'
+_chemical_formula_sum 'Na2 O5 Si2'
+_chemical_name_structure_type Na2Si2O5
+_chemical_name_mineral Natrosilite
+_exptl_crystal_density_diffrn 2.57
+_publ_section_title
+'A reconsideration of the crystal structure of beta Na2 Si2 O5'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1968 24 1077 1083 ACBCAR
+loop_
+_publ_author_name
+'Pant, A.K.'
+_cell_length_a 12.329(4)
+_cell_length_b 4.848(4)
+_cell_length_c 8.133(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.24(4)
+_cell_angle_gamma 90.
+_cell_volume 471.18
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/a 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0437
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x+1/2, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.44362(8) 0.75331(19) 0.37932(12) . 1. 0
+Na2 Na1+ 4 e 0.47262(8) 0.22518(19) 0.13722(12) . 1. 0
+Si1 Si4+ 4 e 0.1824(4) 0.18422(10) 0.02770(7) . 1. 0
+Si2 Si4+ 4 e 0.27681(4) 0.2948(1) 0.40291(7) . 1. 0
+O1 O2- 4 e 0.21462(12) -.14126(30) 0.01551(19) . 1. 0
+O2 O2- 4 e 0.26717(13) 0.62025(30) 0.45371(18) . 1. 0
+O3 O2- 4 e 0.18097(12) 0.24614(32) 0.22574(19) . 1. 0
+O4 O2- 4 e 0.40078(12) 0.23205(31) 0.39106(19) . 1. 0
+O5 O2- 4 e 0.06384(13) 0.2450(3) -.09331(19) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0163(5) 0.0118(4) 0.0110(4) -.0008(3) 0.0011(4) 0.0001(3)
+Na2 Na1+ 0.0129(4) 0.0119(4) 0.0151(4) 0.0002(3) 0.0049(4) 0.0009(3)
+Si1 Si4+ 0.0065(2) 0.0046(2) 0.0057(2) 0.0002(2) 0.0011(2) -.0002(2)
+Si2 Si4+ 0.0081(2) 0.0041(2) 0.0048(2) 0.0002(2) 0.0015(2) -.0007(2)
+O1 O2- 0.0108(6) 0.0058(6) 0.0152(7) 0.0021(4) 0.0056(5) -.0008(5)
+O2 O2- 0.0161(7) 0.0060(6) 0.0091(6) -.0004(5) 0.0057(5) -.0024(4)
+O3 O2- 0.0103(7) 0.0137(6) 0.0062(6) -.0001(5) 0.0008(5) -.0021(5)
+O4 O2- 0.0047(4) 0.0057(3) 0.0056(4) 0.0008(5) 0.0021(5) -.0007(5)
+O5 O2- 0.0109(7) 0.0112(6) 0.0077(6) 0.0010(5) 0.0008(10) 0.0009(4)
+#End of TTdata_34688-ICSD

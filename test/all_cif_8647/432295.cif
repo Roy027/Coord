@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432295-ICSD
+_database_code_ICSD 432295
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium-2.4 potassium-0.6 decaoxo-hexaborate nitrate'
+_chemical_formula_structural '(Na2.4 K0.6) (B6 O10) (N O3)'
+_chemical_formula_sum 'B6 K0.6 N1 Na2.4 O13'
+_exptl_crystal_density_diffrn 2.47
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis and characterization of the alkali borate-nitrates Na3-x Kx [B6 O10]
+N O3 (x=0.5, 0.6, 0.7)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Naturforschung, B: A Journal of Chemical Sciences'
+2017 72 215 223 ZNBSEN
+loop_
+_publ_author_name
+'Ortner, Teresa S.'
+'Schildhammer, Daniel'
+'Tribus, Martina'
+'Joachim, Bastian'
+'Huppertz, Hubert'
+_cell_length_a 12.65736(22)
+_cell_length_b 10.06935(18)
+_cell_length_c 7.72059(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 984.
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0428
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+B3+ 3
+N5+ 5
+Na1+ 1
+K1+ 1
+Na1+ 1
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+B1 B3+ 8 d 0.16288(36) 0.12395(47) 0.27567(63) 1 1 0
+B2 B3+ 4 c 0.30980(57) 0.25 0.42843(78) 1 1 0
+B3 B3+ 4 c -0.00301(44) 0.25 0.2268(14) 1 1 0
+B4 B3+ 8 d 0.25378(45) 0.02345(54) 0.53207(69) 1 1 0
+N1 N5+ 4 c 0.05132(43) 0.25 0.70387(73) 1 1 0
+Na1 Na1+ 4 b 0.5 0 0 1 1 0
+Na2 Na1+ 4 a 0 0 0 1 0.8707(93) 0
+K1 K1+ 4 a 0 0 0 1 0.1293(93) 0
+Na3 Na1+ 4 c 0.29157(29) 0.25 0.87147(41) 1 0.5660(94) 0
+K2 K1+ 4 c 0.29157(29) 0.25 0.87147(41) 1 0.4340(94) 0
+O1 O2- 4 c 0.20889(38) 0.25 0.34470(65) 1 1 0
+O2 O2- 8 d 0.17510(32) 0.01494(46) 0.40956(44) 1 1 0
+O3 O2- 8 d 0.05180(27) 0.13404(35) 0.24121(72) 1 1 0
+O4 O2- 8 d 0.22149(33) 0.09681(39) 0.11946(51) 1 1 0
+O5 O2- 8 d 0.32407(32) 0.13075(35) 0.53923(51) 1 1 0
+O6 O2- 4 c -0.02689(42) 0.25 0.60678(77) 1 1 0
+O7 O2- 4 c 0.89238(31) 0.25 0.19358(66) 1 1 0
+O8 O2- 8 d 0.08563(31) 0.14623(33) 0.77154(64) 1 1 0
+#End of TTdata_432295-ICSD

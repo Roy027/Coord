@@ -1,0 +1,120 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_174240-ICSD
+_database_code_ICSD 174240
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Trilithium vanadate octahydrate - beta'
+_chemical_formula_structural 'Li3 V O4 (H2 O)8'
+_chemical_formula_sum 'H16 Li3 O12 V1'
+_exptl_crystal_density_diffrn 1.62
+_publ_section_title
+
+;
+Strukturchemie, elektronische Strukturen und spektroskopische Eigenschaften
+der Alkalimetallthiooxovanadate(V) A3 V S(x) O(4-x)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dissertation Universitaet Freiburg/Breisgau' 2008 2008 1 132 DIFREZ
+loop_
+_publ_author_name
+'Schnabel, S.'
+_cell_length_a 7.3261(1)
+_cell_length_b 6.5371(1)
+_cell_length_c 12.9291(1)
+_cell_angle_alpha 90
+_cell_angle_beta 112.2071(6)
+_cell_angle_gamma 90
+_cell_volume 573.26
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 c 1'
+_symmetry_Int_Tables_number 7
+_refine_ls_R_factor_all 0.0362
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+O2- -2
+Li1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V5+ 2 a 0.08107(2) 0.04836(2) 0.29225(2) 0.00768(4) 1. 0
+O1 O2- 2 a 0.1208(1) 0.1982(1) 0.83873(8) 0.0133(2) 1. 0
+O2 O2- 2 a 0.2984(1) 0.1810(1) 0.34800(7) 0.0126(2) 1. 0
+O3 O2- 2 a 0.9002(1) 0.1547(1) 0.33136(7) 0.0121(2) 1. 0
+O4 O2- 2 a 0.0014(1) 0.0524(1) 0.14869(7) 0.0116(2) 1. 0
+Li1 Li1+ 2 a 0.7454(4) 0.1454(4) 0.0557(2) 0.0158(4) 1. 0
+Li2 Li1+ 2 a 0.6104(4) 0.6517(4) 0.3548(2) 0.0156(4) 1. 0
+Li3 Li1+ 2 a 0.2607(4) 0.5498(3) 0.1110(2) 0.0151(4) 1. 0
+O5 O2- 2 a 0.5799(2) 0.0751(1) 0.13633(9) 0.0155(2) 1. 0
+O6 O2- 2 a 0.6352(1) 0.0508(1) 0.89751(8) 0.0132(2) 1. 0
+O7 O2- 2 a 0.7132(2) 0.4358(1) 0.01562(8) 0.0147(2) 1. 0
+O8 O2- 2 a 0.7934(2) 0.5653(2) 0.2930(1) 0.0183(3) 1. 0
+O9 O2- 2 a 0.3430(2) 0.5530(2) 0.2745(1) 0.0123(2) 1. 0
+O10 O2- 2 a 0.4457(2) 0.3180(2) 0.55714(8) 0.0148(2) 1. 0
+O11 O2- 2 a 0.0154(1) 0.2981(1) 0.54567(8) 0.0134(2) 1. 0
+O12 O2- 2 a 0.2234(2) 0.2673(1) 0.06226(9) 0.0140(2) 1. 0
+H1 H1+ 2 a 0.662(3) 0.098(3) 0.206(2) 0.0330(10) 1. 0
+H2 H1+ 2 a 0.484(4) 0.129(3) 0.119(2) 0.0330(10) 1. 0
+H3 H1+ 2 a 0.546(4) 0.006(3) 0.383(2) 0.0330(10) 1. 0
+H4 H1+ 2 a 0.713(4) 0.012(3) 0.386(2) 0.0330(10) 1. 0
+H5 H1+ 2 a 0.811(4) 0.508(3) 0.026(2) 0.0330(10) 1. 0
+H6 H1+ 2 a 0.635(3) 0.494(4) 0.036(2) 0.0330(10) 1. 0
+H7 H1+ 2 a 0.829(4) 0.440(4) 0.292(2) 0.0330(10) 1. 0
+H8 H1+ 2 a 0.892(4) 0.617(4) 0.298(2) 0.0330(10) 1. 0
+H9 H1+ 2 a 0.327(4) 0.436(4) 0.294(2) 0.0330(10) 1. 0
+H10 H1+ 2 a 0.274(3) 0.625(4) 0.289(2) 0.0330(10) 1. 0
+H11 H1+ 2 a 0.494(3) 0.223(3) 0.593(2) 0.0330(10) 1. 0
+H12 H1+ 2 a 0.397(3) 0.272(3) 0.496(2) 0.0330(10) 1. 0
+H13 H1+ 2 a 0.021(3) 0.198(3) 0.586(2) 0.0330(10) 1. 0
+H14 H1+ 2 a 0.000(3) 0.256(3) 0.488(2) 0.0330(10) 1. 0
+H15 H1+ 2 a 0.192(3) 0.240(3) 0.000(2) 0.0330(10) 1. 0
+H16 H1+ 2 a 0.159(3) 0.207(3) 0.088(2) 0.0330(10) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V5+ 0.00777(7) 0.00751(6) 0.00758(7) 0.00008(8) 0.00270(6) 0.00006(8)
+O1 O2- 0.0162(4) 0.0093(3) 0.0149(4) -0.0010(3) 0.0068(4) -0.0018(3)
+O2 O2- 0.0113(4) 0.0120(4) 0.0134(4) -0.0016(3) 0.0033(4) -0.0003(3)
+O3 O2- 0.0125(4) 0.0117(4) 0.0133(4) 0.0005(3) 0.0063(4) -0.0012(3)
+O4 O2- 0.0114(4) 0.0137(4) 0.0089(4) 0.0007(3) 0.0030(3) -0.0004(3)
+Li1 Li1+ 0.0140(11) 0.0185(11) 0.0141(10) 0.0004(9) 0.0044(9) 0.0018(9)
+Li2 Li1+ 0.0151(11) 0.0152(10) 0.0158(11) -0.0010(8) 0.0051(10) -0.0017(8)
+Li3 Li1+ 0.0174(12) 0.0125(9) 0.0158(10) 0.0005(8) 0.0067(10) 0.0008(8)
+O5 O2- 0.0111(5) 0.0203(4) 0.0140(4) 0.0004(3) 0.0036(4) -0.0007(3)
+O6 O2- 0.0115(4) 0.0129(4) 0.0150(4) -0.0005(3) 0.0049(4) -0.0023(3)
+O7 O2- 0.0139(5) 0.0135(4) 0.0167(4) -0.0009(3) 0.0060(4) -0.0020(3)
+O8 O2- 0.0160(6) 0.0145(5) 0.0265(6) -0.0002(4) 0.0104(5) -0.0009(4)
+O9 O2- 0.0122(5) 0.0118(5) 0.0136(5) 0.0002(3) 0.0055(4) -0.0002(3)
+O10 O2- 0.0147(5) 0.0159(4) 0.0136(4) 0.0004(3) 0.0049(4) -0.0017(3)
+O11 O2- 0.0146(5) 0.0126(4) 0.0116(4) -0.0008(3) 0.0034(4) -0.0001(3)
+O12 O2- 0.0148(5) 0.0151(4) 0.0129(4) -0.0022(3) 0.0060(4) -0.0009(3)
+#End of TTdata_174240-ICSD

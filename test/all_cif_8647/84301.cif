@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_84301-ICSD
+_database_code_ICSD 84301
+_audit_creation_date 1999-01-19
+_chemical_name_systematic 'Sodium phyllo-tetrathiodicuproniobate'
+_chemical_formula_structural 'Na (Cu2 Nb S4)'
+_chemical_formula_sum 'Cu2 Na1 Nb1 S4'
+_chemical_name_structure_type NaCu2NbS4
+_exptl_crystal_density_diffrn 3.29
+_cell_measurement_temperature 150.
+_publ_section_title
+
+;
+Synthesis, crystal structure and optical absorption of the two-dimensional
+sulfide Na Cu2 Nb S4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1997 34 1165
+1177 EJSCE5
+loop_
+_publ_author_name
+'Rumpf, C.'
+'Naether, C.'
+'Jeb, I.'
+'Bensch, W.'
+_cell_length_a 7.406(2)
+_cell_length_b 18.3130(40)
+_cell_length_c 5.522(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 748.93
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A m a 2'
+_symmetry_Int_Tables_number 40
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, y+1/2, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb5+ 5
+Cu1+ 1
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb5+ 4 b 0.25 0.3878(1) 0.2516(1) 0.011(1) 1. 0
+Cu1 Cu1+ 4 b 0.25 0.3942(1) 0.7520(2) 0.015(1) 1. 0
+Cu2 Cu1+ 4 a 0.5 0.5 0.2280(2) 0.015(1) 1. 0
+S1 S2- 4 b 0.25 0.4930(1) 0.4866(3) 0.011(1) 1. 0
+S2 S2- 8 c 0.5005(1) 0.3921(1) 0.0081(3) 0.015(1) 1. 0
+S3 S2- 4 b 0.25 0.2901(1) 0.5051(3) 0.020(1) 1. 0
+Na1 Na1+ 4 b 0.25 0.6807(3) 0.5066(13) 0.082(2) 1. 0
+#End of TTdata_84301-ICSD

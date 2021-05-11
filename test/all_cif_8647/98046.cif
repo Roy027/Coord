@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_98046-ICSD
+_database_code_ICSD 98046
+_audit_creation_date 2004-10-01
+_chemical_name_systematic
+'Sodium potassium bismuth titanate (0.4/0.1/0.5/1) - HT'
+_chemical_formula_structural '(Na0.8 K0.2)0.5 Bi0.5 (Ti O3)'
+_chemical_formula_sum 'Bi0.5 K0.1 Na0.4 O3 Ti1'
+_chemical_name_structure_type Perovskite-NaBi(TiO3)2
+_exptl_crystal_density_diffrn 5.98
+_cell_measurement_temperature 593.
+_publ_section_title
+
+;
+A structural study of the (Na1-x Kx)0.5 Bi0.5 Ti O3 perovskite series as a
+function of substitution (x) and temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Powder Diffraction' 2002 17 301 319 PODIE2
+loop_
+_publ_author_name
+'Jones, G.O.'
+'Kreisel, J.'
+'Thomas, P.A.'
+_cell_length_a 5.5154(4)
+_cell_length_b 5.5154(4)
+_cell_length_c 3.8999(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 118.63
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4 b m'
+_symmetry_Int_Tables_number 100
+_refine_ls_R_factor_all 0.091
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, -x+1/2, z'
+2 'y+1/2, x+1/2, z'
+3 'y, -x, z'
+4 '-y, x, z'
+5 '-x+1/2, y+1/2, z'
+6 'x+1/2, -y+1/2, z'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+K1+ 1
+Bi3+ 3
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0 0.5 0.549(2) . 0.4 0
+K1 K1+ 2 b 0 0.5 0.549(2) . 0.1 0
+Bi1 Bi3+ 2 b 0 0.5 0.549(2) . 0.5 0
+Ti1 Ti4+ 2 a 0 0 0 . 1. 0
+O1 O2- 2 a 0 0 0.526(3) . 1. 0
+O2 O2- 4 c 0.2642(5) 0.2357(5) 0.0181(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.032(5) 0.032(5) 0.042(1) -.005(2) 0. 0.
+K1 K1+ 0.034(4) 0.034(4) 0.039(2) 0.001(1) 0. 0.
+Bi1 Bi3+ 0.050(9) 0.050(9) 0.09(2) 0.016(7) 0. 0.
+Ti1 Ti4+ 0.039(5) 0.035(5) -.013(6) 0. 0. 0.
+O1 O2- 0.048(3) 0.048(3) 0.008(3) 0. 0. 0.
+O2 O2- 0.037(3) 0.037(3) 0.040(1) -.015(2) -.002(1) 0.002(1)
+#End of TTdata_98046-ICSD

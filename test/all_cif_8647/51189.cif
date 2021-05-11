@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51189-ICSD
+_database_code_ICSD 51189
+_audit_creation_date 2002-04-01
+_chemical_name_systematic 'Sodium tetralead tris(vanadate)'
+_chemical_formula_structural 'Na Pb4 (V O4)3'
+_chemical_formula_sum 'Na1 O12 Pb4 V3'
+_chemical_name_structure_type Er3Pb1.5(SiO4)3
+_exptl_crystal_density_diffrn 6.17
+_publ_section_title
+
+;
+Etude structurale d'orthovanadates d'alcalins et de plomb cristallisant avec
+la structure apatite lacunaire
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1998 141 373 377 JSSCBI
+loop_
+_publ_author_name
+'Azrour, M.'
+'El Ammari, L.'
+'le Fur, Y.'
+'Elouadi, B.'
+_cell_length_a 10.060(2)
+_cell_length_b 10.060(2)
+_cell_length_c 7.346(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 643.84
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb2+ 2
+Na1+ 1
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb2+ 6 h 0.25217(6) -.00050(6) 0.25 . 1. 0
+Pb2 Pb2+ 4 f 0.6667 0.3333 0.4869(2) . 0.5 0
+Na1 Na1+ 4 f 0.6667 0.3333 0.4869(2) . 0.5 0
+V1 V5+ 6 h 0.6205(2) 0.6029(2) 0.75 . 1. 0
+O1 O2- 12 i 0.082(1) 0.737(1) 0.066(1) . 1. 0
+O2 O2- 6 h 0.182(1) 0.487(1) 0.75 . 1. 0
+O3 O2- 6 h 0.504(2) 0.407(2) 0.75 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb2+ 0.0119(1) 0.0141(1) 0.0202(2) 0.0066(1) 0 0
+Pb2 Pb2+ 0.0091(2) 0.0091(2) 0.0097(3) 0.0046(3) 0 0
+Na1 Na1+ 0.0091(2) 0.0091(2) 0.0097(3) 0.0046(3) 0 0
+V1 V5+ 0.0066(5) 0.0079(5) 0.0068(6) 0.0044(4) 0 0
+O1 O2- 0.017(3) 0.033(4) 0.015(3) -.004(3) 0.002(3) 0.007(3)
+O2 O2- 0.008(3) 0.022(5) 0.015(4) -.003(3) 0 0
+O3 O2- 0.017(5) 0.011(5) 0.11(2) -.002(4) 0 0
+#End of TTdata_51189-ICSD

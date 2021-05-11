@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_428354-ICSD
+_database_code_ICSD 428354
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Calcium disodium uranium(IV) octasilicate'
+_chemical_formula_structural '(Ca0.5 Na0.5)2 Na U (Si8 O20)'
+_chemical_formula_sum 'Ca1 Na2 O20 Si8 U1'
+_chemical_name_structure_type Ekanite(tP)
+_exptl_crystal_density_diffrn 3.5
+_cell_measurement_temperature 100.
+_publ_section_title
+
+;
+Solid-state syntheses and single-crystal characterizations of three
+tetravalent thorium and uranium silicates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2015 221 405 410 JSSCBI
+loop_
+_publ_author_name
+'Jin, Geng Bang'
+'Soderholm, L.'
+_cell_length_a 7.4379(16)
+_cell_length_b 7.4379(16)
+_cell_length_c 14.888(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 823.63
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/m c c'
+_symmetry_Int_Tables_number 124
+_refine_ls_R_factor_all 0.0292
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y, x, -z+1/2'
+2 '-y, -x, -z+1/2'
+3 '-x, y, -z+1/2'
+4 'x, -y, -z+1/2'
+5 '-y, x, -z'
+6 'y, -x, -z'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z+1/2'
+10 'y, x, z+1/2'
+11 'x, -y, z+1/2'
+12 '-x, y, z+1/2'
+13 'y, -x, z'
+14 '-y, x, z'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+U4+ 4
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 f 0. 0.5 0.25 0.0092(4) 0.5 0
+Na1 Na1+ 4 f 0. 0.5 0.25 0.0092(4) 0.5 0
+Na2 Na1+ 2 b 0. 0. 0. 0.0392(19) 1 0
+U1 U4+ 2 a 0. 0. 0.25 0.00873(15) 1 0
+Si1 Si4+ 16 n 0.25672(17) 0.32905(18) 0.10533(9) 0.0122(3) 1 0
+O1 O2- 16 n 0.1033(5) 0.2459(5) 0.1652(2) 0.0199(7) 1 0
+O2 O2- 16 n 0.4553(5) 0.2535(5) 0.1272(3) 0.0209(8) 1 0
+O3 O2- 8 m 0.2161(9) 0.2933(9) 0. 0.0293(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 Ca2+ 0.0090(9) 0.0098(9) 0.0088(9) 0. 0. 0.
+Na1 Na1+ 0.0090(9) 0.0098(9) 0.0088(9) 0. 0. 0.
+Na2 Na1+ 0.022(2) 0.022(2) 0.073(6) 0. 0. 0.
+U1 U4+ 0.00894(17) 0.00894(17) 0.0083(2) 0. 0. 0.
+Si1 Si4+ 0.0117(5) 0.0114(6) 0.0135(5) -0.0005(4) 0.0039(4) 0.0027(5)
+O1 O2- 0.0144(16) 0.0176(16) 0.0278(18) 0.0003(13) 0.0089(14) 0.0059(15)
+O2 O2- 0.0143(17) 0.0171(18) 0.031(2) 0.0004(12) -0.0025(14) 0.0018(15)
+O3 O2- 0.037(3) 0.033(3) 0.018(3) 0.005(3) 0. 0.
+#End of TTdata_428354-ICSD

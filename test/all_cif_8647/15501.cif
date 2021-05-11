@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_15501-ICSD
+_database_code_ICSD 15501
+_audit_creation_date 1981-12-31
+_chemical_name_systematic 'Sodium tetrafluoroferrate(III)'
+_chemical_formula_structural 'Na Fe F4'
+_chemical_formula_sum 'F4 Fe1 Na1'
+_chemical_name_structure_type NdTaO4
+_exptl_crystal_density_diffrn 3.3
+_publ_section_title 'Crystal structure of sodium iron tetrafluoride, Na Fe F4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Chemical Research, Synopses' 1981 1981 202 203 JRPSDC
+loop_
+_publ_author_name
+'Dance, J.M.'
+'Tressaud, A.'
+'Massa, W.'
+'Babel, D.'
+_cell_length_a 7.908(2)
+_cell_length_b 5.351(2)
+_cell_length_c 7.531(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.92(4)
+_cell_angle_gamma 90.
+_cell_volume 311.81
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.035
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Fe3+ 3
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.37109(16) 0.77706(72) 0.10648(16) . 1. 0
+Fe1 Fe3+ 4 e 0.17253(4) 0.25566(24) 0.29853(4) . 1. 0
+F1 F1- 4 e 0.16790(23) 0.15181(88) 0.04813(21) . 1. 0
+F2 F1- 4 e 0.03190(29) 0.54923(78) 0.20916(30) . 1. 0
+F3 F1- 4 e 0.3670(3) 0.46479(78) 0.31400(37) . 1. 0
+F4 F1- 4 e 0.31903(37) 0.98551(80) 0.37104(34) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0273(5) 0.0102(15) 0.0158(6) -.0045(16) 0.0031(4) -.0025(14)
+Fe1 Fe3+ 0.0093(2) 0.0034(4) 0.0056(2) 0.0002(4) 0.0015(1) 0.0002(4)
+F1 F1- 0.0243(9) 0.0108(20) 0.0079(9) 0.0027(18) 0.0053(7) 0.0011(16)
+F2 F1- 0.0177(9) 0.0138(22) 0.0157(11) 0.0079(14) 0.0041(7) 0.0021(15)
+F3 F1- 0.0128(9) 0.0124(23) 0.0199(12) -.0040(15) 0.0033(8) 0.0007(17)
+F4 F1- 0.0269(13) 0.0133(24) 0.0132(12) 0.0073(17) 0.0027(10) 0.0007(16)
+#End of TTdata_15501-ICSD

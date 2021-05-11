@@ -52,7 +52,7 @@ for i=1:max_iters
     end
     
     % Given the memberships, compute new centroids
-    centroids = computeCentroids(X, idx, K);
+    centroids = computeCentroids(X, idx, K, centroids);
 end
 
 % Hold off if we are plotting progress

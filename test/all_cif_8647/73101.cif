@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_73101-ICSD
+_database_code_ICSD 73101
+_audit_creation_date 1994-06-30
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tetrasodium dioxodinitridotungstate'
+_chemical_formula_structural 'Na4 (W O2 N2)'
+_chemical_formula_sum 'N2 Na4 O2 W1'
+_chemical_name_structure_type Na4WO2N2
+_exptl_crystal_density_diffrn 4.09
+_publ_section_title
+'Natrium oxonitridometallate(VI) von Molybdaen und Wolfram, Na4MO2N2 (M=Mo, W)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1993
+619 1277 1282 ZAACAB
+loop_
+_publ_author_name
+'Ostermann, D.'
+'Jacobs, H.'
+'Harbrecht, B.'
+_cell_length_a 5.875(1)
+_cell_length_b 5.906(1)
+_cell_length_c 8.857(2)
+_cell_angle_alpha 82.78(3)
+_cell_angle_beta 71.96(3)
+_cell_angle_gamma 68.78(2)
+_cell_volume 272.37
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.039
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 2 i 0.15847(3) 0.27906(3) 0.23817(2) . 1. 0
+Na1 Na1+ 2 i 0.5201(4) 0.2623(4) 0.4419(3) . 1. 0
+Na2 Na1+ 2 i 0.9455(4) 0.2398(4) 0.6003(3) . 1. 0
+Na3 Na1+ 2 i 0.3905(4) 0.2784(4) 0.8181(3) . 1. 0
+Na4 Na1+ 2 i 0.2397(4) 0.7620(4) 0.9840(3) . 1. 0
+N1 N3- 2 i 0.1606(7) 0.5413(7) 0.6446(5) . 1. 0
+O1 O2- 2 i 0.3550(6) 0.4774(6) 0.1891(5) . 1. 0
+N2 N3- 2 i 0.2951(6) 0.0328(7) 0.3663(5) . 1. 0
+O2 O2- 2 i 0.1519(7) 0.1562(7) 0.0564(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00316(2) 0.00560(3) 0.00713(3) -.00293(2) -.00258(2) -.00049(3)
+Na1 Na1+ 0.0100(5) 0.0146(7) 0.0184(8) -.0075(4) -.0068(5) 0.0010(6)
+Na2 Na1+ 0.0118(6) 0.0123(6) 0.0141(8) -.0067(4) -.0017(5) -.0015(6)
+Na3 Na1+ 0.0110(6) 0.0140(7) 0.0148(8) -.0068(5) -.0032(5) 0.0003(6)
+Na4 Na1+ 0.0090(6) 0.0136(7) 0.0186(8) -.0037(5) -.0051(5) 0.0007(7)
+N1 N3- 0.0073(8) 0.011(1) 0.013(1) -.0037(7) -.0042(7) 0.0021(9)
+O1 O2- 0.0108(8) 0.0131(9) 0.016(1) -.0082(6) -.0035(8) -.0007(9)
+N2 N3- 0.0074(8) 0.0092(9) 0.012(1) -.0033(7) -.0039(7) 0.0012(9)
+O2 O2- 0.0137(8) 0.018(1) 0.013(1) -.0077(7) -.0054(7) -.0034(8)
+#End of TTdata_73101-ICSD

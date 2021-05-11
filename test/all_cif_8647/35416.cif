@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_35416-ICSD
+_database_code_ICSD 35416
+_audit_creation_date 1983-12-31
+_chemical_name_systematic 'Trirubidium sodium tetraplumbate'
+_chemical_formula_structural 'Rb3 Na Pb O4'
+_chemical_formula_sum 'Na1 O4 Pb1 Rb3'
+_chemical_name_structure_type Rb3NaTiO4
+_exptl_crystal_density_diffrn 4.85
+_publ_section_title 'Zur Kenntnis von Rb3 Na Pb O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1983
+499 161 168 ZAACAB
+loop_
+_publ_author_name
+'Brazel, B.'
+'Hoppe, R.'
+_cell_length_a 11.0179(26)
+_cell_length_b 6.6266(11)
+_cell_length_c 11.1501(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.027(21)
+_cell_angle_gamma 90.
+_cell_volume 754.66
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0864
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pb4+ 4
+Rb1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Pb1 Pb4+ 4 e 0.2415(1) 0.1429(1) 0.9901(1) . 1. 0
+Rb1 Rb1+ 4 e 0.0319(2) 0.1767(3) 0.1700(2) . 1. 0
+Rb2 Rb1+ 4 e 0.3186(2) 0.8792(3) 0.3932(2) . 1. 0
+Rb3 Rb1+ 4 e 0.4568(2) 0.3906(3) 0.3121(2) . 1. 0
+Na1 Na1+ 4 e 0.1250(8) 0.6178(11) 0.1094(7) . 1. 0
+O1 O2- 4 e 0.1042(12) 0.1282(20) 0.4549(12) . 1. 0
+O2 O2- 4 e 0.4286(12) 0.2363(19) 0.5533(13) . 1. 0
+O3 O2- 4 e 0.2040(12) 0.4936(18) 0.3112(13) . 1. 0
+O4 O2- 4 e 0.2295(14) 0.5746(21) 0.6185(15) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 Pb4+ 0.0097(3) 0.0106(2) 0.0087(3) -.0013(2) 0.0025(2) -.0002(2)
+Rb1 Rb1+ 0.0229(9) 0.0257(9) 0.0222(9) -.0082(7) 0.0098(8) -.0016(7)
+Rb2 Rb1+ 0.0205(8) 0.0173(8) 0.0292(10) -.0023(7) 0.0080(7) -.0050(7)
+Rb3 Rb1+ 0.0285(9) 0.0302(10) 0.0249(10) -.0061(8) 0.0147(8) -.0071(8)
+Na1 Na1+ 0.0267(39) 0.0166(37) 0.0186(37) -.0042(31) 0.0163(31) 0.0006(28)
+O1 O2- 0.0203(59) 0.0266(67) 0.0174(58) -.0071(54) 0.0055(49) 0.0046(55)
+O2 O2- 0.0162(59) 0.0129(55) 0.0300(71) 0.0041(48) 0.0038(55) -.0021(52)
+O3 O2- 0.0229(69) 0.0150(59) 0.0262(68) -.0015(51) 0.0074(58) -.0029(52)
+O4 O2- 0.0262(72) 0.0233(67) 0.0411(84) 0.0010(56) 0.0126(65) -.0106(62)
+#End of TTdata_35416-ICSD

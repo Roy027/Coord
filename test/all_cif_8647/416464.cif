@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416464-ICSD
+_database_code_ICSD 416464
+_audit_creation_date 2007-08-01
+_chemical_name_systematic 'Heptasodium 31-oxoarsenate(V)'
+_chemical_formula_structural 'Na7 As11 O31'
+_chemical_formula_sum 'As11 Na7 O31'
+_exptl_crystal_density_diffrn 4.18
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis, crystal structure and charge distribution of Na7 As11 O31: An
+oxygen-deficient layered sodium arsenate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2006 179 2466 2471 JSSCBI
+loop_
+_publ_author_name
+'Guesmi, A.'
+'Nespolo, M.'
+'Driss, A.'
+_cell_length_a 11.199(3)
+_cell_length_b 11.199(3)
+_cell_length_c 5.412(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 587.82
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -3 m 1'
+_symmetry_Int_Tables_number 164
+_refine_ls_R_factor_all 0.0332
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 6 h 0.25342(5) 0. 0.5 0.01364(18) 1 0
+As2 As5+ 3 f 0.5 0. 0.5 0.00723(18) 1 0
+As3 As5+ 2 d 0.3333 -0.3333 0.47972(14) 0.0054(2) 1 0
+Na1 Na1+ 1 a 0. 0. 0. 0.0222(18) 0.716(16) 0
+Na2 Na1+ 2 c 0. 0. 0.172(6) 0.0222(18) 0.142(8) 0
+Na3 Na1+ 6 i 0.22719(12) -0.22719(12) -0.0043(4) 0.0190(5) 1 0
+O1 O2- 6 i 0.1546(2) -0.1546(2) 0.3205(7) 0.0129(7) 1 0
+O2 O2- 12 j 0.5938(3) -0.0543(3) 0.6984(5) 0.0114(5) 1 0
+O3 O2- 6 i 0.1755(3) -0.41226(17) 0.3365(7) 0.0089(6) 1 0
+O4 O2- 2 d 0.3333 -0.3333 0.7843(10) 0.0092(11) 1 0
+O5 O2- 6 i 0.0956(2) -0.0956(2) 0.6973(8) 0.0085(8) 0.83 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As5+ 0.0123(2) 0.0130(3) 0.0158(3) 0.00649(14) -0.00269(9) -0.00538(19)
+As2 As5+ 0.0066(3) 0.0057(3) 0.0091(3) 0.00286(16) 0.00008(11) 0.0002(2)
+As3 As5+ 0.0055(2) 0.0055(2) 0.0051(3) 0.00274(12) 0. 0.
+Na1 Na1+ 0.025(3) 0.025(3) 0.016(3) 0.0127(13) 0. 0.
+Na2 Na1+ 0.025(3) 0.025(3) 0.016(3) 0.0127(13) 0. 0.
+Na3 Na1+ 0.0258(9) 0.0258(9) 0.0109(9) 0.0171(11) 0.0011(4) -0.0011(4)
+O1 O2- 0.0068(11) 0.0068(11) 0.0191(17) -0.0009(13) 0.0003(7) -0.0003(7)
+O2 O2- 0.0097(11) 0.0113(11) 0.0145(11) 0.0062(9) -0.0020(9) 0.0003(10)
+O3 O2- 0.0047(14) 0.0090(11) 0.0114(14) 0.0023(7) -0.0005(12) -0.0003(6)
+O4 O2- 0.0123(17) 0.0123(17) 0.003(2) 0.0061(8) 0. 0.
+O5 O2- 0.0039(12) 0.0039(12) 0.0128(18) -0.0016(14) 0.0035(8) -0.0035(8)
+#End of TTdata_416464-ICSD

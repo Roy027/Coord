@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_291616-ICSD
+_database_code_ICSD 291616
+_audit_creation_date 2016-08-01
+_chemical_name_systematic
+'Sodium germanium gallium oxide nitride(0.63/5.25/0.75/0.12/7.88)'
+_chemical_formula_structural 'Na0.6289 Ge5.25 Ga0.75 O0.12 N7.88'
+_chemical_formula_sum 'Ga0.75 Ge5.25 N7.88 Na0.6289 O0.12'
+_chemical_name_structure_type Ndx(Si,Al)12(N,O)16
+_exptl_crystal_density_diffrn 5.28
+_cell_measurement_temperature 299.
+_publ_section_title
+
+;
+Na-alpha'-Ge Ga O N solid solution analogous to alpha'-Si Al O N: synthesis,
+crystal structure, and potentiality as a photocatalyst
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 2355 2362 INOCAJ
+loop_
+_publ_author_name
+'Suehiro, Takayuki'
+'Tansho, Masataka'
+'Shimizu, Tadashi'
+_cell_length_a 8.26053(6)
+_cell_length_b 8.26053(6)
+_cell_length_c 5.96260(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 352.35
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 3 1 c'
+_symmetry_Int_Tables_number 159
+_refine_ls_R_factor_all 0.0102
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -x+y, z+1/2'
+2 'x-y, -y, z+1/2'
+3 'y, x, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ge4+ 4
+Ga3+ 3
+Ge4+ 4
+Ga3+ 3
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0.3333 0.6667 0.229(3) 0.032 0.629(7) 0
+Ge1 Ge4+ 6 c 0.5119(2) 0.0840(1) 0.209(3) 0.0062(2) 0.875 0
+Ga1 Ga3+ 6 c 0.5119(2) 0.0840(1) 0.209(3) 0.0062(2) 0.125 0
+Ge2 Ge4+ 6 c 0.1684(1) 0.2518(1) 0.005(3) 0.0062(2) 0.875 0
+Ga2 Ga3+ 6 c 0.1684(1) 0.2518(1) 0.005(3) 0.0062(2) 0.125 0
+N1 N3- 2 a 0 0 0 0.0068(9) 0.985(1) 0
+O1 O2- 2 a 0 0 0 0.0068(9) 0.015(1) 0
+N2 N3- 2 b 0.3333 0.6667 0.640(3) 0.0068(9) 0.985(1) 0
+O2 O2- 2 b 0.3333 0.6667 0.640(3) 0.0068(9) 0.015(1) 0
+N3 N3- 6 c 0.3442(7) -0.0486(9) -0.022(4) 0.0068(9) 0.985(1) 0
+O3 O2- 6 c 0.3442(7) -0.0486(9) -0.022(4) 0.0068(9) 0.015(1) 0
+N4 N3- 6 c 0.3190(7) 0.3224(8) 0.249(3) 0.0068(9) 0.985(1) 0
+O4 O2- 6 c 0.3190(7) 0.3224(8) 0.249(3) 0.0068(9) 0.015(1) 0
+#End of TTdata_291616-ICSD

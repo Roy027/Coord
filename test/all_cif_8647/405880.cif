@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_405880-ICSD
+_database_code_ICSD 405880
+_audit_creation_date 1997-11-10
+_chemical_name_systematic
+'Sodium gadolinium chloride oxide nitride (1.4/4/9/1.7/0.4)'
+_chemical_formula_structural 'Na1.35 Gd4 Cl9 O1.65 N0.35'
+_chemical_formula_sum 'Cl9 Gd4 N0.35 Na1.35 O1.65'
+_exptl_crystal_density_diffrn 4.39
+_publ_section_title 'Zur Struktur und Phasenbreite von Na2 Gd4 Cl9 N O'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1997
+623 1011 1016 ZAACAB
+loop_
+_publ_author_name
+'Beck, U.'
+'Simon, A.'
+_cell_length_a 7.8969(10)
+_cell_length_b 11.0303(12)
+_cell_length_c 9.1161(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.874(8)
+_cell_angle_gamma 90.
+_cell_volume 763.78
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0436
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Gd3+ 3
+Cl1- -1
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 f 0.2212(8) 0.9969(7) 0.4375(5) . 0.675(14) 0
+Gd1 Gd3+ 2 e 0.59884(5) 0.25 0.82427(4) . 1. 0
+Gd2 Gd3+ 2 e 0.61373(5) 0.25 0.22186(4) . 1. 0
+Gd3 Gd3+ 4 f 0.27935(3) 0.04480(3) 0.95298(3) . 1. 0
+Cl1 Cl1- 2 e 0.2517(3) 0.25 0.1409(2) . 1. 0
+Cl2 Cl1- 2 e 0.2335(2) 0.25 0.7475(2) . 1. 0
+Cl3 Cl1- 2 e 0.6423(5) 0.25 0.5316(3) . 1. 0
+Cl4 Cl1- 4 f 0.8953(2) 0.3995(2) 0.8823(2) . 1. 0
+Cl5 Cl1- 4 f 0.5010(2) 0.9978(2) 0.2939(2) . 1. 0
+Cl6 Cl1- 4 f 0.8992(2) 0.0928(2) 0.2984(2) . 1. 0
+O1 O2- 4 f 0.5598(5) 0.1260(4) 0.0135(4) . 0.825 0
+N1 N3- 4 f 0.5598(5) 0.1260(4) 0.0135(4) . 0.175 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.047(3) 0.068(5) 0.029(2) 0.029(3) 0.003(2) 0.001(3)
+Gd1 Gd3+ 0.0099(2) 0.0066(2) 0.00971(14) 0 0.00433(11) 0
+Gd2 Gd3+ 0.0110(2) 0.0082(2) 0.00877(14) 0 0.00343(11) 0
+Gd3 Gd3+ 0.00913(12) 0.00644(13) 0.02172(13) 0.00082(9) 0.00463(9) 0.00099(9)
+Cl1 Cl1- 0.0117(7) 0.0229(11) 0.0202(8) 0 0.0085(6) 0
+Cl2 Cl1- 0.0111(8) 0.018(1) 0.0192(8) 0 0.0024(6) 0
+Cl3 Cl1- 0.085(2) 0.0195(13) 0.0169(9) 0 0.0250(11) 0
+Cl4 Cl1- 0.0129(6) 0.0177(7) 0.0297(6) -.0055(5) 0.0094(5) -.0078(6)
+Cl5 Cl1- 0.0439(9) 0.0230(9) 0.0196(6) -.0162(8) 0.0112(6) -.0040(6)
+Cl6 Cl1- 0.0162(6) 0.0253(9) 0.0307(7) 0.0080(6) 0.0000(5) -.0092(6)
+O1 O2- 0.012(2) 0.007(2) 0.0104(14) -.0006(13) 0.0049(12) -.0012(13)
+N1 N3- 0.012(2) 0.007(2) 0.0104(14) -.0006(13) 0.0049(12) -.0012(13)
+#End of TTdata_405880-ICSD

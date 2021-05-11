@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74544-ICSD
+_database_code_ICSD 74544
+_audit_creation_date 1995-10-17
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Pentapotassium sodium tris(hydrogenphosphate)'
+_chemical_formula_structural 'K5 Na (H P O4)3'
+_chemical_formula_sum 'H3 K5 Na1 O12 P3'
+_chemical_name_structure_type K5Na(HPO4)3
+_exptl_crystal_density_diffrn 2.58
+_cell_measurement_temperature 100.
+_publ_section_title 'Isomorphous crystals: K2HPO4 and K5Na(HPO4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1994 50 484 487 ACSCEE
+loop_
+_publ_author_name
+'Lis, T.'
+_cell_length_a 22.402(15)
+_cell_length_b 9.979(5)
+_cell_length_c 5.822(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1301.51
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.026
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+O2- -2
+K1+ 1
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 a 0.58750(3) 0.55130(7) 0.7512(3) . 1. 0
+P2 P5+ 4 a 0.92531(3) 0.57079(7) 0.7492(3) . 1. 0
+P3 P5+ 4 a 0.74120(4) 0.85633(8) 0.7984(3) . 1. 0
+O1 O2- 4 a 0.65946(9) 0.5460(3) 0.7496(7) . 1. 0
+O2 O2- 4 a 0.56731(10) 0.4058(3) 0.7568(6) . 1. 0
+O3 O2- 4 a 0.56805(15) 0.6252(4) 0.5354(5) . 1. 0
+O4 O2- 4 a 0.56843(14) 0.6281(4) 0.9677(5) . 1. 0
+O5 O2- 4 a 0.97065(15) 0.5941(4) 0.9619(6) . 1. 0
+O6 O2- 4 a 0.90553(9) 0.4258(3) 0.7575(7) . 1. 0
+O7 O2- 4 a 0.87537(11) 0.6705(3) 0.7928(6) . 1. 0
+O8 O2- 4 a 0.95955(16) 0.6043(4) 0.5301(6) . 1. 0
+O9 O2- 4 a 0.80858(11) 0.8764(3) 0.7010(5) . 1. 0
+O10 O2- 4 a 0.71499(11) 0.9962(3) 0.8044(6) . 1. 0
+O11 O2- 4 a 0.70869(13) 0.7680(3) 0.6248(6) . 1. 0
+O12 O2- 4 a 0.74659(13) 0.7890(3) 0.0305(5) . 1. 0
+K1 K1+ 4 a 0.95035(3) 0.90155(6) 0.75 . 1. 0
+K2 K1+ 4 a 0.59255(3) 0.87856(6) 0.7462(3) . 1. 0
+K3 K1+ 4 a 0.83271(3) 0.14825(6) 0.7471(3) . 1. 0
+K4 K1+ 4 a 0.65788(3) 0.23223(6) 0.7734(3) . 1. 0
+K5 K1+ 4 a 0.77984(3) 0.50195(7) 0.8032(3) . 1. 0
+Na1 Na1+ 4 a 0.98594(5) 0.24682(11) 0.7554(4) . 1. 0
+H1 H1+ 4 a 0.681(3) 0.613(5) 0.661(11) 0.044(21) 1. 0
+H2 H1+ 4 a 0.999(5) 0.522(9) 0.939(19) 0.098(34) 1. 0
+H3 H1+ 4 a 0.830(4) 0.815(8) 0.799(15) 0.092(31) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0068(3) 0.0062(3) 0.0037(3) 0.0003(3) 0.0005(4) -.0003(4)
+P2 P5+ 0.0072(3) 0.0067(3) 0.0051(3) 0.0007(3) 0.0008(4) 0.0007(4)
+P3 P5+ 0.0083(3) 0.0056(3) 0.0040(4) 0.0008(3) -.0006(3) 0.0003(3)
+O1 O2- 0.0067(9) 0.0112(9) 0.0110(11) 0.0018(7) -.0030(12) 0.0017(12)
+O2 O2- 0.0128(9) 0.0061(8) 0.0094(10) -.0001(7) 0.0002(13) 0.0004(12)
+O3 O2- 0.0115(15) 0.0101(16) 0.0059(12) -.0006(12) -.0019(10) 0.0023(10)
+O4 O2- 0.0101(15) 0.0081(15) 0.0053(11) 0.0005(11) -.0004(9) -.0004(9)
+O5 O2- 0.0150(14) 0.0126(14) 0.0119(13) 0.0017(12) -.0058(11) 0.0001(11)
+O6 O2- 0.0109(9) 0.0079(8) 0.0099(11) -.0023(7) -.0023(12) 0.0002(12)
+O7 O2- 0.012(1) 0.0094(10) 0.0157(14) 0.0034(8) 0.0011(11) -.0007(10)
+O8 O2- 0.0185(15) 0.0125(13) 0.0120(13) 0.0028(12) 0.0092(11) 0.0023(11)
+O9 O2- 0.0107(10) 0.0107(11) 0.0116(13) 0.0014(9) 0.0043(9) 0.0035(9)
+O10 O2- 0.0145(10) 0.0096(9) 0.0120(11) 0.0037(9) -.0001(10) 0.0005(9)
+O11 O2- 0.0167(12) 0.011(1) 0.0093(11) -.004(1) -.0011(10) -.0012(10)
+O12 O2- 0.0137(11) 0.0123(11) 0.0047(11) -.0012(9) 0.0006(9) 0.0026(9)
+K1 K1+ 0.0096(3) 0.0087(3) 0.0062(3) -.0002(2) 0.0007(3) 0.0000(3)
+K2 K1+ 0.0109(3) 0.0085(3) 0.0077(3) 0.0007(2) 0.0002(3) 0.0002(3)
+K3 K1+ 0.0099(3) 0.0112(3) 0.0053(3) 0.0025(2) -.0002(3) -.0003(4)
+K4 K1+ 0.0120(3) 0.0092(3) 0.0090(4) 0.0025(2) 0.0025(3) 0.0003(3)
+K5 K1+ 0.0090(3) 0.0101(3) 0.0062(4) -.0001(3) -.0007(3) 0.0000(3)
+Na1 Na1+ 0.0075(5) 0.0064(5) 0.0036(6) 0.0010(4) 0.0003(6) 0.0001(7)
+#End of TTdata_74544-ICSD

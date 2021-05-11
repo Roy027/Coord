@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_34075-ICSD
+_database_code_ICSD 34075
+_audit_creation_date 1980-01-01
+_audit_update_record 1997-11-10
+_chemical_name_systematic 'Hexasodium triberyllium catena-silicate'
+_chemical_formula_structural 'Na6 Be3 (Si6 O18)'
+_chemical_formula_sum 'Be3 Na6 O18 Si6'
+_chemical_name_structure_type Na2Be(GeO3)2
+_chemical_name_mineral Chkalovite
+_exptl_crystal_density_diffrn 2.68
+_publ_section_title
+'Utochnennaya kristallicheskaya struktura chkalovita Na2 Be (Si2 O6)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1975 225 1319 1322 DANKAS
+loop_
+_publ_author_name
+'Simonov, M.A.'
+'Egorov Tismenko, Yu.K.'
+'Belov, N.V.'
+_cell_length_a 21.129(5)
+_cell_length_b 6.881(2)
+_cell_length_c 21.1880(50)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3080.49
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.059
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Be2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 a 0 0 0 0.16(2) 1. 0
+Si2 Si4+ 8 a 0 0.5 0.1601(1) 0.14(2) 1. 0
+Si3 Si4+ 16 b 0.1500(1) 0.0124(2) 0.1754(1) 0.15(1) 1. 0
+Si4 Si4+ 16 b 0.1837(1) 0.5068(2) 0.0118(1) 0.15(1) 1. 0
+Be1 Be2+ 16 b 0.1685(3) 0.018(1) 0.8259(3) 0.39(7) 1. 0
+Be2 Be2+ 8 a 0 0 0.3649(4) 0.53(11) 1. 0
+Na1 Na1+ 8 a 0 0 0.5116(2) 1.04(5) 1. 0
+Na2 Na1+ 8 a 0 0 0.1402(2) 0.95(5) 1. 0
+Na3 Na1+ 16 b 0.1732(1) 0.0047(4) 0.0306(2) 0.87(3) 1. 0
+Na4 Na1+ 16 b 0.1582(1) 0.0112(4) 0.6646(2) 0.74(3) 1. 0
+O1 O2- 16 b 0.0143(2) 0.1886(5) 0.7076(2) 0.51(4) 1. 0
+O2 O2- 16 b 0.1111(2) 0.0852(5) 0.1154(2) 0.50(4) 1. 0
+O3 O2- 16 b 0.1890(2) 0.2014(5) 0.2038(2) 0.53(4) 1. 0
+O4 O2- 16 b 0.1509(2) 0.2050(5) 0.4816(2) 0.48(4) 1. 0
+O5 O2- 16 b 0.2226(2) 0.0697(5) 0.5728(2) 0.42(4) 1. 0
+O6 O2- 16 b 0.1883(2) 0.1997(5) 0.8703(2) 0.42(4) 1. 0
+O7 O2- 16 b 0.1167(2) 0.0843(5) 0.7713(2) 0.41(4) 1. 0
+O8 O2- 16 b 0.0179(2) 0.1883(5) 0.0406(2) 0.38(3) 1. 0
+O9 O2- 16 b 0.0546(2) 0.0808(5) 0.4128(2) 0.41(4) 1. 0
+#End of TTdata_34075-ICSD

@@ -1,0 +1,110 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_415682-ICSD
+_database_code_ICSD 415682
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Lanthanum sodium tetraphosphate'
+_chemical_formula_structural 'La Na (P O3)4'
+_chemical_formula_sum 'La1 Na1 O12 P4'
+_chemical_name_structure_type KCe(PO3)4
+_exptl_crystal_density_diffrn 3.29
+_cell_measurement_temperature 273.
+_publ_section_title
+'Structure, energy band, and optical properties of Na La (P O3)4 crystal'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2006 179 597 604 JSSCBI
+loop_
+_publ_author_name
+'Zhu, J.'
+'Cheng, W.-D.'
+'Wu, D.-S.'
+'Zhang, H.'
+'Gong, Y.-J.'
+'Tong, H.-N.'
+_cell_length_a 7.2655(3)
+_cell_length_b 13.1952(5)
+_cell_length_c 10.07600(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.3820(10)
+_cell_angle_gamma 90.
+_cell_volume 965.96
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0627
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e 0.01340(9) 0.28350(5) 0.47575(7) 0.0070(3) 1 0
+P1 P5+ 4 e 0.2480(4) 0.0982(2) 0.2431(3) 0.0075(7) 1 0
+P2 P5+ 4 e -0.1158(4) 0.1139(2) 0.7649(3) 0.0077(7) 1 0
+P3 P5+ 4 e -0.3580(4) 0.1276(2) 0.3068(3) 0.0076(7) 1 0
+P4 P5+ 4 e 0.2710(4) 0.0886(2) 0.6939(3) 0.0085(7) 1 0
+Na1 Na1+ 4 e 0.0001(8) 0.2207(5) 0.0684(6) 0.0222(13) 1 0
+O1 O2- 4 e 0.2108(12) -0.0154(7) 0.2885(8) 0.0127(19) 1 0
+O2 O2- 4 e 0.2415(12) 0.1590(7) 0.5807(9) 0.015(2) 1 0
+O3 O2- 4 e -0.1313(12) 0.1899(7) 0.6561(9) 0.0121(19) 1 0
+O4 O2- 4 e -0.2907(11) 0.2085(7) 0.3975(8) 0.0100(18) 1 0
+O5 O2- 4 e 0.0923(12) 0.0816(7) 0.7837(9) 0.014(2) 1 0
+O6 O2- 4 e 0.0953(12) 0.1625(7) 0.2929(9) 0.0112(18) 1 0
+O7 O2- 4 e -0.2848(12) 0.0229(7) 0.3682(9) 0.013(2) 1 0
+O8 O2- 4 e 0.1824(12) 0.3662(7) 0.6637(9) 0.0131(19) 1 0
+O9 O2- 4 e 0.4262(11) 0.1219(7) 0.3313(8) 0.0098(18) 1 0
+O10 O2- 4 e 0.2856(12) 0.1036(7) 0.0980(9) 0.0108(18) 1 0
+O11 O2- 4 e -0.1863(12) 0.1422(7) 0.8975(8) 0.0117(19) 1 0
+O12 O2- 4 e 0.4308(12) 0.1091(8) 0.7846(9) 0.016(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0077(4) 0.0090(4) 0.0043(4) -0.0002(3) 0.0018(2) 0.0001(3)
+P1 P5+ 0.0059(14) 0.0086(16) 0.0082(15) -0.0018(12) 0.0013(12) -0.0017(12)
+P2 P5+ 0.0084(15) 0.0101(16) 0.0048(15) 0.0004(12) 0.0028(12) 0.0009(12)
+P3 P5+ 0.0097(15) 0.0071(16) 0.0061(15) 0.0012(12) 0.0022(12) -0.0012(12)
+P4 P5+ 0.0090(15) 0.0091(16) 0.0073(15) 0.0011(12) 0.0014(12) 0.0002(12)
+Na1 Na1+ 0.018(3) 0.029(3) 0.019(3) 0.006(2) -0.003(2) 0.005(2)
+O1 O2- 0.015(5) 0.017(5) 0.006(4) -0.001(4) 0.004(4) 0.002(4)
+O2 O2- 0.015(5) 0.020(5) 0.009(4) 0.012(4) 0.006(4) 0.003(4)
+O3 O2- 0.013(4) 0.012(5) 0.012(5) 0.004(4) 0.003(4) 0.007(4)
+O5 O2- 0.011(4) 0.018(5) 0.013(5) 0.002(4) 0.003(4) 0.004(4)
+O7 O2- 0.014(4) 0.017(5) 0.009(4) 0.007(4) -0.005(4) -0.004(4)
+O8 O2- 0.014(4) 0.015(5) 0.010(4) -0.001(4) 0.004(4) -0.003(4)
+O9 O2- 0.006(4) 0.017(5) 0.007(4) -0.005(4) -0.001(3) 0.000(4)
+O10 O2- 0.013(4) 0.010(4) 0.010(4) -0.004(4) 0.001(3) 0.005(4)
+O11 O2- 0.010(4) 0.015(5) 0.011(5) -0.002(4) 0.008(4) -0.002(4)
+O12 O2- 0.008(4) 0.028(5) 0.014(5) -0.002(4) -0.002(4) -0.008(4)
+#End of TTdata_415682-ICSD

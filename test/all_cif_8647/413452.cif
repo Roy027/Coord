@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413452-ICSD
+_database_code_ICSD 413452
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Tribarium sodium diiridate'
+_chemical_formula_structural 'Ba3 Na (Ir2 O9)'
+_chemical_formula_sum 'Ba3 Ir2 Na1 O9'
+_chemical_name_structure_type BaFeO2+x
+_exptl_crystal_density_diffrn 7.37
+_publ_section_title
+
+;
+Crystal growth of new perovskite and perovskite related iridates: Ba3 Li Ir2
+O9, Ba3 Na Ir2 O9, and Ba3.44 K1.56 Ir2 O10
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2004 177 1493 1500 JSSCBI
+loop_
+_publ_author_name
+'Kim, S.-J.'
+'Smith, M.D.'
+'Darriet, J.'
+'zur Loye, H.C.'
+_cell_length_a 5.866(4)
+_cell_length_b 5.866(4)
+_cell_length_c 14.596(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 434.96
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0192
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Ir5+ 5.5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 f 0.6667 0.3333 0.08720(3) 0.01281(9) 1 0
+Ba2 Ba2+ 2 b 0 0 0.25 0.00958(11) 1 0
+Ir1 Ir5+ 4 f 0.3333 0.6667 0.156644(14) 0.00624(7) 1 0
+Na1 Na1+ 2 a 0 0 0 0.0071(7) 1 0
+O1 O2- 6 h 0.4830(3) 0.5170(3) 0.25 0.0103(10) 1 0
+O2 O2- 12 k 0.1777(3) 0.3554(6) 0.0880(2) 0.0156(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.01034(10) 0.01034(10) 0.01774(18) 0.00517(5) 0 0
+Ba2 Ba2+ 0.00805(12) 0.00805(12) 0.0126(2) 0.00403(6) 0 0
+Ir1 Ir5+ 0.00538(8) 0.00538(8) 0.00796(12) 0.00269(4) 0 0
+Na1 Na1+ 0.0065(7) 0.0065(7) 0.0082(16) 0.0033(4) 0 0
+O1 O2- 0.0102(10) 0.0102(10) 0.0144(17) 0.0082(12) 0 0
+O2 O2- 0.0166(9) 0.0112(11) 0.0171(13) 0.0056(6) -0.0032(6) -0.0064(11)
+#End of TTdata_413452-ICSD

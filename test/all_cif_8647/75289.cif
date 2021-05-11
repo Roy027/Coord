@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75289-ICSD
+_database_code_ICSD 75289
+_audit_creation_date 1996-04-22
+_audit_update_record 1999-01-19
+_chemical_name_systematic
+'Sodium calcium dihydroxooctaoxopentaborate trihydrate'
+_chemical_formula_structural 'Na Ca (B5 O8 (O H)2) (H2 O)3'
+_chemical_formula_sum 'H8 B5 Ca1 Na1 O13'
+_chemical_name_mineral Tuzlaite
+_exptl_crystal_density_diffrn 2.24
+_publ_section_title
+
+;
+Tuzlaite, Na Ca (B5 O8 (O H)2) .3(H2 O), a new mineral with a pentaborate
+sheet structure from the Tuzla salt mine, Bosnia and Hercegovina
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'American Mineralogist' 1994 79 562 569 AMMIAY
+loop_
+_publ_author_name
+'Bermanec, V.'
+'Armbruster, T.'
+'Tibljas, D.'
+'Sturman, D.'
+'Kniewald, G.'
+_cell_length_a 6.506(1)
+_cell_length_b 13.280(3)
+_cell_length_c 11.462(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.97(2)
+_cell_angle_gamma 90.
+_cell_volume 988.98
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Na1+ 1
+O2- -2
+B3+ 3
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ca1 Ca2+ 4 e 0.2098(1) 0.89462(5) 0.08216(6) 0.93(1) 1. 0
+Na1 Na1+ 4 e 0.3365(2) 0.9842(1) 0.3555(1) 1.88(3) 1. 0
+O1 O2- 4 e 0.1026(3) 0.0914(2) 0.0545(2) 0.78(4) 1. 0
+O2 O2- 4 e 0.8633(3) 0.8327(2) 0.2282(2) 1.17(4) 1. 0
+O3 O2- 4 e 0.4159(3) 0.0519(2) 0.1541(2) 0.96(4) 1. 0
+O4 O2- 4 e 0.3098(3) 0.2278(2) 0.1374(2) 1.10(4) 1. 0
+O5 O2- 4 e 0.7645(3) 0.0885(2) 0.1190(2) 0.96(4) 1. 0
+O6 O2- 4 e 0.6756(3) 0.9823(2) 0.2754(2) 1.11(4) 1. 0
+O7 O2- 4 e 0.3315(4) 0.8150(2) 0.2692(2) 1.53(5) 1. 0
+O8 O2- 4 e 0.5789(3) 0.8617(2) 0.0321(2) 1.12(4) 1. 0
+O9 O2- 4 e 0.0286(3) 0.9889(2) 0.2199(2) 0.98(4) 1. 0
+O10 O2- 4 e 0.1533(4) 0.7126(2) 0.0571(2) 1.62(5) 1. 0
+O11 O2- 4 e 0.0475(4) 0.0776(2) 0.5934(2) 1.47(5) 1. 0
+O12 O2- 4 e -.0220(3) 0.8302(2) 0.7620(2) 1.16(4) 1. 0
+O13 O2- 4 e 0.5450(5) 0.8800(2) 0.5267(3) 2.64(6) 1. 0
+B1 B3+ 4 e 0.6216(6) 0.0410(3) 0.1812(3) 0.81(6) 1. 0
+B2 B3+ 4 e 0.3128(6) 0.1275(3) 0.0750(3) 0.83(6) 1. 0
+B3 B3+ 4 e 0.8403(5) 0.7440(3) 0.2859(3) 0.88(6) 1. 0
+B4 B3+ 4 e 0.8779(6) 0.9343(3) 0.2827(3) 0.95(6) 1. 0
+B5 B3+ 4 e -.0160(6) 0.0828(3) 0.1597(3) 0.79(6) 1. 0
+H1 H1+ 4 e 0.250(6) 0.772(3) 0.283(4) 2.37(6) 1. 0
+H2 H1+ 4 e 0.445(6) 0.789(3) 0.293(4) 2.37(6) 1. 0
+H3 H1+ 4 e 0.665(6) 0.852(3) 0.084(4) 2.37(6) 1. 0
+H4 H1+ 4 e 0.090(6) 0.691(3) 0.121(4) 2.37(6) 1. 0
+H5 H1+ 4 e 0.082(6) 0.685(3) -.001(4) 2.37(6) 1. 0
+H6 H1+ 4 e 0.907(7) 0.955(3) 0.444(4) 2.37(6) 1. 0
+H7 H1+ 4 e 0.443(7) 0.850(3) 0.546(4) 2.37(6) 1. 0
+H8 H1+ 4 e 0.610(5) 0.829(3) 0.495(4) 2.37(6) 1. 0
+#End of TTdata_75289-ICSD

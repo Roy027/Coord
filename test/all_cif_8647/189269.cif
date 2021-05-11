@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_189269-ICSD
+_database_code_ICSD 189269
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Disodium tetragermanate'
+_chemical_formula_structural 'Na2 (Ge4 O9)'
+_chemical_formula_sum 'Ge4 Na2 O9'
+_chemical_name_structure_type Rb2Ge4O9
+_exptl_crystal_density_diffrn 4.45
+_cell_measurement_temperature 295.
+_publ_section_title 'The tetragermanates A2 Ge4 O9 (A = Na, K and Rb)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+2013 69 995 1001 ACSCEE
+loop_
+_publ_author_name
+'Redhammer, Guenther J.'
+'Tippelt, Gerold'
+_cell_length_a 11.3216(10)
+_cell_length_b 11.3216(17)
+_cell_length_c 9.6946(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1076.16
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -3 c 1'
+_symmetry_Int_Tables_number 165
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 12 g 0.3355(2) 0.3294(2) 0.5763(2) 0.0284(5) 1 0
+Ge1 Ge4+ 2 b 0 0 0.5 0.0090(2) 1 0
+Ge2 Ge4+ 6 f 0.17623(6) 0.17623(6) 0.25 0.01015(16) 1 0
+Ge3 Ge4+ 12 g 0.49387(4) 0.34451(4) 0.29968(4) 0.00891(14) 1 0
+Ge4 Ge4+ 4 d 0.6667 0.3333 0.05427(7) 0.00812(18) 1 0
+O1 O2- 12 g 0.0592(3) 0.1546(3) 0.3803(3) 0.0112(6) 1 0
+O2 O2- 12 g 0.3252(3) 0.2245(3) 0.3532(3) 0.0140(6) 1 0
+O3 O2- 12 g 0.5126(3) 0.2500(3) 0.1700(3) 0.0133(6) 1 0
+O4 O2- 12 g 0.5922(3) 0.4152(3) 0.4454(3) 0.0130(6) 1 0
+O5 O2- 6 f 0.4939(4) 0.4939(4) 0.25 0.0131(9) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0364(13) 0.0201(10) 0.0200(9) 0.0077(10) 0.0071(9) -0.0017(8)
+Ge1 Ge4+ 0.0098(3) 0.0098(3) 0.0075(5) 0.00490(16) 0 0
+Ge2 Ge4+ 0.0100(2) 0.0100(2) 0.0094(3) 0.0042(3) 0.00118(11) -0.00118(11)
+Ge3 Ge4+ 0.0096(2) 0.0091(2) 0.0082(2) 0.00484(18) -0.00050(15) -0.00039(15)
+Ge4 Ge4+ 0.0091(2) 0.0091(2) 0.0061(3) 0.00456(12) 0 0
+O1 O2- 0.0143(15) 0.0114(14) 0.0098(13) 0.0079(13) 0.0022(11) 0.0011(11)
+O2 O2- 0.0092(15) 0.0163(16) 0.0127(14) 0.0035(13) 0.0005(11) 0.0010(12)
+O3 O2- 0.0140(15) 0.0118(15) 0.0115(13) 0.0044(13) 0.0059(12) -0.0004(11)
+O4 O2- 0.0175(16) 0.0126(15) 0.0096(13) 0.0080(13) -0.0045(12) -0.0015(12)
+O5 O2- 0.0115(15) 0.0115(15) 0.018(2) 0.0066(18) -0.0006(8) 0.0006(8)
+#End of TTdata_189269-ICSD

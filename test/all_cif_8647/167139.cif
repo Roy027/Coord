@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167139-ICSD
+_database_code_ICSD 167139
+_audit_creation_date 2010-08-01
+_chemical_name_systematic 'Dipotassium sodium phyllo-zincopentaborate'
+_chemical_formula_structural 'K2 Na (Zn B5 O10)'
+_chemical_formula_sum 'B5 K2 Na1 O10 Zn1'
+_exptl_crystal_density_diffrn 2.66
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Synthesis, crystal structure and optical properties of a novel pentaborate, K2
+Na Zn B5 O10
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2010 492 543 547 JALCEU
+loop_
+_publ_author_name
+'Chen Xue An'
+'Yang Chun Yan'
+'Chang Xi Nan'
+'Zang Hegui'
+'Xiao Wei Qiang'
+_cell_length_a 7.9244(16)
+_cell_length_b 12.805(3)
+_cell_length_c 18.962(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.39(3)
+_cell_angle_gamma 90.
+_cell_volume 1898.33
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0453
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Zn2+ 2
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 8 f 0.40234(12) 0.41718(7) 0.06395(5) 0.0289(2) 1. 0
+K2 K1+ 8 f 0.96006(15) 0.42149(10) 0.07763(6) 0.0419(3) 1. 0
+Na1 Na1+ 4 e 0.5 0.6401(2) 0.25 0.0254(5) 1. 0
+Na2 Na1+ 4 e 0.5 0.14898(18) 0.25 0.0230(4) 1. 0
+Zn1 Zn2+ 8 f 0.20193(5) 0.16435(3) 0.10628(2) 0.01905(17) 1. 0
+B1 B3+ 8 f 0.8419(6) 0.1643(3) 0.0790(3) 0.0228(8) 1. 0
+B2 B3+ 8 f 0.5335(6) 0.1636(3) 0.0767(3) 0.0237(8) 1. 0
+B3 B3+ 8 f 0.7176(5) 0.2793(3) 0.1648(2) 0.0175(7) 1. 0
+B4 B3+ 8 f 0.7382(6) 0.4683(3) 0.2021(2) 0.0213(7) 1. 0
+B5 B3+ 8 f 0.7664(5) 0.3347(3) 0.2947(2) 0.0192(7) 1. 0
+O1 O2- 8 f 0.9765(4) 0.1275(3) 0.05206(18) 0.0305(7) 1. 0
+O2 O2- 8 f 0.8582(3) 0.2320(2) 0.13481(15) 0.0237(6) 1. 0
+O3 O2- 8 f 0.6768(4) 0.1296(3) 0.04901(17) 0.0290(6) 1. 0
+O4 O2- 8 f 0.5546(3) 0.2308(2) 0.13329(15) 0.0235(5) 1. 0
+O5 O2- 8 f 0.3784(4) 0.1257(3) 0.04818(19) 0.0351(7) 1. 0
+O6 O2- 8 f 0.7128(4) 0.39212(19) 0.15003(14) 0.0209(5) 1. 0
+O7 O2- 8 f 0.7441(4) 0.26048(19) 0.24178(14) 0.0222(5) 1. 0
+O8 O2- 8 f 0.7632(5) 0.4397(2) 0.27423(15) 0.0305(7) 1. 0
+O9 O2- 8 f 0.7410(6) 0.5686(2) 0.18727(18) 0.0362(12) 1. 0
+O10 O2- 8 f 0.7927(4) 0.3103(2) 0.36385(14) 0.0237(5) 1. 0
+#End of TTdata_167139-ICSD

@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156656-ICSD
+_database_code_ICSD 156656
+_audit_creation_date 2007-08-01
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Strontium disodium tetrakis(tecto-alumosilicate)'
+_chemical_formula_structural 'Sr Na2 (Al Si O4)4'
+_chemical_formula_sum 'Al4 Na2 O16 Si4 Sr1'
+_chemical_name_structure_type SrNa2(AlSiO4)4
+_chemical_name_mineral Stronalsite
+_exptl_crystal_density_diffrn 2.92
+_publ_section_title
+
+;
+The crystal structure of stronalsite and a redetermination of the structure of
+banalsite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2006 44 533 546 CAMIA6
+loop_
+_publ_author_name
+'Liferovich, R.P.'
+'Locock, A.J.'
+'Mitchell, R.H.'
+'Shpachenko, A.K.'
+_cell_length_a 8.4080(9)
+_cell_length_b 9.8699(11)
+_cell_length_c 16.7083(18)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1386.56
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I b a 2'
+_symmetry_Int_Tables_number 45
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, y, z+1/2'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z'
+6 '-x+1/2, y+1/2, z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Na1+ 1
+Al3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Sr1 Sr2+ 4 b 0. 0.5 0.1541(1) 0.0169(1) 1. 0
+Na1 Na1+ 8 c -0.0430(2) 0.3244(1) -0.0955(3) 0.0215(3) 1. 0
+Al1 Al3+ 8 c 0.0693(3) 0.1912(2) 0.0635(1) 0.0115(4) 1. 0
+Al2 Al3+ 8 c -0.2771(2) 0.4507(2) 0.3106(1) 0.0105(4) 1. 0
+Si1 Si4+ 8 c -0.2631(2) 0.5546(2) -0.0017(1) 0.0108(4) 1. 0
+Si2 Si4+ 8 c 0.0770(2) 0.8009(2) 0.2457(1) 0.0101(4) 1. 0
+O1 O2- 8 c -0.2154(3) 0.49113 0.4079(4) 0.0161(6) 1. 0
+O2 O2- 8 c -0.0023(9) 0.2154(3) 0.1593(4) 0.0183(6) 1. 0
+O3 O2- 8 c -0.0776(5) 0.1427(5) -0.0040(3) 0.0139(9) 1. 0
+O4 O2- 8 c 0.2248(6) 0.9064(5) 0.2488(3) 0.0142(10) 1. 0
+O5 O2- 8 c 0.2278(6) 0.0760(6) 0.0571(4) 0.0156(10) 1. 0
+O6 O2- 8 c -0.4485(5) 0.3534(5) 0.3100(4) 0.0150(10) 1. 0
+O7 O2- 8 c 0.1218(7) 0.6472(4) 0.2720(4) 0.0164(11) 1. 0
+O8 O2- 8 c -0.1155(6) 0.6439(4) 0.0327(3) 0.0134(10) 1. 0
+#End of TTdata_156656-ICSD

@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_94743-ICSD
+_database_code_ICSD 94743
+_audit_creation_date 2003-10-01
+_chemical_name_systematic 'Sodium potassium lanthanum niobium oxide'
+_chemical_formula_structural 'Na K La Nb O5'
+_chemical_formula_sum 'K1 La1 Na1 Nb1 O5'
+_chemical_name_structure_type BaLaMn2O5(tP18)
+_exptl_crystal_density_diffrn 4.44
+_publ_section_title
+
+;
+Synthesis and crystal growth of two novel layered structures, Na K La Nb O5
+and Na2 K2 Gd4 Nb2 O18, in molten hydroxide salts
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Growth & Design' 2002 2 83 85 CGDEFU
+loop_
+_publ_author_name
+'Liao, J.-H.'
+'Tsai, M.-C.'
+_cell_length_a 5.8135(4)
+_cell_length_b 5.8135(4)
+_cell_length_c 8.2804(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 279.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n m m Z'
+_symmetry_Int_Tables_number 129
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Nb5+ 5
+Na1+ 1
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 2 b 0.25 0.75 0.5 0.0053(2) 1. 0
+Nb1 Nb5+ 2 c 0.25 0.25 0.25381(8) 0.0044(2) 1. 0
+Na1 Na1+ 2 c 0.25 0.25 0.7590(4) 0.0072(9) 1. 0
+K1 K1+ 2 a 0.25 0.75 0 0.0218(7) 1. 0
+O1 O2- 8 j 0.0226(4) 0.4774(4) 0.3240(4) 0.0097(6) 1. 0
+O2 O2- 2 c 0.25 0.25 0.0329(7) 0.0146(13) 1. 0
+#End of TTdata_94743-ICSD

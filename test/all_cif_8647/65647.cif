@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65647-ICSD
+_database_code_ICSD 65647
+_audit_creation_date 1990-06-08
+_chemical_name_systematic
+'Sodium aluminium arsenic mue-oxo-hexaoxodiarsenate (1/1.5/.5/2)'
+_chemical_formula_structural 'Na (Al1.5 As.5) (As2 O7)2'
+_chemical_formula_sum 'Al1.5 As4.5 Na1 O14'
+_chemical_name_structure_type NaxMoP2O7
+_exptl_crystal_density_diffrn 4.03
+_publ_section_title 'Structure de Na (Al1.5 As.5) (As2 O7)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1989 45 356 360 ACSCEE
+loop_
+_publ_author_name
+'Driss, A.'
+'Jouini, T.'
+_cell_length_a 7.727(4)
+_cell_length_b 7.118(2)
+_cell_length_c 4.839(2)
+_cell_angle_alpha 104.43(3)
+_cell_angle_beta 93.71(3)
+_cell_angle_gamma 90.07(4)
+_cell_volume 257.17
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Al3+ 3
+As5+ 5
+Al3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 2 i 0.3101(1) 0.2654(1) 0.8908(2) . 1. 0
+As2 As5+ 2 i 0.2481(1) -.1287(1) 0.4727(2) . 1. 0
+As3 As5+ 1 a 0 0 0 . 0.25 0
+Al1 Al3+ 1 a 0 0 0 . 0.75 0
+As4 As5+ 1 h 0.5 0.5 0.5 . 0.25 0
+Al2 Al3+ 1 h 0.5 0.5 0.5 . 0.75 0
+Na1 Na1+ 2 i 0.016(3) 0.486(3) 0.438(3) . 0.5 0
+O1 O2- 2 i 0.4510(7) 0.3074(7) 0.171(1) . 1. 0
+O2 O2- 2 i 0.3066(7) 0.4167(8) 0.676(1) . 1. 0
+O3 O2- 2 i 0.1007(7) 0.2334(7) 0.952(1) . 1. 0
+O4 O2- 2 i 0.3847(6) 0.0418(7) 0.702(1) . 1. 0
+O5 O2- 2 i 0.3461(7) -.3377(7) 0.366(1) . 1. 0
+O6 O2- 2 i 0.2019(7) -.0444(8) 0.187(1) . 1. 0
+O7 O2- 2 i 0.0748(7) -.1579(8) 0.651(1) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+As1 As5+ 0.0026(1) 0.0034(2) 0.0053(3) -.0008(1) 0.0006(2) 0.0017(2)
+As2 As5+ 0.0024(1) 0.0025(1) 0.0051(3) 0.0000(1) 0.0007(1) 0.0008(2)
+As3 As5+ 0.0024(3) 0.0032(4) 0.0057(8) 0.0002(2) 0.0000(6) 0.0023(4)
+Al1 Al3+ 0.0024(3) 0.0032(4) 0.0057(8) 0.0002(2) 0.0000(6) 0.0023(4)
+As4 As5+ 0.0021(3) 0.0030(4) 0.0048(9) -.0006(3) -.0005(4) 0.0013(5)
+Al2 Al3+ 0.0021(3) 0.0030(4) 0.0048(9) -.0006(3) -.0005(4) 0.0013(5)
+Na1 Na1+ 0.0013(3) 0.0013(3) 0.0056(11) -.0004(2) 0.0003(4) 0.0013(6)
+O1 O2- 0.0007(1) 0.0003(1) 0.0009(2) 0.0001(1) -.0003(1) 0.0001(1)
+O2 O2- 0.0005(1) 0.0006(1) 0.0017(3) 0.0000(1) 0.0001(1) 0.0008(1)
+O3 O2- 0.0003(1) 0.0005(1) 0.0016(2) 0.0000(1) 0.0002(1) 0.0005(1)
+O4 O2- 0.0003(1) 0.0003(1) 0.0010(2) -.0001(1) 0.0000(1) -.0003(1)
+O5 O2- 0.0006(1) 0.0003(1) 0.0008(2) 0.0002(1) 0.0002(1) 0.0001(1)
+O6 O2- 0.0003(1) 0.0008(1) 0.0014(2) 0.0000(1) 0.0002(1) 0.0008(1)
+O7 O2- 0.0003(1) 0.0007(1) 0.0006(2) -.0001(1) 0.0003(1) 0.0003(1)
+#End of TTdata_65647-ICSD

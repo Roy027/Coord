@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_170855-ICSD
+_database_code_ICSD 170855
+_audit_creation_date 2006-04-01
+_chemical_name_systematic 'Potassium sodium aluminium diborate (0.96/1.04/2/2)'
+_chemical_formula_structural '(K0.48 Na0.52)2 Al2 B2 O7'
+_chemical_formula_sum 'Al2 B2 K0.96 Na1.04 O7'
+_exptl_crystal_density_diffrn 2.52
+_publ_section_title
+
+;
+(K(1-x) Na(x))2 Al2 B2 O7 with 0 <= x <= 0.6: a promising nonlinear optical
+crystal
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2005 17 2193 2196 CMATEX
+loop_
+_publ_author_name
+'He, M.'
+'Chen, X.'
+'Okudera, H.'
+'Simon, A.'
+_cell_length_a 8.3887(6)
+_cell_length_b 8.3887(6)
+_cell_length_c 8.0804(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 492.44
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 3 2 1'
+_symmetry_Int_Tables_number 150
+_refine_ls_R_factor_all 0.0344
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+K1+ 1
+Na1+ 1
+Al3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 3 e 0.69126(16) 0. 0. 0.0254(6) 0.497(19) 0
+Na1 Na1+ 3 e 0.69126(16) 0. 0. 0.0254(6) 0.503(19) 0
+K2 K1+ 3 f 0.64031(17) 0. 0.5 0.0266(6) 0.462(19) 0
+Na2 Na1+ 3 f 0.64031(17) 0. 0.5 0.0266(6) 0.538(19) 0
+Al1 Al3+ 2 c 0. 0. 0.70460(18) 0.0166(3) 1 0
+Al2 Al3+ 2 d 0.6667 0.3333 0.8091(3) 0.0202(3) 1 0
+Al3 Al3+ 2 d 0.3333 0.6667 0.7747(2) 0.0199(4) 1 0
+B1 B3+ 6 g 0.6659(7) 0.6667(6) 0.7379(5) 0.0237(6) 1 0
+O1 O2- 6 g 0.8421(5) 0.7832(5) 0.8040(10) 0.0176(11) 0.564(18) 0
+O2 O2- 6 g 0.8493(7) 0.7789(7) 0.7468(11) 0.0147(14) 0.436(18) 0
+O3 O2- 6 g 0.5951(5) 0.4806(5) 0.7111(10) 0.0130(11) 0.547(19) 0
+O4 O2- 6 g 0.5923(6) 0.4825(7) 0.7687(12) 0.0174(15) 0.453(19) 0
+O5 O2- 6 g 0.5522(5) 0.7338(4) 0.6796(10) 0.0135(10) 0.57(2) 0
+O6 O2- 6 g 0.5565(6) 0.7419(6) 0.7342(12) 0.0107(15) 0.43(2) 0
+O7 O2- 3 f 0.0456(15) 0.0456(15) 0.5 0.057(5) 0.33 0
+O8 O2- 6 g 0.289(7) 0.659(13) 0.9839(8) 0.053(6) 0.33 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0218(6) 0.0192(7) 0.0344(9) 0.0096(3) 0.0043(3) 0.0086(6)
+Na1 Na1+ 0.0218(6) 0.0192(7) 0.0344(9) 0.0096(3) 0.0043(3) 0.0086(6)
+K2 K1+ 0.0242(6) 0.0256(8) 0.0304(9) 0.0128(4) 0.0028(3) 0.0057(7)
+Na2 Na1+ 0.0242(6) 0.0256(8) 0.0304(9) 0.0128(4) 0.0028(3) 0.0057(7)
+Al1 Al3+ 0.0133(3) 0.0133(3) 0.0231(7) 0.00665(17) 0. 0.
+Al2 Al3+ 0.0132(6) 0.0132(6) 0.0340(9) 0.0066(3) 0. 0.
+Al3 Al3+ 0.0141(6) 0.0141(6) 0.0314(8) 0.0071(3) 0. 0.
+B1 B3+ 0.013(2) 0.008(2) 0.0482(19) 0.0040(9) 0.0031(10) 0.0027(13)
+O7 O2- 0.060(8) 0.060(8) 0.027(4) 0.011(7) 0.006(7) -0.006(7)
+O8 O2- 0.07(2) 0.071(16) 0.035(3) 0.05(3) 0.005(6) 0.006(10)
+#End of TTdata_170855-ICSD

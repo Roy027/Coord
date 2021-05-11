@@ -1,0 +1,97 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262729-ICSD
+_database_code_ICSD 262729
+_audit_creation_date 2012-08-01
+_chemical_name_systematic 'Dipotassium trisodium triphosphate'
+_chemical_formula_structural 'K2 Na3 P3 O10'
+_chemical_formula_sum 'K2 Na3 O10 P3'
+_exptl_crystal_density_diffrn 2.57
+_cell_measurement_temperature 296.
+_publ_section_title 'Dipotassium trisodium triphosphate, K2 Na3 P3 O10'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2012 68
+i31 i31 ACSEBH
+loop_
+_publ_author_name
+'Moutataouia, M.'
+'Lamire, M.'
+'Saadi, M.'
+'El Ammari, L.'
+_cell_length_a 9.8866(4)
+_cell_length_b 5.6332(2)
+_cell_length_c 18.6577(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.199(3)
+_cell_angle_gamma 90.
+_cell_volume 1033.03
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.032
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 8 f 0.09445(3) 0.27218(6) 0.57736(2) 0.02014(8) 1 0
+P1 P5+ 8 f 0.06781(3) 0.22944(6) 0.398705(18) 0.00976(7) 1 0
+P2 P5+ 4 e 0. 0.09573(9) 0.25 0.01288(10) 1 0
+Na1 Na1+ 8 f 0.21820(7) -0.30829(11) 0.32759(3) 0.01917(13) 1 0
+Na2 Na1+ 4 c 0.25 -0.25 0.5 0.01344(15) 1 0
+O1 O2- 8 f -0.07276(11) 0.22433(19) 0.42318(6) 0.0184(2) 1 0
+O2 O2- 8 f 0.15106(10) 0.44080(18) 0.42676(5) 0.01569(19) 1 0
+O3 O2- 8 f 0.14234(10) -0.00428(18) 0.40638(6) 0.01571(19) 1 0
+O4 O2- 8 f 0.04508(11) 0.28577(18) 0.31142(5) 0.01663(19) 1 0
+O5 O2- 8 f -0.12023(12) -0.0419(2) 0.26927(6) 0.0231(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.01413(13) 0.01460(13) 0.03200(18) 0.00043(10) 0.00389(11) 0.00128(11)
+P1 P5+ 0.00897(13) 0.00981(14) 0.01046(14) 0.00010(10) 0.00091(10) -0.00060(10)
+P2 P5+ 0.0142(2) 0.0135(2) 0.0108(2) 0. 0.00129(15) 0.
+Na1 Na1+ 0.0199(3) 0.0173(3) 0.0212(3) 0.0060(2) 0.0062(2) 0.0047(2)
+Na2 Na1+ 0.0132(3) 0.0131(4) 0.0139(3) -0.0003(3) 0.0008(3) -0.0006(3)
+O1 O2- 0.0136(4) 0.0187(5) 0.0244(5) -0.0006(4) 0.0090(4) -0.0020(4)
+O2 O2- 0.0151(4) 0.0140(4) 0.0174(4) -0.0028(3) -0.0007(3) -0.0041(3)
+O3 O2- 0.0162(4) 0.0126(4) 0.0180(4) 0.0044(3) 0.0003(3) 0.0015(3)
+O4 O2- 0.0239(5) 0.0159(4) 0.0095(4) -0.0021(4) -0.0010(3) 0.0012(3)
+O5 O2- 0.0238(5) 0.0246(5) 0.0216(5) -0.0107(4) 0.0056(4) 0.0005(4)
+#End of TTdata_262729-ICSD

@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156488-ICSD
+_database_code_ICSD 156488
+_audit_creation_date 2007-08-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic
+'Tetrasodium trioxalatobis(dioxoneptunate(V)) hexahydrate'
+_chemical_formula_structural 'Na4 ((Np O2)2 (C2 O4)3) (H2 O)6'
+_chemical_formula_sum 'C6 H12 Na4 Np2 O22'
+_exptl_crystal_density_diffrn 3.06
+_publ_section_title
+
+;
+Synthesis and crystal structure of a new Np(V) oxalate, Na4 (Np O2)2 (C2 O4)3
+* 6(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Radiokhimiya 2006 48 3 6 RADKAU
+loop_
+_publ_author_name
+'Charushnikova, I.A.'
+'Krot, N.N.'
+'Polyakova, I.N.'
+_cell_length_a 14.7909(14)
+_cell_length_b 17.656(2)
+_cell_length_c 10.3626(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 126.423(10)
+_cell_angle_gamma 90.
+_cell_volume 2177.54
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0571
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Np5+ 5
+Na1+ 1
+O2- -2
+C3+ 3
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Np1 Np5+ 8 f 0.168600(19) 0.113032(10) 0.61010(2) 0.01692(13) 1. 0
+Na1 Na1+ 8 f 0.1641(2) -0.09182(14) 0.7054(3) 0.0235(5) 1. 0
+Na2 Na1+ 8 f 0.1207(2) 0.30927(15) 0.7444(3) 0.0290(5) 1. 0
+O1 O2- 8 f 0.3164(4) 0.0961(3) 0.7733(6) 0.0284(10) 1. 0
+O2 O2- 8 f 0.0228(4) 0.1317(3) 0.4477(6) 0.0293(10) 1. 0
+O3 O2- 8 f 0.1345(5) 0.0257(2) 0.7691(6) 0.0271(10) 1. 0
+O4 O2- 8 f 0.1605(5) 0.0127(2) 0.0044(5) 0.0261(9) 1. 0
+O5 O2- 8 f 0.1409(5) 0.1745(2) 0.7952(6) 0.0259(9) 1. 0
+O6 O2- 8 f 0.1828(4) 0.1663(2) 0.0396(5) 0.0237(9) 1. 0
+O7 O2- 8 f 0.2266(5) 0.1550(2) 0.4421(6) 0.0244(9) 1. 0
+O8 O2- 8 f 0.2915(5) 0.2486(2) 0.3739(6) 0.0243(9) 1. 0
+C1 C3+ 8 f 0.1503(5) 0.0508(3) 0.8942(7) 0.0194(10) 1. 0
+C2 C3+ 8 f 0.1586(5) 0.1385(3) 0.9122(7) 0.0176(10) 1. 0
+C3 C3+ 8 f 0.2555(5) 0.2227(3) 0.4467(7) 0.0199(10) 1. 0
+O9 O2- 8 f 0.1271(6) 0.4316(3) 0.6346(10) 0.0523(16) 1. 0
+H1 H1+ 8 f 0.1068 0.4751 0.6698 0.063 1. 0
+H2 H1+ 8 f 0.0879 0.4319 0.5193 0.063 1. 0
+O10 O2- 8 f -0.0750(5) 0.3088(3) 0.5549(7) 0.0415(13) 1. 0
+H3 H1+ 8 f -0.1021 0.2636 0.4887 0.05 1. 0
+H4 H1+ 8 f -0.1026 0.3536 0.4876 0.05 1. 0
+O11 O2- 4 e 0 0.2658(6) 0.25 0.063(3) 1. 0
+H5 H1+ 8 f 0.054(9) 0.247(8) 0.249(18) 0.076 1. 0
+O12 O2- 4 e 0.5 0.0692(9) 0.75 0.134(10) 1. 0
+H6 H1+ 8 f 0.51(3) 0.095(12) 0.68(3) 0.161 1. 0
+#End of TTdata_156488-ICSD

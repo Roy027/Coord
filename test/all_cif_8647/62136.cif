@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62136-ICSD
+_database_code_ICSD 62136
+_audit_creation_date 1988-02-22
+_audit_update_record 2011-02-01
+_chemical_name_systematic 'Dipotassium tetrasodium bis(catena-gallate)'
+_chemical_formula_structural 'K2 Na4 (Ga O3)2'
+_chemical_formula_sum 'Ga2 K2 Na4 O6'
+_chemical_name_structure_type K2Na4(GaO3)2
+_exptl_crystal_density_diffrn 3.29
+_publ_section_title 'Das erste Oxogallat mit Tetraeder-Ketten'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1987
+551 136 146 ZAACAB
+loop_
+_publ_author_name
+'Hoppe, R.'
+'Mueller, H.P.'
+_cell_length_a 6.515(1)
+_cell_length_b 6.132(1)
+_cell_length_c 10.245(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 409.29
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.0816
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Na1+ 1
+Ga3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+K1 K1+ 4 c 0.3411(4) 0.25 0.9735(2) . 1. 0
+Na1 Na1+ 8 d 0.9914(5) 0.0099(6) 0.2319(2) . 1. 0
+Ga1 Ga3+ 4 c 0.8322(2) 0.25 0.9926(1) . 1. 0
+O1 O2- 4 c 0.1715(11) 0.25 0.3599(6) . 1. 0
+O2 O2- 4 a 0 0 0 . 1. 0
+O3 O2- 4 c 0.7161(19) 0.25 0.8326(6) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0090(9) 0.0239(10) 0.0410(15) 0 0.0036(11) 0
+Na1 Na1+ 0.0231(10) 0.0136(11) 0.011(1) -.0039(9) 0.0018(12) -.0082(14)
+Ga1 Ga3+ 0.0055(4) 0.0067(4) 0.0066(4) 0 0.0021(6) 0
+O1 O2- 0.0064(20) 0.0153(22) 0.0172(21) 0 -.0040(21) 0
+O2 O2- 0.0165(19) 0.0123(20) 0.0111(19) -.0067(18) 0.0045(22) -.0032(23)
+O3 O2- 0.0032(21) 0.0164(22) 0.0118(21) 0 0.0004(18) 0
+#End of TTdata_62136-ICSD

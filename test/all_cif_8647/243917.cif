@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243917-ICSD
+_database_code_ICSD 243917
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Disodium dimagnesium triphosphate nitride'
+_chemical_formula_structural 'Na2 Mg2 P3 O9 N'
+_chemical_formula_sum 'Mg2 N1 Na2 O9 P3'
+_chemical_name_structure_type Na3AlN(PO3)3
+_exptl_crystal_density_diffrn 2.91
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+In situ neutron diffraction studies of the ion exchange synthesis mechanism of
+Li2Mg2P3O9N: evidence for a hidden phase transition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2017 139 9192 9202 JACSAT
+loop_
+_publ_author_name
+'Liu, Jue'
+'Whitfield, Pamela S.'
+'Saccomanno, Michael R.'
+'Bo, Shou-Hang'
+'Hu, Enyuan'
+'Yu, Xiqian'
+'Bai, Jianming'
+'Grey, Clare P.'
+'Yang, Xiao-Qing'
+'Khalifah, Peter G.'
+_cell_length_a 9.243848(19)
+_cell_length_b 9.243848(19)
+_cell_length_c 9.243848(19)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 789.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mg2+ 2
+P5+ 5
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0.03860(19) 0.03860(19) 0.03860(19) 1.319(82) 1 0
+Na2 Na1+ 4 a 0.79207(23) 0.79207(23) 0.79207(23) 1.532(93) 1 0
+Mg1 Mg2+ 4 a 0.57808(18) 0.57808(18) 0.57808(18) 0.867(71) 1 0
+Mg2 Mg2+ 4 a 0.39823(27) 0.39823(27) 0.39823(27) 0.609(68) 1 0
+P1 P5+ 12 b 0.09073(18) 0.26122(19) 0.34138(18) 0.504(21) 1 0
+O1 O2- 12 b 0.01350(34) 0.86876(34) 0.22531(38) 0.821(72) 1 0
+O2 O2- 12 b 0.00144(38) 0.13215(28) 0.39914(34) 0.742(81) 1 0
+O3 O2- 12 b 0.19249(33) 0.32913(36) 0.45209(35) 0.640(75) 1 0
+N1 N3- 4 a 0.19923(37) 0.19923(37) 0.19923(37) 0.48(16) 1 0
+#End of TTdata_243917-ICSD

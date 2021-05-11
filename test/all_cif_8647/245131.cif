@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245131-ICSD
+_database_code_ICSD 245131
+_audit_creation_date 2007-08-01
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Disodium yttrium dicarbonate hydroxide'
+_chemical_formula_structural 'Na2 Y (C O3)2 (O H)'
+_chemical_formula_sum 'C2 H1 Na2 O7 Y1'
+_chemical_name_structure_type Na2Y(CO3)2OH
+_exptl_crystal_density_diffrn 2.94
+_cell_measurement_temperature 298.
+_publ_section_title
+'Phase stability regions in the Na2 CO3 - YF3 - H2 O system at 190 C'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2006 8 1322 1329 SSSCFJ
+loop_
+_publ_author_name
+'Ali, A.B.'
+'Kodjikian, S.'
+'Maisonneuve, V.'
+'Leblanc, M.'
+_cell_length_a 17.598(8)
+_cell_length_b 6.168(4)
+_cell_length_c 11.382(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.01(2)
+_cell_angle_gamma 90.
+_cell_volume 1228.66
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Na1+ 1
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 8 f 0.5609(2) 0.34160(6) 0.63134(3) 0.76(2) 1. 0
+Na1 Na1+ 8 f 0.6106(1) 0.0992(4) 0.3811(2) 1.54(4) 1. 0
+Na2 Na1+ 8 f 0.7362(1) -0.0883(4) 0.6429(2) 2.21(4) 1. 0
+C1 C4+ 8 f 0.5644(2) -0.2038(8) 0.6173(4) 0.94(7) 1. 0
+C2 C4+ 8 f 0.7915(3) 0.0753(7) 0.4219(4) 1.01(7) 1. 0
+O1 O2- 8 f 0.5070(2) 0.6867(5) 0.5661(3) 1.01(5) 1. 0
+O2 O2- 8 f 0.6062(2) 0.3000(6) 0.2009(3) 1.47(6) 1. 0
+O3 O2- 8 f 0.8011(2) -0.1885(5) 0.8270(3) 1.26(6) 1. 0
+O4 O2- 8 f 0.5798(2) -0.0118(5) 0.5847(3) 1.47(6) 1. 0
+O5 O2- 8 f 0.7310(2) -0.0269(6) 0.4336(3) 1.68(6) 1. 0
+O6 O2- 8 f 0.6502(2) 0.4314(6) 0.4964(3) 1.28(6) 1. 0
+O7 O2- 8 f 0.4383(2) 0.2673(6) 0.6737(3) 1.15(5) 1. 0
+H1 H1+ 8 f 0.391(5) 0.33(1) 0.636(8) 5.(2) 1. 0
+#End of TTdata_245131-ICSD

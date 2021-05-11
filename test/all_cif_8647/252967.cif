@@ -1,0 +1,122 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252967-ICSD
+_database_code_ICSD 252967
+_audit_creation_date 2017-08-01
+_chemical_name_systematic
+'Sodium aluminium chromium oxide (1.905/16.726/0.274/25)'
+_chemical_formula_structural 'Na1.905 (Al16.726 Cr0.274) O25'
+_chemical_formula_sum 'Al16.726 Cr0.274 Na1.905 O25'
+_exptl_crystal_density_diffrn 3.43
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+beta-alumina-14H and beta-alumina-21R: Two chromic Na2-d (Al,Mg,Cr)17 O25
+polysomes observed in slags from the production of low-carbon ferrochromium
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2016 241 70 78 JSSCBI
+loop_
+_publ_author_name
+'Hejny, Clivia'
+'Kahlenberg, Volker'
+'Schmidmair, Daniela'
+'Tribus, Martina'
+'DeVilliers, Johan'
+_cell_length_a 5.6467(2)
+_cell_length_b 5.6467(2)
+_cell_length_c 31.9111(12)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 881.17
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m m c'
+_symmetry_Int_Tables_number 194
+_refine_ls_R_factor_all 0.0393
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, x-y, -z+1/2'
+2 '-x+y, y, -z+1/2'
+3 '-y, -x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 '-x, -x+y, z+1/2'
+8 'x-y, -y, z+1/2'
+9 'y, x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 '-x, -x+y, -z'
+14 'x-y, -y, -z'
+15 'y, x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 'x, x-y, z'
+20 '-x+y, y, z'
+21 '-y, -x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al2+ 2.83
+Cr3+ 3
+Al2+ 2.83
+Cr3+ 3
+Al2+ 2.83
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Al1 Al2+ 4 f 0.333333 0.666667 0.07229(5) 0.0057(6) 0.943(9) 0
+Cr1 Cr3+ 4 f 0.333333 0.666667 0.07229(5) 0.0057(6) 0.057(9) 0
+Al2 Al2+ 12 k 0.16486(8) 0.32972(16) 0.14842(3) 0.0055(4) 0.974(5) 0
+Cr2 Cr3+ 12 k 0.16486(8) 0.32972(16) 0.14842(3) 0.0055(4) 0.026(5) 0
+Al3 Al2+ 4 f 0.666667 0.333333 0.19770(5) 0.0088(5) 1 0
+Al4 Al2+ 6 g 0.5 1 0 0.0083(4) 1 0
+Al5 Al2+ 4 e 0 1 0.05568(5) 0.0112(5) 1 0
+Al6 Al2+ 4 f 0.666667 1.333333 0.09142(5) 0.0081(5) 1 0
+O1 O2- 4 f 0.333333 0.666667 0.17414(12) 0.0090(9) 1 0
+O2 O2- 12 k 0.3304(4) 0.16518(18) 0.17726(7) 0.0099(6) 1 0
+O3 O2- 4 e 0 1 0.11523(12) 0.0111(9) 1 0
+O4 O2- 12 k 0.0221(4) 0.5110(2) 0.10810(8) 0.0117(6) 1 0
+O5 O2- 4 f 0.666667 1.333333 0.03423(13) 0.0110(9) 1 0
+O6 O2- 12 k 0.1809(2) 0.8191(2) 0.03441(8) 0.0115(6) 1 0
+O7 O2- 2 d 0.666667 0.333333 0.25 0.057(3) 1 0
+Na1 Na1+ 6 h 0.527374 0.763687 0.25 0.176(16) 0.311(12) 0
+Na2 Na1+ 2 b 0 0 0.25 0.170(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O7 O2- 0.082(5) 0.082(5) 0.007(4) 0.041(2) 0 0
+Na1 Na1+ 0.26(3) 0.221(18) 0.063(10) 0.128(13) 0 0
+Na2 Na1+ 0.226(8) 0.226(8) 0.059(5) 0.113(4) 0 0
+#End of TTdata_252967-ICSD

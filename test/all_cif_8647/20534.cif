@@ -1,0 +1,81 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_20534-ICSD
+_database_code_ICSD 20534
+_audit_creation_date 1982-12-31
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Disodium dimanganese disilicate'
+_chemical_formula_structural 'Na2 Mn2 (Si2 O7)'
+_chemical_formula_sum 'Mn2 Na2 O7 Si2'
+_chemical_name_structure_type Na2Mn2Si2O7
+_exptl_crystal_density_diffrn 3.22
+_publ_section_title
+
+;
+The refinement of cristal structure of two mn-silicates Na2 Mn2 Si2 O7 and Na5
+(Mn, Na)3 Mn Si6 O18
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1982 265 76 79 DANKAS
+loop_
+_publ_author_name
+'Otroshchenko, L.P.'
+'Simonov, V.I.'
+'Belov, N.V.'
+_cell_length_a 8.757(3)
+_cell_length_b 13.294(6)
+_cell_length_c 5.744(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.17(3)
+_cell_angle_gamma 90.
+_cell_volume 668.69
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.061
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mn2+ 2
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mn1 Mn2+ 4 e 0.7092(1) 0.0076(1) 0.1381(1) 0.55 1. 0
+Mn2 Mn2+ 4 e 0.1168(1) 0.0818(1) 0.3379(1) 0.59 1. 0
+Si1 Si4+ 4 e 0.0285(1) 0.8793(1) 0.1888(2) 0.4 1. 0
+Si2 Si4+ 4 e 0.4504(1) 0.1668(1) 0.1845(2) 0.5 1. 0
+Na1 Na1+ 4 e 0.3037(2) 0.2455(1) 0.7192(4) 1.45 1. 0
+Na2 Na1+ 4 e 0.6172(2) 0.1610(2) 0.6694(2) 1.85 1. 0
+O1 O2- 4 e 0.9597(4) 0.2098(2) 0.6209(2) 1.24 1. 0
+O2 O2- 4 e 0.0925(3) 0.0408(2) 0.6968(6) 1.25 1. 0
+O3 O2- 4 e 0.6171(3) 0.1334(2) 0.2774(6) 1.25 1. 0
+O4 O2- 4 e 0.0234(4) 0.1638(2) 0.0662(6) 1.25 1. 0
+O5 O2- 4 e 0.3199(4) 0.1541(3) 0.3771(7) 1.58 1. 0
+O6 O2- 4 e 0.8096(3) 0.0586(2) 0.8276(6) 1.23 1. 0
+O7 O2- 4 e 0.4170(4) 0.1155(2) 0.9343(6) 0.77 1. 0
+#End of TTdata_20534-ICSD

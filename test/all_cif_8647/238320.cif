@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238320-ICSD
+_database_code_ICSD 238320
+_audit_creation_date 2015-08-01
+_chemical_name_systematic 'Tetrasodium tricadmium dihydroxo tetracarbonate'
+_chemical_formula_structural 'Na4 Cd3 (C O3)4 (O H)2'
+_chemical_formula_sum 'C4 H2 Cd3 Na4 O14'
+_exptl_crystal_density_diffrn 3.86
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, crystal structure, and optical properties of a new sodium-cadmium
+carbonate Na4 Cd3 (C O3)4 (O H)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2015 641 460 463
+ZAACAB
+loop_
+_publ_author_name
+'Chen, Jie'
+'Luo, Min'
+'Ye, Ning'
+_cell_length_a 9.341(12)
+_cell_length_b 3.430(4)
+_cell_length_c 19.16(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.448(18)
+_cell_angle_gamma 90.
+_cell_volume 605.55
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0232
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Na1+ 1
+O2- -2
+H1+ 1
+O2- -2
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 2 a 0. 1. 0. 0.00853(12) 1 0
+Cd2 Cd2+ 4 e 0.08211(3) 0.54332(8) 0.180154(14) 0.00884(10) 1 0
+Na1 Na1+ 4 e 0.45883(16) -0.0483(5) 0.17286(9) 0.0124(4) 1 0
+Na2 Na1+ 4 e 0.35483(18) 0.7393(5) 0.44940(8) 0.0146(4) 1 0
+O1 O2- 4 e 0.3742(3) -0.0641(8) 0.27932(15) 0.0139(6) 1 0
+O2 O2- 4 e 0.1745(3) 0.4930(7) 0.01916(15) 0.0103(6) 1 0
+O3 O2- 4 e 0.1357(3) 0.0513(7) 0.26495(14) 0.0085(6) 1 0
+O4 O2- 4 e -0.0163(3) 1.0381(7) 0.11293(14) 0.0082(6) 1 0
+H1 H1+ 4 e -0.1201 1.0375 0.1158 0.012 1 0
+O5 O2- 4 e 0.2854(3) 0.4574(8) 0.13264(15) 0.0125(6) 1 0
+O6 O2- 4 e 0.3946(3) 0.2392(9) 0.04586(15) 0.0137(6) 1 0
+O7 O2- 4 e 0.2810(3) 0.2381(8) 0.36438(14) 0.0128(6) 1 0
+C1 C4+ 4 e 0.2853(4) 0.3935(11) 0.0662(2) 0.0073(7) 1 0
+C2 C4+ 4 e 0.2673(4) 0.0755(11) 0.3037(2) 0.0078(8) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd2+ 0.0092(2) 0.0100(2) 0.0061(2) -0.00045(15) 0.00032(15) -0.00039(14)
+Cd2 Cd2+ 0.01172(17) 0.00789(17) 0.00722(16) 0.00134(11) 0.00248(11) 0.00046(10)
+Na1 Na1+ 0.0115(9) 0.0139(9) 0.0114(8) -0.0006(6) 0.0006(6) -0.0003(6)
+Na2 Na1+ 0.0170(9) 0.0147(9) 0.0122(8) 0.0007(7) 0.0027(7) -0.0002(7)
+O1 O2- 0.0119(16) 0.0186(16) 0.0125(15) 0.0049(12) 0.0054(12) 0.0020(12)
+O2 O2- 0.0075(14) 0.0120(15) 0.0098(14) -0.0004(11) -0.0031(11) 0.0027(11)
+O3 O2- 0.0075(14) 0.0097(14) 0.0078(13) 0.0005(11) -0.0005(11) 0.0012(11)
+O4 O2- 0.0093(14) 0.0081(14) 0.0068(13) 0.0001(11) 0.0004(11) 0.0003(10)
+O5 O2- 0.0107(15) 0.0201(17) 0.0071(14) 0.0007(12) 0.0022(11) -0.0019(11)
+O6 O2- 0.0111(15) 0.0163(16) 0.0144(14) 0.0039(12) 0.0045(12) -0.0026(12)
+O7 O2- 0.0163(15) 0.0135(15) 0.0081(13) -0.0003(12) 0.0009(11) -0.0025(12)
+C1 C4+ 0.0079(19) 0.0053(19) 0.0083(18) -0.0028(15) 0.0005(14) -0.0002(15)
+C2 C4+ 0.0085(19) 0.0058(19) 0.0090(18) -0.0016(15) 0.0011(15) 0.0039(15)
+#End of TTdata_238320-ICSD

@@ -1,0 +1,105 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51753-ICSD
+_database_code_ICSD 51753
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Sodium niobium chloride oxide (0.21/6/10.5/3)'
+_chemical_formula_structural 'Na0.213 Nb6 Cl10.5 O3'
+_chemical_formula_sum 'Cl10.5 Na0.213 Nb6 O3'
+_exptl_crystal_density_diffrn 3.8
+_publ_section_title
+
+;
+A new niobium cluster oxychloride built from interconnected Nb6 Cl12 O6 units:
+Na0.21 Nb6 Cl10.5 O3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 163 325 331 JSSCBI
+loop_
+_publ_author_name
+'Gulo, F.'
+'Perrin, C.'
+_cell_length_a 11.5048(1)
+_cell_length_b 11.5048(1)
+_cell_length_c 44.9446(7)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 5151.89
+_cell_formula_units_Z 12
+_symmetry_space_group_name_H-M 'R -3 c H'
+_symmetry_Int_Tables_number 167
+_refine_ls_R_factor_all 0.0416
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nb2+ 2.713
+Cl1- -1
+O2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Nb1 Nb2+ 36 f 0.4930(1) 0.6877(1) 0.0485(1) 0.010(1) 1. 0
+Nb2 Nb2+ 36 f 0.3785(1) 0.5420(1) -.0032(1) 0.011(1) 1. 0
+Cl1 Cl1- 36 f 0.5209(1) 0.7133(1) -.0402(1) 0.016(1) 1. 0
+Cl2 Cl1- 36 f 0.4920(1) 0.8489(1) 0.0836(1) 0.018(1) 1. 0
+Cl3 Cl1- 36 f 0.6680(1) 0.8841(1) 0.0211(1) 0.016(1) 1. 0
+Cl4 Cl1- 18 e 0.6667 0.6822(1) 0.0833 0.019(1) 1. 0
+O1 O2- 36 f 0.5292(2) 0.5707(2) 0.0229(1) 0.012(1) 1. 0
+Na1 Na1+ 6 a 0.3333 0.6667 -.0833 0.035(4) 0.426 0
+#End of TTdata_51753-ICSD

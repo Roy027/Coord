@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_408771-ICSD
+_database_code_ICSD 408771
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Sodium indium sulfide (0.88/5.13/7)'
+_chemical_formula_structural 'Na0.875 (In5.125 S7)'
+_chemical_formula_sum 'In5.125 Na0.875 S7'
+_chemical_name_structure_type In6S7
+_exptl_crystal_density_diffrn 4.77
+_publ_section_title
+
+;
+K In5 S6 und M In5 S7 (M: Na, K): Drei neue, gemischtvalente Thioindate der
+Alkalimetalle und ihre kristallchemischen Beziehungen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1998
+624 1839 1845 ZAACAB
+loop_
+_publ_author_name
+'Deiseroth, H.J.'
+'Reiner, C.'
+_cell_length_a 9.030(4)
+_cell_length_b 3.849(2)
+_cell_length_c 17.0689(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.35(2)
+_cell_angle_gamma 90.
+_cell_volume 579.53
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/m 1'
+_symmetry_Int_Tables_number 11
+_refine_ls_R_factor_all 0.0265
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In2+ 2.6
+S2- -2
+In1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+In1 In2+ 2 e 0.42001(4) 0.25 0.87050(2) . 1. 0
+In2 In2+ 2 e 0.67957(3) 0.25 0.81133(2) . 1. 0
+In3 In2+ 2 e 0.47187(3) 0.25 0.39644(2) . 1. 0
+In4 In2+ 2 e 0.16978(3) 0.25 0.53525(2) . 1. 0
+In5 In2+ 2 e 0.85585(3) 0.25 0.04755(2) . 1. 0
+S1 S2- 2 e 0.33583(11) 0.25 0.00234(7) . 1. 0
+S2 S2- 2 e 0.38854(12) 0.25 0.65488(7) . 1. 0
+S3 S2- 2 e 0.25194(12) 0.25 0.27112(6) . 1. 0
+S4 S2- 2 e 0.94072(11) 0.25 0.90895(6) . 1. 0
+S5 S2- 2 e 0.76212(13) 0.25 0.18095(7) . 1. 0
+S6 S2- 2 e 0.96897(12) 0.25 0.40794(7) . 1. 0
+S7 S2- 2 e 0.67117(11) 0.25 0.53240(6) . 1. 0
+In6 In1+ 2 e 0.0192(2) 0.25 0.72204(9) . 0.125(3) 0
+Na1 Na1+ 2 e 0.0192(2) 0.25 0.72204(9) . 0.875(3) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+In1 In2+ 0.0198(2) 0.0150(2) 0.0288(2) 0 0.01402(13) 0
+In2 In2+ 0.0143(2) 0.0150(2) 0.0162(2) 0 0.00484(11) 0
+In3 In2+ 0.0147(2) 0.0134(2) 0.0143(2) 0 0.00105(11) 0
+In4 In2+ 0.01178(15) 0.0148(2) 0.0189(2) 0 0.00037(11) 0
+In5 In2+ 0.0146(2) 0.0118(2) 0.0163(2) 0 0.00556(11) 0
+S1 S2- 0.0135(4) 0.0128(5) 0.0151(5) 0 0.0022(4) 0
+S2 S2- 0.0134(4) 0.0137(5) 0.0142(4) 0 0.0022(4) 0
+S3 S2- 0.0140(4) 0.0125(5) 0.0137(5) 0 0.0019(4) 0
+S4 S2- 0.0116(4) 0.0111(5) 0.0141(5) 0 0.0024(3) 0
+S5 S2- 0.0188(5) 0.0135(5) 0.0166(5) 0 0.0055(4) 0
+S6 S2- 0.0146(5) 0.0129(5) 0.0153(5) 0 0.0027(4) 0
+S7 S2- 0.0133(4) 0.0145(6) 0.0157(5) 0 0.0039(4) 0
+In6 In1+ 0.0350(9) 0.0249(9) 0.0281(8) 0 0.0095(6) 0
+Na1 Na1+ 0.0350(9) 0.0249(9) 0.0281(8) 0 0.0095(6) 0
+#End of TTdata_408771-ICSD

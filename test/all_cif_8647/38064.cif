@@ -1,0 +1,114 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_38064-ICSD
+_database_code_ICSD 38064
+_audit_creation_date 1984-09-06
+_chemical_name_systematic 'Pentasodium dihydrogenphosphate diphosphate'
+_chemical_formula_structural 'Na5 H2 (P O4) (P2 O7)'
+_chemical_formula_sum 'H2 Na5 O11 P3'
+_exptl_crystal_density_diffrn 2.59
+_publ_section_title
+
+;
+Structure of Pentasodium Dihydrogen Orthophosphate Diphosphate (V) Na5 H2 (P
+O4) (P2 O7)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1983 39 1613 1615 ACSCEE
+loop_
+_publ_author_name
+'Wiench, D.M.'
+'Jansen, M.'
+_cell_length_a 10.862(2)
+_cell_length_b 8.426(3)
+_cell_length_c 7.001(2)
+_cell_angle_alpha 128.27
+_cell_angle_beta 99.21(4)
+_cell_angle_gamma 88.84(3)
+_cell_volume 493.99
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.077
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 2 i 0.2840(2) 0.0532(3) 0.6262(3) . 1. 0
+P2 P5+ 2 i 0.4636(2) 0.3160(3) 0.1098(3) . 1. 0
+P3 P5+ 2 i 0.0189(2) 0.3100(3) 0.1154(4) . 1. 0
+O1 O2- 2 i 0.4179(4) 0.1853(7) 0.8141(7) . 1. 0
+O2 O2- 2 i 0.6778(4) 0.0444(7) 0.6209(9) . 1. 0
+O3 O2- 2 i 0.7530(4) 0.0919(7) 0.3313(7) . 1. 0
+O4 O2- 2 i 0.3772(5) 0.4789(7) 0.2419(9) . 1. 0
+O5 O2- 2 i 0.4517(4) 0.1556(7) 0.1531(8) . 1. 0
+O6 O2- 2 i 0.5979(4) 0.3939(8) 0.1653(9) . 1. 0
+O7 O2- 2 i 0.1904(4) 0.2104(7) 0.6926(9) . 1. 0
+O8 O2- 2 i 0.1185(4) 0.2619(7) 0.2539(9) . 1. 0
+O9 O2- 2 i 0.8894(4) 0.2993(7) 0.1685(9) . 1. 0
+O10 O2- 2 i 0.9440(5) 0.4925(7) 0.8269(9) . 1. 0
+O11 O2- 2 i 0.0133(4) 0.1392(7) 0.8277(9) . 1. 0
+Na1 Na1+ 2 i 0.7549(3) 0.0016(4) 0.9241(6) . 1. 0
+Na2 Na1+ 2 i 0.7490(3) 0.4292(4) 0.4706(6) . 1. 0
+Na3 Na1+ 2 i 0.7483(3) 0.4228(5) 0.9759(6) . 1. 0
+Na4 Na1+ 2 i 0.4991(3) 0.2129(5) 0.5334(6) . 1. 0
+Na5 Na1+ 2 i 0.9996(3) 0.2078(4) 0.4603(6) . 1. 0
+H1 H1+ 1 d 0.5 0 0 4. 1. 0
+H2 H1+ 1 c 0 0.5 0 3.97 1. 0
+H3 H1+ 2 i 0.0077(3) 0.0170(3) 0.0798(3) 3.92 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0086(8) 0.0104(9) 0.0069(9) 0.0013(7) 0.0023(7) 0.0046(7)
+P2 P5+ 0.0102(8) 0.0076(8) 0.0075(9) 0.003(7) 0.0012(7) 0.0050(7)
+P3 P5+ 0.0107(9) 0.0105(9) 0.0110(9) 0.0017(7) 0.0023(7) 0.0067(8)
+O1 O2- 0.0069(17) 0.0148(18) 0.0107(18) 0.0018(15) 0.0038(15) 0.0077(15)
+O2 O2- 0.0101(18) 0.0210(19) 0.0108(18) 0.0014(16) 0.0011(16) 0.0091(15)
+O3 O2- 0.0209(19) 0.0111(18) 0.0174(19) 0.0008(16) 0.0076(17) 0.0098(15)
+O4 O2- 0.0229(19) 0.100(18) 0.0120(18) 0.0063(16) 0.0057(16) 0.0068(15)
+O5 O2- 0.0151(19) 0.0103(17) 0.0119(18) 0.0070(15) 0.0070(16) 0.0066(15)
+O6 O2- 0.0118(18) 0.0242(19) 0.0166(19) -.0082(17) -.0031(16) 0.0119(16)
+O7 O2- 0.0128(18) 0.0110(17) 0.0165(18) 0.0032(15) 0.0041(16) 0.0100(15)
+O8 O2- 0.0149(18) 0.0160(18) 0.0196(19) 0.0034(16) 0.0056(16) 0.0119(15)
+O9 O2- 0.0149(19) 0.0228(19) 0.0172(19) 0.0029(17) 0.0065(16) 0.0120(16)
+O10 O2- 0.0232(19) 0.0084(18) 0.0197(19) 0.0006(16) 0.0067(17) 0.0077(15)
+O11 O2- 0.0140(19) 0.0093(18) 0.0166(19) -.0004(16) 0.0054(16) 0.0067(15)
+Na1 Na1+ 0.0171(13) 0.0157(13) 0.0186(14) -.0002(11) -.0013(12) 0.0099(12)
+Na2 Na1+ 0.0156(13) 0.0184(13) 0.0162(14) 0.0000(11) 0.0016(11) 0.0103(11)
+Na3 Na1+ 0.0160(13) 0.0229(14) 0.0209(14) 0.0011(11) -.0003(12) 0.0143(12)
+Na4 Na1+ 0.0227(14) 0.0210(14) 0.0161(14) -.0046(12) 0.0006(12) 0.0122(12)
+Na5 Na1+ 0.0256(14) 0.0163(13) 0.0182(14) 0.0041(12) 0.0057(12) 0.0097(12)
+#End of TTdata_38064-ICSD

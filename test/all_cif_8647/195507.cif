@@ -1,0 +1,89 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_195507-ICSD
+_database_code_ICSD 195507
+_audit_creation_date 2016-02-01
+_chemical_name_systematic
+'Disodium thorium-0.8 uranium-0.2 tris(tetraoxomolybdate)'
+_chemical_formula_structural '(Na0.667 (Th0.8 U0.2)0.333) (Mo O4)'
+_chemical_formula_sum 'Mo1 Na0.667 O4 Th0.2664 U0.0666'
+_chemical_name_structure_type Scheelite-CaWO4
+_exptl_crystal_density_diffrn 5.21
+_publ_section_title
+
+;
+Preparation and characterization of new phases in Na - (U0.5 Pu0.5) - Mo - O
+and Na - (Thx U1-x) - Mo - O (x = 0.5 and 0.8) systems by X-ray and thermal
+methods
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Radiochimica Acta' 2015 103 39 48 RAACAP
+loop_
+_publ_author_name
+'Dahale, Nandakumar Dattatrya'
+'Sali, Sanjay Krishnarao'
+'Keskar, Meera Sanjay'
+'Phatak, Rohan Anil'
+'Kesavaiyer, Krishnan'
+'Kannan, Shanmugaperumal'
+_cell_length_a 5.2816(1)
+_cell_length_b 5.2816(1)
+_cell_length_c 11.5502(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 322.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'I 41/a Z'
+_symmetry_Int_Tables_number 88
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+3/4, x+3/4, -z+3/4'
+2 'y+1/4, -x+3/4, -z+3/4'
+3 'x, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/4, -x+1/4, z+1/4'
+6 '-y+3/4, x+1/4, z+1/4'
+7 '-x, -y+1/2, z'
+8 'x, y, z'
+9 '-y+1/4, x+1/4, -z+1/4'
+10 'y+3/4, -x+1/4, -z+1/4'
+11 'x+1/2, y, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+3/4, -x+3/4, z+3/4'
+14 '-y+1/4, x+3/4, z+3/4'
+15 '-x+1/2, -y, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Th4+ 4
+U4+ 4
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 b 0 0.25 0.625 0.025(2) 0.6667 0
+Th1 Th4+ 4 b 0 0.25 0.625 0.025(2) 0.2666 0
+U1 U4+ 4 b 0 0.25 0.625 0.025(2) 0.0667 0
+Mo1 Mo6+ 4 a 0 0.25 0.125 0.025(2) 1. 0
+O1 O2- 16 f 0.1498(13) 0.0098(14) 0.2123(60) 0.025(2) 1. 0
+#End of TTdata_195507-ICSD

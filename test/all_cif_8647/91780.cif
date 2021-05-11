@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_91780-ICSD
+_database_code_ICSD 91780
+_audit_creation_date 2002-10-01
+_chemical_name_systematic 'Sodium zinc tris(phosphate(V))'
+_chemical_formula_structural 'Na Zn (P O3)3'
+_chemical_formula_sum 'Na1 O9 P3 Zn1'
+_chemical_name_structure_type NaMgP3O9
+_exptl_crystal_density_diffrn 2.99
+_publ_section_title
+
+;
+Crystal structure and luminescence properties of silver(I) doped polyphosphate
+Na Zn (P O3)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 2000 35 2457 2467 MRBUAC
+loop_
+_publ_author_name
+'Aouad, H.'
+'Maazaz, M.'
+'Belharouak, I.'
+_cell_length_a 14.259(2)
+_cell_length_b 14.234(3)
+_cell_length_c 14.238(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2889.78
+_cell_formula_units_Z 16
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.037
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 8 c 0.1269(7) 0.1136(5) 0.1310(5) 1.40(1) 1. 0
+Zn2 Zn2+ 8 c 0.3792(7) 0.3688(5) 0.3837(6) 0.59(9) 1. 0
+Na1 Na1+ 4 a 0 0.5 0.5 1.48(3) 1. 0
+Na2 Na1+ 4 b 0.5 0.5 0.5 0.66(8) 1. 0
+Na3 Na1+ 8 c 0.2432(9) 0.2613(9) 0.2538(8) 0.47(2) 1. 0
+P1 P5+ 8 c 0.0257(2) 0.2452(2) 0.4764(2) 1.16(2) 1. 0
+P2 P5+ 8 c 0.2271(2) 0.2259(2) 0.5011(2) 0.90(2) 1. 0
+P3 P5+ 8 c 0.2610(2) 0.0214(2) 0.4794(2) 0.53(1) 1. 0
+P4 P5+ 8 c 0.2727(2) 0.0000(2) 0.2778(2) 0.68(1) 1. 0
+P5 P5+ 8 c 0.4749(2) 0.0185(2) 0.2356(2) 1.18(4) 1. 0
+P6 P5+ 8 c 0.4874(2) 0.2219(2) 0.2254(2) 0.83(2) 1. 0
+O1 O2- 8 c 0.4888(4) 0.2726(4) 0.1256(4) 0.99(6) 1. 0
+O2 O2- 8 c 0.0285(4) 0.1667(4) 0.0318(4) 0.48(5) 1. 0
+O3 O2- 8 c 0.4739(3) 0.3369(3) 0.4865(4) 0.41(3) 1. 0
+O4 O2- 8 c 0.1285(4) 0.2098(3) 0.4511(4) 0.42(3) 1. 0
+O5 O2- 8 c 0.2175(4) 0.2227(4) 0.0911(5) 1.53(5) 1. 0
+O6 O2- 8 c 0.2902(3) 0.2631(3) 0.4277(4) 0.40(4) 1. 0
+O7 O2- 8 c 0.2552(3) 0.3784(4) 0.0291(4) 0.40(4) 1. 0
+O8 O2- 8 c 0.1596(3) 0.0284(4) 0.0241(4) 1.79(6) 1. 0
+O9 O2- 8 c 0.3320(3) 0.4756(4) 0.4758(4) 0.36(5) 1. 0
+O10 O2- 8 c 0.2926(3) 0.0514(4) 0.3759(4) 0.75(4) 1. 0
+O11 O2- 8 c 0.2328(4) 0.0728(4) 0.2154(4) 1.22(2) 1. 0
+O12 O2- 8 c 0.2772(4) 0.4096(4) 0.2927(4) 1.63(6) 1. 0
+O13 O2- 8 c 0.1248(4) 0.4703(4) 0.2450(4) 0.50(6) 1. 0
+O14 O2- 8 c 0.4755(3) 0.4685(4) 0.3406(4) 0.75(4) 1. 0
+O15 O2- 8 c 0.0207(4) 0.0263(4) 0.1710(3) 1.08(7) 1. 0
+O16 O2- 8 c 0.4458(3) 0.1208(3) 0.1982(4) 0.81(4) 1. 0
+O17 O2- 8 c 0.4163(3) 0.2726(4) 0.2816(4) 1.76(4) 1. 0
+O18 O2- 8 c 0.0837(4) 0.2099(4) 0.2370(4) 0.43(4) 1. 0
+#End of TTdata_91780-ICSD

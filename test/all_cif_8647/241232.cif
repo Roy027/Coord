@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_241232-ICSD
+_database_code_ICSD 241232
+_audit_creation_date 2008-08-01
+_audit_update_record 2013-02-01
+_chemical_name_systematic 'Sodium calcium trimagnesium tris(arsenate(V))'
+_chemical_formula_structural 'Na0.7 Ca0.3 (Na0.3 Ca0.7) Mg3 (As O4)3'
+_chemical_formula_sum 'As3 Ca1 Mg3 Na1 O12'
+_exptl_crystal_density_diffrn 3.87
+_cell_measurement_temperature 293.
+_publ_section_title 'The alluaudit-like arsenate Na Ca Mg3 (As O4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2008 64
+i36 i36 ACSEBH
+loop_
+_publ_author_name
+'Haj Abdallah, A.'
+'Haddad, A.'
+_cell_length_a 11.8800(10)
+_cell_length_b 12.8170(10)
+_cell_length_c 6.741(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 112.450(10)
+_cell_angle_gamma 90.
+_cell_volume 948.64
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As5+ 5
+Mg2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+As1 As5+ 8 f 0.26904(3) 0.38625(2) 0.37969(5) 0.00207(13) 1 0
+As2 As5+ 4 e 0.5 0.21057(3) 0.25 0.00248(14) 1 0
+Mg1 Mg2+ 4 e 0.5 0.23783(13) 0.75 0.0043(3) 1 0
+Mg2 Mg2+ 8 f 0.78584(10) 0.15824(9) 0.37643(18) 0.0030(2) 1 0
+Na1 Na1+ 4 e 0.5 0.511(3) 0.75 0.019(2) 0.7 0
+Ca1 Ca2+ 4 e 0.5 0.523(3) 0.75 0.019(2) 0.3 0
+Ca2 Ca2+ 4 b 0.5 0. 0. 0.0132(3) 0.7 0
+Na2 Na1+ 4 b 0.5 0. 0. 0.0132(3) 0.3 0
+O1 O2- 8 f 0.4635(2) 0.28350(19) 0.0247(4) 0.0063(5) 1 0
+O2 O2- 8 f 0.2837(2) 0.31609(19) 0.1792(4) 0.0061(5) 1 0
+O3 O2- 8 f 0.3415(2) 0.32937(19) 0.6218(4) 0.0053(5) 1 0
+O4 O2- 8 f 0.1175(2) 0.39767(19) 0.3197(4) 0.0074(5) 1 0
+O5 O2- 8 f 0.6086(2) 0.1221(2) 0.2626(4) 0.0105(5) 1 0
+O6 O2- 8 f 0.3381(2) 0.50307(19) 0.3963(4) 0.0082(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As5+ 0.00106(18) 0.00152(19) 0.00403(19) 0.00028(10) 0.00101(12) 0.00027(10)
+As2 As5+ 0.0017(2) 0.0013(2) 0.0040(2) 0. 0.00054(16) 0.
+Mg1 Mg2+ 0.0020(7) 0.0036(7) 0.0080(7) 0. 0.0027(6) 0.
+Mg2 Mg2+ 0.0021(5) 0.0022(5) 0.0053(5) 0.0000(4) 0.0022(4) -0.0001(4)
+Na1 Na1+ 0.0091(8) 0.035(7) 0.0131(8) 0. 0.0032(7) 0.
+Ca1 Ca2+ 0.0091(8) 0.035(7) 0.0131(8) 0. 0.0032(7) 0.
+Ca2 Ca2+ 0.0161(6) 0.0036(5) 0.0107(5) -0.0026(4) -0.0051(5) -0.0003(4)
+Na2 Na1+ 0.0161(6) 0.0036(5) 0.0107(5) -0.0026(4) -0.0051(5) -0.0003(4)
+O1 O2- 0.0039(11) 0.0094(11) 0.0060(11) 0.0020(9) 0.0022(9) 0.0025(9)
+O2 O2- 0.0080(11) 0.0064(11) 0.0045(11) 0.0004(9) 0.0031(9) -0.0010(8)
+O3 O2- 0.0050(10) 0.0072(11) 0.0033(11) 0.0043(9) 0.0010(8) 0.0022(8)
+O4 O2- 0.0010(10) 0.0065(11) 0.0142(12) 0.0005(8) 0.0016(9) 0.0000(9)
+O5 O2- 0.0034(11) 0.0071(11) 0.0169(13) 0.0038(9) -0.0007(9) -0.0040(9)
+O6 O2- 0.0089(11) 0.0022(10) 0.0138(12) -0.0025(9) 0.0047(10) -0.0007(9)
+#End of TTdata_241232-ICSD

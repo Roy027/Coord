@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_85063-ICSD
+_database_code_ICSD 85063
+_audit_creation_date 1999-06-02
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Tetrasodium tungstate'
+_chemical_formula_structural 'Na4 (W O5)'
+_chemical_formula_sum 'Na4 O5 W1'
+_chemical_name_structure_type Li4TeO5
+_exptl_crystal_density_diffrn 4.9
+_publ_section_title
+
+;
+Ein Oxowolframat mit "Kanalsruktur": K Na3 W O5. (Mit einer Bemerkung ueber
+den Aufbau von Na4 W O5)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1989
+573 143 156 ZAACAB
+loop_
+_publ_author_name
+'Hoffmann, R.'
+'Hoppe, R.'
+_cell_length_a 5.694(2)
+_cell_length_b 8.477(2)
+_cell_length_c 5.657(1)
+_cell_angle_alpha 101.29(2)
+_cell_angle_beta 102.25(3)
+_cell_angle_gamma 109.20(3)
+_cell_volume 241.34
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.065
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 2 i 0.2032(1) 0.2065(1) 0.1043(1) . 1. 0
+Na1 Na1+ 1 c 0 0.5 0 . 1. 0
+Na2 Na1+ 1 b 0 0 0.5 . 1. 0
+Na3 Na1+ 2 i 0.4176(8) 0.9045(6) 0.2078(8) . 1. 0
+Na4 Na1+ 2 i 0.6035(9) 0.6033(6) 0.2990(8) . 1. 0
+Na5 Na1+ 2 i 0.8001(8) 0.2907(7) 0.4123(9) . 1. 0
+O1 O2- 2 i 0.5235(12) 0.3154(9) 0.0551(12) . 1. 0
+O2 O2- 2 i 0.8455(11) 0.0356(8) 0.1139(11) . 1. 0
+O3 O2- 2 i 0.9806(12) 0.7596(9) 0.1912(12) . 1. 0
+O4 O2- 2 i 0.1785(12) 0.3988(9) 0.3058(13) . 1. 0
+O5 O2- 2 i 0.3686(12) 0.1553(9) 0.3948(12) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0063(2) 0.046(1) 0.0062(2) 0.0010(1) 0.0002(1) 0.0003(1)
+Na1 Na1+ 0.0394(19) 0.0213(18) 0.0154(18) 0.0244(16) 0.0024(17) 0.0065(16)
+Na2 Na1+ 0.0073(15) 0.0053(16) 0.0064(16) 0.0039(13) 0.0050(13) 0.0038(14)
+Na3 Na1+ 0.0158(15) 0.0134(15) 0.0101(15) 0.0077(13) -.0010(13) 0.0001(13)
+Na4 Na1+ 0.0174(16) 0.0145(15) 0.0131(16) 0.0008(13) 0.0017(14) 0.0055(13)
+Na5 Na1+ 0.0085(14) 0.0231(16) 0.0222(16) 0.0045(13) 0.0045(13) 0.0092(14)
+O1 O2- 0.0092(17) 0.0060(17) 0.0113(18) 0.0029(15) 0.0018(16) -.0013(16)
+O2 O2- 0.0072(16) 0.0035(16) 0.0085(17) 0.0024(14) 0.0048(15) 0.0015(15)
+O3 O2- 0.0118(18) 0.0096(17) 0.0068(17) 0.0020(16) -.0006(16) -.0020(16)
+O4 O2- 0.0050(17) 0.0061(17) 0.0150(18) 0.0007(15) -.0049(16) -.0011(16)
+O5 O2- 0.0070(17) 0.0052(17) 0.0142(18) 0.0019(15) 0.0011(16) 0.0004(16)
+#End of TTdata_85063-ICSD

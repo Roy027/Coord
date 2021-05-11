@@ -1,0 +1,103 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281576-ICSD
+_database_code_ICSD 281576
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Pentapotassium sodium hexasulfato(VI)dicerate'
+_chemical_formula_structural 'K5 Na (Ce2 (S O4)6)'
+_chemical_formula_sum 'Ce2 K5 Na1 O24 S6'
+_exptl_crystal_density_diffrn 3.29
+_cell_measurement_temperature 173.
+_publ_section_title 'Pentapotassium sodium hexasulfatodicerate(III)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2003 59
+i149 i150 ACSEBH
+loop_
+_publ_author_name
+'Eriksson, A.K.'
+'Casari, B.M.'
+'Langer, V.'
+_cell_length_a 9.2117(2)
+_cell_length_b 16.3725(4)
+_cell_length_c 7.7207(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.059(1)
+_cell_angle_gamma 90.
+_cell_volume 1086.65
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.02
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ce3+ 3
+S6+ 6
+O2- -2
+K1+ 1
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ce1 Ce3+ 4 h 0.5 0.356299(10) 0.5 0.00625(5) 1. 0
+S1 S6+ 4 i 0.59615(8) 0.5 0.8069(1) 0.00636(12) 1. 0
+S2 S6+ 8 j 0.12449(6) 0.33454(3) 0.31516(7) 0.00739(10) 1. 0
+O1 O2- 4 i 0.7305(3) 0.5 0.9799(3) 0.0097(4) 1. 0
+O2 O2- 8 j 0.49980(18) 0.42535(10) 0.7920(2) 0.0091(3) 1. 0
+O3 O2- 8 j 0.0339(2) 0.25857(10) 0.3055(2) 0.0136(3) 1. 0
+O4 O2- 4 i 0.6430(3) 0.5 0.6407(3) 0.0108(4) 1. 0
+O5 O2- 8 j 0.24202(19) 0.31954(10) 0.2271(2) 0.0106(3) 1. 0
+O6 O2- 8 j 0.2146(2) 0.35751(11) 0.5105(2) 0.0137(3) 1. 0
+O7 O2- 8 j 0.01700(19) 0.39974(10) 0.2218(2) 0.0111(3) 1. 0
+K1 K1+ 8 j 0.72215(6) 0.34357(3) 0.11773(7) 0.01226(9) 1. 0
+K2 K1+ 2 d 0 0.5 0.5 0.0432(5) 1. 0
+Na1 Na1+ 2 b 0 0.5 0 0.0085(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ce1 Ce3+ 0.00649(8) 0.00635(8) 0.00592(8) 0 0.00224(5) 0
+S1 S6+ 0.0060(3) 0.0060(3) 0.0067(3) 0 0.0018(2) 0
+S2 S6+ 0.0070(2) 0.0067(2) 0.0085(2) 0.00001(16) 0.00274(17) 0.00162(17)
+O1 O2- 0.0071(9) 0.0096(10) 0.0093(10) 0 -.0010(8) 0
+O2 O2- 0.0098(7) 0.0073(6) 0.0115(7) -.0033(5) 0.0052(6) -.0016(6)
+O3 O2- 0.0116(7) 0.0091(7) 0.0201(8) -.0027(6) 0.0057(6) 0.0030(6)
+O4 O2- 0.0115(10) 0.0123(10) 0.0108(10) 0 0.0065(8) 0
+O5 O2- 0.0092(7) 0.0114(7) 0.0128(7) -.0004(6) 0.0059(6) -.0012(6)
+O6 O2- 0.0122(8) 0.0196(9) 0.0081(7) -.0011(6) 0.0022(6) 0.0000(6)
+O7 O2- 0.0097(7) 0.0101(7) 0.0130(7) 0.0020(6) 0.0035(6) 0.0035(6)
+K1 K1+ 0.0122(2) 0.0130(2) 0.0123(2) 0.00213(16) 0.00534(17) 0.00281(16)
+K2 K1+ 0.1001(15) 0.0135(5) 0.0316(7) 0 0.0426(9) 0
+Na1 Na1+ 0.0096(8) 0.0092(8) 0.0091(8) 0 0.0061(6) 0
+#End of TTdata_281576-ICSD

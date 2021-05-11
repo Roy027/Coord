@@ -1,0 +1,107 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_188665-ICSD
+_database_code_ICSD 188665
+_audit_creation_date 2014-02-01
+_chemical_name_systematic
+'Heptasodium tetrachromium(III) tetrakis(diphosphate) orthophosphate'
+_chemical_formula_structural 'Na7 Cr4 (P2 O7)4 (P O4)'
+_chemical_formula_sum 'Cr4 Na7 O32 P9'
+_exptl_crystal_density_diffrn 3.09
+_cell_measurement_temperature 298.
+_publ_section_title 'Na7 Cr4 (P2 O7)4 P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2013 69
+i27 i28 ACSEBH
+loop_
+_publ_author_name
+'Noura Bourguiba Fakhar'
+'Mohamed Faouzi Zid'
+'Ahmed Driss'
+_cell_length_a 14.058(2)
+_cell_length_b 14.058(2)
+_cell_length_c 6.3103(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1247.09
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -4 21 c'
+_symmetry_Int_Tables_number 114
+_refine_ls_R_factor_all 0.0226
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'y+1/2, x+1/2, z+1/2'
+2 'y, -x, -z'
+3 '-y+1/2, -x+1/2, z+1/2'
+4 '-y, x, -z'
+5 'x+1/2, -y+1/2, -z+1/2'
+6 '-x, -y, z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3
+P5+ 5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr3+ 8 e 0.69014(3) 0.38036(3) 0.12660(8) 0.00602(13) 1 0
+P1 P5+ 8 e 0.74875(6) 0.38494(6) 0.64161(12) 0.00652(18) 1 0
+P2 P5+ 8 e 0.55451(6) 0.20026(6) 0.10207(12) 0.00729(17) 1 0
+P3 P5+ 2 b 0.5 0.5 0. 0.0061(3) 1 0
+Na1 Na1+ 8 e 0.75651(11) 0.59258(11) 0.3964(2) 0.0183(3) 1 0
+Na2 Na1+ 8 e 0.5141(6) -0.0143(7) 0.8247(4) 0.0306(19) 0.5 0
+Na3 Na1+ 2 a 0.5 0.5 0.5 0.0371(9) 1 0
+O1 O2- 8 e 0.68067(16) 0.35965(16) 0.8190(3) 0.0105(5) 1 0
+O2 O2- 8 e 0.74924(16) 0.50631(17) 0.0806(3) 0.0093(4) 1 0
+O3 O2- 8 e 0.64622(16) 0.24863(16) 0.1722(4) 0.0126(5) 1 0
+O4 O2- 8 e 0.69139(17) 0.39839(19) 0.4399(3) 0.0147(5) 1 0
+O5 O2- 8 e 0.56956(18) 0.09593(15) 0.0691(4) 0.0151(5) 1 0
+O6 O2- 8 e 0.82198(16) 0.33400(16) 0.1196(4) 0.0129(5) 1 0
+O7 O2- 8 e 0.79078(18) 0.48798(18) 0.6892(4) 0.0156(6) 1 0
+O8 O2- 8 e 0.56314(15) 0.43921(15) 0.1477(3) 0.0098(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr3+ 0.0069(2) 0.0075(2) 0.0037(2) 0.0007(2) 0.00016(19) 0.00024(19)
+P1 P5+ 0.0083(3) 0.0072(4) 0.0040(3) 0.0003(3) -0.0001(3) -0.0005(3)
+P2 P5+ 0.0069(4) 0.0080(4) 0.0070(3) 0.0005(3) 0.0005(3) 0.0005(3)
+P3 P5+ 0.0065(4) 0.0065(4) 0.0052(7) 0. 0. 0.
+Na1 Na1+ 0.0212(7) 0.0191(7) 0.0145(7) 0.0042(6) -0.0030(6) -0.0006(6)
+Na2 Na1+ 0.030(5) 0.051(6) 0.0106(11) -0.026(3) 0.0022(15) -0.0030(18)
+Na3 Na1+ 0.0519(14) 0.0519(14) 0.0076(13) 0. 0. 0.
+O1 O2- 0.0111(11) 0.0152(12) 0.0052(10) -0.0017(10) 0.0014(9) 0.0012(8)
+O2 O2- 0.0126(10) 0.0086(10) 0.0068(9) -0.0020(10) 0.0019(9) 0.0003(9)
+O3 O2- 0.0113(12) 0.0106(11) 0.0157(11) -0.0022(10) -0.0030(9) 0.0052(10)
+O4 O2- 0.0121(11) 0.0289(14) 0.0031(10) 0.0044(11) -0.0018(9) -0.0023(9)
+O5 O2- 0.0206(13) 0.0092(11) 0.0154(12) 0.0006(11) -0.0005(10) -0.0008(9)
+O6 O2- 0.0120(11) 0.0131(11) 0.0137(11) 0.0043(9) 0.0025(10) 0.0025(10)
+O7 O2- 0.0279(13) 0.0099(12) 0.0089(10) -0.0072(11) 0.0060(9) -0.0029(9)
+O8 O2- 0.0088(10) 0.0115(10) 0.0090(10) 0.0018(9) 0.0002(9) 0.0020(9)
+#End of TTdata_188665-ICSD

@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_187028-ICSD
+_database_code_ICSD 187028
+_audit_creation_date 2013-08-01
+_chemical_name_systematic
+'Sodium bismuth barium trioxotitanate (0.48/0.48/0.04/1)'
+_chemical_formula_structural '((Na0.5 Bi0.5)0.96 Ba0.04) (Ti O3)'
+_chemical_formula_sum 'Ba0.04 Bi0.48 Na0.48 O3 Ti1'
+_chemical_name_structure_type Pb(Ti,Zr)O3
+_exptl_crystal_density_diffrn 5.98
+_publ_section_title
+
+;
+Crystal structure of 0.96(Na0.5 Bi0.5 Ti O3) - 0.04(Ba Ti O3) from combined
+refinement of X - ray and neutron diffraction patterns
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Applied Physics Letters' 2012 101 152906-1 152906-4 APPLAB
+loop_
+_publ_author_name
+'Usher, T.M.'
+'Forrester, J.S.'
+'dela Cruz, C.R.'
+'Jones, J.L.'
+_cell_length_a 9.56236(35)
+_cell_length_b 5.49184(8)
+_cell_length_c 5.51893(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 125.4144(11)
+_cell_angle_gamma 90.
+_cell_volume 236.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 c 1'
+_symmetry_Int_Tables_number 9
+_refine_ls_R_factor_all 0.0412
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Bi3+ 3
+Ba2+ 2
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 a 0 0.25 0 0.04626(33) 0.480(3) 0
+Bi1 Bi3+ 4 a 0 0.25 0 0.04626(33) 0.478(0) 0
+Ba1 Ba2+ 4 a 0 0.25 0 0.04626(33) 0.040(1) 0
+Ti1 Ti4+ 4 a 0.2253(4) 0.2506(26) 0.7443(11) 0.0065(6) 1.001(1) 0
+O1 O2- 4 a -0.0139(11) 0.1976(9) 0.5370(20) 0.0087(10) 0.937(8) 0
+O2 O2- 4 a 0.2269(9) 0.5113(24) -0.0166(29) 0.0278(16) 0.975(16) 0
+O3 O2- 4 a 0.2827(10) -0.0005(17) 0.0587(24) 0.0181(16) 1.044(16) 0
+#End of TTdata_187028-ICSD

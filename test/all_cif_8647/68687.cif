@@ -1,0 +1,102 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68687-ICSD
+_database_code_ICSD 68687
+_audit_creation_date 1992-01-20
+_audit_update_record 1999-06-02
+_chemical_name_systematic 'Sodium tecto-gallosilicate hydrate *'
+_chemical_formula_structural 'Na15.5 (Ga15.5 Si24.5 O80) (H2 O)16'
+_chemical_formula_sum 'H32 Ga15.5 Na15.5 O96 Si24.5'
+_chemical_name_structure_type Natrolite-frame
+_chemical_name_mineral 'Zeolite NAT (Ga-exchanged)'
+_exptl_crystal_density_diffrn 2.66
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Synthesis and structural characterization of a hydrated gallosilicate zeolite
+with the NAT-framework
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Society Symposium Proceedings' 1988 111 147 154
+MRSPDH
+loop_
+_publ_author_name
+'Xie, D.'
+'Newsam, J.M.'
+'Yang, J.'
+'Yelon, W.B.'
+_cell_length_a 18.42319(40)
+_cell_length_b 18.8260(30)
+_cell_length_c 6.652(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2307.15
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.054
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Ga3+ 3
+Si4+ 4
+Ga3+ 3
+O2- -2
+Na1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 8 a 0 0 0 1.2(1) 1. 0
+Si2 Si4+ 16 b 0.1543(9) 0.2112(10) 0.610(5) 1.2(1) 0.906(37) 0
+Ga1 Ga3+ 16 b 0.1543(9) 0.2112(10) 0.610(5) 1.2(1) 0.094(37) 0
+Si3 Si4+ 16 b 0.0380(7) 0.0933(7) 0.609(5) 1.2(1) 0.125(37) 0
+Ga2 Ga3+ 16 b 0.0380(7) 0.0933(7) 0.609(5) 1.2(1) 0.875(37) 0
+O1 O2- 16 b 0.0183(8) 0.0699(7) 0.867(6) 1.8(1) 1. 0
+O2 O2- 16 b 0.0693(6) 0.1850(7) 0.604(6) 1.8(1) 1. 0
+O3 O2- 16 b 0.1015(8) 0.0352(8) 0.497(6) 1.8(1) 1. 0
+O4 O2- 16 b 0.2064(8) 0.1510(8) 0.708(5) 1.8(1) 1. 0
+O5 O2- 16 b 0.1792(7) 0.2301(7) 0.381(6) 1.8(1) 1. 0
+Na1 Na1+ 16 b 0.2185(14) 0.0271(11) 0.603(8) 2.5(4) 0.969 0
+O6 O2- 16 b 0.0558(7) 0.1905(7) 0.110(6) 1.5(2) 1. 0
+H1 H1+ 16 b 0.0506(14) 0.1468(13) 0.029(6) 4.0(3) 1. 0
+H2 H1+ 16 b 0.1023(16) 0.1942(13) 0.160(6) 4.0(3) 1. 0
+#End of TTdata_68687-ICSD

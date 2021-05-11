@@ -1,0 +1,96 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_154069-ICSD
+_database_code_ICSD 154069
+_audit_creation_date 2007-04-01
+_chemical_name_systematic
+'Sodium aluminium germanium phosphate(V) (1.13/0.13/1.87/3)'
+_chemical_formula_structural 'Na1.126 (Al0.127 Ge0.873) Ge (P O4)3'
+_chemical_formula_sum 'Al0.127 Ge1.873 Na1.126 O12 P3'
+_chemical_name_structure_type Na1+x(Mg,In)2(SO4)3
+_exptl_crystal_density_diffrn 3.63
+_publ_section_title
+
+;
+Nominal vs. actual stoichiometries in Al-doped NASICONs: a study of the Na1.4
+Al0.4 M1.6 (P O4)3 (M= Ge, Sn, Ti, Hf, Zr) family
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2005 176 1613 1625 SSIOD3
+loop_
+_publ_author_name
+'Maldonado-Manso, P.'
+'Aranda, M.A.G.'
+'Bruque, S.'
+'Sanz, J.'
+'Losilla, E.R.'
+_cell_length_a 8.1427(1)
+_cell_length_b 8.1427(1)
+_cell_length_c 21.5000(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1234.54
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'R -3 H'
+_symmetry_Int_Tables_number 148
+_refine_ls_R_factor_all 0.0191
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, x, -z'
+2 'y, -x+y, -z'
+3 '-x, -y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 'x-y+2/3, x+1/3, -z+1/3'
+8 'y+2/3, -x+y+1/3, -z+1/3'
+9 '-x+2/3, -y+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 'x-y+1/3, x+2/3, -z+2/3'
+14 'y+1/3, -x+y+2/3, -z+2/3'
+15 '-x+1/3, -y+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Ge4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 3 a 0 0 0 0.058(5) 1. 0
+Na2 Na1+ 3 b 0 0 0.5 0.005(3) 1. 0
+Na3 Na1+ 18 f 0.65 0 0.25 0.03 0.042(3) 0
+Al1 Al3+ 6 c 0 0 0.1473(2) 0.0038(9) 0.127(9) 0
+Ge1 Ge4+ 6 c 0 0 0.1473(2) 0.0038(9) 0.873(9) 0
+Ge2 Ge4+ 6 c 0 0 0.6445(2) 0.017(1) 1. 0
+P1 P5+ 18 f 0.2872(4) 0.0021(6) 0.2489(2) 0.0027(5) 1. 0
+O1 O2- 18 f 0.1481(5) -0.0689(5) 0.1946(1) 0.006(1) 1. 0
+O2 O2- 18 f 0.0150(5) -0.1801(6) 0.6901(2) 0.012(1) 1. 0
+O3 O2- 18 f 0.2042(5) 0.1371(5) 0.0936(2) 0.0079(9) 1. 0
+O4 O2- 18 f -0.1839(5) -0.1752(5) 0.5886(2) 0.009(1) 1. 0
+#End of TTdata_154069-ICSD

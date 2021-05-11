@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_55535-ICSD
+_database_code_ICSD 55535
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Pentasodium cesium bis(trinitridotungstate(VI))'
+_chemical_formula_structural 'Na5 Cs (W N3)2'
+_chemical_formula_sum 'Cs1 N6 Na5 W2'
+_chemical_name_structure_type Na5Rb(WN3)2
+_exptl_crystal_density_diffrn 4.95
+_publ_section_title
+
+;
+Na5 Rb ((W N3)2) and Na5 Cs ((W N3)2), two new sodium nitrido tungstates(VI)
+with the heavier alkali metals rubidium and cesium
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 1996 234 171 177 JALCEU
+loop_
+_publ_author_name
+'Niewa, R.'
+'Jacobs, H.'
+_cell_length_a 9.403(3)
+_cell_length_b 10.236(2)
+_cell_length_c 19.501(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.01(2)
+_cell_angle_gamma 90
+_cell_volume 1876.95
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.066
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Cs1+ 1
+Na1+ 1
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 4 e 0.07914(6) 0.23871(5) 0.28631(3) 0.387(8) 1. 0
+W2 W6+ 4 e 0.17312(6) 0.24412(5) 0.09503(3) 0.401(8) 1. 0
+W3 W6+ 4 e 0.57797(7) 0.25525(4) 0.08906(3) 0.442(9) 1. 0
+W4 W6+ 4 e 0.67396(5) 0.24229(5) 0.28129(4) 0.425(8) 1. 0
+Cs1 Cs1+ 4 e 0.1271(1) 0.7606(1) 0.04259(6) 1.15(2) 1. 0
+Cs2 Cs1+ 4 e 0.3832(1) 0.2337(1) 0.41997(6) 1.25(2) 1. 0
+Na1 Na1+ 4 e 0.114(1) 0.5060(8) 0.6816(6) 2.4(2) 1. 0
+Na2 Na1+ 4 e 0.1204(9) 0.8316(7) 0.3409(4) 1.3(1) 1. 0
+Na3 Na1+ 4 e 0.1245(9) 0.5059(7) 0.1827(6) 1.6(2) 1. 0
+Na4 Na1+ 4 e 0.125(1) 0.0206(7) 0.4468(4) 1.2(1) 1. 0
+Na5 Na1+ 4 e 0.130(1) 0.4923(7) 0.4389(5) 1.4(1) 1. 0
+Na6 Na1+ 4 e 0.371(1) 0.0113(7) 0.2964(6) 2.2(2) 1. 0
+Na7 Na1+ 4 e 0.3790(8) 0.3347(7) 0.2155(5) 1.6(1) 1. 0
+Na8 Na1+ 4 e 0.375(1) 0.4971(6) 0.0640(4) 1.2(1) 1. 0
+Na9 Na1+ 4 e 0.3813(9) 0.0058(7) 0.0628(5) 1.1(1) 1. 0
+Na10 Na1+ 4 e 0.632(1) 0.0124(6) 0.1734(5) 1.3(1) 1. 0
+N1 N3- 4 e 0.082(1) 0.386(1) 0.0584(8) 1.1(2) 1. 0
+N2 N3- 4 e 0.107(1) 0.090(1) 0.0590(7) 0.6(2) 1. 0
+N3 N3- 4 e 0.123(1) 0.7538(8) 0.2104(6) 0.6(1) 1. 0
+N4 N3- 4 e 0.135(2) 0.081(1) 0.3221(7) 0.7(2) 1. 0
+N5 N3- 4 e 0.136(2) 0.249(1) 0.1917(9) 1.4(2) 1. 0
+N6 N3- 4 e 0.161(2) 0.374(1) 0.3312(8) 1.1(2) 1. 0
+N7 N3- 4 e 0.380(1) 0.264(1) 0.0836(7) 0.6(2) 1. 0
+N8 N3- 4 e 0.588(2) 0.380(1) 0.3238(8) 1.1(2) 1. 0
+N9 N3- 4 e 0.618(2) 0.083(1) 0.3149(8) 1.2(2) 1. 0
+N10 N3- 4 e 0.628(2) 0.258(1) 0.1852(8) 1.1(2) 1. 0
+N11 N3- 4 e 0.638(2) 0.104(1) 0.0498(8) 1.0(2) 1. 0
+N12 N3- 4 e 0.651(2) 0.397(2) 0.045(1) 1.7(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0047(2) 0.0040(2) 0.0060(2) 0.0001(2) 0.0001(2) 0.0004(2)
+W2 W6+ 0.0051(2) 0.0046(2) 0.0056(2) 0.0003(2) -.0002(2) 0.0004(2)
+W3 W6+ 0.0058(2) 0.0058(2) 0.0059(2) 0.0001(2) -.0009(2) -.0003(2)
+W4 W6+ 0.0044(2) 0.0053(2) 0.0064(2) 0.0005(2) -.0007(2) 0.0007(2)
+Cs1 Cs1+ 0.0166(5) 0.0171(4) 0.0100(4) -.0010(4) 0.0005(4) -.0006(3)
+Cs2 Cs1+ 0.0149(4) 0.0200(4) 0.0126(4) -.0005(4) -.0011(4) 0.0021(4)
+Na1 Na1+ 0.051(7) 0.014(3) 0.023(5) 0.005(4) 0.007(5) 0.002(3)
+Na2 Na1+ 0.007(3) 0.022(3) 0.021(4) 0.005(3) 0.004(3) 0.002(3)
+Na3 Na1+ 0.005(3) 0.013(3) 0.045(6) -.007(3) 0.011(4) -.007(3)
+Na4 Na1+ 0.017(4) 0.018(3) 0.011(3) -.003(3) 0.006(3) -.003(3)
+Na5 Na1+ 0.012(4) 0.016(3) 0.026(5) -.002(3) 0.001(3) -.004(3)
+Na6 Na1+ 0.009(3) 0.014(3) 0.060(7) 0.000(3) 0.010(5) -.013(4)
+Na7 Na1+ 0.009(3) 0.020(3) 0.031(5) 0.001(2) -.005(4) -.004(3)
+Na8 Na1+ 0.023(4) 0.005(2) 0.017(4) 0.003(3) 0.000(3) 0.002(2)
+Na9 Na1+ 0.010(3) 0.010(3) 0.023(4) -.001(3) 0.001(3) -.005(2)
+Na10 Na1+ 0.016(3) 0.005(2) 0.027(4) 0.005(2) -.004(4) 0.001(2)
+#End of TTdata_55535-ICSD

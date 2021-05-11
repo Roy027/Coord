@@ -1,0 +1,138 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432023-ICSD
+_database_code_ICSD 432023
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Sodium tricopper(II) oxo-tris(sulfate)'
+_chemical_formula_structural '(Na1.93 K0.07) Cu3 O (S O4)3'
+_chemical_formula_sum 'Cu3 K0.07 Na1.93 O13 S3'
+_chemical_name_structure_type NaKCu3O(SO4)3
+_chemical_name_mineral Puninite
+_exptl_crystal_density_diffrn 3.3
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+Copper oxosulphates from fumaroles of Tolbachik volcano: puninite,
+Na2Cu3O(SO4)3 - a new mineral species and structure refinements of kamchatkite
+and alumoklyuchevskite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 2017 29 499 510 EJMIER
+loop_
+_publ_author_name
+'Siidra, Oleg I.'
+'Nazarchuk, Evgenii V.'
+'Zaitsev, Anatoly N.'
+'Lukina, Evgeniya A.'
+'Avdontseva, Evgeniya Y.'
+'Vergasova, Lidiya P.'
+'Vlasenko, Natalia S.'
+'Filatov, Stanislav K.'
+'Turner, Rick'
+'Karpov, Gennady A.'
+_cell_length_a 17.3885(13)
+_cell_length_b 9.4009(8)
+_cell_length_c 14.4045(11)
+_cell_angle_alpha 90
+_cell_angle_beta 112.039(2)
+_cell_angle_gamma 90
+_cell_volume 2182.6
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0349
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+S6+ 6
+Na1+ 1
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 8 f 0.58718(3) 0.25204(6) 0.29723(4) 0.01325(14) 1 0
+Cu2 Cu2+ 8 f 0.47704(3) 0.98005(6) 0.34125(4) 0.01265(14) 1 0
+Cu3 Cu2+ 8 f 0.51458(3) 0.52200(6) 0.35982(4) 0.01302(14) 1 0
+S1 S6+ 8 f 0.66078(7) 0.96642(12) 0.36820(9) 0.0136(2) 1 0
+S2 S6+ 8 f 0.66233(7) 0.53840(12) 0.28985(9) 0.0135(2) 1 0
+S3 S6+ 8 f 0.49178(7) 0.75065(12) 0.50868(8) 0.0116(2) 1 0
+Na1 Na1+ 8 f 0.69695(13) 0.2537(2) 0.64380(18) 0.0404(9) 0.930(13) 0
+K1 K1+ 8 f 0.69695(13) 0.2537(2) 0.64380(18) 0.0404(9) 0.070(13) 0
+Na2 Na1+ 8 f 0.67261(12) 0.7785(2) 0.54711(15) 0.0226(5) 1 0
+O1 O2- 4 e 0.5 0.1084(4) 0.25 0.0108(9) 1 0
+O2 O2- 4 e 0.5 0.3941(4) 0.25 0.0118(9) 1 0
+O3 O2- 8 f 0.5972(2) 0.9424(3) 0.4133(3) 0.0195(8) 1 0
+O4 O2- 8 f 0.7360(2) 0.8954(3) 0.4297(2) 0.0200(8) 1 0
+O5 O2- 8 f 0.6295(2) 0.9126(4) 0.2640(2) 0.0193(8) 1 0
+O6 O2- 8 f 0.67728(19) 0.1215(3) 0.3671(3) 0.0186(8) 1 0
+O7 O2- 8 f 0.67887(19) 0.3845(3) 0.3105(3) 0.0207(8) 1 0
+O8 O2- 8 f 0.73934(19) 0.6110(3) 0.3061(3) 0.0191(8) 1 0
+O9 O2- 8 f 0.6217(2) 0.5942(4) 0.3555(2) 0.0192(8) 1 0
+O10 O2- 8 f 0.60651(19) 0.5561(4) 0.1824(2) 0.0190(8) 1 0
+O11 O2- 8 f 0.44385(19) 0.8484(3) 0.4266(2) 0.0170(7) 1 0
+O12 O2- 8 f 0.43222(19) 0.6753(3) 0.5408(2) 0.0163(7) 1 0
+O13 O2- 8 f 0.55330(19) 0.8297(3) 0.5915(2) 0.0159(7) 1 0
+O14 O2- 8 f 0.54029(19) 0.6479(3) 0.4745(2) 0.0160(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0117(3) 0.0086(3) 0.0174(3) 0.0002(2) 0.0031(2) 0.0014(2)
+Cu2 Cu2+ 0.0155(3) 0.0124(3) 0.0103(3) -0.0006(2) 0.0052(2) 0.0026(2)
+Cu3 Cu2+ 0.0137(3) 0.0135(3) 0.0117(3) -0.0010(2) 0.0046(2) -0.0042(2)
+S1 S6+ 0.0150(6) 0.0112(5) 0.0129(6) 0.0029(5) 0.0034(5) 0.0026(4)
+S2 S6+ 0.0132(6) 0.0112(5) 0.0163(6) -0.0013(4) 0.0059(5) 0.0012(5)
+S3 S6+ 0.0162(6) 0.0095(5) 0.0098(6) -0.0002(4) 0.0058(5) -0.0005(4)
+Na1 Na1+ 0.0185(13) 0.0399(15) 0.0585(18) 0.0015(9) 0.0094(11) -0.0194(12)
+K1 K1+ 0.0185(13) 0.0399(15) 0.0585(18) 0.0015(9) 0.0094(11) -0.0194(12)
+Na2 Na1+ 0.0177(10) 0.0232(11) 0.0250(12) 0.0058(8) 0.0058(9) 0.0047(8)
+O1 O2- 0.013(2) 0.008(2) 0.012(2) 0. 0.0047(19) 0.
+O2 O2- 0.012(2) 0.009(2) 0.014(2) 0. 0.0039(19) 0.
+O3 O2- 0.0187(18) 0.0228(19) 0.0189(19) 0.0022(14) 0.0090(15) 0.0066(14)
+O4 O2- 0.0183(18) 0.0174(18) 0.019(2) 0.0074(14) 0.0014(15) 0.0014(14)
+O5 O2- 0.0186(18) 0.0225(18) 0.0138(18) 0.0080(15) 0.0026(15) -0.0011(14)
+O6 O2- 0.0144(17) 0.0129(17) 0.025(2) 0.0015(13) 0.0029(15) 0.0044(14)
+O7 O2- 0.0148(18) 0.0117(17) 0.034(2) 0.0011(14) 0.0067(16) 0.0049(15)
+O8 O2- 0.0141(17) 0.0154(17) 0.027(2) -0.0026(14) 0.0061(15) 0.0011(14)
+O9 O2- 0.0197(18) 0.0224(19) 0.020(2) -0.0087(15) 0.0120(15) -0.0082(15)
+O10 O2- 0.0136(17) 0.029(2) 0.0133(18) -0.0037(14) 0.0041(14) 0.0055(14)
+O11 O2- 0.0202(18) 0.0164(17) 0.0154(18) 0.0037(14) 0.0077(15) 0.0094(14)
+O12 O2- 0.0191(18) 0.0171(18) 0.0147(18) -0.0024(14) 0.0085(15) 0.0036(13)
+O13 O2- 0.0193(18) 0.0165(18) 0.0120(18) -0.0054(14) 0.0059(14) -0.0067(13)
+O14 O2- 0.0183(18) 0.0157(17) 0.0134(18) 0.0013(14) 0.0050(14) -0.0085(13)
+#End of TTdata_432023-ICSD

@@ -1,0 +1,125 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_66055-ICSD
+_database_code_ICSD 66055
+_audit_creation_date 1991-07-10
+_audit_update_record 2012-02-01
+_chemical_name_systematic 'Tetrasodium tetracalcium cyclo-hexasilicate'
+_chemical_formula_structural 'Na4 Ca4 (Si6 O18)'
+_chemical_formula_sum 'Ca4 Na4 O18 Si6'
+_chemical_name_structure_type Na4Ca4Si6O18
+_exptl_crystal_density_diffrn 2.78
+_cell_measurement_temperature 738.
+_publ_section_title
+'Structural study of the phase transition of Na4 Ca4 (Si6 O18)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 1990 46 125 131
+ASBSDK
+loop_
+_publ_author_name
+'Ohsato, H.'
+'Takeuchi, Y.'
+'Maki, I.'
+_cell_length_a 10.530(1)
+_cell_length_b 10.530(1)
+_cell_length_c 13.203(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1267.83
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P 31 2 1'
+_symmetry_Int_Tables_number 152
+_refine_ls_R_factor_all 0.046
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+2/3'
+2 '-x, -x+y, -z+1/3'
+3 'y, x, -z'
+4 '-x+y, -x, z+2/3'
+5 '-y, x-y, z+1/3'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+Na1+ 1
+Ca2+ 2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 3 b 0.1521(9) 0 0.8333 . 1. 0
+O2 O2- 3 b 0.5600(9) 0 0.8333 . 1. 0
+O3 O2- 6 c 0.3437(5) 0.2762(6) 0.8354(3) . 1. 0
+O4 O2- 6 c 0.5850(7) 0.2611(7) 0.8240(4) . 1. 0
+O5 O2- 6 c 0.2387(6) 0.1457(6) 0.6618(3) . 1. 0
+O6 O2- 6 c 0.4712(8) 0.2469(5) 0.0033(3) . 1. 0
+O7 O2- 6 c 0.5578(5) 0.1133(8) 0.6563(3) . 1. 0
+O8 O2- 6 c 0.0720(5) 0.1959(5) 0.7934(3) . 1. 0
+O9 O2- 6 c 0.5910(6) 0.4929(4) 0.8869(3) . 1. 0
+O10 O2- 6 c 0.8000(4) 0.2199(7) 0.7785(3) . 1. 0
+Si1 Si4+ 6 c 0.1958(2) 0.1524(2) 0.7766(1) . 1. 0
+Si2 Si4+ 6 c 0.4967(2) 0.3192(1) 0.8956(1) . 1. 0
+Si3 Si4+ 6 c 0.6264(1) 0.1486(2) 0.7656(1) . 1. 0
+Na1 Na1+ 6 c 0.3133(2) -.0138(2) 0.5905(1) . 0.428(1) 0
+Ca1 Ca2+ 6 c 0.3133(2) -.0138(2) 0.5905(1) . 0.323(1) 0
+Na2 Na1+ 6 c 0.279(3) -.029(2) 0.626(2) . 0.143(1) 0
+Ca2 Ca2+ 6 c 0.279(3) -.029(2) 0.626(2) . 0.108(1) 0
+Na3 Na1+ 6 c 0.5042(6) 0.3368(4) 0.6642(2) . 1. 0
+Na4 Na1+ 6 c 0.5184(3) 0.3594(3) 0.1593(1) . 0.43(1) 0
+Ca3 Ca2+ 6 c 0.5184(3) 0.3594(3) 0.1593(1) . 0.57(1) 0
+Ca4 Ca2+ 3 b 0.8254(3) 0 0.8333 . 1. 0
+Ca5 Ca2+ 3 a 0.3108(1) 0 0.3333 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.01185(92) 0.00606(88) 0.00768(62) 0.00303(44) 0.00203(31) 0.00406(62)
+O2 O2- 0.0134(11) 0.00487(77) 0.00512(49) 0.00243(39) 0.00128(25) 0.00257(50)
+O3 O2- 0.00491(50) 0.00580(54) 0.00460(29) 0.00231(41) -.00174(32) -.00065(31)
+O4 O2- 0.01000(75) 0.00841(70) 0.00444(31) 0.00645(63) 0.00149(36) -.00084(35)
+O5 O2- 0.00857(72) 0.01143(82) 0.00163(17) 0.00515(65) 0.00072(29) 0.00010(29)
+O6 O2- 0.01187(86) 0.01018(59) 0.00180(17) 0.00509(65) 0.00011(35) 0.00086(27)
+O7 O2- 0.00942(56) 0.01195(85) 0.00207(18) 0.00488(71) -.00089(26) -.00083(36)
+O8 O2- 0.00573(32) 0.00927(66) 0.00367(24) 0.00514(51) -.00018(27) -.00017(30)
+O9 O2- 0.00899(70) 0.00387(37) 0.00383(22) 0.00157(50) -.00078(37) -.00126(24)
+O10 O2- 0.00410(39) 0.00863(66) 0.00453(25) 0.00284(46) 0.00034(26) 0.00010(36)
+Si1 Si4+ 0.00301(16) 0.00349(16) 0.00181(6) 0.00147(12) 0.00003(8) 0.00023(8)
+Si2 Si4+ 0.00391(16) 0.00370(12) 0.00180(5) 0.00202(13) -.00029(9) -.00049(7)
+Si3 Si4+ 0.00413(13) 0.00314(15) 0.00167(5) 0.00192(14) 0.00038(6) 0.00030(9)
+Na1 Na1+ 0.00693(26) 0.00613(23) 0.00261(10) 0.00411(22) -.00120(11) -.00096(12)
+Ca1 Ca2+ 0.00693(26) 0.00613(23) 0.00261(10) 0.00411(22) -.00120(11) -.00096(12)
+Na2 Na1+ 0.0505(56) 0.0151(23) 0.0087(14) 0.0233(33) -0.0018(23) 0.0003(14)
+Ca2 Ca2+ 0.0505(56) 0.0151(23) 0.0087(14) 0.0233(33) -0.0018(23) 0.0003(14)
+Na3 Na1+ 0.01059(38) 0.01617(48) 0.00476(14) 0.00711(39) 0.00071(20) 0.00288(21)
+Na4 Na1+ 0.00965(33) 0.01803(35) 0.00311(7) 0.00990(33) -.00160(13) -.00306(13)
+Ca3 Ca2+ 0.00965(33) 0.01803(35) 0.00311(7) 0.00990(33) -.00160(13) -.00306(13)
+Ca4 Ca2+ 0.00647(15) 0.00663(17) 0.00246(7) 0.00332(8) -.00017(4) -.00034(9)
+Ca5 Ca2+ 0.00492(10) 0.00485(15) 0.00175(5) 0.00243(8) 0.00000(4) 0.00000(7)
+#End of TTdata_66055-ICSD

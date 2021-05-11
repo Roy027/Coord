@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6268-ICSD
+_database_code_ICSD 6268
+_audit_creation_date 1984-09-10
+_audit_update_record 2006-04-01
+_chemical_name_systematic 'Disodium zirconium closo-tetrasilicate'
+_chemical_formula_structural 'Na2 Zr (Si4 O11)'
+_chemical_formula_sum 'Na2 O11 Si4 Zr1'
+_chemical_name_structure_type Na2Zr(Si4O11)
+_chemical_name_mineral 'Vlasovite 1M'
+_exptl_crystal_density_diffrn 3.07
+_publ_section_title
+'Vlasovite. a second occurrence and a triclinic to monoclinic inversion'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Magazine and Journal of the Mineralogical Society ' 1967
+36 233 241 MIASA6
+loop_
+_publ_author_name
+'Fleet, S.G.'
+'Cann, J.R.'
+_cell_length_a 10.96(4)
+_cell_length_b 10.01(4)
+_cell_length_c 8.53(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.4(8)
+_cell_angle_gamma 90.
+_cell_volume 920.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zr4+ 4
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.0733 0.75 3. 1. 0
+Na2 Na1+ 4 e 0 0.4002 0.75 3. 1. 0
+Zr1 Zr4+ 4 c 0.25 0.25 0 1. 1. 0
+Si1 Si4+ 8 f 0.2653 0.0724 0.6381 0.8 1. 0
+Si2 Si4+ 8 f 0.0484 0.2158 0.4282 0.8 1. 0
+O1 O2- 4 e 0 0.1651 0.25 1.2 1. 0
+O2 O2- 8 f 0.1463 0.1035 0.5068 1.2 1. 0
+O3 O2- 8 f 0.1166 0.3586 0.414 1.2 1. 0
+O4 O2- 8 f 0.0574 0.2412 0.9682 1.2 1. 0
+O5 O2- 8 f 0.2425 0.1336 0.7979 1.2 1. 0
+O6 O2- 8 f 0.2941 0.0852 0.1546 1.2 1. 0
+#End of TTdata_6268-ICSD

@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_189248-ICSD
+_database_code_ICSD 189248
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Sodium tetrahydridoborate hydrazine'
+_chemical_formula_structural 'Na (B H4) (N H2 N H2)'
+_chemical_formula_sum 'H8 B1 N2 Na1'
+_exptl_crystal_density_diffrn 1.06
+_cell_measurement_temperature 298.
+_publ_section_title
+
+;
+Alkali and alkaline-earth metal borohydride hydrazinates: synthesis,
+structures and dehydrogenation
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Chemistry Chemical Physics' 2013 15 10487 10493 PPCPFQ
+loop_
+_publ_author_name
+'He, Teng'
+'Wu, Hui'
+'Chen, Juner'
+'Zhou, Wei'
+'Wu, Guotao'
+'Xiong, Zhitao'
+'Zhang, Tao'
+'Chen, Ping'
+_cell_length_a 7.6307(5)
+_cell_length_b 6.6135(5)
+_cell_length_c 9.1099(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 107.399(9)
+_cell_angle_gamma 90.
+_cell_volume 438.7
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+N0+ 0
+H0+ 0
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.60018(27) 0.2563(5) 0.6392(7) 0.03471 1. 0
+N1 N0+ 4 e 0.84681(33) 0.1885(16) 1.8927(11) 0.04895 1. 0
+N2 N0+ 4 e 0.83338(33) 0.3153(16) 1.0166(11) 0.04895 1. 0
+H1 H0+ 4 e 0.95622(33) 0.3200(16) 1.1031(11) 0.04895 1. 0
+H2 H0+ 4 e 0.80689(33) 0.4594(16) 0.9739(11) 0.04895 1. 0
+H3 H0+ 4 e 0.97893(33) 0.1888(16) 1.8853(11) 0.04895 1. 0
+H4 H0+ 4 e 0.81883(33) 0.0430(16) 1.9176(11) 0.04895 1. 0
+B1 B3+ 4 e 0.3224(7) 0.2935(12) 1.3110(13) 0.01086 1. 0
+H5 H1- 4 e 0.4657(7) 0.1948(12) 1.3402(13) 0.01086 1. 0
+H6 H1- 4 e 0.3505(7) 0.4473(12) 1.3903(13) 0.01086 1. 0
+H7 H1- 4 e 0.2013(7) 0.1909(12) 1.3380(13) 0.01086 1. 0
+H8 H1- 4 e 0.2754(7) 0.3413(12) 1.1739(13) 0.01086 1. 0
+#End of TTdata_189248-ICSD

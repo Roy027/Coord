@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_414127-ICSD
+_database_code_ICSD 414127
+_audit_creation_date 2005-10-01
+_audit_update_record 2013-08-01
+_chemical_name_systematic 'Heptasodium cobalt cobalt(III) oxide'
+_chemical_formula_structural 'Na7 (Co O3)2'
+_chemical_formula_sum 'Co2 Na7 O6'
+_chemical_name_structure_type Na7Co2O6
+_exptl_crystal_density_diffrn 2.87
+_cell_measurement_temperature 273.
+_publ_section_title 'Unusual charge distribution in Na7(CoO3)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2004 6 1163 1168 SSSCFJ
+loop_
+_publ_author_name
+'Sofin, M.'
+'Peters, E.M.'
+'Jansen, M.'
+_cell_length_a 14.6028(12)
+_cell_length_b 5.8131(5)
+_cell_length_c 10.5858(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.968(2)
+_cell_angle_gamma 90.
+_cell_volume 868.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0351
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Co2+ 2.5
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Co1 Co2+ 8 f 0.623753(15) 0.38408(4) 0.03899(2) 0.01387(7) 1 0
+Na1 Na1+ 4 e 0.5 0.42823(18) 0.25 0.0220(2) 1 0
+Na2 Na1+ 8 f 0.72390(5) 0.53342(15) 0.30603(7) 0.02382(16) 1 0
+Na3 Na1+ 8 f 0.43972(5) 0.86334(12) 0.34928(7) 0.01943(15) 1 0
+Na4 Na1+ 8 f 0.66701(5) -0.09456(12) -0.09471(7) 0.01851(14) 1 0
+O1 O2- 8 f 0.59575(8) 0.2678(2) -0.12358(11) 0.0175(2) 1 0
+O2 O2- 8 f 0.62047(9) 0.2258(2) 0.18716(12) 0.0183(2) 1 0
+O3 O2- 8 f 0.67332(9) 0.6696(2) 0.08034(12) 0.0196(2) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Co1 Co2+ 0.01480(11) 0.01520(11) 0.01116(11) 0.00132(7) 0.00255(7) -0.00058(7)
+Na1 Na1+ 0.0203(5) 0.0188(4) 0.0270(5) 0. 0.0060(4) 0.
+Na2 Na1+ 0.0248(4) 0.0274(4) 0.0197(4) -0.0048(3) 0.0067(3) -0.0032(3)
+Na3 Na1+ 0.0185(3) 0.0193(3) 0.0217(3) 0.0014(2) 0.0075(3) 0.0017(3)
+Na4 Na1+ 0.0211(3) 0.0192(3) 0.0152(3) 0.0031(2) 0.0046(3) 0.0009(2)
+O1 O2- 0.0190(5) 0.0189(5) 0.0140(5) 0.0019(4) 0.0033(4) -0.0017(4)
+O2 O2- 0.0257(6) 0.0152(5) 0.0152(5) -0.0007(4) 0.0075(4) 0.0021(4)
+O3 O2- 0.0215(6) 0.0174(5) 0.0222(6) 0.0007(4) 0.0097(5) 0.0036(4)
+#End of TTdata_414127-ICSD

@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1525-ICSD
+_database_code_ICSD 1525
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Sodium dithionate dihydrate'
+_chemical_formula_structural 'Na2 (S2 O6) (H2 O)2'
+_chemical_formula_sum 'H4 Na2 O8 S2'
+_chemical_name_structure_type Na2S2O6(H2O)2
+_exptl_crystal_density_diffrn 2.18
+_publ_section_title 'Refinement of disodium dithionate dihydrate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1978 34 888 890 ACBCAR
+loop_
+_publ_author_name
+'Kiers, C.T.'
+'Piepenbroek, A.'
+'Vos, A.'
+_cell_length_a 6.411(5)
+_cell_length_b 10.761(7)
+_cell_length_c 10.675(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 736.46
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.045
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S5+ 5
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S5+ 4 c 0.24952(5) 0.25 0.45862(3) . 1. 0
+S2 S5+ 4 c -.00172(5) 0.25 0.59078(3) . 1. 0
+O1 O2- 8 d 0.36469(13) 0.13654(9) 0.48293(8) . 1. 0
+O2 O2- 4 c 0.14272(20) 0.25 0.33809(10) . 1. 0
+O3 O2- 8 d -.11403(14) 0.13621(9) 0.56327(9) . 1. 0
+O4 O2- 4 c 0.0954(2) 0.25 0.71368(11) . 1. 0
+O5 O2- 8 d 0.25162(16) 0.04448(9) 0.18906(9) . 1. 0
+Na1 Na1+ 8 d 0.06863(8) 0.06191(5) 0.84712(5) . 1. 0
+H1 H1+ 8 d 0.316(4) 0.055(3) 0.129(3) 0.0570(75) 1. 0
+H2 H1+ 8 d 0.235(4) 0.111(3) 0.223(3) 0.0709(85) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S1 S5+ 0.0124(1) 0.0113(1) 0.0119(1) 0 0.0005(1) 0
+S2 S5+ 0.0128(1) 0.0154(1) 0.0123(1) 0 0.0007(1) 0
+O1 O2- 0.0223(3) 0.0226(3) 0.0236(3) 0.0094(3) 0.0014(3) 0.0023(3)
+O2 O2- 0.0251(5) 0.0227(5) 0.0130(4) 0 -.0025(4) 0
+O3 O2- 0.0245(4) 0.0275(4) 0.0265(4) -.0126(3) 0.0052(3) -.0051(3)
+O4 O2- 0.0258(5) 0.0292(6) 0.0132(4) 0 -.0030(4) 0
+O5 O2- 0.0265(4) 0.0220(4) 0.0202(3) -.0010(3) -.0009(3) -.0016(3)
+Na1 Na1+ 0.0197(2) 0.0260(2) 0.0242(2) -.0038(2) 0.0029(2) -.0039(2)
+#End of TTdata_1525-ICSD

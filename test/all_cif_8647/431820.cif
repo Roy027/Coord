@@ -1,0 +1,124 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431820-ICSD
+_database_code_ICSD 431820
+_audit_creation_date 2018-08-01
+_chemical_name_systematic 'Trisodium tantalate(V) tetradecahydrate'
+_chemical_formula_structural 'Na3 (Ta O8) (H2 O)14'
+_chemical_formula_sum 'H28 Na3 O22 Ta1'
+_exptl_crystal_density_diffrn 2.03
+_cell_measurement_temperature 150.
+_publ_section_title 'Crystal structure of Na3[TaO8].14H2O'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Structural Chemistry' 2017 58 817 820 JSTCAM
+loop_
+_publ_author_name
+'Abramov, P.A.'
+'Shmakova, A.A.'
+'Sokolov, M.N.'
+_cell_length_a 7.6183(6)
+_cell_length_b 8.7622(6)
+_cell_length_c 9.1422(7)
+_cell_angle_alpha 63.920(2)
+_cell_angle_beta 81.952(3)
+_cell_angle_gamma 69.759(2)
+_cell_volume 514.23
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0205
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O1- -1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+O2- -2
+H1+ 1
+Na1+ 1
+Ta5+ 5
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O1- 2 i -0.0685(3) 0.2903(3) 0.1813(2) 0.0226(5) 1 0
+O2 O1- 2 i -0.2744(3) 0.6555(3) -0.0281(3) 0.0225(5) 1 0
+O3 O1- 2 i -0.0675(5) 0.2880(5) 0.0110(4) 0.0156(8) 0.5 0
+O4 O1- 2 i -0.0324(5) 0.4312(5) 0.2341(4) 0.0149(8) 0.5 0
+O5 O1- 2 i -0.2187(5) 0.5606(5) -0.1459(4) 0.0161(8) 0.5 0
+O6 O1- 2 i -0.1549(6) 0.6476(5) 0.1107(5) 0.0194(9) 0.5 0
+O7 O2- 2 i 0.3884(3) -0.2566(3) 0.6355(3) 0.0215(5) 1 0
+H1 H1+ 2 i 0.305(5) -0.255(5) 0.672(4) 0.026 1 0
+H2 H1+ 2 i 0.458(5) -0.332(5) 0.668(5) 0.026 1 0
+O8 O2- 2 i 0.2068(3) 0.2166(3) 0.4802(3) 0.0229(5) 1 0
+H3 H1+ 2 i 0.186(6) 0.261(5) 0.409(4) 0.027 1 0
+H4 H1+ 2 i 0.134(5) 0.189(5) 0.527(4) 0.027 1 0
+O9 O2- 2 i 0.5520(3) 0.0113(3) 0.7487(3) 0.0198(5) 1 0
+H5 H1+ 2 i 0.606(5) -0.078(5) 0.801(4) 0.024 1 0
+H6 H1+ 2 i 0.466(5) 0.025(5) 0.788(4) 0.024 1 0
+O10 O2- 2 i 0.9476(3) 0.0810(3) 0.7013(4) 0.0315(6) 1 0
+H7 H1+ 2 i 1.005(6) 0.076(6) 0.758(5) 0.038 1 0
+H8 H1+ 2 i 0.956(6) -0.002(5) 0.706(5) 0.038 1 0
+O11 O2- 2 i 0.6932(3) 0.5545(3) 0.4345(3) 0.0195(5) 1 0
+H9 H1+ 2 i 0.740(5) 0.547(5) 0.372(4) 0.023 1 0
+H10 H1+ 2 i 0.737(5) 0.616(5) 0.455(4) 0.023 1 0
+O12 O2- 2 i 0.6043(3) 0.3471(4) 0.8572(3) 0.0303(6) 1 0
+H11 H1+ 2 i 0.527(6) 0.353(5) 0.900(5) 0.036 1 0
+H12 H1+ 2 i 0.656(6) 0.381(5) 0.883(5) 0.036 1 0
+O13 O2- 2 i -0.2086(4) 0.9637(3) 0.0882(3) 0.0290(6) 1 0
+H13 H1+ 2 i -0.178(6) 0.895(6) 0.065(5) 0.035 1 0
+H14 H1+ 2 i -0.236(6) 1.049(5) 0.026(5) 0.035 1 0
+Na1 Na1+ 1 f 0.5 0. 0.5 0.0188(3) 1 0
+Na2 Na1+ 2 i 0.63816(16) 0.27921(15) 0.62266(13) 0.0185(2) 1 0
+Ta1 Ta5+ 1 c 0. 0.5 0. 0.01276(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O1- 0.0227(12) 0.0291(12) 0.0137(9) -0.0145(10) 0.0023(8) -0.0027(9)
+O2 O1- 0.0146(11) 0.0215(11) 0.0338(11) -0.0060(9) 0.0093(9) -0.0161(9)
+O7 O2- 0.0151(13) 0.0219(12) 0.0228(11) -0.0069(9) 0.0075(9) -0.0066(10)
+O8 O2- 0.0197(13) 0.0257(13) 0.0201(11) -0.0074(10) -0.0012(10) -0.0062(10)
+O9 O2- 0.0174(13) 0.0206(11) 0.0181(11) -0.0072(10) 0.0015(9) -0.0047(9)
+O10 O2- 0.0167(13) 0.0273(13) 0.0522(16) -0.0039(11) -0.0020(11) -0.0199(13)
+O11 O2- 0.0184(12) 0.0260(11) 0.0197(11) -0.0113(9) 0.0075(9) -0.0133(9)
+O12 O2- 0.0164(14) 0.0595(17) 0.0276(12) -0.0193(12) 0.0095(10) -0.0264(12)
+O13 O2- 0.0253(14) 0.0209(13) 0.0321(13) -0.0053(11) 0.0028(10) -0.0057(10)
+Na1 Na1+ 0.0158(9) 0.0243(9) 0.0194(8) -0.0083(7) 0.0020(6) -0.0111(7)
+Na2 Na1+ 0.0149(6) 0.0186(6) 0.0210(5) -0.0056(5) 0.0020(5) -0.0080(5)
+Ta1 Ta5+ 0.01234(10) 0.01723(9) 0.01255(8) -0.00801(7) 0.00531(6) -0.00862(7)
+#End of TTdata_431820-ICSD

@@ -1,0 +1,98 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78991-ICSD
+_database_code_ICSD 78991
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Dilithium chromate(VI) dihydrate'
+_chemical_formula_structural 'Li2 (Cr O4) (H2 O)2'
+_chemical_formula_sum 'H4 Cr1 Li2 O6'
+_chemical_name_structure_type CsNaMoO4(H2O)2
+_exptl_crystal_density_diffrn 2.16
+_publ_section_title
+
+;
+Li2 Cr O4.2H2 O: Ungewoehnliche Wasserstoffbrueckenbindung und Koordination
+der O-Liganden des Anions (Cr O4)2-
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 721 723 ZAACAB
+loop_
+_publ_author_name
+'Barlage, H.'
+'Jacobs, H.'
+_cell_length_a 5.503(1)
+_cell_length_b 7.733(2)
+_cell_length_c 11.987(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 510.1
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 21 21'
+_symmetry_Int_Tables_number 19
+_refine_ls_R_factor_all 0.025
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z+1/2'
+2 'x+1/2, -y+1/2, -z'
+3 '-x+1/2, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr6+ 6
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cr1 Cr6+ 4 a 0.17884(5) 0.11609(3) 0.13336(2) . 1. 0
+O1 O2- 4 a 0.2990(3) 0.3599(2) 0.6106(1) . 1. 0
+O2 O2- 4 a 0.3018(3) 0.3274(2) 0.3873(1) . 1. 0
+O3 O2- 4 a 0.3372(3) 0.2964(2) 0.1341(2) . 1. 0
+O4 O2- 4 a 0.3870(2) 0.3379(2) 0.8507(1) . 1. 0
+O5 O2- 4 a 0.2207(3) 0.0093(2) 0.0151(1) . 1. 0
+O6 O2- 4 a 0.2345(3) 0.0020(2) 0.7379(1) . 1. 0
+Li1 Li1+ 4 a 0.1830(6) 0.1368(4) 0.8742(3) . 1. 0
+Li2 Li1+ 4 a 0.0759(7) 0.2103(6) 0.5009(4) . 1. 0
+H1 H1+ 4 a 0.267(6) 0.467(4) 0.611(2) 0.9(6) 1. 0
+H2 H1+ 4 a 0.311(6) 0.330(4) 0.673(2) 1.7(7) 1. 0
+H3 H1+ 4 a 0.344(5) 0.288(4) 0.323(2) 0.6(5) 1. 0
+H4 H1+ 4 a 0.262(5) 0.415(4) 0.373(3) 1.8(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr6+ 0.01501(6) 0.01278(6) 0.01173(6) 0.001699(9) 0.0007(9) -.0006(9)
+O1 O2- 0.0253(6) 0.0237(6) 0.0188(5) -.0021(5) 0.0018(5) -.0003(4)
+O2 O2- 0.0197(5) 0.0248(5) 0.0181(5) 0.0014(5) -.0008(4) 0.0005(4)
+O3 O2- 0.0227(5) 0.0208(5) 0.0419(7) -.0058(5) -.0029(8) -.0024(7)
+O4 O2- 0.0169(5) 0.0228(6) 0.0257(6) 0.0033(4) -.0018(5) 0.0015(5)
+O5 O2- 0.0311(7) 0.0228(6) 0.0133(4) 0.0095(5) 0.0005(5) 0.0023(4)
+O6 O2- 0.0360(8) 0.0340(7) 0.0162(5) 0.0127(6) 0.0014(5) -.0065(5)
+Li1 Li1+ 0.023(1) 0.022(1) 0.020(1) 0.002(1) 0.001(1) 0.001(1)
+Li2 Li1+ 0.020(2) 0.031(2) 0.029(2) -.005(2) 0.002(1) 0.002(2)
+#End of TTdata_78991-ICSD

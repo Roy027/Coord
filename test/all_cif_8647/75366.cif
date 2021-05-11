@@ -1,0 +1,85 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_75366-ICSD
+_database_code_ICSD 75366
+_audit_creation_date 1996-04-22
+_audit_update_record 2010-08-01
+_chemical_name_systematic 'Trisodium nitridotris(phosphato(V))aluminate'
+_chemical_formula_structural 'Na3 (Al N (P O3)3)'
+_chemical_formula_sum 'Al1 N1 Na3 O9 P3'
+_chemical_name_structure_type Na3AlN(PO3)3
+_exptl_crystal_density_diffrn 2.89
+_publ_section_title
+'Crystal structure determination of the nitridophosphate Na3 Al P3 O9 N'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1994 31 13 24
+EJSCE5
+loop_
+_publ_author_name
+'Conanec, R.'
+'l'Haridon, P.'
+'Feldmann, W.'
+'Marchand, R.'
+'Laurent, Y.'
+_cell_length_a 9.274(1)
+_cell_length_b 9.274(1)
+_cell_length_c 9.274(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 797.63
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 21 3'
+_symmetry_Int_Tables_number 198
+_refine_ls_R_factor_all 0.014
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Al3+ 3
+Na1+ 1
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 12 b 0.32864(4) 0.07818(3) 0.23952(4) 0.431(4) 1. 0
+Al1 Al3+ 4 a 0.58176(4) 0.58176(4) 0.58176(4) 0.443(2) 1. 0
+Na1 Na1+ 4 a 0.01256(8) 0.01256(8) 0.01256(8) 1.485(5) 1. 0
+Na2 Na1+ 4 a 0.39138(7) 0.39138(7) 0.39138(7) 1.023(4) 1. 0
+Na3 Na1+ 4 a 0.79865(8) 0.79865(8) 0.79865(8) 1.655(5) 1. 0
+O1 O2- 12 b 0.2646(1) -.0317(1) 0.3438(1) 0.69(1) 1. 0
+O2 O2- 12 b 0.3701(1) 0.0024(1) 0.1000(1) 0.64(1) 1. 0
+O3 O2- 12 b 0.4484(1) 0.1615(1) 0.3084(1) 0.87(1) 1. 0
+N1 N3- 4 a 0.1922(1) 0.1922(1) 0.1922(1) 0.530(7) 1. 0
+#End of TTdata_75366-ICSD

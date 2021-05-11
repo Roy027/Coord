@@ -1,0 +1,91 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_62513-ICSD
+_database_code_ICSD 62513
+_audit_creation_date 1988-02-22
+_audit_update_record 2015-02-01
+_chemical_name_systematic 'Manganese sodium catena-disilicate'
+_chemical_formula_structural 'Mn Na (Si2 O6)'
+_chemical_formula_sum 'Mn1 Na1 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Namansilite
+_exptl_crystal_density_diffrn 3.61
+_cell_measurement_temperature 302.
+_publ_section_title 'Refinement of structure of manganese sodium dimetasilicate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1987 43 605 607 ACSCEE
+loop_
+_publ_author_name
+'Ohashi, H.'
+'Osawa, T.'
+'Tsukimura, K.'
+_cell_length_a 9.513(1)
+_cell_length_b 8.621(1)
+_cell_length_c 5.354(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.14(1)
+_cell_angle_gamma 90.
+_cell_volume 423.85
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.034
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Mn3+ 3
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 f 0.1172(2) 0.0761(2) 0.1612(3) . 1. 0
+O2 O2- 8 f 0.3609(2) 0.2597(2) 0.3038(3) . 1. 0
+O3 O2- 8 f 0.3563(2) 0.0080(2) 0.0191(3) . 1. 0
+Si1 Si4+ 8 f 0.29402(6) 0.08865(8) 0.2463(1) . 1. 0
+Mn1 Mn3+ 4 e 0 0.90578(6) 0.25 . 1. 0
+Na1 Na1+ 4 e 0 0.2982(2) 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+O1 O2- 0.00083(12) 0.00237(17) 0.00394(40) 0.00014(12) 0.00047(18) 0.00041(22)
+O2 O2- 0.00207(15) 0.00183(16) 0.00673(47) -.00075(13) 0.00123(21) -.00007(23)
+O3 O2- 0.00119(11) 0.00278(16) 0.00335(39) 0.00026(14) 0.00057(18) -.00100(23)
+Si1 Si4+ 0.00078(5) 0.00129(6) 0.00272(16) -.00003(5) 0.00044(7) -.00006(9)
+Mn1 Mn3+ 0.00067(4) 0.00084(4) 0.00280(11) 0 0.00058(5) 0
+Na1 Na1+ 0.00250(14) 0.00187(15) 0.00654(44) 0 -.00035(21) 0
+#End of TTdata_62513-ICSD

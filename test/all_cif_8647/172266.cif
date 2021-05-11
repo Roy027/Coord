@@ -1,0 +1,85 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_172266-ICSD
+_database_code_ICSD 172266
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Lithium magnesium iron disilicate (0.85/0.24/0.91/1)'
+_chemical_formula_structural 'Li.85 Mg.24 Fe.91 Si2 O6'
+_chemical_formula_sum 'Fe0.91 Li0.85 Mg0.24 O6 Si2'
+_chemical_name_structure_type Pyroxene-CaMg(SiO3)2
+_chemical_name_mineral Spodumene
+_exptl_crystal_density_diffrn 3.41
+_cell_measurement_temperature 398.
+_publ_section_title
+
+;
+HT-XRD study of synthetic ferrian magnesian spodumene: the effect of site
+dimension on the P21/c - C2/c phase transition
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2003 30 20 30 PCMIDU
+loop_
+_publ_author_name
+'Camara, F.'
+'Iezzi, G.'
+'Oberti, R.'
+_cell_length_a 9.694(3)
+_cell_length_b 8.690(2)
+_cell_length_c 5.293(1)
+_cell_angle_alpha 90
+_cell_angle_beta 110.23(3)
+_cell_angle_gamma 90
+_cell_volume 418.38
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0276
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Mg2+ 2
+Fe2+ 2
+Fe3+ 3
+Mg2+ 2
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 4 e 0. 0.2664(4) 0.25 0.018(1) 0.85 0
+Mg1 Mg2+ 4 e 0. 0.2664(4) 0.25 0.018(1) 0.09 0
+Fe1 Fe2+ 4 e 0. 0.2664(4) 0.25 0.018(1) 0.06 0
+Fe2 Fe3+ 4 e 0. 0.8985(1) 0.25 0.006(1) 0.85 0
+Mg2 Mg2+ 4 e 0. 0.8985(1) 0.25 0.006(1) 0.15 0
+Si1 Si4+ 8 f 0.2961(1) 0.0896(1) 0.2669(1) 0.006(1) 1. 0
+O1 O2- 8 f 0.1170(2) 0.0859(2) 0.1503(3) 0.008(1) 1. 0
+O2 O2- 8 f 0.3685(2) 0.2562(2) 0.3303(4) 0.013(1) 1. 0
+O3 O2- 8 f 0.3552(2) -0.0011(2) 0.0556(3) 0.016(1) 1. 0
+#End of TTdata_172266-ICSD

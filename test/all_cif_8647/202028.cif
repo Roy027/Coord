@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202028-ICSD
+_database_code_ICSD 202028
+_audit_creation_date 1988-12-19
+_audit_update_record 1997-05-13
+_chemical_name_systematic 'Trisodium thallium oxide'
+_chemical_formula_structural 'Na3 Tl O2'
+_chemical_formula_sum 'Na3 O2 Tl1'
+_exptl_crystal_density_diffrn 4.92
+_publ_section_title
+'Neue Synthesewege zu Metalloxiden: Na3 Tl O2 aus Na Tl und Na2 O2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Less-Common Metals' 1986 120 225 237 JCOMAH
+loop_
+_publ_author_name
+'Wagner, G.'
+'Hoppe, R.'
+_cell_length_a 11.4561(20)
+_cell_length_b 6.7067(9)
+_cell_length_c 5.3676(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 412.41
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n m a'
+_symmetry_Int_Tables_number 62
+_refine_ls_R_factor_all 0.073
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tl1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Tl1 Tl1+ 4 c 0.0905 0.25 0.2349(1) . 1. 0
+Na1 Na1+ 8 d 0.8337(5) 0.4995(12) 0.2495(7) . 1. 0
+Na2 Na1+ 4 c 0.0782(8) 0.75 0.2567(12) . 1. 0
+O1 O2- 4 a 0 0.5 0 . 1. 0
+O2 O2- 4 c 0.2558(8) 0.25 0.9918(17) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 Tl1+ 0.0079(3) 0.0116(3) 0.0151(3) 0 -.0002(1) 0
+Na1 Na1+ 0.0148(22) 0.0205(25) 0.0259(25) 0.0001(16) 0.0002(13) 0.0048(14)
+Na2 Na1+ 0.0140(25) 0.0234(31) 0.0296(31) 0 -.0050(18) 0
+O1 O2- 0.0027(24) 0.0069(27) 0.0322(32) 0 -.0012(25) 0
+O2 O2- 0.0030(25) 0.0149(29) 0.0236(30) 0 -.0047(25) 0
+#End of TTdata_202028-ICSD

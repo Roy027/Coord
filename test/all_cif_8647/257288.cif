@@ -1,0 +1,92 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257288-ICSD
+_database_code_ICSD 257288
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Lithium vanadium phosphate hydroxide'
+_chemical_formula_structural 'Li0.94 V0.96 P O4 O H'
+_chemical_formula_sum 'H1 Li0.94 O5 P1 V0.96'
+_exptl_crystal_density_diffrn 3.18
+_publ_section_title
+
+;
+Structural and electrochemical studies of a new Tavorite composition: LiVPO4OH
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'Journal of Materials Chemistry A: Materials for Energy and Sustainability' 2016 4 11030 11045 JMCAET
+loop_
+_publ_author_name
+'Boivin, Edouard'
+'Chotard, Jean-Noel'
+'Menetrier, Michel'
+'Bourgeois, Lydie'
+'Bamine, Tahya'
+'Carlier, Dany'
+'Fauth, Francois'
+'Suard, Emmanuelle'
+'Masquelier, Christian'
+'Croguennec, Laurence'
+_cell_length_a 5.1335(1)
+_cell_length_b 5.3334(1)
+_cell_length_c 7.2824(2)
+_cell_angle_alpha 106.557(2)
+_cell_angle_beta 109.217(2)
+_cell_angle_gamma 97.352(2)
+_cell_volume 174.97
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0373
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+P5+ 5
+O2- -2
+H1+ 1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+V1 V3+ 1 a 0 0 0 0.54(8) 1. 0
+V2 V3+ 1 b 0 0 0.5 0.36(7) 1. 0
+P1 P5+ 2 i 0.3234(6) 0.6388(6) 0.2680(5) 0.16(7) 1. 0
+O1 O2- 2 i 0.629(2) 0.751(2) 0.429(1) 0.20(5) 1. 0
+O2 O2- 2 i 0.111(2) 0.661(2) 0.377(1) 0.12(5) 1. 0
+O3 O2- 2 i 0.308(2) 0.340(2) 0.159(1) 0.31(5) 1. 0
+O4 O2- 2 i 0.267(2) 0.790(2) 0.117(1) 0.43(6) 1. 0
+O5 O2- 2 i 0.155(2) 0.9472 0.772(1) 0.16(5) 1. 0
+H1 H1+ 2 i 0.351(9) 0.0663(9) 0.347(7) 8.5(3) 1. 0
+Li1 Li1+ 2 i 0.260(6) 0.605(6) 0.686(5) 3.7(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.098 0.036 0.076 0.004 -0.039 -0.02
+#End of TTdata_257288-ICSD

@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_192633-ICSD
+_database_code_ICSD 192633
+_audit_creation_date 2015-02-01
+_chemical_name_systematic
+'Sodium aluminium chromium pyrophosphate (1/0.75/0.25/1)'
+_chemical_formula_structural 'Na (Al0.75 Cr0.25) (P2 O7)'
+_chemical_formula_sum 'Al0.75 Cr0.25 Na1 O7 P2'
+_chemical_name_structure_type Mg2P2O7
+_exptl_crystal_density_diffrn 3.13
+_publ_section_title
+
+;
+Structural relaxation around Cr(3+) at the Na (Al1-x Crx) P2 O7 octahedral
+site: an XRPD and EAS study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - Crystalline Materials' 2014 229 687
+697 ZKCMAJ
+loop_
+_publ_author_name
+'Ardit, Matteo'
+'Dondi, Michele'
+'Zanelli, Chiara'
+'Cruciani, Giuseppe'
+_cell_length_a 7.2264(4)
+_cell_length_b 7.7593(5)
+_cell_length_c 9.3710(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 111.73(1)
+_cell_angle_gamma 90.
+_cell_volume 488.11
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0271
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+Al3+ 3
+Cr3+ 3
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P5+ 4 e 0.3339(6) 0.2077(6) 0.5468(6) 0.008 1. 0
+P2 P5+ 4 e 0.9235(7) 0.2560(7) 0.5478(6) 0.0183 1. 0
+Al1 Al3+ 4 e 0.7407(6) 0.4967(8) 0.2535(5) 0.0018 0.75 0
+Cr1 Cr3+ 4 e 0.7407(6) 0.4967(8) 0.2535(5) 0.0018 0.25 0
+Na1 Na1+ 4 e 0.2965(9) 0.9785(8) 0.7984(6) 0.0141 1. 0
+O1 O2- 4 e 0.1211(7) 0.1549(8) 0.5545(10) 0.0479 1. 0
+O2 O2- 4 e 0.4721(13) 0.0841(9) 0.6610(9) 0.0477 1. 0
+O3 O2- 4 e 0.8029(9) 0.1305(10) 0.6069(9) 0.0051 1. 0
+O4 O2- 4 e -0.0075(12) 0.4135(8) 0.6457(8) 0.0043 1. 0
+O5 O2- 4 e 0.3589(11) 0.3955(6) 0.5995(8) 0.0058 1. 0
+O6 O2- 4 e 0.8038(11) 0.2918(12) 0.3802(6) 0.0084 1. 0
+O7 O2- 4 e 0.3042(11) 0.1946(13) 0.3786(6) 0.0458 1. 0
+#End of TTdata_192633-ICSD

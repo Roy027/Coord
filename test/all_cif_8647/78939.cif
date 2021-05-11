@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_78939-ICSD
+_database_code_ICSD 78939
+_audit_creation_date 1998-06-26
+_chemical_name_systematic 'Sodium hydrogensulfate(VI)- alpha'
+_chemical_formula_structural 'Na (H S O4)'
+_chemical_formula_sum 'H1 Na1 O4 S1'
+_chemical_name_structure_type CaHPO4
+_exptl_crystal_density_diffrn 2.48
+_publ_section_title
+
+;
+Hydrogensulfate mit fehlgeordnetetn Wasserstoffatomen Synthese und Struktur
+von Li (H (H S O4)2) (H2 S O4)2 sowie Verfeinerung der Struktur von alpha-Na H
+S O4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1996
+622 337 342 ZAACAB
+loop_
+_publ_author_name
+'Werner, C.'
+'Troyanov, S.I.'
+'Worzala, H.'
+'Kemnitz, E.'
+_cell_length_a 6.708(2)
+_cell_length_b 6.995(1)
+_cell_length_c 7.114(1)
+_cell_angle_alpha 75.53(1)
+_cell_angle_beta 84.09(2)
+_cell_angle_gamma 87.57(2)
+_cell_volume 321.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0266
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.45295(9) 0.29733(8) 0.72119(9) 0.0244(1) 1. 0
+Na2 Na1+ 2 i 0.84323(9) 0.1685(1) 0.3325(1) 0.0360(2) 1. 0
+S1 S6+ 2 i 0.38463(4) 0.20589(3) 0.27846(4) 0.01414(7) 1. 0
+S2 S6+ 2 i 0.95711(4) 0.30147(4) 0.78975(4) 0.01647(7) 1. 0
+O1 O2- 2 i 0.3463(2) 0.3164(1) 0.0634(1) 0.0240(2) 1. 0
+O2 O2- 2 i 0.4892(1) 0.3427(1) 0.3563(1) 0.0232(2) 1. 0
+O3 O2- 2 i 0.1913(1) 0.1520(2) 0.3845(1) 0.0254(2) 1. 0
+O4 O2- 2 i 0.5117(1) 0.0412(1) 0.2540(1) 0.0254(2) 1. 0
+O5 O2- 2 i 0.8485(2) 0.3336(1) 0.9659(1) 0.0272(2) 1. 0
+O6 O2- 2 i 0.1138(1) 0.4453(2) 0.7096(2) 0.0299(2) 1. 0
+O7 O2- 2 i 0.0577(2) 0.1024(1) 0.8329(1) 0.0291(2) 1. 0
+O8 O2- 2 i 0.8158(2) 0.3039(2) 0.6415(2) 0.0299(2) 1. 0
+H1 H1+ 2 i 0.021(7) 0.054(6) 0.941(6) 0.03(1) 0.5 0
+H2 H1+ 2 i 0.292(4) 0.411(4) 0.064(4) 0.049(7) 1. 0
+H3 H1+ 2 i 0.853(8) 0.409(8) 0.539(8) 0.06(2) 0.5 0
+#End of TTdata_78939-ICSD

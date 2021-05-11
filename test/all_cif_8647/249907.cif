@@ -1,0 +1,104 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249907-ICSD
+_database_code_ICSD 249907
+_audit_creation_date 2010-02-01
+_chemical_name_systematic
+'Trisodium gadolinium trimanganese(III) trioxide tris(arsenate(V))'
+_chemical_formula_structural 'Na3 Gd Mn3 O3 (As O4)3'
+_chemical_formula_sum 'As3 Gd1 Mn3 Na3 O15'
+_chemical_name_structure_type Na3LaMn3O3(AsO4)3
+_exptl_crystal_density_diffrn 4.48
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Synthesis, structure, and magnetic properties of Na3 Ln Mn3 O3 (As O4)3 (Ln =
+La, Sm, and Gd): A new 3d-4f series exhibiting one-dimensional manganese(III)
+oxide chains connected via Ln O9 units
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2009 48 8439 8444 INOCAJ
+loop_
+_publ_author_name
+'West, J.P.'
+'Hwu Shiou-Jyh'
+'Queen, W.L.'
+_cell_length_a 11.091(2)
+_cell_length_b 11.091(2)
+_cell_length_c 5.954(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 634.28
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0466
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Gd3+ 3
+Mn3+ 3
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 6 h 0.2630(11) 0.1065(9) -0.25 0.035(2) 1 0
+Gd1 Gd3+ 2 c 0.3333 0.6667 0.25 0.0132(5) 1 0
+Mn1 Mn3+ 6 g 0.5 1. 0. 0.0115(7) 1 0
+As1 As5+ 6 h 0.59854(18) 0.81157(17) -0.25 0.0142(6) 1 0
+O1 O2- 6 h 0.3850(12) 0.9134(12) 0.25 0.013(2) 1 0
+O2 O2- 12 i 0.5147(9) 0.8235(8) -0.0204(15) 0.0159(19) 1 0
+O3 O2- 6 h 0.5800(12) 0.6504(12) -0.25 0.015(3) 1 0
+O4 O2- 6 h 0.7673(14) 0.9154(16) -0.25 0.038(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.058(6) 0.034(4) 0.034(5) 0.040(5) 0. 0.
+Gd1 Gd3+ 0.0145(6) 0.0145(6) 0.0105(8) 0.0073(3) 0. 0.
+Mn1 Mn3+ 0.0149(13) 0.0106(12) 0.0085(13) 0.0060(10) 0.0012(11) 0.0005(9)
+As1 As5+ 0.0158(10) 0.0146(10) 0.0135(10) 0.0086(7) 0. 0.
+O1 O2- 0.017(6) 0.012(6) 0.008(6) 0.006(5) 0. 0.
+O2 O2- 0.022(4) 0.004(3) 0.022(5) 0.006(3) 0.003(4) 0.001(3)
+O3 O2- 0.018(6) 0.015(6) 0.008(6) 0.006(5) 0. 0.
+O4 O2- 0.015(7) 0.030(8) 0.057(11) 0.001(6) 0. 0.
+#End of TTdata_249907-ICSD

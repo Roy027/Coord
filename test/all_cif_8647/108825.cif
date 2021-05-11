@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_108825-ICSD
+_database_code_ICSD 108825
+_audit_creation_date 2007-04-01
+_chemical_name_systematic 'Sodium titanium oxide (1.7/6/11)'
+_chemical_formula_structural 'Na1.7 (Ti6 O11)'
+_chemical_formula_sum 'Na1.7 O11 Ti6'
+_exptl_crystal_density_diffrn 4.05
+_publ_section_title
+
+;
+Na1.7 Ti6 O11: A new mixed valence nonstoichiometric sodium titanate with a
+tunnel structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1990 85 8 14 JSSCBI
+loop_
+_publ_author_name
+'Akimoto, J.'
+'Takei, H.'
+_cell_length_a 11.7456(10)
+_cell_length_b 11.7456(10)
+_cell_length_c 2.9866(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 412.03
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 42/m n m'
+_symmetry_Int_Tables_number 136
+_refine_ls_R_factor_all 0.038
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y+1/2, x+1/2, -z+1/2'
+2 'y+1/2, -x+1/2, -z+1/2'
+3 'y, x, -z'
+4 '-y, -x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 '-y, -x, z'
+8 'y, x, z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, y, -z'
+12 '-x, -y, -z'
+13 '-x+1/2, y+1/2, z+1/2'
+14 'x+1/2, -y+1/2, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ti3+ 3.38
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 g 0.6935(1) 0.3065 0 2.23 .84(1) 0
+Ti1 Ti3+ 8 i 0.46108(4) 0.19155(4) 0 0.66 1. 0
+Ti2 Ti3+ 4 g 0.91664(4) 0.08336 0 0.56 1. 0
+O1 O2- 8 i 0.2102(2) 0.0206(2) 0 0.6 1. 0
+O2 O2- 8 i 0.6066(2) 0.1117(2) 0 0.71 1. 0
+O3 O2- 4 f 0.3291(2) 0.3291 0 0.88 1. 0
+O4 O2- 2 b 0.5 0.5 0 0.52 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Na1 Na1+ .0021(1) .0021 .123(4) -.0008(1) 0 0
+Ti1 Ti3+ .00136(3) .00142(3) .0128(4) -.00030(2) 0 0
+Ti2 Ti3+ .00111(2) .00111 .0132(6) -.00025(3) 0 0
+O1 O2- .0009(1) .0012(1) .018(2) -.00017(8) 0 0
+O2 O2- .0013(1) .0015(1) .018(2) .00044(8) 0 0
+O3 O2- .0019(1) .0019 .015(2) -.0003(1) 0 0
+O4 O2- .0010(1) .001 .013(3) -.0001(2) 0 0
+#End of TTdata_108825-ICSD

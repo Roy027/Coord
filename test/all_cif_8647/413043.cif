@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_413043-ICSD
+_database_code_ICSD 413043
+_audit_creation_date 2004-10-01
+_chemical_name_systematic 'Trisodium dithiodioxophosphate(V)'
+_chemical_formula_structural 'Na3 (P S2 O2)'
+_chemical_formula_sum 'Na3 O2 P1 S2'
+_exptl_crystal_density_diffrn 2.24
+_publ_section_title
+
+;
+Sodium dithiophosphate(V): crystal structure, sodium ionic conductivity and
+dismutation
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2003 5 1439 1444 SSSCFJ
+loop_
+_publ_author_name
+'Pompetzki, M.'
+'Dinnebier, R.E.'
+'Jansen, M.'
+_cell_length_a 17.53589(22)
+_cell_length_b 11.30444(11)
+_cell_length_c 5.86555(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1162.75
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P b c a'
+_symmetry_Int_Tables_number 61
+_refine_ls_R_factor_all 0.048
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+P5+ 5
+O2- -2
+S2- -2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 8 c 0.7644(2) 0.6191(3) 0.3080(5) 0.044(1) 1. 0
+Na2 Na1+ 8 c 0.5915(2) 0.8784(3) 0.2612(5) 0.055(1) 1. 0
+Na3 Na1+ 8 c 0.9463(2) 0.6725(3) 0.1537(5) 0.051(1) 1. 0
+P4 P5+ 8 c 0.8900(1) 0.9427(2) 0.1783(3) 0.0359(7) 1. 0
+O1 O2- 8 c 0.9576(2) 0.8695(4) 0.2660(7) 0.043(2) 1. 0
+S1 S2- 8 c 0.7911(1) 0.8759(2) 0.3116(4) 0.0449(9) 1. 0
+S2 S2- 8 c 0.8976(1) 0.1161(2) 0.2734(4) 0.0488(9) 1. 0
+O2 O2- 8 c 0.8847(3) 0.9377(4) -.0864(6) 0.045(2) 1. 0
+#End of TTdata_413043-ICSD

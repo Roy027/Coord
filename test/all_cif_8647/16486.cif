@@ -1,0 +1,128 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16486-ICSD
+_database_code_ICSD 16486
+_audit_creation_date 1980-12-31
+_chemical_name_systematic 'Lithium tetrakis(chlorosulfato)borate'
+_chemical_formula_structural 'Li (B (S O3 Cl)4)'
+_chemical_formula_sum 'B1 Cl4 Li1 O12 S4'
+_exptl_crystal_density_diffrn 2.07
+_publ_section_title 'Lithium Tetrakis(chlorosulfato)borate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1980 36 2767 2768 ACBCAR
+loop_
+_publ_author_name
+'Mairesse, G.'
+'Drache, M.'
+_cell_length_a 8.832(5)
+_cell_length_b 8.388(4)
+_cell_length_c 20.765(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.89(5)
+_cell_angle_gamma 90.
+_cell_volume 1537.49
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.04
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+B3+ 3
+S6+ 6
+Cl1- -1
+O2- -2
+S6+ 6
+Cl1- -1
+O2- -2
+S6+ 6
+Cl1- -1
+O2- -2
+S6+ 6
+Cl1- -1
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+B1 B3+ 4 e 0.64878(27) 0.74555(32) 0.08898(12) . 1. 0
+S1 S6+ 4 e 0.85183(7) 0.87610(8) 0.17427(3) . 1. 0
+Cl1 Cl1- 4 e 0.94171(14) 0.75120(16) 0.24621(6) . 1. 0
+O1 O2- 4 e 0.73476(19) 0.75437(22) 0.15015(9) . 1. 0
+O2 O2- 4 e 0.96663(22) 0.89714(26) 0.12844(11) . 1. 0
+O3 O2- 4 e 0.78199(29) 0.01141(27) 0.19920(13) . 1. 0
+S2 S6+ 4 e 0.80970(6) 0.47882(7) 0.06141(3) . 1. 0
+Cl2 Cl1- 4 e 0.75328(9) 0.32413(10) 0.12787(4) . 1. 0
+O4 O2- 4 e 0.67422(17) 0.59201(20) 0.05737(8) . 1. 0
+O5 O2- 4 e 0.80900(24) 0.39639(26) 0.00241(10) . 1. 0
+O6 O2- 4 e 0.94316(20) 0.55537(23) 0.08479(10) . 1. 0
+S3 S6+ 4 e 0.39567(6) 0.67860(8) 0.15074(3) . 1. 0
+Cl3 Cl1- 4 e 0.42739(13) 0.82245(15) 0.22517(5) . 1. 0
+O7 O2- 4 e 0.48619(18) 0.76098(21) 0.09887(8) . 1. 0
+O8 O2- 4 e 0.24158(20) 0.68907(28) 0.1322(1) . 1. 0
+O9 O2- 4 e 0.45900(25) 0.53008(28) 0.16749(12) . 1. 0
+S4 S6+ 4 e 0.77167(6) 0.89470(7) -.01394(3) . 1. 0
+Cl4 Cl1- 4 e 0.63542(13) 0.79789(7) -.08826(5) . 1. 0
+O10 O2- 4 e 0.68104(20) 0.88234(21) 0.04670(9) . 1. 0
+O11 O2- 4 e 0.78481(23) 0.05803(24) -.02844(11) . 1. 0
+O12 O2- 4 e 0.90314(22) 0.79866(25) -.01002(10) . 1. 0
+Li1 Li1+ 4 e 0.08958(50) 0.74882(60) 0.06198(24) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+B1 B3+ 0.00473(25) 0.00703(33) 0.00128(5) 0.00057(24) 0.00045(9) 0.00006(11)
+S1 S6+ 0.00781(7) 0.00914(9) 0.00157(1) -.00078(6) -.00023(2) -.00041(3)
+Cl1 Cl1- 0.02101(19) 0.02616(22) 0.00336(3) -.00418(17) -.00490(6) 0.00340(7)
+O1 O2- 0.00765(21) 0.01009(25) 0.00144(4) -.00127(19) -.0006(7) 0.0002(8)
+O2 O2- 0.00764(23) 0.01447(36) 0.00284(6) -.00270(24) 0.00093(9) -.00078(12)
+O3 O2- 0.01818(42) 0.01043(32) 0.00315(7) -.00042(29) 0.00243(14) -.00180(12)
+S2 S6+ 0.00589(6) 0.00619(7) 0.00161(1) 0.00064(5) 0.00080(2) 0.00013(2)
+Cl2 Cl1- 0.01169(10) 0.01364(12) 0.00304(2) 0.00085(9) 0.00118(4) 0.00340(4)
+O4 O2- 0.00583(18) 0.00712(22) 0.00154(4) 0.00073(16) 0.00030(7) -.00024(7)
+O5 O2- 0.01243(29) 0.01247(33) 0.00217(5) 0.00299(25) 0.00107(10) -.00161(10)
+O6 O2- 0.00638(21) 0.00971(27) 0.00274(6) 0.00028(19) 0.00020(8) 0.00027(10)
+S3 S6+ 0.00536(6) 0.01015(9) 0.00117(1) -.00020(6) 0.00047(2) 0.00009(3)
+Cl3 Cl1- 0.01890(16) 0.03077(25) 0.00232(2) -.00941(16) 0.00296(5) -.00509(6)
+O7 O2- 0.00540(18) 0.00969(25) 0.00146(4) 0.00137(17) 0.00074(6) 0.00057(8)
+O8 O2- 0.00519(20) 0.01958(41) 0.00209(5) 0.00007(23) 0.00039(8) 0.00126(11)
+O9 O2- 0.01157(30) 0.01475(37) 0.00286(6) 0.00249(27) 0.00136(11) 0.00292(12)
+S4 S6+ 0.00648(7) 0.00795(8) 0.00141(1) -.00039(6) 0.00050(2) 0.00063(3)
+Cl4 Cl1- 0.01937(16) 0.02403(20) 0.00220(2) -.00612(15) -.00192(5) -.00074(5)
+O10 O2- 0.00821(21) 0.00727(23) 0.00170(4) 0.00063(8) 0.00126(7) 0.00055(8)
+O11 O2- 0.01109(28) 0.00949(29) 0.00267(6) -.00079(22) 0.00129(10) 0.00182(10)
+O12 O2- 0.00842(24) 0.01363(33) 0.00235(5) 0.00284(23) 0.00160(9) 0.00101(11)
+Li1 Li1+ 0.00734(54) 0.00961(67) 0.00201(12) -.00005(49) 0.00034(20) -.00033(22)
+#End of TTdata_16486-ICSD

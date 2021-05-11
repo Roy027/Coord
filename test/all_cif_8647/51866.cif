@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51866-ICSD
+_database_code_ICSD 51866
+_audit_creation_date 2004-10-01
+_audit_update_record 2006-10-01
+_chemical_name_systematic 'Bismuth sodium niobium oxide (2.5/1.5/3/12)'
+_chemical_formula_structural 'Bi2 (Bi0.5 Na1.5) Nb3 O12'
+_chemical_formula_sum 'Bi2.5 Na1.5 Nb3 O12'
+_chemical_name_structure_type Bi4Ti3O12
+_exptl_crystal_density_diffrn 6.94
+_publ_section_title
+
+;
+Structure study of Bi2.5 Na0.5 Ta2 O9 and Bi2.5 Na(m-1.5) Nb(m) O(3m+3)
+(M=2-4) by neutron diffraction and electron microscopy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2002 167 86 96 JSSCBI
+loop_
+_publ_author_name
+'Borg, S.'
+'Svensson, G.'
+'Bovin, J.O.'
+_cell_length_a 5.4622(7)
+_cell_length_b 32.735(4)
+_cell_length_c 5.5024(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 983.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'A b a 2'
+_symmetry_Int_Tables_number 41
+_refine_ls_R_factor_all 0.0484
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/2, -y, z+1/2'
+6 '-x+1/2, y, z+1/2'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Bi3+ 3
+Na1+ 1
+Bi3+ 3
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Bi1 Bi3+ 8 b 0.008(2) 0.0639(3) 0. 0.1(2) 0.25 0
+Na1 Na1+ 8 b 0.008(2) 0.0639(3) 0. 0.1(2) 0.75 0
+Bi2 Bi3+ 8 b 0.027(2) 0.21051(19) 0.964(3) 3.8(2) 1. 0
+Nb1 Nb5+ 4 a 0. 0.5 -.027(3) -.96(16) 1. 0
+Nb2 Nb5+ 8 b 0.008(2) 0.37441(18) -.051(3) 0.13(13) 1. 0
+O1 O2- 8 b 0.277(3) 0.0060(4) 0.259(3) 2.7(3) 1. 0
+O2 O2- 8 b 0.271(2) 0.2507(3) 0.193(3) 0.17(19) 1. 0
+O3 O2- 8 b 0.058(2) 0.4413(3) -.045(4) 1.0(2) 1. 0
+O4 O2- 8 b 0.949(3) 0.3204(2) 0.957(4) 1.7(3) 1. 0
+O5 O2- 8 b 0.275(2) 0.1096(3) 0.234(3) 0.75(17) 1. 0
+O6 O2- 8 b 0.198(3) 0.8719(3) 0.165(3) 0.3(2) 1. 0
+#End of TTdata_51866-ICSD

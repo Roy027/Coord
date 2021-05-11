@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_109496-ICSD
+_database_code_ICSD 109496
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Disodium triformatoacetatocuprate'
+_chemical_formula_structural 'Na2 (Cu (H C O O)3 ((H C O O) (C H2)0.284))'
+_chemical_formula_sum 'C4.284 H4.568 Cu1 Na2 O8'
+_exptl_crystal_density_diffrn 2.12
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+catena-poly(disodium((tris(formato)-kappa-O)-copper(II))-mue2-formato-kappa-2O
+:O'), with partial substitution of formate by acetate etc.
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2003 59
+m165 m167 ACSEBH
+loop_
+_publ_author_name
+'Golobic, A.'
+'Klancar, K.'
+'Segedin, P.'
+_cell_length_a 7.0867(4)
+_cell_length_b 9.4514(4)
+_cell_length_c 13.8277(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.993(2)
+_cell_angle_gamma 90.
+_cell_volume 919.28
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.029
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Na1+ 1
+O2- -2
+C4+ 4
+C3+ 3.5
+H1- -1
+C4+ 4
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 4 e .45912(2) .271510(10) .815910(10) .01988(11) 1. 0
+Na1 Na1+ 4 e .86246(6) .53549(5) .38067(4) .0287(2) 1. 0
+Na2 Na1+ 4 e .36454(6) -.04844(5) .88281(4) .0292(2) 1. 0
+O1 O2- 4 e .57597(12) .22579(8) .69824(6) .0239(4) 1. 0
+O2 O2- 4 e .51143(13) .00187(9) .73108(7) .0309(4) 1. 0
+O3 O2- 4 e .35036(12) .33218(9) .93095(7) .0297(4) 1. 0
+O4 O2- 4 e .35322(12) .12659(9) 1.01174(6) .0276(4) 1. 0
+O5 O2- 4 e .20493(12) .27526(9) .73715(7) .0301(4) 1. 0
+O6 O2- 4 e .10223(12) .08245(10) .80815(7) .0344(4) 1. 0
+O7 O2- 4 e .69090(13) .19371(11) .89177(7) .0347(4) 1. 0
+O8 O2- 4 e .88384(13) .16723(12) 1.02695(8) .0399(5) 1. 0
+C1 C4+ 4 e .57681(18) .09481(13) .68162(9) .0260(5) 1. 0
+C2 C4+ 4 e .31543(16) .25354(13) 1.00014(9) .0239(5) 1. 0
+C3 C4+ 4 e .08125(17) .18544(16) .75337(10) .0342(6) 1. 0
+C4 C3+ 4 e .78898(19) .24076(16) .96580(10) .0331(7) 1. 0
+H1 H1- 4 e .631(3) .070(2) .6313(19) .042(5) 1. 0
+H2 H1- 4 e .255(2) .303(2) 1.0497(14) .032(4) 1. 0
+H3 H1- 4 e -.035(4) .201(2) .7202(18) .046(5) 1. 0
+C5 C4+ 4 e .8518(8) .3942(6) .9528(4) .043(3) .284(13) 0
+H4 H1- 4 e .767(4) .330(4) .979(2) .043(3) .716(13) 0
+H5 H1- 4 e .93368 .3969 .89758 .043(3) .284(13) 0
+H6 H1- 4 e .74138 .45572 .93813 .043(3) .284(13) 0
+H7 H1- 4 e .93446 .43249 1.01245 .043(3) .284(13) 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ .02128(11) .01892(11) .01975(11) .00162(4) .00371(6) .00246(4)
+Na1 Na1+ .0288(2) .0280(2) .0308(3) .00217(17) .00996(18) -.00075(18)
+Na2 Na1+ .0306(2) .0261(2) .0311(3) -.00397(17) .00460(18) .00033(18)
+O1 O2- .0294(4) .0184(4) .0247(4) .0006(3) .0067(3) .0019(3)
+O2 O2- .0419(4) .0186(4) .0351(5) .0003(3) .0166(4) -.0003(4)
+O3 O2- .0383(4) .0257(4) .0268(4) .0026(3) .0107(3) .0033(4)
+O4 O2- .0326(4) .0256(5) .0249(4) .0009(3) .0038(3) -.0030(3)
+O5 O2- .0231(4) .0361(5) .0307(5) -.0018(3) .0019(3) .0111(4)
+O6 O2- .0295(4) .0365(5) .0376(5) .0027(3) .0056(4) -.0107(4)
+O7 O2- .0338(5) .0378(5) .0306(5) .0108(4) -.0035(4) -.0024(4)
+O8 O2- .0329(4) .0509(6) .0342(5) -.0011(4) -.0034(4) -.0117(4)
+C1 C4+ .0346(5) .0204(6) .0246(6) .0033(5) .0105(5) -.0007(5)
+C2 C4+ .0248(5) .0279(6) .0197(6) .0002(4) .0048(4) -.0008(5)
+C3 C4+ .0200(6) .0460(7) .0357(7) -.0045(5) -.0012(5) .0142(6)
+C4 C3+ .0367(7) .0307(8) .0305(7) .0053(5) -.0017(6) .0021(6)
+#End of TTdata_109496-ICSD

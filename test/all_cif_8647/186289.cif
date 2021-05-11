@@ -1,0 +1,82 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_186289-ICSD
+_database_code_ICSD 186289
+_audit_creation_date 2013-02-01
+_chemical_name_systematic 'Disodium aluminotrisilicate hydroxide'
+_chemical_formula_structural 'Na2 (Al Si3 O8) (O H)'
+_chemical_formula_sum 'H1 Al1 Na2 O9 Si3'
+_chemical_name_mineral Ussingite
+_exptl_crystal_density_diffrn 2.53
+_cell_measurement_temperature 4.
+_publ_section_title
+
+;
+A variable-temperature neutron diffraction study of ussingite; a strong
+asymmetric hydrogen bond in a aluminosilicate framework
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physics and Chemistry of Minerals' 2012 39 471 478 PCMIDU
+loop_
+_publ_author_name
+'Williams, E.R.'
+'Weller, M.T.'
+_cell_length_a 7.2474(1)
+_cell_length_b 7.6813(1)
+_cell_length_c 8.6432(1)
+_cell_angle_alpha 90.835(1)
+_cell_angle_beta 99.771(1)
+_cell_angle_gamma 122.581(1)
+_cell_volume 396.29
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0111
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Al3+ 3
+Si4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 i 0.1701(9) 0.3865(8) 0.0555(7) 0.0072 1. 0
+Na2 Na1+ 2 i 0.8230(10) 0.2388(8) 0.4433(8) 0.01147 1. 0
+Al1 Al3+ 2 i 0.2449(10) 0.0510(8) 0.8547(6) 0.00455 1. 0
+Si1 Si4+ 2 i 0.2527(8) 0.1947(7) 0.3635(5) 0.00591 1. 0
+Si2 Si4+ 2 i 0.3226(7) 0.4184(7) 0.6932(5) 0.00327 1. 0
+Si3 Si4+ 2 i 0.7080(7) 0.1102(7) 0.8116(5) 0.00153 1. 0
+O1 O2- 2 i 0.0024(6) 0.1355(5) 0.2846(4) 0.00476 1. 0
+O2 O2- 2 i 0.1412(5) 0.4738(5) 0.6506(4) 0.00767 1. 0
+O3 O2- 2 i 0.2743(5) -0.0056(5) 0.3482(4) 0.00433 1. 0
+O4 O2- 2 i 0.3019(6) 0.3000(5) 0.8519(4) 0.00601 1. 0
+O5 O2- 2 i 0.4436(6) 0.0212(5) 0.7954(4) 0.00679 1. 0
+O6 O2- 2 i 0.4194(6) 0.3740(5) 0.2703(4) 0.00789 1. 0
+O7 O2- 2 i 0.8061(5) 0.0431(5) 0.9647(4) 0.00464 1. 0
+O8 O2- 2 i 0.8608(6) 0.3594(5) 0.8196(4) 0.00612 1. 0
+O9 O2- 2 i 0.3129(6) 0.2676(5) 0.5515(4) 0.00482 1. 0
+H1 H1+ 2 i 0.9820(10) 0.4147(9) 0.7465(8) 0.01299 1. 0
+#End of TTdata_186289-ICSD

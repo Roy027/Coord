@@ -1,0 +1,80 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_159906-ICSD
+_database_code_ICSD 159906
+_audit_creation_date 2008-08-01
+_chemical_name_systematic
+'Tetrasodium bis(dioxoneptunium(V)) trioxalate dihydrate'
+_chemical_formula_structural 'Na4 (Np O2)2 (C2 O4)3 (H2 O)2'
+_chemical_formula_sum 'C6 H4 Na4 Np2 O18'
+_exptl_crystal_density_diffrn 3.6
+_publ_section_title
+'Crystal structure of a Np(V) sesquioxalate Na4 (Np O2)2 (C2 O4)3 * 2(H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Radiokhimiya 2007 49 102 105 RADKAU
+loop_
+_publ_author_name
+'Charushnikova, I.A.'
+'Krot, N.N.'
+'Polyakova, I.N.'
+_cell_length_a 6.7556(7)
+_cell_length_b 8.362(2)
+_cell_length_c 8.6526(9)
+_cell_angle_alpha 76.909(17)
+_cell_angle_beta 71.051(9)
+_cell_angle_gamma 69.101(16)
+_cell_volume 428.48
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0398
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Np5+ 5
+Na1+ 1
+O2- -2
+C3+ 3
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Np1 Np5+ 2 i 0.03587(4) 0.16326(3) 0.27375(3) 0.01070(16) 1. 0
+Na1 Na1+ 2 i 0.3619(6) 0.0370(4) -0.1760(5) 0.0210(7) 1. 0
+Na2 Na1+ 2 i 0.4894(6) 0.3858(5) 0.2118(5) 0.0231(7) 1. 0
+O1 O2- 2 i 0.2873(12) 0.1833(9) 0.2956(9) 0.0207(13) 1. 0
+O2 O2- 2 i -0.2095(12) 0.1419(10) 0.2465(10) 0.0228(14) 1. 0
+O3 O2- 2 i -0.1126(11) 0.1373(8) 0.5777(8) 0.0190(11) 1. 0
+O4 O2- 2 i -0.2512(13) 0.4194(8) 0.5933(8) 0.0323(16) 1. 0
+O5 O2- 2 i -0.2761(12) 0.0658(8) 0.8934(8) 0.0234(14) 1. 0
+O6 O2- 2 i -0.3792(13) 0.3404(8) 0.9313(8) 0.0279(14) 1. 0
+O7 O2- 2 i -0.1384(13) 0.4767(9) 0.2085(9) 0.0275(16) 1. 0
+O8 O2- 2 i -0.1454(11) 0.7157(8) 0.0224(7) 0.0199(12) 1. 0
+C1 C3+ 2 i -0.2147(15) 0.2675(11) 0.6551(11) 0.0198(16) 1. 0
+C2 C3+ 2 i -0.2975(14) 0.2243(9) 0.8453(11) 0.0178(15) 1. 0
+C3 C3+ 2 i -0.0832(13) 0.5560(10) 0.0699(10) 0.0168(15) 1. 0
+O9 O2- 2 i 0.3480(19) 0.2319(10) 0.5961(11) 0.044(2) 1. 0
+H1 H1+ 2 i 0.28(2) 0.23(2) 0.530(17) 0.065 1. 0
+H2 H1+ 2 i 0.40(3) 0.314(16) 0.57(2) 0.065 1. 0
+#End of TTdata_159906-ICSD

@@ -1,0 +1,92 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426660-ICSD
+_database_code_ICSD 426660
+_audit_creation_date 2014-08-01
+_chemical_name_systematic 'Sodium iridium zinc oxide (2.8/2/1/6)'
+_chemical_formula_structural 'Na2.8 (Ir2 Zn) O6'
+_chemical_formula_sum 'Ir2 Na2.8 O6 Zn1'
+_chemical_name_structure_type Li5ReO6
+_exptl_crystal_density_diffrn 7.63
+_cell_measurement_temperature 300.
+_publ_section_title
+'Structure and properties of alpha - Na Fe O2 - type ternary sodium iridates'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2014 210 195 205 JSSCBI
+loop_
+_publ_author_name
+'Baroudi, Kristen'
+'Yim, Cindi'
+'Wu, Hui'
+'Huang, Qingzhen'
+'Roudebush, John H.'
+'Vavilova, Eugenia'
+'Grafe, Hans-Joachim'
+'Kataev, Vladislav'
+'Buechner, Bernd'
+'Ji, Huiwen'
+'Kuo, Changyang'
+'Hu, Zhiwei'
+'Pi, Tun-Wen'
+'Pao, Chiwen'
+'Lee, Jyhfu'
+'Mikhailova, Daria'
+'Tjeng, Liu Hao'
+'Cava, R.J.'
+_cell_length_a 5.36918(16)
+_cell_length_b 9.2964(3)
+_cell_length_c 5.62761(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.358(2)
+_cell_angle_gamma 90.
+_cell_volume 266.6
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0263
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Zn2+ 2
+Ir3+ 3.6
+Zn2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 d 0.5 0. 0.5 0.010(7) 0.95(8) 0
+Na2 Na1+ 4 h 0.5 0.320(3) 0.5 0.021(6) 0.94(5) 0
+Zn1 Zn2+ 2 a 0. 0. 0. 0.0045(4) 0.85(4) 0
+Ir1 Ir3+ 4 g 0.5 0.1670(11) 0. 0.0045(4) 0.92(2) 0
+Ir2 Ir3+ 2 a 0. 0. 0. 0.0045(4) 0.15(4) 0
+Zn2 Zn2+ 4 g 0.5 0.1670(11) 0. 0.0045(4) 0.08(2) 0
+O1 O2- 8 j 0.7669(13) 0.1644(11) 0.7933(8) 0.0061(11) 1. 0
+O2 O2- 4 i 0.725(2) 0. 0.1818(16) 0.009(2) 1. 0
+#End of TTdata_426660-ICSD

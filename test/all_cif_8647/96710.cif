@@ -1,0 +1,129 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_96710-ICSD
+_database_code_ICSD 96710
+_audit_creation_date 2004-10-01
+_audit_update_record 2015-08-01
+_chemical_name_systematic
+'Sodium copper oxide sulfate(VI) chloride (4.26/4.37/2/4/1)'
+_chemical_formula_structural 'Na4 (Cu4 O2 (S O4)4) ((Na0.26 Cu0.37) Cl)'
+_chemical_formula_sum 'Cl1 Cu4.37 Na4.26 O18 S4'
+_chemical_name_mineral Piypite
+_exptl_crystal_density_diffrn 3.26
+_publ_section_title
+
+;
+Crystal structure of Na4 (Cu4 O2 (S O4)4) * (Me Cl) (Me : Na, Cu, vac) - the
+synthetic Na-analogue of piypite (caratiite)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Magazine' 2000 64 1099 1108 MNLMBB
+loop_
+_publ_author_name
+'Kahlenberg, V.'
+'Piotrowski, A.'
+'Giester, G.'
+_cell_length_a 18.451(1)
+_cell_length_b 18.451(1)
+_cell_length_c 4.9520(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1685.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 4/n Z'
+_symmetry_Int_Tables_number 85
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x+1/2, -z'
+2 'y+1/2, -x, -z'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y, -x+1/2, z'
+6 '-y+1/2, x, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cu2+ 2
+Cl1- -1
+S6+ 6
+Na1+ 1
+Cu2+ 2
+Na1+ 1
+Cu2+ 2
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cu1 Cu2+ 8 g 0.05189(2) 0.05935(2) 0.47175(6) 0.0124(1) 1. 0
+Cu2 Cu2+ 8 g 0.55123(2) 0.05974(2) 0.97817(6) 0.0129(1) 1. 0
+Cl1 Cl1- 2 a 0.75 0.25 0 0.0300(3) 1. 0
+Cl2 Cl1- 2 c 0.25 0.25 0.5068(3) 0.0301(4) 1. 0
+S1 S6+ 8 g 0.41831(4) 0.34183(4) 0.9690(1) 0.0134(2) 1. 0
+S2 S6+ 8 g 0.91906(5) 0.34094(5) 0.4896(1) 0.0134(2) 1. 0
+Na1 Na1+ 2 b 0.75 0.25 0.5 0.0328(6) 0.26(2) 0
+Cu3 Cu2+ 2 b 0.75 0.25 0.5 0.0328(6) 0.37(2) 0
+Na2 Na1+ 2 c 0.25 0.25 0.0043(3) 0.0325(6) 0.26(2) 0
+Cu4 Cu2+ 2 c 0.25 0.25 0.0043(3) 0.0325(6) 0.37(2) 0
+Na3 Na1+ 8 g 0.60386(9) 0.27820(9) 0.01600(2) 0.0301(4) 1. 0
+Na4 Na1+ 8 g 0.10444(8) 0.27925(9) 0.4694(3) 0.0306(4) 1. 0
+O1 O2- 8 g 0.4996(1) 0.5088(1) 0.2501(4) 0.0131(3) 1. 0
+O2 O2- 8 g 0.3927(1) 0.4008(1) 0.1495(4) 0.0209(4) 1. 0
+O3 O2- 8 g 0.6015(1) 0.3911(1) 0.3315(4) 0.0216(4) 1. 0
+O4 O2- 8 g 0.4008(1) 0.3621(1) 0.6823(3) 0.0186(4) 1. 0
+O5 O2- 8 g 0.9040(1) 0.3615(1) 0.2015(4) 0.0233(4) 1. 0
+O6 O2- 8 g 0.6651(2) 0.4972(1) 0.4698(4) 0.0238(5) 1. 0
+O7 O2- 8 g 0.1661(2) 0.4967(2) 0.9976(4) 0.0265(6) 1. 0
+O8 O2- 8 g 0.7273(1) 0.3819(2) 0.4617(4) 0.0263(6) 1. 0
+O9 O2- 8 g 0.2253(1) 0.3799(2) 0.0261(4) 0.0284(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 Cu2+ 0.0148(2) 0.0145(2) 0.0080(15) -.0028(2) 0.0003(1) 0.0003(1)
+Cu2 Cu2+ 0.0151(2) 0.0146(2) 0.0091(16) -.0028(2) 0.0001(1) 0.0009(1)
+Cl1 Cl1- 0.0173(6) 0.0173(6) 0.0554(11) 0. 0. 0.
+Cl2 Cl1- 0.0174(6) 0.0174(6) 0.0556(11) 0. 0. 0.
+S1 S6+ 0.0154(4) 0.0132(4) 0.0117(27) -.0020(3) -.0020(2) 0.0009(2)
+S2 S6+ 0.0154(4) 0.0135(4) 0.0114(29) -.0026(3) 0.0006(2) 0.0002(2)
+Na1 Na1+ 0.0415(9) 0.0415(9) 0.0153(8) 0. 0. 0.
+Cu3 Cu2+ 0.0415(9) 0.0415(9) 0.0153(8) 0. 0. 0.
+Na2 Na1+ 0.0404(9) 0.0404(9) 0.0166(8) 0. 0. 0.
+Cu4 Cu2+ 0.0404(9) 0.0404(9) 0.0166(8) 0. 0. 0.
+Na3 Na1+ 0.0195(9) 0.0254(9) 0.0453(8) 0.0045(7) 0.0008(5) 0.0004(5)
+Na4 Na1+ 0.0197(8) 0.0291(9) 0.0431(7) 0.0067(7) 0.0002(5) -.0084(5)
+O1 O2- 0.0142(10) 0.0180(9) 0.0073(7) -.0012(9) -.0006(5) -.0001(6)
+O2 O2- 0.0204(10) 0.0283(11) 0.0138(8) -.0011(8) -.0014(7) -.0073(7)
+O3 O2- 0.0288(11) 0.0197(10) 0.0161(9) -.0008(8) -.0092(8) 0.0018(7)
+O4 O2- 0.0234(10) 0.0219(10) 0.0104(8) -.0066(8) -.0026(7) 0.0009(7)
+O5 O2- 0.0313(11) 0.0271(11) 0.0114(8) -.0102(9) -.0022(8) 0.0013(7)
+O6 O2- 0.0247(14) 0.0164(13) 0.0303(11) -.0038(11) 0.0005(8) -.0004(8)
+O7 O2- 0.0247(15) 0.0152(14) 0.0397(14) -.0039(11) 0.0041(8) -.0066(7)
+O8 O2- 0.0169(13) 0.0324(15) 0.0297(11) 0.0078(11) 0.0058(8) 0.0003(9)
+O9 O2- 0.0209(14) 0.0333(16) 0.0309(11) 0.0126 -.0106(8) -.0073(9)
+#End of TTdata_96710-ICSD

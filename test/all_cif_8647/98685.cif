@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_98685-ICSD
+_database_code_ICSD 98685
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Disodium zinc bis(selenate(VI)) dihydrate'
+_chemical_formula_structural 'Na2 Zn (Se O4)2 (H2 O)2'
+_chemical_formula_sum 'H4 Na2 O10 Se2 Zn1'
+_chemical_name_structure_type Fairfieldite-Ca2Mn(PO4)2
+_exptl_crystal_density_diffrn 3.47
+_publ_section_title
+
+;
+Crystal structures and crystal chemical relationships of kroehnkite- and
+collinsite-type compounds Na2 Me(2+) (X O4)2 * 2(H2 O) (X = S, Me = Mn, Cd;
+and X = Se, Me = Mn, Co, Ni, Zn, Cd) and K2 Co (Se O4)2 * 2(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 2003 218 201 209 ZEKRDZ
+loop_
+_publ_author_name
+'Wildner, M.'
+'Stoilova, D.'
+_cell_length_a 5.930(1)
+_cell_length_b 7.178(1)
+_cell_length_c 5.571(1)
+_cell_angle_alpha 99.20(1)
+_cell_angle_beta 106.81(1)
+_cell_angle_gamma 108.17(1)
+_cell_volume 207.37
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0197
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+Se6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 1 a 0 0 0 0.0116(1) 1. 0
+Na1 Na1+ 2 i 0.2896(1) 0.7494(1) 0.6658(1) 0.0229(1) 1. 0
+Se1 Se6+ 2 i 0.33514(2) 0.23972(2) 0.66320(2) 0.0086(1) 1. 0
+O1 O2- 2 i 0.3331(2) 0.1266(2) 0.8990(2) 0.0143(2) 1. 0
+O2 O2- 2 i 0.2398(2) 0.0600(2) 0.3903(2) 0.0170(2) 1. 0
+O3 O2- 2 i 0.1639(2) 0.3777(2) 0.6463(2) 0.0164(2) 1. 0
+O4 O2- 2 i 0.6328(2) 0.3761(2) 0.7159(2) 0.0154(2) 1. 0
+O5 O2- 2 i 0.9588(2) 0.2710(2) 0.0677(2) 0.0127(2) 1. 0
+H1 H1+ 2 i 0.104(7) 0.364(5) 0.125(6) 0.056(9) 1. 0
+H2 H1+ 2 i 0.882(5) 0.293(4) -0.042(5) 0.034(7) 1. 0
+#End of TTdata_98685-ICSD

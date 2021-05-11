@@ -1,0 +1,88 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_200805-ICSD
+_database_code_ICSD 200805
+_audit_creation_date 1980-12-31
+_audit_update_record 1998-06-26
+_chemical_name_systematic 'Dodecasodium tricalcium diiron(III) catena-silicate'
+_chemical_formula_structural 'Na12 Ca3 Fe2 (Si6 O18)2'
+_chemical_formula_sum 'Ca3 Fe2 Na12 O36 Si12'
+_chemical_name_mineral Imandrite
+_exptl_crystal_density_diffrn 2.92
+_publ_section_title
+
+;
+Imandrite Na12 Ca3 Fe2 (Si6 O18)2 - a representative of a new branch in the
+lovozerite structural family
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Doklady Akademii Nauk SSSR' 1980 252 618 621 DANKAS
+loop_
+_publ_author_name
+'Chernitsova, N.M.'
+'Pudovkina, Z.V.'
+'Voronkov, A.A.'
+'Ilyukhin, V.V.'
+'Pyatenko, Yu.A.'
+_cell_length_a 10.331(1)
+_cell_length_b 10.546(1)
+_cell_length_c 7.426(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 809.07
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P m n n'
+_symmetry_Int_Tables_number 58
+_refine_ls_R_factor_all 0.053
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 'x+1/2, y+1/2, -z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Ca2+ 2
+Si4+ 4
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Fe1 Fe3+ 2 a 0 0 0 0.99(3) 1. 0
+Ca1 Ca2+ 4 g 0.5 0.2549(5) 0.7563(7) 0.96(4) 0.75 0
+Si1 Si4+ 8 h 0.2723(3) 0.9920(4) 0.7152(5) 0.69(3) 1. 0
+Si2 Si4+ 4 g 0.5 0.2184(5) 0.2564(8) 0.77(4) 1. 0
+Na1 Na1+ 2 c 0 0 0.5 0.19(7) 1. 0
+Na2 Na1+ 8 h 0.2407(5) 0.2334(5) 0.0207(7) 1.61(6) 1. 0
+Na3 Na1+ 2 b 0.5 0 0 3.97(21) 1. 0
+O1 O2- 4 g 0 0.199(1) 0.935(2) 2.04(17) 1. 0
+O2 O2- 8 h 0.128(1) 0.376(1) 0.755(1) 2.38(12) 1. 0
+O3 O2- 4 g 0.5 0.290(1) 0.073(2) 1.50(14) 1. 0
+O4 O2- 8 h 0.364(1) 0.444(1) 0.697(1) 1.68(10) 1. 0
+O5 O2- 8 h 0.329(1) 0.121(1) 0.787(1) 1.94(11) 1. 0
+O6 O2- 4 f 0.240(1) 0 0.5 2.89(19) 1. 0
+#End of TTdata_200805-ICSD

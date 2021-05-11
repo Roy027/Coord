@@ -1,0 +1,93 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_409860-ICSD
+_database_code_ICSD 409860
+_audit_creation_date 2006-10-01
+_chemical_name_systematic 'Tripotassium sodium ditungstate'
+_chemical_formula_structural 'K3 Na W2 O8'
+_chemical_formula_sum 'K3 Na1 O8 W2'
+_chemical_name_structure_type Na2BaCu(VO4)2
+_exptl_crystal_density_diffrn 4.34
+_publ_section_title
+'Crystal stucture of tripotassium sodium tungstate, K3 Na (W O4)2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie - New Crystal Structures' 2005 220
+531 532 ZKNSFT
+loop_
+_publ_author_name
+'Arumugam, N.'
+'Sofin, M.'
+'Jansen, M.'
+_cell_length_a 10.4928(1)
+_cell_length_b 6.0693(1)
+_cell_length_c 15.2921(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90.087(2)
+_cell_angle_gamma 90
+_cell_volume 973.86
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0627
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+K1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+W1 W6+ 8 f 0.16290(11) 0.47953(11) 0.13974(4) 0.01389(18) 1 0
+K1 K1+ 8 f 0.1714(5) 0.4759(8) 0.41517(19) 0.0259(13) 1 0
+K2 K1+ 4 e 0 0.9449(11) 0.25 0.0276(18) 1 0
+Na1 Na1+ 4 a 0 0 0 0.019(3) 1 0
+O1 O2- 8 f 0.172(2) 0.555(3) 0.2516(7) 0.040(6) 1 0
+O2 O2- 8 f 0.082(2) 0.693(3) 0.0806(11) 0.030(6) 1 0
+O3 O2- 8 f 0.079(2) 0.231(3) 0.1209(11) 0.030(6) 1 0
+O4 O2- 8 f 0.3152(14) 0.455(4) 0.0933(12) 0.034(6) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.0130(3) 0.0156(4) 0.01300(18) -0.0010(4) -0.0024(3) 0.0010(4)
+K1 K1+ 0.024(2) 0.032(3) 0.0222(14) 0.001(2) -0.003(2) -0.001(2)
+K2 K1+ 0.032(4) 0.027(3) 0.024(2) 0 -0.001(3) 0
+Na1 Na1+ 0.012(5) 0.027(7) 0.018(3) 0.001(5) -0.003(5) 0.000(5)
+O1 O2- 0.058(12) 0.043(10) 0.020(5) -0.003(8) 0.007(9) -0.002(6)
+O2 O2- 0.039(11) 0.031(10) 0.019(8) 0.003(8) -0.002(8) 0.014(7)
+O3 O2- 0.018(9) 0.033(10) 0.040(10) -0.013(6) -0.010(10) 0.005(8)
+O4 O2- 0.022(8) 0.046(13) 0.034(11) 0.007(8) 0.005(7) 0.005(10)
+#End of TTdata_409860-ICSD

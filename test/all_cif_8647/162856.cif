@@ -1,0 +1,79 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_162856-ICSD
+_database_code_ICSD 162856
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Sodium cobalt oxide (0.57/1/2)'
+_chemical_formula_structural 'Na0.571 (Co O2)'
+_chemical_formula_sum 'Co1 Na0.571 O2'
+_chemical_name_structure_type NaxCoO2(hP50)
+_exptl_crystal_density_diffrn 4.54
+_cell_measurement_temperature 260.
+_publ_section_title 'Disorder-order transitions in Nax Co O2 (x ca. 0.58)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physical Review B: Condensed Matter and Materials Physics' 2008 78
+184112-1 184112-6 PRBMDO
+loop_
+_publ_author_name
+'Igarashi, D.'
+'Miyazaki, Y.'
+'Kajitani, T.'
+'Yubuta, K.'
+_cell_length_a 7.4622(3)
+_cell_length_b 7.4622(3)
+_cell_length_c 11.0524(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 532.99
+_cell_formula_units_Z 14
+_symmetry_space_group_name_H-M 'P 63/m'
+_symmetry_Int_Tables_number 176
+_refine_ls_R_factor_all 0.0556
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Co3+ 3.43
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0 0 0.25 3.2(2) 1. 0
+Na2 Na1+ 6 h 0.451(2) 0.389(2) 0.25 3.2(2) 1. 0
+Co1 Co3+ 2 b 0 0 0 0.26(8) 1. 0
+Co2 Co3+ 12 i 0.280(2) 0.426(2) -0.008(1) 0.26(8) 1. 0
+O1 O2- 12 i 0.238(1) 0.192(2) 0.0894(6) 0.33(3) 1. 0
+O2 O2- 12 i 0.0956(9) 0.479(1) 0.0854(4) 0.33(3) 1. 0
+O3 O2- 4 f 0.3333 0.6667 -0.093(1) 0.33(3) 1. 0
+#End of TTdata_162856-ICSD

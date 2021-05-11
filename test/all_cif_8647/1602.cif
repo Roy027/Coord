@@ -1,0 +1,101 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_1602-ICSD
+_database_code_ICSD 1602
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_systematic 'Disodium hydrogenphosphate(III) pentahydrate'
+_chemical_formula_structural 'Na2 (H P O3) (H2 O)5'
+_chemical_formula_sum 'H11 Na2 O8 P1'
+_exptl_crystal_density_diffrn 1.68
+_publ_section_title
+
+;
+Zur Kenntnis der Hydrate des Na2 P H O3, Phasenbeziehungen und
+kristallographische Untersuchungen
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1978
+439 265 274 ZAACAB
+loop_
+_publ_author_name
+'Brodalla, D.'
+'Goeters, C.'
+'Kniep, R.'
+'Mootz, D.'
+'Wunderlich, H.'
+_cell_length_a 7.190(1)
+_cell_length_b 6.447(1)
+_cell_length_c 9.230(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 427.85
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P m n 21'
+_symmetry_Int_Tables_number 31
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P3+ 3
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+P1 P3+ 2 a 0 0.1489(1) 0 . 1. 0
+O1 O2- 2 a 0 0.3842(4) 0.0124(5) . 1. 0
+O2 O2- 4 b 0.1754(3) 0.0467(3) 0.0604(3) . 1. 0
+O3 O2- 4 b 0.2311(4) -.3576(4) 0.1748(3) . 1. 0
+O4 O2- 2 a 0.5 0.2757(6) 0.0375(4) . 1. 0
+O5 O2- 4 b 0.2354(4) 0.2353(3) 0.3332(3) . 1. 0
+Na1 Na1+ 2 a 0 0.4925(3) 0.3483(3) . 1. 0
+Na2 Na1+ 2 a 0 0.5356(3) 0.7704(2) . 1. 0
+H1 H1+ 2 a 0 0.103(8) -.147(6) 2.3 1. 0
+H2 H1+ 4 b 0.218(7) -.248(8) 0.137(6) 3.1 1. 0
+H3 H1+ 4 b 0.172(7) -.429(7) 0.112(5) 3.5 1. 0
+H4 H1+ 4 b 0.410(6) 0.191(7) 0.045(6) 3.8 1. 0
+H5 H1+ 4 b 0.206(8) 0.145(7) 0.261(7) 3.7 1. 0
+H6 H1+ 4 b 0.237(9) 0.142(9) 0.407(7) 5.5 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_B_11
+_atom_site_aniso_B_22
+_atom_site_aniso_B_33
+_atom_site_aniso_B_12
+_atom_site_aniso_B_13
+_atom_site_aniso_B_23
+P1 P3+ 1.37(3) 0.96(3) 1.15(3) 0 0 -.10(3)
+O1 O2- 2.49(12) 1.0(1) 2.30(13) 0 0 0.04(11)
+O2 O2- 1.49(8) 1.55(8) 2.29(8) 0.17(6) -.49(9) -.01(8)
+O3 O2- 3.07(11) 1.77(9) 2.27(11) -.12(8) -.92(10) 0.31(9)
+O4 O2- 1.88(12) 2.20(12) 2.75(18) 0 0 -.08(11)
+O5 O2- 2.79(10) 1.73(8) 2.10(9) 0.29(8) -.44(9) 0.21(9)
+Na1 Na1+ 2.47(8) 2.13(7) 3.20(9) 0 0 -.35(7)
+Na2 Na1+ 1.99(7) 1.98(7) 1.78(7) 0 0 0.15(6)
+#End of TTdata_1602-ICSD

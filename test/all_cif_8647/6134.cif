@@ -1,0 +1,106 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_6134-ICSD
+_database_code_ICSD 6134
+_audit_creation_date 1980-01-01
+_chemical_name_systematic 'Lithium tetramolybdate - low-temperature phase'
+_chemical_formula_structural 'Li2 Mo4 O13'
+_chemical_formula_sum 'Li2 Mo4 O13'
+_exptl_crystal_density_diffrn 4.02
+_publ_section_title
+
+;
+Structural studies in the Li2 Mo O4 - Mo O3 system. Part 1. The low
+temperature form of lithium tetramolybdate , L-Li2 Mo4 O13
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1974 9 247 254 JSSCBI
+loop_
+_publ_author_name
+'Gatehouse, B.M.'
+'Miskin, B.K.'
+_cell_length_a 8.578(5)
+_cell_length_b 11.450(5)
+_cell_length_c 8.225(5)
+_cell_angle_alpha 109.24(7)
+_cell_angle_beta 96.04(7)
+_cell_angle_gamma 95.95(7)
+_cell_volume 750.21
+_cell_formula_units_Z 3
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.031
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Mo1 Mo6+ 2 i 0.4370(2) 0.6349(1) 0.1128(2) . 1. 0
+Mo2 Mo6+ 2 i 0.4180(2) 0.6343(1) 0.5053(2) . 1. 0
+Mo3 Mo6+ 2 i 0.2095(2) 0.3591(1) 0.5320(2) . 1. 0
+Mo4 Mo6+ 2 i 0.2290(2) 0.3672(1) 0.1443(2) . 1. 0
+Mo5 Mo6+ 2 i 0.1583(2) 0.9700(1) 0.3548(2) . 1. 0
+Mo6 Mo6+ 2 i 0.1770(2) 0.9648(1) 0.9580(2) . 1. 0
+O1 O2- 1 b 0 0 0.5 1.6 1. 0
+O2 O2- 2 i 0.0052(13) 0.9935(10) 0.1511(13) 1.3 1. 0
+O3 O2- 2 i 0.0772(13) 0.3982(10) 0.0200(14) 1.6 1. 0
+O4 O2- 2 i 0.1066(12) 0.3892(9) 0.3344(13) 0.9 1. 0
+O5 O2- 2 i 0.0796(13) 0.4024(10) 0.6780(14) 1.6 1. 0
+O6 O2- 2 i 0.1275(14) 0.8113(11) 0.2775(15) 2. 1. 0
+O7 O2- 2 i 0.1445(14) 0.8067(11) 0.8802(15) 1.9 1. 0
+O8 O2- 2 i 0.2254(13) 0.2119(10) 0.0701(14) 1.6 1. 0
+O9 O2- 2 i 0.1776(13) 0.200(1) 0.4513(14) 1.6 1. 0
+O10 O2- 2 i 0.2966(12) 0.5899(9) 0.2744(13) 1. 1. 0
+O11 O2- 2 i 0.2714(13) 0.5793(10) 0.6069(14) 1.4 1. 0
+O12 O2- 2 i 0.2715(13) 0.6122(10) 0.9655(14) 1.3 1. 0
+O13 O2- 2 i 0.2902(13) 0.0009(10) 0.1853(14) 1.4 1. 0
+O14 O2- 2 i 0.3284(14) 0.0058(10) 0.5042(14) 1.7 1. 0
+O15 O2- 2 i 0.3259(13) 0.0016(10) 0.8544(14) 1.8 1. 0
+O16 O2- 2 i 0.4085(12) 0.4178(9) 0.0376(13) 1.1 1. 0
+O17 O2- 2 i 0.3966(12) 0.4021(9) 0.3755(13) 1.1 1. 0
+O18 O2- 2 i 0.4126(12) 0.3852(9) 0.6714(13) 1.2 1. 0
+O19 O2- 2 i 0.4830(13) 0.7909(10) 0.1975(14) 1.8 1. 0
+O20 O2- 2 i 0.4335(14) 0.790(1) 0.5866(15) 1.8 1. 0
+Li1 Li1+ 2 i 0.0786(37) 0.6330(28) 0.1870(39) 2. 1. 0
+Li2 Li1+ 2 i 0.1202(33) 0.6272(25) 0.7746(35) 1.3 1. 0
+Li3 Li1+ 2 i 0.4857(34) 0.0014(26) 0.7031(36) 1.3 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.0072(6) 0.0077(6) 0.0105(6) 0.0021(5) 0.0024(5) 0.0025(5)
+Mo2 Mo6+ 0.0066(6) 0.0078(6) 0.0099(6) 0.0022(5) 0.0018(5) 0.0015(5)
+Mo3 Mo6+ 0.0057(6) 0.0076(6) 0.0101(6) 0.0006(5) 0.0015(5) 0.0021(5)
+Mo4 Mo6+ 0.0067(6) 0.0079(6) 0.0100(6) 0.0006(5) 0.0010(5) 0.0016(5)
+Mo5 Mo6+ 0.0075(6) 0.0096(6) 0.0119(6) 0.0022(5) 0.0024(5) 0.0031(5)
+Mo6 Mo6+ 0.0081(6) 0.0102(6) 0.0109(6) 0.0032(5) 0.0018(5) 0.0016(5)
+#End of TTdata_6134-ICSD

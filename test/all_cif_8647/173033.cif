@@ -1,0 +1,94 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_173033-ICSD
+_database_code_ICSD 173033
+_audit_creation_date 2008-02-01
+_chemical_name_systematic 'Disodium cadmium bis(sulfate)'
+_chemical_formula_structural 'Na2 Cd (S O4)2'
+_chemical_formula_sum 'Cd1 Na2 O8 S2'
+_chemical_name_structure_type Na2Ca(SO4)2
+_exptl_crystal_density_diffrn 3.58
+_cell_measurement_temperature 294.
+_publ_section_title
+
+;
+Structure, ionic conduction and dielectric relaxation in a novel fast ion
+conductor, Na2 Cd (S O4)2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2007 19 347 349 CMATEX
+loop_
+_publ_author_name
+'Swain, D.'
+'Guru Row, T.N.'
+_cell_length_a 10.059(2)
+_cell_length_b 8.2250(18)
+_cell_length_c 8.6557(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.620(2)
+_cell_angle_gamma 90.
+_cell_volume 651.03
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0184
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cd2+ 2
+Na1+ 1
+S6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Cd1 Cd2+ 4 e 0. 0.07239(3) 0.25 0.01825(13) 1 0
+Na1 Na1+ 8 f 0.86379(13) 0.55631(15) 0.06092(16) 0.0294(3) 1 0
+S1 S6+ 8 f 0.81154(6) 0.78772(7) 0.31337(7) 0.01393(15) 1 0
+O1 O2- 8 f 0.8635(3) 0.9071(3) 0.4503(3) 0.0438(7) 1 0
+O2 O2- 8 f 0.6525(2) 0.7718(3) 0.2533(4) 0.0417(6) 1 0
+O3 O2- 8 f 0.8858(2) 0.6304(2) 0.3654(2) 0.0205(4) 1 0
+O4 O2- 8 f 0.8406(2) 0.8514(3) 0.1708(3) 0.0274(4) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd1 Cd2+ 0.01312(16) 0.01302(16) 0.02230(17) 0. 0.00111(11) 0.
+Na1 Na1+ 0.0184(5) 0.0392(7) 0.0289(6) -0.0044(5) 0.0083(5) -0.0160(5)
+S1 S6+ 0.0133(3) 0.0131(3) 0.0162(3) -0.00186(19) 0.0069(2) -0.0010(2)
+O1 O2- 0.0586(16) 0.0281(12) 0.0234(11) 0.0131(11) -0.0039(11) -0.0122(9)
+O2 O2- 0.0155(10) 0.0259(11) 0.0827(19) -0.0004(8) 0.0195(11) 0.0171(11)
+O3 O2- 0.0203(8) 0.0152(8) 0.0264(9) 0.0014(7) 0.0102(7) 0.0021(7)
+O4 O2- 0.0343(11) 0.0269(10) 0.0306(10) 0.0087(8) 0.0229(9) 0.0107(8)
+#End of TTdata_173033-ICSD

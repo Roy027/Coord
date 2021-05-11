@@ -1,0 +1,105 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_416877-ICSD
+_database_code_ICSD 416877
+_audit_creation_date 2007-04-01
+_audit_update_record 2008-02-01
+_chemical_name_systematic 'Lanthanum lithium tetrakis(catena-phosphate(V))'
+_chemical_formula_structural 'La Li (P O3)4'
+_chemical_formula_sum 'La1 Li1 O12 P4'
+_chemical_name_structure_type LiYb(PO3)4
+_exptl_crystal_density_diffrn 3.25
+_publ_section_title
+
+;
+A series of lithium rare earth polyphosphates [Li Ln (P O3)4] (Ln = La, Eu,
+Gd) and their structural, optical, and electronic properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2007 2007 285 290 EJICFO
+loop_
+_publ_author_name
+'Zhu Jing'
+'Cheng Wen Dan'
+'Wu Dongsheng'
+'Zhang Hao'
+'Gong Yajing'
+'Tong Huanan'
+'Zhao Dan'
+_cell_length_a 16.6230(3)
+_cell_length_b 7.11980(10)
+_cell_length_c 9.905
+_cell_angle_alpha 90.
+_cell_angle_beta 126.43
+_cell_angle_gamma 90.
+_cell_volume 943.2
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0284
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+La1 La3+ 4 e 0.5 0.80307(5) 0.25 0.0069(3) 1 0
+P1 P5+ 8 f 0.36066(8) 0.55973(17) -0.16627(14) 0.0072(3) 1 0
+P2 P5+ 8 f 0.65043(9) 0.83667(19) 0.09688(15) 0.0074(3) 1 0
+O1 O2- 8 f 0.3849(3) 0.7217(5) -0.0524(5) 0.0134(8) 1 0
+O2 O2- 8 f 0.6624(2) 0.6134(5) 0.0925(4) 0.0116(7) 1 0
+O3 O2- 8 f 0.2571(2) 0.5909(5) -0.3462(4) 0.0111(7) 1 0
+O4 O2- 8 f 0.5664(2) 0.4926(5) 0.2023(4) 0.0108(7) 1 0
+O5 O2- 8 f 0.5765(2) 0.8938(5) -0.0818(4) 0.0128(7) 1 0
+O6 O2- 8 f 0.6316(2) 0.8849(5) 0.2215(4) 0.0138(7) 1 0
+Li1 Li1+ 4 e 0.5 0.3000(14) 0.25 0.013(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.0060(3) 0.0078(3) 0.0055(3) 0. 0.0027(2) 0.
+P1 P5+ 0.0046(6) 0.0088(6) 0.0052(6) 0.0003(4) 0.0013(5) 0.0003(4)
+P2 P5+ 0.0044(6) 0.0094(6) 0.0056(6) -0.0005(4) 0.0014(5) -0.0001(5)
+O1 O2- 0.0116(17) 0.0137(18) 0.0088(18) -0.0003(13) 0.0027(15) -0.0017(14)
+O2 O2- 0.0132(15) 0.0117(18) 0.0095(16) 0.0039(14) 0.0066(14) 0.0032(13)
+O3 O2- 0.0059(14) 0.0191(18) 0.0046(15) 0.0021(13) 0.0011(12) 0.0010(12)
+O4 O2- 0.0085(14) 0.0119(16) 0.0118(15) 0.0005(12) 0.0059(13) 0.0011(12)
+O5 O2- 0.0089(15) 0.0122(18) 0.0095(17) -0.0004(13) 0.0012(13) 0.0020(13)
+O6 O2- 0.0140(16) 0.0158(19) 0.0149(17) -0.0016(14) 0.0104(14) -0.0029(14)
+Li1 Li1+ 0.012(6) 0.005(6) 0.020(7) 0. 0.009(6) 0.
+#End of TTdata_416877-ICSD

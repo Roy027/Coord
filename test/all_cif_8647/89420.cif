@@ -1,0 +1,83 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_89420-ICSD
+_database_code_ICSD 89420
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Trisodium deuterium bis(sulfate(VI))'
+_chemical_formula_structural 'Na3 D (S O4)2'
+_chemical_formula_sum 'D1 Na3 O8 S2'
+_chemical_name_structure_type Na3H(SO4)2
+_exptl_crystal_density_diffrn 2.42
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Structural phase transitions and crystal structure for Na3 D (S O4)2 crystals
+at room temperature
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Physica Status Solidi B: Basic Solid State Physics' 1999 216 917 923
+PSSBBD
+loop_
+_publ_author_name
+'Fukami, T.'
+'Chen, R.-H.'
+_cell_length_a 8.6513(5)
+_cell_length_b 9.6365(9)
+_cell_length_c 9.1372(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.809(5)
+_cell_angle_gamma 90.
+_cell_volume 721.07
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.028
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+S6+ 6
+Na1+ 1
+O2- -2
+D1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+S1 S6+ 4 e 0.13971(3) 0.30886(3) 0.85765(3) 0.01169(4) 1. 0
+S2 S6+ 4 e 0.63450(3) 0.31872(3) 0.40530(3) 0.01092(4) 1. 0
+Na1 Na1+ 2 a 0 0 0 0.0219(2) 1. 0
+Na2 Na1+ 2 d 0.5 0 0.5 0.0327(2) 1. 0
+Na3 Na1+ 4 e 0.74400(7) 0.99433(6) 0.27674(6) 0.0190(1) 1. 0
+Na4 Na1+ 4 e 0.38733(7) 0.15560(7) 0.12823(7) 0.0229(1) 1. 0
+O1 O2- 4 e 0.1542(1) 0.15769(9) 0.8749(1) 0.0176(2) 1. 0
+O2 O2- 4 e 0.2553(1) 0.3758(1) 0.9915(1) 0.0227(2) 1. 0
+O3 O2- 4 e -.0319(1) 0.3496(1) 0.8540(1) 0.0245(2) 1. 0
+O4 O2- 4 e 0.1601(1) 0.3563(1) 0.7147(1) 0.0245(2) 1. 0
+O5 O2- 4 e 0.6160(1) 0.3645(1) 0.5505(1) 0.0256(2) 1. 0
+O6 O2- 4 e 0.8090(1) 0.3379(1) 0.4156(1) 0.0267(2) 1. 0
+O7 O2- 4 e 0.5931(1) 0.17190(9) 0.3753(1) 0.0179(2) 1. 0
+O8 O2- 4 e 0.5333(1) 0.4041(1) 0.2777(1) 0.0248(2) 1. 0
+D1 D1+ 4 e 0.897(4) 0.265(3) 0.878(3) 0.08(1) 1. 0
+#End of TTdata_89420-ICSD

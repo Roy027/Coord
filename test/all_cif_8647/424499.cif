@@ -1,0 +1,118 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424499-ICSD
+_database_code_ICSD 424499
+_audit_creation_date 2013-02-01
+_chemical_name_systematic
+'Sodium copper(II) tricopper(II) oxide bis(phosphate) chloride'
+_chemical_formula_structural 'Na Cu ((Cu3 O) (P O4)2 Cl)'
+_chemical_formula_sum 'Cl1 Cu4 Na1 O9 P2'
+_exptl_crystal_density_diffrn 4.08
+_publ_section_title
+
+;
+Crystal structure and magnetic properties of Na Cu(II) [(Cu(II)3 O) (P O4)2
+Cl]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2012 192 47 53 JSSCBI
+loop_
+_publ_author_name
+'Jin Tengteng'
+'Liu Wei'
+'Chen Shuang'
+'Prots', Yu. (Prots, Yu.)'
+'Schnelle, W.'
+'Zhao Jingtai'
+'Kniep, R.'
+'Hoffmann, S.'
+_cell_length_a 8.392(2)
+_cell_length_b 6.396(1)
+_cell_length_c 16.670(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 109.47(1)
+_cell_angle_gamma 90.
+_cell_volume 843.6
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cu2+ 2
+P5+ 5
+Cl1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.6574(2) 0.4987(3) 0.1726(1) 0.0216(4) 1. 0
+Cu1 Cu2+ 2 a 0. 0.5 0.5 0.01148(15) 1. 0
+Cu2 Cu2+ 2 c 0. 0. 0.5 0.01349(16) 1. 0
+Cu3 Cu2+ 4 e 0.0996(1) 0.7420(1) 0.1634(1) 0.01308(14) 1. 0
+Cu4 Cu2+ 4 e 0.3255(1) 0.7532(1) 0.0520(1) 0.01367(15) 1. 0
+Cu5 Cu2+ 4 e 0.3065(1) 0.5025(1) 0.3468(1) 0.01392(14) 1. 0
+P1 P5+ 4 e 0.0374(2) 0.2533(1) 0.1918(1) 0.0099(3) 1. 0
+P2 P5+ 4 e 0.3830(2) 0.2358(1) 0.0158(1) 0.0099(2) 1. 0
+Cl1 Cl1- 4 e 0.5851(2) 0.2199(2) 0.2887(1) 0.0246(2) 1. 0
+O1 O2- 4 e 0.0210(4) 0.4440(4) 0.1336(2) 0.0146(7) 1. 0
+O2 O2- 4 e 0.0644(4) 0.0559(4) 0.1469(2) 0.0157(7) 1. 0
+O3 O2- 4 e 0.0959(4) 0.7480(3) 0.0474(2) 0.0116(5) 1. 0
+O4 O2- 4 e 0.1307(4) 0.7250(3) 0.2875(2) 0.0114(7) 1. 0
+O5 O2- 4 e 0.1759(4) 0.2840(4) 0.2783(2) 0.0159(8) 1. 0
+O6 O2- 4 e 0.2625(4) 0.0518(4) 0.0113(2) 0.0132(7) 1. 0
+O7 O2- 4 e 0.2955(4) 0.4435(4) 0.0171(2) 0.0146(7) 1. 0
+O8 O2- 4 e 0.4324(4) 0.2812(4) 0.4325(2) 0.0129(7) 1. 0
+O9 O2- 4 e 0.5475(4) 0.2185(4) 0.0908(2) 0.0153(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0209(11) 0.0097(8) 0.0272(12) 0.0006(7) -0.0011(8) -0.0017(8)
+Cu1 Cu2+ 0.0139(4) 0.0061(3) 0.0147(4) -0.0019(3) 0.0051(3) -0.0024(3)
+Cu2 Cu2+ 0.0211(5) 0.0064(3) 0.0132(4) 0.0042(3) 0.0061(3) 0.0024(3)
+Cu3 Cu2+ 0.0191(3) 0.0090(3) 0.0108(3) -0.0006(2) 0.0046(3) -0.0005(2)
+Cu4 Cu2+ 0.0119(3) 0.0093(3) 0.0193(4) 0.0005(2) 0.0044(3) 0.0015(2)
+Cu5 Cu2+ 0.0149(3) 0.0078(2) 0.0143(3) -0.0005(2) -0.0015(2) 0.0001(2)
+P1 P5+ 0.0118(6) 0.0058(5) 0.0119(6) 0.0005(4) 0.0035(5) -0.0007(4)
+P2 P5+ 0.0130(6) 0.0063(4) 0.0097(6) 0.0007(4) 0.0028(5) -0.0001(4)
+Cl1 Cl1- 0.0163(6) 0.0413(6) 0.0151(7) -0.0064(5) 0.0036(4) 0.0035(5)
+O1 O2- 0.0221(18) 0.0101(13) 0.0116(17) -0.0021(13) 0.0057(14) 0.0002(12)
+O2 O2- 0.0139(17) 0.0110(13) 0.0215(19) -0.0005(12) 0.0051(14) -0.0049(13)
+O3 O2- 0.0154(19) 0.0059(10) 0.0137(19) 0.0012(11) 0.0050(11) 0.0002(12)
+O4 O2- 0.0107(17) 0.0084(12) 0.0146(17) 0.0005(11) 0.0037(14) 0.0042(12)
+O5 O2- 0.0150(18) 0.0105(12) 0.0154(18) -0.0004(13) -0.0039(15) 0.0004(13)
+O6 O2- 0.0120(16) 0.0112(13) 0.0167(18) 0.0006(12) 0.0053(14) 0.0017(13)
+O7 O2- 0.0202(18) 0.0059(12) 0.0171(18) 0.0030(12) 0.0054(14) 0.0003(13)
+O8 O2- 0.0150(17) 0.0132(13) 0.0084(17) 0.0019(12) 0.0010(14) -0.0012(12)
+O9 O2- 0.0167(18) 0.0092(12) 0.0158(19) 0.0011(12) -0.0001(15) 0.0033(13)
+#End of TTdata_424499-ICSD

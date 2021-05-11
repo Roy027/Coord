@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_188926-ICSD
+_database_code_ICSD 188926
+_audit_creation_date 2014-02-01
+_chemical_name_systematic
+'Sodium yttrium titanium tetraoxosilicate oxide (0.5/0.5/1/1/1)'
+_chemical_formula_structural '(Na0.5 Y0.5) Ti (Si O4 ) O'
+_chemical_formula_sum 'Na0.5 O5 Si1 Ti1 Y0.5'
+_chemical_name_structure_type Tilasite
+_chemical_name_mineral Natrotitanite
+_exptl_crystal_density_diffrn 3.81
+_publ_section_title
+
+;
+Natrotitanite, ideally (Na0.5 Y0.5)Ti (Si O4) O, a new mineral from the
+Verkhnee Espe deposit, Akjailyautas mountains, Eastern Kazakhstan district,
+Kazakhstan: description and crystal structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Mineralogical Magazine' 2012 76 37 44 MNLMBB
+loop_
+_publ_author_name
+'Stepanov, A.V.'
+'Bekenova, G.K.'
+'Levin, V.L.'
+'Hawthorne, F.C.'
+_cell_length_a 6.5691(2)
+_cell_length_b 8.6869(3)
+_cell_length_c 7.0924(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.1269(4)
+_cell_angle_gamma 90.
+_cell_volume 369.37
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0184
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Y3+ 3
+Ti4+ 4
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0 0.16960(5) 0.75 0.01673(16) 0.5 0
+Y1 Y3+ 4 e 0 0.16960(5) 0.75 0.01673(16) 0.5 0
+Ti1 Ti4+ 4 b 0 0.5 0 0.01164(17) 1. 0
+Si1 Si4+ 4 e 0 0.18221(7) 0.25 0.00775(17) 1. 0
+O1 O2- 4 e 0 0.57186(18) 0.25 0.0102(3) 1. 0
+O2 O2- 8 f 0.18651(18) 0.06603(13) 0.40948(17) 0.0121(3) 1. 0
+O3 O2- 8 f 0.10171(19) 0.28936(13) 0.11898(18) 0.0124(3) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0085(2) 0.0078(2) 0.0267(3) 0. -0.00015(16) 0.
+Y1 Y3+ 0.0085(2) 0.0078(2) 0.0267(3) 0. -0.00015(16) 0.
+Ti1 Ti4+ 0.0081(2) 0.0100(2) 0.0154(2) -0.00018(12) 0.00331(16) 0.00346(13)
+Si1 Si4+ 0.0065(3) 0.0075(3) 0.0092(3) 0. 0.0032(2) 0.
+O1 O2- 0.0135(7) 0.0094(7) 0.0083(6) 0. 0.0049(5) 0.
+O2 O2- 0.0082(5) 0.0135(5) 0.0131(5) 0.0017(4) 0.0026(4) 0.0028(4)
+O3 O2- 0.0128(5) 0.0100(5) 0.0173(6) 0.0015(4) 0.0091(4) 0.0037(4)
+#End of TTdata_188926-ICSD

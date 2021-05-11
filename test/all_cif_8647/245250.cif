@@ -1,0 +1,100 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245250-ICSD
+_database_code_ICSD 245250
+_audit_creation_date 2007-08-01
+_audit_update_record 2019-02-01
+_chemical_name_systematic 'Sodium chromium titanium oxide (2/2/6/16)'
+_chemical_formula_structural 'Na2 ((Cr1.12 Ti2.88) (Cr0.88 Ti3.12) O16)'
+_chemical_formula_sum 'Cr2 Na2 O16 Ti6'
+_exptl_crystal_density_diffrn 3.84
+_publ_section_title
+
+;
+Phase relations in Na(x) Cr(x) Ti(8-x) O16 at 1350 C and crystal structure of
+hollandite-like Na2 Cr2 Ti6 O16
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2006 179 2578 2583 JSSCBI
+loop_
+_publ_author_name
+'Michiue, Y.'
+_cell_length_a 10.2385(11)
+_cell_length_b 2.9559(9)
+_cell_length_c 9.9097(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90.545(9)
+_cell_angle_gamma 90
+_cell_volume 299.89
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'I 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0526
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z'
+2 '-x, -y, -z'
+3 '-x, y, -z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z+1/2'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Cr3+ 3
+Ti4+ 4
+Cr3+ 3
+Ti4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 i 0.0866(9) 0.5 -0.0100(9) 0.026(3) 0.304(15) 0
+Na2 Na1+ 8 j 0.028(10) 0.28(4) 0.003(10) 0.10(3) 0.058(14) 0
+Na3 Na1+ 2 a 0 0 0 0.06(2) 0.16(6) 0
+Cr1 Cr3+ 4 i 0.35357(7) 0 0.82884(7) 0.00782(16) 0.279(18) 0
+Ti1 Ti4+ 4 i 0.35357(7) 0 0.82884(7) 0.00782(16) 0.721(18) 0
+Cr2 Cr3+ 4 i 0.83459(7) 0 0.65171(7) 0.00819(16) 0.221(18) 0
+Ti2 Ti4+ 4 i 0.83459(7) 0 0.65171(7) 0.00819(16) 0.779(18) 0
+O1 O2- 4 i 0.1576(3) 0 0.8021(3) 0.0064(6) 1. 0
+O2 O2- 4 i 0.7930(3) 0 0.8495(3) 0.0059(5) 1. 0
+O3 O2- 4 i 0.5419(3) 0 0.8267(3) 0.0077(6) 1. 0
+O4 O2- 4 i 0.8437(3) 0 0.4577(3) 0.0077(6) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.022(4) 0.026(5) 0.030(4) 0 -0.003(3) 0
+Cr1 Cr3+ 0.0088(3) 0.0052(3) 0.0094(3) 0 -0.0019(2) 0
+Ti1 Ti4+ 0.0088(3) 0.0052(3) 0.0094(3) 0 -0.0019(2) 0
+Cr2 Cr3+ 0.0111(3) 0.0050(3) 0.0085(3) 0 0.0026(2) 0
+Ti2 Ti4+ 0.0111(3) 0.0050(3) 0.0085(3) 0 0.0026(2) 0
+O1 O2- 0.0080(10) 0.0060(10) 0.0053(9) 0 0.0004(8) 0
+O2 O2- 0.0050(9) 0.0055(10) 0.0071(9) 0 0.0001(8) 0
+O3 O2- 0.0057(9) 0.0058(10) 0.0114(11) 0 -0.0005(8) 0
+O4 O2- 0.0118(11) 0.0072(11) 0.0041(9) 0 0.0017(8) 0
+#End of TTdata_245250-ICSD

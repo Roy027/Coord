@@ -1,0 +1,119 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_426424-ICSD
+_database_code_ICSD 426424
+_audit_creation_date 2014-02-01
+_chemical_name_systematic 'Sodium boron bis(disulfate)'
+_chemical_formula_structural 'Na (B (S2 O7)2)'
+_chemical_formula_sum 'B1 Na1 O14 S4'
+_exptl_crystal_density_diffrn 2.3
+_cell_measurement_temperature 150.
+_publ_section_title
+'The borosulfate story goes on - from alkali and oxonium salts to polyacids'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2013 19 16954 16962 CEUJED
+loop_
+_publ_author_name
+'Daub, Michael'
+'Kazmierczak, Karolina'
+'Hoeppe, Henning A.'
+'Hillebrecht, Harald'
+_cell_length_a 10.9489(2)
+_cell_length_b 8.5491(2)
+_cell_length_c 12.7013(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 110.2270(10)
+_cell_angle_gamma 90.
+_cell_volume 1115.56
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0373
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+S6+ 6
+O2- -2
+B3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 4 e 0.70094(7) 0.26750(7) 0.07552(6) 0.01702(15) 1 0
+S1 S6+ 4 e 0.58149(4) 0.61265(4) 0.17503(3) 0.01185(8) 1 0
+O1 O2- 4 e 0.45539(12) 0.64438(14) 0.09973(10) 0.0184(3) 1 0
+O2 O2- 4 e 0.66685(13) 0.51650(14) 0.14248(12) 0.0213(3) 1 0
+S2 S6+ 4 e 0.62042(4) 0.59622(4) 0.40746(3) 0.01344(8) 1 0
+O3 O2- 4 e 0.54079(13) 0.72316(14) 0.41531(11) 0.0206(3) 1 0
+O4 O2- 4 e 0.63634(13) 0.46515(14) 0.47798(11) 0.0209(3) 1 0
+S3 S6+ 4 e 0.80594(4) 1.08175(4) 0.35340(3) 0.01323(8) 1 0
+O5 O2- 4 e 0.72605(12) 1.13215(15) 0.24558(11) 0.0205(3) 1 0
+O6 O2- 4 e 0.83736(13) 1.18346(14) 0.44617(11) 0.0216(3) 1 0
+S4 S6+ 4 e 0.95166(4) 0.87910(5) 0.26847(4) 0.01568(9) 1 0
+O7 O2- 4 e 0.87863(14) 0.91675(18) 0.15649(11) 0.0278(3) 1 0
+O8 O2- 4 e 1.08534(12) 0.84363(16) 0.30112(12) 0.0221(3) 1 0
+O9 O2- 4 e 0.64697(11) 0.76612(12) 0.22622(10) 0.0138(2) 1 0
+O10 O2- 4 e 0.75387(11) 0.65255(13) 0.40930(10) 0.0163(2) 1 0
+O11 O2- 4 e 0.75647(12) 0.92755(12) 0.38416(10) 0.0149(2) 1 0
+O12 O2- 4 e 0.88496(12) 0.75239(13) 0.31464(11) 0.0173(2) 1 0
+O13 O2- 4 e 0.56179(12) 0.52612(13) 0.28142(10) 0.0175(3) 1 0
+O14 O2- 4 e 0.94550(11) 1.02732(13) 0.34772(10) 0.0153(2) 1 0
+B1 B3+ 4 e 0.76121(18) 0.77570(19) 0.33210(16) 0.0140(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0190(3) 0.0141(3) 0.0153(3) -0.0009(2) 0.0025(3) -0.0012(2)
+S1 S6+ 0.01093(16) 0.01142(14) 0.01242(17) 0.00011(11) 0.00303(13) -0.00052(11)
+O1 O2- 0.0122(5) 0.0206(5) 0.0187(6) -0.0010(4) 0.0007(5) 0.0038(4)
+O2 O2- 0.0202(6) 0.0185(5) 0.0276(7) 0.0013(4) 0.0115(5) -0.0068(5)
+S2 S6+ 0.01569(17) 0.01076(14) 0.01279(17) -0.00191(12) 0.00354(14) 0.00177(12)
+O3 O2- 0.0245(6) 0.0161(5) 0.0254(7) 0.0008(4) 0.0141(5) 0.0002(5)
+O4 O2- 0.0255(7) 0.0165(5) 0.0170(6) -0.0048(4) 0.0027(5) 0.0070(4)
+S3 S6+ 0.01203(16) 0.01096(14) 0.01567(18) -0.00132(12) 0.00346(14) -0.00003(12)
+O5 O2- 0.0148(6) 0.0245(6) 0.0205(6) 0.0024(4) 0.0038(5) 0.0087(5)
+O6 O2- 0.0208(6) 0.0167(5) 0.0251(7) -0.0025(4) 0.0054(5) -0.0090(5)
+S4 S6+ 0.01052(17) 0.02018(17) 0.01600(19) -0.00028(13) 0.00415(14) -0.00098(14)
+O7 O2- 0.0242(7) 0.0422(8) 0.0147(6) 0.0022(6) 0.0036(5) 0.0010(5)
+O8 O2- 0.0109(5) 0.0274(6) 0.0280(7) 0.0008(4) 0.0066(5) -0.0027(5)
+O9 O2- 0.0144(5) 0.0105(4) 0.0149(5) -0.0020(4) 0.0032(4) 0.0005(4)
+O10 O2- 0.0122(5) 0.0148(5) 0.0181(6) -0.0020(4) 0.0005(4) 0.0042(4)
+O11 O2- 0.0176(5) 0.0110(4) 0.0183(6) -0.0022(4) 0.0090(5) -0.0011(4)
+O12 O2- 0.0134(5) 0.0136(5) 0.0259(6) -0.0013(4) 0.0081(5) -0.0026(4)
+O13 O2- 0.0219(6) 0.0147(5) 0.0142(6) -0.0072(4) 0.0039(5) 0.0000(4)
+O14 O2- 0.0107(5) 0.0146(5) 0.0192(6) -0.0015(4) 0.0035(4) -0.0009(4)
+B1 B3+ 0.0129(8) 0.0119(6) 0.0168(8) -0.0003(5) 0.0047(7) -0.0003(6)
+#End of TTdata_426424-ICSD

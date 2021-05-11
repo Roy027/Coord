@@ -1,0 +1,106 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171758-ICSD
+_database_code_ICSD 171758
+_audit_creation_date 2006-10-01
+_audit_update_record 2014-08-01
+_chemical_name_systematic 'Disodium trimolybdenum tritellurium hexadecaoxide'
+_chemical_formula_structural 'Na2 Mo3 Te3 O16'
+_chemical_formula_sum 'Mo3 Na2 O16 Te3'
+_chemical_name_structure_type Na2Mo3Te3O16
+_exptl_crystal_density_diffrn 4.78
+_publ_section_title
+
+;
+Na2 Te3 Mo3 O16: A new molybdenum tellurite with second-harmonic generating
+and pyroelectric properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2006 18 2070 2074 CMATEX
+loop_
+_publ_author_name
+'Chi, E.O.'
+'Ok, K.M.'
+'Porter, Y.'
+'Halasyamani, P.S.'
+_cell_length_a 7.3373(10)
+_cell_length_b 11.2668(16)
+_cell_length_c 8.2369(18)
+_cell_angle_alpha 90
+_cell_angle_beta 97.387(3)
+_cell_angle_gamma 90
+_cell_volume 675.28
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'I 1 2 1'
+_symmetry_Int_Tables_number 5
+_refine_ls_R_factor_all 0.0337
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 'x, y, z'
+3 '-x+1/2, y+1/2, -z+1/2'
+4 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Te4+ 4
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 b 0.5 1.0659(12) 0 0.056(4) 1 0
+Na2 Na1+ 2 a 0.5 0.9771(7) -0.5 0.0186(15) 1 0
+Te1 Te4+ 2 a 0 0.98861(7) 0 0.0102(2) 1 0
+Te2 Te4+ 4 c 0.27903(9) 0.82680(7) -0.21870(7) 0.0104(2) 1 0
+Mo1 Mo6+ 2 b 0 1.07971(11) -0.5 0.0095(3) 1 0
+Mo2 Mo6+ 4 c 0.25515(16) 0.74092(7) 0.22691(11) 0.0104(2) 1 0
+O1 O2- 4 c 0.0950(9) 0.8773(7) 0.1636(8) 0.0152(14) 1 0
+O2 O2- 4 c 0.2392(10) 0.9670(6) -0.0991(9) 0.0139(14) 1 0
+O3 O2- 4 c 0.3096(9) 0.7327(6) -0.0281(8) 0.0136(13) 1 0
+O4 O2- 4 c 0.5206(9) 0.8707(6) -0.2330(9) 0.0150(14) 1 0
+O5 O2- 4 c -0.0417(9) 1.1283(6) -0.2816(8) 0.0137(14) 1 0
+O6 O2- 4 c 1.1852(10) 0.9862(6) -0.4503(8) 0.0154(14) 1 0
+O7 O2- 4 c 0.2742(11) 0.7487(8) 0.4358(9) 0.0241(18) 1 0
+O8 O2- 4 c 0.0834(11) 0.6374(7) 0.1910(11) 0.0243(17) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.014(5) 0.041(6) 0.109(11) 0 -0.007(5) 0
+Na2 Na1+ 0.015(3) 0.024(4) 0.017(3) 0 0.001(3) 0
+Te1 Te4+ 0.0119(4) 0.0065(5) 0.0126(5) 0 0.0030(4) 0
+Te2 Te4+ 0.0122(3) 0.0099(3) 0.0093(3) 0.0005(3) 0.0019(2) 0.0013(3)
+Mo1 Mo6+ 0.0121(9) 0.0082(6) 0.0083(7) 0 0.0020(5) 0
+Mo2 Mo6+ 0.0117(4) 0.0099(4) 0.0103(5) 0.0018(3) 0.0034(3) 0.0005(4)
+O1 O2- 0.011(3) 0.019(4) 0.015(3) 0.002(3) 0.001(2) 0.002(3)
+O2 O2- 0.014(3) 0.008(3) 0.018(3) -0.002(3) -0.003(3) -0.004(3)
+O3 O2- 0.018(3) 0.012(3) 0.011(3) 0.006(3) 0.002(3) 0.004(3)
+O4 O2- 0.009(3) 0.015(3) 0.022(4) 0.000(3) 0.005(3) 0.007(3)
+O5 O2- 0.018(3) 0.011(3) 0.012(3) 0.004(3) 0.002(3) 0.004(3)
+O6 O2- 0.022(4) 0.008(3) 0.018(3) 0.005(3) 0.010(3) -0.002(3)
+O7 O2- 0.028(4) 0.034(5) 0.011(3) 0.012(4) 0.006(3) 0.000(3)
+O8 O2- 0.024(4) 0.013(4) 0.036(4) -0.005(3) 0.005(3) 0.001(3)
+#End of TTdata_171758-ICSD

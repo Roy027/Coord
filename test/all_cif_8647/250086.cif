@@ -1,0 +1,76 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250086-ICSD
+_database_code_ICSD 250086
+_audit_creation_date 2004-04-01
+_chemical_name_systematic 'Sodium barium borate'
+_chemical_formula_structural 'Na Ba (B O3)'
+_chemical_formula_sum 'B1 Ba1 Na1 O3'
+_exptl_crystal_density_diffrn 4.49
+_publ_section_title
+'Growth and structure of barium sodium orthoborate Na Ba B O3 crystals'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 2003 48 1114 1116 KRISAJ
+loop_
+_publ_author_name
+'Kononova, N.G.'
+'Kokh, A.E.'
+'Bekker, T.B.'
+'Furmanova, N.G.'
+'Maksimov, B.A.'
+'Molchanov, V.N.'
+'Fedorov, P.P.'
+_cell_length_a 9.561(1)
+_cell_length_b 5.561(1)
+_cell_length_c 6.173(1)
+_cell_angle_alpha 90
+_cell_angle_beta 98.95(2)
+_cell_angle_gamma 90
+_cell_volume 324.21
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/m 1'
+_symmetry_Int_Tables_number 12
+_refine_ls_R_factor_all 0.0272
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+Na1+ 1
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ba1 Ba2+ 4 i 0.16655(4) 0 0.24335(7) 0.0129(1) 1. 0
+Na1 Na1+ 2 b 0 0.5 0 0.020(1) 1. 0
+Na2 Na1+ 2 d 0 0.5 0.5 0.019(1) 1. 0
+B1 B3+ 4 i 0.8321(9) 0 0.2426(12) 0.014(2) 1. 0
+O1 O2- 4 i 0.7022(6) 0 0.3205(10) 0.017(1) 1. 0
+O2 O2- 8 j 0.8978(4) 0.7876(8) 0.2096(7) 0.019(1) 1. 0
+#End of TTdata_250086-ICSD

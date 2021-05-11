@@ -1,0 +1,90 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_82498-ICSD
+_database_code_ICSD 82498
+_audit_creation_date 1997-11-10
+_audit_update_record 1999-11-30
+_chemical_name_systematic 'Trisodium yttrium carbonate trihydrate'
+_chemical_formula_structural 'Na3 Y (C O3)3 (H2 O)3'
+_chemical_formula_sum 'C3 H6 Na3 O12 Y1'
+_chemical_name_mineral Shomiokite-(Y)
+_exptl_crystal_density_diffrn 2.51
+_publ_section_title
+'Crystal structure of shomiokite-(Y), Na3 Y (C O3)3 . 3(H2 O)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Mineralogy' 1996 8 1249 1255 EJMIER
+loop_
+_publ_author_name
+'Rastsvetaeva, R.K.'
+'Pushcharovskii, D.Yu.'
+'Pekov, I.V.'
+_cell_length_a 17.3580(80)
+_cell_length_b 10.034(4)
+_cell_length_c 5.946(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1035.62
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P n a 21'
+_symmetry_Int_Tables_number 33
+_refine_ls_R_factor_all 0.059
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Y3+ 3
+Na1+ 1
+C4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Y1 Y3+ 4 a 0.1618(1) 0.1781(1) 0.6993(1) 0.0131(1) 1. 0
+Na1 Na1+ 4 a 0.4527(2) 0.3740(4) 0.9146(8) 0.0254(1) 1. 0
+Na2 Na1+ 4 a 0.3623(3) 0.1393(4) 0.4070(8) 0.0292(1) 1. 0
+Na3 Na1+ 4 a 0.0812(2) 0.4840(4) 0.4135(8) 0.0254(1) 1. 0
+C1 C4+ 4 a 0.3999(4) 0.4477(8) 0.411(1) 0.0178(1) 1. 0
+C2 C4+ 4 a 0.3058(5) 0.1922(8) 0.912(2) 0.0203(1) 1. 0
+C3 C4+ 4 a 0.0786(5) 0.3811(9) 0.919(1) 0.0178(1) 1. 0
+O1 O2- 4 a 0.2465(4) 0.2686(6) 0.968(1) 0.0228(1) 1. 0
+O2 O2- 4 a 0.0459(4) 0.4706(6) 0.034(1) 0.0216(1) 1. 0
+O3 O2- 4 a 0.0690(1) 0.2521(6) 0.957(1) 0.0216(1) 1. 0
+O4 O2- 4 a 0.1254(4) 0.4076(6) 0.758(1) 0.0241(1) 1. 0
+O5 O2- 4 a 0.1672(4) 0.0042(6) 0.963(1) 0.0216(1) 1. 0
+O6 O2- 4 a 0.2969(3) 0.1160(8) 0.744(1) 0.0279(1) 1. 0
+O7 O2- 4 a 0.3686(4) 0.1992(8) 0.025(1) 0.0266(1) 1. 0
+O8 O2- 4 a 0.4224(4) 0.3456(7) 0.522(1) 0.0228(1) 1. 0
+O9 O2- 4 a 0.4376(4) 0.4988(6) 0.249(1) 0.0228(1) 1. 0
+O10 O2- 4 a 0.0653(4) 0.2200(8) 0.411(1) 0.0266(1) 1. 0
+O11 O2- 4 a 0.2253(6) 0.3080(8) 0.409(2) 0.0368(2) 1. 0
+O12 O2- 4 a 0.1927(5) 0.0169(8) 0.406(1) 0.0355(1) 1. 0
+H1 H1+ 4 a 0.02(1) 0.17(2) 0.46(5) 0.0380(1) 1. 0
+H2 H1+ 4 a 0.06(1) 0.22(2) 0.26(5) 0.0380(1) 1. 0
+H3 H1+ 4 a 0.22(1) 0.31(2) 0.25(7) 0.0380(1) 1. 0
+H4 H1+ 4 a 0.29(1) 0.35(2) 0.37(7) 0.0380(1) 1. 0
+H5 H1+ 4 a 0.18(1) 0.04(2) 0.21(4) 0.0380(1) 1. 0
+H6 H1+ 4 a 0.24(1) -.02(2) 0.42(5) 0.0380(1) 1. 0
+#End of TTdata_82498-ICSD

@@ -1,0 +1,77 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253623-ICSD
+_database_code_ICSD 253623
+_audit_creation_date 2017-08-01
+_chemical_name_systematic 'Sodium yttrium magnesium tungstate'
+_chemical_formula_structural 'Na Y Mg W O6'
+_chemical_formula_sum 'Mg1 Na1 O6 W1 Y1'
+_chemical_name_structure_type Ca3UO6
+_exptl_crystal_density_diffrn 6.04
+_cell_measurement_temperature 295.
+_publ_section_title
+
+;
+Evaluating NaREMgWO6 (RE = La, Gd, Y) doubly ordered double perovskites as
+Eu3+ phosphor hosts
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 12383 12390 INOCAJ
+loop_
+_publ_author_name
+'Sharits, Andrew R.'
+'Khoury, Jason F.'
+'Woodward, Patrick M.'
+_cell_length_a 5.345473(20)
+_cell_length_b 5.492995(22)
+_cell_length_c 7.793517(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.35190(20)
+_cell_angle_gamma 90.
+_cell_volume 228.83
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21 1'
+_symmetry_Int_Tables_number 4
+_refine_ls_R_factor_all 0.0775
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y+1/2, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Y3+ 3
+Mg2+ 2
+W6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 2 a 0.2478(5) 0.25 0.00146(34) 0.00582(14) 1. 0
+Y1 Y3+ 2 a 0.26319(16) 0.3351(4) 0.50056(11) 0.00582(14) 1. 0
+Mg1 Mg2+ 2 a 0.7475(5) 0.2766(8) 0.24738(25) 0.00363(7) 1. 0
+W1 W6+ 2 a 0.76103(7) 0.2741(5) 0.76300(4) 0.00363(7) 1. 0
+O1 O2- 2 a 0.5543(5) 0.5478(7) 0.68759(32) 0.00667(15) 1. 0
+O2 O2- 2 a 0.5336(5) 0.5768(6) 0.31183(32) 0.00667(15) 1. 0
+O3 O2- 2 a -0.0492(5) -0.0420(6) 0.22245(31) 0.00667(15) 1. 0
+O4 O2- 2 a -1.0724(4) -0.0261(7) 0.78289(32) 0.00667(15) 1. 0
+O5 O2- 2 a 0.8524(4) 0.2397(6) 0.50505(32) 0.00667(15) 1. 0
+O6 O2- 2 a 0.6765(4) 0.2968(5) -0.01158(28) 0.00667(15) 1. 0
+#End of TTdata_253623-ICSD

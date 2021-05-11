@@ -1,0 +1,80 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_54839-ICSD
+_database_code_ICSD 54839
+_audit_creation_date 2005-10-01
+_audit_update_record 2007-04-01
+_chemical_name_systematic 'Lithium phosphato(V)dioxouranate tetrahydrate'
+_chemical_formula_structural 'Li ((U O2) (P O4)) (H2 O)4'
+_chemical_formula_sum 'H8 Li1 O10 P1 U1'
+_chemical_name_structure_type LiUO2AsO4(H2O)4
+_chemical_name_mineral Unnamed_Meta-autunite
+_exptl_crystal_density_diffrn 3.34
+_publ_section_title
+'Monovalent cations in structures of the meta-autunite group'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Canadian Mineralogist' 2004 42 973 996 CAMIA6
+loop_
+_publ_author_name
+'Locock, A.J.'
+'Burns, P.C.'
+'Duke, M.J.M.'
+'Flynn, T.M.'
+_cell_length_a 6.9555(2)
+_cell_length_b 6.9555(2)
+_cell_length_c 9.1389(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 442.13
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 4/n Z'
+_symmetry_Int_Tables_number 85
+_refine_ls_R_factor_all 0.012
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-y, x+1/2, -z'
+2 'y+1/2, -x, -z'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y, -x+1/2, z'
+6 '-y+1/2, x, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+P5+ 5
+Li1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 2 c 0.25 0.25 0.0958(1) 0.013(1) 1. 0
+P1 P5+ 2 a 0.25 0.75 0 0.014(1) 1. 0
+Li1 Li1+ 2 b 0.25 0.75 0.5 0.030(2) 1. 0
+O1 O2- 2 c 0.25 0.25 0.2889(3) 0.024(1) 1. 0
+O2 O2- 2 c 0.25 0.25 -0.0989(3) 0.024(1) 1. 0
+O3 O2- 8 g 0.5780(2) 0.2931(2) 0.0997(2) 0.021(1) 1. 0
+O4 O2- 8 g 0.1894(3) -0.0373(3) 0.6309(2) 0.032(1) 1. 0
+H1 H1+ 8 g 0.157(5) -0.083(4) 0.731(2) 0.05 1. 0
+H2 H1+ 8 g 0.108(5) 0.076(4) 0.613(3) 0.05 1. 0
+#End of TTdata_54839-ICSD

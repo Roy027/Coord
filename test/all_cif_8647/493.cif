@@ -1,0 +1,90 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_493-ICSD
+_database_code_ICSD 493
+_audit_creation_date 1980-01-01
+_audit_update_record 2007-08-01
+_chemical_name_systematic 'Lithium tritantalate'
+_chemical_formula_structural 'Li (Ta3 O8)'
+_chemical_formula_sum 'Li1 O8 Ta3'
+_chemical_name_structure_type Wodginite
+_chemical_name_mineral Lithiowodginite
+_exptl_crystal_density_diffrn 8.22
+_publ_section_title
+
+;
+The crystal structure of m-Li Ta3 O8 and its relationship to the mineral
+wodginite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1976 18 1 7 JSSCBI
+loop_
+_publ_author_name
+'Gatehouse, B.M.'
+'Negas, T.'
+'Roth, R.S.'
+_cell_length_a 9.413(5)
+_cell_length_b 11.522(6)
+_cell_length_c 5.050(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 91.05(10)
+_cell_angle_gamma 90.
+_cell_volume 547.61
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.043
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 8 f 0.2415(1) 0.0864(1) 0.2466(2) . 1. 0
+Ta2 Ta5+ 4 e 0 0.3299(1) 0.25 . 1. 0
+O1 O2- 8 f 0.3541(20) 0.4516(17) 0.4413(37) 0.62(28) 1. 0
+O2 O2- 8 f 0.3846(22) 0.1788(17) 0.4270(39) 0.61(27) 1. 0
+O3 O2- 8 f 0.1332(20) 0.4375(18) 0.0792(36) 0.48(26) 1. 0
+O4 O2- 8 f 0.1185(22) 0.1967(18) 0.1069(38) 0.64(28) 1. 0
+Li1 Li1+ 4 e 0 0.8034 0.25 . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.0023(4) 0.0038(5) 0.0036(4) 0.0008(3) -.0007(3) -.0002(5)
+Ta2 Ta5+ 0.0018(6) 0.0029(6) 0.0045(6) 0 0.0001(4) 0
+#End of TTdata_493-ICSD

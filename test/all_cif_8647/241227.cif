@@ -1,0 +1,99 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_241227-ICSD
+_database_code_ICSD 241227
+_audit_creation_date 2008-08-01
+_chemical_name_systematic 'poly(tetra mu-aqua di mu-sulfato zinc disodium)'
+_chemical_formula_structural 'Na2 Zn (S O4)2 (H2 O)4'
+_chemical_formula_sum 'H8 Na2 O12 S2 Zn1'
+_chemical_name_structure_type Na2Ni(SO4)2(H2O)4
+_chemical_name_mineral 'Astrakhanite, zincian'
+_exptl_crystal_density_diffrn 2.53
+_cell_measurement_temperature 170.
+_publ_section_title
+'Disodium zinc bis(sulfate) tetrahydrate (zinc astrakanite) revisited'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2008 64
+i30 i31 ACSEBH
+loop_
+_publ_author_name
+'Diaz de Vivar, M.E.'
+'Baggio, S.'
+'Ibanez, A.'
+'Baggio, R.'
+_cell_length_a 5.5075(2)
+_cell_length_b 8.2127(3)
+_cell_length_c 11.0559(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 99.9580(10)
+_cell_angle_gamma 90.
+_cell_volume 492.54
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0174
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Na1+ 1
+S6+ 6
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Zn1 Zn2+ 2 a 0. 0. 0. 0.00887(13) 1 0
+Na1 Na1+ 4 e 0.12607(11) 0.07173(8) 0.36217(5) 0.01231(17) 1 0
+S1 S6+ 4 e 0.37405(6) 0.28842(4) 0.13609(3) 0.00821(14) 1 0
+O1 O2- 4 e 0.3516(2) 0.27120(14) 0.26765(10) 0.0127(2) 1 0
+O2 O2- 4 e 0.2085(2) 0.41630(14) 0.07871(10) 0.0136(3) 1 0
+O3 O2- 4 e 0.3186(2) 0.13129(14) 0.07174(10) 0.0134(2) 1 0
+O4 O2- 4 e 0.63500(19) 0.32955(13) 0.13056(10) 0.0127(2) 1 0
+O5 O2- 4 e -0.1247(2) 0.03807(16) 0.16331(10) 0.0110(2) 1 0
+O6 O2- 4 e 0.1753(2) -0.21442(13) 0.08065(10) 0.0115(2) 1 0
+H1 H1+ 4 e -0.215(5) -0.032(3) 0.179(2) 0.028(7) 1 0
+H2 H1+ 4 e -0.207(4) 0.123(2) 0.156(2) 0.023(6) 1 0
+H3 H1+ 4 e 0.299(4) -0.203(3) 0.1341(18) 0.021(6) 1 0
+H4 H1+ 4 e 0.213(5) -0.278(3) 0.032(2) 0.034(7) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.01021(18) 0.00753(17) 0.00909(17) -0.00024(7) 0.00231(11) -0.00054(7)
+Na1 Na1+ 0.0133(3) 0.0116(3) 0.0118(3) -0.0002(2) 0.0015(2) 0.0005(2)
+S1 S6+ 0.0083(2) 0.0075(2) 0.0089(2) 0.00016(12) 0.00150(13) -0.00049(12)
+O1 O2- 0.0156(6) 0.0130(5) 0.0101(5) 0.0014(4) 0.0034(4) 0.0013(4)
+O2 O2- 0.0149(5) 0.0139(6) 0.0119(5) 0.0051(4) 0.0017(4) 0.0017(4)
+O3 O2- 0.0111(5) 0.0109(5) 0.0179(5) -0.0016(4) 0.0022(4) -0.0054(4)
+O4 O2- 0.0103(5) 0.0110(5) 0.0176(5) -0.0021(4) 0.0042(4) -0.0016(4)
+O5 O2- 0.0114(5) 0.0098(5) 0.0122(5) 0.0000(4) 0.0035(4) 0.0002(4)
+O6 O2- 0.0120(5) 0.0100(5) 0.0118(5) 0.0007(4) -0.0002(4) -0.0017(4)
+#End of TTdata_241227-ICSD

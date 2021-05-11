@@ -1,0 +1,117 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_98653-ICSD
+_database_code_ICSD 98653
+_audit_creation_date 2005-04-01
+_chemical_name_systematic 'Tetrasodium tris(chromo(VI))dioxouranate'
+_chemical_formula_structural 'Na4 ((U O2) (Cr O4)3)'
+_chemical_formula_sum 'Cr3 Na4 O14 U1'
+_exptl_crystal_density_diffrn 3.69
+_publ_section_title
+
+;
+The first sodium uranyl chromate, Na4 ((U O2) (Cr O4)3): synthesis and crystal
+structure determination
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2003
+629 1965 1968 ZAACAB
+loop_
+_publ_author_name
+'Krivovichev, S.V.'
+'Burns, P.C.'
+_cell_length_a 7.1548(3)
+_cell_length_b 8.4420(3)
+_cell_length_c 11.5102(5)
+_cell_angle_alpha 80.203(1)
+_cell_angle_beta 79.310(1)
+_cell_angle_gamma 70.415(1)
+_cell_volume 639.24
+_cell_formula_units_Z 2
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.024
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U6+ 6
+Cr6+ 6
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+U1 U6+ 2 i 0.68151(2) 0.62009(2) 0.232395(11) 0.01301(4) 1. 0
+Cr1 Cr6+ 2 i 0.01410(9) 0.26455(8) 0.04585(5) 0.0153(1) 1. 0
+Cr2 Cr6+ 2 i 0.48269(9) 0.07900(8) 0.25825(5) 0.0156(1) 1. 0
+Cr3 Cr6+ 2 i 0.25514(9) 0.66315(8) 0.47483(5) 0.0149(1) 1. 0
+Na1 Na1+ 2 i 0.2204(3) 0.4615(2) 0.21107(15) 0.0277(4) 1. 0
+Na2 Na1+ 2 i 0.9542(3) 0.0941(2) 0.32402(13) 0.0248(4) 1. 0
+Na3 Na1+ 2 i 0.2725(3) 0.2190(2) 0.51234(14) 0.0288(4) 1. 0
+Na4 Na1+ 2 i 0.3415(3) 0.8638(3) 0.03714(15) 0.0347(4) 1. 0
+O1 O2- 2 i 0.8699(4) 0.6709(3) 0.2861(2) 0.0190(6) 1. 0
+O2 O2- 2 i 0.4879(4) 0.5760(4) 0.1789(2) 0.0205(6) 1. 0
+O3 O2- 2 i 0.4709(4) 0.6976(4) 0.4085(2) 0.0200(6) 1. 0
+O4 O2- 2 i 0.7426(4) 0.3759(4) 0.3783(2) 0.0214(6) 1. 0
+O5 O2- 2 i 0.5006(4) 0.9066(3) 0.1955(2) 0.0227(6) 1. 0
+O6 O2- 2 i 0.9427(4) 0.4000(4) 0.1505(2) 0.0210(6) 1. 0
+O7 O2- 2 i 0.2288(5) 0.5061(4) 0.4240(2) 0.0250(6) 1. 0
+O8 O2- 2 i 0.8510(5) 0.3166(4) -0.0448(2) 0.0272(7) 1. 0
+O9 O2- 2 i 0.0378(5) 0.0744(4) 0.1123(2) 0.0277(7) 1. 0
+O10 O2- 2 i 0.7656(4) 0.7296(4) 0.0306(2) 0.0261(7) 1. 0
+O11 O2- 2 i 0.2535(4) 0.1667(4) 0.3211(2) 0.0253(6) 1. 0
+O12 O2- 2 i 0.0660(4) 0.8320(4) 0.4499(2) 0.0251(6) 1. 0
+O13 O2- 2 i 0.6338(5) 0.0313(4) 0.3587(2) 0.0260(6) 1. 0
+O14 O2- 2 i 0.5386(5) 0.2177(4) 0.1552(2) 0.0307(7) 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 U6+ .01144(6) .01467(7) .01283(6) -.00376(5) -.00079(4) -.00305(5)
+Cr1 Cr6+ .0176(3) .0144(3) .0130(3) -.0044(2) -.0011(2) -.0015(2)
+Cr2 Cr6+ .0161(3) .0141(3) .0158(3) -.0037(2) -.0020(2) -.0018(2)
+Cr3 Cr6+ .0136(3) .0141(3) .0144(3) -.0023(2) .0000(2) -.0010(2)
+Na1 Na1+ .0234(9) .0233(9) .0377(9) -.0091(8) -.0097(8) .0021(8)
+Na2 Na1+ .0235(9) .0249(9) .0255(8) -.0086(8) -.0009(7) -.0019(7)
+Na3 Na1+ .0419(11) .0246(9) .0231(8) -.0129(9) -.0092(8) -.0011(7)
+Na4 Na1+ .0358(11) .0397(11) .0332(9) -.0131(9) -.0082(8) -.0108(9)
+O1 O2- .0178(14) .0219(15) .0196(12) -.0077(12) -.0044(11) -.0033(11)
+O2 O2- .0163(14) .0236(15) .0238(13) -.0069(12) -.0054(11) -.0043(12)
+O3 O2- .0178(14) .0255(15) .0175(12) -.0093(12) .0033(10) -.0054(11)
+O4 O2- .0242(15) .0209(15) .0149(12) -.0043(12) .0005(11) -.0002(11)
+O5 O2- .0273(16) .0155(14) .0231(13) -.0005(12) -.0065(12) -.0058(11)
+O6 O2- .0202(15) .0218(15) .0200(13) -.0042(12) -.0013(11) -.0071(11)
+O7 O2- .0276(17) .0242(16) .0250(14) -.0088(13) -.0067(12) -.0032(12)
+O8 O2- .0264(17) .0329(18) .0247(14) -.0120(14) -.0105(12) .0031(13)
+O9 O2- .0403(19) .0164(15) .0257(14) -.0100(14) -.0056(13) .0032(12)
+O10 O2- .0182(15) .0374(18) .0163(13) -.0045(13) .0042(11) -.0021(12)
+O11 O2- .0152(14) .0338(17) .0268(14) -.0049(13) .0012(11) -.0134(13)
+O12 O2- .0202(15) .0201(15) .0283(14) .0006(12) -.0037(12) .0016(12)
+O13 O2- .0274(17) .0245(16) .0299(15) -.0088(14) -.0136(13) -.0020(13)
+O14 O2- .043(2) .0248(17) .0248(14) -.0165(16) -.0007(14) .0038(13)
+#End of TTdata_98653-ICSD

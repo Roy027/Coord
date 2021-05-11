@@ -1,0 +1,84 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51106-ICSD
+_database_code_ICSD 51106
+_audit_creation_date 2001-07-16
+_chemical_name_systematic 'Disodium tetragermanate'
+_chemical_formula_structural 'Na2 (Ge4 O9)'
+_chemical_formula_sum 'Ge4 Na2 O9'
+_chemical_name_structure_type Rb2Ge4O9
+_exptl_crystal_density_diffrn 4.45
+_publ_section_title
+
+;
+Structure of A2 Ge4 O9-type sodium tetragermanate (Na2 Ge4 O9) and comparison
+with other alkali germanate and silicate mixed tetrahedral-octahedral
+framework structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1998 140 175 181 JSSCBI
+loop_
+_publ_author_name
+'Fleet, M.E.'
+'Muthupari, S.'
+_cell_length_a 11.3234(12)
+_cell_length_b 11.3234(12)
+_cell_length_c 9.6817(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1075.07
+_cell_formula_units_Z 6
+_symmetry_space_group_name_H-M 'P -3 c 1'
+_symmetry_Int_Tables_number 165
+_refine_ls_R_factor_all 0.0223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Na1 Na1+ 12 g 0.0074(2) 0.3366(2) 0.4232(2) 1.87(3) 1. 0
+Ge1 Ge4+ 2 b 0 0 0 0.336(10) 1. 0
+Ge2 Ge4+ 4 d 0.33333 0.66667 0.44524(5) 0.394(8) 1. 0
+Ge3 Ge4+ 6 f 0 0.17951(4) 0.75 0.478(7) 1. 0
+Ge4 Ge4+ 12 g 0.14937(3) 0.49338(3) 0.70011(3) 0.410(5) 1. 0
+O1 O2- 6 f 0 0.4935(3) 0.75 0.67(4) 1. 0
+O2 O2- 12 g 0.0953(2) 0.1542(2) 0.8800(2) 0.56(3) 1. 0
+O3 O2- 12 g 0.1004(2) 0.3245(2) 0.6468(2) 0.77(3) 1. 0
+O4 O2- 12 g 0.2628(2) 0.5125(2) 0.8303(2) 0.70(3) 1. 0
+O5 O2- 12 g 0.1768(2) 0.5921(3) 0.5540(2) 0.74(3) 1. 0
+#End of TTdata_51106-ICSD

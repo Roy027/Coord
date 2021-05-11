@@ -1,0 +1,91 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_2319-ICSD
+_database_code_ICSD 2319
+_audit_creation_date 1980-01-01
+_audit_update_record 2012-08-01
+_chemical_name_systematic 'Dilithium beryllium silicate - gamma'
+_chemical_formula_structural 'Li2 Be Si O4'
+_chemical_formula_sum 'Be1 Li2 O4 Si1'
+_chemical_name_structure_type Li2BeSiO4(oS32)
+_exptl_crystal_density_diffrn 2.63
+_publ_section_title
+'The crystal structure of high (gamma)- L Be Si O4 : a tetrahedral structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Crystallography and Crystal
+Chemistry
+; 1974 30 2434 2437 ACBCAR
+loop_
+_publ_author_name
+'Howie, R.A.'
+'West, A.R.'
+_cell_length_a 6.853(9)
+_cell_length_b 6.927(9)
+_cell_length_c 6.125(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 290.76
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'C 2 2 21'
+_symmetry_Int_Tables_number 20
+_refine_ls_R_factor_all 0.047
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 'x, -y, -z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Si4+ 4
+Li1+ 1
+Be2+ 2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 c -.0315(2) 0.3140(2) 0.0339(2) . 1. 0
+O2 O2- 8 c 0.1877(2) 0.0356(2) 0.2192(2) . 1. 0
+Si1 Si4+ 4 b 0 0.1805(1) 0.25 . 1. 0
+Li1 Li1+ 4 a 0.1833(9) 0.5 0 1.05 1. 0
+Be1 Be2+ 4 a 0.1813(5) 0.5 0.5 0.59 1. 0
+Li2 Li1+ 4 b 0 0.7990(9) 0.25 1.47 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+O1 O2- 0.0041(2) 0.0031(2) 0.0030(4) 0.0018(4) 0.0002(4) 0.0018(4)
+O2 O2- 0.0035(2) 0.0039(2) 0.0036(3) 0.0026(4) 0.0019(4) -.0004(4)
+Si1 Si4+ 0.0027(1) 0.0023(1) 0.0020(2) 0 0.0004(2) 0
+#End of TTdata_2319-ICSD

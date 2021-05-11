@@ -1,0 +1,112 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427657-ICSD
+_database_code_ICSD 427657
+_audit_creation_date 2018-02-01
+_chemical_name_systematic
+'Lithium europium(III) yttrium(III) tetramolybdate(VI)'
+_chemical_formula_structural 'Li3.5 Eu0.375 Y1.125 (Mo O4)4'
+_chemical_formula_sum 'Eu0.375 Li3.5 Mo4 O16 Y1.125'
+_chemical_name_structure_type Li7Ho3(MoO4)8
+_exptl_crystal_density_diffrn 4.35
+_cell_measurement_temperature 293.
+_publ_section_title
+
+;
+Solid solution between lithium-rich yttrium and europium molybdate as new
+efficient red-emitting phosphors
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Journal of Materials Chemistry C: Materials for Optical and Electronic Devices
+; 2016 4 596 602 JMCCCX
+loop_
+_publ_author_name
+'Litterscheid, C.'
+'Krueger, S.'
+'Euler, M.'
+'Dreizler, A.'
+'Wickleder, C.'
+'Albert, B.'
+_cell_length_a 5.1993(2)
+_cell_length_b 6.6615(2)
+_cell_length_c 10.2876(4)
+_cell_angle_alpha 100.100(2)
+_cell_angle_beta 100.300(2)
+_cell_angle_gamma 111.914(2)
+_cell_volume 313.59
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'P -1'
+_symmetry_Int_Tables_number 2
+_refine_ls_R_factor_all 0.0338
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Y3+ 3
+Eu3+ 3
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Li1 Li1+ 1 a 0 0 0 0.059(4) 1 0
+Li2 Li1+ 2 i 0.841(3) 0.404(2) 0.1249(15) 0.053(3) 1 0
+Li3 Li1+ 2 i 0.12066(7) 0.77234(5) 0.43995(3) 0.00992(13) 0.25 0
+Y1 Y3+ 2 i 0.12066(7) 0.77234(5) 0.43995(3) 0.00992(13) 0.56 0
+Eu1 Eu3+ 2 i 0.12066(7) 0.77234(5) 0.43995(3) 0.00992(13) 0.19 0
+Mo1 Mo6+ 2 i 0.33560(6) 0.30000(5) 0.31983(3) 0.01108(12) 1 0
+Mo2 Mo6+ 2 i 0.41767(7) 0.15410(5) 0.80083(3) 0.01269(13) 1 0
+O1 O2- 2 i 0.1164(5) 0.1171(4) 0.4065(3) 0.0143(5) 1 0
+O2 O2- 2 i 0.3033(6) 0.5643(4) 0.5717(3) 0.0174(5) 1 0
+O3 O2- 2 i 0.3569(6) 0.1756(5) 0.1618(3) 0.0199(5) 1 0
+O4 O2- 2 i 0.1962(6) 0.4984(4) 0.2936(3) 0.0168(5) 1 0
+O5 O2- 2 i 0.2686(7) 0.6866(5) 0.0686(3) 0.0249(6) 1 0
+O6 O2- 2 i 0.2287(6) 0.3251(5) 0.7733(3) 0.0205(6) 1 0
+O7 O2- 2 i 0.8011(6) 0.0575(5) 0.1378(3) 0.0198(5) 1 0
+O8 O2- 2 i 0.4859(6) 0.0435(4) 0.6420(3) 0.0166(5) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li3 Li1+ 0.0111(2) 0.0101(2) 0.0102(2) 0.00552(16) 0.00327(15) 0.00362(16)
+Y1 Y3+ 0.0111(2) 0.0101(2) 0.0102(2) 0.00552(16) 0.00327(15) 0.00362(16)
+Eu1 Eu3+ 0.0111(2) 0.0101(2) 0.0102(2) 0.00552(16) 0.00327(15) 0.00362(16)
+Mo1 Mo6+ 0.01137(18) 0.01234(19) 0.01146(19) 0.00587(13) 0.00377(12) 0.00499(13)
+Mo2 Mo6+ 0.01446(19) 0.01572(19) 0.00996(18) 0.00821(13) 0.00377(12) 0.00361(12)
+O1 O2- 0.0166(12) 0.0145(11) 0.0146(12) 0.0094(10) 0.0042(9) 0.0044(9)
+O2 O2- 0.0160(13) 0.0173(12) 0.0171(13) 0.0055(10) 0.0028(10) 0.0052(10)
+O3 O2- 0.0187(13) 0.0237(13) 0.0167(13) 0.0108(11) 0.0038(10) 0.0008(10)
+O4 O2- 0.0208(13) 0.0164(11) 0.0173(13) 0.0111(10) 0.0064(10) 0.0051(9)
+O5 O2- 0.0243(15) 0.0260(14) 0.0161(14) 0.0039(12) 0.0018(11) 0.0038(11)
+O6 O2- 0.0233(14) 0.0193(12) 0.0230(14) 0.0123(11) 0.0084(11) 0.0058(11)
+O7 O2- 0.0215(14) 0.0249(13) 0.0192(13) 0.0132(11) 0.0091(11) 0.0095(11)
+O8 O2- 0.0154(12) 0.0174(11) 0.0166(12) 0.0057(10) 0.0071(10) 0.0035(10)
+#End of TTdata_427657-ICSD

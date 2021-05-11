@@ -1,0 +1,109 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_59949-ICSD
+_database_code_ICSD 59949
+_audit_creation_date 2005-10-01
+_chemical_name_systematic 'Disodium metabisulfite'
+_chemical_formula_structural 'Na2 S2 O5'
+_chemical_formula_sum 'Na2 O5 S2'
+_exptl_crystal_density_diffrn 2.38
+_cell_measurement_temperature 153.
+_publ_section_title
+'The surprisingly elusive crystal structure of sodium metabisulfite'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2004 60 155 162
+ASBSDK
+loop_
+_publ_author_name
+'Carter, K.L.'
+'Siddiquee, T.A.'
+'Murphy, K.L.'
+'Bennett, D.W.'
+_cell_length_a 9.0600(10)
+_cell_length_b 5.4470(10)
+_cell_length_c 21.560(2)
+_cell_angle_alpha 90
+_cell_angle_beta 95.310(10)
+_cell_angle_gamma 90
+_cell_volume 1059.42
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.041
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+S4+ 4
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 4 e 0.3407(3) 0.3973(5) -0.02508(11) 0.0145(5) 1 0
+O2 O2- 4 e 0.4024(3) 0.4958(4) -0.15472(11) 0.0151(5) 1 0
+O3 O2- 4 e 0.2768(3) 0.1356(5) -0.20098(12) 0.0160(5) 1 0
+O4 O2- 4 e 0.0893(3) 0.0364(5) 0.22490(12) 0.0146(5) 1 0
+O5 O2- 4 e 0.2679(3) 0.3737(5) 0.11702(12) 0.0154(5) 1 0
+O6 O2- 4 e 0.0378(3) 0.3270(5) 0.05235(12) 0.0173(5) 1 0
+O7 O2- 4 e 0.1670(3) -0.0373(4) 0.09474(12) 0.0143(5) 1 0
+O8 O2- 4 e 0.0659(3) 0.4800(5) 0.21246(13) 0.0190(6) 1 0
+O9 O2- 4 e 0.3075(3) -0.0447(5) -0.04145(13) 0.0174(5) 1 0
+O10 O2- 4 e 0.5095(3) 0.0871(5) -0.13824(13) 0.0171(5) 1 0
+S1 S4+ 4 e 0.13419(8) 0.22266(14) 0.10345(4) 0.00846(19) 1 0
+S2 S4+ 4 e 0.25679(9) 0.20387(15) -0.06309(4) 0.00992(19) 1 0
+S3 S4+ 4 e 0.37385(8) 0.23379(14) -0.14869(4) 0.00856(19) 1 0
+S4 S4+ 4 e 0.01132(9) 0.23741(14) 0.18763(4) 0.00987(19) 1 0
+Na1 Na1+ 4 e 0.17253(15) 0.6831(3) 0.01558(6) 0.0119(3) 1 0
+Na2 Na1+ 4 e 0.51005(15) 0.7263(3) -0.06784(6) 0.0128(3) 1 0
+Na3 Na1+ 4 e 0.26714(15) -0.2658(2) 0.18526(6) 0.0129(3) 1 0
+Na4 Na1+ 4 e 0.42248(15) -0.2320(2) -0.23332(6) 0.0128(3) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0178(12) 0.0086(11) 0.0172(12) -0.0009(10) 0.0030(10) -0.0028(9)
+O2 O2- 0.0258(13) 0.0050(11) 0.0149(12) -0.0037(10) 0.0043(10) 0.0025(9)
+O3 O2- 0.0187(12) 0.0114(12) 0.0181(12) -0.0024(10) 0.0025(10) -0.0026(10)
+O4 O2- 0.0174(12) 0.0089(11) 0.0178(12) 0.0008(9) 0.0036(9) 0.0033(9)
+O5 O2- 0.0106(11) 0.0111(12) 0.0255(13) -0.0036(9) 0.0072(10) -0.0050(10)
+O6 O2- 0.0176(12) 0.0142(12) 0.0198(13) 0.0006(10) 0.0007(10) 0.0078(10)
+O7 O2- 0.0211(12) 0.0045(11) 0.0175(12) 0.0015(9) 0.0031(10) -0.0027(9)
+O8 O2- 0.0243(13) 0.0055(11) 0.0293(14) -0.0030(10) 0.0141(11) -0.0064(10)
+O9 O2- 0.0229(13) 0.0051(11) 0.0262(13) 0.0010(10) 0.0124(11) 0.0053(10)
+O10 O2- 0.0129(11) 0.0154(13) 0.0239(13) 0.0047(10) 0.0069(10) 0.0052(10)
+S1 S4+ 0.0098(4) 0.0039(4) 0.0120(4) -0.0006(3) 0.0023(3) 0.0002(3)
+S2 S4+ 0.0102(4) 0.0054(4) 0.0148(4) 0.0003(3) 0.0042(3) -0.0002(3)
+S3 S4+ 0.0100(4) 0.0041(4) 0.0118(4) -0.0003(3) 0.0025(3) 0.0006(3)
+S4 S4+ 0.0106(4) 0.0051(4) 0.0145(4) -0.0003(3) 0.0043(3) 0.0001(3)
+Na1 Na1+ 0.0136(6) 0.0060(6) 0.0167(7) -0.0011(5) 0.0037(5) -0.0009(5)
+Na2 Na1+ 0.0136(6) 0.0091(6) 0.0157(7) 0.0022(5) 0.0022(5) 0.0001(5)
+Na3 Na1+ 0.0150(6) 0.0073(6) 0.0166(7) -0.0007(5) 0.0022(5) 0.0008(5)
+Na4 Na1+ 0.0165(6) 0.0060(6) 0.0166(7) -0.0004(5) 0.0049(5) 0.0021(5)
+#End of TTdata_59949-ICSD

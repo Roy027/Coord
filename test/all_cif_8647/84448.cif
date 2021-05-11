@@ -1,0 +1,172 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_84448-ICSD
+_database_code_ICSD 84448
+_audit_creation_date 1999-01-19
+_chemical_name_systematic 'Lithium tecto-alumosilicate *'
+_chemical_formula_structural 'Li95.68 (Al96 Si96 O384)'
+_chemical_formula_sum 'Al96 Li95.68 O384 Si96'
+_chemical_name_structure_type Faujasite-Fd3--frame
+_chemical_name_mineral 'Zeolite LSX'
+_exptl_crystal_density_diffrn 1.34
+_cell_measurement_temperature 300.
+_publ_section_title
+
+;
+Structure of dehydrated zeolite Li-LSX by neutron diffraction: evidence for a
+low-temperature orthorhombic faujasite
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry' 1997 101 10340 10346 JPCHAX
+loop_
+_publ_author_name
+'Plevert, J.'
+'di Renzo, F.'
+'Fajula, F.'
+'Chiari, G.'
+_cell_length_a 24.66649(10)
+_cell_length_b 24.66649(10)
+_cell_length_c 24.66649(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 15007.97
+_cell_formula_units_Z 1
+_symmetry_space_group_name_H-M 'F d -3 Z'
+_symmetry_Int_Tables_number 203
+_refine_ls_R_factor_all 0.03
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-z, x+3/4, y+3/4'
+2 'z+3/4, x+3/4, -y'
+3 'z+3/4, -x, y+3/4'
+4 '-z, -x, -y'
+5 'y+3/4, -z, x+3/4'
+6 '-y, z+3/4, x+3/4'
+7 'y+3/4, z+3/4, -x'
+8 '-y, -z, -x'
+9 'x+3/4, y+3/4, -z'
+10 'x+3/4, -y, z+3/4'
+11 '-x, y+3/4, z+3/4'
+12 '-x, -y, -z'
+13 'z, -x+1/4, -y+1/4'
+14 '-z+1/4, -x+1/4, y'
+15 '-z+1/4, x, -y+1/4'
+16 'z, x, y'
+17 '-y+1/4, z, -x+1/4'
+18 'y, -z+1/4, -x+1/4'
+19 '-y+1/4, -z+1/4, x'
+20 'y, z, x'
+21 '-x+1/4, -y+1/4, z'
+22 '-x+1/4, y, -z+1/4'
+23 'x, -y+1/4, -z+1/4'
+24 'x, y, z'
+25 '-z, x+1/4, y+1/4'
+26 'z+3/4, x+1/4, -y+1/2'
+27 'z+3/4, -x+1/2, y+1/4'
+28 '-z, -x+1/2, -y+1/2'
+29 'y+3/4, -z+1/2, x+1/4'
+30 '-y, z+1/4, x+1/4'
+31 'y+3/4, z+1/4, -x+1/2'
+32 '-y, -z+1/2, -x+1/2'
+33 'x+3/4, y+1/4, -z+1/2'
+34 'x+3/4, -y+1/2, z+1/4'
+35 '-x, y+1/4, z+1/4'
+36 '-x, -y+1/2, -z+1/2'
+37 'z, -x+3/4, -y+3/4'
+38 '-z+1/4, -x+3/4, y+1/2'
+39 '-z+1/4, x+1/2, -y+3/4'
+40 'z, x+1/2, y+1/2'
+41 '-y+1/4, z+1/2, -x+3/4'
+42 'y, -z+3/4, -x+3/4'
+43 '-y+1/4, -z+3/4, x+1/2'
+44 'y, z+1/2, x+1/2'
+45 '-x+1/4, -y+3/4, z+1/2'
+46 '-x+1/4, y+1/2, -z+3/4'
+47 'x, -y+3/4, -z+3/4'
+48 'x, y+1/2, z+1/2'
+49 '-z+1/2, x+3/4, y+1/4'
+50 'z+1/4, x+3/4, -y+1/2'
+51 'z+1/4, -x, y+1/4'
+52 '-z+1/2, -x, -y+1/2'
+53 'y+1/4, -z, x+1/4'
+54 '-y+1/2, z+3/4, x+1/4'
+55 'y+1/4, z+3/4, -x+1/2'
+56 '-y+1/2, -z, -x+1/2'
+57 'x+1/4, y+3/4, -z+1/2'
+58 'x+1/4, -y, z+1/4'
+59 '-x+1/2, y+3/4, z+1/4'
+60 '-x+1/2, -y, -z+1/2'
+61 'z+1/2, -x+1/4, -y+3/4'
+62 '-z+3/4, -x+1/4, y+1/2'
+63 '-z+3/4, x, -y+3/4'
+64 'z+1/2, x, y+1/2'
+65 '-y+3/4, z, -x+3/4'
+66 'y+1/2, -z+1/4, -x+3/4'
+67 '-y+3/4, -z+1/4, x+1/2'
+68 'y+1/2, z, x+1/2'
+69 '-x+3/4, -y+1/4, z+1/2'
+70 '-x+3/4, y, -z+3/4'
+71 'x+1/2, -y+1/4, -z+3/4'
+72 'x+1/2, y, z+1/2'
+73 '-z+1/2, x+1/4, y+3/4'
+74 'z+1/4, x+1/4, -y'
+75 'z+1/4, -x+1/2, y+3/4'
+76 '-z+1/2, -x+1/2, -y'
+77 'y+1/4, -z+1/2, x+3/4'
+78 '-y+1/2, z+1/4, x+3/4'
+79 'y+1/4, z+1/4, -x'
+80 '-y+1/2, -z+1/2, -x'
+81 'x+1/4, y+1/4, -z'
+82 'x+1/4, -y+1/2, z+3/4'
+83 '-x+1/2, y+1/4, z+3/4'
+84 '-x+1/2, -y+1/2, -z'
+85 'z+1/2, -x+3/4, -y+1/4'
+86 '-z+3/4, -x+3/4, y'
+87 '-z+3/4, x+1/2, -y+1/4'
+88 'z+1/2, x+1/2, y'
+89 '-y+3/4, z+1/2, -x+1/4'
+90 'y+1/2, -z+3/4, -x+1/4'
+91 '-y+3/4, -z+3/4, x'
+92 'y+1/2, z+1/2, x'
+93 '-x+3/4, -y+3/4, z'
+94 '-x+3/4, y+1/2, -z+1/4'
+95 'x+1/2, -y+3/4, -z+1/4'
+96 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Si1 Si4+ 96 g -.0503(3) 0.1246(3) 0.0372(4) 0.012(2) 1. 0
+Al1 Al3+ 96 g -.0499(5) 0.0371(5) 0.1232(5) 0.037(3) 1. 0
+O1 O2- 96 g 0.8957(2) 0.0027(4) 0.0986(3) 0.024(2) 1. 0
+O2 O2- 96 g -.0015(3) 0.0004(3) 0.1524(1) 0.022(2) 1. 0
+O3 O2- 96 g -.0216(2) 0.0734(3) 0.0688(3) 0.032(2) 1. 0
+O4 O2- 96 g -.0738(2) 0.0824(3) 0.1715(3) 0.028(2) 1. 0
+Li1 Li1+ 32 e 0.0457(5) 0.0457(5) 0.0457(5) 0.081(11) 1. 0
+Li2 Li1+ 32 e 0.2226(3) 0.2226(3) 0.2226(3) 0.021(6) 1. 0
+Li3 Li1+ 48 f 0.3756(3) 0.125 0.125 0.123(33) 0.32(4) 0
+Li4 Li1+ 96 g 0.4411(3) 0.3580(1) 0.1400(2) 0.041(40) 0.17(4) 0
+#End of TTdata_84448-ICSD

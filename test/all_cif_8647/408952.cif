@@ -1,0 +1,125 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_408952-ICSD
+_database_code_ICSD 408952
+_audit_creation_date 1999-06-02
+_chemical_name_systematic 'Trisodium tantalum tetrasulfide'
+_chemical_formula_structural 'Na3 S4 Ta'
+_chemical_formula_sum 'Na3 S4 Ta1'
+_chemical_name_structure_type Na3NbS4
+_exptl_crystal_density_diffrn 3.3
+_publ_section_title
+
+;
+Synthesis and crystal structure of a new alkali metal tantalum sulfide: Na3 Ta
+S4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1998
+624 2021 2024 ZAACAB
+loop_
+_publ_author_name
+'Herzog, S.'
+'Naether, C.'
+'Duerichen, P.'
+'Bensch, W.'
+_cell_length_a 27.1130(50)
+_cell_length_b 28.3260(60)
+_cell_length_c 7.918(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 6081.05
+_cell_formula_units_Z 32
+_symmetry_space_group_name_H-M 'F d d 2'
+_symmetry_Int_Tables_number 43
+_refine_ls_R_factor_all 0.0223
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 '-x+1/4, y+1/4, z+1/4'
+3 '-x, -y, z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 '-x+1/4, y+3/4, z+3/4'
+7 '-x, -y+1/2, z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 '-x+3/4, y+1/4, z+3/4'
+11 '-x+1/2, -y, z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 '-x+3/4, y+3/4, z+1/4'
+15 '-x+1/2, -y+1/2, z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 5
+S2- -2
+Ta5+ 5
+S2- -2
+Na1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ta1 Ta5+ 16 b 0.627230(8) 0.756330(7) 0.47939(3) . 1. 0
+S1 S2- 16 b 0.58384(5) 0.74817(5) 0.2349(2) . 1. 0
+S2 S2- 16 b 0.65480(5) 0.68572(5) 0.5789(2) . 1. 0
+S3 S2- 16 b 0.57683(5) 0.78784(5) 0.6790(2) . 1. 0
+S4 S2- 16 b 0.69353(5) 0.80322(5) 0.4323(2) . 1. 0
+Ta2 Ta5+ 16 b 0.510090(7) 0.615130(7) 0.73412(3) . 1. 0
+S5 S2- 16 b 0.49960(5) 0.65607(5) 0.4919(3) . 1. 0
+S6 S2- 16 b 0.55021(5) 0.65898(5) 0.9305(2) . 1. 0
+S7 S2- 16 b 0.43582(5) 0.59382(5) 0.8459(2) . 1. 0
+S8 S2- 16 b 0.55468(5) 0.54955(5) 0.6785(2) . 1. 0
+Na1 Na1+ 8 a 0.5 0.5 0.4192(5) . 1. 0
+Na2 Na1+ 8 a 0.5 0.5 0.9355(5) . 1. 0
+Na3 Na1+ 16 b 0.50212(9) 0.74651(9) 0.9505(4) . 1. 0
+Na4 Na1+ 16 b 0.62043(9) 0.47229(8) 0.6597(4) . 1. 0
+Na5 Na1+ 16 b 0.59544(11) 0.63936(12) 0.3222(5) . 1. 0
+Na6 Na1+ 16 b 0.47524(9) 0.62307(9) 0.1654(4) . 1. 0
+Na7 Na1+ 16 b 0.38820(11) 0.65681(10) 0.6015(5) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.00803(8) 0.00897(9) 0.00747(9) 0.00071(7) -.00004(10) -.00042(11)
+S1 S2- 0.0133(5) 0.0202(6) 0.0103(6) -.0001(5) -.0021(7) -.0019(7)
+S2 S2- 0.0167(6) 0.0108(6) 0.0140(7) 0.0041(5) 0.0011(6) -.0001(6)
+S3 S2- 0.0147(6) 0.0160(6) 0.0116(7) 0.0052(5) 0.0012(6) -.0017(6)
+S4 S2- 0.0128(6) 0.0136(6) 0.0129(7) -.0033(5) 0.0005(5) 0.0011(6)
+Ta2 Ta5+ 0.00757(8) 0.00732(8) 0.00709(9) -.00026(7) -.00039(10) -.00014(10)
+S5 S2- 0.0188(6) 0.0140(6) 0.0104(7) 0.0012(5) -.0008(7) 0.0039(7)
+S6 S2- 0.0115(6) 0.0107(6) 0.0120(7) -.0036(5) -.0015(5) -.0022(5)
+S7 S2- 0.0110(6) 0.0181(7) 0.0113(7) -.0038(5) 0.0000(5) -.0005(6)
+S8 S2- 0.0142(6) 0.0117(6) 0.0127(7) 0.0035(5) 0.0002(5) -.0020(5)
+Na1 Na1+ 0.018(2) 0.035(2) 0.010(2) -.010(2) 0 0
+Na2 Na1+ 0.033(2) 0.022(2) 0.015(2) -.012(2) 0 0
+Na3 Na1+ 0.0151(10) 0.0173(11) 0.031(2) 0.0016(9) 0.0002(12) 0.0028(12)
+Na4 Na1+ 0.0142(10) 0.0142(11) 0.0143(13) 0.0016(9) -.0016(10) 0.0010(11)
+Na5 Na1+ 0.0230(14) 0.043(2) 0.047(2) -.0080(13) 0.006(2) -.029(2)
+Na6 Na1+ 0.0180(11) 0.0167(11) 0.0118(12) -.0008(9) -.0020(11) -.0010(11)
+Na7 Na1+ 0.0242(13) 0.0233(14) 0.049(2) -.0040(11) -.018(2) 0.011(2)
+#End of TTdata_408952-ICSD

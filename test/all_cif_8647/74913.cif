@@ -1,0 +1,95 @@
+
+#(C) 2019 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74913-ICSD
+_database_code_ICSD 74913
+_audit_creation_date 1995-10-17
+_chemical_name_systematic 'Dirubidium disodium iridate(IV)'
+_chemical_formula_structural 'Rb2 Na2 (Ir O4)'
+_chemical_formula_sum 'Ir1 Na2 O4 Rb2'
+_chemical_name_structure_type K2Na2IrO4
+_exptl_crystal_density_diffrn 5.29
+_publ_section_title
+
+;
+Ein neuer Strukturtyp bei Oxoiridaten mit quadratisch-planaren (IrO4)(4-)
+-Gruppen: K2Na2(IrO4), ein Raumnetz 3(Na2IrO4) mit Kanaelen. (Mit einer
+Anmerkung zu Rb2Na2(IrO4)).
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 1994
+620 225 233 ZAACAB
+loop_
+_publ_author_name
+'Mader, K.'
+'Hoppe, R.'
+_cell_length_a 6.1812(6)
+_cell_length_b 11.0839(7)
+_cell_length_c 9.590(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 115.004(7)
+_cell_angle_gamma 90.
+_cell_volume 595.45
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/c 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.064
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ir4+ 4
+Rb1+ 1
+Na1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Ir1 Ir4+ 4 e 0.9879(1) 0.8679(1) 0.2332(1) . 1. 0
+Rb1 Rb1+ 4 e 0.3282(6) 0.8629(3) 0.9954(3) . 1. 0
+Rb2 Rb1+ 4 e 0.6522(4) 0.6300(2) 0.2772(3) . 1. 0
+Na1 Na1+ 4 e 0.0620(13) 0.8881(7) 0.5946(9) . 1. 0
+Na2 Na1+ 4 e 0.5640(13) 0.8911(7) 0.4073(8) . 1. 0
+O1 O2- 4 e 0.2527(25) 0.7787(12) 0.2375(17) . 1. 0
+O2 O2- 4 e 0.2754(25) 0.4568(12) 0.2682(18) . 1. 0
+O3 O2- 4 e 0.2061(23) 0.9571(11) 0.4090(16) . 1. 0
+O4 O2- 4 e 0.7850(25) 0.7283(12) 0.5696(16) . 1. 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ir1 Ir4+ 0.0097(3) 0.0113(3) 0.0074(3) -.0010(2) 0.0017(2) -.0008(2)
+Rb1 Rb1+ 0.0484(16) 0.0512(17) 0.0377(14) -.0008(14) 0.0150(12) -.0012(13)
+Rb2 Rb1+ 0.0273(10) 0.0254(10) 0.0269(10) -.0005(8) 0.0136(8) -.0027(8)
+Na1 Na1+ 0.0140(33) 0.0183(37) 0.0140(33) 0.0018(29) 0.0013(27) 0.0015(28)
+Na2 Na1+ 0.0145(33) 0.0225(39) 0.0068(30) 0.0016(29) -.0024(26) 0.0012(27)
+O1 O2- 0.0152(61) 0.0136(62) 0.0229(68) 0.0014(48) 0.0044(53) -.0016(51)
+O2 O2- 0.0190(64) 0.0115(60) 0.0305(77) 0.0002(51) 0.0111(59) 0.0085(55)
+O3 O2- 0.0126(56) 0.0089(54) 0.0184(61) -.0043(45) 0.0011(48) -.0117(47)
+O4 O2- 0.0216(66) 0.0068(54) 0.0161(61) -.0022(48) -.0015(52) 0.0054(46)
+#End of TTdata_74913-ICSD

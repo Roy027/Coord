@@ -1,0 +1,129 @@
+
+#(C) 2017 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260274-ICSD
+_database_code_ICSD 260274
+_audit_creation_date 2009-08-01
+_chemical_name_systematic 'Lithium tris(trifluoromethyl-isobutylate)'
+_chemical_formula_structural 'Li (O C (C F3)3) (H2 O)4'
+_chemical_formula_sum 'C4 H8 F9 Li1 O5'
+_exptl_crystal_density_diffrn 1.82
+_cell_measurement_temperature 180.
+_publ_section_title
+'Snapshots of the Hydrolysis of the lithium alkoxide Li [O C (C F3)3]'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2009
+635 513 517 ZAACAB
+loop_
+_publ_author_name
+'Raabe, I.'
+'Wagner, K.'
+'Santiso-Quinones, G.'
+'Krossing, I.'
+_cell_length_a 25.430(5)
+_cell_length_b 11.465(2)
+_cell_length_c 8.0105(16)
+_cell_angle_alpha 90.
+_cell_angle_beta 101.50(3)
+_cell_angle_gamma 90.
+_cell_volume 2288.62
+_cell_formula_units_Z 8
+_symmetry_space_group_name_H-M 'C 1 2/c 1'
+_symmetry_Int_Tables_number 15
+_refine_ls_R_factor_all 0.0648
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+F1- -1
+C2+ 2.5
+F1- -1
+C2+ 2.5
+F1- -1
+C2+ 2.5
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+O1 O2- 8 f 0.14902(10) 0.2804(2) 0.1494(3) 0.0278(6) 1 0
+O2 O2- 8 f 0.22654(13) 0.5835(2) 0.5852(4) 0.0306(6) 1 0
+O3 O2- 8 f 0.16789(12) 0.3331(2) 0.4745(4) 0.0346(7) 1 0
+O4 O2- 8 f 0.28838(12) 0.3857(3) 0.4260(3) 0.0344(7) 1 0
+O5 O2- 8 f 0.26750(13) 0.3673(3) 0.7914(3) 0.0394(7) 1 0
+F1 F1- 8 f 0.05254(12) 0.3759(3) 0.2128(4) 0.0821(10) 1 0
+C1 C2+ 8 f 0.09956(14) 0.2564(3) 0.0544(4) 0.0286(8) 1 0
+F2 F1- 8 f 0.06108(11) 0.1910(3) -0.2304(3) 0.0741(10) 1 0
+F3 F1- 8 f 0.01573(12) 0.3555(3) -0.0475(4) 0.0782(10) 1 0
+F4 F1- 8 f 0.14399(12) 0.1601(3) -0.1403(3) 0.0861(12) 1 0
+F5 F1- 8 f 0.02468(12) 0.1285(3) 0.0563(4) 0.0863(11) 1 0
+F6 F1- 8 f 0.10234(15) 0.0517(3) 0.0918(5) 0.1001(13) 1 0
+C2 C2+ 8 f 0.06219(17) 0.3626(4) 0.0575(5) 0.0441(10) 1 0
+F7 F1- 8 f 0.11713(16) 0.3312(3) -0.2061(4) 0.0928(12) 1 0
+F8 F1- 8 f 0.08593(14) 0.4606(2) 0.0264(5) 0.0870(11) 1 0
+F9 F1- 8 f 0.08005(16) 0.1542(3) 0.2886(4) 0.0971(13) 1 0
+C3 C2+ 8 f 0.10515(18) 0.2330(4) -0.1326(5) 0.0498(12) 1 0
+C4 C2+ 8 f 0.0760(2) 0.1471(4) 0.1249(6) 0.0540(12) 1 0
+Li1 Li1+ 8 f 0.2340(3) 0.4156(5) 0.5689(7) 0.0327(14) 1 0
+H1 H1+ 8 f 0.200(2) 0.630(5) 0.594(6) 0.070(17) 1 0
+H2 H1+ 8 f 0.2569(17) 0.370(3) 0.879(5) 0.031(11) 1 0
+H3 H1+ 8 f 0.244(2) 0.598(4) 0.669(6) 0.044(15) 1 0
+H4 H1+ 8 f 0.309(2) 0.321(5) 0.443(6) 0.064(16) 1 0
+H5 H1+ 8 f 0.306(2) 0.440(5) 0.420(6) 0.065(19) 1 0
+H6 H1+ 8 f 0.296(2) 0.325(4) 0.811(6) 0.053(14) 1 0
+H7 H1+ 8 f 0.140(3) 0.353(5) 0.504(7) 0.09(2) 1 0
+H8 H1+ 8 f 0.1621(18) 0.322(4) 0.374(6) 0.041(13) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0204(14) 0.0370(14) 0.0257(12) -0.0015(11) 0.0041(10) 0.0011(10)
+O2 O2- 0.0291(16) 0.0357(15) 0.0255(15) 0.0048(13) 0.0016(13) -0.0035(12)
+O3 O2- 0.0315(17) 0.0468(17) 0.0250(15) 0.0027(13) 0.0045(12) -0.0059(12)
+O4 O2- 0.0380(18) 0.0322(17) 0.0344(15) 0.0033(15) 0.0110(12) 0.0000(12)
+O5 O2- 0.0411(19) 0.0510(18) 0.0271(15) 0.0206(15) 0.0092(13) 0.0065(12)
+F1 F1- 0.056(2) 0.125(3) 0.0648(18) 0.0357(18) 0.0120(15) -0.0327(18)
+C1 C2+ 0.0177(19) 0.038(2) 0.0285(18) 0.0026(16) 0.0015(15) 0.0001(15)
+F2 F1- 0.0449(18) 0.120(3) 0.0484(16) 0.0094(16) -0.0129(13) -0.0341(16)
+F3 F1- 0.0371(17) 0.093(2) 0.089(2) 0.0281(15) -0.0250(15) -0.0285(17)
+F4 F1- 0.057(2) 0.142(3) 0.0541(17) 0.041(2) -0.0021(14) -0.0439(18)
+F5 F1- 0.046(2) 0.102(2) 0.103(2) -0.0433(18) -0.0042(16) 0.0099(19)
+F6 F1- 0.081(3) 0.0429(17) 0.175(4) -0.0015(17) 0.021(2) 0.0164(19)
+C2 C2+ 0.027(2) 0.052(3) 0.051(3) 0.004(2) 0.0011(19) -0.006(2)
+F7 F1- 0.116(3) 0.123(3) 0.0450(16) -0.022(2) 0.0302(18) 0.0131(17)
+F8 F1- 0.066(2) 0.0449(17) 0.147(3) 0.0134(15) 0.015(2) 0.0140(17)
+F9 F1- 0.105(3) 0.127(3) 0.0577(19) -0.063(2) 0.0134(17) 0.0272(18)
+C3 C2+ 0.035(3) 0.072(3) 0.041(2) 0.007(2) 0.003(2) -0.011(2)
+C4 C2+ 0.037(3) 0.057(3) 0.066(3) -0.015(2) 0.005(2) 0.004(2)
+Li1 Li1+ 0.036(4) 0.036(3) 0.026(3) 0.003(3) 0.006(3) 0.000(3)
+#End of TTdata_260274-ICSD

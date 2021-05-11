@@ -1,0 +1,92 @@
+
+#(C) 2018 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243971-ICSD
+_database_code_ICSD 243971
+_audit_creation_date 2018-02-01
+_chemical_name_systematic 'Lithium rubidium carbonate'
+_chemical_formula_structural 'Li Rb C O3'
+_chemical_formula_sum 'C1 Li1 O3 Rb1'
+_exptl_crystal_density_diffrn 3.03
+_cell_measurement_temperature 296.
+_publ_section_title
+
+;
+LiMCO3 (M = K, Rb, Cs): a series of mixed alkali carbonates with large
+birefringence
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2017 46 6894 6899 DTARAF
+loop_
+_publ_author_name
+'Liu, Qiong'
+'Li, Zhi'
+'Wang, Ying'
+'Su, Xin'
+'Yang, Zhihua'
+'Pan, Shilie'
+_cell_length_a 6.849(3)
+_cell_length_b 7.162(3)
+_cell_length_c 7.525(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 114.961(5)
+_cell_angle_gamma 90.
+_cell_volume 334.64
+_cell_formula_units_Z 4
+_symmetry_space_group_name_H-M 'P 1 21/n 1'
+_symmetry_Int_Tables_number 14
+_refine_ls_R_factor_all 0.0203
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+O2- -2
+C4+ 4
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+_atom_site_attached_hydrogens
+Rb1 Rb1+ 4 e 0.16389(4) 0.35911(4) 0.33314(4) 0.01744(12) 1 0
+O1 O2- 4 e 0.2971(3) 0.4721(3) 0.0261(3) 0.0158(4) 1 0
+O2 O2- 4 e 0.1285(3) 0.1934(3) -0.0462(3) 0.0190(4) 1 0
+O3 O2- 4 e 0.2264(4) 0.3336(3) -0.2586(3) 0.0196(5) 1 0
+C1 C4+ 4 e 0.2158(5) 0.3321(4) -0.0905(4) 0.0132(6) 1 0
+Li1 Li1+ 4 e 0.6033(8) 0.4284(8) 0.1956(7) 0.0176(10) 1 0
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.01951(17) 0.01786(18) 0.01624(17) -0.00125(11) 0.00881(12)
+-0.00030(11)
+O1 O2- 0.0177(9) 0.0133(11) 0.0149(10) -0.0024(8) 0.0054(8) -0.0034(8)
+O2 O2- 0.0242(11) 0.0148(10) 0.0204(11) -0.0053(9) 0.0119(9) -0.0004(9)
+O3 O2- 0.0283(12) 0.0192(11) 0.0136(10) -0.0073(9) 0.0110(9) -0.0036(8)
+C1 C4+ 0.0093(11) 0.0142(15) 0.0141(13) 0.0043(11) 0.0031(10) 0.0026(11)
+Li1 Li1+ 0.016(2) 0.014(2) 0.019(2) -0.001(2) 0.005(2) 0.003(2)
+#End of TTdata_243971-ICSD
