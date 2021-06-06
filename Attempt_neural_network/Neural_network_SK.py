@@ -23,7 +23,7 @@ datafile = os.path.join(directory, r'.\trainingdata.xlsx')
 
 # Read excel file and assign the data to a variable
 # iloc function numerically locates [rownumbers,columnnumbers], numpy.r_[] concatenates arrays of rows
-test_sheet = pandas.read_excel (datafile, sheet_name='testset_medium')
+test_sheet = pandas.read_excel (datafile, sheet_name='testset_general')
 ideal_sheet = pandas.read_excel (datafile, sheet_name='trainingset')
 
 # Extract cif filename and site names
@@ -42,16 +42,16 @@ testset = test_sheet.iloc[:,numpy.r_[8:26]]
 testresultanswer = test_sheet.iloc[:,6]
 
 # Convert DataStructure into numpy array for computing purposes
-# Total number of labelled data: 8104, 304, 163, 218 = 8789
-# idealdata dimensions: 2502, 152, 82, 109 = 4394( x 22C)
-# idealresult dimensions: 4394 rows (x 1 column)
+# Total number of labelled data: 
+# idealdata dimensions: 
+# idealresult dimensions:  rows (x 1 column)
 # testset dimensions: 
-# - trainingset_test: 4395
+# - testset_general: 
 # - easy: 
 # - medium: 
 # - hard: 
 # - controversial:
-# ( x 18C if include dot products, or X 11C if exclude dot products)
+# ( x 18C if include dot products, or X 12C if exclude dot products)
 idealdata = idealset.to_numpy()
 idealitems = idealresult.to_numpy()
 testdata = testset.to_numpy()
@@ -85,12 +85,12 @@ for ind, element in enumerate(testresultanswers):
 # testset for test, so that results will be produced
 ###########################################################################################
 # Allocation of variables here so that there's only one area to be changed
-predictee = testset
-predictee_label = testlabel
-predictee_results = idealtestdata
-# predictee = idealset
-# predictee_label = ideallabel
-# predictee_results = idealdata
+# predictee = testset
+# predictee_label = testlabel
+# predictee_results = idealtestdata
+predictee = idealset
+predictee_label = ideallabel
+predictee_results = idealdata
 ###########################################################################################
 
 # Scaling of data to range [0,1]
@@ -106,11 +106,12 @@ each_struc_ideal_count = numpy.zeros(len(predictee_results[0]))
 for row in predictee_results:
     each_struc_ideal_count = each_struc_ideal_count + row
 
+errors = []
+
 with open(r'.\NNdata.csv', mode='w') as dotfile:
     file_writer = csv.writer(dotfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    for nomo in range(18):
-
-        clf = MLPClassifier(hidden_layer_sizes=(nomo+1),max_iter=10000,solver='lbfgs',alpha=0.01,random_state=1,activation='relu')
+    for nomo in range(3,18):
+        clf = MLPClassifier(hidden_layer_sizes=(nomo+1),max_iter=10000,solver='lbfgs',alpha=0.01,random_state=1,activation="logistic")
         clf.fit(scaled_ideal_data, idealdata)
         probabilities = clf.predict_proba(scaled_data)
 
@@ -142,6 +143,8 @@ with open(r'.\NNdata.csv', mode='w') as dotfile:
         for ind, element in enumerate(prediction):
             if numpy.all(prediction[ind] == predictee_results[ind]):
                 NumStrictCorrect_arr = NumStrictCorrect_arr + predictee_results[ind]
+            elif nomo > 9:
+                errors.append([str(predictee_label[ind]),str(probabilities[ind])])
 
         strict_indiv_perC = numpy.around(100*NumStrictCorrect_arr/each_struc_ideal_count, 5)
 
@@ -160,8 +163,10 @@ with open(r'.\NNdata.csv', mode='w') as dotfile:
 
         file_writer.writerow([str(strict_indiv_perC[0]),str(strict_indiv_perC[1]),str(strict_indiv_perC[2]),str(strict_indiv_perC[3])])
 
+# Print list of wrongly-predicted sites
+print(errors)
 
-### For controversial: to compare .cif file with predicted results
+### To compare .cif file with predicted results
 # Convert prediction back to string results
 # Comment out exit() if there is a need to compare results.
 exit()
@@ -193,7 +198,8 @@ for ind, element in enumerate(prediction):
     rowstring.extend(D)
     predictedresult[ind] = str(rowstring)
 
-displaytext = numpy.concatenate((predictee_label,predictedresult),axis=1)
+# displaytext = numpy.concatenate((predictee_label,predictedresult),axis=1)
+displaytext = numpy.concatenate((predictee_label,probabilities),axis=1)
 print(displaytext)
 
 
