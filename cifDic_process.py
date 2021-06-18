@@ -3,6 +3,11 @@
 import pandas as pd
 import numpy as np
 import json
+import sys
+#
+MAX_ANGLES = sys.maxsize
+CN_num = 12
+Saving_Address = ".\output\CN13+_table_cat.csv"
 
 # Return the distinct normal vector of planes given by the coordinates from cifDic
 def CoordinatesToPlanes(xyz):
@@ -22,9 +27,6 @@ def CoordinatesToPlanes(xyz):
                 vn = np.around(np.cross(v1,v2),2)
                 res.add(tuple(vn))
     return res
-# %%
-max_angle = 15
-cn_num = 6.0
 
 Angle_table = []
 with open("./output/cifDic_0413.json") as json_file:
@@ -32,7 +34,7 @@ with open("./output/cifDic_0413.json") as json_file:
     for cif in cifDic:
         for site in cifDic[cif]['Sites']:
             if ('Period' or 'Group') not in cifDic[cif]['Sites'][site]: continue
-            if len(cifDic[cif]['Sites'][site]['Angles']) > max_angle: continue
+            if len(cifDic[cif]['Sites'][site]['Angles']) > MAX_ANGLES: continue
             xyz = cifDic[cif]['Sites'][site]["Coordinates"]
             planes = CoordinatesToPlanes(xyz[1:])
             Angle_list = (cif,cifDic[cif]['Name'], site, float(cifDic[cif]['Sites'][site]['CN']),\
@@ -45,7 +47,7 @@ with open("./output/cifDic_0413.json") as json_file:
 headers = ['Cif','Name','Site','CN','OS', 'Period', 'Group','SDofBV','Angles','Planes']
 df = pd.DataFrame.from_records(Angle_table,columns=headers)
 
-CN6_df = df[df['CN']==cn_num]
+CN6_df = df[df['CN']==CN_num]
 Angles = CN6_df['Angles'].tolist()
 
 
@@ -55,7 +57,7 @@ with open("./output/Na_Y2020_cifDic.json") as json_file:
     for cif in cifDic:
         for site in cifDic[cif]['Sites']:
             if ('Period' or 'Group') not in cifDic[cif]['Sites'][site]: continue
-            if len(cifDic[cif]['Sites'][site]['Angles']) > max_angle: continue
+            if len(cifDic[cif]['Sites'][site]['Angles']) > MAX_ANGLES: continue
             xyz = cifDic[cif]['Sites'][site]["Coordinates"]
             planes = CoordinatesToPlanes(xyz[1:])
             Angle_list = (cif,cifDic[cif]['Name'], site, float(cifDic[cif]['Sites'][site]['CN']),\
@@ -67,7 +69,7 @@ with open("./output/Na_Y2020_cifDic.json") as json_file:
 headers = ['Cif','Name','Site','CN','OS', 'Period', 'Group','SDofBV','Angles', 'Planes']
 df1 = pd.DataFrame.from_records(Angle_table1,columns=headers)
 
-CN6_df1 = df1[df1['CN']==cn_num]
+CN6_df1 = df1[df1['CN']==CN_num]
 Angles1 = CN6_df1['Angles'].tolist()
 
 # %%
@@ -78,8 +80,11 @@ result = concatT.loc[d_index]
 result_cation = result[result.OS > 0]
 # %%
 #result_cation['Angles'].to_csv("./output/CN6_Angles_all_cat_12492.csv")
-result_cation.to_csv(".\output\CN6_table_all_cat_12613_Planes.csv")
+result_cation.to_csv(Saving_Address)
+
+
 # %%
+'''
 with open("./output/Na_Y2020_cifDic.json") as json_file:
     cifDic = json.load(json_file)
     for cif in cifDic:
@@ -102,6 +107,6 @@ print(xyz)
 
 
 planes = CoordinatesToPlanes(xyz[1:])
-
+'''
     
 # %%

@@ -1,0 +1,224 @@
+#------------------------------------------------------------------------------
+#$Date: 2016-02-14 06:40:26 +0200 (Sun, 14 Feb 2016) $
+#$Revision: 176432 $
+#$URL: svn://www.crystallography.net/cod/cif/4/30/76/4307698.cif $
+#------------------------------------------------------------------------------
+#
+# This file is available in the Crystallography Open Database (COD),
+# http://www.crystallography.net/
+#
+# All data on this site have been placed in the public domain by the
+# contributors.
+#
+data_4307698
+loop_
+_publ_author_name
+'Stefan Lange'
+'Peer Schmidt'
+'Tom Nilges'
+_publ_contact_author_address
+; 
+Dr. Tom Nilges
+Institut fuer Anorganische und Analytische Chemie
+Universitaet Muenster
+Corrensstrasse 30
+
+48149 Muenster
+Germany
+;
+_publ_contact_author_email
+;
+nilges@uni-muenster.de
+;
+_publ_contact_author_fax
+;
++492518336002
+;
+_publ_contact_author_name        'Tom Nilges'
+_publ_contact_author_phone
+;
++492518336645
+;
+_publ_section_title
+;
+Au3SnP7@Black Phosphorus: An Easy Access to Black Phosphorus
+;
+_journal_name_full               'Inorganic Chemistry'
+_journal_page_first              4028
+_journal_page_last               4035
+_journal_paper_doi               10.1021/ic062192q
+_journal_volume                  46
+_journal_year                    2007
+_chemical_formula_sum            P
+_chemical_formula_weight         31
+_chemical_name_systematic        ' ?'
+_space_group_IT_number           64
+_symmetry_cell_setting           orthorhombic
+_symmetry_space_group_name_Hall  '-C 2ac 2'
+_symmetry_space_group_name_H-M   'C m c a'
+_cell_angle_alpha                90
+_cell_angle_beta                 90
+_cell_angle_gamma                90
+_cell_formula_units_Z            8
+_cell_length_a                   3.3164(5)
+_cell_length_b                   10.484(3)
+_cell_length_c                   4.3793(5)
+_cell_volume                     152.26(5)
+_computing_publication_material  '(Jana2000; Petricek and Dusek, 2000)'
+_computing_structure_refinement  '(Jana2000; Petricek and Dusek, 2000)'
+_diffrn_ambient_temperature      293
+_diffrn_measured_fraction_theta_full 30.20
+_diffrn_measured_fraction_theta_max 30.20
+_diffrn_measurement_device_type  'IPDS II'
+_diffrn_radiation_monochromator  graphite
+_diffrn_radiation_source         X-ray
+_diffrn_radiation_type           'Mo K\a'
+_diffrn_radiation_wavelength     0.71073
+_diffrn_reflns_av_R_equivalents  0.0628
+_diffrn_reflns_av_sigmaI/netI    0.0309
+_diffrn_reflns_limit_h_max       4
+_diffrn_reflns_limit_h_min       -4
+_diffrn_reflns_limit_k_max       14
+_diffrn_reflns_limit_k_min       -15
+_diffrn_reflns_limit_l_max       6
+_diffrn_reflns_limit_l_min       -6
+_diffrn_reflns_number            688
+_diffrn_reflns_theta_full        30.20
+_diffrn_reflns_theta_max         30.20
+_diffrn_reflns_theta_min         9.10
+_exptl_absorpt_coefficient_mu    2.154
+_exptl_absorpt_correction_T_max  0.926
+_exptl_absorpt_correction_T_min  0.598
+_exptl_absorpt_correction_type   numerical
+_exptl_absorpt_process_details   'STOE X_red'
+_exptl_crystal_colour            black
+_exptl_crystal_density_diffrn    2.7014
+_exptl_crystal_description       plate
+_exptl_crystal_F_000             120
+_exptl_crystal_size_max          0.26
+_exptl_crystal_size_mid          0.20
+_exptl_crystal_size_min          0.01
+_refine_diff_density_max         0.13
+_refine_diff_density_min         -0.15
+_refine_ls_extinction_coef       0.34(11)
+_refine_ls_extinction_method     'B-C type 2 (Becker & Coppens, 1974)'
+_refine_ls_goodness_of_fit_gt    1.16
+_refine_ls_goodness_of_fit_ref   1.16
+_refine_ls_hydrogen_treatment    none
+_refine_ls_number_constraints    0
+_refine_ls_number_parameters     8
+_refine_ls_number_reflns         127
+_refine_ls_number_restraints     0
+_refine_ls_R_factor_all          0.0187
+_refine_ls_R_factor_gt           0.0177
+_refine_ls_shift/su_max          0.0014
+_refine_ls_shift/su_mean         0.0008
+_refine_ls_structure_factor_coef Fsqd
+_refine_ls_weighting_details     w=1/(\s^2^(I)+0.000676I^2^)
+_refine_ls_weighting_scheme      sigma
+_refine_ls_wR_factor_gt          0.0454
+_refine_ls_wR_factor_ref         0.0464
+_reflns_number_gt                122
+_reflns_number_total             127
+_reflns_threshold_expression     I>3\s(I)
+_cod_data_source_file            ic062192qsi20061117_071415.cif
+_cod_data_source_block           (P(black))
+_cod_depositor_comments
+;
+The following automatic conversions were performed:
+'_exptl_absorpt_correction_type' value 'Numerical' changed to 'numerical'
+according to '/home/saulius/struct/CIF-dictionaries/cif_core.dic'
+dictionary named 'cif_core.dic' version 2.4.1 from 2010-06-29.
+
+Automatic conversion script
+Id: cif_fix_enum 1527 2010-12-29 10:47:43Z saulius 
+;
+_cod_original_sg_symbol_Hall     '-C -2zac;-2x'
+_cod_original_sg_symbol_H-M      'C m c e'
+_cod_original_formula_sum        P1
+_cod_database_code               4307698
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 x,1/2+y,1/2-z
+3 -x,y,z
+4 -x,1/2+y,1/2-z
+5 -x,-y,-z
+6 -x,1/2-y,1/2+z
+7 x,-y,-z
+8 x,1/2-y,1/2+z
+9 1/2+x,1/2+y,z
+10 1/2+x,y,1/2-z
+11 1/2-x,1/2+y,z
+12 1/2-x,y,1/2-z
+13 1/2-x,1/2-y,-z
+14 1/2-x,-y,1/2+z
+15 1/2+x,1/2-y,-z
+16 1/2+x,-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_adp_type
+_atom_site_U_iso_or_equiv
+_atom_site_symmetry_multiplicity
+_atom_site_occupancy
+_atom_site_calc_flag
+_atom_site_refinement_flags
+_atom_site_disorder_assembly
+_atom_site_disorder_group
+P1 P 0 0.10162(2) 0.08068(5) Uani 0.01203(15) 8 1 d . . .
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P 0.0090(3) 0.0139(3) 0.0132(3) 0 0 0.00131(7)
+loop_
+_atom_type_symbol
+_atom_type_scat_dispersion_real
+_atom_type_scat_dispersion_imag
+_atom_type_scat_source
+_atom_type_scat_Cromer_Mann_a1
+_atom_type_scat_Cromer_Mann_b1
+_atom_type_scat_Cromer_Mann_a2
+_atom_type_scat_Cromer_Mann_b2
+_atom_type_scat_Cromer_Mann_a3
+_atom_type_scat_Cromer_Mann_b3
+_atom_type_scat_Cromer_Mann_a4
+_atom_type_scat_Cromer_Mann_b4
+_atom_type_scat_Cromer_Mann_c
+P 0.102 0.094 'International Tables Vol C Tables  4.2.6.8 and 6.1.1.4' 6.4345
+1.9067 4.1791 27.157 1.78 0.526 1.4908 68.164497 1.1149
+loop_
+_geom_angle_atom_site_label_1
+_geom_angle_atom_site_label_2
+_geom_angle_atom_site_label_3
+_geom_angle_site_symmetry_1
+_geom_angle_site_symmetry_2
+_geom_angle_site_symmetry_3
+_geom_angle
+_geom_angle_publ_flag
+P1 P1 P1 5_555 . 10_455 102.113(9) yes
+P1 P1 P1 5_555 . 10_555 102.113(9) yes
+P1 P1 P1 10_455 . 5_555 102.113(9) yes
+P1 P1 P1 10_455 . 10_555 96.384(10) yes
+P1 P1 P1 10_555 . 5_555 102.113(9) yes
+P1 P1 P1 10_555 . 10_455 96.384(10) yes
+loop_
+_geom_bond_atom_site_label_1
+_geom_bond_atom_site_label_2
+_geom_bond_site_symmetry_1
+_geom_bond_site_symmetry_2
+_geom_bond_distance
+_geom_bond_publ_flag
+P1 P1 . 5_555 2.2448(3) yes
+P1 P1 . 10_455 2.2246(2) yes
+P1 P1 . 10_555 2.2246(2) yes
