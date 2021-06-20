@@ -1,5 +1,5 @@
 #%%
-# This script is to get all the site for comparison for benchmarking table
+# This script is to get all the site for comparison for analysis of s_det
 import subprocess
 import os
 from pathlib import Path
@@ -23,7 +23,7 @@ SaveAddress = './cifresults.csv'
 print("Start time:", datetime.now())
 
 cwd = os.path.abspath("../bin")
-cwd_exe =os.path.join(cwd,'softBV0405.exe')
+cwd_exe =os.path.join(cwd,'softBV_cnprint2.exe')
 
 file_num = len(cifFile)
 
@@ -68,12 +68,14 @@ def fillSitesFromStdout(stdout):
                 continue
     return Sites, name
 
-def fillSiteDic(Sites,cwd_exe,cif):
-    SiteDic = {}
+def fillSiteLists(Sites,cwd_exe,cif):
+    SiteLists = []
     for site in Sites.keys():
         Coor = [[]]
+        ionType, r, occ, n, s, BVS, s_ave, s_det = [], [], [], [], [], [], [], []
         center = ""
-        CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, capture_output=True)
+        #CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, capture_output=True)
+        CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, stdout=subprocess.PIPE)
         stdout = str(CalCNproc.stdout, "utf-8")
         stdout_lines = stdout.split("\r\n")
         for line in stdout_lines:
@@ -93,16 +95,26 @@ def fillSiteDic(Sites,cwd_exe,cif):
             if float(line[5]) <= CN:
                 Coor.append([line[2]])
                 Coor[-1].append((float(line[10]),float(line[11]),float(line[12])))
+            ionType.append(line[2])
+            r.append(float(line[3]))
+            occ.append(float(line[4]))
+            n.append(float(line[5]))
+            s.append(float(line[6]))
+            BVS.append(float(line[7]))
+            s_ave.append(float(line[8]))
+            s_det.append(float(line[9]))
         if len(center) != 0: 
-            SiteDic[center] = CN
+            #SiteDic[center] = CN
             #SiteDic[center]['CN'] = CN
             #SiteDic[center]['SDofBV'] = SDofBV
             #SiteDic[center]['Coordinates'] = Coor
             #SiteDic[center]['Element'] = Sites[site]['type']
             #SiteDic[center]['OS'] = Sites[site]['os']
+            row = [center, Sites[site]['type'], Sites[site]['os'], CN, ionType, r, occ, n, s, BVS, s_ave, s_det]
+            SiteLists.append(row)
         else: 
             print("Problematic cif:",cif,site)
-    return SiteDic
+    return SiteLists
 
 def calAngleToSiteDic(SiteDic):
     for site in SiteDic:
@@ -149,53 +161,46 @@ def calAngleDeg(V0,V1,V2):
     deg = deg.tolist()
     return deg
 
+def appendSiteLists(SiteTable, SiteLists, cif_name):
+    for sitelist in SiteLists:
+        row = [cif_name]
+        row.extend(sitelist)
+        SiteTable.append(row)
+    return SiteTable 
+
 # Load Unitary Database
 uni_df = UnitaryDF()
 
-# Main process to fill cifDic
-cifDic = {}
+# Main process to fill SiteList
+SiteTable = []
 for i,cif in enumerate(cifFile):
     cif_name =cif.split("\\")[-1][:-4]
     print("Currently proccessing:", cif_name, " Status:", i, "/", file_num," Current Time:", datetime.now())
-    cifDic[cif_name] = {}
-    process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd, capture_output=True)
+   #process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd, capture_output=True)
+    process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd,stdout=subprocess.PIPE)
     stdout = str(process.stdout, "utf-8")
     Sites, name = fillSitesFromStdout(stdout)
-    SiteDic = fillSiteDic(Sites,cwd_exe,cif)
+    SiteLists = fillSiteLists(Sites,cwd_exe,cif)
     #SiteDic = calAngleToSiteDic(SiteDic)
     #SiteDic = fillUniInfo(SiteDic, uni_df)
-    #cifDic[cif_name]['Sites'] = SiteDic
-    #cifDic[cif_name]['Name'] = name
-    cifDic[cif_name] = SiteDic
+    #SiteList[cif_name]['Sites'] = SiteDic
+    #SiteList[cif_name]['Name'] = name
+    SiteTable = appendSiteLists(SiteTable,SiteLists,cif_name)
 print("Processing Done!")
 
-df1 = pd.DataFrame(list(cifDic.items()),columns=['File','Coordination'])
-
+df1 = pd.DataFrame(SiteTable,columns=['File','Site','Type','OS','Coordination','ionType','r','occ','n','s','BVS','s_ave','s_det'],dtype=float)
 #%%
-# Process to get standard results for sample json
-JsonDir = os.path.abspath(os.path.join('..','test/json'))
-jsonFile = []
-for (r,d,f) in os.walk(JsonDir):
-    for fi in f:
-        if r.endswith(('A2BX4','ABX4','ABX3')):
-            jsonFile.append(os.path.join(r,fi))
-jsonDic = {}
-for i,js in enumerate(jsonFile):
-    fileName = js.split('\\')[-1][:-5]
-    with open(js) as j:
-        data = json.load(j)
-        siteSet = set()
-        for site in data['sites']:
-            siteSet.add((site['label'],sum([x[1] for x in site['properties']['coordination'].items()])))
-            #print(sum([x[1] for x in site['properties']['coordination'].items()]))
-            #print(site['label'])
-            #print(site['properties']['coordination'])
-        jsonDic[fileName] = siteSet
-        
-jsondf = pd.DataFrame(list(jsonDic.items()),columns=['File','Material-Coord Standard'])
-    
-# %%
-result = pd.merge(df1,jsondf,on=["File"])
-# %%
-result.to_excel("softBV-coord_compare.xlsx")
+dfcn4 = df1[df1['Coordination']==4]
+
+import matplotlib.pyplot as plt
+fig = plt.figure()
+ax1 = fig.add_subplot(111)
+
+
+for index, row in dfcn4.iterrows(): 
+    if index < 50:
+        ax1.scatter(row['n'],row['s_det'],label=row['Site']+"_"+row['File'])
+plt.legend(loc='right',bbox_to_anchor=(1.6,0.5));
+plt.show()
+
 # %%
