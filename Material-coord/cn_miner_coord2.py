@@ -23,7 +23,7 @@ SaveAddress = './cifresults.csv'
 print("Start time:", datetime.now())
 
 cwd = os.path.abspath("../bin")
-cwd_exe =os.path.join(cwd,'softBV_cnprint2.exe')
+cwd_exe =os.path.join(cwd,'softBV_cn425.exe')
 
 file_num = len(cifFile)
 
@@ -234,14 +234,14 @@ for index, row in dfcn6.iterrows():
 plt.show()
 
 # %%
-dfcn6 = df1[df1['Coordination']==6]
+dfcn6 = df1[(df1['Coordination']==6) & (df1['OS']>0)]
 
 import matplotlib.pyplot as plt
 fig = plt.figure(figsize=(7,8.5))
 ax1 = fig.add_subplot(111)
 ax1.xaxis.set_tick_params(labelsize=20)
 ax1.yaxis.set_tick_params(labelsize=20)
-ax1.set_xlim(0,11)
+ax1.set_xlim(0,12)
 
 ax1.plot([0, 12], [4.5, 4.5], color='red',lw=5)
 
@@ -253,7 +253,7 @@ for index, row in dfcn6.iterrows():
 
 plt.show()
 # %%
-dfcn4 = df1[df1['Coordination']==4]
+dfcn4 = df1[(df1['Coordination']==4) & (df1['OS']>0)]
 
 import matplotlib.pyplot as plt
 fig = plt.figure(figsize=(7,8.5))
@@ -294,7 +294,7 @@ for index, row in dfcn.iterrows():
 #plt.title("Bond Valence Determinant plot for sites with coordination number 5",fontsize=20)
 plt.show()
 # %%
-dfcn = df1[df1['Coordination']==8]
+dfcn = df1[df1['Coordination']==3]
 
 import matplotlib.pyplot as plt
 fig = plt.figure(figsize=(7,8.5))
