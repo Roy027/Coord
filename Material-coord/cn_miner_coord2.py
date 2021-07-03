@@ -23,7 +23,7 @@ SaveAddress = './cifresults.csv'
 print("Start time:", datetime.now())
 
 cwd = os.path.abspath("../bin")
-cwd_exe =os.path.join(cwd,'softBV_cnprint2.exe')
+cwd_exe =os.path.join(cwd,'softBV_cn425.exe')
 
 file_num = len(cifFile)
 
@@ -74,8 +74,8 @@ def fillSiteLists(Sites,cwd_exe,cif):
         Coor = [[]]
         ionType, r, occ, n, s, BVS, s_ave, s_det = [], [], [], [], [], [], [], []
         center = ""
-        #CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, capture_output=True)
-        CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, stdout=subprocess.PIPE)
+        CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, capture_output=True)
+        #CalCNproc = subprocess.run([cwd_exe, "--cal-cn-bv", cif, site], cwd=cwd, stdout=subprocess.PIPE)
         stdout = str(CalCNproc.stdout, "utf-8")
         stdout_lines = stdout.split("\r\n")
         for line in stdout_lines:
@@ -176,8 +176,8 @@ SiteTable = []
 for i,cif in enumerate(cifFile):
     cif_name =cif.split("\\")[-1][:-4]
     print("Currently proccessing:", cif_name, " Status:", i, "/", file_num," Current Time:", datetime.now())
-   #process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd, capture_output=True)
-    process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd,stdout=subprocess.PIPE)
+    process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd, capture_output=True)
+    #process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd,stdout=subprocess.PIPE)
     stdout = str(process.stdout, "utf-8")
     Sites, name = fillSitesFromStdout(stdout)
     SiteLists = fillSiteLists(Sites,cwd_exe,cif)
@@ -193,14 +193,124 @@ df1 = pd.DataFrame(SiteTable,columns=['File','Site','Type','OS','Coordination','
 dfcn4 = df1[df1['Coordination']==4]
 
 import matplotlib.pyplot as plt
-fig = plt.figure()
+fig = plt.figure(figsize=(7,12))
+ax1 = fig.add_subplot(211)
+ax2 = fig.add_subplot(212)
+ax1.set_xlim(0,9)
+ax2.set_xlim(0,9)
+ax1.plot([0, 12], [4.5, 4.5], color='red')
+ax2.plot([0, 12], [4.5, 4.5], color='red')
+
+for index, row in dfcn4.iterrows(): 
+    if index < 60:
+        ax1.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'])
+        ax1.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+    else:
+        ax2.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'])
+        ax2.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+#plt.legend(loc='right',bbox_to_anchor=(1.6,0.5));
+plt.show()
+
+# %%
+dfcn6 = df1[df1['Coordination']==6]
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(7,12))
+ax1 = fig.add_subplot(211)
+ax2 = fig.add_subplot(212)
+ax1.set_xlim(0,11)
+ax2.set_xlim(0,11)
+ax1.plot([0, 12], [4.5, 4.5], color='red')
+ax2.plot([0, 12], [4.5, 4.5], color='red')
+
+for index, row in dfcn6.iterrows(): 
+    if index < 55:
+        ax1.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'])
+        ax1.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+    else:
+        ax2.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'])
+        ax2.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+
+plt.show()
+
+# %%
+dfcn6 = df1[(df1['Coordination']==6) & (df1['OS']>0)]
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(7,8.5))
 ax1 = fig.add_subplot(111)
+ax1.xaxis.set_tick_params(labelsize=20)
+ax1.yaxis.set_tick_params(labelsize=20)
+ax1.set_xlim(0,12)
+
+ax1.plot([0, 12], [4.5, 4.5], color='red',lw=5)
+
+
+for index, row in dfcn6.iterrows(): 
+    ax1.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'],linewidths=5)
+    ax1.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+    
+
+plt.show()
+# %%
+dfcn4 = df1[(df1['Coordination']==4) & (df1['OS']>0)]
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(7,8.5))
+ax1 = fig.add_subplot(111)
+ax1.xaxis.set_tick_params(labelsize=20)
+ax1.yaxis.set_tick_params(labelsize=20)
+ax1.set_xlim(0,11)
+
+ax1.plot([0, 12], [4.5, 4.5], color='red',lw=5)
 
 
 for index, row in dfcn4.iterrows(): 
-    if index < 50:
-        ax1.scatter(row['n'],row['s_det'],label=row['Site']+"_"+row['File'])
-plt.legend(loc='right',bbox_to_anchor=(1.6,0.5));
+    ax1.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'],linewidths=5)
+    ax1.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+    
+
 plt.show()
 
+# %%
+#'Coordination'==5
+dfcn = df1[df1['Coordination']==5]
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(7,8.5))
+ax1 = fig.add_subplot(111)
+ax1.set_xlabel('Coodinating ions ranked by bond valence', fontsize=20)
+ax1.set_ylabel('Bond Valence Determinant(s_det)', fontsize=20)
+ax1.xaxis.set_tick_params(labelsize=20)
+ax1.yaxis.set_tick_params(labelsize=20)
+ax1.set_xlim(0,11)
+
+ax1.plot([0, 12], [4.5, 4.5], color='red',lw=5)
+
+for index, row in dfcn.iterrows(): 
+    ax1.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'],linewidths=5)
+    ax1.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+
+#plt.title("Bond Valence Determinant plot for sites with coordination number 5",fontsize=20)
+plt.show()
+# %%
+dfcn = df1[df1['Coordination']==3]
+
+import matplotlib.pyplot as plt
+fig = plt.figure(figsize=(7,8.5))
+ax1 = fig.add_subplot(111)
+ax1.set_xlabel('Coodinating ions ranked by bond valence', fontsize=20)
+ax1.set_ylabel('Bond Valence Determinant(s_det)', fontsize=20)
+ax1.xaxis.set_tick_params(labelsize=20)
+ax1.yaxis.set_tick_params(labelsize=20)
+ax1.set_xlim(0,13)
+
+ax1.plot([0, 12], [4.5, 4.5], color='red',lw=5)
+
+for index, row in dfcn.iterrows(): 
+    ax1.scatter(row['n'],row['s_det'],label=row['Site']+", "+row['File'],linewidths=5)
+    ax1.legend(loc='right',bbox_to_anchor=(1.6,0.5))
+
+#plt.title("Bond Valence Determinant plot for sites with coordination number 5",fontsize=20)
+plt.show()
 # %%
