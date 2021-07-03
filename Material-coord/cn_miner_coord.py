@@ -11,7 +11,7 @@ import time
 from datetime import datetime
 
 # Check the following addresses before running the script
-FileDir = os.path.abspath(os.path.join('..','test/coord_cif/Ternary'))
+FileDir = os.path.abspath(os.path.join('..','test/coord_cif/Binary'))
 GroupDir = [folder for folder in os.scandir(FileDir) if folder.is_dir()]
 cifFile = []
 for (r,d,f) in os.walk(FileDir):
@@ -23,7 +23,7 @@ SaveAddress = './cifresults.csv'
 print("Start time:", datetime.now())
 
 cwd = os.path.abspath("../bin")
-cwd_exe =os.path.join(cwd,'softBV0405.exe')
+cwd_exe =os.path.join(cwd,'softBV_cnprint2.exe')
 
 file_num = len(cifFile)
 
@@ -177,7 +177,7 @@ JsonDir = os.path.abspath(os.path.join('..','test/json'))
 jsonFile = []
 for (r,d,f) in os.walk(JsonDir):
     for fi in f:
-        if r.endswith(('A2BX4','ABX4','ABX3')):
+        if r.endswith(('common_binaries')):
             jsonFile.append(os.path.join(r,fi))
 jsonDic = {}
 for i,js in enumerate(jsonFile):
@@ -197,5 +197,5 @@ jsondf = pd.DataFrame(list(jsonDic.items()),columns=['File','Material-Coord Stan
 # %%
 result = pd.merge(df1,jsondf,on=["File"])
 # %%
-result.to_excel("softBV-coord_compare.xlsx")
+result.to_excel("softBV-coord_compare_binary.xlsx")
 # %%
