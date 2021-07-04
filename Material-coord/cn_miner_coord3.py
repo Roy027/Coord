@@ -111,8 +111,7 @@ def fillSiteLists(Sites, cwd_exe, cif, bv_cutoff, min_percent):
             print("Problematic cif:",cif,site)
     return SiteLists
 
-def appendSiteLists(SiteLists, cif_name):
-    SiteTable = []
+def appendSiteLists(SiteTable, SiteLists, cif_name):   
     for sitelist in SiteLists:
         row = [cif_name]
         row.extend(sitelist)
@@ -127,10 +126,12 @@ uni_df = UnitaryDF()
 BV_CUTOFF = [4, 4.25, 4.5, 4.75, 5]
 MIN_PERCENT = [0.02, 0.025, 0.03, 0.035, 0.04]
 
+#2D arrary stores the dataframe for various parameters
 df_map = [[i for i in range(5)] for _ in range(5)]
 
 for a in range(5):
     for b in range(5):
+        SiteTable = []
         for i,cif in enumerate(cifFile):
             cif_name =cif.split("\\")[-1][:-4]
             print("Currently proccessing:", cif_name, " Status:", i, "/", file_num," Current Time:", datetime.now())
@@ -138,12 +139,27 @@ for a in range(5):
             stdout = str(process.stdout, "utf-8")
             Sites, name = fillSitesFromStdout(stdout)
             SiteLists = fillSiteLists(Sites,cwd_exe,cif,BV_CUTOFF[a],MIN_PERCENT[b])
-            SiteTable = appendSiteLists(SiteLists,cif_name)
+            SiteTable = appendSiteLists(SiteTable,SiteLists,cif_name)
         print("Processing Done for", "BV_CUTOFF:", BV_CUTOFF[a], " min_percent:", MIN_PERCENT[b])
         df_map[a][b] = pd.DataFrame(SiteTable,columns=['File','Site','Type','OS','CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])],dtype=float)
 #%%
 #df1.to_excel("softBV-coord_mix.xlsx")
 df_std = pd.read_excel('.\softBV-coord_mix.xlsx',index_col=0)
 
+# %%
+variance_map = [[i for i in range(5)] for _ in range(5)]
+for a in range(5):
+    for b in range(5):
+        variance_map[a][b] = (df_map[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std["MC_CN"]).pow(1/2).sum()
+
+BV_CUTOFF_col = [str(i) for i in BV_CUTOFF]
+MIN_PERCENT_row = [str(i) for i in MIN_PERCENT]
+variance_df = pd.DataFrame(variance_map,columns=BV_CUTOFF_col,index=MIN_PERCENT_row)
+# %%
+variance_cat_map = [[i for i in range(5)] for _ in range(5)]
+for a in range(5):
+    for b in range(5):
+        variance_cat_map[a][b] = (df_map[a][b][df_map[a][b]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std[df_std['OS']>0]["MC_CN"]).pow(1/2).sum()
+variance_cat_df = pd.DataFrame(variance_cat_map,columns=BV_CUTOFF_col,index=MIN_PERCENT_row)
 
 # %%
