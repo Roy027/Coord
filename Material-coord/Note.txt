@@ -1,0 +1,7 @@
+BV_CUTOFF 4.5 min_percent: 0.025 
+BaZnF4_182604	Ba1	Ba	2	11
+CePO4_monazite_79746	Ce1	Ce	3	10
+
+BV_CUTOFF 4.5 min_percent: 0.03
+BaZnF4_182604	Ba1	Ba	2	10
+CePO4_monazite_79746	Ce1	Ce	3
