@@ -11,6 +11,16 @@ import json
 import time
 from datetime import datetime
 
+# Input parameter
+BV_CUTOFF = [4, 4.25, 4.5, 4.75, 5, 5.25, 5.5, 5.75, 6, 6.25, 6.5, 6.75, 7, 7.25, 7.5, 7.75, 8]
+MIN_PERCENT = [0.02, 0.025, 0.03, 0.035, 0.04, 0.045, 0.05]
+p_PVS_min = '0.80'
+Save_address = 'bv_cutoff_min_percent_BVS80percent.xlsx'
+variance_address = "variance_80percent.xlsx"
+
+La = len(BV_CUTOFF)
+Lb = len(MIN_PERCENT)
+
 # Check the following addresses before running the script
 FileDir = os.path.abspath(os.path.join('..','test/coord_cif'))
 GroupDir = [folder for folder in os.scandir(FileDir) if folder.is_dir()]
@@ -19,12 +29,11 @@ for (r,d,f) in os.walk(FileDir):
     for fi in f:
         if fi.endswith('.cif') and r.endswith(('Binary','A2BX4','ABX3','ABX4')):
             cifFile.append(os.path.join(r,fi))
-SaveAddress = './cifresults.csv'
 
 print("Start time:", datetime.now())
 
 cwd = os.path.abspath("../bin")
-cwd_exe =os.path.join(cwd,'softBV_CN_test.exe')
+cwd_exe =os.path.join(cwd,'softBV_CN_test1.exe')
 
 file_num = len(cifFile)
 
@@ -125,14 +134,12 @@ uni_df = UnitaryDF()
 # Main process to populate the 
 
 #2D arrary stores the dataframe for various parameters
-df_map1 = [[i for i in range(7)] for _ in range(13)]
+df_map = [[i for i in range(Lb)] for _ in range(La)]
 
-BV_CUTOFF = [4, 4.25, 4.5, 4.75, 5, 5.25, 5.5, 5.75, 6, 6.25, 6.5, 6.75, 7]
-MIN_PERCENT = [0.02, 0.025, 0.03, 0.035, 0.04, 0.045, 0.05]
 
-for a in range(13):
-    for b in range(7):
-        if a < 4 and b < 4: continue
+for a in range(La):
+    for b in range(Lb):
+        #if a < 4 or b < 4: continue
         SiteTable = []
         for i,cif in enumerate(cifFile):
             cif_name =cif.split("\\")[-1][:-4]
@@ -140,44 +147,44 @@ for a in range(13):
             process = subprocess.run([cwd_exe, "--print-cell", cif], cwd=cwd, capture_output=True)
             stdout = str(process.stdout, "utf-8")
             Sites, name = fillSitesFromStdout(stdout)
-            SiteLists = fillSiteLists(Sites,cwd_exe,cif,BV_CUTOFF[a],MIN_PERCENT[b],'0.75')
+            SiteLists = fillSiteLists(Sites,cwd_exe,cif,BV_CUTOFF[a],MIN_PERCENT[b], p_PVS_min)
             SiteTable = appendSiteLists(SiteTable,SiteLists,cif_name)
         print("Processing Done for", "BV_CUTOFF:", BV_CUTOFF[a], " min_percent:", MIN_PERCENT[b])
-        df_map1[a][b] = pd.DataFrame(SiteTable,columns=['File','Site','Type','OS','CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])],dtype=float)
-        
+        df_map[a][b] = pd.DataFrame(SiteTable,columns=['File','Site','Type','OS','CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])],dtype=float)
 
-#df_std = pd.read_excel('.\softBV-coord_mix.xlsx',index_col=0)
-
-# %%
 df_std = pd.read_excel('.\softBV-coord_mix.xlsx',index_col=0)
+
+df_result = pd.DataFrame()
+df_result = df_std[["File",'Type','OS','MC_CN']]
+for a in range(La):
+    for b in range(Lb):
+        df_result['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] = df_map[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])]
+df_result.to_excel(Save_address)
+# %%
 
 BV_CUTOFF_col = [str(i) for i in BV_CUTOFF]
 MIN_PERCENT_row = [str(i) for i in MIN_PERCENT]
 #variance_df = pd.DataFrame(variance_map,columns=BV_CUTOFF_col,index=MIN_PERCENT_row)
-variance_cat_map = [[None for i in range(7)] for _ in range(13)]
-diff_cat_map = [[None for i in range(7)] for _ in range(13)]
-
-for a in range(13):
-    for b in range(7):
-        if a < 4 and b < 4: continue
-        variance_cat_map[a][b] = (df_map1[a][b][df_map1[a][b]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std[df_std['OS']>0]["MC_CN"]).pow(2).sum()
-        diff_cat_map[a][b] = len((df_map1[a][b][df_map1[a][b]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std[df_std['OS']>0]["MC_CN"]).to_numpy().nonzero()[0])
+variance_cat_map = [[i for i in range(Lb)] for _ in range(La)]
+diff_cat_map = [[i for i in range(Lb)] for _ in range(La)]
+for a in range(La):
+    for b in range(Lb):
+        variance_cat_map[a][b] = (df_map[a][b][df_map[a][b]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std[df_std['OS']>0]["MC_CN"]).pow(2).sum()
+        diff_cat_map[a][b] = len((df_map[a][b][df_map[a][b]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std[df_std['OS']>0]["MC_CN"]).to_numpy().nonzero()[0])
 variance_cat_df = pd.DataFrame(variance_cat_map,columns=MIN_PERCENT_row,index=BV_CUTOFF_col)
 diff_cat_df = pd.DataFrame(diff_cat_map,columns=MIN_PERCENT_row,index=BV_CUTOFF_col)
 
-variance_map = [[None for i in range(7)] for _ in range(13)]
-diff_map = [[None for i in range(7)] for _ in range(13)]
-for a in range(13):
-    for b in range(7):
-        if a < 4 and b < 4: continue
-        variance_map[a][b] = (df_map1[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std["MC_CN"]).pow(2).sum()
-        diff_map[a][b] = len((df_map1[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std["MC_CN"]).to_numpy().nonzero()[0])
+variance_map = [[i for i in range(Lb)] for _ in range(La)]
+diff_map = [[i for i in range(Lb)] for _ in range(La)]
+for a in range(La):
+    for b in range(Lb):
+        variance_map[a][b] = (df_map[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std["MC_CN"]).pow(2).sum()
+        diff_map[a][b] = len((df_map[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std["MC_CN"]).to_numpy().nonzero()[0])
 variance_df = pd.DataFrame(variance_map,columns=MIN_PERCENT_row,index=BV_CUTOFF_col)
 diff_df = pd.DataFrame(diff_map,columns=MIN_PERCENT_row,index=BV_CUTOFF_col)
-# %%
-with pd.ExcelWriter("variance_70percent.xlsx") as f:
+
+with pd.ExcelWriter(variance_address) as f:
     variance_cat_df.to_excel(f,sheet_name='variance_cat')
     variance_df.to_excel(f,sheet_name='variance_all')
     diff_cat_df.to_excel(f,sheet_name='diff_cat')
     diff_df.to_excel(f,sheet_name='diff_all')
-# %%

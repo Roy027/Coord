@@ -175,3 +175,11 @@ for a in range(5):
     for b in range(5):
         df_result['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] = df_map[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])]
 # %%
+df_resultX = pd.read_excel('./bv_cutoff_min_percent.xlsx')
+# %%
+variance_map = [[i for i in range(5)] for _ in range(5)]
+for a in range(5):
+    for b in range(5):
+        variance_map[a][b] = (df_resultX['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] - df_std["MC_CN"]).pow(2).sum()
+variance_df = pd.DataFrame(variance_map,columns=MIN_PERCENT_row,index=BV_CUTOFF_col)
+# %%
