@@ -155,7 +155,7 @@ for a in range(La):
 df_std = pd.read_excel('.\softBV-coord_mix.xlsx',index_col=0)
 
 df_result = pd.DataFrame()
-df_result = df_std[["File",'Type','OS','MC_CN']]
+df_result = df_std[["File",'Type','OS','MC_CN']].copy()
 for a in range(La):
     for b in range(Lb):
         df_result['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])] = df_map[a][b]['CN_'+str(BV_CUTOFF[a])+'_'+str(MIN_PERCENT[b])]

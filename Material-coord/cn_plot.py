@@ -18,7 +18,7 @@ for col in df:
         df[col] = df[col].apply(convertfloat)
 
 # %%
-dfcn4 = df[(df['Coordination']==4) & (df['OS']>0)]
+dfcn4 = df[(df['Coordination']==6) & (df['OS']>0)]
 
 import matplotlib.pyplot as plt
 fig = plt.figure(figsize=(7,6))
@@ -26,8 +26,10 @@ ax1 = fig.add_subplot(111)
 ax1.xaxis.set_tick_params(labelsize=20)
 ax1.yaxis.set_tick_params(labelsize=20)
 ax1.set_xlim(0,11)
+ax1.set_xlabel('Running Coordination Number $N_{RCN}$', fontsize=18)
+ax1.set_ylabel('Bond Valence Coordination Number \n Determinant $N_{det}$', fontsize=16)
 
-ax1.plot([0, 12], [4.5, 4.5], color='red',lw=5)
+#ax1.plot([0, 12], [4.5, 4.5], color='red',lw=5)
 
 
 for index, row in dfcn4.iterrows(): 
