@@ -11,9 +11,9 @@ import time
 from datetime import datetime
 
 # Input parameter
-BV_CUTOFF = [2.8,4.5]
+BV_CUTOFF = [2.8,4.25,4.5]
 BV_MIN_PCT = [0.01,0.02,0.03]
-cumBVS_min_pct = [0.70]
+cumBVS_min_pct = [0.5,0.70]
 Save_address = 'CN_compare_MC.xlsx'
 softBV_exe = 'softBV_CN_break.exe'
 
@@ -157,7 +157,7 @@ for a in range(La):
                                                                str(BV_MIN_PCT[b])+'_'+\
                                                                str(cumBVS_min_pct[c])   ],dtype=float)
 
-#%%
+
 df_std = pd.read_excel('.\CN_by_material-coord.xlsx',index_col=0)
 
 df_result = pd.DataFrame()
