@@ -162,17 +162,20 @@ df_std = pd.read_excel('.\CN_by_material-coord.xlsx',index_col=0)
 
 df_result = pd.DataFrame()
 df_result = df_std[["File",'Type','OS','CN_by_MC']]
-df_compare = df_std[["File",'Type','OS','CN_by_MC']]
+para_str_list, stddif_list,diffsite_list = [],[],[]
 for a in range(La):
     for b in range(Lb):
         for c in range(Lc):
-            df_result['softNV_CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] = \
-             df_map[a][b][c]['CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])]
-            df_compare['softNV_stddif_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] = \
-             (df_map[a][b][c][df_map[a][b][c]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] - df_std[df_std['OS']>0]["CN_by_MC"]).std()
-            df_compare['softNV_diffSite_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] = \
-             len((df_map[a][b][c][df_map[a][b][c]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] - df_std[df_std['OS']>0]["CN_by_MC"]).to_numpy().nonzero()[0])
+            para_str = str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])
+            para_str_list.append(para_str)
+            df_result['softNV_CN_'+para_str] = df_map[a][b][c]['CN_'+para_str]
+            stddif_list.append((df_map[a][b][c][df_map[a][b][c]['OS']>0]['CN_'+para_str] -\
+                                df_std[df_std['OS']>0]["CN_by_MC"]).std())
+            diffsite_list.append(len((df_map[a][b][c][df_map[a][b][c]['OS']>0]['CN_'+para_str] -\
+                                      df_std[df_std['OS']>0]["CN_by_MC"]).to_numpy().nonzero()[0]))
 df_result.to_excel("CN_MC_compared_softBV_break.xlsx")
+df_compare =  pd.DataFrame(list(zip(para_str_list,stddif_list,diffsite_list)),
+                            columns=['Parameters','Standard Difference','Number of different occurrence'])
 df_compare.to_excel("CN_MC_compared_softBV_break_cal.xlsx")
 # %%
 
