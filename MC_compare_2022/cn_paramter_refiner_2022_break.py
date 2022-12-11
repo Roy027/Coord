@@ -168,7 +168,7 @@ for a in range(La):
         for c in range(Lc):
             df_result['softNV_CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] = \
              df_map[a][b][c]['CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])]
-            df_compare['softNV_stdev_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] = \
+            df_compare['softNV_stddif_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] = \
              (df_map[a][b][c][df_map[a][b][c]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] - df_std[df_std['OS']>0]["CN_by_MC"]).std()
             df_compare['softNV_diffSite_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] = \
              len((df_map[a][b][c][df_map[a][b][c]['OS']>0]['CN_'+str(BV_CUTOFF[a])+'_'+str(BV_MIN_PCT[b])+'_'+str(cumBVS_min_pct[c])] - df_std[df_std['OS']>0]["CN_by_MC"]).to_numpy().nonzero()[0])
