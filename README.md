@@ -1,29 +1,38 @@
-# Coord-ML (Coordination Geometric Analysis & Machine Learning)
+# Coord-ML: Hybrid Physics-Informed Machine Learning for Crystal Coordination
 
-A specialized toolkit for analyzing, extracting, and classifying coordination environments in crystal structures. This project extends standard coordination benchmarks with 3D Geometric Descriptors (Plane Normal Dot Products) and Neural Network-based classification.
+A professional hybrid pipeline for analyzing and classifying coordination environments in inorganic crystals. **Coord-ML** bridges the gap between traditional crystallography and modern AI by integrating **softBV** physics-based extraction with **Neural Network** 3D geometry classification.
 
-## Features
+## The Hybrid Pipeline
 
-- **Geometric Feature Engineering**: Compute plane normal dot products to fingerprint 3D symmetry.
-- **softBV Wrapper**: Automated extraction of coordination numbers from CIF files via `softBV`.
-- **Geometry Classification**: Neural networks to classify 4-coordinate environments (T-4, SP-4, etc.).
-- **Benchmarking**: Integrated with industry-standard coordination benchmarks.
+Unlike "black-box" AI models, Coord-ML uses a domain-specific three-stage process:
+1.  **Physics-Based Extraction**: Utilizes `softBV` (Bond Valence Sum theory) to accurately identify bonded neighbors and coordination numbers (CN) from CIF files.
+2.  **Geometric Feature Engineering**: Transforms raw 3D coordinates into a unique symmetry fingerprint using **Plane Normal Dot Products**. This captures the underlying symmetry while remaining robust to bond-length distortions.
+3.  **Neural Network Classification**: Employs a trained **Multi-layer Perceptron (MLP)** to recognize 3D geometries (e.g., T-4, SP-4, SS-4) from the geometric fingerprints.
 
-## Academic Acknowledgments
+## Key Features
 
-This toolkit utilizes the benchmarking infrastructure and foundational logic provided by the **MaterialsCoord** project (published in *Inorganic Chemistry*, 2021). Our work extends this by introducing 3D Geometric Descriptors and Machine Learning-based classification.
+- **Automated softBV Wrapper**: Seamlessly extract coordination data from bulk crystallographic datasets.
+- **Symmetry Fingerprinting**: High-dimensional geometric descriptors that outperform simple bond-angle metrics.
+- **Pre-trained Classifiers**: Specialized models for 4-coordinate environments, with infrastructure to extend to higher coordination numbers.
+- **Benchmarking Integration**: Built on the foundational logic of the `MaterialsCoord` benchmarking suite.
 
-If you use this toolkit, please cite:
-- *Waroquiers, S., et al. (2021). Benchmarking Coordination Number Prediction Algorithms. Inorganic Chemistry.* (For the core benchmarking framework).
-- *Dai, R. (2021). Coord-ML: Geometric Descriptors and ML for Coordination Environments.* (For the geometric analysis and classification models).
+## Scientific Acknowledgments
+
+This toolkit is built upon several foundational works in the field:
+- **softBV**: Physics-based neighbor extraction utilizes the `softBV` software suite. [http://www.softbv.com/](http://www.softbv.com/)
+- **MaterialsCoord**: Core benchmarking infrastructure is based on the *MaterialsCoord* project (*Waroquiers et al., Inorganic Chemistry, 2021*).
 
 ## Installation
+
+### Prerequisites
+- Python 3.8+
+- [softBV executables](http://www.softbv.com/) (required for the extraction stage)
 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Roy027/Coord.git
-   cd Coord
+   git clone https://github.com/Roy027/Coord-ML.git
+   cd Coord-ML
    ```
 
 2. Install dependencies:
@@ -31,45 +40,38 @@ If you use this toolkit, please cite:
    pip install -r requirements.txt
    ```
 
-3. Install the package in editable mode:
+3. Install the package:
    ```bash
    pip install -e .
    ```
 
 ## Quick Start
 
-### 1. Extracting Coordination
 ```python
 from coord_ml.extraction.softbv import SoftBVExtractor
-
-extractor = SoftBVExtractor(bin_dir="path/to/bin")
-site_dic = extractor.extract_site_dic("path/to/crystal.cif", sites={"Fe": {"type": "Fe", "os": "3"}})
-```
-
-### 2. Computing Geometric Descriptors
-```python
 from coord_ml.geometry import coordinates_to_planes, planes_to_dot_products
-
-planes = coordinates_to_planes(site_dic["Fe"]["coordinates"])
-dots = planes_to_dot_products(planes)
-```
-
-### 3. Classifying Geometry
-```python
 from coord_ml.ml import CoordinationClassifier
 
+# 1. Extract coordination using softBV
+extractor = SoftBVExtractor(bin_dir="data/bin")
+site_data = extractor.extract_site_dic("my_crystal.cif", sites={"Li1": {"type": "Li", "os": "1"}})
+
+# 2. Generate Geometric Fingerprint
+coords = site_data["Li1"]["coordinates"]
+planes = coordinates_to_planes(coords)
+fingerprint = planes_to_dot_products(planes)
+
+# 3. Classify 3D Geometry
 clf = CoordinationClassifier()
-predictions, probs = clf.predict(new_features)
+# clf.train(X_train, y_labels) # Train or load a model
+prediction, confidence = clf.predict([fingerprint])
+print(f"Detected Geometry: {prediction[0]}")
 ```
 
-## Project Structure
+## Citation
 
-- `src/coord_ml/`: Main package source code.
-- `data/training/`: Training datasets for ML models.
-- `notebooks/`: Tutorial and demonstration notebooks.
-- `legacy/`: Original research scripts and directories.
-- `tests/`: Automated unit tests.
+If you use this toolkit in your research, please cite:
+*Dai, R. (2021). Coord-ML: Hybrid Physics-Informed Machine Learning for Crystal Coordination Environments.*
 
-## License
-
-Refer to individual file headers for original `MaterialsCoord` copyright. New contributions are provided under the MIT License.
+---
+*Developed by Roy Dai. This project is intended for research and educational purposes in the field of computational materials science.*
