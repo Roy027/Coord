@@ -10,7 +10,7 @@ nn_methods = [
 ]
 
 
-from materialscoord.core import Benchmark
+from coord_ml.core import Benchmark
 
 structure_groups = ["A2BX4", "ABX3", "ABX4"]
 
@@ -26,8 +26,8 @@ import numpy as np
 softBV_result = pd.read_excel('cation_score.xlsx',index_col=0,dtype={'softBV':np.float64})
 # %%
 from pathlib import Path
-from materialscoord import structure_mapping
-from materialscoord.plot import plot_benchmark_scores
+from coord_ml import structure_mapping
+from coord_ml.plot import plot_benchmark_scores
 nn_method_mapping = {"BrunnerNN_reciprocal": "BrunnerNN"}
 plt = plot_benchmark_scores(softBV_result,structure_mapping=structure_mapping,nn_method_mapping=nn_method_mapping)
 #plt.savefig(Path("plots", "ternary-cation.pdf"), bbox_inches='tight')

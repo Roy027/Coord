@@ -165,4 +165,4 @@ test/Sample_json/
 *.exe
 *.dll
 *.mat
-!src/materialscoord/data/*
+!src/coord_ml/data/*

@@ -1,6 +1,6 @@
 import numpy as np
 import pytest
-from materialscoord.ml import CoordinationClassifier
+from coord_ml.ml import CoordinationClassifier
 
 def test_classifier_init():
     clf = CoordinationClassifier(hidden_layer_sizes=(8,))

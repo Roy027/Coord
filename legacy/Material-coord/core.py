@@ -14,9 +14,9 @@ from pymatgen.analysis.local_env import NearNeighbors
 from pymatgen.core.structure import Structure
 from pymatgen.symmetry.analyzer import SpacegroupAnalyzer
 
-from materialscoord.einstein_crystal_perturbation import perturb_einstein_crystal
+from coord_ml.einstein_crystal_perturbation import perturb_einstein_crystal
 
-_resource_dir = resource_filename("materialscoord", "structures")
+_resource_dir = resource_filename("coord_ml", "structures")
 _vire_re = re.compile("[^a-zA-Z]+")
 _el_re = re.compile(r"[\d+-.]*")
 

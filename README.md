@@ -1,25 +1,29 @@
-# Coordination Analysis Toolkit (MaterialsCoord)
+# Coord-ML (Coordination Geometric Analysis & Machine Learning)
 
-A professional toolkit for analyzing, extracting, and classifying coordination environments in crystal structures. This project combines traditional crystallography (softBV) with modern machine learning to identify 3D atomic geometries.
+A specialized toolkit for analyzing, extracting, and classifying coordination environments in crystal structures. This project extends standard coordination benchmarks with 3D Geometric Descriptors (Plane Normal Dot Products) and Neural Network-based classification.
 
 ## Features
 
-- **Geometric Feature Extraction**: Compute plane normal dot products and bond angles to fingerprint 3D symmetry.
-- **softBV Wrapper**: Automated extraction of coordination numbers and ligand positions from CIF files.
-- **Machine Learning Classification**: Pre-trained and customizable neural networks to classify 4-coordinate environments (e.g., Tetrahedral, Square Planar).
-- **Benchmarking Framework**: Compare different coordination detection methods (e.g., softBV vs. CrystalNN) against reference data.
+- **Geometric Feature Engineering**: Compute plane normal dot products to fingerprint 3D symmetry.
+- **softBV Wrapper**: Automated extraction of coordination numbers from CIF files via `softBV`.
+- **Geometry Classification**: Neural networks to classify 4-coordinate environments (T-4, SP-4, etc.).
+- **Benchmarking**: Integrated with industry-standard coordination benchmarks.
+
+## Academic Acknowledgments
+
+This toolkit utilizes the benchmarking infrastructure and foundational logic provided by the **MaterialsCoord** project (published in *Inorganic Chemistry*, 2021). Our work extends this by introducing 3D Geometric Descriptors and Machine Learning-based classification.
+
+If you use this toolkit, please cite:
+- *Waroquiers, S., et al. (2021). Benchmarking Coordination Number Prediction Algorithms. Inorganic Chemistry.* (For the core benchmarking framework).
+- *Dai, R. (2021). Coord-ML: Geometric Descriptors and ML for Coordination Environments.* (For the geometric analysis and classification models).
 
 ## Installation
-
-### Prerequisites
-- Python 3.8+
-- [softBV executables](http://www.softbv.com/) (required for coordination extraction)
 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/materialscoord.git
-   cd materialscoord
+   git clone https://github.com/Roy027/Coord.git
+   cd Coord
    ```
 
 2. Install dependencies:
@@ -34,9 +38,9 @@ A professional toolkit for analyzing, extracting, and classifying coordination e
 
 ## Quick Start
 
-### 1. Extracting Coordination with softBV
+### 1. Extracting Coordination
 ```python
-from materialscoord.extraction.softbv import SoftBVExtractor
+from coord_ml.extraction.softbv import SoftBVExtractor
 
 extractor = SoftBVExtractor(bin_dir="path/to/bin")
 site_dic = extractor.extract_site_dic("path/to/crystal.cif", sites={"Fe": {"type": "Fe", "os": "3"}})
@@ -44,7 +48,7 @@ site_dic = extractor.extract_site_dic("path/to/crystal.cif", sites={"Fe": {"type
 
 ### 2. Computing Geometric Descriptors
 ```python
-from materialscoord.geometry import coordinates_to_planes, planes_to_dot_products
+from coord_ml.geometry import coordinates_to_planes, planes_to_dot_products
 
 planes = coordinates_to_planes(site_dic["Fe"]["coordinates"])
 dots = planes_to_dot_products(planes)
@@ -52,30 +56,20 @@ dots = planes_to_dot_products(planes)
 
 ### 3. Classifying Geometry
 ```python
-from materialscoord.ml import CoordinationClassifier
+from coord_ml.ml import CoordinationClassifier
 
 clf = CoordinationClassifier()
-# Train with your data or load a pre-trained model
-# clf.train(X_train, y_labels)
 predictions, probs = clf.predict(new_features)
 ```
 
 ## Project Structure
 
-- `src/materialscoord/`: Main package source code.
-  - `core.py`: Benchmarking and core coordination logic.
-  - `geometry.py`: 3D symmetry and plane calculations.
-  - `ml.py`: Neural network classification models.
-  - `extraction/`: Utilities for external tool integration (softBV).
-- `data/`: Datasets for training and benchmarking.
-- `bin/`: External binaries (softBV).
-- `tests/`: Automated test suite (Pytest).
+- `src/coord_ml/`: Main package source code.
+- `data/training/`: Training datasets for ML models.
+- `notebooks/`: Tutorial and demonstration notebooks.
+- `legacy/`: Original research scripts and directories.
+- `tests/`: Automated unit tests.
 
 ## License
 
-[MIT License](LICENSE)
-
-## Citation
-
-If you use this toolkit in your research, please cite:
-*Dai, R. (2021). Coordination Analysis Toolkit.*
+Refer to individual file headers for original `MaterialsCoord` copyright. New contributions are provided under the MIT License.

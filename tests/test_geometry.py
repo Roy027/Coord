@@ -1,6 +1,6 @@
 import pytest
 import numpy as np
-from materialscoord.geometry import round_decimals_down, coordinates_to_planes, planes_to_dot_products
+from coord_ml.geometry import round_decimals_down, coordinates_to_planes, planes_to_dot_products
 
 def test_round_decimals_down():
     assert round_decimals_down(1.2345, 2) == 1.23
