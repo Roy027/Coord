@@ -74,4 +74,4 @@ print(f"Detected Geometry: {prediction[0]}")
 If you use this toolkit in your research, please link to this GitHub repository.
 
 ---
-*Developed by Roy Dai, Oh CH, and Prof. Stefan Adams. This project is intended for research and educational purposes in the field of computational materials science.*
+*Developed by Roy Dai,CH Oh, and Prof. Stefan Adams. This project is intended for research and educational purposes in the field of computational materials science.*
