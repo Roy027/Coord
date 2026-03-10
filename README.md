@@ -21,6 +21,7 @@ Unlike "black-box" AI models, Coord-ML uses a domain-specific three-stage proces
 This toolkit is built upon several foundational works in the field:
 - **softBV**: Physics-based neighbor extraction utilizes the `softBV` software suite. [http://www.softbv.com/](http://www.softbv.com/)
 - **MaterialsCoord**: Core benchmarking infrastructure is based on the *MaterialsCoord* project (*Waroquiers et al., Inorganic Chemistry, 2021*).
+- **Prof. Stefan Adams**: Special thanks for guidance and support in the development of these methodologies.
 
 ## Installation
 
@@ -68,10 +69,9 @@ prediction, confidence = clf.predict([fingerprint])
 print(f"Detected Geometry: {prediction[0]}")
 ```
 
-## Citation
+## Acknowledging this toolkit
 
-If you use this toolkit in your research, please cite:
-*Dai, R. (2021). Coord-ML: Hybrid Physics-Informed Machine Learning for Crystal Coordination Environments.*
+If you use this toolkit in your research, please link to this GitHub repository.
 
 ---
-*Developed by Roy Dai. This project is intended for research and educational purposes in the field of computational materials science.*
+*Developed by Roy Dai, Oh CH, and Prof. Stefan Adams. This project is intended for research and educational purposes in the field of computational materials science.*
